@@ -1,8 +1,8 @@
 {
-  "greenhouse": ["lyft", "gitlab", "beyondtrust", "coursera", "honeycomb", "locusrobotics", "reddit", "array", "webflow", "dropbox", "remote", "planetlabs", "platformsh", "five9", "magicleap", "block", "flywheeldigital", "datadog", "roblox", "asana", "airbnb", "robinhood", "databricks", "twilio", "mongodb", "twitch"],
-  "lever": ["atlassian", "veeva", "netflix"],
-  "ashby": ["zapier", "chilipiper", "docker", "substack", "oyster", "industrious", "magical", "maintainx", "scalar", "snyk", "percona", "incident", "turbopuffer", "workos"],
+  "greenhouse": ["lyft", "gitlab", "beyondtrust", "coursera", "honeycomb", "locusrobotics", "reddit", "array", "webflow", "dropbox", "remote", "planetlabs", "platformsh", "five9", "magicleap", "block", "flywheeldigital", "datadog", "roblox", "asana", "airbnb", "robinhood", "databricks", "twilio", "mongodb", "twitch", "grafanalabs", "b12", "emarketer", "scout24", "seesaw", "novacredit"],
+  "lever": ["atlassian", "veeva", "netflix", "meetalbert", "beam"],
+  "ashby": ["zapier", "chilipiper", "docker", "substack", "oyster", "industrious", "magical", "maintainx", "scalar", "snyk", "percona", "incident", "turbopuffer", "workos", "coder", "kong", "nylas"],
   "workable": ["grammarly", "suse", "hashicorp", "yelp", "zendesk", "ovhcloud", "akamai", "microsoft", "harness", "box"],
-  "recruitee": [],
+  "recruitee": ["greatminds"],
   "smartrecruiters": ["Proofpoint", "CrowdStrike", "Snowflake", "Wayfair", "Lime", "Gatik", "ServiceNow", "SonyInteractiveEntertainment"]
 }
