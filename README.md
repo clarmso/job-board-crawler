@@ -12,4 +12,7 @@ This repo queries the job boards of selected companies and saves the job posting
 * [SmartRecruiters](https://api.smartrecruiters.com) — JSON API, paginated; job descriptions require per-posting fetch
 
 ## Companies included
+* 1Password
+* BenchSci
+* Certn
 * Mozilla
