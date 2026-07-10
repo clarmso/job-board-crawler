@@ -11,14 +11,6 @@ This repo queries the job boards of selected companies and saves the job posting
 * [Recruitee](https://recruitee.com) — JSON API, includes descriptions by default
 * [SmartRecruiters](https://api.smartrecruiters.com) — JSON API, paginated; job descriptions require per-posting fetch
 
-## Company lists
-
-Companies are tracked in two files:
-- **`canadian-companies.json`** — 148 Canadian companies
-- **`foreign-companies.json`** — 397 non-Canadian companies
-
-Each file maps ATS platform name to a list of company slugs used by that platform's API.
-
 ### Sources
 
 - Hacker News "Who is Hiring?" — [Nov 2025](https://news.ycombinator.com/item?id=45800465), [Dec 2025](https://news.ycombinator.com/item?id=46108941), [Jan 2026](https://news.ycombinator.com/item?id=46466074), [Feb 2026](https://news.ycombinator.com/item?id=46857488), [Mar 2026](https://news.ycombinator.com/item?id=47219668), [Apr 2026](https://news.ycombinator.com/item?id=47601859), [May 2026](https://news.ycombinator.com/item?id=47975571), [Jun 2026](https://news.ycombinator.com/item?id=48357725), [Jul 2026](https://news.ycombinator.com/item?id=48747976)
