@@ -7,7 +7,6 @@ on:
 
 permissions:
   contents: write
-  pull-requests: write
 
 jobs:
   crawl:
@@ -31,14 +30,5 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "🦀 crawl: $(date -u +%Y-%m-%d)"
-            BRANCH_NAME="crawl/$(date -u +%Y-%m-%dT%H%M)"
-            git checkout -b "$BRANCH_NAME"
-            git push origin "$BRANCH_NAME"
-            
-            gh pr create \
-              --title "🦀 crawl: $(date -u +%Y-%m-%d)" \
-              --body "Automated job board crawl" \
-              --base main
+            git push
           fi
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
