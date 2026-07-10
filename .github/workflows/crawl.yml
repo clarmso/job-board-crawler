@@ -31,7 +31,7 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "🦀 crawl: $(date -u +%Y-%m-%d)"
-            BRANCH_NAME="crawl/$(date -u +%Y-%m-%d)"
+            BRANCH_NAME="crawl/$(date -u +%Y-%m-%dT%H%M)"
             git checkout -b "$BRANCH_NAME"
             git push origin "$BRANCH_NAME"
             
