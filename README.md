@@ -22,3 +22,4 @@ This repo queries the job boards of selected companies and saves the job posting
 - [8VC](https://8vc.com/companies) — VC portfolio
 - [Accelerator Centre](https://www.acceleratorcentre.com/our-startups/) — Waterloo Region accelerator
 - [DMZ Ventures](https://dmzventures.com/dmz-portfolio/) — Toronto Metropolitan University accelerator/fund
+- [The Pragmatic Engineer Podcast](https://www.youtube.com/playlist?list=PLzwJJv8h-iciW53inSOkQA4mkG8TuQAUh) — sponsors
