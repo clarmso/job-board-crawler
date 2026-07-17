@@ -4,7 +4,7 @@
   "department": "GTM",
   "team": "BDR",
   "employmentType": "FullTime",
-  "location": "United States | Canada",
+  "location": "Austin, TX",
   "shouldDisplayCompensationOnJobPostings": false,
   "secondaryLocations": [],
   "publishedAt": "2026-06-30T20:02:43.443+00:00",
@@ -12,7 +12,11 @@
   "isRemote": true,
   "workplaceType": "Hybrid",
   "address": {
-    "postalAddress": {}
+    "postalAddress": {
+      "addressRegion": "Texas",
+      "addressCountry": "United States",
+      "addressLocality": "Austin"
+    }
   },
   "jobUrl": "https://jobs.ashbyhq.com/1password/55dedff3-7af8-4fd4-aaf0-79680d77f150",
   "applyUrl": "https://jobs.ashbyhq.com/1password/55dedff3-7af8-4fd4-aaf0-79680d77f150/application",
