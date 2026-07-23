@@ -24,3 +24,4 @@ This repo queries the job boards of selected companies and saves the job posting
 - [Accelerator Centre](https://www.acceleratorcentre.com/our-startups/) — Waterloo Region accelerator
 - [DMZ Ventures](https://dmzventures.com/dmz-portfolio/) — Toronto Metropolitan University accelerator/fund
 - [The Pragmatic Engineer Podcast](https://www.youtube.com/playlist?list=PLzwJJv8h-iciW53inSOkQA4mkG8TuQAUh) — sponsors
+- [Y Combinator Companies API](https://api.ycombinator.com/v0.1/companies) — all Active YC alumni (batches S05–W26), ATS auto-detected via platform APIs
