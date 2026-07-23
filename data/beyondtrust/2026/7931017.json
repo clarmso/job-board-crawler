@@ -1,0 +1,54 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/beyondtrust/jobs/7931017",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3446203,
+  "location": {
+    "name": "Remote Canada | Remote United States"
+  },
+  "metadata": null,
+  "id": 7931017,
+  "updated_at": "2026-07-22T12:59:15-04:00",
+  "requisition_id": "4027",
+  "title": "Staff Software Development Engineer - Windows Endpoint",
+  "company_name": "BeyondTrust",
+  "first_published": "2026-07-21T13:57:39-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;Diversity. Inclusion. They’re more than just words for us. They are the guiding values of how we build our teams, cultivate leaders, and create a culture where people feel connected.&lt;/p&gt;\n&lt;p&gt;We take care of our employees so they can take care of our customers. Customers who come from all walks of life just like us. We hire incredible people from diverse backgrounds because when we are different together, we are stronger together.&lt;/p&gt;\n&lt;p&gt;&lt;u&gt;The Role&lt;/u&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;As Staff Software Development Engineer, you&#39;ll be the Windows kernel authority for the runtime enforcement layer of our Identity Security Platform. These components decide, in-kernel, whether to permit or deny each action an identity or AI agent attempts on a Windows endpoint.&lt;/p&gt;\n&lt;p&gt;You&#39;ll set the technical direction for kernel-mode enforcement on Windows and own it end to end. That means hooks that make the right call in real time, across the fleet, without breaking legitimate workloads. Peer engineers own the macOS and Linux enforcement surfaces. You share one policy language, one event schema, and one userspace agent with them, but Windows kernel-space is yours.&lt;/p&gt;\n&lt;p&gt;You know this layer better than anyone. You want your code to be the thing that stops a compromised credential or a runaway AI coding agent before it impacts production.&lt;/p&gt;\n&lt;p&gt;&lt;u&gt;What You’ll Do&lt;/u&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Design, build, and own our kernel-mode enforcement drivers: file-system, process and thread creation, handle operations, and registry access. You&#39;ll block operations inline in the kernel rather than logging them after the fact, and you&#39;ll build the userspace agent that installs and drives them.&lt;/li&gt;\n&lt;li&gt;Own the kernel/user-mode enforcement boundary: kernel-side event capture, policy evaluation in user mode, and deny decisions pushed back into the driver as hash-keyed caches so subsequent hits block inline.&lt;/li&gt;\n&lt;li&gt;Drive down enforce-mode latency on the operation hot path as we scale across large fleets. That means process enrichment, image-hash caching and eviction under heavy process-churn, and process-ancestry resolution across PPID spoofing.&lt;/li&gt;\n&lt;li&gt;Extend enforcement into containers and isolation: Windows containers and Host Compute Service workloads, silo- and job-object-aware policy, and container identity on kernel events. Most of this is greenfield, and it sits at the center of the role.&lt;/li&gt;\n&lt;li&gt;Harden portability and stability across Windows builds so enforcement loads and behaves correctly on the versions customers actually run. You&#39;ll deal with structure-versioning across Windows releases, PatchGuard constraints, Driver Verifier and HVCI compliance, WHQL attestation signing, and graceful degradation when a capability isn&#39;t available.&lt;/li&gt;\n&lt;li&gt;Partner with the Linux and macOS enforcement engineers and the policy-backend team on the shared plane: policy semantics, cross-stack conformance, event schema, the common Rust agent. You&#39;ll represent Windows in cross-org architecture reviews.&lt;/li&gt;\n&lt;li&gt;Read requirements to find gaps and risks, propose simplifications, and explain tradeoffs to technical and non-technical stakeholders.&lt;/li&gt;\n&lt;li&gt;Raise the engineering bar. You&#39;ll take end-to-end ownership from design through production, and you&#39;ll carry extra weight where a kernel bug means a wrong security decision or a bugcheck across the fleet, not just a crash of one process.&lt;/li&gt;\n&lt;li&gt;Mentor senior and mid-level engineers on Windows systems and kernel-driver craft.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;u&gt;What You’ll Bring&lt;/u&gt;&lt;/p&gt;\n&lt;p&gt;This is a Windows specialist role, so the depth requirements are real:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Deep Windows kernel internals - the I/O manager and IRP flow, the object manager, process and thread structures, memory management, the Windows security model (tokens, SIDs, ACLs) - backed by production kernel-mode driver development in C, C++, or Rust.&lt;/li&gt;\n&lt;li&gt;Hands-on kernel-mode driver work for security enforcement. You&#39;ve shipped a file-system minifilter or comparable callback-based driver, and you can reason about IRQL, synchronization, safe user-buffer access, and reentrancy in the kernel. You know how to keep a driver off the crash path when a dependency misbehaves.&lt;/li&gt;\n&lt;li&gt;Driver signing and deployment reality: WHQL attestation, EV code signing, the WDK and WDF/KMDF, and the operational cost of shipping kernel code to a large install base.&lt;/li&gt;\n&lt;li&gt;The Windows isolation model - job objects, silos, Windows containers, AppContainer - and how it intersects with kernel-level security tooling.&lt;/li&gt;\n&lt;li&gt;Kernel debugging and performance tooling: WinDbg and KD, live-kernel and crash-dump analysis, ETW, Driver Verifier, and the checked-build workflow.&lt;/li&gt;\n&lt;li&gt;8+ years in systems-level software engineering, with real depth in Windows kernel development.&lt;/li&gt;\n&lt;li&gt;Demonstrated AI-first development. We build this platform through agentic tooling. AI-driven design exploration, code generation, adversarial plan review, and automated pre-merge quality gates are how work ships here, not a side experiment. You use Claude Code or a comparable tool as a core part of your daily workflow, and you can speak concretely to how it raises both your velocity and your rigor. That matters most in correctness- and security-critical kernel code, where you have to know exactly when to stop and verify by hand.&lt;/li&gt;\n&lt;li&gt;A working grasp of systems design patterns and their tradeoffs at the kernel/user-mode boundary.&lt;/li&gt;\n&lt;li&gt;Full-lifecycle experience, including product release, in an agile environment.&lt;/li&gt;\n&lt;li&gt;A track record of technical leadership on complex, ambiguous initiatives that span teams.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;u&gt;Who You Are&lt;/u&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;You share successes and failures openly, and you work well with people. You adapt when the situation and the requirements shift. You fix issues before anyone assigns them to you, and you stay persistent through roadblocks, pulling in others when you need to.&lt;/li&gt;\n&lt;li&gt;You hold a high bar and push your teams to ship reliable systems, especially where a kernel bug carries outsized risk. You know systems software best practices, from rigorous testing to sharp peer review to architecture that survives contact with production.&lt;/li&gt;\n&lt;li&gt;You reach for AI tools to move faster and think more clearly, and you keep the judgment to slow down and verify by hand when the code demands it. You weigh speed against risk and decide from data.&lt;/li&gt;\n&lt;li&gt;You feel the weight of enforcement code. You&#39;d rather ship a correct block a day late than a wrong one now, and you choose your failure modes - fail-open or fail-closed - on purpose instead of by accident.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;u&gt;Better Together&lt;/u&gt;&lt;/p&gt;\n&lt;p&gt;Diversity. Inclusion. They’re more than just words for us. They are the guiding values of how we build our teams, cultivate leaders, and create a culture where people feel connected.&lt;/p&gt;\n&lt;p&gt;We take care of our employees so they can take care of our customers. Customers who&amp;nbsp;come from all walks of life just like us. We hire incredible people from diverse backgrounds because when we are different together, we are stronger together.&lt;/p&gt;\n&lt;p&gt;&lt;u&gt;About Us&lt;/u&gt;&lt;/p&gt;\n&lt;p&gt;BeyondTrust is the global identity security leader protecting Paths to Privilege™. Our identity-centric approach goes beyond securing privileges and access, empowering organizations with the most effective solution to manage the entire identity attack surface and neutralize threats, whether from external attacks or insiders.&lt;br&gt;&lt;br&gt;BeyondTrust is leading the charge in transforming identity security to prevent breaches and limit the blast radius of attacks, while creating a superior customer experience and operational efficiencies. We are trusted by 20,000 customers, including 75 of the Fortune 100, and our global ecosystem of partners.&lt;br&gt;&lt;br&gt;Learn more at &lt;a href=&quot;http://www.beyondtrust.com/&quot;&gt;www.beyondtrust.com&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;",
+  "departments": [
+    {
+      "id": 151526,
+      "name": "Engineering ",
+      "child_ids": [],
+      "parent_id": 81781
+    }
+  ],
+  "offices": [
+    {
+      "id": 60490,
+      "name": "Remote Canada",
+      "location": "Toronto, Ontario, Canada",
+      "child_ids": [],
+      "parent_id": 44144
+    },
+    {
+      "id": 60813,
+      "name": "Remote United States",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 44144
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

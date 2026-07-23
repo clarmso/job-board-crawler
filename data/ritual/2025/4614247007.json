@@ -1,0 +1,48 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/ritual/jobs/4614247007",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "education": "education_required",
+  "internal_job_id": 4367757007,
+  "location": {
+    "name": "Remote"
+  },
+  "metadata": null,
+  "id": 4614247007,
+  "updated_at": "2025-01-03T17:03:09-05:00",
+  "requisition_id": "26",
+  "title": "Developer Experience Engineer",
+  "company_name": "Ritual",
+  "first_published": "2025-01-03T17:03:09-05:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;About Ritual&amp;nbsp;&lt;/h3&gt;\n&lt;p&gt;Ritual is building a sovereign, execution layer for AI, with our private testnet already live and running. The Ritual chain is the first blockchain custom-built to support AI-native operations, designed from the ground up to enable a new class of applications at the intersection of crypto and AI. Our first product, Infernet, is pioneering new ground as the first solution to enable developers to access AI models both on-chain via smart contracts and off-chain, demonstrating our commitment to bridging these transformative technologies.&lt;/p&gt;&lt;/div&gt;&lt;h4&gt;About the role&lt;/h4&gt;\n&lt;p&gt;As a Developer Experience Engineer at Ritual, you will architect and build the foundational tools that enable developers to efficiently build on our infrastructure. You&#39;ll create the development frameworks, testing environments, and automation tools that make it seamless for developers to integrate with Ritual&#39;s AI and blockchain capabilities. Your work will directly shape how developers interact with and build on Ritual&#39;s platform.&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Design and implement best-in-class development frameworks that do for AI-enabled chains what Foundry did for the EVM&lt;/li&gt;\n&lt;li&gt;Identify friction points in the developer journey and build solutions to address them&lt;/li&gt;\n&lt;li&gt;Build lightning-fast local development environments that make testing against Ritual as seamless as working with tools like anvil&lt;/li&gt;\n&lt;li&gt;Create elegant CLIs and SDKs that make complex AI and blockchain interactions feel natural&lt;/li&gt;\n&lt;li&gt;Craft developer tooling that makes deploying and testing AI-enabled smart contracts a joy&lt;/li&gt;\n&lt;li&gt;Design and implement powerful debugging and simulation capabilities for AI-blockchain interactions&lt;/li&gt;\n&lt;li&gt;Write clear, engaging documentation and tutorials that get developers from zero to hero&lt;/li&gt;\n&lt;li&gt;Run workshops and hackathons to energize the developer community and gather direct feedback&lt;/li&gt;\n&lt;li&gt;Build and nurture an active open-source community around our development tools&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;About you&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Strong experience with at least one of Rust, TypeScript, or Python&lt;/li&gt;\n&lt;li&gt;Past experience contributing to open-source projects and libraries&lt;/li&gt;\n&lt;li&gt;Proven ability to build developer tools that developers love to use&lt;/li&gt;\n&lt;li&gt;Deep understanding of EVM architecture and smart contract development&lt;/li&gt;\n&lt;li&gt;Experience with modern AI development workflows and MLOps tools across different compute environments&lt;/li&gt;\n&lt;li&gt;Strong knowledge of container technologies and deployment patterns&lt;/li&gt;\n&lt;li&gt;Proven ability to explain complex technical concepts through writing and speaking&lt;/li&gt;\n&lt;li&gt;Ability to act quickly under high pressure scenarios and context switch at a high frequency&lt;/li&gt;\n&lt;li&gt;A high level of end-to-end ownership and self-direction, with excellent communication skills&lt;/li&gt;\n&lt;li&gt;Hungry, high-energy and ability to work within and meet deadlines in a fast-paced environment&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;Nice to have&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Track record of maintaining or significantly contributing to popular blockchain tools (e.g., Foundry, Anvil, wagmi, viem, etc)&lt;/li&gt;\n&lt;li&gt;Experience building compiler toolchains or language infrastructure&lt;/li&gt;\n&lt;li&gt;Background in AI infrastructure and model deployment tooling&lt;/li&gt;\n&lt;li&gt;Experience with build systems and package management&lt;/li&gt;\n&lt;li&gt;Track record of growing developer communities through content and evangelism&lt;/li&gt;\n&lt;li&gt;Deep knowledge of distributed systems and consensus mechanisms&lt;/li&gt;\n&lt;li&gt;Experience designing intuitive APIs and developer interfaces&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;Why join us&amp;nbsp;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Join a passionate group of engineers, researchers, and operators on a mission to build the next generation of AI infrastructure&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Highly competitive compensation package, including annual discretionary bonus &amp;amp; optimized tax structure compared to the vast majority of web3 startups&lt;/li&gt;\n&lt;li&gt;Top 1% of benefits across the web3 startup space&lt;/li&gt;\n&lt;li&gt;100% of premiums covered on highest quality healthcare&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Aggressive company 401k match&lt;/li&gt;\n&lt;li&gt;Fully remote and/or hybrid, up to you!&lt;/li&gt;\n&lt;li&gt;Participate in virtual and in-person events&lt;/li&gt;\n&lt;li&gt;Much much more!&lt;/li&gt;\n&lt;/ul&gt;",
+  "departments": [
+    {
+      "id": 4012826007,
+      "name": "Engineering",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 4011459007,
+      "name": "Remote",
+      "location": "USA",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

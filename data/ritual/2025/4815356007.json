@@ -1,0 +1,55 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/ritual/jobs/4815356007",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "education": "education_required",
+  "internal_job_id": 4468219007,
+  "location": {
+    "name": "Remote"
+  },
+  "metadata": null,
+  "id": 4815356007,
+  "updated_at": "2025-08-06T09:59:50-04:00",
+  "requisition_id": "31",
+  "title": "Validator Engineer",
+  "company_name": "Ritual",
+  "first_published": "2025-08-06T09:59:28-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;About Ritual&amp;nbsp;&lt;/h3&gt;\n&lt;p&gt;Ritual is building a sovereign, execution layer for AI, with our private testnet already live and running. The Ritual chain is the first blockchain custom-built to support AI-native operations, designed from the ground up to enable a new class of applications at the intersection of crypto and AI. Our first product, Infernet, is pioneering new ground as the first solution to enable developers to access AI models both on-chain via smart contracts and off-chain, demonstrating our commitment to bridging these transformative technologies.&lt;/p&gt;&lt;/div&gt;&lt;h4&gt;About the role&lt;/h4&gt;\n&lt;p&gt;As a Validator Engineer, you will own the uptime, performance, and reliability of Ritual’s validators. You’ll be responsible for managing upgrades, snapshots, and sync performance, while also serving as the primary technical point of contact for validator operators — owning deployment tooling, documentation, and support to ensure seamless participation across testnet and mainnet.&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Build and automate bare-metal &amp;amp; cloud deployments for our validators using our existing full-fledged simulation framework&lt;/li&gt;\n&lt;li&gt;Orchestrate client upgrades, parameter changes, and hard-forks with zero downtime across staging and mainnet&lt;/li&gt;\n&lt;li&gt;Profile and patch critical paths for optimal performance of the execution and consensus clients&lt;/li&gt;\n&lt;li&gt;Produce run-books, maintain clear documentation, and actively support validator operators via Discord to keep staking participation healthy&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;About you&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;4+ years operating high-availability distributed systems, including direct experience running PoS validators on EVM-based chains&lt;/li&gt;\n&lt;li&gt;Proficient in Go and Rust, with the ability to read, debug, and extend both Execution Layer (EL) and Consensus Layer (CL) client code&lt;/li&gt;\n&lt;li&gt;Strong grasp of protocol-level concepts such as fork-choice, evidence handling, slashing conditions, and state sync&lt;/li&gt;\n&lt;li&gt;Expertise in Kubernetes/Helm, Terraform, and CI/CD workflows — automating everything from container builds to canary deployments&lt;/li&gt;\n&lt;li&gt;Advanced Linux user with deep networking knowledge and a strong focus on system hardening and security&lt;/li&gt;\n&lt;li&gt;Passionate about observability — logs, metrics, and traces are at the core of every operational decision&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;Nice to have&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Direct experience supporting external validator operators — including writing documentation, maintaining snapshots, and answering integration questions during testnet or mainnet launches&lt;/li&gt;\n&lt;li&gt;Upstream contributions to both execution and consensus clients&lt;/li&gt;\n&lt;li&gt;Experience orchestrating GPU workloads or other compute-intensive pipelines&lt;/li&gt;\n&lt;li&gt;Familiarity with deploying, maintaining, and tuning open-source AI models&lt;/li&gt;\n&lt;li&gt;Experience interfacing with infrastructure partners, custodians, and auditors in high-uptime environment&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;Why join us&amp;nbsp;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Join a passionate group of engineers, researchers, and operators on a mission to build the next generation of AI infrastructure&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Highly competitive compensation package, including annual discretionary bonus &amp;amp; optimized tax structure compared to the vast majority of web3 startups&lt;/li&gt;\n&lt;li&gt;Top 1% of benefits across the web3 startup space&lt;/li&gt;\n&lt;li&gt;100% of premiums covered on highest quality healthcare&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Aggressive company 401k match&lt;/li&gt;\n&lt;li&gt;Fully remote and/or hybrid, up to you!&lt;/li&gt;\n&lt;li&gt;Participate in virtual and in-person events&lt;/li&gt;\n&lt;li&gt;Much much more!&lt;/li&gt;\n&lt;/ul&gt;",
+  "departments": [
+    {
+      "id": 4012826007,
+      "name": "Engineering",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 4028887007,
+      "name": "NY",
+      "location": "New York, New York, United States",
+      "child_ids": [],
+      "parent_id": null
+    },
+    {
+      "id": 4011459007,
+      "name": "Remote",
+      "location": "USA",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

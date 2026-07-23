@@ -1,0 +1,55 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/ritual/jobs/4324604007",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "education": "education_required",
+  "internal_job_id": 4213773007,
+  "location": {
+    "name": "Remote"
+  },
+  "metadata": null,
+  "id": 4324604007,
+  "updated_at": "2024-07-24T16:09:10-04:00",
+  "requisition_id": "18",
+  "title": "Growth Engineer",
+  "company_name": "Ritual",
+  "first_published": "2024-03-25T15:57:42-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;About Ritual&amp;nbsp;&lt;/h3&gt;\n&lt;p&gt;Ritual is building a sovereign, execution layer for AI, with our private testnet already live and running. The Ritual chain is the first blockchain custom-built to support AI-native operations, designed from the ground up to enable a new class of applications at the intersection of crypto and AI. Our first product, Infernet, is pioneering new ground as the first solution to enable developers to access AI models both on-chain via smart contracts and off-chain, demonstrating our commitment to bridging these transformative technologies.&lt;/p&gt;&lt;/div&gt;&lt;h4&gt;About the role&lt;/h4&gt;\n&lt;p&gt;As a Growth Engineer at Ritual, you will spearhead integration of Ritual’s cutting-edge AI infrastructure with partner applications and protocols, expanding the network&#39;s reach and impact. Your efforts will allow technology partners in the web3 space and beyond to take advantage of Ritual’s AI infrastructure stack, in creating novel, first-of-their-kind applications.&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Support the full-scale partner integration lifecycle: including initial scoping, product integration and development, deployment, and maintenance&lt;/li&gt;\n&lt;li&gt;Provide technical support to partners, develop reusable best practices and standards, and work with partners to identify and build new products and usage patterns tailored to their use cases&lt;/li&gt;\n&lt;li&gt;Extend and maintain comprehensive documentation for our integration APIs and SDKs&lt;/li&gt;\n&lt;li&gt;Interface with various technologies, including AI/ML, distributed systems, and blockchain, to deliver robust integration solutions&lt;/li&gt;\n&lt;li&gt;Evaluate and adopt new tooling and technologies to improve any of the functionalities detailed above&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;About you&lt;/h4&gt;\n&lt;p&gt;This role is for you if you have:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Expertise in blockchain engineering, particularly in forward-deployed environments; familiarity with common web3 development libraries and tooling (think, Ethers, Viem, Foundry, etc.) is a strong signal&lt;/li&gt;\n&lt;li&gt;Well-rounded understanding of the web3 landscape; experience interacting with protocols across the stack including in DeFi, different L1/L2 environments, bridges, and more is preferred&lt;/li&gt;\n&lt;li&gt;Strong engineering foundation; fluency in at least one of Python or TypeScript and hands-on experience working with Solidity and EVM smart contract environments as well as Unix familiarity&lt;/li&gt;\n&lt;li&gt;Desire to dive in at the lowest level; experience to know when not to&lt;/li&gt;\n&lt;li&gt;Strong communication and collaboration abilities; emphasis on written communication&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h5&gt;Extras&amp;nbsp;&lt;/h5&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience deploying scalable, secure, high-performance infrastructure and applications on AWS/GCP, especially using infrastructure-as-code tools like Terraform&lt;/li&gt;\n&lt;li&gt;Past experience in contributing to or maintaining open-source projects&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;Why join us&amp;nbsp;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Join a passionate group of engineers, researchers, and operators on a mission to build the next generation of AI infrastructure&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Highly competitive compensation package, including annual discretionary bonus &amp;amp; optimized tax structure compared to the vast majority of web3 startups&lt;/li&gt;\n&lt;li&gt;Top 1% of benefits across the web3 startup space&lt;/li&gt;\n&lt;li&gt;100% of premiums covered on highest quality healthcare&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Aggressive company 401k match&lt;/li&gt;\n&lt;li&gt;Fully remote and/or hybrid, up to you!&lt;/li&gt;\n&lt;li&gt;Participate in virtual and in-person events&lt;/li&gt;\n&lt;li&gt;Much much more!&lt;/li&gt;\n&lt;/ul&gt;",
+  "departments": [
+    {
+      "id": 4012826007,
+      "name": "Engineering",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 4028887007,
+      "name": "NY",
+      "location": "New York, New York, United States",
+      "child_ids": [],
+      "parent_id": null
+    },
+    {
+      "id": 4011459007,
+      "name": "Remote",
+      "location": "USA",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

@@ -1,0 +1,48 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/ritual/jobs/4609616007",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "education": "education_required",
+  "internal_job_id": 4365821007,
+  "location": {
+    "name": "Remote"
+  },
+  "metadata": null,
+  "id": 4609616007,
+  "updated_at": "2025-01-03T17:01:25-05:00",
+  "requisition_id": "22",
+  "title": "Distributed Systems Engineer",
+  "company_name": "Ritual",
+  "first_published": "2025-01-03T17:01:25-05:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;About Ritual&amp;nbsp;&lt;/h3&gt;\n&lt;p&gt;Ritual is building a sovereign, execution layer for AI, with our private testnet already live and running. The Ritual chain is the first blockchain custom-built to support AI-native operations, designed from the ground up to enable a new class of applications at the intersection of crypto and AI. Our first product, Infernet, is pioneering new ground as the first solution to enable developers to access AI models both on-chain via smart contracts and off-chain, demonstrating our commitment to bridging these transformative technologies.&lt;/p&gt;&lt;/div&gt;&lt;h4&gt;About the role&lt;/h4&gt;\n&lt;p&gt;As a Distributed Systems Engineer at Ritual, you&#39;ll be instrumental in building and scaling our heterogeneous blockchain infrastructure. You&#39;ll work on innovative solutions for node specialization, consensus mechanisms, and distributed AI execution while ensuring the reliability and performance of our network.&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Design and implement distributed systems components for Ritual&#39;s heterogeneous compute network&lt;/li&gt;\n&lt;li&gt;Develop and optimize peer-to-peer networking protocols optimized for AI model execution and blockchain consensus&lt;/li&gt;\n&lt;li&gt;Build and maintain infrastructure for node monitoring, metrics collection, and system observability&lt;/li&gt;\n&lt;li&gt;Architect solutions for efficient state management and synchronization across specialized nodes&lt;/li&gt;\n&lt;li&gt;Collaborate with the research team to implement novel distributed systems algorithms&lt;/li&gt;\n&lt;li&gt;Create robust testing frameworks for distributed system components&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;About you&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Deep expertise in Go and/or Rust, with a track record of building production-grade distributed systems&lt;/li&gt;\n&lt;li&gt;Strong understanding of peer-to-peer systems, networking, and messaging protocols&lt;/li&gt;\n&lt;li&gt;Proven experience operating and developing blockchain nodes, with deep knowledge of node architecture and consensus mechanisms&lt;/li&gt;\n&lt;li&gt;Experience optimizing high-throughput systems and implementing performance improvements at scale&lt;/li&gt;\n&lt;li&gt;Advanced Linux expertise, with strong command line proficiency and system administration skills&lt;/li&gt;\n&lt;li&gt;Proficiency with infrastructure orchestration tools like Kubernetes&lt;/li&gt;\n&lt;li&gt;Mastery of monitoring and observability tools such as Grafana and Prometheus&lt;/li&gt;\n&lt;li&gt;Experience designing and implementing fault-tolerant, high-performance distributed applications&lt;/li&gt;\n&lt;li&gt;Strong background in system design, with the ability to make architectural decisions that balance performance, reliability, and scalability&lt;/li&gt;\n&lt;li&gt;Excellent problem-solving skills and ability to debug complex distributed systems issues&lt;/li&gt;\n&lt;li&gt;Ability to act quickly under high pressure scenarios and context switch at a high frequency&lt;/li&gt;\n&lt;li&gt;A high level of end-to-end ownership and self-direction, with excellent communication skills&lt;/li&gt;\n&lt;li&gt;Hungry, high-energy and ability to work within and meet deadlines in a fast-paced environment&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;Nice to have&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Familiarity with AI/ML systems and their distributed computing requirements&lt;/li&gt;\n&lt;li&gt;Knowledge of cryptography and secure systems design&lt;/li&gt;\n&lt;li&gt;Contributions to open-source distributed systems projects&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;Why join us&amp;nbsp;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Join a passionate group of engineers, researchers, and operators on a mission to build the next generation of AI infrastructure&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Highly competitive compensation package, including annual discretionary bonus &amp;amp; optimized tax structure compared to the vast majority of web3 startups&lt;/li&gt;\n&lt;li&gt;Top 1% of benefits across the web3 startup space&lt;/li&gt;\n&lt;li&gt;100% of premiums covered on highest quality healthcare&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Aggressive company 401k match&lt;/li&gt;\n&lt;li&gt;Fully remote and/or hybrid, up to you!&lt;/li&gt;\n&lt;li&gt;Participate in virtual and in-person events&lt;/li&gt;\n&lt;li&gt;Much much more!&lt;/li&gt;\n&lt;/ul&gt;",
+  "departments": [
+    {
+      "id": 4012826007,
+      "name": "Engineering",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 4011459007,
+      "name": "Remote",
+      "location": "USA",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

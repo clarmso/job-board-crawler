@@ -1,0 +1,39 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/brave/jobs/1287724",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 841283,
+  "location": {
+    "name": "Anywhere"
+  },
+  "metadata": null,
+  "id": 1287724,
+  "updated_at": "2026-07-22T17:43:25-04:00",
+  "requisition_id": null,
+  "title": "Senior DevOps Engineer (browser CI/CD + AWS)",
+  "company_name": "Brave",
+  "first_published": "2020-06-17T17:56:12-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;h3 style=&quot;line-height: 1.4;&quot;&gt;&lt;strong&gt;Senior&amp;nbsp;&lt;/strong&gt;&lt;strong&gt;DevOps Engineer - browser CI/CD + AWS&lt;/strong&gt;&lt;/h3&gt;\n&lt;h4 style=&quot;line-height: 1.4;&quot;&gt;&lt;strong&gt;Remote - Anywhere (American timezones preferred)&lt;/strong&gt;&lt;/h4&gt;\n&lt;h4 style=&quot;line-height: 1.4;&quot;&gt;&lt;strong&gt;About Brave&lt;/strong&gt;&lt;/h4&gt;\n&lt;p style=&quot;line-height: 1.4;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Brave is on a mission to protect the human right to privacy online. We’ve built a free web browser that blocks creepy ads and trackers by default, a private search engine with a &lt;/span&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;truly&lt;/span&gt;&lt;/em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; independent index, a browser-native crypto wallet, and a private ad network (opt-in!) that directly rewards you for your attention. And we’re just getting started. Already over 121 million people have switched to Brave for a faster, more private web. Millions more switch every year.&lt;/span&gt;&lt;/p&gt;\n&lt;p style=&quot;line-height: 1.4;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The internet is a sea of ads, hackers, and echo chambers. Big Tech makes huge profits off our data, and tells us what’s true and what’s not. Brave is fighting back. Join us!&lt;/span&gt;&lt;/p&gt;\n&lt;h4 style=&quot;line-height: 1.4;&quot;&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/h4&gt;\n&lt;p style=&quot;line-height: 1.4;&quot;&gt;As a colleague (in a team of 8 seniors, each with 15-20+ years of experience) your work will be around reducing toil and building and supporting the automation and processes that enable us to reach 200 million users.&lt;/p&gt;\n&lt;p style=&quot;line-height: 1.4;&quot;&gt;We have hundreds of builds running every day for over 1000 GitHub repositories (many open source) with languages like C++, Rust, Go, Python, JavaScript, Ruby, Kotlin, Bash/Shell, HCL and many more.&lt;/p&gt;\n&lt;p style=&quot;line-height: 1.4;&quot;&gt;We ship fast and on multiple desktop and mobile platforms, architectures and distribution channels. Multiple CI systems and acceleration/optimization techniques are used to build the right thing and the thing right.&lt;/p&gt;\n&lt;p style=&quot;line-height: 1.4;&quot;&gt;Our processes are light and we have no mandatory weekly meetings, 0 on-call, no need to be in an office (unless you really want to) and no strict core hours. Work is autonomous (collaborative at times), asynchronous, flexible.&lt;/p&gt;\n&lt;p style=&quot;line-height: 1.4;&quot;&gt;&lt;strong&gt;Requirements&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;10+ years of experience&lt;/li&gt;\n&lt;li&gt;product engineer and continuous improvement mindset, owning and driving work end-to-end and interfacing directly with other teams&lt;/li&gt;\n&lt;li&gt;AWS + Terraform&lt;/li&gt;\n&lt;li&gt;automation and CI (ideally for mobile or desktop apps)&lt;/li&gt;\n&lt;li&gt;responsible AI usage and able to use and review generated code&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;build and release engineering, testing and reporting tools, code signing, app stores and distribution, packaging&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;extended and diverse operating system experience (Android, iOS, Linux, macOS, Windows)&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;Bash/Shell, Python, Kotlin, Groovy&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;privacy and security&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;lead on best practices, PoCs and code for various initiatives which can include features in our browser, search engine or premium products (if interested)&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4 style=&quot;line-height: 1.4;&quot;&gt;&lt;strong&gt;Nice to haves&lt;/strong&gt;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;TeamCity (Kotlin DSL), Jenkins (Jenkins Job Builder)&lt;/li&gt;\n&lt;li&gt;browser or Chromium knowledge&lt;/li&gt;\n&lt;li&gt;gn, ninja, siso, reclient, Remote Execution API, EngFlow, ccache/sccache, custom builds systems&lt;/li&gt;\n&lt;li&gt;Gerrit&lt;/li&gt;\n&lt;li&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;automated testing at scale&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;performance testing and tuning&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;\n&lt;div&gt;\n&lt;div&gt;security and quality scanning, SAST/DAST&lt;/div&gt;\n&lt;/div&gt;\n&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4 style=&quot;line-height: 1.4;&quot;&gt;&lt;strong&gt;Working at Brave&lt;/strong&gt;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Industry-leader in privacy, with a research and engineering team that’s innovating everyday to keep people safer online and beat Big Tech&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Highly competitive salaries &amp;amp; benefits, and generous home-office stipends&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Fully remote team, though we have offices and gatherings in a few locations around the world&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Welcoming, humble, ridiculously smart teammates, and a truly flat org structure&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Opportunity to get in early at a hyper-growth company, and revolutionize the web&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Oh, and did we mention Brendan, our CEO &amp;amp; co-founder, &lt;/span&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;invented&lt;/span&gt;&lt;/em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; JavaScript?&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p style=&quot;line-height: 1.4;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Fully remote or hybrid position. No visa sponsorship provided.&lt;/span&gt;&lt;/p&gt;\n&lt;h4 style=&quot;line-height: 1.4;&quot;&gt;&lt;strong&gt;&lt;br&gt;Check us out&lt;/strong&gt;&lt;/h4&gt;\n&lt;p style=&quot;line-height: 1.4;&quot;&gt;&lt;a href=&quot;https://brave.com/&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;brave.com&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;",
+  "departments": [
+    {
+      "id": 38565,
+      "name": "Engineering",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "offices": [],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": "http://app.greenhouse.io/ai_opt_out_request/job_post/1287724/ai_opt_out"
+}

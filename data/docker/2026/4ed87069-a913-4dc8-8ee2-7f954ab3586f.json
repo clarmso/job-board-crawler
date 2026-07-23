@@ -1,0 +1,79 @@
+{
+  "id": "4ed87069-a913-4dc8-8ee2-7f954ab3586f",
+  "title": "Senior Supply Chain Security Engineer",
+  "department": "Engineering",
+  "team": "ENG-SCS",
+  "employmentType": "FullTime",
+  "location": "Canada",
+  "shouldDisplayCompensationOnJobPostings": false,
+  "secondaryLocations": [
+    {
+      "location": "England",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "",
+          "addressCountry": "United Kingdom"
+        }
+      }
+    },
+    {
+      "location": "Portugal",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "Portugal"
+        }
+      }
+    },
+    {
+      "location": "Spain",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "Spain"
+        }
+      }
+    },
+    {
+      "location": "Italy",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "Italy"
+        }
+      }
+    },
+    {
+      "location": "Germany",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "Germany"
+        }
+      }
+    },
+    {
+      "location": "United States",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "United States"
+        }
+      }
+    }
+  ],
+  "publishedAt": "2026-05-12T19:14:31.647+00:00",
+  "isListed": true,
+  "isRemote": true,
+  "workplaceType": "Remote",
+  "address": {
+    "postalAddress": {
+      "addressCountry": "Canada"
+    }
+  },
+  "jobUrl": "https://jobs.ashbyhq.com/docker/4ed87069-a913-4dc8-8ee2-7f954ab3586f",
+  "applyUrl": "https://jobs.ashbyhq.com/docker/4ed87069-a913-4dc8-8ee2-7f954ab3586f/application",
+  "descriptionHtml": "<p style=\"min-height:1.5em\">Docker has been one of the most loved brands in developer tooling, trusted by more than 20 million monthly users and over 20 billion container image pulls. From solo founders to the world's largest companies, developers rely on Docker to build, share, and run their applications across our suite of products including Docker Desktop, Docker Hub, and Docker Scout.<br /><br />We are a globally distributed, remote-first team building the tools that define how software gets built and delivered. As AI agents redefine software development, Docker is at the center of that shift, providing the sandboxed environments, verified images, and secure infrastructure that make autonomous workflows trustworthy by default.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">Docker Hardened Images (DHI) is Docker's catalogue of security-hardened, enterprise-grade container images and Helm charts - built to be minimal, up-to-date, and safe to deploy in regulated and security-conscious environments. We're looking for someone to join the team that makes this possible.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">This is not a traditional software engineering role. You'll spend most of your time working with YAML definition files, upstream OSS projects, and the container and Kubernetes ecosystems - packaging and adapting software rather than building it from scratch. If you've ever maintained packages for a Linux distribution, contributed to a Helm chart upstream, or worked as a platform/infrastructure engineer with a strong security lean, this will feel familiar.</p><p style=\"min-height:1.5em\"></p><h1>Responsibilities </h1><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Authoring and maintaining image definition files that track upstream OSS project releases, define build steps, and keep our catalogue current across dozens of images</p></li><li><p style=\"min-height:1.5em\">Adapting upstream Helm charts (cert-manager, grafana, mongodb, kyverno, and many more) to work with DHI images - handling security constraints, non-root contexts, and Kubernetes compatibility concerns</p></li><li><p style=\"min-height:1.5em\">Tracking upstream version releases and semver patterns across monorepos and standard repos, handling major version breaks and dependency chains</p></li><li><p style=\"min-height:1.5em\">Writing Go-based integration tests that validate images and charts behave correctly in real Kubernetes environments</p></li><li><p style=\"min-height:1.5em\">Triaging CVEs and contributing to security hardening decisions across images</p></li><li><p style=\"min-height:1.5em\">Reviewing peers' definitions and chart PRs against established conventions and catching subtle issues before they reach customers</p></li><li><p style=\"min-height:1.5em\">This role may require participation in an on-call rotation to provide support outside of standard business hours, including evenings, weekends, and holidays, as needed.</p></li></ul><p style=\"min-height:1.5em\"></p><h1>Qualifications</h1><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">6+ years of backend engineering experience with production-grade systems</p></li><li><p style=\"min-height:1.5em\">Bachelor’s degree in Computer Science, Engineering, or a related field, or equivalent practical experience</p></li><li><p style=\"min-height:1.5em\">Strong familiarity with the container and Kubernetes ecosystem - you know what cert-manager, kyverno, grafana, and istio are, you've deployed them, and you can read upstream Helm chart source without getting lost</p></li><li><p style=\"min-height:1.5em\">Comfort with YAML as a primary working medium - you think carefully about structure, conventions, and patterns</p></li><li><p style=\"min-height:1.5em\">Understanding of container security basics - non-root users, UID/GID, image layers, multi-arch builds, supply chain concepts</p></li><li><p style=\"min-height:1.5em\">Some Go ability - enough to read and write test code, not to build distributed systems</p></li><li><p style=\"min-height:1.5em\">A maintainer mindset - you take pride in consistency, catch drift from patterns, and think about how your change affects others downstream</p></li><li><p style=\"min-height:1.5em\">Familiarity with GitHub-heavy open source workflows - PRs, upstream tracking, monorepo conventions</p></li></ul><h2>Bonus</h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Experience as a package maintainer (any Linux distribution, Homebrew, etc.)</p></li><li><p style=\"min-height:1.5em\">Helm chart authorship or contribution experience</p></li><li><p style=\"min-height:1.5em\">Familiarity with supply chain tooling (Sigstore, SBOM, SLSA)</p></li><li><p style=\"min-height:1.5em\">Experience in a regulated or security-conscious environment</p></li></ul><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>Docker considers visa sponsorship on a case-by-case basis based on business needs.</strong></p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">Canada Salary Range CA$210,627 – CA$341,690 • Offers Equity</p><p style=\"min-height:1.5em\">US Salary Range $154,600 – $250,800 • Offers Equity</p><p style=\"min-height:1.5em\">EU Salary Range €83,900 – €139,700 • Offers Equity</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>Perks</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Freedom &amp; flexibility; fit your work around your life</p></li><li><p style=\"min-height:1.5em\">Designated quarterly Whaleness Days plus end of year Whaleness break</p></li><li><p style=\"min-height:1.5em\">Home office setup; we want you comfortable while you work</p></li><li><p style=\"min-height:1.5em\">16 weeks of paid Parental leave (after 6 months of employment)</p></li><li><p style=\"min-height:1.5em\">Technology stipend equivalent to $100 USD net/month</p></li><li><p style=\"min-height:1.5em\">PTO plan that encourages you to take time to do the things you enjoy</p></li><li><p style=\"min-height:1.5em\">Training stipend for conferences, courses and classes</p></li><li><p style=\"min-height:1.5em\">Equity; we are a growing start-up and want all employees to have a share in the success of the company</p></li><li><p style=\"min-height:1.5em\">Docker Swag</p></li><li><p style=\"min-height:1.5em\">Medical benefits, retirement and holidays vary by country</p></li><li><p style=\"min-height:1.5em\">Remote-first culture, with offices in Seattle and Paris</p></li></ul><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">Docker embraces diversity and equal opportunity. We are committed to building a team that represents a variety of backgrounds, perspectives, and skills. The more inclusive we are, the better our company will be.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">#LI-REMOTE</p>",
+  "descriptionPlain": "Docker has been one of the most loved brands in developer tooling, trusted by more than 20 million monthly users and over 20 billion container image pulls. From solo founders to the world's largest companies, developers rely on Docker to build, share, and run their applications across our suite of products including Docker Desktop, Docker Hub, and Docker Scout.\n\nWe are a globally distributed, remote-first team building the tools that define how software gets built and delivered. As AI agents redefine software development, Docker is at the center of that shift, providing the sandboxed environments, verified images, and secure infrastructure that make autonomous workflows trustworthy by default.\n\n\n\nDocker Hardened Images (DHI) is Docker's catalogue of security-hardened, enterprise-grade container images and Helm charts - built to be minimal, up-to-date, and safe to deploy in regulated and security-conscious environments. We're looking for someone to join the team that makes this possible.\n\n\n\nThis is not a traditional software engineering role. You'll spend most of your time working with YAML definition files, upstream OSS projects, and the container and Kubernetes ecosystems - packaging and adapting software rather than building it from scratch. If you've ever maintained packages for a Linux distribution, contributed to a Helm chart upstream, or worked as a platform/infrastructure engineer with a strong security lean, this will feel familiar.\n\n\n\n\nRESPONSIBILITIES\n\n - Authoring and maintaining image definition files that track upstream OSS project releases, define build steps, and keep our catalogue current across dozens of images\n\n - Adapting upstream Helm charts (cert-manager, grafana, mongodb, kyverno, and many more) to work with DHI images - handling security constraints, non-root contexts, and Kubernetes compatibility concerns\n\n - Tracking upstream version releases and semver patterns across monorepos and standard repos, handling major version breaks and dependency chains\n\n - Writing Go-based integration tests that validate images and charts behave correctly in real Kubernetes environments\n\n - Triaging CVEs and contributing to security hardening decisions across images\n\n - Reviewing peers' definitions and chart PRs against established conventions and catching subtle issues before they reach customers\n\n - This role may require participation in an on-call rotation to provide support outside of standard business hours, including evenings, weekends, and holidays, as needed.\n\n\n\n\nQUALIFICATIONS\n\n - 6+ years of backend engineering experience with production-grade systems\n\n - Bachelor’s degree in Computer Science, Engineering, or a related field, or equivalent practical experience\n\n - Strong familiarity with the container and Kubernetes ecosystem - you know what cert-manager, kyverno, grafana, and istio are, you've deployed them, and you can read upstream Helm chart source without getting lost\n\n - Comfort with YAML as a primary working medium - you think carefully about structure, conventions, and patterns\n\n - Understanding of container security basics - non-root users, UID/GID, image layers, multi-arch builds, supply chain concepts\n\n - Some Go ability - enough to read and write test code, not to build distributed systems\n\n - A maintainer mindset - you take pride in consistency, catch drift from patterns, and think about how your change affects others downstream\n\n - Familiarity with GitHub-heavy open source workflows - PRs, upstream tracking, monorepo conventions\n\n\nBONUS\n\n - Experience as a package maintainer (any Linux distribution, Homebrew, etc.)\n\n - Helm chart authorship or contribution experience\n\n - Familiarity with supply chain tooling (Sigstore, SBOM, SLSA)\n\n - Experience in a regulated or security-conscious environment\n\n\n\nDocker considers visa sponsorship on a case-by-case basis based on business needs.\n\n\n\nCanada Salary Range CA$210,627 – CA$341,690 • Offers Equity\n\nUS Salary Range $154,600 – $250,800 • Offers Equity\n\nEU Salary Range €83,900 – €139,700 • Offers Equity\n\n\n\n\n\nPerks\n\n - Freedom & flexibility; fit your work around your life\n\n - Designated quarterly Whaleness Days plus end of year Whaleness break\n\n - Home office setup; we want you comfortable while you work\n\n - 16 weeks of paid Parental leave (after 6 months of employment)\n\n - Technology stipend equivalent to $100 USD net/month\n\n - PTO plan that encourages you to take time to do the things you enjoy\n\n - Training stipend for conferences, courses and classes\n\n - Equity; we are a growing start-up and want all employees to have a share in the success of the company\n\n - Docker Swag\n\n - Medical benefits, retirement and holidays vary by country\n\n - Remote-first culture, with offices in Seattle and Paris\n\n\n\nDocker embraces diversity and equal opportunity. We are committed to building a team that represents a variety of backgrounds, perspectives, and skills. The more inclusive we are, the better our company will be.\n\n\n\n#LI-REMOTE",
+  "compensation": {
+    "compensationTierSummary": null,
+    "scrapeableCompensationSalarySummary": null,
+    "compensationTiers": [],
+    "summaryComponents": []
+  }
+}

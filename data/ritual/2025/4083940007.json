@@ -1,0 +1,55 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/ritual/jobs/4083940007",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "education": "education_required",
+  "internal_job_id": 4060268007,
+  "location": {
+    "name": "Remote"
+  },
+  "metadata": null,
+  "id": 4083940007,
+  "updated_at": "2025-01-03T17:04:52-05:00",
+  "requisition_id": "12",
+  "title": "Frontend Engineer",
+  "company_name": "Ritual",
+  "first_published": "2023-11-07T09:08:25-05:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;About Ritual&amp;nbsp;&lt;/h3&gt;\n&lt;p&gt;Ritual is building a sovereign, execution layer for AI, with our private testnet already live and running. The Ritual chain is the first blockchain custom-built to support AI-native operations, designed from the ground up to enable a new class of applications at the intersection of crypto and AI. Our first product, Infernet, is pioneering new ground as the first solution to enable developers to access AI models both on-chain via smart contracts and off-chain, demonstrating our commitment to bridging these transformative technologies.&lt;/p&gt;&lt;/div&gt;&lt;h4&gt;About the role&lt;/h4&gt;\n&lt;p&gt;As a Frontend Engineer at Ritual, you&#39;ll build sophisticated interfaces that enable developers to interact with our AI and blockchain infrastructure, as well as rapidly build prototypes built on top of Ritual Chain. You&#39;ll create intuitive dashboards and monitoring tools that make complex distributed systems accessible and manageable, from tracking cross-chain transactions to monitoring AI compute nodes, and much more.&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Design and implement transaction monitoring interfaces that visualize the complete lifecycle across Ritual&#39;s infrastructure, including broker status, node operations, and cross-chain interactions&lt;/li&gt;\n&lt;li&gt;Build and maintain dashboard interfaces for things like node deployment, monitoring, and management across cloud providers&lt;/li&gt;\n&lt;li&gt;Develop web applications that enable users to provision and manage customized node infrastructure through intuitive interfaces&lt;/li&gt;\n&lt;li&gt;Create responsive dashboards for real-time monitoring of distributed compute resources and container management&lt;/li&gt;\n&lt;li&gt;Design and implement DeFi-style interfaces for protocol interactions, similar to DEX and vault management experiences&lt;/li&gt;\n&lt;li&gt;Work closely with product, design, and backend teams to create seamless user experiences&lt;/li&gt;\n&lt;li&gt;Participate in code reviews and provide constructive feedback to team members&lt;/li&gt;\n&lt;li&gt;Writing efficient, high-quality code that maintains our high standards for user experience&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;About you&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Robust fundamental understanding of HTML/CSS, TypeScript, and React&lt;/li&gt;\n&lt;li&gt;Strong experience productionizing user interfaces for decentralized applications that interact directly with various EVM-based blockchains&lt;/li&gt;\n&lt;li&gt;Strong experience with popular Web3 wallet integration libraries (wagmi, ethers, etc.) and blockchain interaction patterns&lt;/li&gt;\n&lt;li&gt;Proven full-stack experience, with the ability to diagnose and resolve end-to-end issues independently from frontend to backend, including familiarity with API design and server-side architectures&lt;/li&gt;\n&lt;li&gt;Proficiency with Linux and command-line environments for development and debugging&lt;/li&gt;\n&lt;li&gt;Experience building responsive monitoring dashboards and data visualization interfaces&lt;/li&gt;\n&lt;li&gt;Expertise in state management patterns and real-time data handling&lt;/li&gt;\n&lt;li&gt;Strong understanding of cross-chain transaction flows and blockchain infrastructure&lt;/li&gt;\n&lt;li&gt;Experience with modern frontend build tools and deployment pipelines&lt;/li&gt;\n&lt;li&gt;Ability to act quickly under high pressure scenarios and context switch at a high frequency&lt;/li&gt;\n&lt;li&gt;A high level of end-to-end ownership and self-direction, with excellent communication skills&lt;/li&gt;\n&lt;li&gt;Hungry, high-energy and ability to work within and meet deadlines in a fast-paced environment&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;Nice to have&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Proven track record developing multi-platform applications (web, desktop, mobile)&lt;/li&gt;\n&lt;li&gt;Experience building interfaces for distributed systems or node management&lt;/li&gt;\n&lt;li&gt;Background with AI/ML infrastructure monitoring and management&lt;/li&gt;\n&lt;li&gt;Familiarity with container orchestration and cloud provider interfaces&lt;/li&gt;\n&lt;li&gt;Experience with Electron or similar desktop application frameworks&lt;/li&gt;\n&lt;li&gt;Knowledge of GraphQL and real-time data subscriptions&lt;/li&gt;\n&lt;li&gt;Contributions to open-source projects in the web3 space&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;Why join us&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Join a passionate group of engineers, researchers, and operators on a mission to build the next generation of AI infrastructure&lt;/li&gt;\n&lt;li&gt;Highly competitive compensation package, including annual discretionary bonus &amp;amp; optimized tax structure compared to the vast majority of web3 startups&lt;/li&gt;\n&lt;li&gt;Top 1% of benefits across the web3 startup space&lt;/li&gt;\n&lt;li&gt;100% of premiums covered on highest quality healthcare&lt;/li&gt;\n&lt;li&gt;Aggressive company 401k match&lt;/li&gt;\n&lt;li&gt;Fully remote and/or hybrid, up to you!&lt;/li&gt;\n&lt;li&gt;Participate in virtual and in-person events&lt;/li&gt;\n&lt;li&gt;Much much more!&lt;/li&gt;\n&lt;/ul&gt;",
+  "departments": [
+    {
+      "id": 4012826007,
+      "name": "Engineering",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 4028887007,
+      "name": "NY",
+      "location": "New York, New York, United States",
+      "child_ids": [],
+      "parent_id": null
+    },
+    {
+      "id": 4011459007,
+      "name": "Remote",
+      "location": "USA",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

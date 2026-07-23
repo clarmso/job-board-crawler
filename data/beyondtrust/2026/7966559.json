@@ -1,0 +1,47 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/beyondtrust/jobs/7966559",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3458395,
+  "location": {
+    "name": "Remote Canada | Remote United States "
+  },
+  "metadata": null,
+  "id": 7966559,
+  "updated_at": "2026-07-23T11:36:48-04:00",
+  "requisition_id": "4042",
+  "title": "Product Security Architect",
+  "company_name": "BeyondTrust",
+  "first_published": "2026-06-01T16:27:22-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;BeyondTrust is a place where you can bring your purpose to life through the work that you do, creating a safer world through our cybersecurity SaaS portfolio.&lt;/p&gt;\n&lt;p&gt;Our culture of flexibility, trust, and continual learning means you will be recognized for your growth, and for the impact you make on our success. You will be surrounded by people who challenge, support, and inspire you to be the best version of yourself.&lt;/p&gt;\n&lt;p&gt;&lt;u&gt;The Role&lt;/u&gt;&lt;/p&gt;\n&lt;p&gt;We&#39;re hiring a Product Security Architect to join a team that operates AI-first. We don&#39;t mean we&#39;re planning to adopt AI or &quot;exploring&quot; it; we mean Claude and LLM-driven workflows are how we do threat modeling, secure design reviews, vulnerability analysis, and developer enablement today. This role is for someone who can walk in and operate at that level from day one, then help us push further.&lt;/p&gt;\n&lt;p&gt;You&#39;ll work across BeyondTrust&#39;s product suite, including endpoint agents, thick clients, SaaS platforms, APIs, identity systems, and cloud-native services, partnering directly with engineering, architecture, and product management to find and eliminate architectural risk before it ships.&lt;/p&gt;\n&lt;p&gt;&lt;u&gt;What You’ll Do&lt;/u&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Threat Modeling &amp;amp; Attack Surface Reduction&lt;/strong&gt; Lead threat modeling, attack surface analysis, and secure design reviews across products, platform services, endpoint agents, and cloud-native systems. The goal isn&#39;t producing threat model documents but recommending architectural decisions that eliminate unnecessary exposure and working with engineering to change them.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;AI-Native Security Engineering&lt;/strong&gt; Use LLM platforms (Claude, OpenAI) as core tools to scale threat analysis, abuse-case generation, architecture review, and remediation guidance. Build and refine prompts, plugins, skills, and agent workflows that make the team faster and more consistent. You&#39;ll be extending an existing AI-first practice, not building one from scratch.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Engineering Partnership&lt;/strong&gt; Work directly with engineering teams to embed secure-by-default patterns into product development. This means being present in design reviews, proposing concrete alternatives when you identify risk, and building self-service security capabilities (playbooks, reusable patterns, automated workflows) that let engineers make secure decisions without waiting on us.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Standards &amp;amp; Knowledge&lt;/strong&gt; Own and expand the Product Security handbook that inferences product context from multiple sources and leverage it for enforcing secure design standards, architecture guidance, and engineering best practices. The handbook is a living system that feeds our AI workflows, not a static wiki nobody reads.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Mentorship&lt;/strong&gt; Mentor Product Security Engineers and Security Champions on secure design, attack surface reduction, and AI-first security workflows. Help engineers across the org develop a security-focused mindset, not just follow checklists.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Strategy&lt;/strong&gt; Help evolve BeyondTrust&#39;s AI-first Product Security Architecture strategy by identifying where AI workflows can replace manual processes, where they need human oversight, and where the next capability gaps are.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;u&gt;What You’ll Bring&lt;/u&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;7+ years in Product Security, Application Security, Security Architecture, or Software Security Engineering&lt;/li&gt;\n&lt;li&gt;Deep, practical experience with threat modeling, attack surface analysis, secure design reviews, and architecture risk analysis at scale, not just in theory&lt;/li&gt;\n&lt;li&gt;Strong understanding of cloud-native systems, APIs, endpoint agents, thick clients, and identity/security platforms&lt;/li&gt;\n&lt;li&gt;Hands-on experience using LLM platforms (Claude, OpenAI, or similar) in engineering or security workflows. We&#39;ll ask you how you&#39;ve used them and what you&#39;ve learned about where they work and where they don&#39;t&lt;/li&gt;\n&lt;li&gt;Ability to influence engineering and product teams. You should not have a mindset to block releases but to be persuasive, credible, and practical&lt;/li&gt;\n&lt;li&gt;Builder mindset, you&#39;ve created scalable security workflows, frameworks, or enablement programs, not just consumed them&lt;/li&gt;\n&lt;li&gt;Experience building AI-native security workflows, plugins, agents, or developer tooling&lt;/li&gt;\n&lt;li&gt;Background in securing endpoint technologies, identity systems, or enterprise security platforms&lt;/li&gt;\n&lt;li&gt;Offensive security experience or adversarial testing background, understanding how attackers think sharpens everything else&lt;/li&gt;\n&lt;li&gt;Cloud security experience across AWS, Azure, or Kubernetes environments&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;u&gt;How We&#39;ll Measure Success&lt;/u&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Measurable reduction in product attack surface and recurring architecture risks and not findings produced, but risk eliminated.&lt;/li&gt;\n&lt;li&gt;Increased scale and consistency of secure design reviews through AI-first workflows&lt;/li&gt;\n&lt;li&gt;Faster identification and remediation of design-level and architecture-level risks&lt;/li&gt;\n&lt;li&gt;Engineering teams actively using self-service security capabilities you&#39;ve built&lt;/li&gt;\n&lt;li&gt;Expansion of AI-first Product Security Architecture capabilities across the SDLC&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;u&gt;Better Together&lt;/u&gt;&lt;/p&gt;\n&lt;p&gt;Diversity. Inclusion. They’re more than just words for us. They are the guiding values of how we build our teams, cultivate leaders, and create a culture where people feel connected.&lt;/p&gt;\n&lt;p&gt;We take care of our employees so they can take care of our customers. Customers who&amp;nbsp;come from all walks of life just like us. We hire incredible people from diverse backgrounds because when we are different together, we are stronger together.&lt;/p&gt;\n&lt;p&gt;&lt;u&gt;About Us&lt;/u&gt;&lt;/p&gt;\n&lt;p&gt;BeyondTrust is the global identity security leader protecting Paths to Privilege™. Our identity-centric approach goes beyond securing privileges and access, empowering organizations with the most effective solution to manage the entire identity attack surface and neutralize threats, whether from external attacks or insiders.&lt;/p&gt;\n&lt;p&gt;BeyondTrust is leading the charge in transforming identity security to prevent breaches and limit the blast radius of attacks, while creating a superior customer experience and operational efficiencies. We are trusted by 20,000 customers, including 75 of the Fortune 100, and our global ecosystem of partners.&lt;/p&gt;\n&lt;p&gt;Learn more at &lt;a href=&quot;http://www.beyondtrust.com/&quot;&gt;www.beyondtrust.com&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;#LI-BS1&lt;/p&gt;",
+  "departments": [
+    {
+      "id": 336511,
+      "name": "Product Security",
+      "child_ids": [],
+      "parent_id": 211212
+    }
+  ],
+  "offices": [
+    {
+      "id": 60813,
+      "name": "Remote United States",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 44144
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

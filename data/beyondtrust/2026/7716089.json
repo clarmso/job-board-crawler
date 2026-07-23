@@ -1,0 +1,47 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/beyondtrust/jobs/7716089",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 3389121,
+  "location": {
+    "name": "Johns Creek, GA"
+  },
+  "metadata": null,
+  "id": 7716089,
+  "updated_at": "2026-07-22T12:59:15-04:00",
+  "requisition_id": "3947",
+  "title": "Sr Data Engineer",
+  "company_name": "BeyondTrust",
+  "first_published": "2026-06-01T11:47:42-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;&lt;strong&gt;&lt;u&gt;Company&lt;/u&gt;&lt;/strong&gt;: &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; BeyondTrust Corporation&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;u&gt;Location&lt;/u&gt;&lt;/strong&gt;:&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Johns Creek, GA&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;u&gt;Position Title&lt;/u&gt;&lt;/strong&gt;:&amp;nbsp;&amp;nbsp;&amp;nbsp; Senior Data Engineer (Req # 3389121)&lt;/p&gt;\n&lt;p&gt;&lt;u&gt;Job Description&lt;/u&gt;&lt;/p&gt;\n&lt;p&gt;Data Engineers at BeyondTrust are the backbone of the company’s core data infrastructure that powers all analytics products running on our SaaS platform. Leverage AWS expertise to manage a wide array of cloud compute services like AWS Lambda as well as managing database solutions like AWS DynamoDB and AWS Neptune in order to compute results quickly. Extensive Datadog and AWS Cloudwatch monitoring to ensure that all aspects of infrastructure stays running as expected and niche data governance methods are applied to ensure that data outcomes remain consistent. Perform data modelling and database structuring. Create highly scalable and efficient ETL pipelines to populate our advanced data lake. Position is a fixed location based in Johns Creek office; however, telecommuting from a home office may also be allowed.&lt;/p&gt;\n&lt;p&gt;&lt;u&gt;Job Requirements&lt;/u&gt;&lt;/p&gt;\n&lt;p&gt;Requires a Master’s degree (or foreign equivalent) in Information Systems or a directly related field plus four (4) years of experience in a Data Engineering role. Experience must include:&lt;/p&gt;\n&lt;p&gt;Four (4) years of experience in the following (experience may be gained concurrently):&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Petabyte-sized Data Lakes&lt;/li&gt;\n&lt;li&gt;Deep AWS experience building end-to-end data applications&lt;/li&gt;\n&lt;li&gt;Spark experience (RDDs, DataFrames, low-level optimizations)&lt;/li&gt;\n&lt;li&gt;Spark optimization tools (Ganglia, Log4J, Spark UI)&lt;/li&gt;\n&lt;li&gt;Data warehousing&lt;/li&gt;\n&lt;li&gt;Data modeling experience&lt;/li&gt;\n&lt;li&gt;SQL development&lt;/li&gt;\n&lt;li&gt;Python&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Three (3) years of experience in the following (experience may be gained concurrently):&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Snowflake experience&lt;/li&gt;\n&lt;li&gt;AWS Athena serverless data warehousing&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;One (1) year of experience in the following (experience may be gained concurrently):&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Hadoop ecosystem&lt;/li&gt;\n&lt;li&gt;Hive and Presto&lt;/li&gt;\n&lt;li&gt;YARN resource management&lt;/li&gt;\n&lt;/ul&gt;",
+  "departments": [
+    {
+      "id": 151526,
+      "name": "Engineering ",
+      "child_ids": [],
+      "parent_id": 81781
+    }
+  ],
+  "offices": [
+    {
+      "id": 389869,
+      "name": "Johns Creek, GA",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 44144
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

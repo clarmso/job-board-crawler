@@ -1,0 +1,55 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/ritual/jobs/4029531007",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "education": "education_required",
+  "internal_job_id": 4024493007,
+  "location": {
+    "name": "Remote"
+  },
+  "metadata": null,
+  "id": 4029531007,
+  "updated_at": "2024-07-24T16:09:10-04:00",
+  "requisition_id": "2",
+  "title": "Machine Learning Engineer",
+  "company_name": "Ritual",
+  "first_published": "2023-11-07T09:14:58-05:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;About Ritual&amp;nbsp;&lt;/h3&gt;\n&lt;p&gt;Ritual is building a sovereign, execution layer for AI, with our private testnet already live and running. The Ritual chain is the first blockchain custom-built to support AI-native operations, designed from the ground up to enable a new class of applications at the intersection of crypto and AI. Our first product, Infernet, is pioneering new ground as the first solution to enable developers to access AI models both on-chain via smart contracts and off-chain, demonstrating our commitment to bridging these transformative technologies.&lt;/p&gt;&lt;/div&gt;&lt;h4&gt;About the role&lt;/h4&gt;\n&lt;p&gt;We are looking for a talented and motivated Machine Learning Product Engineer to join our team. In this role, you will work on a variety of projects related to applied machine learning, including working with the product team on automating Data ETL pipelines, deploying machine learning models, and shipping customer-facing products.&amp;nbsp;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Scale up model inference and running predictions at scale on cutting-edge models&lt;/li&gt;\n&lt;li&gt;Work end to end to connect ML models to human interfaces (e.g. APIs, browsers, and applications)&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Designing and implementing large-scale data and ML pipelines through a full end-to-end product development lifecycle&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Collaborate with a cross-functional team of engineers, researchers, product managers, designers, and operations teammates to create cutting-edge products&amp;nbsp;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;About you&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience as a software engineer&lt;/li&gt;\n&lt;li&gt;Experience building and serving machine learning models&lt;/li&gt;\n&lt;li&gt;Familiarity with Python and related ML frameworks such as PyTorch, Tensorflow, Jax, and other open-source stacks such as HuggingFace&lt;/li&gt;\n&lt;li&gt;Ability to reason through machine learning system tradeoffs&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;A high level of end-to-end ownership and self-direction&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h5&gt;Extras&lt;/h5&gt;\n&lt;ul&gt;\n&lt;li&gt;Familiarity with basic machine learning system stacks e.g. TinyML, Triton, CUDA, ROCm, Exo, MLIR, Halide, etc&lt;/li&gt;\n&lt;li&gt;Familiarity with DataOps, MLOps, and ML orchestration pipelines&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Understanding of modern ML architectures and intuition for inference performance tradeoffs&lt;/li&gt;\n&lt;li&gt;Experience or interest in working on open-source ML products&lt;/li&gt;\n&lt;li&gt;Interest in building tech aligned with user privacy, computational integrity, and/or censorship resistance&lt;/li&gt;\n&lt;li&gt;Experience at fast-growing companies or startups&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;Why join us&amp;nbsp;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Join a passionate group of engineers, researchers, and operators on a mission to build the next generation of AI infrastructure&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Highly competitive compensation package, including annual discretionary bonus &amp;amp; optimized tax structure compared to the vast majority of web3 startups&lt;/li&gt;\n&lt;li&gt;Top 1% of benefits across the web3 startup space&lt;/li&gt;\n&lt;li&gt;100% of premiums covered on highest quality healthcare&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Aggressive company 401k match&lt;/li&gt;\n&lt;li&gt;Fully remote and/or hybrid, up to you!&lt;/li&gt;\n&lt;li&gt;Participate in virtual and in-person events&lt;/li&gt;\n&lt;li&gt;Much much more!&lt;/li&gt;\n&lt;/ul&gt;",
+  "departments": [
+    {
+      "id": 4012826007,
+      "name": "Engineering",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 4028887007,
+      "name": "NY",
+      "location": "New York, New York, United States",
+      "child_ids": [],
+      "parent_id": null
+    },
+    {
+      "id": 4011459007,
+      "name": "Remote",
+      "location": "USA",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

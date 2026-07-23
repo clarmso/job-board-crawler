@@ -1,0 +1,109 @@
+{
+  "id": "aa4cea89-b5a8-4e86-a0bb-434883e0403a",
+  "title": "Data Scientist",
+  "department": "Neon One",
+  "team": "Neon One",
+  "employmentType": "FullTime",
+  "location": "Canada",
+  "shouldDisplayCompensationOnJobPostings": true,
+  "secondaryLocations": [
+    {
+      "location": "United States",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "United States",
+          "addressCountry": "United States",
+          "addressLocality": "United States"
+        }
+      }
+    }
+  ],
+  "publishedAt": "2026-07-17T20:54:34.023+00:00",
+  "isListed": true,
+  "isRemote": true,
+  "workplaceType": "Remote",
+  "address": {
+    "postalAddress": {
+      "addressRegion": "",
+      "addressCountry": "Canada",
+      "addressLocality": ""
+    }
+  },
+  "jobUrl": "https://jobs.ashbyhq.com/HighlightTA/aa4cea89-b5a8-4e86-a0bb-434883e0403a",
+  "applyUrl": "https://jobs.ashbyhq.com/HighlightTA/aa4cea89-b5a8-4e86-a0bb-434883e0403a/application",
+  "descriptionHtml": "<h2><strong>About Neon One</strong></h2><p style=\"min-height:1.5em\">At Neon One, we believe that technology is the key to building vibrant communities of generosity. As a leader in nonprofit software since 2004, we create intuitive solutions that help small and mid-sized nonprofits connect with people, build trust, and make good happen every day.<br /><br />Our culture is powered by empathy, innovation, and a shared mission to empower organizations making a difference. We operate with a customer-first mindset, take pride in extraordinary results, and grow together by supporting each other and embracing bold new ideas. If you’re passionate about using your skills to drive real impact and want to thrive in a collaborative, fully remote environment, Neon One is the place for you.</p><p style=\"min-height:1.5em\"></p><h2><strong>About the Role</strong></h2><p style=\"min-height:1.5em\">We are on a transformative journey to harness the power of artificial intelligence and machine learning for the social good sector. We're looking for a foundational member of our data team to architect the data models and intelligence layer that enable AI agents to automate business processes across our products. This is a greenfield opportunity to work with rich, diverse datasets from across our product ecosystem, building core data layers and intelligent systems from the ground up.<br /><br />Your work will provide the critical foundation for autonomous decision-making and automated reporting - strengthening Neon One's technological foundation and empowering our customers to significantly increase their social impact through data-driven automation.</p><p style=\"min-height:1.5em\"></p><h2><strong>What You’ll Do</strong></h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>Data Modeling &amp; Architecture:</strong> Dive deep into large, disparate datasets from across our application platform to design relational, dimensional, and analytical data models. You will extend these models into Salesforce Data 360, mapping data objects to ensure optimal performance for downstream analytics and Agentforce AI agents.</p></li><li><p style=\"min-height:1.5em\"><strong>Infrastructure &amp; Pipeline Integration:</strong> Partner closely with our Data Engineer and Salesforce architects to define data requirements, ensure pipeline integrity, design schemas, and operationalize data flows — including implementing zero-copy data federation between our cloud environment (Snowflake/AWS) and enterprise CRM systems.</p></li><li><p style=\"min-height:1.5em\"><strong>Model Deployment &amp; MLOps:</strong> Design, build, train, and validate machine learning models, with an emphasis on packaging, deploying, and monitoring these models efficiently in production at scale.</p></li><li><p style=\"min-height:1.5em\"><strong>Translate Data into Production Artifacts:</strong> Transform complex model outputs into production-ready data products and structured data views. You will communicate architecture and data modeling decisions to both technical and non-technical audiences, including our executive team and product managers.</p></li><li><p style=\"min-height:1.5em\"><strong>Deliver Platform Value:</strong> Develop the underlying data layers, views, and infrastructure that power reports and dashboards, delivering insights at an aggregate level (industry trends) and on a per-customer basis.</p></li></ul><p style=\"min-height:1.5em\"></p><h2><strong>What You'll Bring </strong></h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>Experience:</strong> 4+ years of hands-on experience in a data science or data engineering role, with a proven track record of developing data models and deploying machine learning infrastructure in production.</p></li><li><p style=\"min-height:1.5em\"><strong>Data Programming:</strong> Demonstrated proficiency in Python (or similar languages) and associated libraries for heavy data manipulation, ETL/ELT processes, and system integration.</p></li><li><p style=\"min-height:1.5em\"><strong>Cloud ML Platforms &amp; MLOps:</strong> Hands-on experience building, training, and deploying machine learning models using a major cloud ML platform; direct experience with AWS SageMaker and automated deployment workflows is highly preferred.</p></li><li><p style=\"min-height:1.5em\"><strong>SQL &amp; Data Engineering Foundations:</strong> Advanced SQL proficiency for complex data manipulation and query optimization, paired with a deep understanding of data warehousing concepts, dimensional modeling (e.g., Kimball paradigms), schema design, and database design patterns suited for machine learning pipelines.</p></li><li><p style=\"min-height:1.5em\"><strong>Autonomous Mindset:</strong> Demonstrated ability to work as a highly autonomous self-starter, comfortable with data ambiguity and taking ownership of infrastructure projects from start to finish.</p></li><li><p style=\"min-height:1.5em\"><strong>Communication:</strong> Exceptional communication skills, with the ability to articulate complex infrastructure and data modeling concepts to diverse stakeholders effectively.</p></li><li><p style=\"min-height:1.5em\"><strong>Education:</strong> A Bachelor's degree in a technical field such as Computer Science, Software Engineering, Information Systems, or a related quantitative discipline.</p></li></ul><p style=\"min-height:1.5em\"></p><h2><strong>Bonus Points</strong></h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">A Master's or Ph.D. in Computer Science or a relevant technical field.</p></li><li><p style=\"min-height:1.5em\">Deep familiarity or direct experience architecting within the Snowflake data platform (including Streams, Tasks, or Snowpark).</p></li><li><p style=\"min-height:1.5em\">Experience with Salesforce Data Cloud (Data 360), Mulesoft, or architecting data structures specifically optimized for autonomous AI agents (e.g., Agentforce).</p></li><li><p style=\"min-height:1.5em\">Experience with Natural Language Processing (NLP) techniques or engineering pipelines for Large Language Models (LLMs) and Vector Databases.</p></li><li><p style=\"min-height:1.5em\">Familiarity with building data products, multi-tenant databases, or data isolation in a SaaS environment.</p></li><li><p style=\"min-height:1.5em\">Prior experience working with or a passion for the non-profit sector.</p></li></ul><p style=\"min-height:1.5em\"></p><h2><strong>Why Join Neon One?</strong></h2><p style=\"min-height:1.5em\">At Neon One, our values are how we show up every day. We make good happen by putting empathy and passion at the center of our work, using technology to uplift mission-driven organizations. We stand for our customers, act with care and intention in every decision, own the solution, and grow together. We innovate fearlessly, always exploring new ways to support our community and each other.</p><p style=\"min-height:1.5em\"></p><h2><strong>How We Hire</strong></h2><p style=\"min-height:1.5em\">We use AI tools to support our recruitment process, including helping us organize applications and identify early matches based on role criteria. That said, every rejection decision is made by a human. We encourage candidates to apply authentically and avoid relying solely on AI-generated responses, especially during interviews.<br /><br />This posting is for a current, open position within <strong>Neon One</strong>.<br /><br />This opportunity is offered through HighlightTA, the on-demand talent team supporting Neon One’s growth.<br /><br /><strong>Connect with us and learn more:</strong><br /><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.linkedin.com/company/neonone/\"><u>Neon One on LinkedIn</u></a></p><p style=\"min-height:1.5em\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.linkedin.com/company/highlightta/\"><u>HighlightTA on LinkedIn</u></a></p>",
+  "descriptionPlain": "ABOUT NEON ONE\n\nAt Neon One, we believe that technology is the key to building vibrant communities of generosity. As a leader in nonprofit software since 2004, we create intuitive solutions that help small and mid-sized nonprofits connect with people, build trust, and make good happen every day.\n\nOur culture is powered by empathy, innovation, and a shared mission to empower organizations making a difference. We operate with a customer-first mindset, take pride in extraordinary results, and grow together by supporting each other and embracing bold new ideas. If you’re passionate about using your skills to drive real impact and want to thrive in a collaborative, fully remote environment, Neon One is the place for you.\n\n\n\n\nABOUT THE ROLE\n\nWe are on a transformative journey to harness the power of artificial intelligence and machine learning for the social good sector. We're looking for a foundational member of our data team to architect the data models and intelligence layer that enable AI agents to automate business processes across our products. This is a greenfield opportunity to work with rich, diverse datasets from across our product ecosystem, building core data layers and intelligent systems from the ground up.\n\nYour work will provide the critical foundation for autonomous decision-making and automated reporting - strengthening Neon One's technological foundation and empowering our customers to significantly increase their social impact through data-driven automation.\n\n\n\n\nWHAT YOU’LL DO\n\n - Data Modeling & Architecture: Dive deep into large, disparate datasets from across our application platform to design relational, dimensional, and analytical data models. You will extend these models into Salesforce Data 360, mapping data objects to ensure optimal performance for downstream analytics and Agentforce AI agents.\n\n - Infrastructure & Pipeline Integration: Partner closely with our Data Engineer and Salesforce architects to define data requirements, ensure pipeline integrity, design schemas, and operationalize data flows — including implementing zero-copy data federation between our cloud environment (Snowflake/AWS) and enterprise CRM systems.\n\n - Model Deployment & MLOps: Design, build, train, and validate machine learning models, with an emphasis on packaging, deploying, and monitoring these models efficiently in production at scale.\n\n - Translate Data into Production Artifacts: Transform complex model outputs into production-ready data products and structured data views. You will communicate architecture and data modeling decisions to both technical and non-technical audiences, including our executive team and product managers.\n\n - Deliver Platform Value: Develop the underlying data layers, views, and infrastructure that power reports and dashboards, delivering insights at an aggregate level (industry trends) and on a per-customer basis.\n\n\n\n\nWHAT YOU'LL BRING\n\n - Experience: 4+ years of hands-on experience in a data science or data engineering role, with a proven track record of developing data models and deploying machine learning infrastructure in production.\n\n - Data Programming: Demonstrated proficiency in Python (or similar languages) and associated libraries for heavy data manipulation, ETL/ELT processes, and system integration.\n\n - Cloud ML Platforms & MLOps: Hands-on experience building, training, and deploying machine learning models using a major cloud ML platform; direct experience with AWS SageMaker and automated deployment workflows is highly preferred.\n\n - SQL & Data Engineering Foundations: Advanced SQL proficiency for complex data manipulation and query optimization, paired with a deep understanding of data warehousing concepts, dimensional modeling (e.g., Kimball paradigms), schema design, and database design patterns suited for machine learning pipelines.\n\n - Autonomous Mindset: Demonstrated ability to work as a highly autonomous self-starter, comfortable with data ambiguity and taking ownership of infrastructure projects from start to finish.\n\n - Communication: Exceptional communication skills, with the ability to articulate complex infrastructure and data modeling concepts to diverse stakeholders effectively.\n\n - Education: A Bachelor's degree in a technical field such as Computer Science, Software Engineering, Information Systems, or a related quantitative discipline.\n\n\n\n\nBONUS POINTS\n\n - A Master's or Ph.D. in Computer Science or a relevant technical field.\n\n - Deep familiarity or direct experience architecting within the Snowflake data platform (including Streams, Tasks, or Snowpark).\n\n - Experience with Salesforce Data Cloud (Data 360), Mulesoft, or architecting data structures specifically optimized for autonomous AI agents (e.g., Agentforce).\n\n - Experience with Natural Language Processing (NLP) techniques or engineering pipelines for Large Language Models (LLMs) and Vector Databases.\n\n - Familiarity with building data products, multi-tenant databases, or data isolation in a SaaS environment.\n\n - Prior experience working with or a passion for the non-profit sector.\n\n\n\n\nWHY JOIN NEON ONE?\n\nAt Neon One, our values are how we show up every day. We make good happen by putting empathy and passion at the center of our work, using technology to uplift mission-driven organizations. We stand for our customers, act with care and intention in every decision, own the solution, and grow together. We innovate fearlessly, always exploring new ways to support our community and each other.\n\n\n\n\nHOW WE HIRE\n\nWe use AI tools to support our recruitment process, including helping us organize applications and identify early matches based on role criteria. That said, every rejection decision is made by a human. We encourage candidates to apply authentically and avoid relying solely on AI-generated responses, especially during interviews.\n\nThis posting is for a current, open position within Neon One.\n\nThis opportunity is offered through HighlightTA, the on-demand talent team supporting Neon One’s growth.\n\nConnect with us and learn more:\nNeon One on LinkedIn https://www.linkedin.com/company/neonone/\n\nHighlightTA on LinkedIn https://www.linkedin.com/company/highlightta/",
+  "compensation": {
+    "compensationTierSummary": "$120K – $150K • Offers Bonus • Multiple Ranges",
+    "scrapeableCompensationSalarySummary": "$120K - $150K",
+    "compensationTiers": [
+      {
+        "id": "632c656a-54a4-46d9-8b22-c3c492585116",
+        "tierSummary": "$120K – $150K • Offers Bonus • 8 - 10% Bonus",
+        "title": "United States",
+        "additionalInformation": "8 - 10% Bonus",
+        "components": [
+          {
+            "id": "b6034742-8700-4ff1-af1a-acc5eae7e55a",
+            "summary": "Offers Bonus",
+            "compensationType": "Bonus",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "7010778c-d07a-4782-bb32-9ff2a8bcacee",
+            "summary": "$120K – $150K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 120000,
+            "maxValue": 150000
+          }
+        ]
+      },
+      {
+        "id": "90144303-aae4-44a7-a804-3375cab637fb",
+        "tierSummary": "CA$168K – CA$198K • Offers Bonus • 8 - 10% Bonus",
+        "title": "Canada",
+        "additionalInformation": "8 - 10% Bonus",
+        "components": [
+          {
+            "id": "5d75be03-c40b-4408-8d44-959466e83509",
+            "summary": "CA$168K – CA$198K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "CAD",
+            "minValue": 168000,
+            "maxValue": 198000
+          },
+          {
+            "id": "d519ce52-70a2-4a04-be80-6c7519590f1d",
+            "summary": "Offers Bonus",
+            "compensationType": "Bonus",
+            "interval": "1 YEAR",
+            "currencyCode": "CAD",
+            "minValue": null,
+            "maxValue": null
+          }
+        ]
+      }
+    ],
+    "summaryComponents": [
+      {
+        "compensationType": "Bonus",
+        "minValue": null,
+        "maxValue": null,
+        "interval": "1 YEAR"
+      },
+      {
+        "compensationType": "Salary",
+        "interval": "1 YEAR",
+        "currencyCode": "USD",
+        "minValue": 120000,
+        "maxValue": 150000
+      }
+    ]
+  }
+}

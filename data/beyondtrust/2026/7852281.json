@@ -1,0 +1,54 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/beyondtrust/jobs/7852281",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3421464,
+  "location": {
+    "name": "Remote Canada | Remote United States"
+  },
+  "metadata": null,
+  "id": 7852281,
+  "updated_at": "2026-07-22T12:59:15-04:00",
+  "requisition_id": "3999",
+  "title": "Staff Software Development Engineer - macOS Endpoint",
+  "company_name": "BeyondTrust",
+  "first_published": "2026-07-21T13:56:34-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;Diversity. Inclusion. They’re more than just words for us. They are the guiding values of how we build our teams, cultivate leaders, and create a culture where people feel connected.&lt;/p&gt;\n&lt;p&gt;We take care of our employees so they can take care of our customers. Customers who come from all walks of life just like us. We hire incredible people from diverse backgrounds because when we are different together, we are stronger together.&lt;/p&gt;\n&lt;p&gt;&lt;u&gt;The Role&lt;/u&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;As Staff Software Development Engineer, you&#39;ll be the macOS authority for the runtime enforcement layer of our Identity Security Platform. These components decide whether to permit or deny each action an identity or AI agent attempts on a macOS endpoint.&lt;/p&gt;\n&lt;p&gt;You&#39;ll set the technical direction for enforcement on macOS and own it end to end. That means hooks that make the right call in real time, across the fleet, without breaking legitimate workloads. Peer engineers own the Linux and Windows enforcement surfaces. You share one policy language, one event schema, and one userspace agent with them, but macOS is yours.&lt;/p&gt;\n&lt;p&gt;You know this layer better than anyone. You want your code to be the thing that stops a compromised credential or a runaway AI coding agent before it impacts production.&lt;/p&gt;\n&lt;p&gt;&lt;u&gt;What You’ll Do&lt;/u&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Design, build, and own our Endpoint Security client: process execution, file, and signal events, plus the synchronous authorization events where you allow or deny inline. You&#39;ll block operations by returning a deny verdict before the event completes, not by logging after the fact, and you&#39;ll build the userspace agent that installs and drives the extension.&lt;/li&gt;\n&lt;li&gt;Own the enforcement decision path: event capture from Endpoint Security, policy evaluation, and deny decisions applied within Apple&#39;s authorization deadline so a slow verdict never stalls the system or gets auto-allowed.&lt;/li&gt;\n&lt;li&gt;Drive down enforce-mode latency on the authorization path as we scale across large fleets. That means process enrichment, code-signature and hash caching with eviction under heavy process-churn, and process-ancestry resolution.&lt;/li&gt;\n&lt;li&gt;Extend enforcement across network and content control: a Network Extension content filter for socket- and flow-level policy, tied to the same identity and process context as your Endpoint Security decisions. Much of this integration is greenfield, and it sits at the center of the role.&lt;/li&gt;\n&lt;li&gt;Harden portability and stability across macOS versions and both Apple Silicon and Intel, so enforcement loads and behaves correctly on the OS versions customers actually run. You&#39;ll deal with Endpoint Security event and capability drift across releases, System Extension activation and approval flows, TCC and entitlement requirements, and graceful degradation when a capability isn&#39;t available.&lt;/li&gt;\n&lt;li&gt;Partner with the Linux and Windows enforcement engineers and the policy-backend team on the shared plane: policy semantics, cross-stack conformance, event schema, the common Rust agent. You&#39;ll represent macOS in cross-org architecture reviews.&lt;/li&gt;\n&lt;li&gt;Read requirements to find gaps and risks, propose simplifications, and explain tradeoffs to technical and non-technical stakeholders.&lt;/li&gt;\n&lt;li&gt;Raise the engineering bar. You&#39;ll take end-to-end ownership from design through production, and you&#39;ll carry extra weight where a bug means a wrong security decision or a hung endpoint across the fleet, not just a crash of one process.&lt;/li&gt;\n&lt;li&gt;Mentor senior and mid-level engineers on macOS systems and Endpoint Security craft&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;u&gt;What You’ll Bring&lt;br&gt;&lt;br&gt;&lt;/u&gt;This is a macOS specialist role, so the depth requirements are real:&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Deep macOS system internals - the Endpoint Security framework, System and Network Extensions, the code-signing and notarization model, launchd and XPC, TCC and entitlements - backed by production systems programming in C, C++, Objective-C, Swift, or Rust.&lt;/li&gt;\n&lt;li&gt;Hands-on work with Endpoint Security for enforcement, with real comfort on the synchronous authorization path: handling AUTH events within Apple&#39;s deadline, reasoning about the allow/deny verdict model, and keeping the client off the path that hangs or gets killed. Experience building a System Extension end to end transfers directly.&lt;/li&gt;\n&lt;li&gt;The macOS deployment reality: System Extension activation and user approval, MDM-managed deployment, entitlement provisioning, code signing, and notarization, plus the operational cost of shipping this to a large managed fleet.&lt;/li&gt;\n&lt;li&gt;The macOS isolation and security model - the App Sandbox, TCC, SIP, and how they intersect with endpoint security tooling.&lt;/li&gt;\n&lt;li&gt;Debugging and performance tooling: lldb, Instruments, dtrace, the unified logging system (log / Console), and spindump for hang analysis.&lt;/li&gt;\n&lt;li&gt;8+ years in systems-level software engineering, with real depth in macOS system software.&lt;/li&gt;\n&lt;li&gt;Demonstrated AI-first development. We build this platform through agentic tooling. AI-driven design exploration, code generation, adversarial plan review, and automated pre-merge quality gates are how work ships here, not a side experiment. You use Claude Code or a comparable tool as a core part of your daily workflow, and you can speak concretely to how it raises both your velocity and your rigor. That matters most in correctness- and security-critical enforcement code, where you have to know exactly when to stop and verify by hand.&lt;/li&gt;\n&lt;li&gt;A working grasp of systems design patterns and their tradeoffs at the OS-enforcement boundary.&lt;/li&gt;\n&lt;li&gt;Full-lifecycle experience, including product release, in an agile environment.&lt;/li&gt;\n&lt;li&gt;A track record of technical leadership on complex, ambiguous initiatives that span teams.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;u&gt;Who You Are&lt;/u&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;You share successes and failures openly, and you work well with people. You adapt when the situation and the requirements shift. You fix issues before anyone assigns them to you, and you stay persistent through roadblocks, pulling in others when you need to.&lt;/li&gt;\n&lt;li&gt;You hold a high bar and push your teams to ship reliable systems, especially where an enforcement bug carries outsized risk. You know systems software best practices, from rigorous testing to sharp peer review to architecture that survives contact with production.&lt;/li&gt;\n&lt;li&gt;You reach for AI tools to move faster and think more clearly, and you keep the judgment to slow down and verify by hand when the code demands it. You weigh speed against risk and decide from data.&lt;/li&gt;\n&lt;li&gt;You feel the weight of enforcement code. You&#39;d rather ship a correct block a day late than a wrong one now, and you choose your failure modes - fail-open or fail-closed - on purpose instead of by accident.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;u&gt;Better Together&lt;/u&gt;&lt;/p&gt;\n&lt;p&gt;Diversity. Inclusion. They’re more than just words for us. They are the guiding values of how we build our teams, cultivate leaders, and create a culture where people feel connected.&lt;/p&gt;\n&lt;p&gt;We take care of our employees so they can take care of our customers. Customers who&amp;nbsp;come from all walks of life just like us. We hire incredible people from diverse backgrounds because when we are different together, we are stronger together.&lt;/p&gt;\n&lt;p&gt;&lt;u&gt;About Us&lt;/u&gt;&lt;/p&gt;\n&lt;p&gt;BeyondTrust is the global identity security leader protecting Paths to Privilege™. Our identity-centric approach goes beyond securing privileges and access, empowering organizations with the most effective solution to manage the entire identity attack surface and neutralize threats, whether from external attacks or insiders.&lt;br&gt;&lt;br&gt;BeyondTrust is leading the charge in transforming identity security to prevent breaches and limit the blast radius of attacks, while creating a superior customer experience and operational efficiencies. We are trusted by 20,000 customers, including 75 of the Fortune 100, and our global ecosystem of partners.&lt;br&gt;&lt;br&gt;Learn more at &lt;a href=&quot;http://www.beyondtrust.com/&quot;&gt;www.beyondtrust.com&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;",
+  "departments": [
+    {
+      "id": 151526,
+      "name": "Engineering ",
+      "child_ids": [],
+      "parent_id": 81781
+    }
+  ],
+  "offices": [
+    {
+      "id": 60490,
+      "name": "Remote Canada",
+      "location": "Toronto, Ontario, Canada",
+      "child_ids": [],
+      "parent_id": 44144
+    },
+    {
+      "id": 60813,
+      "name": "Remote United States",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 44144
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}
