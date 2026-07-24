@@ -25,3 +25,4 @@ This repo queries the job boards of selected companies and saves the job posting
 - [DMZ Ventures](https://dmzventures.com/dmz-portfolio/) — Toronto Metropolitan University accelerator/fund
 - [The Pragmatic Engineer Podcast](https://www.youtube.com/playlist?list=PLzwJJv8h-iciW53inSOkQA4mkG8TuQAUh) — sponsors
 - [Y Combinator Companies API](https://api.ycombinator.com/v0.1/companies) — all Active YC alumni (batches S05–W26), ATS auto-detected via platform APIs
+- [DMZ Oh Canada Tech Directory](https://dmz.torontomu.ca/oh-canada-directory) — Canadian companies listed in DMZ's buy-Canadian tech showcase
