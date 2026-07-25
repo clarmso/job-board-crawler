@@ -60,6 +60,13 @@ PLATFORMS = {
         "date_format": DateFormat.ISO,
         "paginated": True,
     },
+    "gem": {
+        "url": "https://api.gem.com/job_board/v0/{}/job_posts/",
+        "jobs_key": None,
+        "id_field": "id",
+        "date_field": "updated_at",
+        "date_format": DateFormat.ISO,
+    },
     "rippling": {
         "url": "https://ats.rippling.com/en-CA/{}/jobs",
         "id_field": "uuid",
