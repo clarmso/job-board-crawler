@@ -3,7 +3,7 @@
 Job board crawler. Fetches all job postings from configured career pages
 and saves each as a JSON file. Git history tracks when jobs were active.
 
-Supported platforms: greenhouse, lever, ashby, workable, recruitee, smartrecruiters, rippling
+Supported platforms: greenhouse, lever, ashby, workable, recruitee, smartrecruiters, rippling, gem
 """
 
 import csv
