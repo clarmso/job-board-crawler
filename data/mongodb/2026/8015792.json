@@ -1,0 +1,152 @@
+{
+  "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=8015792",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3475296,
+  "location": {
+    "name": "New York City"
+  },
+  "metadata": [
+    {
+      "id": 22194060,
+      "name": "Position ID",
+      "value": "10005548",
+      "value_type": "short_text"
+    },
+    {
+      "id": 24918,
+      "name": "Department ID",
+      "value": "D23010-Stream Processing",
+      "value_type": "single_select"
+    },
+    {
+      "id": 22194061,
+      "name": "Team",
+      "value": "T10055-Atlas Streams",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4914027,
+      "name": "Region",
+      "value": "North America",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4137836,
+      "name": "Working Model Eligibility",
+      "value": [
+        "1-In Office"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 4914029,
+      "name": "Job Level",
+      "value": "Professional - IC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24109,
+      "name": "Employment Type",
+      "value": "Full-time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 1073551,
+      "name": "Job Type",
+      "value": "Standard",
+      "value_type": "single_select"
+    },
+    {
+      "id": 988684,
+      "name": "JD Link",
+      "value": "https://docs.google.com/document/d/1IOVQ0BD8WA98lk_l5eApQfnsMvCWpxHzuDFzoESb3PQ/edit?tab=t.0#heading=h.b5i93th5c2wm",
+      "value_type": "url"
+    },
+    {
+      "id": 5525802,
+      "name": "Baseline Budgeted Salary",
+      "value": {
+        "unit": "USD",
+        "max_value": "190000.0",
+        "min_value": "133000.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 5525816,
+      "name": "Other Large Market Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 13324394,
+      "name": "Job Post Range (United States)",
+      "value": {
+        "unit": "USD",
+        "max_value": "209000.0",
+        "min_value": "106000.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 40497768,
+      "name": "Job Post Range (Canada)",
+      "value": {
+        "unit": "USD",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 57694516,
+      "name": "Job Post Range (Poland)",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 64002488,
+      "name": "Job Post Range (Italy)",
+      "value": null,
+      "value_type": "currency_range"
+    }
+  ],
+  "id": 8015792,
+  "updated_at": "2026-07-21T10:26:00-04:00",
+  "requisition_id": "2273475296",
+  "title": "Software Engineer 3",
+  "company_name": "MongoDB",
+  "first_published": "2026-06-23T13:05:51-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;We’re seeking a Software Engineer for the Atlas Stream Processing team to develop and improve the user and developer experience that GA’d in the summer of 2024. It enables processing streams of complex data using the same data model and Query API used in Atlas databases.&lt;/p&gt;\n&lt;p&gt;&lt;a href=&quot;https://www.mongodb.com/docs/atlas/atlas-sp/overview/&quot;&gt;Atlas Stream Processing&lt;/a&gt; enables developers to continuously process streaming data alongside critical application data stored in their database. It builds upon MongoDB’s integrated developer data platform; enabling developers to stand up a stream processor and database with just a few API calls and lines of code, all fully managed on Atlas. Our product is quickly gaining traction with customers and we are adding core features that you will contribute to and own. You will help tackle complex user interactions across a variety of developer tools with the goal of making our platform easy to use.&lt;/p&gt;\n&lt;p&gt;We&#39;re looking to speak with candidates based in New York City for our hybrid working model.&lt;/p&gt;\n&lt;h3&gt;Position Expectations&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Contribute to the design, implementation, testing, and maintenance of core Atlas Stream Processing features and workflows&lt;/li&gt;\n&lt;li&gt;Build readable, maintainable, and well-tested code with attention to reliability, scalability, and operational excellence&lt;/li&gt;\n&lt;li&gt;Collaborate with engineers, product management, and design teams to refine requirements and deliver incremental customer value&lt;/li&gt;\n&lt;li&gt;Participate actively in technical design discussions, code reviews, debugging, and operational support for the systems your team owns&lt;/li&gt;\n&lt;li&gt;Take ownership of medium-sized projects or feature areas with guidance from senior engineers and team leadership as needed&lt;/li&gt;\n&lt;li&gt;Improve developer and customer experience across APIs, UI workflows, infrastructure configuration, and operational tooling&lt;/li&gt;\n&lt;li&gt;Help identify technical debt, usability gaps, and opportunities to improve system reliability, supportability, and engineering processes&lt;/li&gt;\n&lt;li&gt;Communicate project status, risks, and technical tradeoffs clearly with teammates and stakeholders&lt;/li&gt;\n&lt;li&gt;Support teammates through thoughtful code reviews, technical collaboration, onboarding assistance, and knowledge sharing&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Qualifications&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;3–6 years of experience building production software systems or cloud services&lt;/li&gt;\n&lt;li&gt;Experience developing full-stack or distributed systems using technologies such as Java, Go, React, and TypeScript&lt;/li&gt;\n&lt;li&gt;Strong software engineering fundamentals including debugging, testing, performance analysis, and system design&lt;/li&gt;\n&lt;li&gt;Experience designing and implementing maintainable APIs, backend services, or developer-facing tooling&lt;/li&gt;\n&lt;li&gt;Ability to independently execute on scoped technical projects while collaborating effectively with cross-functional partners&lt;/li&gt;\n&lt;li&gt;Good written and verbal technical communication skills and a collaborative, growth-oriented mindset&lt;/li&gt;\n&lt;li&gt;Interest in stream processing, distributed systems, developer experience, or cloud infrastructure platforms&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;Nice to Have&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience with stream processing systems, event-driven architectures, or reactive systems&lt;/li&gt;\n&lt;li&gt;Familiarity with observability tooling, cloud networking, or infrastructure automation&lt;/li&gt;\n&lt;li&gt;Experience improving developer workflows across APIs, CLI tooling, Terraform, VSCode extensions, or related platforms&lt;/li&gt;\n&lt;li&gt;Interest in shaping the next generation of AI-assisted developer experiences&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;About MongoDB&lt;/h3&gt;\n&lt;p&gt;MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure.&lt;/p&gt;\n&lt;p&gt;With offices worldwide and over 67,000 customers, including 75% of the Fortune 100 and AI-native startups, relying on MongoDB for their most important applications, we’re powering the next era of software.&lt;/p&gt;\n&lt;p&gt;Our compass at MongoDB is our &lt;a href=&quot;https://www.mongodb.com/company&quot;&gt;Leadership Commitment,&lt;/a&gt; guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. &lt;a href=&quot;https://www.mongodb.com/company/blog/culture/employee-benefits-that-make-a-difference-at-mongodb&quot;&gt;From employee affinity groups, to fertility assistance and a generous parental leave policy&lt;/a&gt;, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys.&lt;a href=&quot;https://www.mongodb.com/blog/channel/culture&quot;&gt; Learn more about what it’s like to work at MongoDB&lt;/a&gt;, and help us make an impact on the world!&lt;/p&gt;\n&lt;p&gt;MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.&lt;/p&gt;\n&lt;p&gt;MongoDB, Inc. provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type and makes all hiring decisions without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.&lt;/p&gt;\n&lt;p&gt;Req ID: 2273475296&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;MongoDB’s base salary range for this role is posted below. Compensation at the time of offer is unique to each candidate and based on a variety of factors such as skill set, experience, qualifications, and work location. Salary is one part of MongoDB’s total compensation and benefits package. Other benefits for eligible employees may include: equity, participation in the employee stock purchase program, flexible paid time off, 20 weeks fully-paid gender-neutral parental leave, fertility and adoption assistance, 401(k) plan, mental health counseling, access to transgender-inclusive health insurance coverage, and health benefits offerings. Please note, the base salary range listed below and the benefits in this paragraph are only applicable to U.S.-based candidates.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;MongoDB’s base salary range for this role in the U.S. is:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$106,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$209,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 38829,
+      "name": "Stream Processing",
+      "child_ids": [],
+      "parent_id": 371021
+    }
+  ],
+  "offices": [
+    {
+      "id": 3960,
+      "name": "New York City",
+      "location": "New York, NY, United States",
+      "child_ids": [],
+      "parent_id": 23657
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": null
+}

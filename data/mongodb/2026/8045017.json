@@ -1,0 +1,148 @@
+{
+  "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=8045017",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3361935,
+  "location": {
+    "name": "Cork, Ireland"
+  },
+  "metadata": [
+    {
+      "id": 22194060,
+      "name": "Position ID",
+      "value": "10014437",
+      "value_type": "short_text"
+    },
+    {
+      "id": 24918,
+      "name": "Department ID",
+      "value": "D23030-Observability & Adoption Engineering",
+      "value_type": "single_select"
+    },
+    {
+      "id": 22194061,
+      "name": "Team",
+      "value": "208-Customer Observability",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4914027,
+      "name": "Region",
+      "value": "EMEA",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4137836,
+      "name": "Working Model Eligibility",
+      "value": [
+        "2-Flexible"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 4914029,
+      "name": "Job Level",
+      "value": "Professional - IC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24109,
+      "name": "Employment Type",
+      "value": "Full-time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 1073551,
+      "name": "Job Type",
+      "value": "Standard",
+      "value_type": "single_select"
+    },
+    {
+      "id": 988684,
+      "name": "JD Link",
+      "value": "https://docs.google.com/document/d/11UP2J3Q55jgcf2Q7BbGDYnwmJH4mGVYbkp_NxXnFvPE/edit?tab=t.0#heading=h.xwa6oicxl6t9",
+      "value_type": "url"
+    },
+    {
+      "id": 5525802,
+      "name": "Baseline Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 5525816,
+      "name": "Other Large Market Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 13324394,
+      "name": "Job Post Range (United States)",
+      "value": {
+        "unit": "EUR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 40497768,
+      "name": "Job Post Range (Canada)",
+      "value": {
+        "unit": "EUR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 57694516,
+      "name": "Job Post Range (Poland)",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 64002488,
+      "name": "Job Post Range (Italy)",
+      "value": null,
+      "value_type": "currency_range"
+    }
+  ],
+  "id": 8045017,
+  "updated_at": "2026-07-21T11:21:04-04:00",
+  "requisition_id": "1273361935",
+  "title": "Staff Engineer",
+  "company_name": "MongoDB",
+  "first_published": "2026-07-03T04:41:33-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;We are seeking a Staff engineer to design, build, and operate the internal and external Observability stack for the MongoDB platform. Tens of thousands of customers depend on our Observability stack to monitor their database clusters and to generate actionable alerts to safeguard critical workloads.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;The Collections team is a newly formed team within MongoDB&#39;s Observability &amp;amp; Adoption Org focused on making telemetry onboarding and collection significantly easier across MongoDB. We own key parts of the observability collection stack, including onboarding experience, telemetry collection agents across the data and control planes, and ingestion services for metrics, logs, and traces that support both internal and customer observability in MongoDB, driving insights, recommendations, and alerting.&lt;/p&gt;\n&lt;p&gt;Our mission is to reduce friction for teams implementing and iterating on Observability while partnering closely with development teams to instrument their services using shared best practices, helping define the conventions our telemetry should follow, and building collection and ingestion systems that are stable, performant, secure, well-documented, and self-service.&lt;/p&gt;\n&lt;p&gt;We also work closely with the Data Pipeline and Storage &amp;amp; Query teams to help ensure MongoDB has a stable and performant observability stack end to end. This is an opportunity to join a team shaping how observability works across MongoDB and to have outsized impact on both the developer experience and the reliability of the platform underneath it.&lt;/p&gt;\n&lt;p&gt;As MongoDB Atlas and its supporting infrastructure continue to experience rapid growth, the demand for high-cardinality observability data for internal and external use cases means we need to continually innovate and scale our systems to the next level. For example, MongoDB Observability systems need to handle 10’s of billions of metrics time series, all whilst processing petabytes of logs, traces, and events. Our stack includes VictoriaMetrics, Grafana, Splunk, Flink, WarpStream/Kafka, Java, Golang, Fluentbit and OpenTelemetry. In addition to owning critical components of our observability infrastructure, as a Staff engineer on the team, you’ll also work closely with other SWE, Product and SRE teams to promote and implement best practices in instrumenting and monitoring their services. This is a highly collaborative role, and you will get to own some of the most relied upon internal infrastructure at Mongo.&lt;/p&gt;\n&lt;p&gt;Our team champions a strong culture of inclusivity, diversity, and collaboration. If you want to be a deeply technical leader on a collaborative team that applies low-level systems expertise to build the foundational infrastructure of a popular database, join us! Let’s build a faster, more reliable, and exceptionally observable database system together.&lt;/p&gt;\n&lt;p&gt;We are looking to speak to candidates who are based in Cork for our hybrid working model.&lt;/p&gt;\n&lt;h3&gt;Candidate Profile&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Solving complex problems at scale, and to high standards, excites you&lt;/li&gt;\n&lt;li&gt;Minimum 10 years of experience in designing, programming, debugging, and tuning distributed and/or highly concurrent Go/Java/C/C++ mission critical software systems&lt;/li&gt;\n&lt;li&gt;Experience running latency sensitive, high throughput systems&lt;/li&gt;\n&lt;li&gt;Strong systems fundamentals, including multi-threaded programming, performance profiling, and expert-level programming&lt;/li&gt;\n&lt;li&gt;Familiarity with database internals or building core components for data processing systems&lt;/li&gt;\n&lt;ul&gt;\n&lt;li&gt;(Nice to have) Indexing or database performance tuning experience&lt;/li&gt;\n&lt;/ul&gt;\n&lt;li&gt;Familiarity with observability ecosystem and best practices&lt;/li&gt;\n&lt;li&gt;Excellent verbal and written technical communication skills and a strong desire to collaborate with colleagues and mentor engineers&lt;/li&gt;\n&lt;li&gt;Excellent time and project management skills including the ability to make realistic assessments of project cost and complexity&lt;/li&gt;\n&lt;li&gt;Has a good understanding of information security management&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Responsibilities&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Help build and architect systems for the mission-critical observability platform, leading the architecture and implementation of components that drive performance, scalability, cost-efficiency, and resiliency&lt;/li&gt;\n&lt;li&gt;Design and implement observability improvements that enable MongoDB engineers and customers to quickly and accurately diagnose the root cause of production issues&lt;/li&gt;\n&lt;li&gt;Handle production customer escalations from Technical Support team and coach teammates to do the same&lt;/li&gt;\n&lt;li&gt;Write production-ready database code, improve the existing code, and mentor their team to write higher quality code&lt;/li&gt;\n&lt;li&gt;Own areas of code that the Observability Team maintains, ensuring it achieves a high standard for quality (including security, durability, availability, and performance) and maintainability&lt;/li&gt;\n&lt;li&gt;Diagnose test failures, identify bugs in existing code, fix them, and prevent bugs from being introduced in new code&lt;/li&gt;\n&lt;li&gt;Investigate the performance impact of code changes that may cause software performance regressions&lt;/li&gt;\n&lt;li&gt;Interview candidates for advanced software engineering positions&lt;/li&gt;\n&lt;li&gt;Develop and maintain expertise on cutting edge database, and observability developments from industry and academia&lt;/li&gt;\n&lt;li&gt;Lead development and project management of some of the larger projects across the company&lt;/li&gt;\n&lt;li&gt;Collaborate with stakeholders and engineering teams across the company to jointly work on large initiatives&lt;/li&gt;\n&lt;li&gt;Advise Product Management on technical product direction, engineering complexity and inter-project dependencies&lt;/li&gt;\n&lt;li&gt;Collaborate with Product Management and Engineering leadership to define product roadmaps&lt;/li&gt;\n&lt;li&gt;Champion and improve unit and integration tests to demonstrate correctness&lt;/li&gt;\n&lt;li&gt;Work with customers and support engineers to fix issues and become part of our on-call rotation&amp;nbsp;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Success Measures&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;In the first month, you will have understood the high level architecture of MongoDB observability, and fixed a few bugs&lt;/li&gt;\n&lt;li&gt;In three months, you will have contributed to the development of a project slated for the next major release of MongoDB, and diagnosed and fixed a few customer or testing-reported issues&lt;/li&gt;\n&lt;li&gt;In six months, you will have taken on code review responsibilities and are involved in reviewing the design for new features&lt;/li&gt;\n&lt;li&gt;In twelve months, you will be leading the development of new features and initiatives, helping to mentor engineers on the team, and using your experience to drive the long-term technical roadmap of the Observability Team&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;About MongoDB&lt;/h3&gt;\n&lt;p&gt;MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure.&lt;/p&gt;\n&lt;p&gt;With offices worldwide and over 67,000 customers, including 75% of the Fortune 100 and AI-native startups, relying on MongoDB for their most important applications, we’re powering the next era of software.&lt;/p&gt;\n&lt;p&gt;Our compass at MongoDB is our &lt;a href=&quot;https://www.mongodb.com/company&quot;&gt;Leadership Commitment,&lt;/a&gt; guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. &lt;a href=&quot;https://www.mongodb.com/company/blog/culture/employee-benefits-that-make-a-difference-at-mongodb&quot;&gt;From employee affinity groups, to fertility assistance and a generous parental leave policy&lt;/a&gt;, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys.&lt;a href=&quot;https://www.mongodb.com/blog/channel/culture&quot;&gt; Learn more about what it’s like to work at MongoDB&lt;/a&gt;, and help us make an impact on the world!&lt;/p&gt;\n&lt;p&gt;MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.&lt;/p&gt;\n&lt;p&gt;MongoDB is an equal opportunities employer.&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Req ID: 1273361935&lt;/em&gt;&lt;/p&gt;",
+  "departments": [
+    {
+      "id": 38832,
+      "name": "Observability & Adoption Engineering",
+      "child_ids": [],
+      "parent_id": 371021
+    }
+  ],
+  "offices": [
+    {
+      "id": 3962,
+      "name": "Dublin",
+      "location": "Dublin, Ireland",
+      "child_ids": [],
+      "parent_id": 23658
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": null
+}

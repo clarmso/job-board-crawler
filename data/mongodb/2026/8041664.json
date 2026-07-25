@@ -1,0 +1,148 @@
+{
+  "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=8041664",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3485618,
+  "location": {
+    "name": "Palo Alto; Seattle"
+  },
+  "metadata": [
+    {
+      "id": 22194060,
+      "name": "Position ID",
+      "value": "10008706",
+      "value_type": "short_text"
+    },
+    {
+      "id": 24918,
+      "name": "Department ID",
+      "value": "D23015-Atlas Search",
+      "value_type": "single_select"
+    },
+    {
+      "id": 22194061,
+      "name": "Team",
+      "value": "T10457-Search Inference",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4914027,
+      "name": "Region",
+      "value": "North America",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4137836,
+      "name": "Working Model Eligibility",
+      "value": [
+        "2-Flexible"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 4914029,
+      "name": "Job Level",
+      "value": "Professional - IC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24109,
+      "name": "Employment Type",
+      "value": "Full-time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 1073551,
+      "name": "Job Type",
+      "value": "Standard",
+      "value_type": "single_select"
+    },
+    {
+      "id": 988684,
+      "name": "JD Link",
+      "value": "https://docs.google.com/document/d/1rEhpeplqMteYj1TA3HwaGVyLfGmrhGPdABjfDQUChvY/edit?tab=t.0#heading=h.6ho3ptl68pal",
+      "value_type": "url"
+    },
+    {
+      "id": 5525802,
+      "name": "Baseline Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 5525816,
+      "name": "Other Large Market Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 13324394,
+      "name": "Job Post Range (United States)",
+      "value": {
+        "unit": "USD",
+        "max_value": "209000.0",
+        "min_value": "106000.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 40497768,
+      "name": "Job Post Range (Canada)",
+      "value": {
+        "unit": "USD",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 57694516,
+      "name": "Job Post Range (Poland)",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 64002488,
+      "name": "Job Post Range (Italy)",
+      "value": null,
+      "value_type": "currency_range"
+    }
+  ],
+  "id": 8041664,
+  "updated_at": "2026-07-21T10:26:00-04:00",
+  "requisition_id": "2273485618",
+  "title": "Software Engineer 3, Voyage Control Plane",
+  "company_name": "MongoDB",
+  "first_published": "2026-07-02T13:10:46-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;MongoDB’s mission is to empower innovators to create, transform, and disrupt industries by unleashing the power of software and data. We enable organizations of all sizes to easily build, scale, and run modern applications by helping them modernize legacy workloads, embrace innovation, and unleash AI. Our industry-leading developer data platform, MongoDB Atlas, is the only globally distributed, multi-cloud database and is available in more than 115 regions across AWS, Google Cloud, and Microsoft Azure. Atlas allows customers to build and run applications anywhere—on premises, or across cloud providers. With offices worldwide and over 175,000 new developers signing up to use MongoDB every month, it’s no wonder that leading organizations, like Samsung and Toyota, trust MongoDB to build next-generation, AI-powered applications.&lt;/p&gt;\n&lt;h3&gt;About the Role&lt;/h3&gt;\n&lt;p&gt;We&#39;re looking for a Software Engineer 3 to join the Voyage Control Plane team. In this role, you will build the management and orchestration layer that enables thousands of developers to use&amp;nbsp; Voyage&#39;s embedding and reranking models within the MongoDB Atlas ecosystem.&lt;/p&gt;\n&lt;p&gt;You will collaborate closely with the Voyage Inference Platform engineers, ML researchers, and broader Atlas teams to deliver cloud-first and developer-first experiences. Your work ensures that adopting AI models is as reliable and user-friendly as the core database experience itself.&lt;/p&gt;\n&lt;p&gt;As a Software Engineer 3, you will focus on building secure, multi-tenant systems that handle identity, governance, and billing for our AI offerings. You will own key components of the control plane infrastructure, ensuring seamless integration with the Atlas ecosystem.&lt;/p&gt;\n&lt;p&gt;This role is based in Palo Alto, CA or Seattle, WA with an in-office or hybrid work model.&lt;/p&gt;\n&lt;h3&gt;What You’ll Do&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Design and develop the Atlas Administration API and Infrastructure as Code (Terraform) providers to automate the lifecycle management of AI resources&lt;/li&gt;\n&lt;li&gt;Collaborate closely with Atlas platform teams, Voyage Inference Platform engineers, and ML researchers to deliver seamless, developer-first experiences for embedding and reranking models&lt;/li&gt;\n&lt;li&gt;Build and maintain customer-facing observability features, including real-time performance metrics (TPM/RPM) and usage tracking&lt;/li&gt;\n&lt;li&gt;Contribute new features to and support the legacy Voyage platform (dash.voyageai.com) while facilitating the strategic migration of user experiences and account management to the Atlas AI Model APIs frontend (cloud.mongodb.com)&lt;/li&gt;\n&lt;li&gt;Implement governance systems, including audit trails and actionable customer alerts for AI model usage&lt;/li&gt;\n&lt;li&gt;Build and scale internal Ops dashboards to empower support, sales, and engineering teams to manage customer accounts effectively&lt;/li&gt;\n&lt;li&gt;Develop and maintain robust billing pipelines that translate raw inference events into accurate invoices&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Who You Are&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;2+ years of experience building distributed backend systems at scale&lt;/li&gt;\n&lt;li&gt;Strong software engineering skills in languages such as Typescript, Go, Java, or Python, with an emphasis on availability and consistency&lt;/li&gt;\n&lt;li&gt;Experienced in cloud-native architectures, IaC (Terraform), distributed systems, and multi-tenant service design&lt;/li&gt;\n&lt;li&gt;Experience with Docker, Kubernetes, and Cloud Computing (GCP Cloud SQL, GKE, BigQuery, Cloud Run) is a plus&lt;/li&gt;\n&lt;li&gt;Comfortable working across cross-functional teams, including ML researchers, inference engineers, and platform teams&lt;/li&gt;\n&lt;li&gt;Passionate about building cloud-first and developer-first systems integrated into the MongoDB Atlas ecosystem&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Nice to Have&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Knowledge of OpenAPI Specification, Next.js, Swagger, gRPC, and Python FastAPI&lt;/li&gt;\n&lt;li&gt;Experience working with observability platforms like Grafana, Prometheus, GCP Metrics &amp;amp; Monitoring&lt;/li&gt;\n&lt;li&gt;Proven track record of collaborating with product teams and cross-functional engineering teams&lt;/li&gt;\n&lt;li&gt;Experience building multi-tenant control plane backends for an AI inference platform&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Why Join Us&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Be part of building the customer experiences of AI offering of the world’s most popular developer data platform&lt;/li&gt;\n&lt;li&gt;Tackle complex problems in multi-tenancy, governance, and resource orchestration while ensuring that Control Plane stability remains independent of Data Plane inference performance&lt;/li&gt;\n&lt;li&gt;Work in a culture that emphasizes mentorship, ownership, and technical excellence&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;About MongoDB&lt;/h3&gt;\n&lt;p&gt;MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure.&lt;/p&gt;\n&lt;p&gt;With offices worldwide and over 67,000 customers, including 75% of the Fortune 100 and AI-native startups, relying on MongoDB for their most important applications, we’re powering the next era of software.&lt;/p&gt;\n&lt;p&gt;Our compass at MongoDB is our &lt;a href=&quot;https://www.mongodb.com/company&quot;&gt;Leadership Commitment,&lt;/a&gt; guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. &lt;a href=&quot;https://www.mongodb.com/company/blog/culture/employee-benefits-that-make-a-difference-at-mongodb&quot;&gt;From employee affinity groups, to fertility assistance and a generous parental leave policy&lt;/a&gt;, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys.&lt;a href=&quot;https://www.mongodb.com/blog/channel/culture&quot;&gt; Learn more about what it’s like to work at MongoDB&lt;/a&gt;, and help us make an impact on the world!&lt;/p&gt;\n&lt;p&gt;MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.&lt;/p&gt;\n&lt;p&gt;MongoDB, Inc. provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type and makes all hiring decisions without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.&lt;/p&gt;\n&lt;p&gt;MongoDB’s base salary range for this role is posted below. Compensation at the time of offer is unique to each candidate and based on a variety of factors such as skill set, experience, qualifications, and work location. Salary is one part of MongoDB’s total compensation and benefits package. Other benefits for eligible employees may include: equity, participation in the employee stock purchase program, flexible paid time off, 20 weeks fully-paid gender-neutral parental leave, fertility and adoption assistance, 401(k) plan, mental health counseling, access to transgender-inclusive health insurance coverage, and health benefits offerings. Please note, the base salary range listed below and the benefits in this paragraph are only applicable to U.S.-based candidates.&lt;/p&gt;\n&lt;p&gt;Req. ID: 2273485618&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;MongoDB’s base salary range for this role is posted below. Compensation at the time of offer is unique to each candidate and based on a variety of factors such as skill set, experience, qualifications, and work location. Salary is one part of MongoDB’s total compensation and benefits package. Other benefits for eligible employees may include: equity, participation in the employee stock purchase program, flexible paid time off, 20 weeks fully-paid gender-neutral parental leave, fertility and adoption assistance, 401(k) plan, mental health counseling, access to transgender-inclusive health insurance coverage, and health benefits offerings. Please note, the base salary range listed below and the benefits in this paragraph are only applicable to U.S.-based candidates.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;MongoDB’s base salary range for this role in the U.S. is:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$106,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$209,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 65526,
+      "name": "Atlas Search",
+      "child_ids": [],
+      "parent_id": 371021
+    }
+  ],
+  "offices": [
+    {
+      "id": 3961,
+      "name": "Palo Alto",
+      "location": "Palo Alto, CA, United States",
+      "child_ids": [],
+      "parent_id": 23657
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": null
+}

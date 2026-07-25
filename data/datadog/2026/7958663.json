@@ -1,0 +1,103 @@
+{
+  "absolute_url": "https://careers.datadoghq.com/detail/7958663/?gh_jid=7958663",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 3436134,
+  "location": {
+    "name": "New York, New York, USA"
+  },
+  "metadata": [
+    {
+      "id": 33310,
+      "name": "Time Type",
+      "value": "Full time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 166208,
+      "name": "Area - Engineering",
+      "value": "Global Information Security",
+      "value_type": "single_select"
+    },
+    {
+      "id": 498252,
+      "name": "Cost Center",
+      "value": "Engineering - Security",
+      "value_type": "single_select"
+    },
+    {
+      "id": 516515,
+      "name": "Geography",
+      "value": "North America",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9593635,
+      "name": "Early Career Time Type",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 29446322,
+      "name": "Pay Transparency Range",
+      "value": {
+        "unit": "USD",
+        "max_value": "240000.0",
+        "min_value": "192000.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 31273219,
+      "name": "Does this role require access to ITAR-controlled data?",
+      "value": "Yes",
+      "value_type": "single_select"
+    },
+    {
+      "id": 58619948,
+      "name": "IC or MG",
+      "value": "MG",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 7958663,
+  "updated_at": "2026-07-01T15:27:31-04:00",
+  "requisition_id": "R19051",
+  "title": "Engineering Manager I, Threat Detection",
+  "company_name": "Datadog",
+  "first_published": "2026-05-26T16:49:26-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;As Engineering Manager for Threat Detection, you will lead a high-performing team that powers Datadog&#39;s detection program. Threat Detection is the organization responsible for keeping Datadog ahead of an evolving threat environment: closing coverage gaps faster, raising the bar on signal quality, and shipping detections that hold up under the scale and complexity of cloud-native infrastructure.&lt;/p&gt;\n&lt;p&gt;Your team will combine direct detection expertise, platform engineering, and applied AI to ship detections at a pace and scale traditional rule-writing alone cannot match. Examples of what your team will work on include detection-authoring agents, the detection platform that powers every rule in production, coverage analysis, alert triage and response automation, and the evaluation infrastructure that holds these systems to a high bar of fidelity. Detection authorship is a shared responsibility across the organization, and your team will contribute both by building the systems that scale our authoring capacity and by writing detections directly when their domain expertise is the right tool.&lt;/p&gt;\n&lt;p&gt;You will partner closely with our Security Incident &amp;amp; Response Team (SIRT), Cyber Threat Intelligence (CTI), AI Engineering teams, and Datadog&#39;s broader Security organization. This is a high-impact leadership role: you will grow a team of security and software engineers responsible for building and executing our detection and AI strategy. At Datadog, we place value in our office culture - the relationships and collaboration it builds and the creativity it brings to the table. We operate as a hybrid workplace to ensure our Datadogs can create a work-life harmony that best fits them.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What You’ll Do:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Lead the strategy, roadmap, and execution of Datadog Security&#39;s shift to AI-accelerated detection and response.&lt;/li&gt;\n&lt;li&gt;Drive development of high-fidelity detections as a shared responsibility across the organization, ensuring your team&#39;s systems and direct contributions raise the bar on coverage and signal quality.&lt;/li&gt;\n&lt;li&gt;Build, mentor, and grow a high-performing team of engineers tackling the hardest problems in threat detection at scale.&lt;/li&gt;\n&lt;li&gt;Partner with sister teams across Threat Detection and the broader Security organization so your team&#39;s deliverables integrate reliably with the rest of the program.&lt;/li&gt;\n&lt;li&gt;Define and track program metrics: detection coverage, signal quality, model and agent fidelity, evaluation pass rates, incident response readiness, and your team&#39;s measurable contribution to security operations outcomes.&lt;/li&gt;\n&lt;li&gt;Evangelize the team&#39;s mission inside and outside the Threat Detection organization, communicating progress, tradeoffs, and bets clearly to security leadership and partner teams.&lt;/li&gt;\n&lt;li&gt;Collaborate with the AI Engineering teams and other internal AI initiatives to build on shared infrastructure where it makes sense and invest in security-specific tooling where it does not.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Who You Are:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;You have worked in a security operations, detection engineering, or incident response role, building tooling and performing investigations and responding to incidents.&lt;/li&gt;\n&lt;li&gt;Strong understanding of modern threat actor techniques and the detection engineering lifecycle.&lt;/li&gt;\n&lt;li&gt;Technically credible, with the ability to review detection logic, code (e.g., Python), and the architecture of security systems (AI-driven or otherwise).&lt;/li&gt;\n&lt;li&gt;You have built automation systems for security operations workflows: detection platforms, AI-driven detection capabilities, case triage, investigation, response automation, or analyst tooling.&lt;/li&gt;\n&lt;li&gt;You have prior experience at a SaaS or cloud infrastructure company where security scale and complexity are first-order challenges.&lt;/li&gt;\n&lt;li&gt;You operate with both rigor and pragmatism on production quality. You know when to ship a useful system, when to invest in further evaluation, and when not to ship at all.&lt;/li&gt;\n&lt;li&gt;Experienced people leader with a focus on mentorship, team growth, and inclusion.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Nice to haves:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;You have led or sponsored threat hunts that drove lasting improvements in detection coverage.&lt;/li&gt;\n&lt;li&gt;You have translated security research, threat intelligence, or analyst workflows into engineered systems.&lt;/li&gt;\n&lt;li&gt;You have designed or operated detection platforms: SIEM pipelines, detection-as-code workflows, CI/CD for security content, or equivalent.&lt;/li&gt;\n&lt;li&gt;You have built observability for detection systems: instrumentation for coverage and drift, false positive analysis, or silent failure detection.&lt;/li&gt;\n&lt;li&gt;You have built and shipped agentic or ML systems to production. You understand the full lifecycle (data, training, evaluation, deployment, monitoring) and have led teams through it.&lt;/li&gt;\n&lt;li&gt;You have designed safety, guardrails, or human-in-the-loop systems for autonomous AI in security domains.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Datadog values people from all walks of life. We understand not everyone will meet all the above qualifications on day one. That&#39;s okay. If you’re passionate about technology and want to grow your skills, we encourage you to apply.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Benefits and Growth:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Generous and competitive benefits package&lt;/li&gt;\n&lt;li&gt;New hire stock equity (RSUs) and employee stock purchase plan&lt;/li&gt;\n&lt;li&gt;Continuous career development and pathing opportunities&lt;/li&gt;\n&lt;li&gt;Employee-focused best in class onboarding&lt;/li&gt;\n&lt;li&gt;Internal mentor and cross-departmental buddy program&lt;/li&gt;\n&lt;li&gt;Friendly and inclusive workplace culture&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;To conform to US export control regulations, candidates should be eligible for any required authorizations from the US government. This job is available in various departments within our company; to conform to US export control regulations, some of these roles may require candidates to be eligible for any required authorizations from the US government.&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Datadog offers a competitive salary and equity package, and may include variable compensation. Actual compensation is based on factors such as the candidate&#39;s skills, qualifications, and experience. In addition, Datadog offers a wide range of best in class, comprehensive and inclusive employee benefits for this role including healthcare, dental, parental planning, and mental health benefits, a 401(k) plan and match, paid time off, fitness reimbursements, and a discounted employee stock purchase plan.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;The reasonably estimated yearly salary for this role at Datadog is:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$192,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$240,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;hr&gt;\n&lt;p&gt;&lt;strong&gt;About Datadog:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Datadog is the leading observability and security platform for the AI era, providing businesses with unified visibility across the technology stack to manage complexity at scale. It brings applications, infrastructure, data, models, and security into one place, using AI to detect and resolve issues before they impact customers. Trusted globally by Fortune 500 companies and high-growth AI leaders, Datadog enables businesses to move faster with clarity and confidence. Learn more about #DatadogLife on &lt;a href=&quot;https://www.instagram.com/datadoghq/?hl=en&quot; target=&quot;_blank&quot;&gt;Instagram&lt;/a&gt;, &lt;a href=&quot;https://www.linkedin.com/company/datadog&quot; target=&quot;_blank&quot;&gt;LinkedIn,&lt;/a&gt; and &lt;a href=&quot;https://learn.datadoghq.com/&quot; target=&quot;_blank&quot;&gt;Datadog Learning Center. &lt;/a&gt;&lt;/p&gt;\n&lt;hr&gt;\n&lt;p data-renderer-start-pos=&quot;215&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Equal Opportunity at Datadog:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Datadog is proud to offer &lt;a href=&quot;https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf&quot; target=&quot;_blank&quot;&gt;equal employment opportunity&lt;/a&gt; to everyone regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, veteran status, and other characteristics protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. Here are our &lt;a href=&quot;https://www.datadoghq.com/legal/candidate-legal-notices/&quot; target=&quot;_blank&quot;&gt;Candidate Legal Notices&lt;/a&gt; for your reference.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Datadog endeavors to make our Careers Page accessible to all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please complete &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSeoJeduEZ2NdZF_65uZmWUrCM-zee7yADXX1s6Xr9zAGq8iKA/viewform&quot; target=&quot;_blank&quot;&gt;this form&lt;/a&gt;. This form is for accommodation requests only and cannot be used to inquire about the status of applications.&amp;nbsp;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;662&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Privacy and AI Guidelines:&lt;/strong&gt;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;662&quot;&gt;Any information you submit to Datadog as part of your application will be processed in accordance with Datadog’s&amp;nbsp;&lt;a class=&quot;c-link&quot; href=&quot;https://www.datadoghq.com/legal/applicant-candidate-privacy/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.datadoghq.com/legal/applicant-candidate-privacy/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Applicant and Candidate Privacy Notice&lt;/a&gt;. For information on our AI policy, please visit &lt;a href=&quot;https://www.datadoghq.com/legal/interviewing-at-datadog-ai-guidelines/&quot; target=&quot;_blank&quot;&gt;Interviewing at Datadog AI Guidelines&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 72256,
+      "name": "Security",
+      "child_ids": [],
+      "parent_id": 9022
+    }
+  ],
+  "offices": [
+    {
+      "id": 5664,
+      "name": "New York",
+      "location": "New York, NY, United States",
+      "child_ids": [
+        81327,
+        76746
+      ],
+      "parent_id": 73429
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

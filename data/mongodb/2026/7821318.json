@@ -1,0 +1,152 @@
+{
+  "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=7821318",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3414382,
+  "location": {
+    "name": "Dublin"
+  },
+  "metadata": [
+    {
+      "id": 22194060,
+      "name": "Position ID",
+      "value": "n/a",
+      "value_type": "short_text"
+    },
+    {
+      "id": 24918,
+      "name": "Department ID",
+      "value": "D23050-Site Reliability Engineering",
+      "value_type": "single_select"
+    },
+    {
+      "id": 22194061,
+      "name": "Team",
+      "value": "274-Platform ENG",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4914027,
+      "name": "Region",
+      "value": "North America",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4137836,
+      "name": "Working Model Eligibility",
+      "value": [
+        "1-In Office"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 4914029,
+      "name": "Job Level",
+      "value": "IC - Professional",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24109,
+      "name": "Employment Type",
+      "value": "Full-time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 1073551,
+      "name": "Job Type",
+      "value": "Pipeline",
+      "value_type": "single_select"
+    },
+    {
+      "id": 988684,
+      "name": "JD Link",
+      "value": "https://docs.google.com/document/d/1UPnR-n8zb3i4FKn-J27ca068Hthr12zP8SjxL11H-5g/edit?tab=t.0",
+      "value_type": "url"
+    },
+    {
+      "id": 5525802,
+      "name": "Baseline Budgeted Salary",
+      "value": {
+        "unit": "USD",
+        "max_value": "198000.0",
+        "min_value": "139000.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 5525816,
+      "name": "Other Large Market Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 13324394,
+      "name": "Job Post Range (United States)",
+      "value": {
+        "unit": "USD",
+        "max_value": "218000.0",
+        "min_value": "111000.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 40497768,
+      "name": "Job Post Range (Canada)",
+      "value": {
+        "unit": "USD",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 57694516,
+      "name": "Job Post Range (Poland)",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 64002488,
+      "name": "Job Post Range (Italy)",
+      "value": null,
+      "value_type": "currency_range"
+    }
+  ],
+  "id": 7821318,
+  "updated_at": "2026-07-21T10:26:00-04:00",
+  "requisition_id": "426238",
+  "title": "Site Reliability Engineer 3",
+  "company_name": "MongoDB",
+  "first_published": "2026-04-21T06:46:55-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;MongoDB’s mission is to empower innovators to create, transform, and disrupt industries by unleashing the power of software and data. We enable organizations of all sizes to easily build, scale, and run modern applications by helping them modernize legacy workloads, embrace innovation, and unleash AI. Our industry-leading developer data platform, MongoDB Atlas, is the only globally distributed, multi-cloud database and is available in more than 115 regions across AWS, Google Cloud, and Microsoft Azure. Atlas allows customers to build and run applications anywhere—on premises, or across cloud providers. With offices worldwide and over 175,000 new developers signing up to use MongoDB every month, it’s no wonder that leading organizations, like Samsung and Toyota, trust MongoDB to build next-generation, AI-powered applications.&lt;/p&gt;\n&lt;p&gt;The Site Reliability Engineering team designs and builds the global infrastructure on which we deploy our services, focusing on the above mentioned flagship MongoDB Atlas platform. As our customers grow and globalize, our services must satisfy demands for low-latency requests around the globe, and comply with various data sovereignty requirements. The SRE Team’s mission is to build this increasingly complex infrastructure, while continually lowering the operational burden associated with it, and increasing our internal visibility into the health of the system. We are strong believers in infrastructure-as-code and self-healing systems. The SRE Team is fully integrated with all the other engineering teams, and the teams work closely together with a soft and traversable boundary between their areas of responsibility.&lt;/p&gt;\n&lt;p&gt;We are looking to speak to candidates who are based in Dublin for our hybrid working model.&lt;/p&gt;\n&lt;h3&gt;Responsibilities&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Design and build the infrastructure for a global cloud service that comprises hundreds of thousands of MongoDB clusters, processes a billion metrics per day, and replicates tens of billions of database writes to our backup service&lt;/li&gt;\n&lt;li&gt;Design, implement, and troubleshoot the automation and monitoring of services that seamlessly spans the globe - including several cloud providers&lt;/li&gt;\n&lt;li&gt;Become an expert in infrastructure performance, helping us optimize from the application level all the way through the firmware&lt;/li&gt;\n&lt;li&gt;Build for resilience. Our goal is that nobody’s pager goes off, ever. Are we there yet? No. Are we really close? Very. While we work on that - participate in a weekly on-call rotation&lt;/li&gt;\n&lt;li&gt;Improve our infrastructure capabilities, optimizing for cost, simplicity, and maintainability&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Requirements&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;3+ years of experience running a mission critical service at scale in a Linux environment&lt;/li&gt;\n&lt;li&gt;Firm grasp of at least one modern programming language, beyond basic scripting&lt;/li&gt;\n&lt;li&gt;Familiarity with web and network protocols and standards (HTTP, TLS, DNS, etc)&lt;/li&gt;\n&lt;li&gt;Bachelor’s degree in Computer Science or equivalent experience&lt;/li&gt;\n&lt;li&gt;Experience writing automation tools &amp;amp; eagerness to &quot;automate all the things&quot;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Nice to have&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience building large applications from scratch, complete with CI/CD infrastructure&lt;/li&gt;\n&lt;li&gt;Experience in networking, security, hardware or OS performance tuning&lt;/li&gt;\n&lt;li&gt;Experience with at least one of the major cloud providers (Amazon Web Services, Google Compute, Microsoft Azure)&lt;/li&gt;\n&lt;li&gt;Experience managing kubernetes clusters or some other container orchestration infrastructure&lt;/li&gt;\n&lt;li&gt;Experience with observability of large scale distributed systems&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;About MongoDB&lt;/h3&gt;\n&lt;p&gt;MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure.&lt;/p&gt;\n&lt;p&gt;With offices worldwide and over 67,000 customers, including 75% of the Fortune 100 and AI-native startups, relying on MongoDB for their most important applications, we’re powering the next era of software.&lt;/p&gt;\n&lt;p&gt;Our compass at MongoDB is our &lt;a href=&quot;https://www.mongodb.com/company&quot;&gt;Leadership Commitment,&lt;/a&gt; guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. &lt;a href=&quot;https://www.mongodb.com/company/blog/culture/employee-benefits-that-make-a-difference-at-mongodb&quot;&gt;From employee affinity groups, to fertility assistance and a generous parental leave policy&lt;/a&gt;, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys.&lt;a href=&quot;https://www.mongodb.com/blog/channel/culture&quot;&gt; Learn more about what it’s like to work at MongoDB&lt;/a&gt;, and help us make an impact on the world!&lt;/p&gt;\n&lt;p&gt;MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.&lt;/p&gt;\n&lt;p&gt;MongoDB is an equal opportunities employer.&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Req ID: 3263213607&lt;/em&gt;&lt;/p&gt;",
+  "departments": [
+    {
+      "id": 85965,
+      "name": "Site Reliability Engineering",
+      "child_ids": [],
+      "parent_id": 371021
+    }
+  ],
+  "offices": [
+    {
+      "id": 3960,
+      "name": "New York City",
+      "location": "New York, NY, United States",
+      "child_ids": [],
+      "parent_id": 23657
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": null
+}

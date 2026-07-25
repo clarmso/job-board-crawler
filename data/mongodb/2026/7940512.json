@@ -1,0 +1,148 @@
+{
+  "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=7940512",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3449912,
+  "location": {
+    "name": "San Francisco"
+  },
+  "metadata": [
+    {
+      "id": 22194060,
+      "name": "Position ID",
+      "value": "10005860",
+      "value_type": "short_text"
+    },
+    {
+      "id": 24918,
+      "name": "Department ID",
+      "value": "D23015-Atlas Search",
+      "value_type": "single_select"
+    },
+    {
+      "id": 22194061,
+      "name": "Team",
+      "value": "278-Atlas Search Query",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4914027,
+      "name": "Region",
+      "value": "North America",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4137836,
+      "name": "Working Model Eligibility",
+      "value": [
+        "2-Flexible"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 4914029,
+      "name": "Job Level",
+      "value": "Professional - IC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24109,
+      "name": "Employment Type",
+      "value": "Full-time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 1073551,
+      "name": "Job Type",
+      "value": "Standard",
+      "value_type": "single_select"
+    },
+    {
+      "id": 988684,
+      "name": "JD Link",
+      "value": "https://docs.google.com/document/d/1uKqjwSYSM8N3lY2CV9HYcmHfzxexxIcngkjf9hXdz0A/edit?tab=t.15rrhedn40rs",
+      "value_type": "url"
+    },
+    {
+      "id": 5525802,
+      "name": "Baseline Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 5525816,
+      "name": "Other Large Market Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 13324394,
+      "name": "Job Post Range (United States)",
+      "value": {
+        "unit": "USD",
+        "max_value": "248000.0",
+        "min_value": "126000.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 40497768,
+      "name": "Job Post Range (Canada)",
+      "value": {
+        "unit": "USD",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 57694516,
+      "name": "Job Post Range (Poland)",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 64002488,
+      "name": "Job Post Range (Italy)",
+      "value": null,
+      "value_type": "currency_range"
+    }
+  ],
+  "id": 7940512,
+  "updated_at": "2026-07-21T10:26:00-04:00",
+  "requisition_id": "2273449912",
+  "title": "Senior Software Engineer, Atlas Search Query",
+  "company_name": "MongoDB",
+  "first_published": "2026-06-18T16:07:12-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;Join the Atlas Search Query team to design and develop the next generation of Search query architecture, optimization, and execution.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Atlas Search is a growing cloud service that allows users to execute complex search and vector search queries using the MongoDB Query Language. Our users can focus on relevance and data retrieval instead of the machinery needed to search data at scale.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Our team is building a cloud-based distributed system responsible for the core components of search including data ingestion, performance, query language, query execution, for both relevance-based search and vector search. Our product is being adopted quickly and there are many interesting projects.&amp;nbsp; This is a technical role where you will be responsible for the success of complex Search Query feature development.&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;We are looking to speak to candidates who are based in San Francisco, CA for our hybrid working model.&lt;/em&gt;&lt;/p&gt;\n&lt;h3&gt;What You’ll Do&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Lead complex projects across the MongoDB ecosystem, for instance, development of a new Search aggregation framework within the MongoDB aggregation framework.&lt;/li&gt;\n&lt;li&gt;Set project level strategy, architect features, and lead projects to successful execution&lt;/li&gt;\n&lt;li&gt;Identify, design, and implement features enhancing our query language, performance, and operability&lt;/li&gt;\n&lt;li&gt;Perform code reviews with peers and make recommendations on how to improve our software development processes&lt;/li&gt;\n&lt;li&gt;Influence and grow team members through active mentoring and leading by example&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;What We Look For&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;5+ years experience in data management/search systems, ideally with a strong query processing and optimization background&lt;/li&gt;\n&lt;li&gt;Experienced in the development and maintenance of stateful distributed systems&lt;/li&gt;\n&lt;li&gt;Eager to shape the technological direction of a complex system and have the ability to lead initiatives through collaboration with others&lt;/li&gt;\n&lt;li&gt;Experienced in debugging and profiling multithreaded applications written in Java and Rust&lt;/li&gt;\n&lt;li&gt;Bonus: experience with designing high-volume query engines, such as a database, search system, or vector search system&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Success Measures:&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;In 3 months, you&#39;ll contribute to the improvement of our core &quot;mongot&quot; repository&lt;/li&gt;\n&lt;li&gt;In 6 months, you&#39;ll be working on projects such as query features or platform improvements&lt;/li&gt;\n&lt;li&gt;In 12 months, you&#39;ll be building POCs, designing new features, and collaborating with other teams from across the company on complex projects&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;About MongoDB&lt;/h3&gt;\n&lt;p&gt;MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure.&lt;/p&gt;\n&lt;p&gt;With offices worldwide and over 67,000 customers, including 75% of the Fortune 100 and AI-native startups, relying on MongoDB for their most important applications, we’re powering the next era of software.&lt;/p&gt;\n&lt;p&gt;Our compass at MongoDB is our &lt;a href=&quot;https://www.mongodb.com/company&quot;&gt;Leadership Commitment,&lt;/a&gt; guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. &lt;a href=&quot;https://www.mongodb.com/company/blog/culture/employee-benefits-that-make-a-difference-at-mongodb&quot;&gt;From employee affinity groups, to fertility assistance and a generous parental leave policy&lt;/a&gt;, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys.&lt;a href=&quot;https://www.mongodb.com/blog/channel/culture&quot;&gt; Learn more about what it’s like to work at MongoDB&lt;/a&gt;, and help us make an impact on the world!&lt;/p&gt;\n&lt;p&gt;MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.&lt;/p&gt;\n&lt;p&gt;MongoDB, Inc. provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type and makes all hiring decisions without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.&lt;/p&gt;\n&lt;p&gt;Req ID: 2273449912&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;MongoDB’s base salary range for this role is posted below. Compensation at the time of offer is unique to each candidate and based on a variety of factors such as skill set, experience, qualifications, and work location. Salary is one part of MongoDB’s total compensation and benefits package. Other benefits for eligible employees may include: equity, participation in the employee stock purchase program, flexible paid time off, 20 weeks fully-paid gender-neutral parental leave, fertility and adoption assistance, 401(k) plan, mental health counseling, access to transgender-inclusive health insurance coverage, and health benefits offerings. Please note, the base salary range listed below and the benefits in this paragraph are only applicable to U.S.-based candidates.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;MongoDB’s base salary range for this role in the U.S. is:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$126,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$248,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 65526,
+      "name": "Atlas Search",
+      "child_ids": [],
+      "parent_id": 371021
+    }
+  ],
+  "offices": [
+    {
+      "id": 17687,
+      "name": "San Francisco ",
+      "location": "San Francisco, CA, United States",
+      "child_ids": [],
+      "parent_id": 23657
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": null
+}

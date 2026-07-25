@@ -1,0 +1,148 @@
+{
+  "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=7523872",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3333173,
+  "location": {
+    "name": "Sydney"
+  },
+  "metadata": [
+    {
+      "id": 22194060,
+      "name": "Position ID",
+      "value": "10014092",
+      "value_type": "short_text"
+    },
+    {
+      "id": 24918,
+      "name": "Department ID",
+      "value": "D22001-App Modernization ENG",
+      "value_type": "single_select"
+    },
+    {
+      "id": 22194061,
+      "name": "Team",
+      "value": "T10339-Modernization ENG",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4914027,
+      "name": "Region",
+      "value": "APAC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4137836,
+      "name": "Working Model Eligibility",
+      "value": [
+        "2-Flexible"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 4914029,
+      "name": "Job Level",
+      "value": "Professional - IC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24109,
+      "name": "Employment Type",
+      "value": "Full-time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 1073551,
+      "name": "Job Type",
+      "value": "Standard",
+      "value_type": "single_select"
+    },
+    {
+      "id": 988684,
+      "name": "JD Link",
+      "value": "https://docs.google.com/document/d/1KhgSdZaEmmnT2JjCP0Sx9q13eNIVb6u7rF5BzOuX6lM/edit?tab=t.qzjh1vh71hx1#heading=h.hq9ycctqjc2i",
+      "value_type": "url"
+    },
+    {
+      "id": 5525802,
+      "name": "Baseline Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 5525816,
+      "name": "Other Large Market Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 13324394,
+      "name": "Job Post Range (United States)",
+      "value": {
+        "unit": "AUD",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 40497768,
+      "name": "Job Post Range (Canada)",
+      "value": {
+        "unit": "AUD",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 57694516,
+      "name": "Job Post Range (Poland)",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 64002488,
+      "name": "Job Post Range (Italy)",
+      "value": null,
+      "value_type": "currency_range"
+    }
+  ],
+  "id": 7523872,
+  "updated_at": "2026-07-21T10:26:00-04:00",
+  "requisition_id": "4263333173",
+  "title": "Senior Software Engineer, App Analysis & Modelling",
+  "company_name": "MongoDB",
+  "first_published": "2026-03-24T06:39:37-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;MongoDB is growing its team in Sydney, focusing on building intelligent tools that help customers understand and modernise their application codebases. The Application Modernisation Platform (AMP) guides customers through the entire journey of modernising their applications — from legacy relational platforms to modern, scalable systems built on MongoDB. The App Analysis &amp;amp; Modelling team owns the critical first stage of this journey: building the context that powers everything downstream. The team builds code analysis tools that construct code dependency graphs and generate deep insights for codebases, giving customers a clear understanding of their existing applications before transformation begins. The team also designs schema recommendation engines that analyse signals such as existing relational schemas and query patterns to inform data modelling decisions. Our work sits at the intersection of analysis, data modelling, and AI — helping developers make confident, data-driven decisions as they transition to MongoDB.&lt;/p&gt;\n&lt;p&gt;We are looking for a Senior Software Engineer who is passionate about building scalable backend systems and applications. As we expand our use of AI to power smarter analysis and recommendations, the ideal candidate will bring strong backend engineering fundamentals with the ability to contribute across the full stack. You will collaborate closely with product management and other engineering teams to design and deliver cutting-edge features that guide customers through complex modernisation journeys.&lt;/p&gt;\n&lt;p&gt;We are looking to speak to candidates who are based in Sydney for our hybrid working model.&lt;/p&gt;\n&lt;h3&gt;The ideal candidate will have&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;5+ years of commercial software development experience with strong proficiency in Python and/or Java&lt;/li&gt;\n&lt;li&gt;Extensive Experience designing and building scalable, high-performance APIs and backend services&lt;/li&gt;\n&lt;li&gt;Solid understanding of relational data modelling and SQL (Oracle, PostgreSQL, MySQL, or similar), including schema design and query optimisation&lt;/li&gt;\n&lt;li&gt;Good understanding of algorithms, data structures, and their time and space complexity&lt;/li&gt;\n&lt;li&gt;Experience with frontend development using React and TypeScript, or a demonstrated willingness and ability to work across the full stack&lt;/li&gt;\n&lt;li&gt;Degree in Computer Science or a similar field, or equivalent practical experience&lt;/li&gt;\n&lt;li&gt;Curiosity, a positive attitude, and a drive to continue learning&lt;/li&gt;\n&lt;li&gt;Excellent verbal and written communication skills&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Nice to have&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience building AI-powered features, including working with Large Language Models (LLMs) and agentic workflows&lt;/li&gt;\n&lt;li&gt;Experience with code analysis, static analysis tooling, or building tools that traverse and interpret code structures programmatically&lt;/li&gt;\n&lt;li&gt;Familiarity with MongoDB&lt;/li&gt;\n&lt;li&gt;Experience with cloud-native distributed systems (e.g., Kubernetes or similar)&lt;/li&gt;\n&lt;li&gt;Contributions to open-source projects&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Position Expectations&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Contribute high-quality, well-tested code to the App Analysis &amp;amp; Modelling team’s backend and frontend services&lt;/li&gt;\n&lt;li&gt;Design and build scalable APIs and data pipelines that power code analysis and schema recommendation features&lt;/li&gt;\n&lt;li&gt;Collaborate effectively with Product Management, other engineers, and designers to build and deliver on the product roadmap&lt;/li&gt;\n&lt;li&gt;Participate actively in code reviews to enforce best practices and maintain a high bar for code quality&lt;/li&gt;\n&lt;li&gt;Give and solicit feedback on technical design documents and pull requests&lt;/li&gt;\n&lt;li&gt;Help troubleshoot and resolve complex technical issues across the stack&lt;/li&gt;\n&lt;li&gt;Perform tasks related to engineering process such as CI/CD, quality, and testing&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Success Measures&lt;/h3&gt;\n&lt;p&gt;Within the first three months, you will have:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Familiarised yourself with the MongoDB database and aggregation language&lt;/li&gt;\n&lt;li&gt;Familiarised yourself with the backend tech stack including Python, Java, and our API infrastructure&lt;/li&gt;\n&lt;li&gt;Set up your software development environment and begin contributing to the codebase&lt;/li&gt;\n&lt;li&gt;Started collaborating with your peers and contributed to code reviews and design discussions&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Within six months, you will have:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Familiarised yourself with the full stack including the React/TypeScript frontend&lt;/li&gt;\n&lt;li&gt;Worked on and delivered a large-scale feature in the product&lt;/li&gt;\n&lt;li&gt;Contributed to and helped deliver multiple product releases&lt;/li&gt;\n&lt;li&gt;Reviewed and contributed to scope and technical design documents&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Within twelve months, you will have:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Become a key contributor to the team, capable of owning complex features independently&lt;/li&gt;\n&lt;li&gt;Delivered at least one large-scale feature that spans the entire tech stack&lt;/li&gt;\n&lt;li&gt;Helped recruit and interview new members of the team&lt;/li&gt;\n&lt;li&gt;Collaborated effectively with other teams at MongoDB on cross-functional projects&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;About MongoDB&lt;/h3&gt;\n&lt;p&gt;MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure.&lt;/p&gt;\n&lt;p&gt;With offices worldwide and over 67,000 customers, including 75% of the Fortune 100 and AI-native startups, relying on MongoDB for their most important applications, we’re powering the next era of software.&lt;/p&gt;\n&lt;p&gt;Our compass at MongoDB is our &lt;a href=&quot;https://www.mongodb.com/company&quot;&gt;Leadership Commitment,&lt;/a&gt; guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.&lt;/p&gt;\n&lt;p&gt;To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. &lt;a href=&quot;https://www.mongodb.com/company/blog/culture/employee-benefits-that-make-a-difference-at-mongodb&quot;&gt;From employee affinity groups, to fertility assistance and a generous parental leave policy&lt;/a&gt;, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys.&lt;a href=&quot;https://www.mongodb.com/blog/channel/culture&quot;&gt; Learn more about what it’s like to work at MongoDB&lt;/a&gt;, and help us make an impact on the world!&lt;/p&gt;\n&lt;p&gt;MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.&lt;/p&gt;\n&lt;p&gt;MongoDB is an equal opportunities employer.&lt;/p&gt;\n&lt;table class=&quot;fields&quot;&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;td&gt;Requisition ID&lt;/td&gt;\n&lt;td data-provides=&quot;requisition_id&quot;&gt;4263333173&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;",
+  "departments": [
+    {
+      "id": 292718,
+      "name": "App Modernization ENG",
+      "child_ids": [],
+      "parent_id": 370707
+    }
+  ],
+  "offices": [
+    {
+      "id": 3965,
+      "name": "Sydney",
+      "location": "Sydney, New South Wales, Australia",
+      "child_ids": [],
+      "parent_id": 23659
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": null
+}

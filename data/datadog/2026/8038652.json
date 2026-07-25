@@ -1,0 +1,96 @@
+{
+  "absolute_url": "https://careers.datadoghq.com/detail/8038652/?gh_jid=8038652",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3484320,
+  "location": {
+    "name": "Tel Aviv, Israel"
+  },
+  "metadata": [
+    {
+      "id": 33310,
+      "name": "Time Type",
+      "value": "Full time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 166208,
+      "name": "Area - Engineering",
+      "value": "Backend",
+      "value_type": "single_select"
+    },
+    {
+      "id": 498252,
+      "name": "Cost Center",
+      "value": "Engineering - Dev Eng",
+      "value_type": "single_select"
+    },
+    {
+      "id": 516515,
+      "name": "Geography",
+      "value": "EMEA",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9593635,
+      "name": "Early Career Time Type",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 29446322,
+      "name": "Pay Transparency Range",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 31273219,
+      "name": "Does this role require access to ITAR-controlled data?",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 58619948,
+      "name": "IC or MG",
+      "value": "IC",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8038652,
+  "updated_at": "2026-07-07T14:28:24-04:00",
+  "requisition_id": "R19773",
+  "title": "Senior Software Engineer - Linux",
+  "company_name": "Datadog",
+  "first_published": "2026-06-30T11:58:07-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div&gt;The eBPF APM team is building a zero-instrumentation observability solution that automatically discovers services on every host, supports both plaintext and TLS-encrypted traffic, classifies Layer 7 protocols, decodes service-level traffic, and reports RED (requests, errors, duration) metrics. Leveraging deep expertise in eBPF, the team operates across a wide range of Linux kernel versions, distributions, and complex customer environments. In addition to low-level networking, the team solves challenges related to protocol versioning, TLS detection across diverse languages and runtimes, and resilient performance in production systems&lt;br&gt;We’re looking for a senior engineer with strong systems-level thinking and a good understanding of Linux. You should be comfortable working close to the kernel, ideally with experience in eBPF, or with a strong desire to dive into it. Proficiency in C/C++/ Go is essential, and familiarity with networking protocols, TLS internals, or distributed tracing is a strong advantage.&lt;br&gt;You’ll join a high-impact team tackling ambitious technical challenges—like decoding traffic across multiple protocols, and ensuring high-fidelity metrics in complex, real-world environments. You’ll be expected to lead design and implementation efforts, contribute to roadmap planning, and collaborate across teams to ensure our solution remains robust, scalable, and frictionless for our users.&lt;br&gt;This role is a great fit for engineers who thrive on low-level, performance-sensitive problems, and want to shape the future of observability through cutting-edge kernel technology.&lt;br&gt;&lt;em&gt;At Datadog, we place value in our office culture - the relationships that it builds, the creativity it brings to the table, and the collaboration of being together. We operate as a hybrid workplace to ensure our employees can create a work-life harmony that best fits them.&lt;/em&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;What You’ll Do:&lt;/strong&gt;&lt;/div&gt;\n&lt;ul&gt;\n&lt;li&gt;Design and build core components of our zero-instrumentation APM product using eBPF and Go&lt;/li&gt;\n&lt;li&gt;Develop systems to auto-discover services, classify L7 protocols, and extract RED metrics from both plaintext and TLS traffic&lt;/li&gt;\n&lt;li&gt;Solve complex challenges around protocol parsing, encryption handling, and performance at the kernel level&lt;/li&gt;\n&lt;li&gt;Ensure broad compatibility across Linux kernel versions, distributions, and diverse customer environments&lt;/li&gt;\n&lt;li&gt;Collaborate across teams to drive technical direction, improve reliability, and scale the system for production use&lt;/li&gt;\n&lt;/ul&gt;\n&lt;div&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;Who You Are: &lt;/strong&gt;&lt;/div&gt;\n&lt;ul&gt;\n&lt;li&gt;You have significant experience in backend or systems-level development, with strong proficiency in Go or similar languages (C/C++)&lt;/li&gt;\n&lt;li&gt;You’re comfortable working close to the Linux kernel and have experience (or interest) in eBPF, networking, or observability tooling&lt;/li&gt;\n&lt;li&gt;You care deeply about performance and efficiency&lt;/li&gt;\n&lt;li&gt;You’ve built or operated scalable systems in complex environments and understand how to design for reliability and compatibility&lt;/li&gt;\n&lt;li&gt;You thrive in a fast-paced, technically deep environment, and are excited to solve hard problems with a small, focused team&lt;/li&gt;\n&lt;li&gt;You’re excited about leveraging AI tools to enhance how you code, solve problems, and build – or eager to learn how&lt;/li&gt;\n&lt;li&gt;You have demonstrated ability to use AI coding tools in day-to-day workflows and validate, critique, and refine AI-generated output&lt;/li&gt;\n&lt;li&gt;You’re motivated to push the boundaries of how AI can improve software engineering best practices and contribute to building AI-enabled products&lt;/li&gt;\n&lt;/ul&gt;\n&lt;div&gt;&lt;em&gt;Datadog values people from all walks of life. We understand not everyone will meet all the above qualifications on day one. That&#39;s okay. If you’re passionate about technology and want to grow your skills, we encourage you to apply. &lt;/em&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;Benefits and Growth:&lt;/strong&gt;&lt;/div&gt;\n&lt;ul&gt;\n&lt;li&gt;New hire stock equity (RSUs) and employee stock purchase plan (ESPP)&lt;/li&gt;\n&lt;li&gt;Continuous professional development, product training, and career pathing&lt;/li&gt;\n&lt;li&gt;Intradepartmental mentor and buddy program for in-house networking&lt;/li&gt;\n&lt;li&gt;An inclusive company culture, ability to join our Community Guilds (Datadog employee resource groups)&lt;/li&gt;\n&lt;li&gt;Access to Inclusion Talks, our Internal panel discussions&lt;/li&gt;\n&lt;li&gt;Free, global mental health benefits for employees and dependents age 6+&lt;/li&gt;\n&lt;li&gt;Competitive global benefits&lt;/li&gt;\n&lt;/ul&gt;\n&lt;div&gt;&lt;br&gt;&lt;br&gt;&lt;em&gt;Benefits and Growth listed above may vary based on the country of your employment and the nature of your employment with Datadog.&lt;/em&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;hr&gt;\n&lt;p&gt;&lt;strong&gt;About Datadog:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Datadog is the leading observability and security platform for the AI era, providing businesses with unified visibility across the technology stack to manage complexity at scale. It brings applications, infrastructure, data, models, and security into one place, using AI to detect and resolve issues before they impact customers. Trusted globally by Fortune 500 companies and high-growth AI leaders, Datadog enables businesses to move faster with clarity and confidence. Learn more about #DatadogLife on &lt;a href=&quot;https://www.instagram.com/datadoghq/?hl=en&quot; target=&quot;_blank&quot;&gt;Instagram&lt;/a&gt;, &lt;a href=&quot;https://www.linkedin.com/company/datadog&quot; target=&quot;_blank&quot;&gt;LinkedIn,&lt;/a&gt; and &lt;a href=&quot;https://learn.datadoghq.com/&quot; target=&quot;_blank&quot;&gt;Datadog Learning Center. &lt;/a&gt;&lt;/p&gt;\n&lt;hr&gt;\n&lt;p data-renderer-start-pos=&quot;215&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Equal Opportunity at Datadog:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Datadog is proud to offer &lt;a href=&quot;https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf&quot; target=&quot;_blank&quot;&gt;equal employment opportunity&lt;/a&gt; to everyone regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, veteran status, and other characteristics protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. Here are our &lt;a href=&quot;https://www.datadoghq.com/legal/candidate-legal-notices/&quot; target=&quot;_blank&quot;&gt;Candidate Legal Notices&lt;/a&gt; for your reference.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Datadog endeavors to make our Careers Page accessible to all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please complete &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSeoJeduEZ2NdZF_65uZmWUrCM-zee7yADXX1s6Xr9zAGq8iKA/viewform&quot; target=&quot;_blank&quot;&gt;this form&lt;/a&gt;. This form is for accommodation requests only and cannot be used to inquire about the status of applications.&amp;nbsp;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;662&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Privacy and AI Guidelines:&lt;/strong&gt;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;662&quot;&gt;Any information you submit to Datadog as part of your application will be processed in accordance with Datadog’s&amp;nbsp;&lt;a class=&quot;c-link&quot; href=&quot;https://www.datadoghq.com/legal/applicant-candidate-privacy/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.datadoghq.com/legal/applicant-candidate-privacy/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Applicant and Candidate Privacy Notice&lt;/a&gt;. For information on our AI policy, please visit &lt;a href=&quot;https://www.datadoghq.com/legal/interviewing-at-datadog-ai-guidelines/&quot; target=&quot;_blank&quot;&gt;Interviewing at Datadog AI Guidelines&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 72253,
+      "name": "Dev Eng",
+      "child_ids": [],
+      "parent_id": 9022
+    }
+  ],
+  "offices": [
+    {
+      "id": 82342,
+      "name": "Tel Aviv",
+      "location": "Tel Aviv District, Israel",
+      "child_ids": [],
+      "parent_id": 78555
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

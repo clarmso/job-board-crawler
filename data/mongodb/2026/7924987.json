@@ -1,0 +1,148 @@
+{
+  "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=7924987",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3444422,
+  "location": {
+    "name": "Gurugram"
+  },
+  "metadata": [
+    {
+      "id": 22194060,
+      "name": "Position ID",
+      "value": "10014877",
+      "value_type": "short_text"
+    },
+    {
+      "id": 24918,
+      "name": "Department ID",
+      "value": "D85022-Data & Platform",
+      "value_type": "single_select"
+    },
+    {
+      "id": 22194061,
+      "name": "Team",
+      "value": "249-Infrastructure",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4914027,
+      "name": "Region",
+      "value": "APAC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4137836,
+      "name": "Working Model Eligibility",
+      "value": [
+        "2-Flexible"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 4914029,
+      "name": "Job Level",
+      "value": "Professional - IC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24109,
+      "name": "Employment Type",
+      "value": "Full-time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 1073551,
+      "name": "Job Type",
+      "value": "Standard",
+      "value_type": "single_select"
+    },
+    {
+      "id": 988684,
+      "name": "JD Link",
+      "value": "https://docs.google.com/document/d/1p2IoHHNS65C3qliwjzlsuNW6ODrMaVj2hRVKv5vGZlI/edit?tab=t.0",
+      "value_type": "url"
+    },
+    {
+      "id": 5525802,
+      "name": "Baseline Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 5525816,
+      "name": "Other Large Market Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 13324394,
+      "name": "Job Post Range (United States)",
+      "value": {
+        "unit": "INR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 40497768,
+      "name": "Job Post Range (Canada)",
+      "value": {
+        "unit": "INR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 57694516,
+      "name": "Job Post Range (Poland)",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 64002488,
+      "name": "Job Post Range (Italy)",
+      "value": null,
+      "value_type": "currency_range"
+    }
+  ],
+  "id": 7924987,
+  "updated_at": "2026-07-21T10:26:00-04:00",
+  "requisition_id": "2273444422",
+  "title": "Senior Platform Engineer",
+  "company_name": "MongoDB",
+  "first_published": "2026-05-22T09:37:42-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;The Infrastructure Engineering team is responsible for building and maintaining a self-service internal development platform that enables MongoDB engineering teams to reliably deploy and operate their own production services and products. We work with numerous engineering teams across the company to understand their infrastructure requirements and development workflows, develop broadly applicable self-service platform services and tooling, continuously monitor how platform services are being utilized, and look for ways to improve developer productivity through automation and education.&lt;/p&gt;\n&lt;p&gt;We are big open source enthusiasts and use a number of open source tools in our stack (contributing upstream whenever possible). Some of the tools we use regularly include Go, AWS, Kubernetes, Crossplane, Terraform, Helm, Drone, Prometheus, and Grafana. However, technology is nothing without a stellar team of engineers that are focused on doing high quality work and working as a team to solve complex distributed computing and platform engineering problems. This is where you come in!&lt;/p&gt;\n&lt;p&gt;We are looking to speak to candidates who are based in Gurugram for our hybrid working model.&lt;/p&gt;\n&lt;h3&gt;Our ideal candidate&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Has built and operated large-scale distributed systems in cloud providers (AWS strongly preferred)&lt;/li&gt;\n&lt;li&gt;Has a strong backend programming background. Fluency in Go is strongly preferred; deep experience with another compiled or strongly-typed backend language is acceptable&lt;/li&gt;\n&lt;li&gt;Has experience working with AI coding agents and can demonstrate building high quality context to yield high quality outputs&lt;/li&gt;\n&lt;li&gt;Has experience designing and implementing medium-to-large software projects, including driving design reviews and mentoring less-senior engineers&lt;/li&gt;\n&lt;li&gt;Pragmatic, detail-oriented, self-motivated, and understands the benefits of collaboration&lt;/li&gt;\n&lt;li&gt;Strong experience operating production Kubernetes clusters, not just deployed to it&lt;/li&gt;\n&lt;li&gt;Has practical experience defining and operating against SLI/SLOs for services they owned&lt;/li&gt;\n&lt;li&gt;Strong experience with observability tooling: metrics, logging, traces, Prometheus, Grafana, OpenTelemetry&lt;/li&gt;\n&lt;li&gt;Strong Linux and TCP/IP networking skills&lt;/li&gt;\n&lt;li&gt;Familiar with standard authentication protocols (OAuth, OIDC)&lt;/li&gt;\n&lt;li&gt;Familiar with web services and/or Kubernetes controller development&lt;/li&gt;\n&lt;li&gt;Strong experience using CI/CD workflows to deploy production services&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Position Expectations&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Work with engineering teams across MongoDB to investigate gaps and limitations in existing development workflows and understand new infrastructure and platform requirements&lt;/li&gt;\n&lt;li&gt;Design self-service platform services and developer tooling that focuses on reliability, usability, and provides the appropriate level of abstraction from cloud infrastructure&lt;/li&gt;\n&lt;li&gt;Regularly write and review automation, configuration management, and application code&lt;/li&gt;\n&lt;li&gt;Author and review functional specifications and scoping documents for large platform projects and services&lt;/li&gt;\n&lt;li&gt;Own and operate much of the internal development platform that runs MongoDB&lt;/li&gt;\n&lt;li&gt;Work on a distributed team that frequently interacts with remote engineers across multiple time zones (PST, EST, GMT, IST)&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Success Measures&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;In three months you&#39;ll have familiarized yourself with much of our environment and will be able to whiteboard important pieces of our platform on the fly. You will also be making regular contributions to our tooling/services and jumping in to help resolve incidents and respond to user requests&lt;/li&gt;\n&lt;li&gt;In six months you&#39;ll have successfully investigated, scoped, executed, and documented a medium to large sized platform project&lt;/li&gt;\n&lt;li&gt;In a year you&#39;ll have used your deep knowledge of our software and infrastructure to help drive platform adoption across the company. You will also be a subject matter expert in at least one component of our platform, and will have made a number of sizable contributions to our code base that significantly improve the quality, reliability and maintainability of our systems&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;About MongoDB&lt;/h3&gt;\n&lt;p&gt;MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure.&lt;/p&gt;\n&lt;p&gt;With offices worldwide and over 67,000 customers, including 75% of the Fortune 100 and AI-native startups, relying on MongoDB for their most important applications, we’re powering the next era of software.&lt;/p&gt;\n&lt;p&gt;Our compass at MongoDB is our &lt;a href=&quot;https://www.mongodb.com/company&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://www.mongodb.com/company&amp;amp;source=gmail&amp;amp;ust=1780991527439000&amp;amp;usg=AOvVaw1zkN8u-F6OouF_UTfWlS5q&quot;&gt;Leadership Commitment,&lt;/a&gt; guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.&lt;/p&gt;\n&lt;p&gt;To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. &lt;a href=&quot;https://www.mongodb.com/company/blog/culture/employee-benefits-that-make-a-difference-at-mongodb&quot;&gt;From employee affinity groups, to fertility assistance and a generous parental leave policy&lt;/a&gt;, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys.&lt;a href=&quot;https://www.mongodb.com/blog/channel/culture&quot;&gt; Learn more about what it’s like to work at MongoDB&lt;/a&gt;, and help us make an impact on the world!&lt;/p&gt;\n&lt;p&gt;MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.&lt;/p&gt;\n&lt;p&gt;MongoDB is an equal opportunities employer.&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Req ID - 2273444422&lt;/em&gt;&lt;/p&gt;",
+  "departments": [
+    {
+      "id": 289356,
+      "name": "Data & Platform",
+      "child_ids": [],
+      "parent_id": 298006
+    }
+  ],
+  "offices": [
+    {
+      "id": 65909,
+      "name": "Gurugram",
+      "location": "Gurugram, Haryana, India",
+      "child_ids": [],
+      "parent_id": 23659
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": null
+}

@@ -1,0 +1,156 @@
+{
+  "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=7428476",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3305802,
+  "location": {
+    "name": "New York City; Palo Alto; San Francisco"
+  },
+  "metadata": [
+    {
+      "id": 22194060,
+      "name": "Position ID",
+      "value": "10013674",
+      "value_type": "short_text"
+    },
+    {
+      "id": 24918,
+      "name": "Department ID",
+      "value": "D85022-Data & Platform",
+      "value_type": "single_select"
+    },
+    {
+      "id": 22194061,
+      "name": "Team",
+      "value": "T10430-Data Product & Governance",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4914027,
+      "name": "Region",
+      "value": "North America",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4137836,
+      "name": "Working Model Eligibility",
+      "value": [
+        "2-Flexible"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 4914029,
+      "name": "Job Level",
+      "value": "Professional - IC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24109,
+      "name": "Employment Type",
+      "value": "Full-time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 1073551,
+      "name": "Job Type",
+      "value": "Standard",
+      "value_type": "single_select"
+    },
+    {
+      "id": 988684,
+      "name": "JD Link",
+      "value": "https://docs.google.com/document/d/1gmoaHHPUmjs5L2spfRpIeFgGUYQI-zXaxmldWMvPAjA/edit?tab=t.0",
+      "value_type": "url"
+    },
+    {
+      "id": 5525802,
+      "name": "Baseline Budgeted Salary",
+      "value": {
+        "unit": "USD",
+        "max_value": "294000.0",
+        "min_value": "206000.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 5525816,
+      "name": "Other Large Market Budgeted Salary",
+      "value": {
+        "unit": "USD",
+        "max_value": "250000.0",
+        "min_value": "175000.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 13324394,
+      "name": "Job Post Range (United States)",
+      "value": {
+        "unit": "USD",
+        "max_value": "323000.0",
+        "min_value": "164000.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 40497768,
+      "name": "Job Post Range (Canada)",
+      "value": {
+        "unit": "USD",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 57694516,
+      "name": "Job Post Range (Poland)",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 64002488,
+      "name": "Job Post Range (Italy)",
+      "value": null,
+      "value_type": "currency_range"
+    }
+  ],
+  "id": 7428476,
+  "updated_at": "2026-07-23T00:35:10-04:00",
+  "requisition_id": "4263305802",
+  "title": "Senior Data Product Manager, Product Telemetry",
+  "company_name": "MongoDB",
+  "first_published": "2025-12-10T13:11:05-05:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;Our Internal Data team is on a mission to power decisions and applications across MongoDB, oriented around the business areas of GTM, Product &amp;amp; Technology, Finance and HR. With this role, we are focusing on delivery of scalable, insightful, and impactful data products for our Product and Technology (P&amp;amp;T) teams - the org that builds MongoDB products for our external customers. These products drive smarter decisions, automate workflows, enable AI agents and deliver actionable insights that accelerate growth. If shaping the future of data-as-a-product excites you, then this opportunity is for you.&lt;/p&gt;\n&lt;p&gt;As a Senior Data Product Manager on our Data team — which includes Data Pipeline/Platform Engineering, Data Architecture, and Data Governance — you will lead efforts to build, enhance, and scale the data products MongoDB employees use every day across a growing, high-impact company. You’ll deliver data products like data pipelines, datasets, reports/dashboards, APIs, ML models, playbooks, and frameworks while enhancing more traditional data management tools/services to power both AI and BI. These data products form the backbone of our internal data ecosystem and are instrumental in empowering teams to achieve their KPIs and innovate faster.&lt;/p&gt;\n&lt;p&gt;In this role you will also have the opportunity to drive the vision and strategy for internal data as a product, with a focus on telemetry and product adoption/engagement/churn signals. By developing tools and systems that provide deep insights into how customers use or don’t use MongoDB’s products, you will empower teams to understand customer behaviors and improve the end-user experience. The goal is to enable data-driven decisions that enhance product design, drive customer value, and fuel innovation across the MongoDB portfolio.&lt;/p&gt;\n&lt;p&gt;This role can be based out of our Palo Alto, San Francisco, or New York City office or remotely in the East Coast region.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;Lead Product Strategy and Ownership&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Define product vision, strategy, and roadmap for MongoDB’s Data teams and products&lt;/li&gt;\n&lt;li&gt;Evangelize the importance of data-as-a-product by creating repeatable and scalable data solutions tailored to business needs&lt;/li&gt;\n&lt;li&gt;Balance quick wins for immediate needs with longer-term innovation aligned with strategic goals, particularly integrating modern data frameworks such as lakehouses and medallion data architecture (bronze, silver, gold sets)&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Partner with Product and Technology (P&amp;amp;T) Teams&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Collaborate deeply with P&amp;amp;T teams to ensure data products address their unique challenges and workflows&lt;/li&gt;\n&lt;li&gt;Work closely with diverse personas — analysts, engineers, P&amp;amp;T teams, and senior leadership — to capture detailed business processes, user stories, and pain points&lt;/li&gt;\n&lt;li&gt;Serve as a trusted partner and advocate for P&amp;amp;T stakeholders by prioritizing solutions that have direct, measurable business impact, as well as driving the “art of the possible”&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Performance and Market Analysis&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Define metrics and KPIs to measure success and iterate on continuous improvement&lt;/li&gt;\n&lt;li&gt;Track innovation and emerging trends in modern data platforms, scalable data engineering, and advanced analytics tooling, integrating these insights into the roadmap to maintain cutting-edge capabilities&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Stakeholder Enablement&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Build user-friendly documentation, guides, and onboarding materials for data products to drive adoption and ensure ongoing literacy in using product features effectively&lt;/li&gt;\n&lt;li&gt;Partner with training teams and change management functions to ensure teams successfully integrate new data tools and features into their workflows&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Adoption and Evangelization&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Announce new product features, datasets, and tools with tailored product marketing strategies to maximize awareness and adoption across MongoDB teams&lt;/li&gt;\n&lt;li&gt;Champion the value of data products in solving business questions; lead re-launch efforts as necessary to reinvigorate flagging adoption and spotlight transformative benefits&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Agile Product Management&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Own and drive agile processes, including sprint planning, backlog grooming, and retrospectives, to ensure timely, high-quality product delivery&lt;/li&gt;\n&lt;li&gt;Balance innovation with tackling tech debt while delivering new features, particularly focusing on datasets, pipelines, frameworks, and tools for user enablement&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Requirements&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;Proven Data Product Manager &amp;amp; Domain Expertise&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;5+ years of hands-on product management experience, with at least two years focused on data products or platforms at a modern, fast-paced, high-growth company&lt;/li&gt;\n&lt;li&gt;Experience with stakeholders in advanced engineering organizations is critical; strong understanding of software development lifecycle processes&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Technical Strength &amp;amp; Understanding of Modern Data Architecture&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Strong technical foundation in data engineering, analytics, and data products&lt;/li&gt;\n&lt;li&gt;Deep familiarity with modern data platforms, scalable architecture (e.g., lakehouses, medallion data), and tools that operationalize insights at enterprise scale.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Strategic and Adaptable Mindset&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Proven ability to prioritize roadmaps in line with P&amp;amp;T operational needs and long-term goals, driving innovation while managing trade-offs with scope, resources, and timelines&lt;/li&gt;\n&lt;li&gt;Adaptable and resourceful problem-solver who tackles challenges independently and escalates only when absolutely necessary&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Growth-Focused&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Expertise in identifying measurable outcomes, tracking success metrics, and iteratively improving product impact&lt;/li&gt;\n&lt;li&gt;Comfortable working in an agile, fast-paced environment where continuous improvement and high-quality delivery are paramount&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Outstanding Communication Skills&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Able to articulate complex concepts to a variety of audiences, from technical teams to non-technical P&amp;amp;T stakeholders and executives&lt;/li&gt;\n&lt;li&gt;Proven ability to align diverse groups on shared goals, priorities, and solutions&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;What Sets You Apart&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience uncovering and driving insights with data science, BI, analytics, or data engineering tools to measure impact and find new business opportunities&lt;/li&gt;\n&lt;li&gt;Proven track record of creating engaging product enablement materials, such as guides, documentation, and training resources&lt;/li&gt;\n&lt;li&gt;Demonstrated passion for evangelizing technical products, datasets, frameworks, and tools while driving adoption across diverse teams&lt;/li&gt;\n&lt;li&gt;Knowledge around metadata management and its implications for long-term discoverability&lt;/li&gt;\n&lt;li&gt;Up-to-date awareness in data market trends, including databases, data science advancements, and software development innovations&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;About MongoDB&lt;/h3&gt;\n&lt;p&gt;MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure.&lt;/p&gt;\n&lt;p&gt;With offices worldwide and over 67,000 customers, including 75% of the Fortune 100 and AI-native startups, relying on MongoDB for their most important applications, we’re powering the next era of software.&lt;/p&gt;\n&lt;p&gt;Our compass at MongoDB is our&amp;nbsp;&lt;a href=&quot;https://www.mongodb.com/company&quot;&gt;Leadership Commitment,&lt;/a&gt; guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.&lt;/p&gt;\n&lt;p&gt;To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. &lt;a href=&quot;https://www.mongodb.com/company/blog/culture/employee-benefits-that-make-a-difference-at-mongodb&quot;&gt;From employee affinity groups, to fertility assistance and a generous parental leave policy&lt;/a&gt;, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys.&lt;a href=&quot;https://www.mongodb.com/blog/channel/culture&quot;&gt; Learn more about what it’s like to work at MongoDB&lt;/a&gt;, and help us make an impact on the world!&lt;/p&gt;\n&lt;p&gt;MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.&lt;/p&gt;\n&lt;p&gt;MongoDB, Inc. provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type and makes all hiring decisions without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.&lt;/p&gt;\n&lt;p&gt;REQ ID: 4263305802&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;MongoDB’s base salary range for this role is posted below. Compensation at the time of offer is unique to each candidate and based on a variety of factors such as skill set, experience, qualifications, and work location. Salary is one part of MongoDB’s total compensation and benefits package. Other benefits for eligible employees may include: equity, participation in the employee stock purchase program, flexible paid time off, 20 weeks fully-paid gender-neutral parental leave, fertility and adoption assistance, 401(k) plan, mental health counseling, access to transgender-inclusive health insurance coverage, and health benefits offerings. Please note, the base salary range listed below and the benefits in this paragraph are only applicable to U.S.-based candidates.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;MongoDB’s base salary range for this role in the U.S. is:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$164,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$323,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 289356,
+      "name": "Data & Platform",
+      "child_ids": [],
+      "parent_id": 298006
+    }
+  ],
+  "offices": [
+    {
+      "id": 3961,
+      "name": "Palo Alto",
+      "location": "Palo Alto, CA, United States",
+      "child_ids": [],
+      "parent_id": 23657
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": null
+}

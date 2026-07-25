@@ -1,0 +1,152 @@
+{
+  "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=8052615",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3490078,
+  "location": {
+    "name": "United States"
+  },
+  "metadata": [
+    {
+      "id": 22194060,
+      "name": "Position ID",
+      "value": "10015377",
+      "value_type": "short_text"
+    },
+    {
+      "id": 24918,
+      "name": "Department ID",
+      "value": "D21200-R&D Developer Productivity",
+      "value_type": "single_select"
+    },
+    {
+      "id": 22194061,
+      "name": "Team",
+      "value": "235-DevProd Workflows",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4914027,
+      "name": "Region",
+      "value": "North America",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4137836,
+      "name": "Working Model Eligibility",
+      "value": [
+        "2-Flexible"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 4914029,
+      "name": "Job Level",
+      "value": "Senior Director",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24109,
+      "name": "Employment Type",
+      "value": "Full-time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 1073551,
+      "name": "Job Type",
+      "value": "Standard",
+      "value_type": "single_select"
+    },
+    {
+      "id": 988684,
+      "name": "JD Link",
+      "value": "https://docs.google.com/document/d/1LH7gtN0t-F-OzUDgdHuyKkRi5YinmawF0RzawpHH_SA/edit?usp=sharing",
+      "value_type": "url"
+    },
+    {
+      "id": 5525802,
+      "name": "Baseline Budgeted Salary",
+      "value": {
+        "unit": "USD",
+        "max_value": "300000.0",
+        "min_value": "210000.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 5525816,
+      "name": "Other Large Market Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 13324394,
+      "name": "Job Post Range (United States)",
+      "value": {
+        "unit": "USD",
+        "max_value": "330000.0",
+        "min_value": "168000.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 40497768,
+      "name": "Job Post Range (Canada)",
+      "value": {
+        "unit": "USD",
+        "max_value": "300000.0",
+        "min_value": "210000.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 57694516,
+      "name": "Job Post Range (Poland)",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 64002488,
+      "name": "Job Post Range (Italy)",
+      "value": null,
+      "value_type": "currency_range"
+    }
+  ],
+  "id": 8052615,
+  "updated_at": "2026-07-23T15:32:44-04:00",
+  "requisition_id": "2273490078",
+  "title": "Senior Director of Engineering, Developer Productivity",
+  "company_name": "MongoDB",
+  "first_published": "2026-07-21T13:12:46-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;MongoDB’s Developer Productivity organization exists to help engineers build and deliver high-quality software through a highly effective software development process and a strong foundation of shared tools and services.&lt;/p&gt;\n&lt;p&gt;We are looking for a Senior Director to lead our Pipeline team. This role is tasked with bringing together the major systems and experiences that power software delivery at MongoDB. The team’s mission is to provide a reliable, scalable, secure, and effective platform for ensuring fast software deployability, leveraging AI native approaches.&lt;/p&gt;\n&lt;p&gt;We are open to in-office, flexible or remote hiring across the US.&lt;/p&gt;\n&lt;h3&gt;The Team&lt;/h3&gt;\n&lt;p&gt;The Pipeline organization sits within Developer Productivity and is responsible for the systems, services, and user experiences that define MongoDB’s software delivery ecosystem. &amp;nbsp; This is mission-critical infrastructure operating at substantial scale and supports a variety of software product delivery needs. Success in this role requires excellent product judgment for developer-facing experiences, strong systems and platform leadership, and the ability to align multiple teams around a cohesive strategy.&lt;/p&gt;\n&lt;h3&gt;Candidate Profile&lt;/h3&gt;\n&lt;p&gt;We’re looking for a senior engineering leader who can unify product-minded developer tooling with deep platform and operational excellence. The right candidate is passionate about developer productivity and has a track record of leading managers and teams through organizational growth, technical complexity, and cross-functional change.&lt;/p&gt;\n&lt;p&gt;They should be comfortable owning a broad portfolio that spans developer experience, reliability and scale, release systems, telemetry, and operational health. They should also be able to work effectively with senior leaders and partners across engineering and product to set direction, allocate resources, and make trade-offs that balance near-term delivery with long-term platform function.&lt;/p&gt;\n&lt;h3&gt;The right candidate for this role will&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;12+ years of hands-on software engineering experience building and operating production systems; experience in developer tooling, platform engineering, observability, or data engineering is a strong plus&lt;/li&gt;\n&lt;li&gt;6+ years of experience managing multiple teams and building a strong bench of leaders in a geographically distributed organization with a track-record of success in hiring, performance management, and fostering a team growth mindset&lt;/li&gt;\n&lt;li&gt;Have a track record of scaling large software systems used by software engineers, ideally including CI/CD, release, or other developer infrastructure platforms with large scale workloads&lt;/li&gt;\n&lt;li&gt;Bring strong judgment across both developer-facing product experience and underlying platform architecture, including user workflows, system reliability, operational insight, and service scalability&lt;/li&gt;\n&lt;li&gt;Have experience with cloud infrastructure and infrastructure-as-code principles; experience with Kubernetes and AWS is especially valuable&lt;/li&gt;\n&lt;li&gt;Understand how to use telemetry, metrics, and analytics to improve developer productivity and operational health&lt;/li&gt;\n&lt;li&gt;Have experience or strong familiarity with software supply chain and release concerns, including reliability, security, and operational rigor&lt;/li&gt;\n&lt;li&gt;Be able to define strategy and drive execution in ambiguous environments with broad organizational impact, acting as a trusted escalation point for complex technical and organizational trade-offs&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;What you will do&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Own the strategy, execution, and operating model for MongoDB’s end-to-end software delivery pipeline across continuous integration and release enablement functions&lt;/li&gt;\n&lt;li&gt;Set portfolio priorities and resource allocation in partnership with leadership and cross-functional stakeholders, balancing urgent delivery needs with long-term platform investments&lt;/li&gt;\n&lt;li&gt;Improve the experience of internal engineering users while also raising the bar on reliability, scalability, security, and operational efficiency&lt;/li&gt;\n&lt;li&gt;Establish and evolve mechanisms for measuring developer productivity, system health, and business impact across the pipeline portfolio&lt;/li&gt;\n&lt;li&gt;Build a healthy, high-performing organization by growing managers, strengthening succession depth, and creating clarity around expectations, accountability, and career development&lt;/li&gt;\n&lt;li&gt;Serve as a senior escalation point for critical trade-offs and cross-functional issues, ensuring decisions are aligned to company priorities and understood in terms of their downstream consequences&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Positive expectations&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Leads a large, strategic organization with a positive and inclusive culture while setting a high bar for accountability and execution&lt;/li&gt;\n&lt;li&gt;Demonstrates mastery of both verbal and written communication to navigate a global organizational structure that utilizes a mix of synchronous and asynchronous engagement&lt;/li&gt;\n&lt;li&gt;Collaborates effectively with leadership and partner teams to coordinate priorities, improve processes, and strengthen MongoDB’s software development ecosystem&lt;/li&gt;\n&lt;li&gt;Makes sound decisions on planning, staffing, and organizational structure, and knows when to optimize locally versus for the broader business&lt;/li&gt;\n&lt;li&gt;Acts like an owner for MongoDB’s broader engineering success, not just the direct organization they lead&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Success measures&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;In three months, you have built strong relationships with your managers and key partners, assessed the current pipeline portfolio, and identified the highest-leverage opportunities across reliability, developer experience&lt;/li&gt;\n&lt;li&gt;In six months, you have established a strategic direction and roadmap for the Pipeline organization, advising on structure and long-term investment choices, and operating as a trusted escalation point for major delivery and platform trade-offs&lt;/li&gt;\n&lt;li&gt;In twelve months, you have laid the groundwork and are delivering measurable, sustained improvements in MongoDB’s software development velocity&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;About MongoDB&lt;/h3&gt;\n&lt;p&gt;MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure.&lt;/p&gt;\n&lt;p&gt;With offices worldwide and over 67,000 customers, including 75% of the Fortune 100 and AI-native startups, relying on MongoDB for their most important applications, we’re powering the next era of software.&lt;/p&gt;\n&lt;p&gt;Our compass at MongoDB is our &lt;a href=&quot;https://www.mongodb.com/company&quot;&gt;Leadership Commitment,&lt;/a&gt; guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. &lt;a href=&quot;https://www.mongodb.com/company/blog/culture/employee-benefits-that-make-a-difference-at-mongodb&quot;&gt;From employee affinity groups, to fertility assistance and a generous parental leave policy&lt;/a&gt;, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys.&lt;a href=&quot;https://www.mongodb.com/blog/channel/culture&quot;&gt; Learn more about what it’s like to work at MongoDB&lt;/a&gt;, and help us make an impact on the world!&lt;/p&gt;\n&lt;p&gt;MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.&lt;/p&gt;\n&lt;p&gt;MongoDB, Inc. provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type and makes all hiring decisions without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.&lt;/p&gt;\n&lt;p&gt;Req ID: 2273490078&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;MongoDB’s base salary range for this role is posted below. Compensation at the time of offer is unique to each candidate and based on a variety of factors such as skill set, experience, qualifications, and work location. Salary is one part of MongoDB’s total compensation and benefits package. Other benefits for eligible employees may include: equity, participation in the employee stock purchase program, flexible paid time off, 20 weeks fully-paid gender-neutral parental leave, fertility and adoption assistance, 401(k) plan, mental health counseling, access to transgender-inclusive health insurance coverage, and health benefits offerings. Please note, the base salary range listed below and the benefits in this paragraph are only applicable to U.S.-based candidates.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;MongoDB’s base salary range for this role in the U.S. is:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$168,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$330,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 85974,
+      "name": "R&D Developer Productivity",
+      "child_ids": [],
+      "parent_id": 371021
+    }
+  ],
+  "offices": [
+    {
+      "id": 3960,
+      "name": "New York City",
+      "location": "New York, NY, United States",
+      "child_ids": [],
+      "parent_id": 23657
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": null
+}

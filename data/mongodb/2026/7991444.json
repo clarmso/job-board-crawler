@@ -1,0 +1,148 @@
+{
+  "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=7991444",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3466769,
+  "location": {
+    "name": "United States"
+  },
+  "metadata": [
+    {
+      "id": 22194060,
+      "name": "Position ID",
+      "value": "10015033",
+      "value_type": "short_text"
+    },
+    {
+      "id": 24918,
+      "name": "Department ID",
+      "value": "D85021-GTM Tech",
+      "value_type": "single_select"
+    },
+    {
+      "id": 22194061,
+      "name": "Team",
+      "value": "387-GTM Tech",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4914027,
+      "name": "Region",
+      "value": "North America",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4137836,
+      "name": "Working Model Eligibility",
+      "value": [
+        "2-Flexible"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 4914029,
+      "name": "Job Level",
+      "value": "Professional - IC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24109,
+      "name": "Employment Type",
+      "value": "Full-time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 1073551,
+      "name": "Job Type",
+      "value": "Standard",
+      "value_type": "single_select"
+    },
+    {
+      "id": 988684,
+      "name": "JD Link",
+      "value": "https://mongodb.greenhouse.io/plans/3466769/approvals/edit",
+      "value_type": "url"
+    },
+    {
+      "id": 5525802,
+      "name": "Baseline Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 5525816,
+      "name": "Other Large Market Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 13324394,
+      "name": "Job Post Range (United States)",
+      "value": {
+        "unit": "USD",
+        "max_value": "198000.0",
+        "min_value": "101000.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 40497768,
+      "name": "Job Post Range (Canada)",
+      "value": {
+        "unit": "USD",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 57694516,
+      "name": "Job Post Range (Poland)",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 64002488,
+      "name": "Job Post Range (Italy)",
+      "value": null,
+      "value_type": "currency_range"
+    }
+  ],
+  "id": 7991444,
+  "updated_at": "2026-07-21T10:26:00-04:00",
+  "requisition_id": "2273466769",
+  "title": "Engineer 3, Business Systems (CPQ) ",
+  "company_name": "MongoDB",
+  "first_published": "2026-06-12T16:47:00-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;h3&gt;About Team&lt;/h3&gt;\n&lt;p&gt;The CRM Technologies Team plays a critical role in optimizing our sales processes, streamlining customer interactions, and maximizing the efficiency of our sales efforts. By leveraging Salesforce and Quote-to-Cash technologies, the team ensures that business users have the tools, automation, and operational support needed to effectively manage quoting, pricing, approvals, and downstream business processes.&lt;/p&gt;\n&lt;p&gt;With deep expertise in Salesforce development, CPQ, integrations, and platform operations, the team continuously enhances the CRM ecosystem to meet evolving business needs. The team partners closely with stakeholders across Sales Operations, Revenue Operations, Finance, Deal Desk, and Engineering to deliver scalable, secure, and reliable Quote-to-Cash solutions.&lt;/p&gt;\n&lt;p&gt;This position supports systems and data subject to FedRAMP and other U.S. government compliance requirements. Due to the nature of the work, U.S. citizenship is required.&lt;/p&gt;\n&lt;p&gt;This role will be based remotely in the United States.&lt;/p&gt;\n&lt;h3&gt;Role Overview&lt;/h3&gt;\n&lt;p&gt;We are looking for a CPQ Engineer III to design, build, and support core capabilities in our Configure–Price–Quote (CPQ) stack that power how our GTM teams sell and price MongoDB offerings. As a senior individual contributor, you will own end-to-end delivery of features across configuration, pricing, discounting, approvals, and quote generation, working closely with Product, Deal Strategy, RevOps, and Sales.&lt;/p&gt;\n&lt;p&gt;You will translate business requirements into high-quality technical solutions on Salesforce CPQ and related platforms, spanning configuration, custom development (Apex/LWC/Flows), and integrations with downstream systems. This role is hands-on and delivery-focused: you will be responsible for implementing well-structured, testable solutions, improving performance and reliability of existing CPQ flows, and contributing to shared patterns, frameworks, and best practices within the CPQ &amp;amp; RevOps engineering team.&lt;/p&gt;\n&lt;h3&gt;What you’ll do&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Design, build, and support Salesforce solutions across product modeling, pricing, quoting, approvals, amendments, and renewals&lt;/li&gt;\n&lt;li&gt;Configure and enhance CPQ capabilities including product rules, price rules, bundles, product options, quote templates, discounting, and approval workflows&lt;/li&gt;\n&lt;li&gt;Partner with Sales Operations, Revenue Operations, Finance, and Deal Desk to understand requirements, identify process gaps, and deliver scalable business solutions&lt;/li&gt;\n&lt;li&gt;Develop and maintain Salesforce solutions using Apex, Lightning Web Components, Flows, SOQL, and platform APIs to support related processes&lt;/li&gt;\n&lt;li&gt;Build and support integrations between Salesforce and external systems such as ERP, billing, payment, contract, and other enterprise platforms&lt;/li&gt;\n&lt;li&gt;Participate in technical design, story grooming, sprint planning, testing, code reviews, release management, and production deployments&lt;/li&gt;\n&lt;li&gt;Troubleshoot and resolve issues across CPQ configuration, pricing logic, automation, integrations, and system performance&lt;/li&gt;\n&lt;li&gt;Support documentation, UAT, regression testing, and user enablement to improve adoption and platform reliability&lt;/li&gt;\n&lt;li&gt;Ensure solutions align with security, data governance, and Salesforce platform best practices&lt;/li&gt;\n&lt;li&gt;Leverage AI-powered engineering tools such as Cursor, Claude Code, Agentforce, GitHub Copilot, and similar capabilities to improve productivity, analysis, troubleshooting, and documentation, while using sound judgment around security, accuracy, and responsible AI usage&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Responsibilities&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Technical Delivery: Translate complex business strategies into scalable technical solutions on Salesforce CPQ, utilizing a mix of declarative configuration and custom development (Apex, LWC, and Flow)&lt;/li&gt;\n&lt;li&gt;System Architecture: Design and implement robust integrations between CPQ and downstream systems (ERP, Billing, Telemetry) to ensure data integrity across the Lead-to-Cash lifecycle&lt;/li&gt;\n&lt;li&gt;Engineering Excellence: Drive high standards for code quality by implementing testable, modular solutions and contributing to shared frameworks and CI/CD best practices&lt;/li&gt;\n&lt;li&gt;Performance Optimization: Proactively identify and resolve bottlenecks in existing CPQ flows, improving calculator speed and user experience for a global sales force&lt;/li&gt;\n&lt;li&gt;Mentorship &amp;amp; Influence: Lead peer code reviews and contribute to the team’s technical playbook, fostering a culture of continuous improvement within the CPQ &amp;amp; RevOps engineering organization&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Minimum Requirements&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Bachelor’s or Master’s degree in Computer Science, Information Systems, Engineering, or equivalent practical experience&lt;/li&gt;\n&lt;li&gt;6+ years of Salesforce development experience, including strong hands-on expertise in the Salesforce platform&lt;/li&gt;\n&lt;li&gt;Good understanding of Quote-to-Cash processes, sales workflows, and Salesforce best practices&lt;/li&gt;\n&lt;li&gt;Hands-on experience with Apex, Lightning Web Components, Flows, SOQL, and REST/SOAP APIs&lt;/li&gt;\n&lt;li&gt;Experience with product modeling, pricing rules, quoting workflows, approvals, amendments, and renewals&lt;/li&gt;\n&lt;li&gt;Experience integrating Salesforce with external systems such as ERP, billing, payment, or other enterprise platforms&lt;/li&gt;\n&lt;li&gt;Familiarity with Agile/Scrum, CI/CD, version control, and Salesforce release practices&lt;/li&gt;\n&lt;li&gt;Strong understanding of Salesforce security, data governance, and implementation best practices&lt;/li&gt;\n&lt;li&gt;Strong analytical, troubleshooting, communication, and collaboration skills&lt;/li&gt;\n&lt;li&gt;Salesforce CPQ Specialist and Salesforce Platform Developer I or II certifications required&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Preferred Qualifications&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Working knowledge of Salesforce Billing and its underlying data model&lt;/li&gt;\n&lt;li&gt;Experience with Salesforce DX, Copado, Gearset, Git-based workflows, or similar DevOps tooling&lt;/li&gt;\n&lt;li&gt;Familiarity with Visualforce, HTML, JavaScript, and CSS&lt;/li&gt;\n&lt;li&gt;Experience preparing training materials, supporting UAT/regression testing, and guiding business users through solution adoption&lt;/li&gt;\n&lt;li&gt;Practical familiarity with AI-powered and agentic tools such as Cursor, Claude Code, Agentforce, and similar platforms, with the ability to use them thoughtfully to improve delivery speed, analysis, documentation quality, and engineering effectiveness&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Success Measures&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;In 3 months, you will: Develop a strong understanding of MongoDB’s CPQ implementation, product and pricing structure, Quote-to-Cash flows, and stakeholder processes&lt;/li&gt;\n&lt;li&gt;In 6 months, you will: Successfully deliver meaningful enhancements across Salesforce CPQ, support key pricing and quoting workflows, and become a dependable contributor to ongoing QTC initiatives&lt;/li&gt;\n&lt;li&gt;In 12 months, you will: Become a trusted technical SME for Salesforce CPQ and related Quote-to-Cash processes, helping drive scalable improvements across pricing, approvals, renewals, amendments, and downstream integrations&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;About MongoDB&lt;/h3&gt;\n&lt;p&gt;MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure.&lt;/p&gt;\n&lt;p&gt;With offices worldwide and over 67,000 customers, including 75% of the Fortune 100 and AI-native startups, relying on MongoDB for their most important applications, we’re powering the next era of software.&lt;/p&gt;\n&lt;p&gt;Our compass at MongoDB is our &lt;a href=&quot;https://www.mongodb.com/company&quot;&gt;Leadership Commitment,&lt;/a&gt; guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. &lt;a href=&quot;https://www.mongodb.com/company/blog/culture/employee-benefits-that-make-a-difference-at-mongodb&quot;&gt;From employee affinity groups, to fertility assistance and a generous parental leave policy&lt;/a&gt;, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys.&lt;a href=&quot;https://www.mongodb.com/blog/channel/culture&quot;&gt; Learn more about what it’s like to work at MongoDB&lt;/a&gt;, and help us make an impact on the world!&lt;/p&gt;\n&lt;p&gt;MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.&lt;/p&gt;\n&lt;p&gt;MongoDB, Inc. provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type and makes all hiring decisions without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.&lt;/p&gt;\n&lt;p&gt;REQ ID: 2273466769&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;MongoDB’s base salary range for this role is posted below. Compensation at the time of offer is unique to each candidate and based on a variety of factors such as skill set, experience, qualifications, and work location. Salary is one part of MongoDB’s total compensation and benefits package. Other benefits for eligible employees may include: equity, participation in the employee stock purchase program, flexible paid time off, 20 weeks fully-paid gender-neutral parental leave, fertility and adoption assistance, 401(k) plan, mental health counseling, access to transgender-inclusive health insurance coverage, and health benefits offerings. Please note, the base salary range listed below and the benefits in this paragraph are only applicable to U.S.-based candidates.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;MongoDB’s base salary range for this role in the U.S. is:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$101,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$198,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 289352,
+      "name": "GTM Tech",
+      "child_ids": [],
+      "parent_id": 298006
+    }
+  ],
+  "offices": [
+    {
+      "id": 3961,
+      "name": "Palo Alto",
+      "location": "Palo Alto, CA, United States",
+      "child_ids": [],
+      "parent_id": 23657
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": null
+}

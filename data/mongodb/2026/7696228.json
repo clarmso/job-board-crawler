@@ -1,0 +1,148 @@
+{
+  "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=7696228",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3383343,
+  "location": {
+    "name": "Cork, Ireland; Dublin, Ireland"
+  },
+  "metadata": [
+    {
+      "id": 22194060,
+      "name": "Position ID",
+      "value": "10010328",
+      "value_type": "short_text"
+    },
+    {
+      "id": 24918,
+      "name": "Department ID",
+      "value": "D22100-Clusters & Interfaces",
+      "value_type": "single_select"
+    },
+    {
+      "id": 22194061,
+      "name": "Team",
+      "value": "T10343-Networking & Observability",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4914027,
+      "name": "Region",
+      "value": "EMEA",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4137836,
+      "name": "Working Model Eligibility",
+      "value": [
+        "2-Flexible"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 4914029,
+      "name": "Job Level",
+      "value": "Professional - IC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24109,
+      "name": "Employment Type",
+      "value": "Full-time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 1073551,
+      "name": "Job Type",
+      "value": "Standard",
+      "value_type": "single_select"
+    },
+    {
+      "id": 988684,
+      "name": "JD Link",
+      "value": "https://docs.google.com/document/d/1gTEL5a1RCQDyS3h4bBSiv3d0NOk5UoAA4ifmS04a9dQ/edit?pli=1&tab=t.0#heading=h.xywbdj93n1l3",
+      "value_type": "url"
+    },
+    {
+      "id": 5525802,
+      "name": "Baseline Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 5525816,
+      "name": "Other Large Market Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 13324394,
+      "name": "Job Post Range (United States)",
+      "value": {
+        "unit": "EUR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 40497768,
+      "name": "Job Post Range (Canada)",
+      "value": {
+        "unit": "EUR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 57694516,
+      "name": "Job Post Range (Poland)",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 64002488,
+      "name": "Job Post Range (Italy)",
+      "value": null,
+      "value_type": "currency_range"
+    }
+  ],
+  "id": 7696228,
+  "updated_at": "2026-07-21T10:26:00-04:00",
+  "requisition_id": "1273383343",
+  "title": "Staff Software Engineer, Server Networking Security (Rust)",
+  "company_name": "MongoDB",
+  "first_published": "2026-03-20T13:29:25-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;Come join the Server Ingress Security team, where we are rearchitecting MongoDB Server’s ingress networking to make MongoDB clusters even more secure. This new team is building the Atlas Network Protection layer, a set of performant, security-critical services that harden MongoDB&#39;s pre-authentication attack surface and provides the ability to respond rapidly to emergent threats. We are looking for talented Staff Engineers to join the team and be founding members, where you will play a crucial role in our multi-year roadmap.&lt;/p&gt;\n&lt;p&gt;Our team champions a strong culture of inclusivity, diversity, and collaboration. If you want to be a key technical leader on a collaborative team that applies security and systems engineering fundamentals to protect a popular database at scale, join us!&lt;/p&gt;\n&lt;p&gt;We are looking to speak to candidates who are based in Dublin or Cork for our hybrid working model.&lt;/p&gt;\n&lt;h3&gt;Candidate Profile&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;10+ years of experience building production-quality systems software with a large user base, robust design structure, and rigorous code quality&lt;/li&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience with large backend/compiled codebases and performance-sensitive software, preferably in Rust&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Bonus points for experience working hands-on in security-sensitive or networking-adjacent domains&lt;/li&gt;\n&lt;/ul&gt;\n&lt;li&gt;Strong systems fundamentals, including multi-threaded programming and performance profiling. Bonus points for:&lt;/li&gt;\n&lt;ul&gt;\n&lt;li&gt;Understanding of network protocols, TLS, and connection lifecycle management.&lt;/li&gt;\n&lt;li&gt;Familiarity with security concepts such as attack surface reduction, input validation, memory safety, and defense-in-depth architectures.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;li&gt;Excellent verbal and written technical communication skills for communicating to a wide variety of audiences ranging from junior engineers to executive stakeholder&lt;/li&gt;\n&lt;li&gt;Strong mentorship skills, and excitement about leveling up your peers and teammates through coaching, feedback, and enablement&lt;/li&gt;\n&lt;li&gt;Strong time management skills and the ability to realistically assess project complexity&lt;/li&gt;\n&lt;li&gt;B.Sc. in Computer Science or a related field, or equivalent practical experience, with strong competencies in data structures, algorithms, and software design/architecture. Interest in the theory and practice of high-availability, security-critical systems&lt;/li&gt;\n&lt;li&gt;Passion for learning new things in the domains of computer science and software engineering&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Position Expectations&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Define and drive the technical strategy for Ingress Security, in collaboration with stakeholders across Server, Atlas, SRE, and Product Security&lt;/li&gt;\n&lt;li&gt;Own the definition, planning, and execution of technical plans to deliver solutions to ambiguous, high-impact security and networking problems&lt;/li&gt;\n&lt;li&gt;Design, implement, and operate production-ready security services in Rust, with a focus on security, correctness, performance, and operational excellence&lt;/li&gt;\n&lt;li&gt;Collaborate with Engineering leadership and other Product &amp;amp; Technology teams on roadmaps to improve the security posture of MongoDB&#39;s ingress stack&lt;/li&gt;\n&lt;li&gt;Advise across the team and organization on engineering complexity, risk, and inter-project dependencies&lt;/li&gt;\n&lt;li&gt;Handle time-sensitive escalations and production incidents that require expert support from Ingress Security&lt;/li&gt;\n&lt;li&gt;Diagnose test failures, identify bugs, performance regressions, and other defects in existing code, and fix them&lt;/li&gt;\n&lt;li&gt;Interview candidates for software engineering positions, and work with Engineering leadership to cultivate the team&#39;s talent bench for long-term growth and success&lt;/li&gt;\n&lt;li&gt;Develop and maintain expertise on relevant cutting-edge research in systems security, network security, and memory-safe systems programming from industry and academia&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Success Measures&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;In the first month: Understand the high-level architecture of the Atlas Network Protection layer, set up your development environment, and resolve a few bugs&lt;/li&gt;\n&lt;li&gt;In three months: Contribute substantially to the Rust development of a current project or milestone, take on code review responsibilities, and participate in reviewing designs for new features&lt;/li&gt;\n&lt;li&gt;In six months: Independently lead the development of major a new feature and help mentor new engineers on the team&lt;/li&gt;\n&lt;li&gt;In twelve months: Drive the&lt;strong&gt; &lt;/strong&gt;Planning, Design, and Execution of major improvements to our security, availability, performance, or operational capabilities&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;About MongoDB&lt;/h3&gt;\n&lt;p&gt;MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure.&lt;/p&gt;\n&lt;p&gt;With offices worldwide and over 67,000 customers, including 75% of the Fortune 100 and AI-native startups, relying on MongoDB for their most important applications, we’re powering the next era of software.&lt;/p&gt;\n&lt;p&gt;Our compass at MongoDB is our &lt;a href=&quot;https://www.mongodb.com/company&quot;&gt;Leadership Commitment,&lt;/a&gt; guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.&lt;/p&gt;\n&lt;p&gt;To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. &lt;a href=&quot;https://www.mongodb.com/company/blog/culture/employee-benefits-that-make-a-difference-at-mongodb&quot;&gt;From employee affinity groups, to fertility assistance and a generous parental leave policy&lt;/a&gt;, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys.&lt;a href=&quot;https://www.mongodb.com/blog/channel/culture&quot;&gt; Learn more about what it’s like to work at MongoDB&lt;/a&gt;, and help us make an impact on the world!&lt;/p&gt;\n&lt;p&gt;MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.&amp;nbsp;&lt;br&gt;&lt;br&gt;REQ ID: 1273383343&lt;/p&gt;",
+  "departments": [
+    {
+      "id": 85971,
+      "name": "Clusters & Interfaces",
+      "child_ids": [],
+      "parent_id": 371021
+    }
+  ],
+  "offices": [
+    {
+      "id": 3962,
+      "name": "Dublin",
+      "location": "Dublin, Ireland",
+      "child_ids": [],
+      "parent_id": 23658
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": null
+}

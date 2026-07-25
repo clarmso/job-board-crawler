@@ -1,0 +1,148 @@
+{
+  "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=7985996",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3465440,
+  "location": {
+    "name": "Mexico City"
+  },
+  "metadata": [
+    {
+      "id": 22194060,
+      "name": "Position ID",
+      "value": "10012102",
+      "value_type": "short_text"
+    },
+    {
+      "id": 24918,
+      "name": "Department ID",
+      "value": "D21415-Core Product Management",
+      "value_type": "single_select"
+    },
+    {
+      "id": 22194061,
+      "name": "Team",
+      "value": "T10041-Query PM",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4914027,
+      "name": "Region",
+      "value": "North America",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4137836,
+      "name": "Working Model Eligibility",
+      "value": [
+        "2-Flexible"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 4914029,
+      "name": "Job Level",
+      "value": "Professional - IC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24109,
+      "name": "Employment Type",
+      "value": "Full-time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 1073551,
+      "name": "Job Type",
+      "value": "Standard",
+      "value_type": "single_select"
+    },
+    {
+      "id": 988684,
+      "name": "JD Link",
+      "value": "https://docs.google.com/document/d/1yrUw-xwgUUHRHcFOYzZKejTtemEMALft1NJgROSmh0I/edit?tab=t.0#heading=h.lfdng4vn27rt",
+      "value_type": "url"
+    },
+    {
+      "id": 5525802,
+      "name": "Baseline Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 5525816,
+      "name": "Other Large Market Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 13324394,
+      "name": "Job Post Range (United States)",
+      "value": {
+        "unit": "MXN",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 40497768,
+      "name": "Job Post Range (Canada)",
+      "value": {
+        "unit": "MXN",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 57694516,
+      "name": "Job Post Range (Poland)",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 64002488,
+      "name": "Job Post Range (Italy)",
+      "value": null,
+      "value_type": "currency_range"
+    }
+  ],
+  "id": 7985996,
+  "updated_at": "2026-07-21T10:26:00-04:00",
+  "requisition_id": "2273465440",
+  "title": "Senior Software Engineer",
+  "company_name": "MongoDB",
+  "first_published": "2026-06-08T17:47:50-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;We’re looking for a Software Engineer to join the PM Benchmarking team in Mexico City. This team designs and executes competitive performance testing that benchmarks MongoDB against alternative technologies, while also building the reusable tooling, frameworks, and engineering practices needed to scale that work over time.&lt;/p&gt;\n&lt;p&gt;This role is a strong fit for an engineer who wants meaningful hands-on coding time, enjoys performance analysis, and is motivated by turning ambiguous technical questions into clear plans, repeatable systems, and high-impact outputs. You will work across the full lifecycle of a benchmark initiative: design, code, run, analyze, and communicate findings. You will also help improve the internal tooling and engineering workflows that make this work faster, more reliable, and more useful across MongoDB.&lt;/p&gt;\n&lt;h3&gt;What you’ll do&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Design performance and benchmarking workloads that reflect realistic customer or product scenarios&lt;/li&gt;\n&lt;li&gt;Build and improve production-quality internal tooling, test harnesses, automation, and reusable workload components&lt;/li&gt;\n&lt;li&gt;Write and maintain code primarily in Python, while adapting to adjacent tools and technologies as needed&lt;/li&gt;\n&lt;li&gt;Run benchmarks across cloud environments and database platforms, with attention to fairness, noise reduction, cost, and repeatability&lt;/li&gt;\n&lt;li&gt;Analyze latency, throughput, scalability, and infrastructure signals to identify bottlenecks and explain results clearly&lt;/li&gt;\n&lt;li&gt;Translate broad business or engineering questions into scoped technical plans, success criteria, and execution milestones&lt;/li&gt;\n&lt;li&gt;Partner closely with Engineering, Product, Sales, and other stakeholders to ensure testing work is relevant and actionable&lt;/li&gt;\n&lt;li&gt;Produce clear technical documents, reports, and summaries that connect findings to product decisions and field value&lt;/li&gt;\n&lt;li&gt;Help shape team standards for documentation, onboarding, prioritization, and benchmark execution as the team continues to mature&lt;/li&gt;\n&lt;li&gt;Mentor peers where appropriate and contribute to a collaborative, low-ego engineering culture&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;What we’re looking for&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;5+ years of experience building, debugging, and improving distributed and/or highly concurrent software systems&lt;/li&gt;\n&lt;li&gt;Strong software engineering fundamentals, including writing maintainable code, profiling performance, and debugging complex issues&lt;/li&gt;\n&lt;li&gt;Hands-on experience with performance testing methodologies such as load, stress, latency, or scalability testing&lt;/li&gt;\n&lt;li&gt;Experience designing and implementing benchmarking or performance-validation workflows&lt;/li&gt;\n&lt;li&gt;Strong coding skills in Python or a similar language, plus the ability to learn new stacks quickly&lt;/li&gt;\n&lt;li&gt;Strong hands-on experience with at least one of the three major cloud providers used for this role, AWS, Azure or GCP, including the practical trade-offs involved in running reliable applications at scale&lt;/li&gt;\n&lt;li&gt;Strong hands-on experience with PostgreSQL, MySQL, Aurora, Cassandra, or other competing data platforms&lt;/li&gt;\n&lt;li&gt;Ability to reason about relational and document data models, distributed systems behavior, and infrastructure bottlenecks&lt;/li&gt;\n&lt;li&gt;Strong written and verbal communication skills, especially when explaining technical findings to different audiences&lt;/li&gt;\n&lt;li&gt;Ability to work with ambiguity, define structure where needed, and operate with a high degree of ownership and autonomy&lt;/li&gt;\n&lt;li&gt;Bachelor’s degree in Computer Science or a related field, or equivalent practical experience&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Nice to have&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience with MongoDB architecture, MQL, and MongoDB performance tuning&lt;/li&gt;\n&lt;li&gt;Experience with CI/CD systems and integrating automated tests into engineering workflows&lt;/li&gt;\n&lt;li&gt;Experience creating reusable technical documentation, runbooks, or internal playbooks&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Success in this role&lt;/h3&gt;\n&lt;h4&gt;In your first 30 days&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Build a clear understanding of the team’s current workloads, tooling, roadmap, and stakeholder landscape&lt;/li&gt;\n&lt;li&gt;Complete onboarding and identify the main technical systems, docs, and knowledge gaps relevant to your work&lt;/li&gt;\n&lt;li&gt;Start contributing code, review feedback, and execution support on active benchmark efforts&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;In your first 90 days&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Independently contribute to the design, coding, execution, and analysis of multiple benchmark initiatives&lt;/li&gt;\n&lt;li&gt;Improve at least one area of the team’s tooling, documentation, or execution workflow&lt;/li&gt;\n&lt;li&gt;Build strong working relationships with key cross-functional partners&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;In your first 6 months&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Own meaningful benchmark or tooling work from scoping through delivery&lt;/li&gt;\n&lt;li&gt;Improve repeatability, clarity, or efficiency in how the team designs, runs, or reports on tests&lt;/li&gt;\n&lt;li&gt;Contribute to mentorship, documentation, or process improvements that increase team autonomy&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;In your first 12 months&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Be a trusted technical contributor across benchmark design, tooling, and analysis&lt;/li&gt;\n&lt;li&gt;Influence how the team prioritizes and scales its work&lt;/li&gt;\n&lt;li&gt;Expand your scope through technical leadership, cr&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;About MongoDB&lt;/h3&gt;\n&lt;p&gt;MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure.&lt;/p&gt;\n&lt;p&gt;With offices worldwide and over 67,000 customers, including 75% of the Fortune 100 and AI-native startups, relying on MongoDB for their most important applications, we’re powering the next era of software.&lt;/p&gt;\n&lt;p&gt;Our compass at MongoDB is our &lt;a href=&quot;https://www.mongodb.com/company&quot;&gt;Leadership Commitment,&lt;/a&gt; guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.&lt;/p&gt;\n&lt;p&gt;To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. &lt;a href=&quot;https://www.mongodb.com/company/blog/culture/employee-benefits-that-make-a-difference-at-mongodb&quot;&gt;From employee affinity groups, to fertility assistance and a generous parental leave policy&lt;/a&gt;, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys.&lt;a href=&quot;https://www.mongodb.com/blog/channel/culture&quot;&gt; Learn more about what it’s like to work at MongoDB&lt;/a&gt;, and help us make an impact on the world!&lt;/p&gt;\n&lt;p&gt;MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.&lt;/p&gt;\n&lt;p&gt;MongoDB is an equal opportunities employer.&lt;/p&gt;\n&lt;p&gt;REQ ID: 2273465440&lt;/p&gt;",
+  "departments": [
+    {
+      "id": 73383,
+      "name": "Product Management",
+      "child_ids": [],
+      "parent_id": 370706
+    }
+  ],
+  "offices": [
+    {
+      "id": 13025,
+      "name": "Mexico City",
+      "location": "Mexico City, Mexico",
+      "child_ids": [],
+      "parent_id": 23657
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": null
+}

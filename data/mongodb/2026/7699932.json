@@ -1,0 +1,148 @@
+{
+  "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=7699932",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3384521,
+  "location": {
+    "name": "Cork, Ireland; Dublin, Ireland"
+  },
+  "metadata": [
+    {
+      "id": 22194060,
+      "name": "Position ID",
+      "value": "10014078",
+      "value_type": "short_text"
+    },
+    {
+      "id": 24918,
+      "name": "Department ID",
+      "value": "D21010-Query",
+      "value_type": "single_select"
+    },
+    {
+      "id": 22194061,
+      "name": "Team",
+      "value": "T10509-Query Optimization",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4914027,
+      "name": "Region",
+      "value": "EMEA",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4137836,
+      "name": "Working Model Eligibility",
+      "value": [
+        "2-Flexible"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 4914029,
+      "name": "Job Level",
+      "value": "Professional - IC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24109,
+      "name": "Employment Type",
+      "value": "Full-time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 1073551,
+      "name": "Job Type",
+      "value": "Standard",
+      "value_type": "single_select"
+    },
+    {
+      "id": 988684,
+      "name": "JD Link",
+      "value": "https://docs.google.com/document/d/1Lpe9WxXKKkWui3XtO2ZXQfQ3np--TughSBS9Qur2xuc/edit?tab=t.0",
+      "value_type": "url"
+    },
+    {
+      "id": 5525802,
+      "name": "Baseline Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 5525816,
+      "name": "Other Large Market Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 13324394,
+      "name": "Job Post Range (United States)",
+      "value": {
+        "unit": "EUR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 40497768,
+      "name": "Job Post Range (Canada)",
+      "value": {
+        "unit": "EUR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 57694516,
+      "name": "Job Post Range (Poland)",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 64002488,
+      "name": "Job Post Range (Italy)",
+      "value": null,
+      "value_type": "currency_range"
+    }
+  ],
+  "id": 7699932,
+  "updated_at": "2026-07-21T10:26:00-04:00",
+  "requisition_id": "1273384521",
+  "title": "Software Engineer 3, Query Execution",
+  "company_name": "MongoDB",
+  "first_published": "2026-03-13T13:22:10-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;Join the MongoDB Server Query team, and help us build a world-class distributed open source query engine. Our team plays a crucial role in the experience and performance of data processing. We are responsible for the MongoDB Query Language and the lifecycle of each query, from parsing to optimization to plan selection and finally execution. This also includes our geospatial search and update subsystems.&lt;/p&gt;\n&lt;p&gt;Our global team is growing fast. In North America, we have a presence across the US and Canada including New York, West Coast, Toronto. In Europe, we have a presence in Dublin, Germany, France, Netherlands, UK, Bulgaria, Spain and Italy currently. We support office-based and remote work and align projects with convenient work hours for each time-zone.&lt;/p&gt;\n&lt;p&gt;We have tons of interesting problems to solve with direct impact on users for transactional, time-series and analytical workloads. We need your help to design and build the heart of a distributed, flexible schema, document database.&lt;/p&gt;\n&lt;p&gt;We are looking to speak to candidates who are based in Dublin or Cork for our hybrid working model.&lt;/p&gt;\n&lt;h3&gt;Candidate Profile&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;3+ years of experience in data intensive environments&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Hands-on experience building industrial-strength software&lt;/li&gt;\n&lt;li&gt;Solid computer science fundamentals, with strong competencies in data structures, algorithms, and software design/architecture&lt;/li&gt;\n&lt;li&gt;Experience with large code bases&lt;/li&gt;\n&lt;li&gt;B.Sc in Computer Science or similar field, or equivalent practical experience&lt;/li&gt;\n&lt;li&gt;Experience in C++ and in developing database systems is a plus&lt;/li&gt;\n&lt;li&gt;Interest in the theory and practice of database query engines. Hands-on experience or M.Sc./Ph.D in the domain is a plus&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Position Expectations&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Understand and improve current functionality of the MongoDB query engine&lt;/li&gt;\n&lt;li&gt;Identify, design, implement, test, and support new features related to query performance and robustness, query language enhancements, diagnostics for query performance problems, and integration with other products and tools&lt;/li&gt;\n&lt;li&gt;Work with other engineers to coordinate seamless changes in a feature-rich, large code base&lt;/li&gt;\n&lt;li&gt;Work with other teams including client drivers, cloud services, enterprise tools, support, consulting, education, and marketing to coordinate changes or contribute to their projects&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Success Measures&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;In one month, you&#39;ll have fixed a few bugs in a minor version of our latest release series.&lt;/li&gt;\n&lt;li&gt;In three months you’ll have contributed to the development of a project slated for the next major version.&lt;/li&gt;\n&lt;li&gt;In six months, you’ll have taken on primary code review responsibilities and are involved in reviewing the design for new features&lt;/li&gt;\n&lt;li&gt;In twelve months, you’re making significant contributions to the development of a new major features&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;About MongoDB&lt;/h3&gt;\n&lt;p&gt;MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure.&lt;/p&gt;\n&lt;p&gt;With offices worldwide and over 67,000 customers, including 75% of the Fortune 100 and AI-native startups, relying on MongoDB for their most important applications, we’re powering the next era of software.&lt;/p&gt;\n&lt;p&gt;Our compass at MongoDB is our &lt;a href=&quot;https://www.mongodb.com/company&quot;&gt;Leadership Commitment,&lt;/a&gt; guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.&lt;/p&gt;\n&lt;p&gt;To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. &lt;a href=&quot;https://www.mongodb.com/company/blog/culture/employee-benefits-that-make-a-difference-at-mongodb&quot;&gt;From employee affinity groups, to fertility assistance and a generous parental leave policy&lt;/a&gt;, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys.&lt;a href=&quot;https://www.mongodb.com/blog/channel/culture&quot;&gt; Learn more about what it’s like to work at MongoDB&lt;/a&gt;, and help us make an impact on the world!&lt;/p&gt;\n&lt;p&gt;MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.&lt;/p&gt;\n&lt;p&gt;REQ ID: 1273384521&lt;/p&gt;",
+  "departments": [
+    {
+      "id": 85967,
+      "name": "Query",
+      "child_ids": [],
+      "parent_id": 371021
+    }
+  ],
+  "offices": [
+    {
+      "id": 3962,
+      "name": "Dublin",
+      "location": "Dublin, Ireland",
+      "child_ids": [],
+      "parent_id": 23658
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": null
+}

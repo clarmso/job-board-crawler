@@ -1,0 +1,148 @@
+{
+  "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=8017380",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3475887,
+  "location": {
+    "name": "Gurugram"
+  },
+  "metadata": [
+    {
+      "id": 22194060,
+      "name": "Position ID",
+      "value": "10014853",
+      "value_type": "short_text"
+    },
+    {
+      "id": 24918,
+      "name": "Department ID",
+      "value": "D85024-FIN Tech",
+      "value_type": "single_select"
+    },
+    {
+      "id": 22194061,
+      "name": "Team",
+      "value": "388-ERP",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4914027,
+      "name": "Region",
+      "value": "APAC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4137836,
+      "name": "Working Model Eligibility",
+      "value": [
+        "2-Flexible"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 4914029,
+      "name": "Job Level",
+      "value": "Professional - IC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24109,
+      "name": "Employment Type",
+      "value": "Full-time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 1073551,
+      "name": "Job Type",
+      "value": "Standard",
+      "value_type": "single_select"
+    },
+    {
+      "id": 988684,
+      "name": "JD Link",
+      "value": "https://docs.google.com/document/d/1HMH4m3u_xLGJXG2DieuTcrKfVRdTR9dnLRYtU6sgjvk/edit?tab=t.0",
+      "value_type": "url"
+    },
+    {
+      "id": 5525802,
+      "name": "Baseline Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 5525816,
+      "name": "Other Large Market Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 13324394,
+      "name": "Job Post Range (United States)",
+      "value": {
+        "unit": "INR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 40497768,
+      "name": "Job Post Range (Canada)",
+      "value": {
+        "unit": "INR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 57694516,
+      "name": "Job Post Range (Poland)",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 64002488,
+      "name": "Job Post Range (Italy)",
+      "value": null,
+      "value_type": "currency_range"
+    }
+  ],
+  "id": 8017380,
+  "updated_at": "2026-07-21T10:26:00-04:00",
+  "requisition_id": "2273475887",
+  "title": "Sr Finance Systems Admin (L1 Support & Admin)",
+  "company_name": "MongoDB",
+  "first_published": "2026-07-02T07:32:06-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;We are looking for a detail-oriented and collaborative Finance Systems Administrator to join the Finance Systems team in India. This is a hands-on, service-delivery role responsible for day-to-day L1 support, user administration, and configuration changes across MongoDB&#39;s suite of Finance applications.&lt;/p&gt;\n&lt;p&gt;You will be the first point of contact for end users encountering issues or making requests across NetSuite, Coupa, Concur, Graphite, YayPay, EPM system, and associated Tax &amp;amp; Treasury platforms. You will triage, resolve, or escalate tickets, maintain user access, support month-end activities, and help improve operational processes over time.&lt;/p&gt;\n&lt;p&gt;We are looking to speak to candidates who are based in Gurugram for our hybrid working model.&lt;/p&gt;\n&lt;h3&gt;Key Responsibilities&lt;/h3&gt;\n&lt;h4&gt;L1 Support &amp;amp; Ticket Management&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Own the L1 support queue for all Finance applications — triage, prioritise, resolve, or escalate tickets per defined SLAs&lt;/li&gt;\n&lt;li&gt;Troubleshoot common functional issues: data entry errors, workflow approvals, report access, login/SSO problems, and configuration mismatches&lt;/li&gt;\n&lt;li&gt;Document known issues and resolutions in a shared knowledge base; contribute to runbooks and FAQs to reduce recurring tickets&lt;/li&gt;\n&lt;li&gt;Communicate timely and clearly with end users on ticket status, expected resolution, and workarounds&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;User Administration &amp;amp; Access Management&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Provision, modify, and deprovision user accounts across NetSuite, Coupa, Concur, Graphite, YayPay, and Anaplan/Pigment - set up SCIM where applicable&lt;/li&gt;\n&lt;li&gt;Assign roles, permission sets, and approval hierarchies in line with access control policies and least-privilege principles&lt;/li&gt;\n&lt;li&gt;Run regular access certification reviews and clean up inactive accounts&lt;/li&gt;\n&lt;li&gt;Coordinate with HR and IT during onboarding/offboarding events to ensure timely access changes&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Configuration &amp;amp; Admin Tasks&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Perform low-complexity system configuration: adding/updating cost centres, departments, approval workflows, expense categories, supplier records, and similar admin objects&lt;/li&gt;\n&lt;li&gt;Support Finance teams with month-end and quarter-end tasks — running scheduled jobs, validating data loads, and confirming system readiness&lt;/li&gt;\n&lt;li&gt;Assist in testing configuration changes or patches in sandbox environments before promoting to production&lt;/li&gt;\n&lt;li&gt;Maintain system documentation including configuration guides, data dictionaries, and change logs&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Stakeholder Coordination&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Liaise with Level 2/3 support teams and external vendors for escalated issues requiring deeper technical or functional expertise&lt;/li&gt;\n&lt;li&gt;Participate in regular system health reviews and communicate recurring pain points to the broader product leads&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Process Improvement &amp;amp; Compliance&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Identify patterns in the support queue and proactively flag systemic issues to reduce ticket volume&lt;/li&gt;\n&lt;li&gt;Follow ITIL-aligned change and incident management processes&lt;/li&gt;\n&lt;li&gt;Support SOX and audit activities by providing user access logs, change documentation, and system evidence as required&lt;/li&gt;\n&lt;li&gt;Review all Saas applications periodically and share POV on possible consolidations&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Security Administration&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Serve as the first line of defence for security-related requests across all Finance applications — managing role assignments, permission changes, and access removals in a timely and auditable manner&lt;/li&gt;\n&lt;li&gt;Maintain and enforce least-privilege access principles; review and challenge access requests that exceed job function requirements before provisioning&lt;/li&gt;\n&lt;li&gt;Run periodic user access reviews (UARs) across NetSuite, Coupa, Concur, Graphite, YayPay, Anaplan/Pigment, and Tax &amp;amp; Treasury systems; document findings and remediate exceptions within agreed SLAs&lt;/li&gt;\n&lt;li&gt;Monitor and action Joiner-Mover-Leaver (JML) events — ensure access is provisioned on day one for joiners, updated promptly for role changes, and revoked on the last day for leavers&lt;/li&gt;\n&lt;li&gt;Coordinate with IT Security and Identity &amp;amp; Access Management (IAM) teams on SSO/SAML provisioning via Okta or equivalent; troubleshoot authentication and MFA issues for Finance application users&lt;/li&gt;\n&lt;li&gt;Investigate and escalate suspected unauthorised access, unusual login activity, or policy violations to the IT Security team; preserve evidence and document the incident timeline&lt;/li&gt;\n&lt;li&gt;Manage segregation of duties (SoD) conflicts — identify conflicting role combinations in systems such as NetSuite and Coupa, document exceptions with compensating controls, and report to Internal Audit as required&lt;/li&gt;\n&lt;li&gt;Support IT General Controls (ITGC) testing and evidence collection: produce user access reports, change logs, and audit trails for internal and external auditors&lt;/li&gt;\n&lt;li&gt;Maintain security configuration documentation for each Finance platform — including role matrices, permission templates, and approved access request forms — keeping them current after every change&lt;/li&gt;\n&lt;li&gt;Participate in security assessments and vendor reviews for Finance applications; flag risks and follow up on remediation items&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Qualifications&lt;/h3&gt;\n&lt;h4&gt;Required&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;6–8 years of experience in Finance systems support, ERP administration, or a similar generalist Finance IT role&lt;/li&gt;\n&lt;li&gt;Hands-on working knowledge of at least 2–3 of the following: NetSuite, Coupa, Concur, Anaplan/Pigment, or equivalent cloud Finance applications&lt;/li&gt;\n&lt;li&gt;Solid understanding of Finance and Accounting processes: procure-to-pay, order-to-cash, expense management, financial planning, and reporting&lt;/li&gt;\n&lt;li&gt;Experience managing user access, roles, and permissions in SaaS Finance platforms&lt;/li&gt;\n&lt;li&gt;Strong written and verbal communication skills in English; ability to translate technical issues for non-technical Finance stakeholders&lt;/li&gt;\n&lt;li&gt;Organised and methodical approach to ticket handling, documentation, and follow-through&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Preferred&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience with YayPay (AR automation), Graphite (contract management), or Tax/Treasury platforms (e.g., Kyriba)&lt;/li&gt;\n&lt;li&gt;Familiarity with SSO/SAML provisioning (Okta or similar) in the context of Finance application onboarding&lt;/li&gt;\n&lt;li&gt;Exposure to SOX compliance requirements, user access reviews, or IT General Controls (ITGCs)&lt;/li&gt;\n&lt;li&gt;Basic SQL or reporting tool skills (SuiteAnalytics, Power BI, or similar) for ad hoc data validation&lt;/li&gt;\n&lt;li&gt;Experience in a high-growth, global technology company or shared services environment&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Education&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Bachelor&#39;s degree in Information Systems, Computer Science, or a related field. Equivalent practical experience accepted&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;About MongoDB&lt;/h3&gt;\n&lt;p&gt;MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure.&lt;/p&gt;\n&lt;p&gt;With offices worldwide and over 67,000 customers, including 75% of the Fortune 100 and AI-native startups, relying on MongoDB for their most important applications, we’re powering the next era of software.&lt;/p&gt;\n&lt;p&gt;Our compass at MongoDB is our &lt;a href=&quot;https://www.mongodb.com/company&quot;&gt;Leadership Commitment,&lt;/a&gt; guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. &lt;a href=&quot;https://www.mongodb.com/company/blog/culture/employee-benefits-that-make-a-difference-at-mongodb&quot;&gt;From employee affinity groups, to fertility assistance and a generous parental leave policy&lt;/a&gt;, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys.&lt;a href=&quot;https://www.mongodb.com/blog/channel/culture&quot;&gt; Learn more about what it’s like to work at MongoDB&lt;/a&gt;, and help us make an impact on the world!&lt;/p&gt;\n&lt;p&gt;MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.&lt;/p&gt;\n&lt;p&gt;MongoDB is an equal opportunities employer.&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Req ID - 2273475887&lt;/em&gt;&lt;/p&gt;",
+  "departments": [
+    {
+      "id": 289353,
+      "name": "FIN Tech",
+      "child_ids": [],
+      "parent_id": 298006
+    }
+  ],
+  "offices": [
+    {
+      "id": 65909,
+      "name": "Gurugram",
+      "location": "Gurugram, Haryana, India",
+      "child_ids": [],
+      "parent_id": 23659
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": null
+}

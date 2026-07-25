@@ -1,0 +1,148 @@
+{
+  "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=8041641",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3485607,
+  "location": {
+    "name": "Palo Alto; San Francisco"
+  },
+  "metadata": [
+    {
+      "id": 22194060,
+      "name": "Position ID",
+      "value": "10013823",
+      "value_type": "short_text"
+    },
+    {
+      "id": 24918,
+      "name": "Department ID",
+      "value": "D11115-Technical Support Premium Services",
+      "value_type": "single_select"
+    },
+    {
+      "id": 22194061,
+      "name": "Team",
+      "value": "T10361-Technical Services - Technical Account Managers",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4914027,
+      "name": "Region",
+      "value": "North America",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4137836,
+      "name": "Working Model Eligibility",
+      "value": [
+        "2-Flexible"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 4914029,
+      "name": "Job Level",
+      "value": "Professional - IC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24109,
+      "name": "Employment Type",
+      "value": "Full-time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 1073551,
+      "name": "Job Type",
+      "value": "Standard",
+      "value_type": "single_select"
+    },
+    {
+      "id": 988684,
+      "name": "JD Link",
+      "value": "https://docs.google.com/document/d/1kInJOrbrhGckxxrFKjGvQn1vR2x5nMPnXWhsUiTYzzk/edit?tab=t.0",
+      "value_type": "url"
+    },
+    {
+      "id": 5525802,
+      "name": "Baseline Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 5525816,
+      "name": "Other Large Market Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 13324394,
+      "name": "Job Post Range (United States)",
+      "value": {
+        "unit": "USD",
+        "max_value": "176000.0",
+        "min_value": "90000.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 40497768,
+      "name": "Job Post Range (Canada)",
+      "value": {
+        "unit": "USD",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 57694516,
+      "name": "Job Post Range (Poland)",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 64002488,
+      "name": "Job Post Range (Italy)",
+      "value": null,
+      "value_type": "currency_range"
+    }
+  ],
+  "id": 8041641,
+  "updated_at": "2026-07-21T10:26:00-04:00",
+  "requisition_id": "2273485607",
+  "title": "Technical Services Engineer, Named Accounts",
+  "company_name": "MongoDB",
+  "first_published": "2026-07-14T08:53:48-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;MongoDB Technical Services Engineers for Named Accounts, as part of the Premium Services team within Technical Services, will use their exceptional problem solving and customer service skills, along with their deep technical experience, to advise customers and solve their complex MongoDB problems.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;They are experts in one or more components of the MongoDB ecosystem - database server, drivers, our management suite, and services such as Cloud Manager (the online product we developed for customers for automation, backup, monitoring, and analysis of their MongoDB systems), and MongoDB Atlas. Our engineers combine their MongoDB expertise with passion, initiative, teamwork, and a great sense of humor to achieve exceptional results for our customers.&lt;/p&gt;\n&lt;p&gt;We&#39;re looking to speak with candidates based in San Francisco or Palo Alto for our hybrid working model.&lt;/p&gt;\n&lt;h3&gt;Cool things you’ll do&lt;/h3&gt;\n&lt;p&gt;MongoDB is on a mission to change the way people think about databases. Along the way, our customers encounter questions and issues about how our approach to databases works for their use cases. In Technical Services, it&#39;s our job to help these people.&lt;/p&gt;\n&lt;p&gt;You&#39;ll be primarily working alongside a handful of our largest enterprise customers - building a relationship, intimately guiding their use of MongoDB products and services, coordinating the resolution of their complex issues, - answering questions on architecture, performance, recovery, security, and everything in between. You&#39;ll be an expert resource on best practices for running MongoDB at scale, whatever that scale may be. You&#39;ll be an advocate for customers&#39; needs, - interfacing with our product management and development teams on their behalf.&amp;nbsp;&lt;/p&gt;\n&lt;h3&gt;What you need&lt;/h3&gt;\n&lt;p&gt;You should have 7+ years of database industry experience deploying and managing operational production databases at scale, both on premise and in the cloud. We encourage you to apply even if you’ve never used MongoDB before. We consider all candidates with an eye for those who are self-taught, insatiably curious, and multi-faceted.&lt;/p&gt;\n&lt;p&gt;It’s crucial for every candidate to check off at least 50% of these boxes:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience building and maintaining complex, mission-critical production database systems&amp;nbsp;&lt;/li&gt;\n&lt;ul&gt;\n&lt;li&gt;Monitoring and Alerting&lt;/li&gt;\n&lt;li&gt;Backup and Recovery&lt;/li&gt;\n&lt;li&gt;Security&lt;/li&gt;\n&lt;li&gt;Data modeling and schema design&lt;/li&gt;\n&lt;li&gt;Performance tuning&lt;/li&gt;\n&lt;li&gt;Solutions architecture&lt;/li&gt;\n&lt;/ul&gt;\n&lt;li&gt;Understanding of and experience with Cloud architectures, specifically: Google Cloud Platform (GCP), Microsoft Azure, or Amazon Web Services (AWS)&lt;/li&gt;\n&lt;li&gt;Customer management - passionate about being in a customer-facing technical role, showcasing ownership of technical success, and prioritizing customer work&lt;/li&gt;\n&lt;li&gt;Stakeholder management - experienced in communicating effectively and in a timely manner with various stakeholders on matters important to them internally and externally, influencing decisions, and calibrating communication style for different audiences&lt;/li&gt;\n&lt;li&gt;Systems engineering experience, including Linux performance, memory management, I/O tuning, configuration, security, networking, clusters, and troubleshooting&lt;/li&gt;\n&lt;li&gt;Should have a good understanding of Networking concepts and protocols (DNS, TCP/IP, SSL/TLS etc.)&lt;/li&gt;\n&lt;li&gt;Storage engineering experience, including NAS, SAN, SSD, multi-pathing, and caching&lt;/li&gt;\n&lt;li&gt;Experience analyzing issues holistically, from the application tier, through the database, down to the storage&lt;/li&gt;\n&lt;li&gt;Genuine desire to help people&lt;/li&gt;\n&lt;li&gt;Ability to think on your feet, remain calm under pressure, and solve problems in real-time&lt;/li&gt;\n&lt;li&gt;Able to read code, with basic coding/scripting ability in one or more languages: Java, Python, Ruby, C, C++, C#, Javascript, node.js, Go, etc.&lt;/li&gt;\n&lt;li&gt;Desire and ability to rapidly learn a wide variety of new technical skills&lt;/li&gt;\n&lt;li&gt;Strong teamwork&lt;/li&gt;\n&lt;ul&gt;\n&lt;li&gt;Willingness and ability to get help from team members when required, and the good judgment to know when to seek help&lt;/li&gt;\n&lt;li&gt;Ability to work independently as well as cross-functionally to ensure customer needs are being met&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Bonus Points&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience managing large scale databases (e.g. RDBMS, NoSQL)&lt;/li&gt;\n&lt;li&gt;Experience with authentication systems such as LDAP, Kerberos, AD&lt;/li&gt;\n&lt;li&gt;Experience using or managing MongoDB&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Success Measures&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;In 3 months, you’ll have gained a deep understanding of MongoDB and its ecosystem. You will complete New Hire Training&lt;/li&gt;\n&lt;li&gt;In 6 months, you will be comfortable working frontline with our customers. You will also complete the MongoDB Certified DBA Associate exam&lt;/li&gt;\n&lt;li&gt;Within 6-12 months, you will be a part of the Premium Services team within Technical Services and you will be expected to be the primary point of contact for customers and be managing their MongoDB needs independently&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;About MongoDB&lt;/h3&gt;\n&lt;p&gt;MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure.&lt;/p&gt;\n&lt;p&gt;With offices worldwide and over 67,000 customers, including 75% of the Fortune 100 and AI-native startups, relying on MongoDB for their most important applications, we’re powering the next era of software.&lt;/p&gt;\n&lt;p&gt;Our compass at MongoDB is our &lt;a href=&quot;https://www.mongodb.com/company&quot;&gt;Leadership Commitment,&lt;/a&gt; guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. &lt;a href=&quot;https://www.mongodb.com/company/blog/culture/employee-benefits-that-make-a-difference-at-mongodb&quot;&gt;From employee affinity groups, to fertility assistance and a generous parental leave policy&lt;/a&gt;, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys.&lt;a href=&quot;https://www.mongodb.com/blog/channel/culture&quot;&gt; Learn more about what it’s like to work at MongoDB&lt;/a&gt;, and help us make an impact on the world!&lt;/p&gt;\n&lt;p&gt;MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.&lt;/p&gt;\n&lt;p&gt;MongoDB, Inc. provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type and makes all hiring decisions without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.&lt;/p&gt;\n&lt;p&gt;Req ID: 2273485607&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;MongoDB’s base salary range for this role is posted below. Compensation at the time of offer is unique to each candidate and based on a variety of factors such as skill set, experience, qualifications, and work location. Salary is one part of MongoDB’s total compensation and benefits package. Other benefits for eligible employees may include: equity, participation in the employee stock purchase program, flexible paid time off, 20 weeks fully-paid gender-neutral parental leave, fertility and adoption assistance, 401(k) plan, mental health counseling, access to transgender-inclusive health insurance coverage, and health benefits offerings. Please note, the base salary range listed below and the benefits in this paragraph are only applicable to U.S.-based candidates.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;MongoDB’s base salary range for this role in the U.S. is:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$90,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$176,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 234516,
+      "name": "Technical Support Premium Services",
+      "child_ids": [],
+      "parent_id": 268135
+    }
+  ],
+  "offices": [
+    {
+      "id": 3961,
+      "name": "Palo Alto",
+      "location": "Palo Alto, CA, United States",
+      "child_ids": [],
+      "parent_id": 23657
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": null
+}

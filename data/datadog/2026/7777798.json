@@ -1,0 +1,110 @@
+{
+  "absolute_url": "https://careers.datadoghq.com/detail/7777798/?gh_jid=7777798",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 3405065,
+  "location": {
+    "name": "Boston, Massachusetts, USA; New York, New York, USA"
+  },
+  "metadata": [
+    {
+      "id": 33310,
+      "name": "Time Type",
+      "value": "Full time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 166208,
+      "name": "Area - Engineering",
+      "value": "Global Information Security",
+      "value_type": "single_select"
+    },
+    {
+      "id": 498252,
+      "name": "Cost Center",
+      "value": "Engineering - Security",
+      "value_type": "single_select"
+    },
+    {
+      "id": 516515,
+      "name": "Geography",
+      "value": "North America",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9593635,
+      "name": "Early Career Time Type",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 29446322,
+      "name": "Pay Transparency Range",
+      "value": {
+        "unit": "USD",
+        "max_value": "305000.0",
+        "min_value": "244000.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 31273219,
+      "name": "Does this role require access to ITAR-controlled data?",
+      "value": "Yes",
+      "value_type": "single_select"
+    },
+    {
+      "id": 58619948,
+      "name": "IC or MG",
+      "value": "IC",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 7777798,
+  "updated_at": "2026-07-07T13:58:07-04:00",
+  "requisition_id": "R18642",
+  "title": "Staff Application Security Engineer",
+  "company_name": "Datadog",
+  "first_published": "2026-04-03T09:33:55-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p data-renderer-start-pos=&quot;1&quot;&gt;As a Staff Application Security Engineer at Datadog, you&#39;ll set technical direction for how we approach application security at scale. You&#39;ll define the frameworks, methodologies, and architectural patterns that engineering teams across Datadog adopt and apply independently. You&#39;re the person others come to when they don&#39;t know how to make something secure, and you reliably have an answer.&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;395&quot;&gt;You&#39;ll be a point of contact for our most complex security programs, often spanning multiple teams and multiple quarters. The role requires both depth (going very deep on specific problems when needed) and breadth (recognizing patterns across systems and drawing connections that others miss). Partnering closely with teams inside and outside the security org is key to success. You&#39;ll help shape the AppSec roadmap and make the case for where investment should go.&amp;nbsp;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;863&quot;&gt;We use our own platform. Logs, Dashboards, Service Catalog, and &lt;span class=&quot;acronym-highlight&quot;&gt;APM&lt;/span&gt; aren&#39;t just things we sell: they&#39;re tools the AppSec team uses to build security services, measure adoption of secure defaults, and communicate risk across the organization.&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;1106&quot;&gt;AI is also part of the picture. Engineering at Datadog increasingly uses agentic tooling throughout the development lifecycle, and many of the products we ship to customers now include AI-powered features. Both create new attack surfaces, and defining our strategy for addressing them is part of this role.&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;1414&quot;&gt;If using Datadog to observe Datadog&#39;s own security posture, building impactful tooling, and shaping how we secure AI-powered systems sounds like the right kind of problem, this role is worth a close look.&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;1620&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;What You’ll Do:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul class=&quot;ak-ul&quot; data-indent-level=&quot;1&quot;&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;1639&quot;&gt;Define and drive security standards and secure-by-default solutions, serving as the Application Security subject matter expert.&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;1770&quot;&gt;Build security tooling and automation that scales security practices across engineering teams, and implement robust security observability to support our threat detection team with meaningful, actionable security signals.&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;1995&quot;&gt;Lead threat modeling and risk assessment for high-risk features and platform changes.&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;2084&quot;&gt;Assess and address security risks introduced by agentic development practices and AI-powered product features in production&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;2211&quot;&gt;Partner with engineering teams to prioritize and remediate critical threats, define API security standards, and conduct security code reviews.&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;2357&quot;&gt;Identify systemic security risks; lead complex, multi-team remediation efforts end-to-end&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;2450&quot;&gt;Partner with Cloud &amp;amp; Infrastructure Security and other teams across the org on cross-domain problems; be the AppSec point of contact on complex cross-domain problems&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;2619&quot;&gt;Serve as the AppSec subject matter expert across Datadog; be the person engineering leadership calls when they need clarity on a hard security problem&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;2773&quot;&gt;Deeply invest in the growth of AppSec engineers on the team&lt;/p&gt;\n&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p data-renderer-start-pos=&quot;2838&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Who You Are:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;ul class=&quot;ak-ul&quot; data-indent-level=&quot;1&quot;&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;2857&quot;&gt;Software engineering background with hands-on code review experience; Go (preferred), Python, or Rust&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;2962&quot;&gt;Demonstrated ability to level up the engineers around you: through design reviews, mentorship, and the quality of your documentation&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;3098&quot;&gt;Solid grounding in &lt;span class=&quot;acronym-highlight&quot;&gt;OWASP&lt;/span&gt; Top 10, web vulnerabilities (&lt;span class=&quot;acronym-highlight&quot;&gt;XSS&lt;/span&gt;, injection, access control, cryptography), &lt;span class=&quot;acronym-highlight&quot;&gt;SAST&lt;/span&gt;, and &lt;span class=&quot;acronym-highlight&quot;&gt;DAST&lt;/span&gt;&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;3217&quot;&gt;Working knowledge of API security: authentication flows, authorization patterns, and input validation at API boundaries&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;3340&quot;&gt;Track record of leading threat modeling on complex, multi-team systems and translating outcomes into architectural decisions&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;3468&quot;&gt;Experience implementing secure-by-default frameworks and integrating security into core platforms alongside product managers and engineering teams&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;3618&quot;&gt;Able to translate business risk into security investment priorities and communicate tradeoffs clearly to executive audiences&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;3746&quot;&gt;Familiarity with software supply chain security: dependency management, artifact integrity, and build pipeline trust&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;3866&quot;&gt;Bias toward implementing solutions and driving adoption, not just surfacing findings&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;3954&quot;&gt;Proven track record of winning buy-in from technical and non-technical stakeholders; able to communicate complex tradeoffs clearly to engineers, product managers, and leadership&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;4135&quot;&gt;Current on security best practices, emerging threats, and the tooling landscape&lt;/p&gt;\n&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p data-renderer-start-pos=&quot;4220&quot;&gt;&lt;em data-renderer-mark=&quot;true&quot;&gt;Datadog values people from all walks of life. We understand not everyone will meet all the above qualifications on day one. That&#39;s okay. If you’re passionate about technology and want to grow your skills, we encourage you to apply.&lt;/em&gt;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;4455&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Benefits and Growth:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;ul class=&quot;ak-ul&quot; data-indent-level=&quot;1&quot;&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;4480&quot;&gt;New hire stock equity (RSUs) and employee stock purchase plan (ESPP)&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;4552&quot;&gt;Continuous professional development, product training, and career pathing&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;4629&quot;&gt;Intradepartmental mentor and buddy program for in-house networking&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;4699&quot;&gt;An inclusive company culture, ability to join our Community Guilds (Datadog employee resource groups)&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;4804&quot;&gt;Access to Inclusion Talks, our internal panel discussions&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;4865&quot;&gt;Free, global mental health benefits for employees and dependents age 6+&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;4940&quot;&gt;Competitive global benefits&lt;/p&gt;\n&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p data-renderer-start-pos=&quot;4973&quot;&gt;&lt;em data-renderer-mark=&quot;true&quot;&gt;Benefits and Growth listed above may vary based on the country of your employment and the nature of your employment with Datadog.&lt;/em&gt;&lt;/p&gt;\n&lt;p style=&quot;color: white;&quot;&gt;#LI-Hybrid&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Datadog offers a competitive salary and equity package, and may include variable compensation. Actual compensation is based on factors such as the candidate&#39;s skills, qualifications, and experience. In addition, Datadog offers a wide range of best in class, comprehensive and inclusive employee benefits for this role including healthcare, dental, parental planning, and mental health benefits, a 401(k) plan and match, paid time off, fitness reimbursements, and a discounted employee stock purchase plan.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;The reasonably estimated yearly salary for this role at Datadog is:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$244,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$305,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;hr&gt;\n&lt;p&gt;&lt;strong&gt;About Datadog:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Datadog is the leading observability and security platform for the AI era, providing businesses with unified visibility across the technology stack to manage complexity at scale. It brings applications, infrastructure, data, models, and security into one place, using AI to detect and resolve issues before they impact customers. Trusted globally by Fortune 500 companies and high-growth AI leaders, Datadog enables businesses to move faster with clarity and confidence. Learn more about #DatadogLife on &lt;a href=&quot;https://www.instagram.com/datadoghq/?hl=en&quot; target=&quot;_blank&quot;&gt;Instagram&lt;/a&gt;, &lt;a href=&quot;https://www.linkedin.com/company/datadog&quot; target=&quot;_blank&quot;&gt;LinkedIn,&lt;/a&gt; and &lt;a href=&quot;https://learn.datadoghq.com/&quot; target=&quot;_blank&quot;&gt;Datadog Learning Center. &lt;/a&gt;&lt;/p&gt;\n&lt;hr&gt;\n&lt;p data-renderer-start-pos=&quot;215&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Equal Opportunity at Datadog:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Datadog is proud to offer &lt;a href=&quot;https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf&quot; target=&quot;_blank&quot;&gt;equal employment opportunity&lt;/a&gt; to everyone regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, veteran status, and other characteristics protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. Here are our &lt;a href=&quot;https://www.datadoghq.com/legal/candidate-legal-notices/&quot; target=&quot;_blank&quot;&gt;Candidate Legal Notices&lt;/a&gt; for your reference.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Datadog endeavors to make our Careers Page accessible to all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please complete &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSeoJeduEZ2NdZF_65uZmWUrCM-zee7yADXX1s6Xr9zAGq8iKA/viewform&quot; target=&quot;_blank&quot;&gt;this form&lt;/a&gt;. This form is for accommodation requests only and cannot be used to inquire about the status of applications.&amp;nbsp;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;662&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Privacy and AI Guidelines:&lt;/strong&gt;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;662&quot;&gt;Any information you submit to Datadog as part of your application will be processed in accordance with Datadog’s&amp;nbsp;&lt;a class=&quot;c-link&quot; href=&quot;https://www.datadoghq.com/legal/applicant-candidate-privacy/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.datadoghq.com/legal/applicant-candidate-privacy/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Applicant and Candidate Privacy Notice&lt;/a&gt;. For information on our AI policy, please visit &lt;a href=&quot;https://www.datadoghq.com/legal/interviewing-at-datadog-ai-guidelines/&quot; target=&quot;_blank&quot;&gt;Interviewing at Datadog AI Guidelines&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 72256,
+      "name": "Security",
+      "child_ids": [],
+      "parent_id": 9022
+    }
+  ],
+  "offices": [
+    {
+      "id": 5455,
+      "name": "Boston",
+      "location": "Boston, MA, United States",
+      "child_ids": [],
+      "parent_id": 78117
+    },
+    {
+      "id": 5664,
+      "name": "New York",
+      "location": "New York, NY, United States",
+      "child_ids": [
+        81327,
+        76746
+      ],
+      "parent_id": 73429
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

@@ -1,0 +1,148 @@
+{
+  "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=7939397",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3449461,
+  "location": {
+    "name": "Dublin"
+  },
+  "metadata": [
+    {
+      "id": 22194060,
+      "name": "Position ID",
+      "value": "10008087",
+      "value_type": "short_text"
+    },
+    {
+      "id": 24918,
+      "name": "Department ID",
+      "value": "D23030-Observability & Adoption Engineering",
+      "value_type": "single_select"
+    },
+    {
+      "id": 22194061,
+      "name": "Team",
+      "value": "456-Growth ENG",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4914027,
+      "name": "Region",
+      "value": "EMEA",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4137836,
+      "name": "Working Model Eligibility",
+      "value": [
+        "2-Flexible"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 4914029,
+      "name": "Job Level",
+      "value": "Professional - IC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24109,
+      "name": "Employment Type",
+      "value": "Full-time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 1073551,
+      "name": "Job Type",
+      "value": "Standard",
+      "value_type": "single_select"
+    },
+    {
+      "id": 988684,
+      "name": "JD Link",
+      "value": "https://docs.google.com/document/d/1gxARg1wzu3x0V8SEjNMb-azTBLIVszYIoy4GWplCR6c/edit?tab=t.0#heading=h.xghauggfd926",
+      "value_type": "url"
+    },
+    {
+      "id": 5525802,
+      "name": "Baseline Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 5525816,
+      "name": "Other Large Market Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 13324394,
+      "name": "Job Post Range (United States)",
+      "value": {
+        "unit": "EUR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 40497768,
+      "name": "Job Post Range (Canada)",
+      "value": {
+        "unit": "EUR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 57694516,
+      "name": "Job Post Range (Poland)",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 64002488,
+      "name": "Job Post Range (Italy)",
+      "value": null,
+      "value_type": "currency_range"
+    }
+  ],
+  "id": 7939397,
+  "updated_at": "2026-07-21T10:26:00-04:00",
+  "requisition_id": "2273449461",
+  "title": "Software Engineer 3",
+  "company_name": "MongoDB",
+  "first_published": "2026-05-19T12:31:23-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;We’re looking for a mid-level Software Engineer (Software Engineer 3) to join the Atlas Growth Platforms team, focused on enabling data-informed decision making and accelerating growth across MongoDB Atlas. This team is responsible for key infrastructure powering experimentation, service configuration, and partner integrations that shape the user experience and drive business impact at scale.&lt;/p&gt;\n&lt;p&gt;In this role, you&#39;ll work primarily on backend services (80%), with opportunities to contribute to frontend systems (20%) that power our A/B testing platform, feature flagging service, analytics pipelines, and partner integrations. You&#39;ll collaborate closely with Product, Analytics, and other engineering teams to build and scale services that deliver targeted experiences and personalized recommendations for our users.&lt;/p&gt;\n&lt;p&gt;You’ll also contribute to the evolution of our experimentation framework and play a role in shaping how we partner with external platforms to grow our ecosystem and reach new customers.&lt;/p&gt;\n&lt;p&gt;We are looking to speak to candidates who are based in Dublin for our hybrid working model.&lt;/p&gt;\n&lt;h3&gt;Responsibilities&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Design, build, and maintain scalable backend services that power feature flagging, experimentation, and analytics infrastructure for MongoDB Atlas&lt;/li&gt;\n&lt;li&gt;Develop and evolve APIs, data models, and pipelines that support experimentation, personalization, and partner integrations&lt;/li&gt;\n&lt;li&gt;Contribute to components that enable internal teams to easily run experiments and analyze their impact&lt;/li&gt;\n&lt;li&gt;Improve observability, reliability, and performance across our systems, especially in the context of experimentation and service configuration at scale&lt;/li&gt;\n&lt;li&gt;Lead and participate in technical design discussions and code reviews, and mentor other engineers&lt;/li&gt;\n&lt;li&gt;Uphold engineering best practices and help drive a culture of quality, customer focus, and continuous learning&lt;/li&gt;\n&lt;li&gt;Participate in the 24/7 team on-call rotation up to once per quarter, responding to critical incidents and ensuring service reliability with support from team playbooks and escalation paths&lt;/li&gt;\n&lt;li&gt;Own our &lt;a href=&quot;https://www.mongodb.com/company/values&quot;&gt;core values&lt;/a&gt; and &lt;a href=&quot;https://www.mongodb.com/company/leadership-principles&quot;&gt;leadership principles&lt;/a&gt; in all that you do&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Basic Qualifications&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;3+ years of professional software engineering experience, including backend development with a compiled language such as Java or C#&lt;/li&gt;\n&lt;li&gt;Hands-on experience with modern JavaScript libraries and frameworks&lt;/li&gt;\n&lt;li&gt;Solid understanding of distributed systems and experience designing APIs and services in a microservice environment&lt;/li&gt;\n&lt;li&gt;Strong collaboration and communication skills; able to work cross-functionally with Product, Analytics, and other Engineering teams&lt;/li&gt;\n&lt;li&gt;Passion for continuous learning and writing clean, maintainable, well-tested code&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Preferred Skills&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience with experimentation frameworks and A/B testing at scale&lt;/li&gt;\n&lt;li&gt;Familiarity with tools like Segment, Amplitude, or other analytics platforms&lt;/li&gt;\n&lt;li&gt;Experience deploying and operating services in Kubernetes&lt;/li&gt;\n&lt;li&gt;Prior work integrating with partner ecosystems or building external-facing public APIs&lt;/li&gt;\n&lt;li&gt;Contributions to shared infrastructure that enables internal teams to move faster or make better decisions&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Success Measures&lt;/h3&gt;\n&lt;p&gt;A Software Engineer 3 will be successful in this role when they:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Deliver backend features and services that are reliable, maintainable, and meet the needs of internal and external stakeholders&lt;/li&gt;\n&lt;li&gt;Successfully implement cross-functional initiatives, aligning with Product, Analytics, and other engineering teams to define requirements and deliver value&lt;/li&gt;\n&lt;li&gt;Occasionally lead small to mid-sized projects with the help of more senior engineers&lt;/li&gt;\n&lt;li&gt;Provide thoughtful code reviews, helping to raise the bar for engineering quality and collaboration&lt;/li&gt;\n&lt;li&gt;Continuously learn and adapt, bringing in new ideas and best practices that keep our team and systems evolving&lt;/li&gt;\n&lt;li&gt;Are willing to learn and contribute to all parts of the stack&lt;/li&gt;\n&lt;li&gt;Are resolute in their approach to problem solving, balancing the needs of their team with the willingness to get to the bottom of issues&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;About MongoDB&lt;/h3&gt;\n&lt;p&gt;MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure.&lt;/p&gt;\n&lt;p&gt;With offices worldwide and over 67,000 customers, including 75% of the Fortune 100 and AI-native startups, relying on MongoDB for their most important applications, we’re powering the next era of software.&lt;/p&gt;\n&lt;p&gt;Our compass at MongoDB is our &lt;a href=&quot;https://www.mongodb.com/company&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://www.mongodb.com/company&amp;amp;source=gmail&amp;amp;ust=1780991527439000&amp;amp;usg=AOvVaw1zkN8u-F6OouF_UTfWlS5q&quot;&gt;Leadership Commitment,&lt;/a&gt; guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.&lt;/p&gt;\n&lt;p&gt;To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. &lt;a href=&quot;https://www.mongodb.com/company/blog/culture/employee-benefits-that-make-a-difference-at-mongodb&quot;&gt;From employee affinity groups, to fertility assistance and a generous parental leave policy&lt;/a&gt;, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys.&lt;a href=&quot;https://www.mongodb.com/blog/channel/culture&quot;&gt; Learn more about what it’s like to work at MongoDB&lt;/a&gt;, and help us make an impact on the world!&lt;/p&gt;\n&lt;p&gt;MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.&lt;/p&gt;\n&lt;p&gt;MongoDB is an equal opportunities employer.&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Req ID: 2273449461&lt;/em&gt;&lt;/p&gt;",
+  "departments": [
+    {
+      "id": 85969,
+      "name": "Database Experience",
+      "child_ids": [],
+      "parent_id": 370707
+    }
+  ],
+  "offices": [
+    {
+      "id": 3962,
+      "name": "Dublin",
+      "location": "Dublin, Ireland",
+      "child_ids": [],
+      "parent_id": 23658
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": null
+}

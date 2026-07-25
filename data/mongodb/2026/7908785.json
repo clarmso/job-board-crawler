@@ -1,0 +1,148 @@
+{
+  "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=7908785",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3437556,
+  "location": {
+    "name": "Gurugram"
+  },
+  "metadata": [
+    {
+      "id": 22194060,
+      "name": "Position ID",
+      "value": "10014859",
+      "value_type": "short_text"
+    },
+    {
+      "id": 24918,
+      "name": "Department ID",
+      "value": "D85022-Data & Platform",
+      "value_type": "single_select"
+    },
+    {
+      "id": 22194061,
+      "name": "Team",
+      "value": "160-Data Pipelines Engineering",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4914027,
+      "name": "Region",
+      "value": "APAC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4137836,
+      "name": "Working Model Eligibility",
+      "value": [
+        "2-Flexible"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 4914029,
+      "name": "Job Level",
+      "value": "Professional - IC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24109,
+      "name": "Employment Type",
+      "value": "Full-time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 1073551,
+      "name": "Job Type",
+      "value": "Standard",
+      "value_type": "single_select"
+    },
+    {
+      "id": 988684,
+      "name": "JD Link",
+      "value": "https://docs.google.com/document/d/1tLf4ehBxyEmaKicQxqqEQ1Gd0FPShWuQYTntemUmER8/edit?tab=t.0",
+      "value_type": "url"
+    },
+    {
+      "id": 5525802,
+      "name": "Baseline Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 5525816,
+      "name": "Other Large Market Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 13324394,
+      "name": "Job Post Range (United States)",
+      "value": {
+        "unit": "INR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 40497768,
+      "name": "Job Post Range (Canada)",
+      "value": {
+        "unit": "INR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 57694516,
+      "name": "Job Post Range (Poland)",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 64002488,
+      "name": "Job Post Range (Italy)",
+      "value": null,
+      "value_type": "currency_range"
+    }
+  ],
+  "id": 7908785,
+  "updated_at": "2026-07-21T10:26:00-04:00",
+  "requisition_id": "2273437556",
+  "title": "Software Engineer 3",
+  "company_name": "MongoDB",
+  "first_published": "2026-05-13T10:18:11-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;The worldwide data management software market is massive (According to IDC, the worldwide database software market, which it refers to as the database management systems software market, was forecasted to be approximately $82 billion in 2023 growing to approximately $137 billion in 2027. This represents a 14% compound annual growth rate). At MongoDB we are transforming industries and empowering developers to build amazing apps that people use every day. We are the leading developer data platform and the first database provider to IPO in over 20 years. Join our team and be at the forefront of innovation and creativity.&lt;/p&gt;\n&lt;p&gt;The Data Pipelines Engineering team is responsible for building ETL pipelines that populate the Internal Data Platform, which drives analytics that help the company run more efficiently. Our team builds highly performant and scalable processes that extract massive datasets and makes those datasets available for querying in an optimal way. We are also building a Generative AI framework that will help teams within the company tap into the data that we store in their Retrieval-Augmented Generation (RAG)-based applications.&lt;/p&gt;\n&lt;p&gt;We are looking to speak to candidates who are based in Gurgaon, India for our hybrid working model.&lt;/p&gt;\n&lt;h3&gt;What you’ll do&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Design, build and maintain efficient, scalable ETL/ELT pipelines using Python and Spark across batch, file-based, and streaming architectures&lt;/li&gt;\n&lt;li&gt;Ensure data quality, reliability and timeliness across pipelines by following established data engineering best practices&lt;/li&gt;\n&lt;li&gt;Model and store large datasets using modern file formats (Parquet, JSON, Avro) and table formats (Iceberg, Hive)&lt;/li&gt;\n&lt;li&gt;Deploy pipelines on cloud infrastructure, leveraging Cloud-based technologies (mostly AWS, some GCP) to build and deploy data pipelines&lt;/li&gt;\n&lt;li&gt;Partner with Data Analysts and Data Scientists to understand their needs and deliver the datasets that drive their work&lt;/li&gt;\n&lt;li&gt;Work with Security and Compliance teams to ensure that datasets have appropriate permissions and regulations in place&lt;/li&gt;\n&lt;li&gt;Work with our Data Platform, and Governance sibling teams to make data scalable, consumable, and discoverable&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;We’re looking for someone with&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;4+ years of building ETL pipelines for a Data Lake/Warehouse&lt;/li&gt;\n&lt;li&gt;Expertise in Python, Spark, SQL, Airflow&lt;/li&gt;\n&lt;li&gt;Experience with data warehousing and engineering concepts, analytical data modeling, data quality validation, monitoring, and pipeline reliability practices&lt;/li&gt;\n&lt;li&gt;Hive, Iceberg, Glue, or other technologies that expose big data as tables&lt;/li&gt;\n&lt;li&gt;Familiarity with different big data file types such as Parquet, Avro, JSON etc&lt;/li&gt;\n&lt;li&gt;Background in building data platforms on Cloud (e.g. AWS, GCP, Azure)&lt;/li&gt;\n&lt;li&gt;Exposure to real-time or streaming data technologies is a plus&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Success Measures&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;In 3 months, you&#39;ll have collaborated with stakeholders in Data Analytics and Data Science to build your first ETL pipeline&lt;/li&gt;\n&lt;li&gt;In 6 months, you&#39;ll have owned the delivery of a large project from start (scoping, design) to finish (delivery)&lt;/li&gt;\n&lt;li&gt;In 12 months, you&#39;ll have designed new features, led development work, and become a go-to expert on parts of the system&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;About MongoDB&lt;/h3&gt;\n&lt;p&gt;MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure.&lt;/p&gt;\n&lt;p&gt;With offices worldwide and over 67,000 customers, including 75% of the Fortune 100 and AI-native startups, relying on MongoDB for their most important applications, we’re powering the next era of software.&lt;/p&gt;\n&lt;p&gt;Our compass at MongoDB is our &lt;a href=&quot;https://www.mongodb.com/company&quot;&gt;Leadership Commitment,&lt;/a&gt; guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. &lt;a href=&quot;https://www.mongodb.com/company/blog/culture/employee-benefits-that-make-a-difference-at-mongodb&quot;&gt;From employee affinity groups, to fertility assistance and a generous parental leave policy&lt;/a&gt;, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys.&lt;a href=&quot;https://www.mongodb.com/blog/channel/culture&quot;&gt; Learn more about what it’s like to work at MongoDB&lt;/a&gt;, and help us make an impact on the world!&lt;/p&gt;\n&lt;p&gt;MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.&lt;/p&gt;\n&lt;p&gt;MongoDB is an equal opportunities employer.&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Req ID - 2273437556&lt;/em&gt;&lt;/p&gt;",
+  "departments": [
+    {
+      "id": 289356,
+      "name": "Data & Platform",
+      "child_ids": [],
+      "parent_id": 298006
+    }
+  ],
+  "offices": [
+    {
+      "id": 65909,
+      "name": "Gurugram",
+      "location": "Gurugram, Haryana, India",
+      "child_ids": [],
+      "parent_id": 23659
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": null
+}

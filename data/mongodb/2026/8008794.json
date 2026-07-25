@@ -1,0 +1,148 @@
+{
+  "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=8008794",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3472449,
+  "location": {
+    "name": "Gurugram"
+  },
+  "metadata": [
+    {
+      "id": 22194060,
+      "name": "Position ID",
+      "value": "10014867",
+      "value_type": "short_text"
+    },
+    {
+      "id": 24918,
+      "name": "Department ID",
+      "value": "D85021-GTM Tech",
+      "value_type": "single_select"
+    },
+    {
+      "id": 22194061,
+      "name": "Team",
+      "value": "387-GTM Tech",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4914027,
+      "name": "Region",
+      "value": "APAC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4137836,
+      "name": "Working Model Eligibility",
+      "value": [
+        "2-Flexible"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 4914029,
+      "name": "Job Level",
+      "value": "Professional - IC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24109,
+      "name": "Employment Type",
+      "value": "Full-time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 1073551,
+      "name": "Job Type",
+      "value": "Standard",
+      "value_type": "single_select"
+    },
+    {
+      "id": 988684,
+      "name": "JD Link",
+      "value": null,
+      "value_type": "url"
+    },
+    {
+      "id": 5525802,
+      "name": "Baseline Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 5525816,
+      "name": "Other Large Market Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 13324394,
+      "name": "Job Post Range (United States)",
+      "value": {
+        "unit": "INR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 40497768,
+      "name": "Job Post Range (Canada)",
+      "value": {
+        "unit": "INR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 57694516,
+      "name": "Job Post Range (Poland)",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 64002488,
+      "name": "Job Post Range (Italy)",
+      "value": null,
+      "value_type": "currency_range"
+    }
+  ],
+  "id": 8008794,
+  "updated_at": "2026-07-21T10:26:00-04:00",
+  "requisition_id": "2273472449",
+  "title": "Senior Engineer - GTM Tech",
+  "company_name": "MongoDB",
+  "first_published": "2026-07-14T11:34:01-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;The IT SaaS Engineering Team plays a critical role in optimizing MongoDB sales processes, streamlining customer interactions, and maximizing the efficiency of our sales efforts. By leveraging Salesforce, the team ensures that business users have the tools, automation, security, and governance needed to effectively manage customer relationships, support operational processes, and drive business growth.&lt;/p&gt;\n&lt;p&gt;With deep expertise in Salesforce development, platform governance, automation, and system operations, the team continuously enhances the CRM platform to meet evolving business needs. The team partners closely with stakeholders across Sales Operations, Revenue Operations, Security, Compliance, and Engineering to deliver scalable, secure, and reliable Salesforce solutions.&lt;/p&gt;\n&lt;p&gt;We are looking to speak to candidates who are based in Gurugram for our hybrid working model.&lt;/p&gt;\n&lt;h3&gt;Role Overview&lt;/h3&gt;\n&lt;p&gt;We are looking for a highly capable Senior Salesforce Engineer to design, build, and maintain scalable CRM solutions that support MongoDB’s Sales organization. This role combines strong hands-on Salesforce development, solution design, cross-functional collaboration, and a modern engineering mindset to deliver reliable, maintainable, and high-quality solutions across the core Salesforce platform.&lt;/p&gt;\n&lt;h3&gt;What you’ll do&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Design, build, and maintain scalable Salesforce solutions across the core CRM platform, including custom development, automation, and integrations&lt;/li&gt;\n&lt;li&gt;Partner with business stakeholders, program managers, and technical teams to understand requirements and translate them into secure, maintainable, and scalable technical solutions&lt;/li&gt;\n&lt;li&gt;Own delivery across the full solution lifecycle, including design, development, testing, deployment, documentation, and production support&lt;/li&gt;\n&lt;li&gt;Collaborate closely with globally distributed engineering teams to deliver reliable, secure, and well-governed solutions in an Agile environment&lt;/li&gt;\n&lt;li&gt;Drive strong engineering practices across code quality, documentation, release management, and platform governance&lt;/li&gt;\n&lt;li&gt;Identify opportunities to improve system performance, simplify architecture, reduce technical debt, and strengthen the overall Salesforce operating model&lt;/li&gt;\n&lt;li&gt;Troubleshoot complex technical and production issues and deliver sustainable, long-term fixes&lt;/li&gt;\n&lt;li&gt;Stay current with Salesforce platform capabilities, engineering best practices, and emerging technologies, and apply them thoughtfully to improve delivery quality&lt;/li&gt;\n&lt;li&gt;Leverage AI-powered engineering tools such as GitHub Copilot, Agentforce, Claude Code, Cursor, and similar capabilities to improve productivity, code quality, troubleshooting and documentation, while using sound judgment around security, privacy, and responsible AI usage&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Responsibilities&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Develop, test, document, and deploy high-quality Salesforce solutions aligned with business needs and engineering best practices&lt;/li&gt;\n&lt;li&gt;Support enhancements, break/fix issues, and ongoing maintenance across Salesforce applications and related integrations&lt;/li&gt;\n&lt;li&gt;Investigate technical and integration issues and work closely with development, operations, admin, and business teams to resolve them effectively&lt;/li&gt;\n&lt;li&gt;Communicate clearly with stakeholders and teammates on delivery status, technical challenges, and solution options&lt;/li&gt;\n&lt;li&gt;Manage multiple priorities effectively while ensuring high-quality and timely delivery&lt;/li&gt;\n&lt;li&gt;Research new platform capabilities, prototypes, and engineering approaches that can improve the Salesforce ecosystem&lt;/li&gt;\n&lt;li&gt;Provide mentorship and technical guidance to junior engineers and administrators where needed&lt;/li&gt;\n&lt;li&gt;Build strong working relationships across teams and contribute positively to a culture of ownership, collaboration, and continuous improvement&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Minimum Requirements&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Bachelor’s or Master’s degree in Computer Science, Information Systems, or a related field&lt;/li&gt;\n&lt;li&gt;8+ years of experience in Salesforce development and enterprise application engineering&lt;/li&gt;\n&lt;li&gt;Strong hands-on experience with Apex, Lightning Web Components (LWC), JavaScript, Flows, SOQL, APIs, and Salesforce platform customization&lt;/li&gt;\n&lt;li&gt;Strong understanding of Salesforce architecture, governor limits, declarative automation, integration patterns, and scalable solution design&lt;/li&gt;\n&lt;li&gt;Experience with CI/CD, deployment processes, code refactoring, and performance optimization in Salesforce environments&lt;/li&gt;\n&lt;li&gt;Experience integrating Salesforce with enterprise systems using APIs, ETL tools, and automation platforms&lt;/li&gt;\n&lt;li&gt;Salesforce Platform Developer II certification strongly preferred; additional certifications such as JavaScript Developer, Advanced Administrator, Application Architect, or System Architect are a plus&lt;/li&gt;\n&lt;li&gt;Good understanding of AI-powered and agentic development tools such as Cursor, Claude Code, Agentforce, and similar platforms, with the ability to use them effectively to improve productivity, troubleshooting, documentation, and solution delivery&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Success Measures&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;In 3 months, you will: Develop a strong understanding of MongoDB’s Salesforce ecosystem, business processes, and current implementations by working closely with senior engineers and stakeholders&lt;/li&gt;\n&lt;li&gt;In 6 months, you will: Successfully deliver one or more critical Salesforce initiatives and establish yourself as a trusted technical contributor within the Sales Apps team&lt;/li&gt;\n&lt;li&gt;In 12 months, you will: Become a go-to engineer for key Salesforce solutions, build strong cross-functional partnerships, and contribute meaningfully to the scalability, quality, and long-term evolution of the CRM platform&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;About MongoDB&lt;/h3&gt;\n&lt;p&gt;MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure.&lt;/p&gt;\n&lt;p&gt;With offices worldwide and over 67,000 customers, including 75% of the Fortune 100 and AI-native startups, relying on MongoDB for their most important applications, we’re powering the next era of software.&lt;/p&gt;\n&lt;p&gt;Our compass at MongoDB is our &lt;a href=&quot;https://www.mongodb.com/company&quot;&gt;Leadership Commitment,&lt;/a&gt; guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. &lt;a href=&quot;https://www.mongodb.com/company/blog/culture/employee-benefits-that-make-a-difference-at-mongodb&quot;&gt;From employee affinity groups, to fertility assistance and a generous parental leave policy&lt;/a&gt;, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys.&lt;a href=&quot;https://www.mongodb.com/blog/channel/culture&quot;&gt; Learn more about what it’s like to work at MongoDB&lt;/a&gt;, and help us make an impact on the world!&lt;/p&gt;\n&lt;p&gt;MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.&lt;/p&gt;\n&lt;p&gt;MongoDB is an equal opportunities employer.&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Req ID - 2273472449&lt;/em&gt;&lt;/p&gt;",
+  "departments": [
+    {
+      "id": 289352,
+      "name": "GTM Tech",
+      "child_ids": [],
+      "parent_id": 298006
+    }
+  ],
+  "offices": [
+    {
+      "id": 65909,
+      "name": "Gurugram",
+      "location": "Gurugram, Haryana, India",
+      "child_ids": [],
+      "parent_id": 23659
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": null
+}

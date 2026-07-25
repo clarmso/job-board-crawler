@@ -1,0 +1,173 @@
+{
+  "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=7695616",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3383180,
+  "location": {
+    "name": "Dublin"
+  },
+  "metadata": [
+    {
+      "id": 22194060,
+      "name": "Position ID",
+      "value": "N/A",
+      "value_type": "short_text"
+    },
+    {
+      "id": 24918,
+      "name": "Department ID",
+      "value": "D23030-Observability & Adoption Engineering",
+      "value_type": "single_select"
+    },
+    {
+      "id": 22194061,
+      "name": "Team",
+      "value": "208-Customer Observability",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4914027,
+      "name": "Region",
+      "value": "EMEA",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4137836,
+      "name": "Working Model Eligibility",
+      "value": [
+        "1-In Office",
+        "2-Flexible"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 4914029,
+      "name": "Job Level",
+      "value": "IC - Professional",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24109,
+      "name": "Employment Type",
+      "value": "Full-time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 1073551,
+      "name": "Job Type",
+      "value": "Pipeline",
+      "value_type": "single_select"
+    },
+    {
+      "id": 988684,
+      "name": "JD Link",
+      "value": "https://docs.google.com/document/d/1Y7OwrJRSN4ccBDvb-BIrk9LP6Pv__1a5CZwVbIklysg/edit?tab=t.0#heading=h.qaba6ukwfznw",
+      "value_type": "url"
+    },
+    {
+      "id": 5525802,
+      "name": "Baseline Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 5525816,
+      "name": "Other Large Market Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 13324394,
+      "name": "Job Post Range (United States)",
+      "value": {
+        "unit": "USD",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 40497768,
+      "name": "Job Post Range (Canada)",
+      "value": {
+        "unit": null,
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 57694516,
+      "name": "Job Post Range (Poland)",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 64002488,
+      "name": "Job Post Range (Italy)",
+      "value": null,
+      "value_type": "currency_range"
+    }
+  ],
+  "id": 7695616,
+  "updated_at": "2026-07-21T10:26:00-04:00",
+  "requisition_id": "426170",
+  "title": "Senior Software Engineer, Observability",
+  "company_name": "MongoDB",
+  "first_published": "2026-03-09T12:33:22-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;The MongoDB Customer Observability Team is a diverse group of contributors working together to help our users manage MongoDB at global scale. The team is responsible for MongoDB Atlas: our database-as-a-service offering and fastest-growing product, which allows users to deploy globally distributed MongoDB clusters in just minutes.&lt;/p&gt;\n&lt;p&gt;We&#39;re seeking a Senior Software Engineer to join our team to tackle exciting challenges within the Observability space.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;You&#39;ll contribute to developing tools and platforms that help our users understand the health and performance of their MongoDB deployments. This includes collecting metrics, monitoring slow queries, and offering actionable insights such as index and schema suggestions that improve the speed, efficiency, and overall reliability of their databases.&lt;/p&gt;\n&lt;p&gt;This role provides a unique opportunity to drive engineering excellence across both dimensions of observability, leveraging technologies being developed within the Customer Observability group and contributing directly to the success of our customers and our product teams. If you&#39;re passionate about large-scale systems, digging deep into telemetry data, and building tools that make a real impact both internally and externally, we’d love to have you on board!&lt;/p&gt;\n&lt;p&gt;We are looking to speak to candidates who are based in Dublin for our hybrid working model.&lt;/p&gt;\n&lt;h3&gt;We&#39;re looking for someone who&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Has at least 5 years of experience as a backend or full stack engineer&lt;/li&gt;\n&lt;li&gt;Enjoys collaboration and being part of a team&lt;/li&gt;\n&lt;li&gt;Is approachable, curious, and intellectually honest&lt;/li&gt;\n&lt;li&gt;Is a backend engineer with a willingness to take on frontend tasks or a full-stack developer with a bias towards backend&lt;/li&gt;\n&lt;li&gt;Has written backend systems in a compiled language (Java, C#, Go, etc.)&lt;/li&gt;\n&lt;li&gt;Has experience with the design and architecture of a modern, scalable web application&lt;/li&gt;\n&lt;li&gt;Enjoys chasing down difficult problems in a distributed environment and on an database diagnostic/operation level&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Always strives to expand their knowledge and keeps up to date with new technologies&lt;/li&gt;\n&lt;li&gt;Is familiar with debugging and troubleshooting production issues&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Strong understanding of algorithms, data structures and their time and space complexity&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Nice to Haves&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Has worked with distributed event streaming platforms like Kafka or WarpStream and/or event processing platforms like Flink&lt;/li&gt;\n&lt;li&gt;Experience developing and writing code observability tools&lt;/li&gt;\n&lt;li&gt;Previous work in TypeScript, React, and Node.js, particularly maintaining an ecosystem of dependencies&lt;/li&gt;\n&lt;li&gt;Knowledge of database internals and tuning mechanisms, particularly indexing&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Role Responsibilities&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Design, write and maintain Observability code and features&lt;/li&gt;\n&lt;li&gt;Contribute to and lead complex technical projects&lt;/li&gt;\n&lt;li&gt;Investigate large scale distributed production issues&lt;/li&gt;\n&lt;li&gt;Collaborate with team members to develop our codebase, best practices and design principles&lt;/li&gt;\n&lt;li&gt;Work with customers and support engineers to fix issues and become part of our on-call rotation&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Mentor junior team members&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Success Measures&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;In 1 month, you&#39;ll be familiar with the parts of the system that your team owns, the existing features, and projects within the Observability team and have contributed minor tasks within our codebase&lt;/li&gt;\n&lt;li&gt;In 3 months, you will be contributing to design and development of your team’s projects and starting to ship tickets regularly&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;In 6 months, you will have ramped up enough to take on medium+ sized projects, contribute actively in our technical discussions and proactively improve our codebase and products. You will be supporting our customers during escalations and have joined our on-call rotation&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;About MongoDB&lt;/h3&gt;\n&lt;p&gt;MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure.&lt;/p&gt;\n&lt;p&gt;With offices worldwide and over 67,000 customers, including 75% of the Fortune 100 and AI-native startups, relying on MongoDB for their most important applications, we’re powering the next era of software.&lt;/p&gt;\n&lt;p&gt;Our compass at MongoDB is our &lt;a href=&quot;https://www.mongodb.com/company&quot;&gt;Leadership Commitment,&lt;/a&gt; guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.&lt;/p&gt;\n&lt;p&gt;To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. &lt;a href=&quot;https://www.mongodb.com/company/blog/culture/employee-benefits-that-make-a-difference-at-mongodb&quot;&gt;From employee affinity groups, to fertility assistance and a generous parental leave policy&lt;/a&gt;, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys.&lt;a href=&quot;https://www.mongodb.com/blog/channel/culture&quot;&gt; Learn more about what it’s like to work at MongoDB&lt;/a&gt;, and help us make an impact on the world!&lt;/p&gt;\n&lt;p&gt;MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.&lt;/p&gt;\n&lt;p&gt;MongoDB is an equal opportunities employer.&lt;/p&gt;\n&lt;p&gt;REQ ID: 426170&lt;/p&gt;",
+  "departments": [
+    {
+      "id": 6180,
+      "name": "Product & Technology",
+      "child_ids": [
+        38818,
+        85957,
+        85958,
+        216150,
+        216151,
+        91202,
+        89215,
+        292715,
+        89216,
+        38828,
+        38827,
+        201604,
+        85982,
+        85962,
+        89218,
+        144605,
+        38830,
+        85972,
+        85978,
+        85970,
+        85977,
+        85983,
+        91203
+      ],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 3962,
+      "name": "Dublin",
+      "location": "Dublin, Ireland",
+      "child_ids": [],
+      "parent_id": 23658
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": null
+}

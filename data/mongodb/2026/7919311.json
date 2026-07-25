@@ -1,0 +1,156 @@
+{
+  "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=7919311",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3442134,
+  "location": {
+    "name": "Kuala Lumpur"
+  },
+  "metadata": [
+    {
+      "id": 22194060,
+      "name": "Position ID",
+      "value": "10015018",
+      "value_type": "short_text"
+    },
+    {
+      "id": 24918,
+      "name": "Department ID",
+      "value": "D11110-Technical Support APAC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 22194061,
+      "name": "Team",
+      "value": "T10384-Technical Services - Core",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4914027,
+      "name": "Region",
+      "value": "APAC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4137836,
+      "name": "Working Model Eligibility",
+      "value": [
+        "1-In Office"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 4914029,
+      "name": "Job Level",
+      "value": "Professional - IC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24109,
+      "name": "Employment Type",
+      "value": "Full-time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 1073551,
+      "name": "Job Type",
+      "value": "Standard",
+      "value_type": "single_select"
+    },
+    {
+      "id": 988684,
+      "name": "JD Link",
+      "value": "https://docs.google.com/document/d/15W9Y_UiUa0WzpRqwSWkL1sszodm6TmjcgttVyiTCAbk/edit?tab=t.nnpha23eri2r",
+      "value_type": "url"
+    },
+    {
+      "id": 5525802,
+      "name": "Baseline Budgeted Salary",
+      "value": {
+        "unit": "MYR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 5525816,
+      "name": "Other Large Market Budgeted Salary",
+      "value": {
+        "unit": "MYR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 13324394,
+      "name": "Job Post Range (United States)",
+      "value": {
+        "unit": "MYR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 40497768,
+      "name": "Job Post Range (Canada)",
+      "value": {
+        "unit": "MYR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 57694516,
+      "name": "Job Post Range (Poland)",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 64002488,
+      "name": "Job Post Range (Italy)",
+      "value": null,
+      "value_type": "currency_range"
+    }
+  ],
+  "id": 7919311,
+  "updated_at": "2026-07-21T10:26:00-04:00",
+  "requisition_id": "2273442134",
+  "title": "Technical Services Engineer",
+  "company_name": "MongoDB",
+  "first_published": "2026-05-15T06:14:59-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;MongoDB Technical Services Engineers use their exceptional problem-solving and customer service skills, along with their deep technical experience, to advise customers and to solve their complex MongoDB problems. Technical Service Engineers are experts in the entire MongoDB ecosystem - database server, drivers, cloud and infrastructure. This also includes services such as Atlas (database as a service), or Cloud Manager (which helps customers with automation, backup and monitoring of their MongoDB systems). Our engineers combine their MongoDB expertise with passion, initiative, teamwork and a great sense of humor to achieve exceptional results for our customers.&lt;/p&gt;\n&lt;p&gt;We are looking to speak to candidates who are based in Kuala Lumpur, Malaysia for our hybrid working model.&lt;/p&gt;\n&lt;h3&gt;Cool things you’ll do&lt;/h3&gt;\n&lt;p&gt;MongoDB is on a mission to change the way people think about databases. Along the way, our customers encounter questions and issues about how our approach to databases works for their use case. In Technical Services, it&#39;s our job to help these people.&lt;/p&gt;\n&lt;p&gt;You&#39;ll be working alongside our largest customers, solving their complex issues - resolving questions on architecture, performance, recovery, security, and everything in between. You&#39;ll be an expert resource on standard methodologies in running MongoDB at scale, whatever that scale may be. You&#39;ll be an advocate for customers&#39; needs - working with our product management and development teams on their behalf. And you&#39;ll contribute to internal projects, including software development of support tools for performance, benchmarking, and diagnostics. In addition, you will also be responsible for mentoring and ramping new team members and taking initiatives in building knowledge of new product lines within the MongoDB ecosystem.&lt;/p&gt;\n&lt;h3&gt;What you need&lt;/h3&gt;\n&lt;p&gt;We consider all candidates with an eye for those who are self-taught, insatiably curious, and multi-faceted.&lt;/p&gt;\n&lt;p&gt;It’s important for candidates to check off these boxes:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Fluent in one or more of the following languages: Bahasa Indonesia, Japanese, Korean, Mandarin or Thai both written and spoken, in addition to English&lt;/li&gt;\n&lt;li&gt;Systems engineering experience, including Linux performance, memory management, I/O tuning, configuration, security, networking, clusters, and troubleshooting&lt;/li&gt;\n&lt;li&gt;Should have a good understanding of Networking concepts and protocols (DNS, TCP/IP, SSL/TLS, etc.)&lt;/li&gt;\n&lt;li&gt;Storage engineering experience, including NAS, SAN, SSD, multi-pathing, and caching&lt;/li&gt;\n&lt;li&gt;Experience building and maintaining complex mission-critical production database systems&lt;/li&gt;\n&lt;li&gt;Be able to read code, and basic coding/scripting ability in one or more languages: Java, Python, Ruby, C, C++, C#, Javascript, node.js, Go, etc&lt;/li&gt;\n&lt;li&gt;Broad awareness of customer workloads and use cases, including performance, availability, and scalability&lt;/li&gt;\n&lt;li&gt;Experience analyzing issues holistically, from the application tier through the database, down to the storage&lt;/li&gt;\n&lt;li&gt;Genuine desire to help people&lt;/li&gt;\n&lt;li&gt;Ability to think on your feet, remain calm under pressure, and solve problems in real-time&lt;/li&gt;\n&lt;li&gt;Desire and ability to rapidly learn a wide variety of new technical skills&lt;/li&gt;\n&lt;li&gt;Collaboration: willingness and ability to get help from team members when required, and the good judgment to know when to seek help&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Bonus Points&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience managing large-scale databases (e.g. RDBMS, NoSQL)&lt;/li&gt;\n&lt;li&gt;Experience with authentication systems such as LDAP, Kerberos, AD&lt;/li&gt;\n&lt;li&gt;Experience using or managing MongoDB&lt;/li&gt;\n&lt;li&gt;Experience using distributed version control systems, and in particular git&lt;/li&gt;\n&lt;li&gt;Experience using any cloud services stack such as AWS, Azure or GCP&lt;/li&gt;\n&lt;li&gt;Experience with Kubernetes or other orchestration systems using vendor-specific Enterprise operators&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Weekend and Holiday Work&lt;/h3&gt;\n&lt;p&gt;Due to the 24/7 nature of our support organization, certain events throughout the year will require participation for coverage outside one’s normal work days or work hours (i.e. regional offsites, regional holidays, etc). These are typically announced weeks in advance with a sign-up system that considers equitability.&lt;/p&gt;\n&lt;h3&gt;Success Measures&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;In 3 months, you’ll have gained a deep understanding of MongoDB and its ecosystem. You will complete New Hire Training&lt;/li&gt;\n&lt;li&gt;In 6 months, you will be comfortable working frontline with our customers. You will also complete the MongoDB Certified DBA Associate exam&lt;/li&gt;\n&lt;li&gt;In 12 months, you will be a technical specialist within MongoDB and will be helping your peer engineers in advance diagnostics. Also, you will be encouraged to handle technical escalations independently&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;About MongoDB&lt;/h3&gt;\n&lt;p&gt;MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure.&lt;/p&gt;\n&lt;p&gt;With offices worldwide and over 67,000 customers, including 75% of the Fortune 100 and AI-native startups, relying on MongoDB for their most important applications, we’re powering the next era of software.&lt;/p&gt;\n&lt;p&gt;Our compass at MongoDB is our &lt;a href=&quot;https://www.mongodb.com/company&quot;&gt;Leadership Commitment,&lt;/a&gt; guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. &lt;a href=&quot;https://www.mongodb.com/company/blog/culture/employee-benefits-that-make-a-difference-at-mongodb&quot;&gt;From employee affinity groups, to fertility assistance and a generous parental leave policy&lt;/a&gt;, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys.&lt;a href=&quot;https://www.mongodb.com/blog/channel/culture&quot;&gt; Learn more about what it’s like to work at MongoDB&lt;/a&gt;, and help us make an impact on the world!&lt;/p&gt;\n&lt;p&gt;MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.&lt;/p&gt;\n&lt;p&gt;MongoDB is an equal opportunities employer.&lt;/p&gt;\n&lt;table class=&quot;fields&quot;&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;td&gt;Requisition ID&lt;/td&gt;\n&lt;td data-provides=&quot;requisition_id&quot;&gt;2273442134&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;",
+  "departments": [
+    {
+      "id": 234514,
+      "name": "Technical Support APAC",
+      "child_ids": [],
+      "parent_id": 268135
+    }
+  ],
+  "offices": [
+    {
+      "id": 320320,
+      "name": "Kuala Lumpur",
+      "location": "MYS_KualaLumpur",
+      "child_ids": [],
+      "parent_id": 23659
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": null
+}

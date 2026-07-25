@@ -1,0 +1,156 @@
+{
+  "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=7815677",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3412835,
+  "location": {
+    "name": "New York City"
+  },
+  "metadata": [
+    {
+      "id": 22194060,
+      "name": "Position ID",
+      "value": "10005405",
+      "value_type": "short_text"
+    },
+    {
+      "id": 24918,
+      "name": "Department ID",
+      "value": "D22100-Clusters & Interfaces",
+      "value_type": "single_select"
+    },
+    {
+      "id": 22194061,
+      "name": "Team",
+      "value": "T10344-Server Security",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4914027,
+      "name": "Region",
+      "value": "North America",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4137836,
+      "name": "Working Model Eligibility",
+      "value": [
+        "2-Flexible"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 4914029,
+      "name": "Job Level",
+      "value": "Professional - IC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24109,
+      "name": "Employment Type",
+      "value": "Full-time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 1073551,
+      "name": "Job Type",
+      "value": "Standard",
+      "value_type": "single_select"
+    },
+    {
+      "id": 988684,
+      "name": "JD Link",
+      "value": "https://docs.google.com/document/d/1bla7YLXbp7XL8j1d6bGkrmeXyWR0WSr2z7shNd2TbjU/edit?tab=t.t4tff76ex90r#heading=h.xfc75jc5ch96",
+      "value_type": "url"
+    },
+    {
+      "id": 5525802,
+      "name": "Baseline Budgeted Salary",
+      "value": {
+        "unit": "USD",
+        "max_value": "225000.0",
+        "min_value": "157000.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 5525816,
+      "name": "Other Large Market Budgeted Salary",
+      "value": {
+        "unit": "USD",
+        "max_value": "191000.0",
+        "min_value": "134000.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 13324394,
+      "name": "Job Post Range (United States)",
+      "value": {
+        "unit": "USD",
+        "max_value": "248000.0",
+        "min_value": "126000.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 40497768,
+      "name": "Job Post Range (Canada)",
+      "value": {
+        "unit": "USD",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 57694516,
+      "name": "Job Post Range (Poland)",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 64002488,
+      "name": "Job Post Range (Italy)",
+      "value": null,
+      "value_type": "currency_range"
+    }
+  ],
+  "id": 7815677,
+  "updated_at": "2026-07-21T10:26:00-04:00",
+  "requisition_id": "1273412835",
+  "title": "Senior Software Engineer, Server Security",
+  "company_name": "MongoDB",
+  "first_published": "2026-04-17T13:43:08-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;We are hiring a Senior Software Engineer to join our Server Security team. The Server Security team is a development-focused group within MongoDB&#39;s core engineering organization. Operating &quot;close to the bottom of the stack,&quot; the team builds features that enable database users to secure their data globally. You will work on critical components including:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Cryptography: &lt;a href=&quot;https://www.mongodb.com/docs/manual/core/queryable-encryption/&quot;&gt;Queryable Encryption&lt;/a&gt;, at-rest data encryption, and fundamental cryptographic principles.&lt;/li&gt;\n&lt;li&gt;Identity &amp;amp; Access: Authentication and authorization systems, TLS, and X.509 certificate management&lt;/li&gt;\n&lt;li&gt;Network Security: High-performance, low-latency networking protocols (PKI, Hashing, CRLs)&lt;/li&gt;\n&lt;li&gt;System Integrity: Resilience, observability, and compliance assurance within a large-scale distributed database&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Our team champions a strong culture of inclusivity, diversity, and collaboration. If you want to work on a collaborative team that applies distributed systems fundamentals to deliver core features of a popular database, join us! Let’s change what’s possible for application developers, system architects, and database operators.&lt;/p&gt;\n&lt;h3&gt;The role&lt;/h3&gt;\n&lt;p&gt;As a Senior Engineer, you will apply distributed systems fundamentals to deliver core security features. You will be a leader in improving MongoDB&#39;s security posture by owning features and leading investigations into complex areas of the codebase. What you’ll do:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Build and test new security features in a large, feature-rich C++ codebase&lt;/li&gt;\n&lt;li&gt;Work across engineering, cloud services, and support teams to coordinate feature rollouts and changes&lt;/li&gt;\n&lt;li&gt;Stand for code quality and security best practices, assisting fellow engineers in writing well-reasoned, secure code&lt;/li&gt;\n&lt;li&gt;Use strong diagnostic intuition to solve thorny technical issues related to distributed systems, concurrency, and OS internals&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;This role can be remote or hybrid anywhere in the USA or Canada. We will prioritize candidates who are already located in one of these countries.&lt;/p&gt;\n&lt;h3&gt;Candidate Profile&lt;/h3&gt;\n&lt;p&gt;We are looking for a highly technical engineer who thrives on the theory and practice of large-scale distributed system design.&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;5+ years of experience building distributed systems&lt;/li&gt;\n&lt;li&gt;Proficiency in a compiled language (C++, Rust, Go, Java, or similar). Technical interviews will be conducted in a compiled language of your choice&lt;/li&gt;\n&lt;li&gt;Ability to reason about how specific design choices impact a distributed system like MongoDB&lt;/li&gt;\n&lt;li&gt;Understands modern computer architecture and internals to the degree that they can reason about how specific design choices plays out in a system like MongoDB&lt;/li&gt;\n&lt;li&gt;Degree in Computer Science or similar field, or equivalent practical experience, with strong competencies in data structures, algorithms, and software design/architecture&lt;/li&gt;\n&lt;li&gt;Excellent communication skills to synthesize complex technical implications for diverse stakeholders&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Success Measures&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;In your first month, you’ll understand the high-level architecture of MongoDB, dive into the details of your team’s components, and resolve a few bugs&lt;/li&gt;\n&lt;li&gt;In the first three months, you’ll contribute to the development of a project slated for the next release of MongoDB, take on code review responsibilities, and participate in design reviews for new features&lt;/li&gt;\n&lt;li&gt;In the first six months, you’ll lead the development of a new feature and help mentor new engineers on the team&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;About MongoDB&lt;/h3&gt;\n&lt;p&gt;MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure.&lt;/p&gt;\n&lt;p&gt;With offices worldwide and over 67,000 customers, including 75% of the Fortune 100 and AI-native startups, relying on MongoDB for their most important applications, we’re powering the next era of software.&lt;/p&gt;\n&lt;p&gt;Our compass at MongoDB is our &lt;a href=&quot;https://www.mongodb.com/company&quot;&gt;Leadership Commitment,&lt;/a&gt; guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. &lt;a href=&quot;https://www.mongodb.com/company/blog/culture/employee-benefits-that-make-a-difference-at-mongodb&quot;&gt;From employee affinity groups, to fertility assistance and a generous parental leave policy&lt;/a&gt;, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys.&lt;a href=&quot;https://www.mongodb.com/blog/channel/culture&quot;&gt; Learn more about what it’s like to work at MongoDB&lt;/a&gt;, and help us make an impact on the world!&lt;/p&gt;\n&lt;p&gt;MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.&lt;/p&gt;\n&lt;p&gt;MongoDB, Inc. provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type and makes all hiring decisions without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.&lt;/p&gt;\n&lt;p&gt;Req ID: 1273412835&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;MongoDB’s base salary range for this role is posted below. Compensation at the time of offer is unique to each candidate and based on a variety of factors such as skill set, experience, qualifications, and work location. Salary is one part of MongoDB’s total compensation and benefits package. Other benefits for eligible employees may include: equity, participation in the employee stock purchase program, flexible paid time off, 20 weeks fully-paid gender-neutral parental leave, fertility and adoption assistance, 401(k) plan, mental health counseling, access to transgender-inclusive health insurance coverage, and health benefits offerings. Please note, the base salary range listed below and the benefits in this paragraph are only applicable to U.S.-based candidates.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;MongoDB’s base salary range for this role in the U.S. is:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$126,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$248,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 85971,
+      "name": "Clusters & Interfaces",
+      "child_ids": [],
+      "parent_id": 371021
+    }
+  ],
+  "offices": [
+    {
+      "id": 208788,
+      "name": "Royal Oak",
+      "location": "Royal Oak, Michigan, United States",
+      "child_ids": [],
+      "parent_id": 23657
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": null
+}

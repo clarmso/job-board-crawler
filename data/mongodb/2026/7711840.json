@@ -1,0 +1,148 @@
+{
+  "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=7711840",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3387822,
+  "location": {
+    "name": "Dublin"
+  },
+  "metadata": [
+    {
+      "id": 22194060,
+      "name": "Position ID",
+      "value": "10014762",
+      "value_type": "short_text"
+    },
+    {
+      "id": 24918,
+      "name": "Department ID",
+      "value": "D23000-Atlas Core Data Services",
+      "value_type": "single_select"
+    },
+    {
+      "id": 22194061,
+      "name": "Team",
+      "value": "T10185-Atlas Core Data Services Leadership",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4914027,
+      "name": "Region",
+      "value": "EMEA",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4137836,
+      "name": "Working Model Eligibility",
+      "value": [
+        "2-Flexible"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 4914029,
+      "name": "Job Level",
+      "value": "Professional - IC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24109,
+      "name": "Employment Type",
+      "value": "Full-time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 1073551,
+      "name": "Job Type",
+      "value": "Standard",
+      "value_type": "single_select"
+    },
+    {
+      "id": 988684,
+      "name": "JD Link",
+      "value": "https://docs.google.com/document/d/1cR_PvmuDEkWcy35dulEUu8nzxL4mkGldwkqLEZ5ueck/edit?tab=t.0#heading=h.z6zz5uxrnwt6",
+      "value_type": "url"
+    },
+    {
+      "id": 5525802,
+      "name": "Baseline Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 5525816,
+      "name": "Other Large Market Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 13324394,
+      "name": "Job Post Range (United States)",
+      "value": {
+        "unit": "EUR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 40497768,
+      "name": "Job Post Range (Canada)",
+      "value": {
+        "unit": "EUR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 57694516,
+      "name": "Job Post Range (Poland)",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 64002488,
+      "name": "Job Post Range (Italy)",
+      "value": null,
+      "value_type": "currency_range"
+    }
+  ],
+  "id": 7711840,
+  "updated_at": "2026-07-21T10:26:00-04:00",
+  "requisition_id": "1273387822",
+  "title": "Senior Staff Engineer",
+  "company_name": "MongoDB",
+  "first_published": "2026-06-16T06:39:12-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;The worldwide data management software market is massive (IDC forecasts it to be $138 billion by 2026). At MongoDB, we are transforming industries and empowering developers to build amazing apps that people use every day. We are the leading modern data platform and the first database provider to IPO in over 20 years. Join our team and be at the center of innovation and creativity.&lt;/p&gt;\n&lt;p&gt;MongoDB is seeking a Sr. Staff Software Engineer to join the Atlas Core Data Services organization. The organization is responsible for building MongoDB Atlas, our database as a service offering and fastest growing product, along with the API Platform and Developer Tools. Atlas allows users to deploy fault-tolerant, secure, globally distributed MongoDB clusters in just minutes.&lt;/p&gt;\n&lt;p&gt;The Atlas Core Data Services organization builds the software that manages the Atlas cluster infrastructure hosted on the three major cloud providers (AWS, Azure, and GCP), as well as the software that manages the MongoDB database hosted on that infrastructure. We are constantly challenged to design features that ensure Atlas clusters are secure, available, durable, and performant while running large-scale, critical workloads. The Sr. Staff Engineer in this role will drive innovation across the organization and the company, setting technical standards and direction that enable future growth and velocity. We are looking for engineers with the experience and high standards needed to lead at that scale.&lt;/p&gt;\n&lt;p&gt;Our organization champions a strong culture of inclusivity, diversity, and collaboration. If you want to be a deeply technical leader on a collaborative team that applies systems expertise to build the foundational infrastructure of a popular database, join us. Let&#39;s build a faster, more reliable, and highly scalable database platform together.&lt;/p&gt;\n&lt;p&gt;We are looking to speak to candidates who are based in Dublin for our hybrid working model.&lt;/p&gt;\n&lt;h3&gt;Responsibilities&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Define standards and vision for the mission-critical Atlas SaaS data platform, leading the architecture and implementation of components that drive performance, scalability, cost efficiency, and resiliency&lt;/li&gt;\n&lt;li&gt;Drive the technical design of new features from inception to market, with a focus on delivering high customer impact&lt;/li&gt;\n&lt;li&gt;Work closely with engineering, product, and design leadership, distinguished engineers, and peers to guide technical strategy, define product roadmaps, and advise on engineering complexity and inter-project dependencies&lt;/li&gt;\n&lt;li&gt;Oversee the implementation of large-scale, cross-organizational features from design through delivery&lt;/li&gt;\n&lt;li&gt;Handle production customer escalations from the Technical Support team and coach teammates to do the same&lt;/li&gt;\n&lt;li&gt;Write production-ready database code, improve the existing codebase, and mentor teammates to consistently raise the quality bar&lt;/li&gt;\n&lt;li&gt;Collaborate with team members to evolve the codebase, best practices, and design principles that underpin the Atlas platform&lt;/li&gt;\n&lt;li&gt;Ensure the codebase achieves a high standard for quality across security, durability, availability, performance, and maintainability&lt;/li&gt;\n&lt;li&gt;Drive AI engineering strategy within the Atlas Core Data Services organization to accelerate developer velocity at all levels of the engineering team&lt;/li&gt;\n&lt;li&gt;Interview candidates for advanced software engineering positions&lt;/li&gt;\n&lt;li&gt;Develop and maintain expertise in cutting-edge database developments from industry and academia&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Success Measures&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;In the first month, you will have understood the high-level architecture of MongoDB Atlas, contributed to one or more projects at an IC level, and resolved bugs&lt;/li&gt;\n&lt;li&gt;In three months, you will have contributed to the development of a project slated for the next major release of MongoDB, and diagnosed and fixed a few customer or testing-reported issues&lt;/li&gt;\n&lt;li&gt;In six months, you will have taken on code review responsibilities and are involved in reviewing the design for new features&lt;/li&gt;\n&lt;li&gt;In twelve months, you will be leading the development of new features and initiatives, mentoring engineers on the team, and using your experience to drive the long-term technical roadmap of MongoDB Atlas&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Candidate Profile&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Solving complex problems at scale, and to high standards, excites you&lt;/li&gt;\n&lt;li&gt;Minimum 15 years of experience in designing, programming, debugging, and tuning distributed and/or highly concurrent C/C++/Java/Rust mission-critical software systems&lt;/li&gt;\n&lt;li&gt;Experience running latency-sensitive, high-throughput systems&lt;/li&gt;\n&lt;li&gt;Strong systems fundamentals, including multi-threaded programming, distributed systems at scale, and expert-level programming&lt;/li&gt;\n&lt;li&gt;Familiarity with database internals or building core components for data processing systems&lt;/li&gt;\n&lt;li&gt;Familiarity with a hosted database ecosystem and best practices&lt;/li&gt;\n&lt;li&gt;Excellent verbal and written technical communication skills and a strong desire to collaborate with colleagues and mentor engineers&lt;/li&gt;\n&lt;li&gt;Excellent time and project management skills, including the ability to make realistic assessments of project cost and complexity&lt;/li&gt;\n&lt;li&gt;A good understanding of information security management&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;About MongoDB&lt;/h3&gt;\n&lt;p&gt;MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure.&lt;/p&gt;\n&lt;p&gt;With offices worldwide and over 67,000 customers, including 75% of the Fortune 100 and AI-native startups, relying on MongoDB for their most important applications, we’re powering the next era of software.&lt;/p&gt;\n&lt;p&gt;Our compass at MongoDB is our &lt;a href=&quot;https://www.mongodb.com/company&quot;&gt;Leadership Commitment,&lt;/a&gt; guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. &lt;a href=&quot;https://www.mongodb.com/company/blog/culture/employee-benefits-that-make-a-difference-at-mongodb&quot;&gt;From employee affinity groups, to fertility assistance and a generous parental leave policy&lt;/a&gt;, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys.&lt;a href=&quot;https://www.mongodb.com/blog/channel/culture&quot;&gt; Learn more about what it’s like to work at MongoDB&lt;/a&gt;, and help us make an impact on the world!&lt;/p&gt;\n&lt;p&gt;MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.&lt;/p&gt;\n&lt;p&gt;MongoDB is an equal opportunities employer.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;REQ ID: 1273387822&lt;/p&gt;",
+  "departments": [
+    {
+      "id": 69393,
+      "name": "Atlas Core Data Services",
+      "child_ids": [],
+      "parent_id": 371021
+    }
+  ],
+  "offices": [
+    {
+      "id": 3962,
+      "name": "Dublin",
+      "location": "Dublin, Ireland",
+      "child_ids": [],
+      "parent_id": 23658
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": null
+}

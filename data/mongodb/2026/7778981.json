@@ -1,0 +1,156 @@
+{
+  "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=7778981",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3405376,
+  "location": {
+    "name": "Gurugram"
+  },
+  "metadata": [
+    {
+      "id": 22194060,
+      "name": "Position ID",
+      "value": "10014873",
+      "value_type": "short_text"
+    },
+    {
+      "id": 24918,
+      "name": "Department ID",
+      "value": "D85021-GTM Tech",
+      "value_type": "single_select"
+    },
+    {
+      "id": 22194061,
+      "name": "Team",
+      "value": "387-GTM Tech",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4914027,
+      "name": "Region",
+      "value": "APAC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4137836,
+      "name": "Working Model Eligibility",
+      "value": [
+        "2-Flexible"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 4914029,
+      "name": "Job Level",
+      "value": "Professional - IC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24109,
+      "name": "Employment Type",
+      "value": "Full-time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 1073551,
+      "name": "Job Type",
+      "value": "Standard",
+      "value_type": "single_select"
+    },
+    {
+      "id": 988684,
+      "name": "JD Link",
+      "value": "https://docs.google.com/document/d/1fE09Xl_oDXy_D53xETq0aC0yidGfjmJx3mrgeHJex2Y/edit?tab=t.0#heading=h.33yxv6kzrfrr",
+      "value_type": "url"
+    },
+    {
+      "id": 5525802,
+      "name": "Baseline Budgeted Salary",
+      "value": {
+        "unit": "INR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 5525816,
+      "name": "Other Large Market Budgeted Salary",
+      "value": {
+        "unit": "INR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 13324394,
+      "name": "Job Post Range (United States)",
+      "value": {
+        "unit": "INR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 40497768,
+      "name": "Job Post Range (Canada)",
+      "value": {
+        "unit": "INR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 57694516,
+      "name": "Job Post Range (Poland)",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 64002488,
+      "name": "Job Post Range (Italy)",
+      "value": null,
+      "value_type": "currency_range"
+    }
+  ],
+  "id": 7778981,
+  "updated_at": "2026-07-21T10:26:00-04:00",
+  "requisition_id": "1273405376",
+  "title": "Staff Engineer - Business Systems (Integrations)",
+  "company_name": "MongoDB",
+  "first_published": "2026-04-30T02:43:04-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;We are looking to speak to candidates who are based in Gurugram for our hybrid working model.&lt;/p&gt;\n&lt;h3&gt;About the Role&lt;/h3&gt;\n&lt;p&gt;We are looking for a Staff Integration Engineer (Workato &amp;amp; API Integration) to join our GTMTech team. This strategic role will lead the design, implementation, and governance of enterprise-grade integrations that power our core business processes across GTM systems, with a primary focus on Workato-based integrations and modern API management patterns.&lt;/p&gt;\n&lt;p&gt;You will own the architecture for critical integration domains such as Quote-to-Cash and other high-impact GTMTech programs, ensuring our integration landscape is scalable, secure, observable, and aligned with best practices for event-driven and API-first designs. You will partner with engineering, architecture, security, and business stakeholders to define standards, mentor other integration engineers, and drive continuous improvement in how we connect systems and data.&lt;/p&gt;\n&lt;p&gt;The GTMTech team is focused on high-impact, large-scale technology programs, such as Quote-to-Cash. Our mission is to enhance company efficiency, boost profitability, and enable data-driven decision-making by streamlining systems, optimizing processes, and minimizing manual, low-value work through automation and AI.&lt;/p&gt;\n&lt;h3&gt;Key Responsibilities&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Lead the end-to-end architecture, design, and implementation of Workato-based integrations and APIs across GTM systems (e.g., Salesforce, NetSuite, HRIS, Google Workspace) with a focus on scalability, reliability, and security&lt;/li&gt;\n&lt;li&gt;Define and evolve integration standards, patterns, and best practices, including canonical integration patterns, error-handling strategies, observability, and operational runbooks&lt;/li&gt;\n&lt;li&gt;Design and review complex, event-driven integration workflows leveraging technologies such as Kafka or equivalent messaging platforms, ensuring robust handling of topics, producers/consumers, durability, and retry mechanisms&lt;/li&gt;\n&lt;li&gt;Drive API-first and MCP-native design for GTM integrations, leveraging RESTful APIs alongside MCP-based interfaces and AI-driven services, including robust authentication and authorization (OAuth2, JWT), versioning, lifecycle management, and integration with API management platforms such as Apigee or similar&lt;/li&gt;\n&lt;li&gt;Translate ambiguous, cross-functional business requirements into well-structured technical designs, evaluating multiple solution approaches and recommending the best fit for scalability, extensibility, and long-term maintainability.&lt;/li&gt;\n&lt;li&gt;Provide technical leadership and mentorship to other integration engineers—coaching on Workato concepts (callable recipes, event streams, task optimization), API design, and integration patterns, and performing design and code reviews&lt;/li&gt;\n&lt;li&gt;Partner closely with GTM, Finance, Data, and Security teams to align integration designs with data governance, compliance, and audit requirements, including CI/CD practices and environment strategies for Workato and associated services&lt;/li&gt;\n&lt;li&gt;Establish and enforce non-functional requirements (NFRs) for integrations (performance, resiliency, observability, security), and ensure they are met through design, testing, and monitoring&lt;/li&gt;\n&lt;li&gt;Troubleshoot and resolve complex issues spanning multiple systems and environments by performing deep root-cause analysis and driving long-term corrective actions in partnership with system owners&lt;/li&gt;\n&lt;li&gt;Conduct POCs to validate technology or pattern choices (e.g., new Workato features, API capabilities, event streaming approaches) and guide the team on when and how to adopt them&lt;/li&gt;\n&lt;li&gt;Participate in and help mature the on-call and support rotation for integrations, ensuring robust incident response, escalation, and communication practices&lt;/li&gt;\n&lt;li&gt;Champion and role model MongoDB’s culture principles—Think Big, Make it Happen, Build Together, and Be Intellectually Honest—while driving high standards for technical excellence and operational rigor within GTMTech.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Qualifications&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Bachelor’s or Master’s degree in Computer Science, Engineering, or a related field, with 10+ years of enterprise integration experience, including significant time in lead/architect roles&lt;/li&gt;\n&lt;li&gt;At least 5 years of hands-on experience designing and delivering complex, enterprise-grade integration solutions using Workato, with deep understanding of the platform beyond low-code/no-code capabilities (e.g., advanced recipes, callable recipes, event streams, Workato SDK, task optimization, governance)&lt;/li&gt;\n&lt;li&gt;Strong experience operating Workato in production at scale, including environment strategy, deployment automation, observability and monitoring, logging, and robust debugging in multi-system landscapes&lt;/li&gt;\n&lt;li&gt;Solid understanding of event-driven architectures and messaging technologies such as Kafka or equivalents, including topics, producers/consumers, message durability, failure handling, and retry strategies&lt;/li&gt;\n&lt;li&gt;Proficient with Workato connectors (including but not limited to Salesforce, NetSuite, HRIS, and Google Workspace), coupled with strong scripting skills (e.g., Python or Ruby) for advanced transformations and custom logic when required&lt;/li&gt;\n&lt;li&gt;Demonstrated experience defining and enforcing integration standards, patterns, and NFRs across teams, including performance, scalability, security, and operability benchmarks&lt;/li&gt;\n&lt;li&gt;Excellent analysis and system design capabilities, with a focus on system interactions, data flows, scalability, performance, and mapping complex business requirements into elegant, maintainable technical solutions&lt;/li&gt;\n&lt;li&gt;Strong troubleshooting skills across diverse technologies and environments, with the ability to quickly isolate issues and drive cross-functional teams toward resolution&lt;/li&gt;\n&lt;li&gt;Ability to mentor and upskill teammates, lead design and architecture reviews, and influence stakeholders through clear communication and well-reasoned recommendations&lt;/li&gt;\n&lt;li&gt;Comfortable working in a fast-paced, highly collaborative, and hybrid environment, and open to occasional travel as needed for key workshops or stakeholder engagements.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Success Measures&lt;/h3&gt;\n&lt;p&gt;In 3 months, you will have:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Gained a deep understanding of the GTMTech integration landscape, including key Workato recipes, APIs, and event streams across Quote-to-Cash and adjacent domains&lt;/li&gt;\n&lt;li&gt;Ownership of at least one critical integration domain, stabilizing existing integrations and addressing high-priority issues or technical debt.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;In 6 months, you will have:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Designed and delivered high-quality, scalable integration solutions (recipes/flows and APIs) for key GTMTech initiatives, with measurable improvements in reliability, performance, and observability&lt;/li&gt;\n&lt;li&gt;Established or refined integration standards and NFR guidelines (including SLAs/SLOs, error-handling patterns, and monitoring dashboards) and gained adoption across the GTMTech integration team&lt;/li&gt;\n&lt;li&gt;Led design reviews and architecture discussions for new integration initiatives, ensuring alignment with event-driven and API-first strategies and influencing technology choices where appropriate.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;In 12 months and beyond, you will have:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Become the go-to integration and API architecture leader for GTMTech, recognized for your ability to decompose complex business problems into scalable integration designs and to guide teams toward high-quality implementations&lt;/li&gt;\n&lt;li&gt;Demonstrated a track record of proactively identifying integration risks, performance bottlenecks, and architectural gaps, and leading cross-functional efforts to address them with durable solutions&lt;/li&gt;\n&lt;li&gt;Played a central role in elevating the overall maturity of GTMTech integrations—improving uptime, reducing incidents, shortening time-to-recovery, and increasing development velocity through better tooling, patterns, and governance&lt;/li&gt;\n&lt;li&gt;Championed MongoDB’s culture principles within GTMTech, mentoring engineers, shaping interview and hiring standards for integration roles, and contributing to a high-performing, inclusive team culture&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;About MongoDB&lt;/h3&gt;\n&lt;p&gt;MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure.&lt;/p&gt;\n&lt;p&gt;With offices worldwide and over 67,000 customers, including 75% of the Fortune 100 and AI-native startups, relying on MongoDB for their most important applications, we’re powering the next era of software.&lt;/p&gt;\n&lt;p&gt;Our compass at MongoDB is our &lt;a href=&quot;https://www.mongodb.com/company&quot;&gt;Leadership Commitment,&lt;/a&gt; guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. &lt;a href=&quot;https://www.mongodb.com/company/blog/culture/employee-benefits-that-make-a-difference-at-mongodb&quot;&gt;From employee affinity groups, to fertility assistance and a generous parental leave policy&lt;/a&gt;, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys.&lt;a href=&quot;https://www.mongodb.com/blog/channel/culture&quot;&gt; Learn more about what it’s like to work at MongoDB&lt;/a&gt;, and help us make an impact on the world!&lt;/p&gt;\n&lt;p&gt;MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.&lt;/p&gt;\n&lt;p&gt;MongoDB is an equal opportunities employer.&lt;/p&gt;\n&lt;table class=&quot;fields&quot;&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;td&gt;Requisition ID&lt;/td&gt;\n&lt;td data-provides=&quot;requisition_id&quot;&gt;1273405376&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;",
+  "departments": [
+    {
+      "id": 289352,
+      "name": "GTM Tech",
+      "child_ids": [],
+      "parent_id": 298006
+    }
+  ],
+  "offices": [
+    {
+      "id": 65909,
+      "name": "Gurugram",
+      "location": "Gurugram, Haryana, India",
+      "child_ids": [],
+      "parent_id": 23659
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": null
+}

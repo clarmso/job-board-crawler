@@ -1,0 +1,156 @@
+{
+  "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=7617019",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3362664,
+  "location": {
+    "name": "California; Oregon; Washington"
+  },
+  "metadata": [
+    {
+      "id": 22194060,
+      "name": "Position ID",
+      "value": "10005993",
+      "value_type": "short_text"
+    },
+    {
+      "id": 24918,
+      "name": "Department ID",
+      "value": "D22001-App Modernization ENG",
+      "value_type": "single_select"
+    },
+    {
+      "id": 22194061,
+      "name": "Team",
+      "value": "T10339-Modernization ENG",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4914027,
+      "name": "Region",
+      "value": "North America",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4137836,
+      "name": "Working Model Eligibility",
+      "value": [
+        "3-Fully Remote"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 4914029,
+      "name": "Job Level",
+      "value": "Professional - IC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24109,
+      "name": "Employment Type",
+      "value": "Full-time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 1073551,
+      "name": "Job Type",
+      "value": "Standard",
+      "value_type": "single_select"
+    },
+    {
+      "id": 988684,
+      "name": "JD Link",
+      "value": "https://docs.google.com/document/d/1nrJUpMMtyGvG_YnE5ncXZd9lTN7mhcnytWts3aWysaY/edit?usp=sharing",
+      "value_type": "url"
+    },
+    {
+      "id": 5525802,
+      "name": "Baseline Budgeted Salary",
+      "value": {
+        "unit": "CAD",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 5525816,
+      "name": "Other Large Market Budgeted Salary",
+      "value": {
+        "unit": "CAD",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 13324394,
+      "name": "Job Post Range (United States)",
+      "value": {
+        "unit": "CAD",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 40497768,
+      "name": "Job Post Range (Canada)",
+      "value": {
+        "unit": "CAD",
+        "max_value": "290000.0",
+        "min_value": "209000.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 57694516,
+      "name": "Job Post Range (Poland)",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 64002488,
+      "name": "Job Post Range (Italy)",
+      "value": null,
+      "value_type": "currency_range"
+    }
+  ],
+  "id": 7617019,
+  "updated_at": "2026-07-21T10:26:00-04:00",
+  "requisition_id": "1273362664",
+  "title": "Senior Staff Engineer, AMP",
+  "company_name": "MongoDB",
+  "first_published": "2026-03-03T10:31:08-05:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;The Application Modernization Platform (AMP) team is tackling one of the industry&#39;s most critical challenges: leveraging Generative AI to transform rigid, legacy applications into modern, microservices-based architectures powered by MongoDB.&lt;/p&gt;\n&lt;p&gt;We are building a comprehensive, SaaS-like platform, encompassing both the &quot;brain&quot; (multi-agent reasoning and orchestration) and the &quot;hands&quot; (the deployment platform and modernization toolset). This solution requires a robust platform foundation and infrastructure designed for a &quot;build once, run anywhere&quot; model, ensuring seamless operation regardless of a client&#39;s security or network constraints. A key challenge is balancing the need to tune our tools for each customer&#39;s unique tech stack and restrictive environments with making them easily extensible and scalable for common application modernization challenges.&lt;/p&gt;\n&lt;p&gt;We seek an engineering leader for this high-visibility initiative. This role requires defining the high-level strategy and technical direction across all AMP engineering pillars, leading the execution of solving uniquely complex application modernization puzzles, and delivering an enterprise-grade product. The leader will minimize deployment friction, meet customer compliance requirements, and help shape the future of how global enterprises leverage GenAI.&lt;/p&gt;\n&lt;p&gt;The ideal candidate is a hands-on technical leader who excels at leveraging GenAI capabilities, architecting complex distributed systems, and designing the orchestration agents necessary to reliably and fluidly run the entire software development lifecycle.&lt;/p&gt;\n&lt;p&gt;This role will be based in North America&#39;s West Coast (PST), and offers a hybrid working model.&lt;/p&gt;\n&lt;h3&gt;The ideal candidate for this role will have&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;10+ years of software development and operations experience, with a focus on building platforms and distributable software infrastructure&lt;/li&gt;\n&lt;li&gt;Deep experience in building data warehouses and core components for data processing systems&lt;/li&gt;\n&lt;li&gt;Have experience in using GenAI in building complex large-scale systems, and know what GenAI is best suited to do&lt;/li&gt;\n&lt;li&gt;Understanding of security-first design, specifically regarding the execution of untrusted code, fine-grain access control, and rigorous input validation&lt;/li&gt;\n&lt;li&gt;2+ years of experience leading, coaching, and mentoring a team of engineers to achieve high-impact results&lt;/li&gt;\n&lt;li&gt;Excellent verbal and written technical communication skills and a strong desire to collaborate cross-functions&lt;/li&gt;\n&lt;li&gt;Excellent time and project management skills including the ability to make realistic assessments of project cost and complexity&lt;/li&gt;\n&lt;li&gt;Curiosity, a positive attitude, and a drive to continue learning, in particular building AI skillset&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Key Responsibilities&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Provide technical leadership and mentorship to a team of engineers, fostering a culture of innovation, quality, and continuous improvement&lt;/li&gt;\n&lt;li&gt;Provide thought leadership, and execute AMP roadmaps to influence and shape the future of how global enterprises leverage GenAI&lt;/li&gt;\n&lt;li&gt;Lead the design and implementation of a sophisticated orchestration layer that manages authentication, telemetry, and the workflow of application modernization stages&lt;/li&gt;\n&lt;li&gt;Lead the team design and leverage GenAI to build reliable and scalable building blocks that are extendable and easy to assemble to an autonomous workflow&lt;/li&gt;\n&lt;li&gt;Collaborate with MongoDB product teams to ensure the modernized applications integrate seamlessly with customers’ database ecosystem&lt;/li&gt;\n&lt;li&gt;Act as a hands-on leader, guiding the team through technical challenges related to where and how to leverage GenAI to build the critical building blocks of application modernization toolset&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Success Measures&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;Within the first three months, you will have:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Fully ramped up on our architecture, business domain, and the specific constraints of deploying software to large enterprise client environments&lt;/li&gt;\n&lt;li&gt;Established yourself as the technical leader within the team, actively driving engineering strategy and key technical decisions&lt;/li&gt;\n&lt;li&gt;Begun collaborating with team leaders (TLs, managers) of AMP org and product counterparts on designing/improving the orchestration framework and the workflow components it manages&lt;/li&gt;\n&lt;li&gt;Developed a comprehensive grasp of all AMP pillars and their roadmap&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Within six months, you will have:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Influenced AMP product and engineering leads on key technical decisions, and set clear direction for the team&lt;/li&gt;\n&lt;li&gt;Successfully led the team to making substantial progress on the “big rock” deliverables and critical milestones of AMP product, enabling the team to smoothly land the planned roadmap&lt;/li&gt;\n&lt;li&gt;Owned and delivered some key pieces of AMP orchestration framework and the workflow components it manages&lt;/li&gt;\n&lt;li&gt;Served as a role model and strategic leader for the AMP org&lt;/li&gt;\n&lt;li&gt;Contributed to establish engineering excellence standards for the team, and began mentoring and providing technical guidance to team members&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Within 12 months, you will have:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Become recognized as the strategic engineering leader both within and outside of the AMP organization&lt;/li&gt;\n&lt;li&gt;Helped senior leadership (e.g., Directors/VP) on defining the technical strategy and roadmap for the future&lt;/li&gt;\n&lt;li&gt;Enabled the team to deliver a stable, production-ready platform that supports autonomous application modernization workflow for our Field Engineering teams&lt;/li&gt;\n&lt;li&gt;Drove the adoption of engineering excellence, making it a core tenet of the team&#39;s culture and operations&lt;/li&gt;\n&lt;li&gt;Contributed to the development of tech leads within the team, fostering growth opportunities. Played a key role in shaping the AMP organization into a self-driving high-performing engineering team&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;About MongoDB&lt;/h3&gt;\n&lt;p&gt;MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure.&lt;/p&gt;\n&lt;p&gt;With offices worldwide and over 67,000 customers, including 75% of the Fortune 100 and AI-native startups, relying on MongoDB for their most important applications, we’re powering the next era of software.&lt;/p&gt;\n&lt;p&gt;Our compass at MongoDB is our &lt;a href=&quot;https://www.mongodb.com/company&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://www.mongodb.com/company&amp;amp;source=gmail&amp;amp;ust=1781081482428000&amp;amp;usg=AOvVaw2gSzmGDixgBMnqDYy7b3VZ&quot;&gt;Leadership Commitment,&lt;/a&gt; guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.&lt;/p&gt;\n&lt;p&gt;To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. &lt;a href=&quot;https://www.mongodb.com/company/blog/culture/employee-benefits-that-make-a-difference-at-mongodb&quot;&gt;From employee affinity groups, to fertility assistance and a generous parental leave policy&lt;/a&gt;, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys.&lt;a href=&quot;https://www.mongodb.com/blog/channel/culture&quot;&gt; Learn more about what it’s like to work at MongoDB&lt;/a&gt;, and help us make an impact on the world!&lt;/p&gt;\n&lt;p&gt;MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.&lt;/p&gt;\n&lt;p&gt;MongoDB, Inc. provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type and makes all hiring decisions without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.&lt;/p&gt;\n&lt;p&gt;Req. ID: 1273362664&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;MongoDB’s base salary range for this role is posted below. Compensation at the time of offer is unique to each candidate and based on a variety of factors such as skill set, experience, qualifications, and work location. Salary is one part of MongoDB’s total compensation and benefits package. Other benefits for eligible employees may include: equity, participation in the employee stock purchase program, flexible paid time off, 20 weeks fully-paid gender-neutral parental leave, fertility and adoption assistance, 401(k) plan, mental health counseling, access to transgender-inclusive health insurance coverage, and health benefits offerings. Please note, the base salary range listed below and the benefits in this paragraph are only applicable to U.S.-based candidates.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;MongoDB’s base salary range for this role in the U.S. is:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$211,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$363,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 292718,
+      "name": "App Modernization ENG",
+      "child_ids": [],
+      "parent_id": 370707
+    }
+  ],
+  "offices": [
+    {
+      "id": 95830,
+      "name": "Remote Ontario",
+      "location": "Ontario, Canada",
+      "child_ids": [],
+      "parent_id": 23657
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": null
+}

@@ -1,0 +1,152 @@
+{
+  "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=8010102",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3473046,
+  "location": {
+    "name": "Austin; New York; New York City; San Francisco; United States"
+  },
+  "metadata": [
+    {
+      "id": 22194060,
+      "name": "Position ID",
+      "value": "10008678",
+      "value_type": "short_text"
+    },
+    {
+      "id": 24918,
+      "name": "Department ID",
+      "value": "D21010-Query",
+      "value_type": "single_select"
+    },
+    {
+      "id": 22194061,
+      "name": "Team",
+      "value": "T10508-Query Integration",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4914027,
+      "name": "Region",
+      "value": "North America",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4137836,
+      "name": "Working Model Eligibility",
+      "value": [
+        "1-In Office"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 4914029,
+      "name": "Job Level",
+      "value": "Professional - IC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24109,
+      "name": "Employment Type",
+      "value": "Full-time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 1073551,
+      "name": "Job Type",
+      "value": "Standard",
+      "value_type": "single_select"
+    },
+    {
+      "id": 988684,
+      "name": "JD Link",
+      "value": "https://docs.google.com/document/d/1LJU2GQb8LYuF5jVtCW1BHkUvWBQsozLR7QLVOu5EqSY/edit?usp=sharing",
+      "value_type": "url"
+    },
+    {
+      "id": 5525802,
+      "name": "Baseline Budgeted Salary",
+      "value": {
+        "unit": "USD",
+        "max_value": "190000.0",
+        "min_value": "133000.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 5525816,
+      "name": "Other Large Market Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 13324394,
+      "name": "Job Post Range (United States)",
+      "value": {
+        "unit": "USD",
+        "max_value": "209000.0",
+        "min_value": "106000.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 40497768,
+      "name": "Job Post Range (Canada)",
+      "value": {
+        "unit": "CAD",
+        "max_value": "170000.0",
+        "min_value": "122000.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 57694516,
+      "name": "Job Post Range (Poland)",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 64002488,
+      "name": "Job Post Range (Italy)",
+      "value": null,
+      "value_type": "currency_range"
+    }
+  ],
+  "id": 8010102,
+  "updated_at": "2026-07-21T10:26:00-04:00",
+  "requisition_id": "2273473046",
+  "title": "Software Engineer 3, Query Integration",
+  "company_name": "MongoDB",
+  "first_published": "2026-06-24T11:18:29-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;h3&gt;Who We Are&lt;/h3&gt;\n&lt;p&gt;At MongoDB, we are empowering innovators to create, transform, and disrupt industries by unleashing the power of data.&lt;/p&gt;\n&lt;p&gt;The Query Integration team is at the heart of making MongoDB&#39;s data capabilities seamless and accessible. Our mission is to build intuitive, user-facing features on top of our core query engine and integrate it deeply with the broader MongoDB ecosystem. We work on cutting-edge features that power our &lt;a href=&quot;https://www.mongodb.com/products/capabilities/time-series&quot;&gt;time-series database&lt;/a&gt;, extend analytical language capabilities, and scale our high-growth &lt;a href=&quot;https://www.mongodb.com/products/platform/atlas-search&quot;&gt;Atlas Search&lt;/a&gt; and Vector Search products.&lt;/p&gt;\n&lt;p&gt;We are a highly collaborative team that values engineering excellence and continuous learning. While our core engine development is in C++, our testing infrastructure relies on JavaScript and Python, making for a dynamic and modern development environment.&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;This role can be based out of our US or Canadian offices, or remotely within the North American region.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;What You’ll Do&lt;/p&gt;\n&lt;p&gt;As a Mid-Level Software Engineer on the Query Integration team, you will bridge the gap between core database internals and user-facing features. You will:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Develop and scale new query capabilities that directly impact our time-series, Atlas Search, and Vector Search products while adding workload telemetry for greater database insights.&lt;/li&gt;\n&lt;li&gt;Contribute high-quality, maintainable code primarily in C++ and gain a deep, working understanding of the MongoDB query engine.&lt;/li&gt;\n&lt;li&gt;Work constructively with peers to design, implement, and support robust technical solutions while giving and receiving meaningful feedback in code reviews.&lt;/li&gt;\n&lt;li&gt;Build comprehensive testing suites in Python/JavaScript and implement diagnostics to help identify and resolve complex query performance problems.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h1&gt;What We Look For&lt;/h1&gt;\n&lt;p&gt;We welcome diverse perspectives and recognize that great engineers come from a variety of backgrounds. If you share our passion for database internals and match most of these points, we want to hear from you:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;3+ years of experience in computer programming&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Experience in databases and/or data management systems is a huge plus, but not a requirement&lt;/li&gt;\n&lt;li&gt;Hands-on experience building industrial-strength software&lt;/li&gt;\n&lt;li&gt;Solid computer science fundamentals, with strong competencies in data structures, algorithms, and software design/architecture&lt;/li&gt;\n&lt;li&gt;Experience with large code bases, preferably in C++&lt;/li&gt;\n&lt;li&gt;B.Sc. in Computer Science or similar field, or equivalent practical experience&lt;/li&gt;\n&lt;li&gt;Interest in the theory and practice of database query engines. Hands-on experience or M.Sc./Ph.D in the domain is a plus&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Success Measures&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;In three months you’ll have contributed to the development of a project slated for the next major version, as well as fixed a few bugs in a minor version of our latest stable release series&lt;/li&gt;\n&lt;li&gt;In six months, you’ll have taken on code review responsibilities and are independently delivering complex functionality and squashing bugs independently&lt;/li&gt;\n&lt;li&gt;In twelve months, you’re contributing to the design of major new features and are helping to mentor new engineers on the team&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;About MongoDB&lt;/h3&gt;\n&lt;p&gt;MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure.&lt;/p&gt;\n&lt;p&gt;With offices worldwide and over 67,000 customers, including 75% of the Fortune 100 and AI-native startups, relying on MongoDB for their most important applications, we’re powering the next era of software.&lt;/p&gt;\n&lt;p&gt;Our compass at MongoDB is our &lt;a href=&quot;https://www.mongodb.com/company&quot;&gt;Leadership Commitment,&lt;/a&gt; guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. &lt;a href=&quot;https://www.mongodb.com/company/blog/culture/employee-benefits-that-make-a-difference-at-mongodb&quot;&gt;From employee affinity groups, to fertility assistance and a generous parental leave policy&lt;/a&gt;, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys.&lt;a href=&quot;https://www.mongodb.com/blog/channel/culture&quot;&gt; Learn more about what it’s like to work at MongoDB&lt;/a&gt;, and help us make an impact on the world!&lt;/p&gt;\n&lt;p&gt;MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.&lt;/p&gt;\n&lt;p&gt;MongoDB, Inc. provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type and makes all hiring decisions without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;REQ ID: 2273473046&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;MongoDB’s base salary range for this role is posted below. Compensation at the time of offer is unique to each candidate and based on a variety of factors such as skill set, experience, qualifications, and work location. Salary is one part of MongoDB’s total compensation and benefits package. Other benefits for eligible employees may include: equity, participation in the employee stock purchase program, flexible paid time off, 20 weeks fully-paid gender-neutral parental leave, fertility and adoption assistance, 401(k) plan, mental health counseling, access to transgender-inclusive health insurance coverage, and health benefits offerings. Please note, the base salary range listed below and the benefits in this paragraph are only applicable to U.S.-based candidates.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;MongoDB’s base salary range for this role in the U.S. is:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$106,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$209,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 85967,
+      "name": "Query",
+      "child_ids": [],
+      "parent_id": 371021
+    }
+  ],
+  "offices": [
+    {
+      "id": 3960,
+      "name": "New York City",
+      "location": "New York, NY, United States",
+      "child_ids": [],
+      "parent_id": 23657
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": null
+}

@@ -1,0 +1,148 @@
+{
+  "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=8030945",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3350854,
+  "location": {
+    "name": "Dublin"
+  },
+  "metadata": [
+    {
+      "id": 22194060,
+      "name": "Position ID",
+      "value": "N/A",
+      "value_type": "short_text"
+    },
+    {
+      "id": 24918,
+      "name": "Department ID",
+      "value": "D23000-Atlas Core Data Services",
+      "value_type": "single_select"
+    },
+    {
+      "id": 22194061,
+      "name": "Team",
+      "value": "19-Atlas Clusters Platform and Automation",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4914027,
+      "name": "Region",
+      "value": "EMEA",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4137836,
+      "name": "Working Model Eligibility",
+      "value": [
+        "2-Flexible"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 4914029,
+      "name": "Job Level",
+      "value": "IC - Professional",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24109,
+      "name": "Employment Type",
+      "value": "Full-time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 1073551,
+      "name": "Job Type",
+      "value": "Pipeline",
+      "value_type": "single_select"
+    },
+    {
+      "id": 988684,
+      "name": "JD Link",
+      "value": "https://docs.google.com/document/d/1eNEO6Yprwnhp5YdQaNl6gO0OkjwkxrL1-PBPUBaXluE/edit?tab=t.0#heading=h.duxjvl3xjo6b",
+      "value_type": "url"
+    },
+    {
+      "id": 5525802,
+      "name": "Baseline Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 5525816,
+      "name": "Other Large Market Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 13324394,
+      "name": "Job Post Range (United States)",
+      "value": {
+        "unit": "USD",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 40497768,
+      "name": "Job Post Range (Canada)",
+      "value": {
+        "unit": "USD",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 57694516,
+      "name": "Job Post Range (Poland)",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 64002488,
+      "name": "Job Post Range (Italy)",
+      "value": null,
+      "value_type": "currency_range"
+    }
+  ],
+  "id": 8030945,
+  "updated_at": "2026-07-21T10:26:00-04:00",
+  "requisition_id": "426096",
+  "title": "Software Engineer 3, Atlas API Experience Integrations",
+  "company_name": "MongoDB",
+  "first_published": "2026-06-26T13:02:16-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;The Atlas API Experience (APIx) teams are part of MongoDB Atlas Data Services, a diverse group of individuals who develop the capabilities to run MongoDB globally (see&lt;a href=&quot;https://www.mongodb.com/cloud/atlas/&quot;&gt; MongoDB Atlas&lt;/a&gt;). Our software and services allow users to deploy fault-tolerant, scalable, globally distributed MongoDB clusters in minutes. APIx’s mission is to craft delightful experiences for developers of all levels onboarding and working with MongoDB.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;We&#39;re looking for a Software Engineer to join our growing team, building tooling to automate infrastructure on any cloud and developing MongoDB integrations that seamlessly integrate into partner frameworks or solutions. As part of the team, you will propose, design, build and support product features supporting integrations such as AWS Cloud Formation &amp;amp; AWS CDK, Terraform &amp;amp; Vault. You will build our next generation Atlas SDK for an expanding set of languages. Automation &amp;amp; DevOps is at our core, with the number of Integrations &amp;amp; SDKs continuing to grow. You will be part of building a platform that allows our team to scale with that growth.&lt;/p&gt;\n&lt;p&gt;We are looking for passionate, intrinsically-motivated software engineers who consistently work to grow their skills and want to take their careers to the next level. No prior experience with MongoDB technologies is required! During interviews, you will meet most of our team and have the opportunity to ask questions about working at MongoDB. We pride ourselves on our team&#39;s culture and on being an inclusive and collaborative group that &lt;a href=&quot;https://www.mongodb.com/careers&quot;&gt;Builds Together&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;We are looking to speak to candidates who are based in Dublin for our hybrid working model.&lt;/p&gt;\n&lt;h3&gt;What will you do?&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Propose, design, implement and support product features for MongoDB Atlas DevOps &amp;amp; SDK tooling, such as &lt;a href=&quot;https://github.com/mongodb/mongodbatlas-cloudformation-resources&quot;&gt;MongoDB Atlas Cloud Formation Resources&lt;/a&gt;, &lt;a href=&quot;https://github.com/mongodb/terraform-provider-mongodbatlas&quot;&gt;MongoDB Atlas Terraform Provider&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://github.com/mongodb/go-client-mongodb-atlas&quot;&gt;MongoDB Atlas Go SDK&lt;/a&gt;&lt;/li&gt;\n&lt;li&gt;Build tooling that enables MongoDB users and developers to succeed, using programming languages such as Golang (primary), Java, Python &amp;amp; Javascript/Typescript (Experience in at least one of the above is desirable)&lt;/li&gt;\n&lt;li&gt;Design and develop software integration components utilizing MongoDB’s technology (i.e. database, mobile, search, etc.) in larger contexts and integrate into partner frameworks or solutions&lt;/li&gt;\n&lt;li&gt;Incrementally ship elements of sophisticated projects&lt;/li&gt;\n&lt;li&gt;Assist with investigating and solving problems experienced by our customers. Our team has a Level 2 support rotation&lt;/li&gt;\n&lt;li&gt;Apply our &lt;a href=&quot;https://www.mongodb.com/company&quot;&gt;core values&lt;/a&gt; to your planning, designing, and coding work&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Who are you?&lt;/h3&gt;\n&lt;p&gt;We understand not everyone will meet all the qualifications on day one. That&#39;s okay. If you’re passionate about technology and want to grow your skills, we encourage you to apply.&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Inspired by building DevOps &amp;amp; automated tooling that manages deployments at scale&lt;/li&gt;\n&lt;li&gt;Approachable, curious, and intellectually honest&lt;/li&gt;\n&lt;li&gt;Collaborate and communicate effectively across multiple teams, locally &amp;amp; remote across timezones, internally and externally as required, to drive projects to completion&lt;/li&gt;\n&lt;li&gt;Enjoys an environment where you can coordinate your own time, prioritizing, and acting on multiple tasks concurrently without manager oversight&lt;/li&gt;\n&lt;li&gt;Some experience building Infrastructure as Code (IaC) tooling &amp;amp; integrations&lt;/li&gt;\n&lt;li&gt;Familiar with cloud infrastructure platforms, tools and concepts (&lt;em&gt;Amazon AWS, Google Cloud Platform, Microsoft Azure, etc.&lt;/em&gt;)&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;How will you measure success?&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;In three months, you&#39;ll have become familiar with our developer tools and the existing features most relevant to integrations&lt;/li&gt;\n&lt;li&gt;In six months, you will be building features and leading your projects. You will share knowledge with the team, collaborating where needed to achieve our team goals&lt;/li&gt;\n&lt;li&gt;In nine months, you will be fully embedded in the team. As well as leading your projects, you will be contributing ideas to the team roadmap, improving how we work. You will be mentoring other team members, helping them learn from your experience&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;What is in it for you?&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Generous compensation package (top-range salary, equity, comprehensive benefits)&lt;/li&gt;\n&lt;li&gt;Flexible working options with a focus on results rather than time spent in the office&lt;/li&gt;\n&lt;li&gt;A high level of independence in your day-to-day work. Propose innovative solutions to existing problems and own the delivery from start to finish&lt;/li&gt;\n&lt;li&gt;Opportunities to learn on the job (time and support to upskill in new technologies and learn new programming languages, as well as an allowance for educational material)&lt;/li&gt;\n&lt;li&gt;Exposure to a wide variety of market verticals and a broad spectrum of interesting use cases&lt;/li&gt;\n&lt;li&gt;You&#39;ll be joining a supportive and collaborative team that values its culture and promotes a positive work environment!&lt;/li&gt;\n&lt;li&gt;Upon joining, you will have the opportunity to learn everything there is to know about MongoDB via specialized training on the&lt;a href=&quot;https://university.mongodb.com/&quot;&gt; MongoDB University&lt;/a&gt; platform and highly supportive colleagues&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;About MongoDB&lt;/h3&gt;\n&lt;p&gt;MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure.&lt;/p&gt;\n&lt;p&gt;With offices worldwide and over 67,000 customers, including 75% of the Fortune 100 and AI-native startups, relying on MongoDB for their most important applications, we’re powering the next era of software.&lt;/p&gt;\n&lt;p&gt;Our compass at MongoDB is our &lt;a href=&quot;https://www.mongodb.com/company&quot;&gt;Leadership Commitment,&lt;/a&gt; guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.&lt;/p&gt;\n&lt;p&gt;To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. &lt;a href=&quot;https://www.mongodb.com/company/blog/culture/employee-benefits-that-make-a-difference-at-mongodb&quot;&gt;From employee affinity groups, to fertility assistance and a generous parental leave policy&lt;/a&gt;, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys.&lt;a href=&quot;https://www.mongodb.com/blog/channel/culture&quot;&gt; Learn more about what it’s like to work at MongoDB&lt;/a&gt;, and help us make an impact on the world!&lt;/p&gt;\n&lt;p&gt;MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.&lt;/p&gt;\n&lt;p&gt;MongoDB is an equal opportunities employer.&lt;/p&gt;\n&lt;p&gt;REQ ID: 426096&lt;/p&gt;",
+  "departments": [
+    {
+      "id": 69393,
+      "name": "Atlas Core Data Services",
+      "child_ids": [],
+      "parent_id": 371021
+    }
+  ],
+  "offices": [
+    {
+      "id": 3962,
+      "name": "Dublin",
+      "location": "Dublin, Ireland",
+      "child_ids": [],
+      "parent_id": 23658
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": null
+}

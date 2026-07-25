@@ -1,0 +1,148 @@
+{
+  "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=7698054",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3383870,
+  "location": {
+    "name": "Cork, Ireland; Dublin, Ireland"
+  },
+  "metadata": [
+    {
+      "id": 22194060,
+      "name": "Position ID",
+      "value": "10005256",
+      "value_type": "short_text"
+    },
+    {
+      "id": 24918,
+      "name": "Department ID",
+      "value": "D22100-Clusters & Interfaces",
+      "value_type": "single_select"
+    },
+    {
+      "id": 22194061,
+      "name": "Team",
+      "value": "T10344-Server Security",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4914027,
+      "name": "Region",
+      "value": "EMEA",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4137836,
+      "name": "Working Model Eligibility",
+      "value": [
+        "2-Flexible"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 4914029,
+      "name": "Job Level",
+      "value": "People Manager",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24109,
+      "name": "Employment Type",
+      "value": "Full-time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 1073551,
+      "name": "Job Type",
+      "value": "Standard",
+      "value_type": "single_select"
+    },
+    {
+      "id": 988684,
+      "name": "JD Link",
+      "value": "https://docs.google.com/document/d/1gTEL5a1RCQDyS3h4bBSiv3d0NOk5UoAA4ifmS04a9dQ/edit?pli=1&tab=t.0#heading=h.xywbdj93n1l3",
+      "value_type": "url"
+    },
+    {
+      "id": 5525802,
+      "name": "Baseline Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 5525816,
+      "name": "Other Large Market Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 13324394,
+      "name": "Job Post Range (United States)",
+      "value": {
+        "unit": "EUR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 40497768,
+      "name": "Job Post Range (Canada)",
+      "value": {
+        "unit": "EUR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 57694516,
+      "name": "Job Post Range (Poland)",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 64002488,
+      "name": "Job Post Range (Italy)",
+      "value": null,
+      "value_type": "currency_range"
+    }
+  ],
+  "id": 7698054,
+  "updated_at": "2026-07-21T10:26:00-04:00",
+  "requisition_id": "1273383870",
+  "title": "Engineering Manager, Server Networking Security (Rust)",
+  "company_name": "MongoDB",
+  "first_published": "2026-03-23T05:20:27-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;Come join and lead the Server Ingress Security team, where we are rearchitecting MongoDB Server’s ingress networking to make MongoDB clusters even more secure. This new team is building the Atlas Network Protection layer, a set of performant, security-critical services that harden MongoDB&#39;s pre-authentication attack surface and provides the ability to respond rapidly to emergent threats. We are looking for a talented Lead Engineer to join the team and be founding members, where you will play a crucial role in our multi-year roadmap.&lt;/p&gt;\n&lt;p&gt;Our team champions a strong culture of inclusivity, diversity, and collaboration, and lives MongoDB cultural values every day – we value intellectual curiosity and honesty, and building together in an environment that prioritizes collaboration over competition. If you want to lead a fast-growing team that applies security and systems engineering fundamentals to protect a popular database at scale, join us!&lt;/p&gt;\n&lt;p&gt;We are looking to speak to candidates who are based in Dublin or Cork for our hybrid working model.&lt;/p&gt;\n&lt;h3&gt;Candidate Profile&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;3+ years of experience managing a team of software engineers, including hiring, performance and growth management, compensation planning, and mentoring&lt;/li&gt;\n&lt;li&gt;You have 8+ years of experience building production-quality systems software with large backend/compiled codebases, ideally in Rust.&lt;/li&gt;\n&lt;ul&gt;\n&lt;li&gt;Bonus points for experience with performance profiling, network protocols, TLS, and connection management&lt;/li&gt;\n&lt;/ul&gt;\n&lt;li&gt;You have strong technical judgment that you use to effectively guide engineering decisions in security-sensitive or networking-adjacent domains&lt;/li&gt;\n&lt;ul&gt;\n&lt;li&gt;You put the customer first and don&#39;t hesitate to cross team boundaries in search of the right solution&lt;/li&gt;\n&lt;/ul&gt;\n&lt;li&gt;Solid experience in designing, writing, testing, maintaining, and operating mission-critical software systems&lt;/li&gt;\n&lt;ul&gt;\n&lt;li&gt;Bonus points Professional or advanced academic expertise in the domains of security or networking&lt;/li&gt;\n&lt;/ul&gt;\n&lt;li&gt;You enjoy coaching, career development, and creating growth opportunities to help your team reach their full potential&lt;/li&gt;\n&lt;li&gt;You care about building a diverse, inclusive environment where engineers can do their best work&lt;/li&gt;\n&lt;li&gt;Regardless of prior experience, you are willing, able, and excited to quickly learn new things in the domains of computer science, software engineering, and leadership&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Position Expectations&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Lead a team of engineers, managing all aspects of people management including hiring, growth, compensation, and performance management&lt;/li&gt;\n&lt;li&gt;Be directly responsible for the results your team delivers&lt;/li&gt;\n&lt;li&gt;Lead the design, implementation, and operation production-ready security services in Rust, with a focus on security, correctness, performance, and operational excellence&lt;/li&gt;\n&lt;li&gt;Own the definition and execution of the team&#39;s 12-month roadmap for the Atlas Network Protection layer&lt;/li&gt;\n&lt;li&gt;Work with Product Management, Program Management, and Engineering leadership to specify, prioritize, and deliver new features&lt;/li&gt;\n&lt;li&gt;Handle (or lead the effort to handle) time-sensitive security incidents and customer escalations&lt;/li&gt;\n&lt;li&gt;Estimate task complexity, communicate delivery timelines, and manage risks for projects executed by the team&lt;/li&gt;\n&lt;li&gt;Ensure the team is running smoothly by eliminating technical barriers, coordinating cross-team dependencies, and focusing on the overall health and happiness of the team&lt;/li&gt;\n&lt;li&gt;Contribute to planning for organizational growth, including allocation of engineering resources, future hiring plans, and assignment of projects&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Success Measures&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;In the first month: Understand the high-level architecture of the Atlas Network Protection layer, the team&#39;s current projects, and the required day-to-day processes. Begin developing relationships with key stakeholders across Server, Atlas, and Product Security&lt;/li&gt;\n&lt;li&gt;In three months: Take over full management of the team and begin building trust with your reports. Assume responsibility for day-to-day team operations. Be involved in reviewing designs for new features and helping the team navigate technical challenges. Hire engineers for the team as needed&lt;/li&gt;\n&lt;li&gt;In six months: Establish yourself as a leader in the organization such that team members naturally come to you for guidance. Take over full ownership of Ingress Security’s software components. Lead the planning and execution of major features supporting the team’s major annual goals&lt;/li&gt;\n&lt;li&gt;In twelve months: Perform a full annual cycle of performance and growth conversations with your team members. Contribute to the long-term vision for the Ingress Security stack and develop a plan to achieve that vision. Increase the capability and velocity of the team in measurable ways&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;About MongoDB&lt;/h3&gt;\n&lt;p&gt;MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure.&lt;/p&gt;\n&lt;p&gt;With offices worldwide and over 67,000 customers, including 75% of the Fortune 100 and AI-native startups, relying on MongoDB for their most important applications, we’re powering the next era of software.&lt;/p&gt;\n&lt;p&gt;Our compass at MongoDB is our &lt;a href=&quot;https://www.mongodb.com/company&quot;&gt;Leadership Commitment,&lt;/a&gt; guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.&lt;/p&gt;\n&lt;p&gt;To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. &lt;a href=&quot;https://www.mongodb.com/company/blog/culture/employee-benefits-that-make-a-difference-at-mongodb&quot;&gt;From employee affinity groups, to fertility assistance and a generous parental leave policy&lt;/a&gt;, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys.&lt;a href=&quot;https://www.mongodb.com/blog/channel/culture&quot;&gt; Learn more about what it’s like to work at MongoDB&lt;/a&gt;, and help us make an impact on the world!&lt;/p&gt;\n&lt;p&gt;MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.&lt;/p&gt;\n&lt;p&gt;MongoDB is an equal opportunities employer.&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Req ID: 1273383870&lt;/em&gt;&lt;/p&gt;",
+  "departments": [
+    {
+      "id": 85971,
+      "name": "Clusters & Interfaces",
+      "child_ids": [],
+      "parent_id": 371021
+    }
+  ],
+  "offices": [
+    {
+      "id": 3962,
+      "name": "Dublin",
+      "location": "Dublin, Ireland",
+      "child_ids": [],
+      "parent_id": 23658
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": null
+}

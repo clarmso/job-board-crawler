@@ -1,0 +1,62 @@
+{
+  "absolute_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8608900002",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 6438344002,
+  "location": {
+    "name": "Paris, France"
+  },
+  "metadata": [
+    {
+      "id": 9740521002,
+      "name": "Company Assignment",
+      "value": "Databricks SARL",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24059030002,
+      "name": "Career Page Posting Category",
+      "value": [
+        "Field Engineering"
+      ],
+      "value_type": "multi_select"
+    }
+  ],
+  "id": 8608900002,
+  "updated_at": "2026-07-24T19:29:04-04:00",
+  "requisition_id": "FEQ227R368",
+  "title": "AWS Cloud Partner Solutions Architect — EMEA",
+  "company_name": "Databricks",
+  "first_published": "2026-06-29T06:07:26-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;As the AWS Cloud Partner Solutions Architect for EMEA, you are the single-threaded technical owner of the AWS ↔ Databricks alliance across the region — today a&amp;nbsp;&lt;strong&gt;$220M trailing-year consumption book growing at +69.7% YoY&lt;/strong&gt;, the largest hyperscaler-driven consumption book in EMEA after Microsoft. You are the named Databricks counterpart that the AWS field (PSAs, PDMs, SAs) routes opportunities to, the convener of the EMEA AWS SME community, and the author of the &quot;better-together&quot; technical narrative for Databricks on AWS.&lt;/p&gt;\n&lt;p&gt;You will engage AWS field and partner leadership, Databricks Field Engineering, and joint customer account teams to drive adoption and consumption of the Data Intelligence Platform on AWS — through executive alignment, large-scale partner enablement, joint product contribution, and multicloud architectural arbitration in our most strategic EMEA accounts.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Reporting to:&lt;/strong&gt; Director, Field Engineering (Partner Solutions Architect).&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;What the role owns:&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;AWS-sourced pipeline &amp;amp; EMEA AWS consumption growth&lt;/strong&gt; — act as the single EMEA-wide SPOC for the AWS field. Channel AWS-sourced opportunities into Databricks (FY26: 150+ opportunities, ~$60M ARR pipeline, ~$10M realised, 35 net-new greenfield accounts) and carry the FY27 plan-of-record of &lt;strong&gt;+60% YoY growth / $297.86M target&lt;/strong&gt;.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;The EMEA AWS SME community&lt;/strong&gt; — convene and grow the cross-EMEA group of AWS-deep SAs/SSAs/PSAs (~15–20 members across UKI, France, Spain, Italy, Benelux, Nordics, MEA, Germany). Land the ASQ-scope expansion (SWAT pattern) and run the joint operating cadence with the Databricks TFC at AWS. This is the mechanism that scales the role from single-person execution to field-distributed delivery.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Partner enablement at scale&lt;/strong&gt; — sustain the training engine that feeds pipeline 2–3 quarters out (300+ AWS Solutions Architects trained in EMEA in FY26; 50+ Databricks xSAs to AWS SA-Associate at zero net cost via the AWS Partner Training ↔ Databricks L&amp;amp;E channel; 0-to-GenAI workshops, Lakehouse Days, regional meetups). Maintain the AWS Field Engineering Playbook.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Joint product contribution &amp;amp; reference architectures&lt;/strong&gt; — own the assets that lower time-to-first-DBU and unblock deployments: AWS Marketplace QuickLaunch (&quot;Moonwalk+&quot;), Agent Bricks ↔ Amazon Bedrock automation, the CloudFormation networking package, the AWS data-exfiltration-protection (DEP) architecture, the remote-S3 strict-residency pattern, and the EMEA cloud-consumption dashboard.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Strategic-account unblock &amp;amp; multicloud arbitration&lt;/strong&gt; — lead technical arbitration in EMEA&#39;s dense multicloud accounts (BP, EasyJet, Klarna, ABSA, ADIA, Mercedes-Benz, BNP Paribas and others), where a single architectural decision can swing $1M+ ARR.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Executive alignment &amp;amp; external brand&lt;/strong&gt; — run QBRs with named AWS regional leaders at BU+1, and be the EMEA technical voice at AWS Summits, DAIS, and Re:Invent EMEA.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;The impact you will have:&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Accelerate AWS-sourced pipeline and its conversion to consumption by aligning AWS and Databricks resources and providing the technical expertise to win and expand multicloud accounts.&lt;/li&gt;\n&lt;li&gt;Shift cloud balance toward AWS across EMEA Diamond and Pearl accounts, protecting and growing Databricks&#39; hyperscaler revenue mix.&lt;/li&gt;\n&lt;li&gt;Grow field-wide AWS capability — through the SME community, certification programmes, and reusable architectures — so AWS depth is distributed across the EMEA field rather than concentrated in one person.&lt;/li&gt;\n&lt;li&gt;Develop and sustain senior AWS executive relationships that surface new opportunities, sharpen competitive positioning, and anchor joint go-to-market.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;What we look for:&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Extensive hands-on experience as a data professional in a modern, cloud-based data stack.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Hyperscaler-alliance experience (AWS strongly preferred)&lt;/strong&gt; with credibility to be the EMEA SPOC for the AWS field and to convene a cross-region SME community.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;AWS-specific technical depth&lt;/strong&gt; — PrivateLink, VPC Lattice, IAM, networking/CloudFormation, AWS Marketplace, Amazon Bedrock, and Glue ↔ Unity Catalog federation.&lt;/li&gt;\n&lt;li&gt;At least 3 years of technical pre-sales / sales-methodology experience within a consumption business model.&lt;/li&gt;\n&lt;li&gt;Ability to collaborate with partner and customer organisations at senior-executive level, aligning their objectives to Databricks products and services.&lt;/li&gt;\n&lt;li&gt;Proven ability to run training sessions, workshops, and webinars, and to author technical content (whitepapers, reference architectures, solution guides, playbooks).&lt;/li&gt;\n&lt;li&gt;Coding in a core programming language (Python, Java, or Scala); comfort generating infrastructure-as-code (e.g. CloudFormation).&lt;/li&gt;\n&lt;li&gt;Designing, implementing, and maintaining end-to-end data architectures for Big Data, Data Warehousing, and AI on MPP-based platforms.&lt;/li&gt;\n&lt;li&gt;Managing multiple, frequently changing priorities across multiple teams.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;The role requires up to &lt;strong&gt;40% travel&lt;/strong&gt; across EMEA — to customer and AWS partner sites, AWS EMEA offices, and the key partnership moments of the year (AWS Summits across EMEA, DAIS, Re:Invent).&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;About Databricks&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-family: arial, sans-serif;&quot;&gt;Databricks is the data and AI company. More than 10,000 organizations worldwide — including Comcast, Condé Nast, Grammarly, and over 50% of the Fortune 500 — rely on the Databricks Data Intelligence Platform to unify and democratize data, analytics and AI. Databricks is headquartered in San Francisco, with offices around the globe and was founded by the original creators of Lakehouse, Apache Spark™, Delta Lake and MLflow. To learn more, follow Databricks on&amp;nbsp;&lt;span style=&quot;color: rgb(255, 54, 33);&quot;&gt;&lt;a style=&quot;color: rgb(255, 54, 33);&quot; href=&quot;https://twitter.com/databricks&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://twitter.com/databricks&amp;amp;source=gmail&amp;amp;ust=1700237575733000&amp;amp;usg=AOvVaw03FL8fJvOD97ytN02f5G2C&quot;&gt;Twitter&lt;/a&gt;,&amp;nbsp;&lt;a style=&quot;color: rgb(255, 54, 33);&quot; href=&quot;https://www.linkedin.com/company/databricks&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://www.linkedin.com/company/databricks&amp;amp;source=gmail&amp;amp;ust=1700237575733000&amp;amp;usg=AOvVaw15dLk3q8VxTfHEgCUg7NSt&quot;&gt;LinkedIn&lt;/a&gt;&amp;nbsp;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;and&lt;/span&gt;&amp;nbsp;&lt;a style=&quot;color: rgb(255, 54, 33);&quot; href=&quot;https://www.facebook.com/databricksinc&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://www.facebook.com/databricksinc&amp;amp;source=gmail&amp;amp;ust=1700237575733000&amp;amp;usg=AOvVaw39EcncitnlqV72EG2-RqXJ&quot;&gt;Facebook&lt;/a&gt;&lt;/span&gt;.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Benefits&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;/span&gt;At Databricks, we strive to provide comprehensive benefits and perks that meet the needs of all of our employees. For specific details on the benefits offered in your region click &lt;a href=&quot;https://docs.google.com/document/d/154un3e8Xav4BceOSlcYFZRGEuQI54xMxVydRwQn54eQ/edit?usp=sharing&quot;&gt;here&lt;/a&gt;.&lt;br&gt;&lt;br&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Our Commitment to Diversity and Inclusion&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Compliance&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;If access to export-controlled technology or source code is required for performance of job duties, it is within Employer&#39;s discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4105458002,
+      "name": " Field Engineering - Indirect",
+      "child_ids": [],
+      "parent_id": 4069106002
+    }
+  ],
+  "offices": [
+    {
+      "id": 4005269002,
+      "name": "Paris, France",
+      "location": "Paris, France",
+      "child_ids": [],
+      "parent_id": 4033857002
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

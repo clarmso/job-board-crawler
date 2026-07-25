@@ -1,0 +1,148 @@
+{
+  "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=7793612",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3407903,
+  "location": {
+    "name": "Cork, Ireland; Dublin, Ireland"
+  },
+  "metadata": [
+    {
+      "id": 22194060,
+      "name": "Position ID",
+      "value": "10006717",
+      "value_type": "short_text"
+    },
+    {
+      "id": 24918,
+      "name": "Department ID",
+      "value": "D23040-Product Security",
+      "value_type": "single_select"
+    },
+    {
+      "id": 22194061,
+      "name": "Team",
+      "value": "458-Cloud Security",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4914027,
+      "name": "Region",
+      "value": "EMEA",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4137836,
+      "name": "Working Model Eligibility",
+      "value": [
+        "2-Flexible"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 4914029,
+      "name": "Job Level",
+      "value": "Professional - IC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24109,
+      "name": "Employment Type",
+      "value": "Full-time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 1073551,
+      "name": "Job Type",
+      "value": "Standard",
+      "value_type": "single_select"
+    },
+    {
+      "id": 988684,
+      "name": "JD Link",
+      "value": "https://docs.google.com/document/d/1FxW81bgw6kePsUjeH_McmoBgSbLM8kvNNCAXgwRugY4/edit?tab=t.kn8o151vxvdr#heading=h.o9ys4nbwdc05",
+      "value_type": "url"
+    },
+    {
+      "id": 5525802,
+      "name": "Baseline Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 5525816,
+      "name": "Other Large Market Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 13324394,
+      "name": "Job Post Range (United States)",
+      "value": {
+        "unit": "EUR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 40497768,
+      "name": "Job Post Range (Canada)",
+      "value": {
+        "unit": "EUR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 57694516,
+      "name": "Job Post Range (Poland)",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 64002488,
+      "name": "Job Post Range (Italy)",
+      "value": null,
+      "value_type": "currency_range"
+    }
+  ],
+  "id": 7793612,
+  "updated_at": "2026-07-21T10:26:00-04:00",
+  "requisition_id": "1273407903",
+  "title": "Senior Product Security Engineer, Cloud",
+  "company_name": "MongoDB",
+  "first_published": "2026-04-14T09:11:19-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;MongoDB is seeking a Senior Product Security Engineer to drive cloud security initiatives for MongoDB Atlas and the cloud platforms that power it across AWS, GCP, and Azure. You’ll be a senior individual contributor in the MongoDB Product Security organization, a diverse team responsible for the security of all customer‑facing products, including Atlas, self‑managed/server, and a broad ecosystem of related services and tools.&lt;/p&gt;\n&lt;p&gt;Within Product Security, the Cloud Security team focuses specifically on Atlas control plane and data plane environments and the underlying cloud platforms, partnering closely with Atlas engineering, SRE, other security engineering teams, and global security operations to build and defend secure‑by‑default, large‑scale, multi‑tenant cloud services.&lt;/p&gt;\n&lt;p&gt;We are looking to speak to candidates who are based in Dublin or Cork for our hybrid working model.&lt;/p&gt;\n&lt;h3&gt;Requirements&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;7+ years of experience in application, product, and/or cloud security for large-scale, customer-facing systems, ideally in a multi-cloud or SaaS environment&lt;/li&gt;\n&lt;li&gt;Strong, hands-on experience with cloud security architecture on at least one major cloud provider (AWS, GCP, or Azure), with familiarity across:&lt;/li&gt;\n&lt;ul&gt;\n&lt;li&gt;VPC/networking (segmentation, egress controls, private connectivity)&lt;/li&gt;\n&lt;li&gt;IAM (roles, policies, workload identity, cross-account access)&lt;/li&gt;\n&lt;li&gt;Keys and secrets (KMS, HSMs, secret management systems)&lt;/li&gt;\n&lt;li&gt;Container/orchestration security (e.g., Kubernetes, ECS, serverless)&lt;/li&gt;\n&lt;li&gt;Multi-tenant control planes and blast-radius reduction patterns.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;li&gt;Solid security architecture fundamentals: able to design and review end-to-end systems, reason about threat models and risk trade-offs, and recommend appropriate controls across application, data, and infrastructure layers&lt;/li&gt;\n&lt;li&gt;Ability to read and reason about code (e.g., Go, Java, or similar languages) and familiarity with IaC (Terraform/CloudFormation), CI/CD, and security automation tooling (e.g., CSPM, IaC scanning, SAST, SCA)&lt;/li&gt;\n&lt;li&gt;Demonstrated experience leading security reviews and projects in partnership with engineering teams (e.g., threat modeling, design reviews, targeted testing) and turning findings into pragmatic, prioritized remediation work&lt;/li&gt;\n&lt;li&gt;Excellent written and verbal communication skills; you can explain complex cloud and product security issues in a way that builds trust with engineers, leaders, and, when needed, customers&lt;/li&gt;\n&lt;li&gt;A strong sense of ownership and follow-through, paired with a collaborative working style--you bring others along, create space for their input, and offer specific, actionable feedback&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;In this role you will…&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Co-own and drive Atlas cloud security initiatives such as control plane hardening, cloud security baselines, identity and access patterns, customer account protections, and data-plane protections for multi-tenant environments&lt;/li&gt;\n&lt;li&gt;Perform and lead security reviews for Atlas features and platform changes in cloud environments, including architecture review, threat modeling, and targeted testing, with an emphasis on pragmatic, actionable guidance&lt;/li&gt;\n&lt;li&gt;Design and review cloud architectures across AWS, GCP, and Azure--covering networking, IAM, secrets management, and service-to-service access--and help define secure reference architectures that can be reused by Atlas teams&lt;/li&gt;\n&lt;li&gt;Embed security into platforms and guardrails by working with platform, SRE, and other security engineering teams to implement policies and automation (e.g., policy-as-code, secure defaults, pre-deployment checks) that make the secure path the easiest path for developers&lt;/li&gt;\n&lt;li&gt;Use CSPM, infrastructure vulnerability data, and IaC scanning to identify meaningful posture gaps in Atlas environments and drive concrete hardening work with clear ownership, coverage, and success metrics&lt;/li&gt;\n&lt;li&gt;Partner with Detection &amp;amp; Response, SRE, and other security teams to bring product and cloud context to incidents, threat hunts, and posture investigations, and to design new detections tied to Atlas and its cloud footprint&lt;/li&gt;\n&lt;li&gt;Influence roadmaps and priorities by translating security risk and customer expectations into well-scoped problem statements, options, and trade-offs that resonate with engineering and product leaders&lt;/li&gt;\n&lt;li&gt;Mentor and support other engineers (within Product Security and partner teams), contributing to internal documentation, reviews, and training that raise the bar for secure cloud design and implementation&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Nice to Haves&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Prior experience as a security engineer for a multi-tenant SaaS or cloud platform, particularly in data, database, or infrastructure-as-a-service domains&lt;/li&gt;\n&lt;li&gt;Hands-on experience with Atlas-like environments: control planes orchestrating resources across multiple cloud providers, with strong isolation and blast-radius containment requirements&lt;/li&gt;\n&lt;li&gt;Experience improving the signal quality and developer adoption of CSPM, vulnerability management, or IaC scanning in large engineering organizations&lt;/li&gt;\n&lt;li&gt;Public contributions to the security community (talks, tools, standards, or publications) in cloud or product security&lt;/li&gt;\n&lt;li&gt;Experience mentoring other security engineers or serving as a bar-raiser in interviews for product/cloud security roles&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;About MongoDB&lt;/h3&gt;\n&lt;p&gt;MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure.&lt;/p&gt;\n&lt;p&gt;With offices worldwide and over 67,000 customers, including 75% of the Fortune 100 and AI-native startups, relying on MongoDB for their most important applications, we’re powering the next era of software.&lt;/p&gt;\n&lt;p&gt;Our compass at MongoDB is our &lt;a href=&quot;https://www.mongodb.com/company&quot;&gt;Leadership Commitment,&lt;/a&gt; guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. &lt;a href=&quot;https://www.mongodb.com/company/blog/culture/employee-benefits-that-make-a-difference-at-mongodb&quot;&gt;From employee affinity groups, to fertility assistance and a generous parental leave policy&lt;/a&gt;, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys.&lt;a href=&quot;https://www.mongodb.com/blog/channel/culture&quot;&gt; Learn more about what it’s like to work at MongoDB&lt;/a&gt;, and help us make an impact on the world!&lt;/p&gt;\n&lt;p&gt;MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.&lt;/p&gt;\n&lt;p&gt;MongoDB is an equal opportunities employer.&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Req ID: 1273407903&lt;/em&gt;&lt;/p&gt;",
+  "departments": [
+    {
+      "id": 85963,
+      "name": "Product Security",
+      "child_ids": [],
+      "parent_id": 371021
+    }
+  ],
+  "offices": [
+    {
+      "id": 3962,
+      "name": "Dublin",
+      "location": "Dublin, Ireland",
+      "child_ids": [],
+      "parent_id": 23658
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": null
+}

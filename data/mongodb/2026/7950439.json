@@ -1,0 +1,156 @@
+{
+  "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=7950439",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3452548,
+  "location": {
+    "name": "Toronto"
+  },
+  "metadata": [
+    {
+      "id": 22194060,
+      "name": "Position ID",
+      "value": "10013793",
+      "value_type": "short_text"
+    },
+    {
+      "id": 24918,
+      "name": "Department ID",
+      "value": "D11115-Technical Support Premium Services",
+      "value_type": "single_select"
+    },
+    {
+      "id": 22194061,
+      "name": "Team",
+      "value": "T10360-Technical Services - Dedicated Named TSEs",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4914027,
+      "name": "Region",
+      "value": "North America",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4137836,
+      "name": "Working Model Eligibility",
+      "value": [
+        "2-Flexible"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 4914029,
+      "name": "Job Level",
+      "value": "Professional - IC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24109,
+      "name": "Employment Type",
+      "value": "Full-time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 1073551,
+      "name": "Job Type",
+      "value": "Standard",
+      "value_type": "single_select"
+    },
+    {
+      "id": 988684,
+      "name": "JD Link",
+      "value": "https://docs.google.com/document/d/1w7XyLG18Hdxq6W2bFQjuuLOdByx-poTkeV8qNRx4BSs/edit?usp=sharing",
+      "value_type": "url"
+    },
+    {
+      "id": 5525802,
+      "name": "Baseline Budgeted Salary",
+      "value": {
+        "unit": "CAD",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 5525816,
+      "name": "Other Large Market Budgeted Salary",
+      "value": {
+        "unit": "CAD",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 13324394,
+      "name": "Job Post Range (United States)",
+      "value": {
+        "unit": "CAD",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 40497768,
+      "name": "Job Post Range (Canada)",
+      "value": {
+        "unit": "CAD",
+        "max_value": "178000.0",
+        "min_value": "129000.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 57694516,
+      "name": "Job Post Range (Poland)",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 64002488,
+      "name": "Job Post Range (Italy)",
+      "value": null,
+      "value_type": "currency_range"
+    }
+  ],
+  "id": 7950439,
+  "updated_at": "2026-07-21T10:26:00-04:00",
+  "requisition_id": "2273452548",
+  "title": "Senior Technical Services Engineer",
+  "company_name": "MongoDB",
+  "first_published": "2026-06-02T14:25:58-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;The Technical Services team works with our customers to ensure that their MongoDB deployments are running at their best. From a query performance question on a test Atlas cluster to helping upgrade large self-hosted sharded clusters run by some of the world&#39;s best-known global enterprises, the Technical Services team is available 24/7 to help our customers with any aspect of the MongoDB data platform. This deeply technical team is distributed globally, with a variety of backgrounds and expertise to ensure that they can best address any new issue or question. In&amp;nbsp; addition to solving these complex customer challenges, the team also works on internal projects such as software development of support tools for performance tuning, benchmarking, and diagnostics.&lt;/p&gt;\n&lt;p&gt;As MongoDB continues to expand product offerings and features within the MongoDB Atlas Data Platform, MongoDB is looking for a Senior Technical Services Engineer with a background in application search, as well as search-related technologies, who will also provide specialized support for our Atlas Search and Vector Search products&lt;/p&gt;\n&lt;p&gt;We are looking to speak to candidates who are based in Toronto for our hybrid working model.&lt;/p&gt;\n&lt;p&gt;As a Senior Technical Services Engineer, you’ll be advising customers on strategies and documented practices for making best use of our data platform. This will require you to translate technical concepts and patterns into generalist terms for our customers, helping them understand, install, and use those applications effectively. You’ll also troubleshoot application problems and be an advocate for our users’ needs, collaborating with the MongoDB product management and development teams on their behalf. &amp;nbsp;As a technical expert across the MongoDB platform, you will advise MongoDB field teams on complex technical issues, including Atlas Search and Vector Search, and help drive technical enablement across MongoDB technologies.&lt;/p&gt;\n&lt;p&gt;You will utilize your exceptional analytical skills and customer service to ensure that MongoDB users are successful with our suite of MongoDB application-layer products. We’re looking for individuals who want to dig into the details of how “big data” and “web-scale” systems are successfully assembled and operated every day by organizations of every size and flavor.&lt;/p&gt;\n&lt;h3&gt;As an ideal candidate, you will have&lt;/h3&gt;\n&lt;p&gt;We consider all candidates with an eye for those who are self taught, curious, and multi-faceted. Our ideal associate candidate should also have:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;5+ years of relevant experience&lt;/li&gt;\n&lt;li&gt;5+ years of experience with administering RDBMSs such as Oracle, Postgres, mySQL etc. MongoDB experience is preferred.&lt;/li&gt;\n&lt;li&gt;Experience with Database Performance tuning and benchmarking&lt;/li&gt;\n&lt;li&gt;Strong diagnostic/troubleshooting aptitude, with significant experience troubleshooting end-to-end technical issues in production environments&lt;/li&gt;\n&lt;li&gt;Solid fundamentals in Linux, Networking, and Diagnostics&lt;/li&gt;\n&lt;li&gt;Experience with scalable and highly available distributed systems&lt;/li&gt;\n&lt;li&gt;Excellent written and verbal communication skills in English&lt;/li&gt;\n&lt;li&gt;Patience, empathy and a genuine desire to help people&lt;/li&gt;\n&lt;li&gt;Ability to think on your feet, remain calm under pressure, and solve problems in real-time&lt;/li&gt;\n&lt;li&gt;A B.Tech / B.S. or equivalent work experience; if you don’t have a Computer Science degree, but think you can do the job, apply anyway!&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;You may also have&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience with Algolia, Lucidworks, Pinecone, Milvus, or similar&lt;/li&gt;\n&lt;li&gt;Experience with database programming and data models&lt;/li&gt;\n&lt;li&gt;Advanced experience with Operating System and Networking Core concepts&lt;/li&gt;\n&lt;li&gt;Certifications - MongoDB, RHCE, Cloud Provider Certifications&lt;/li&gt;\n&lt;li&gt;Previous SaaS Support Experience&lt;/li&gt;\n&lt;li&gt;Experience creating Generative AI applications, familiarity with LLMs, Vector Stores, and the latest GenAI paradigms&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;What you do at MongoDB&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Support and guide our strategic customers, focus on day-to-day resolution and proactively drive progress&lt;/li&gt;\n&lt;li&gt;Work closely with your team and our customers to identify, characterize, solve &amp;amp; recover from problems raised to the Technical Support team&lt;/li&gt;\n&lt;li&gt;Resolve technical issues through diligent research, reproduction, and troubleshooting, log and server analysis using industry standard as well as bespoke in house developed tools&lt;/li&gt;\n&lt;li&gt;Build and create standard methodologies for technical troubleshooting across different technologies, and craft Knowledge Articles that contribute to our self-serve support portal&lt;/li&gt;\n&lt;li&gt;Review and test new features before they are publicly available, including creating internal and customer facing assets, such as knowledge base articles or FAQs&lt;/li&gt;\n&lt;li&gt;Proactively identify improvement to business processes and policies to solve problems and get things done&lt;/li&gt;\n&lt;li&gt;Be an advocate for customers’ needs.&lt;/li&gt;\n&lt;li&gt;Gather feedback from customers and engage the engineering, product, sales and marketing teams to improve our product through regular touchpoints and data driven reporting from the field&lt;/li&gt;\n&lt;li&gt;Act as focal point and technical subject-matter-expert for assigned customers and their application deployments in Atlas&lt;/li&gt;\n&lt;li&gt;Coach and mentor junior engineers on the team in new or emerging product areas, as well as cross-training peers in specialty topics&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;What you will learn&lt;/h3&gt;\n&lt;p&gt;The rapidly growing MongoDB product suite, including:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Core database server&lt;/li&gt;\n&lt;li&gt;Atlas (fully managed cloud database service)&lt;/li&gt;\n&lt;li&gt;Atlas Full-Text Search, Atlas Vector Search, Atlas Data Lake, Realm and Charts&lt;/li&gt;\n&lt;li&gt;Other Tools and connectors - Ops/Cloud Manager, Compass, Connector for BI, Connector for Spark&lt;/li&gt;\n&lt;li&gt;Market-relevant, complementary technologies e.g. Apache Kafka, Kubernetes&lt;/li&gt;\n&lt;li&gt;Modern and popular architecture design patterns, methodologies and concerns e.g. microservices, DevOps, cloud, security&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;About MongoDB&lt;/h3&gt;\n&lt;p&gt;MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure.&lt;/p&gt;\n&lt;p&gt;With offices worldwide and over 67,000 customers, including 75% of the Fortune 100 and AI-native startups, relying on MongoDB for their most important applications, we’re powering the next era of software.&lt;/p&gt;\n&lt;p&gt;Our compass at MongoDB is our &lt;a href=&quot;https://www.mongodb.com/company&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://www.mongodb.com/company&amp;amp;source=gmail&amp;amp;ust=1781263861283000&amp;amp;usg=AOvVaw0S50uLoTzb7MwgoOem6nnl&quot;&gt;Leadership Commitment,&lt;/a&gt; guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.&lt;/p&gt;\n&lt;p&gt;To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. &lt;a href=&quot;https://www.mongodb.com/company/blog/culture/employee-benefits-that-make-a-difference-at-mongodb&quot;&gt;From employee affinity groups, to fertility assistance and a generous parental leave policy&lt;/a&gt;, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys.&lt;a href=&quot;https://www.mongodb.com/blog/channel/culture&quot;&gt; Learn more about what it’s like to work at MongoDB&lt;/a&gt;, and help us make an impact on the world!&lt;/p&gt;\n&lt;p&gt;MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.&lt;/p&gt;\n&lt;p&gt;MongoDB is an equal opportunities employer.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Req ID: 2273452548&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&lt;em&gt;AI is used to review applications based on job-related criteria and does not replace human decision-making. The hiring team decide who moves forward.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;MongoDB’s base salary range for this role is posted below. Compensation at the time of offer is unique to each candidate and based on a variety of factors such as skill set, experience, qualifications, and work location. Salary is one part of MongoDB’s total compensation and benefits package. Other benefits for eligible employees may include: equity, participation in the employee stock purchase program, flexible paid time off, 20 weeks fully-paid gender-neutral parental leave, fertility and adoption assistance, Registered Retirement Savings Plan (RRSP) with employer match, mental health counseling, backup child and elder care, and health, dental, and vision benefits offerings. Please note, the base salary range listed below and the benefits in this paragraph are only applicable to candidates based in Canada.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;MongoDB’s base salary range for this role in Canada is:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$129,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$178,000 CAD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 234516,
+      "name": "Technical Support Premium Services",
+      "child_ids": [],
+      "parent_id": 268135
+    }
+  ],
+  "offices": [
+    {
+      "id": 95830,
+      "name": "Remote Ontario",
+      "location": "Ontario, Canada",
+      "child_ids": [],
+      "parent_id": 23657
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": null
+}

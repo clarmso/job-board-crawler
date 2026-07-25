@@ -1,0 +1,124 @@
+{
+  "absolute_url": "https://careers.datadoghq.com/detail/7732699/?gh_jid=7732699",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 3393238,
+  "location": {
+    "name": "Boston, Massachusetts, USA; Denver, Colorado, USA; New York, New York, USA; San Francisco, California, USA"
+  },
+  "metadata": [
+    {
+      "id": 33310,
+      "name": "Time Type",
+      "value": "Full time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 166208,
+      "name": "Area - Engineering",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 498252,
+      "name": "Cost Center",
+      "value": "Technical Solutions - Product Solutions Architecture",
+      "value_type": "single_select"
+    },
+    {
+      "id": 516515,
+      "name": "Geography",
+      "value": "North America",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9593635,
+      "name": "Early Career Time Type",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 29446322,
+      "name": "Pay Transparency Range",
+      "value": {
+        "unit": "USD",
+        "max_value": "202000.0",
+        "min_value": "152000.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 31273219,
+      "name": "Does this role require access to ITAR-controlled data?",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 58619948,
+      "name": "IC or MG",
+      "value": "IC",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 7732699,
+  "updated_at": "2026-07-21T13:47:24-04:00",
+  "requisition_id": "R18400",
+  "title": "Product Solutions Architect - Product Analytics and Experimentation",
+  "company_name": "Datadog",
+  "first_published": "2026-03-23T13:40:22-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;The Product Solutions Architecture (PSA) team acts as a technical multiplier across Datadog. PSAs are domain experts who partner with Field teams on complex customer use cases across pre- and post-sales engagements and scale their impact by producing reusable collateral, including reference architectures, technical guides, and enablement assets. By feeding real-world customer insights back to Datadog Product teams, PSAs help influence product roadmaps while accelerating adoption, usage, and long-term customer success.&lt;/p&gt;\n&lt;p&gt;The Digital Experience &amp;amp; Experimentation family of products includes Product Analytics, Feature Flags, Experimentation, and Session Replay and is a fast-growing segment at Datadog and addresses a distinct buyer, product managers, digital experience teams, and product engineers building and optimizing customer-facing applications. As a Product Solutions Architect, you will partner closely with Datadog customers and the Product team to design architectures, implement best practices, and drive adoption of this digital experience product family across customer environments.&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;At Datadog, we place value in our office culture - the relationships and collaboration it builds, and the creativity it brings to the table. We operate as a hybrid workplace to ensure our Datadogs can create a work-life harmony that best fits them.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What You’ll Do:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Serve as an in-house subject matter expert for the Datadog Product Analytics, Feature Flags, Experimentation, and Session Replay and related products.&lt;/li&gt;\n&lt;li&gt;Partner with field teams to offer guidance on architecture choices, SDK instrumentation, data collection, and best practices to large Enterprise customers as they adopt the product family.&lt;/li&gt;\n&lt;li&gt;Act as a trusted advisor to Product Management by delivering actionable feedback informed by real-world field experience.&lt;/li&gt;\n&lt;li&gt;Create high-impact technical collateral, including reference architectures, technical guides, cookbooks, and documentation to enable Field teams and the broader customer community.&lt;/li&gt;\n&lt;li&gt;Build world class training material, solutions briefs, blogs, and documentation to the wider Datadog field technical teams over the latest product features and capabilities.&lt;/li&gt;\n&lt;li&gt;Collaborate with other teams at Datadog including Marketing, Sales, Community, Documentation, and Evangelism to ensure the success of the Product Analytics product family.&lt;/li&gt;\n&lt;li&gt;Build proofs of concept and small-scale deployments to validate solutions and reproduce real-world customer environments.&lt;/li&gt;\n&lt;li&gt;Collaborate on defining the technical GTM motion for Feature Flags and Experimentation, including competitive positioning against competitors to enable Sales Engineers globally to run these conversations independently.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Who You Are:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;5+ years of experience solving complex problems for customers and a strong knowledge of building applications, specifically using product analytics, feature flagging, or digital experience tooling.&lt;/li&gt;\n&lt;li&gt;You have excellent verbal and written communication skills.&lt;/li&gt;\n&lt;li&gt;Familiarity with product analytics platforms and optimizing them for Enterprise level production usage (e.g. Adobe Analytics, Google Analytics, Amplitude, Mixpanel, Heap, Contentsquare, FullStory, PostHog).&lt;/li&gt;\n&lt;li&gt;Fluent in the digital experience and product analytics market domain, competition, technological shifts, and customer needs related to feature flag management, experimentation, and session replay.&lt;/li&gt;\n&lt;li&gt;In-depth knowledge or experience with leveraging feature flag and experimentation tools (LaunchDarkly, Eppo, Split, Optimizely, etc.) and session replay platforms (FullStory, Contentsquare, Microsoft Clarity, etc.).&lt;/li&gt;\n&lt;li&gt;Someone who can analyze Codebase and understands CI/CD, branch strategies and how that can influence Feature Flags.&lt;/li&gt;\n&lt;li&gt;Experience with commonly used web and mobile languages and frameworks such as JavaScript, TypeScript, React, Python, iOS/Swift, Android/Kotlin, and file formats such as JSON and YAML.&lt;/li&gt;\n&lt;li&gt;You are comfortable operating in rapidly evolving, ambiguous technical domains.&lt;/li&gt;\n&lt;li&gt;You build deep context across teams and translate it into reusable, scalable solutions.&lt;/li&gt;\n&lt;li&gt;You take ownership from problem definition through implementation and measurable outcomes.&lt;/li&gt;\n&lt;li&gt;You are highly detail-oriented, particularly when working on architectures and customer-facing technical assets&lt;/li&gt;\n&lt;li&gt;You bring strong listening and consultative skills and are experienced supporting customers in high-pressure, complex situations.&lt;/li&gt;\n&lt;li&gt;Able to sit up to 4 hours, traveling to and from client sites.&lt;/li&gt;\n&lt;li&gt;Able to travel via auto, train, or air up to 40% of the time.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Bonus Points:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Successful track record with 5+ years experience working as a Growth Engineering&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Experience using Datadog and/or other observability tools with Product Analytics, or Feature Flags.&lt;/li&gt;\n&lt;li&gt;Have proven experience deploying observability or analytics instrumentation in production environments at scale.&lt;/li&gt;\n&lt;li&gt;Background in experimentation program design, defining success metrics, guard rails, and statistical significance frameworks for A/B tests.&lt;/li&gt;\n&lt;li&gt;Experience with privacy-by-design and data governance for session replay, including PII masking, consent management, and data residency requirements in regulated industries.&lt;/li&gt;\n&lt;li&gt;Experience collaborating with open source projects and active engagement within associated communities.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;em&gt;Datadog values people from all walks of life. We understand not everyone will meet all the above qualifications on day one. That&#39;s okay. If you’re passionate about technology and want to grow your skills, we encourage you to apply.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Benefits and Growth:&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Best-in-breed onboarding&lt;/li&gt;\n&lt;li&gt;Generous global benefits&lt;/li&gt;\n&lt;li&gt;Intra-departmental mentor and buddy program for in-house networking&lt;/li&gt;\n&lt;li&gt;New hire stock equity (RSUs) and employee stock purchase plan (ESPP)&lt;/li&gt;\n&lt;li&gt;Continuous professional development, product training, and career pathing&lt;/li&gt;\n&lt;li&gt;An inclusive company culture, able to join our Community Guilds and Inclusion Talks&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;em&gt;Benefits and Growth listed above may vary based on the country of your employment and the nature of your employment with Datadog.&lt;/em&gt;&lt;/p&gt;\n&lt;p style=&quot;color: white;&quot;&gt;#LI-Hybrid&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Datadog offers a competitive salary and equity package, and may include variable compensation. Actual compensation is based on factors such as the candidate&#39;s skills, qualifications, and experience. In addition, Datadog offers a wide range of best in class, comprehensive and inclusive employee benefits for this role including healthcare, dental, parental planning, and mental health benefits, a 401(k) plan and match, paid time off, fitness reimbursements, and a discounted employee stock purchase plan.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;The reasonably estimated yearly salary for this role at Datadog is:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$152,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$202,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;hr&gt;\n&lt;p&gt;&lt;strong&gt;About Datadog:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Datadog is the leading observability and security platform for the AI era, providing businesses with unified visibility across the technology stack to manage complexity at scale. It brings applications, infrastructure, data, models, and security into one place, using AI to detect and resolve issues before they impact customers. Trusted globally by Fortune 500 companies and high-growth AI leaders, Datadog enables businesses to move faster with clarity and confidence. Learn more about #DatadogLife on &lt;a href=&quot;https://www.instagram.com/datadoghq/?hl=en&quot; target=&quot;_blank&quot;&gt;Instagram&lt;/a&gt;, &lt;a href=&quot;https://www.linkedin.com/company/datadog&quot; target=&quot;_blank&quot;&gt;LinkedIn,&lt;/a&gt; and &lt;a href=&quot;https://learn.datadoghq.com/&quot; target=&quot;_blank&quot;&gt;Datadog Learning Center. &lt;/a&gt;&lt;/p&gt;\n&lt;hr&gt;\n&lt;p data-renderer-start-pos=&quot;215&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Equal Opportunity at Datadog:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Datadog is proud to offer &lt;a href=&quot;https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf&quot; target=&quot;_blank&quot;&gt;equal employment opportunity&lt;/a&gt; to everyone regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, veteran status, and other characteristics protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. Here are our &lt;a href=&quot;https://www.datadoghq.com/legal/candidate-legal-notices/&quot; target=&quot;_blank&quot;&gt;Candidate Legal Notices&lt;/a&gt; for your reference.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Datadog endeavors to make our Careers Page accessible to all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please complete &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSeoJeduEZ2NdZF_65uZmWUrCM-zee7yADXX1s6Xr9zAGq8iKA/viewform&quot; target=&quot;_blank&quot;&gt;this form&lt;/a&gt;. This form is for accommodation requests only and cannot be used to inquire about the status of applications.&amp;nbsp;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;662&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Privacy and AI Guidelines:&lt;/strong&gt;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;662&quot;&gt;Any information you submit to Datadog as part of your application will be processed in accordance with Datadog’s&amp;nbsp;&lt;a class=&quot;c-link&quot; href=&quot;https://www.datadoghq.com/legal/applicant-candidate-privacy/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.datadoghq.com/legal/applicant-candidate-privacy/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Applicant and Candidate Privacy Notice&lt;/a&gt;. For information on our AI policy, please visit &lt;a href=&quot;https://www.datadoghq.com/legal/interviewing-at-datadog-ai-guidelines/&quot; target=&quot;_blank&quot;&gt;Interviewing at Datadog AI Guidelines&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 239996,
+      "name": "Product Solutions Architecture",
+      "child_ids": [],
+      "parent_id": 9023
+    }
+  ],
+  "offices": [
+    {
+      "id": 5455,
+      "name": "Boston",
+      "location": "Boston, MA, United States",
+      "child_ids": [],
+      "parent_id": 78117
+    },
+    {
+      "id": 61865,
+      "name": "Denver",
+      "location": "Denver, Colorado, United States",
+      "child_ids": [],
+      "parent_id": 78231
+    },
+    {
+      "id": 5664,
+      "name": "New York",
+      "location": "New York, NY, United States",
+      "child_ids": [
+        81327,
+        76746
+      ],
+      "parent_id": 73429
+    },
+    {
+      "id": 57627,
+      "name": "San Francisco",
+      "location": "San Francisco, CA, United States",
+      "child_ids": [],
+      "parent_id": 78108
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

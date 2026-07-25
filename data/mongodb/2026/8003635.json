@@ -1,0 +1,148 @@
+{
+  "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=8003635",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3470263,
+  "location": {
+    "name": "Dublin"
+  },
+  "metadata": [
+    {
+      "id": 22194060,
+      "name": "Position ID",
+      "value": "10014745",
+      "value_type": "short_text"
+    },
+    {
+      "id": 24918,
+      "name": "Department ID",
+      "value": "D23000-Atlas Core Data Services",
+      "value_type": "single_select"
+    },
+    {
+      "id": 22194061,
+      "name": "Team",
+      "value": "19-Atlas Clusters Platform and Automation",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4914027,
+      "name": "Region",
+      "value": "EMEA",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4137836,
+      "name": "Working Model Eligibility",
+      "value": [
+        "2-Flexible"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 4914029,
+      "name": "Job Level",
+      "value": "Professional - IC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24109,
+      "name": "Employment Type",
+      "value": "Full-time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 1073551,
+      "name": "Job Type",
+      "value": "Standard",
+      "value_type": "single_select"
+    },
+    {
+      "id": 988684,
+      "name": "JD Link",
+      "value": "https://docs.google.com/document/d/1hxgEloRYgGVbdGQbHHIGdMcXg7Aezw0xVduEt0J8cAQ/edit?tab=t.0#heading=h.zan76q4ro4k6",
+      "value_type": "url"
+    },
+    {
+      "id": 5525802,
+      "name": "Baseline Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 5525816,
+      "name": "Other Large Market Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 13324394,
+      "name": "Job Post Range (United States)",
+      "value": {
+        "unit": "EUR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 40497768,
+      "name": "Job Post Range (Canada)",
+      "value": {
+        "unit": "EUR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 57694516,
+      "name": "Job Post Range (Poland)",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 64002488,
+      "name": "Job Post Range (Italy)",
+      "value": null,
+      "value_type": "currency_range"
+    }
+  ],
+  "id": 8003635,
+  "updated_at": "2026-07-21T10:26:00-04:00",
+  "requisition_id": "2273470263",
+  "title": "Staff Engineer",
+  "company_name": "MongoDB",
+  "first_published": "2026-06-16T04:44:56-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;MongoDB is seeking a Staff Software Engineer to join the Atlas Clusters Organization. The organization is responsible for building MongoDB Atlas, our database as a service offering and fastest growing product.&lt;strong&gt; &lt;/strong&gt;Atlas allows users to deploy fault-tolerant, secure, globally distributed MongoDB clusters in just minutes. This includes developing software to interface with the three major cloud providers (AWS, Azure, and GCP) in order to bring security, durability, availability, and performance to all deployments of MongoDB.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;This engineer will also work on our Atlas Data Federation &amp;amp; Archiving product. Atlas Data Federation &amp;amp; Archiving allows customers to move data from hot to cold storage and run federated queries over that data.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;We are forming a new Atlas Clusters team in the Dublin area.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;We are looking to speak to candidates who are based in Dublin and would like a hybrid or in-office working model.&lt;/p&gt;\n&lt;h3&gt;What you’ll do&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Build and design new features for MongoDB Atlas and Atlas Data Federation &amp;amp; Archiving&lt;/li&gt;\n&lt;li&gt;Contribute to and lead complex technical projects&lt;/li&gt;\n&lt;li&gt;Work with stakeholders throughout MongoDB to build our roadmap and product offerings&lt;/li&gt;\n&lt;li&gt;Work with customers and support engineers to fix issues and become part of our on-call rotation&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Collaborate with team members to develop our codebase, best practices, and design principles&lt;/li&gt;\n&lt;li&gt;Foster an inclusive and respectful work environment according to MongoDB&#39;s Core Values&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;We’re looking for someone who&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Has at least &lt;strong&gt;10+&lt;/strong&gt; years of professional software development experience&lt;/li&gt;\n&lt;li&gt;Is skilled at writing large-scale, distributed backend systems in a compiled language (Go, Java, C#, etc)&lt;/li&gt;\n&lt;li&gt;Has experience with at least one major cloud provider technology (AWS, Azure, GCP)&lt;/li&gt;\n&lt;li&gt;Has led the launch of a new module and maintained it in production&lt;/li&gt;\n&lt;li&gt;Is eager to solve tough problems&lt;/li&gt;\n&lt;li&gt;Has excellent communication skills&lt;/li&gt;\n&lt;li&gt;Is curious, collaborative, and motivated&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Success Measures&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;In 3 months, you&#39;ll have shipped code into production and collaborated with the team to solve tough problems&lt;/li&gt;\n&lt;li&gt;In 6 months, you&#39;ll have contributed to a large project and joined our on-call rotation&lt;/li&gt;\n&lt;li&gt;In 12 months, you&#39;ll have designed new features, led development work, and become a go-to expert on parts of the system&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;About MongoDB&lt;/h3&gt;\n&lt;p&gt;MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure.&lt;/p&gt;\n&lt;p&gt;With offices worldwide and over 67,000 customers, including 75% of the Fortune 100 and AI-native startups, relying on MongoDB for their most important applications, we’re powering the next era of software.&lt;/p&gt;\n&lt;p&gt;Our compass at MongoDB is our &lt;a href=&quot;https://www.mongodb.com/company&quot;&gt;Leadership Commitment,&lt;/a&gt; guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. &lt;a href=&quot;https://www.mongodb.com/company/blog/culture/employee-benefits-that-make-a-difference-at-mongodb&quot;&gt;From employee affinity groups, to fertility assistance and a generous parental leave policy&lt;/a&gt;, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys.&lt;a href=&quot;https://www.mongodb.com/blog/channel/culture&quot;&gt; Learn more about what it’s like to work at MongoDB&lt;/a&gt;, and help us make an impact on the world!&lt;/p&gt;\n&lt;p&gt;MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.&lt;/p&gt;\n&lt;p&gt;MongoDB is an equal opportunities employer.&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Req ID: 2273470263&lt;/em&gt;&lt;/p&gt;",
+  "departments": [
+    {
+      "id": 69393,
+      "name": "Atlas Core Data Services",
+      "child_ids": [],
+      "parent_id": 371021
+    }
+  ],
+  "offices": [
+    {
+      "id": 3962,
+      "name": "Dublin",
+      "location": "Dublin, Ireland",
+      "child_ids": [],
+      "parent_id": 23658
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": null
+}

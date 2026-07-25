@@ -1,0 +1,103 @@
+{
+  "absolute_url": "https://careers.datadoghq.com/detail/8065192/?gh_jid=8065192",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 3494729,
+  "location": {
+    "name": "New York, New York, USA"
+  },
+  "metadata": [
+    {
+      "id": 33310,
+      "name": "Time Type",
+      "value": "Full time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 166208,
+      "name": "Area - Engineering",
+      "value": "Product Management",
+      "value_type": "single_select"
+    },
+    {
+      "id": 498252,
+      "name": "Cost Center",
+      "value": "Engineering - Product Management",
+      "value_type": "single_select"
+    },
+    {
+      "id": 516515,
+      "name": "Geography",
+      "value": "North America",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9593635,
+      "name": "Early Career Time Type",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 29446322,
+      "name": "Pay Transparency Range",
+      "value": {
+        "unit": "USD",
+        "max_value": "240000.0",
+        "min_value": "192000.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 31273219,
+      "name": "Does this role require access to ITAR-controlled data?",
+      "value": "No",
+      "value_type": "single_select"
+    },
+    {
+      "id": 58619948,
+      "name": "IC or MG",
+      "value": "IC",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8065192,
+  "updated_at": "2026-07-14T15:23:10-04:00",
+  "requisition_id": "R19975",
+  "title": "Senior Product Manager – Observability Data Platform",
+  "company_name": "Datadog",
+  "first_published": "2026-07-14T15:23:10-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;At Datadog, we’re on a mission to build the best platform in the world for engineers to understand and scale their systems, applications, and teams. We operate at high scale, enabling seamless collaboration and problem-solving among Dev, Ops, and Security teams globally for tens of thousands of companies. Our engineering culture values pragmatism, honesty, and simplicity to solve hard problems the right way.&lt;/p&gt;\n&lt;p&gt;The Observability Data Platform (ODP) is the backbone of everything Datadog delivers – powering how data is ingested, stored, routed, and surfaced across every product at planet scale. As a Senior Product Manager for ODP, you will work with world-class engineers and cross-functional partners to shape how the platform is deployed, controlled, and operated. You will define product direction across the control plane and data layer, translate complex infrastructure trade-offs into clear roadmap decisions, and help customers get the most from their observability investment – regardless of architecture, topology, or scale.&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;At Datadog, we place value in our office culture – the relationships and collaboration it builds and the creativity it brings to the table. We operate as a hybrid workplace to ensure our Datadogs can create a work-life harmony that best fits them.&lt;/em&gt;&lt;/p&gt;\n&lt;h4&gt;&lt;strong&gt;What You Will Do:&lt;/strong&gt;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Develop a deep understanding of the Observability Data Platform customers – platform engineers, SREs, and product managers that own the product verticals – their infrastructure challenges, deployment topologies, and cost-to-serve trade-offs.&lt;/li&gt;\n&lt;li&gt;Define product direction across multiple ODP surfaces, including the control plane and data layer, by articulating clear problem statements and desired outcomes, and partnering with engineering on technical approach and sequencing&lt;/li&gt;\n&lt;li&gt;Lead conversations with design partners and strategic customers to understand real-world platform pain points, validate product assumptions, and guide solutions from early prototypes through General Availability&lt;/li&gt;\n&lt;li&gt;Develop a command of the unit economics of the platform surfaces you own and bring that cost-profile understanding into pricing and packaging conversations in partnership with Engineering and the Director of Pricing&lt;/li&gt;\n&lt;li&gt;Anticipate and communicate market trends relating to AI-native infrastructure patterns – including how they reshape platform engineering decisions – and translate them into actionable product direction&lt;/li&gt;\n&lt;li&gt;Drive discussions across engineering, product, and commercial-facing PMs by providing clearly articulated problem statements to deliver seamless cross-product experiences and unified platform capabilities&lt;/li&gt;\n&lt;li&gt;Support active customer engagements by partnering with commercial-facing PMs and contributing to executive-level conversations on architecture, value, and platform roadmap&lt;/li&gt;\n&lt;li&gt;Track adoption and measure impact for your product areas and iterate rapidly based on data and customer conversations&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;&lt;strong&gt;Who You Are:&lt;/strong&gt;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;You have 5+ years of experience as a Product Manager, ideally working on a developer-focused SaaS platform, infrastructure, or data product&lt;/li&gt;\n&lt;li&gt;You are a strong cross-org navigator – you read how decisions get made across engineering, product, commercial, and pricing teams; you surface the right decisions, hold the pen across organizational lines, and keep work moving when stakeholders disagree&lt;/li&gt;\n&lt;li&gt;You have a command of distributed data infrastructure concepts and can engage credibly with engineering on technical trade-offs, scalability constraints, and platform architecture&lt;/li&gt;\n&lt;li&gt;You are comfortable distilling complex architecture, cost-to-serve trade-offs, and product priorities into clear, actionable context for engineers, leadership, and customers&lt;/li&gt;\n&lt;li&gt;You are collaborative and opinionated – you build trust quickly with engineers, PM peers, designers, and commercial partners; you bring strong product opinions and adapt when new evidence emerges&lt;/li&gt;\n&lt;li&gt;You thrive in fast-moving, high-growth environments and are energized by scope that develops over time in a complex, cross-platform environment&lt;/li&gt;\n&lt;li&gt;You are highly customer-focused, detail-oriented, and committed to high quality standards&lt;/li&gt;\n&lt;li&gt;Bonus: Experience with observability platforms, cloud-native infrastructure, multi-cloud or hybrid deployment models, data pipeline architecture, or pricing and packaging for platform products&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;em&gt;Datadog values people from all walks of life. We know not everyone will meet all the above qualifications on day one. That’s okay. If you’re passionate about technology and want to grow your experience, we encourage you to apply.&lt;/em&gt;&lt;/p&gt;\n&lt;h4&gt;&lt;strong&gt;Benefits &amp;amp; Growth:&lt;/strong&gt;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;New hire stock equity (RSUs) and employee stock purchase plan (ESPP)&lt;/li&gt;\n&lt;li&gt;Continuous professional development, product training, and career pathing&lt;/li&gt;\n&lt;li&gt;Intra-departmental mentor and buddy program for in-house networking&lt;/li&gt;\n&lt;li&gt;An inclusive company culture, ability to join our Community Guilds&lt;/li&gt;\n&lt;li&gt;Access to Inclusion Talks, our Internal panel discussions&lt;/li&gt;\n&lt;li&gt;Free, global Spring Health benefits for employees and dependents age 6+&lt;/li&gt;\n&lt;li&gt;Competitive global benefits&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;em&gt;Benefits and Growth listed above may vary based on the country of your employment and the nature of your employment with Datadog.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p style=&quot;color: white;&quot;&gt;#LI-Hybrid&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Datadog offers a competitive salary and equity package, and may include variable compensation. Actual compensation is based on factors such as the candidate&#39;s skills, qualifications, and experience. In addition, Datadog offers a wide range of best in class, comprehensive and inclusive employee benefits for this role including healthcare, dental, parental planning, and mental health benefits, a 401(k) plan and match, paid time off, fitness reimbursements, and a discounted employee stock purchase plan.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;The reasonably estimated yearly salary for this role at Datadog is:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$192,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$240,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;hr&gt;\n&lt;p&gt;&lt;strong&gt;About Datadog:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Datadog is the leading observability and security platform for the AI era, providing businesses with unified visibility across the technology stack to manage complexity at scale. It brings applications, infrastructure, data, models, and security into one place, using AI to detect and resolve issues before they impact customers. Trusted globally by Fortune 500 companies and high-growth AI leaders, Datadog enables businesses to move faster with clarity and confidence. Learn more about #DatadogLife on &lt;a href=&quot;https://www.instagram.com/datadoghq/?hl=en&quot; target=&quot;_blank&quot;&gt;Instagram&lt;/a&gt;, &lt;a href=&quot;https://www.linkedin.com/company/datadog&quot; target=&quot;_blank&quot;&gt;LinkedIn,&lt;/a&gt; and &lt;a href=&quot;https://learn.datadoghq.com/&quot; target=&quot;_blank&quot;&gt;Datadog Learning Center. &lt;/a&gt;&lt;/p&gt;\n&lt;hr&gt;\n&lt;p data-renderer-start-pos=&quot;215&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Equal Opportunity at Datadog:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Datadog is proud to offer &lt;a href=&quot;https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf&quot; target=&quot;_blank&quot;&gt;equal employment opportunity&lt;/a&gt; to everyone regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, veteran status, and other characteristics protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. Here are our &lt;a href=&quot;https://www.datadoghq.com/legal/candidate-legal-notices/&quot; target=&quot;_blank&quot;&gt;Candidate Legal Notices&lt;/a&gt; for your reference.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Datadog endeavors to make our Careers Page accessible to all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please complete &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSeoJeduEZ2NdZF_65uZmWUrCM-zee7yADXX1s6Xr9zAGq8iKA/viewform&quot; target=&quot;_blank&quot;&gt;this form&lt;/a&gt;. This form is for accommodation requests only and cannot be used to inquire about the status of applications.&amp;nbsp;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;662&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Privacy and AI Guidelines:&lt;/strong&gt;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;662&quot;&gt;Any information you submit to Datadog as part of your application will be processed in accordance with Datadog’s&amp;nbsp;&lt;a class=&quot;c-link&quot; href=&quot;https://www.datadoghq.com/legal/applicant-candidate-privacy/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.datadoghq.com/legal/applicant-candidate-privacy/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Applicant and Candidate Privacy Notice&lt;/a&gt;. For information on our AI policy, please visit &lt;a href=&quot;https://www.datadoghq.com/legal/interviewing-at-datadog-ai-guidelines/&quot; target=&quot;_blank&quot;&gt;Interviewing at Datadog AI Guidelines&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 72255,
+      "name": "Product Management",
+      "child_ids": [],
+      "parent_id": 9022
+    }
+  ],
+  "offices": [
+    {
+      "id": 5664,
+      "name": "New York",
+      "location": "New York, NY, United States",
+      "child_ids": [
+        81327,
+        76746
+      ],
+      "parent_id": 73429
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

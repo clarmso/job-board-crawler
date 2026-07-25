@@ -1,0 +1,156 @@
+{
+  "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=7778978",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3405375,
+  "location": {
+    "name": "Gurugram"
+  },
+  "metadata": [
+    {
+      "id": 22194060,
+      "name": "Position ID",
+      "value": "10014865",
+      "value_type": "short_text"
+    },
+    {
+      "id": 24918,
+      "name": "Department ID",
+      "value": "D85021-GTM Tech",
+      "value_type": "single_select"
+    },
+    {
+      "id": 22194061,
+      "name": "Team",
+      "value": "387-GTM Tech",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4914027,
+      "name": "Region",
+      "value": "APAC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4137836,
+      "name": "Working Model Eligibility",
+      "value": [
+        "2-Flexible"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 4914029,
+      "name": "Job Level",
+      "value": "Professional - IC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24109,
+      "name": "Employment Type",
+      "value": "Full-time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 1073551,
+      "name": "Job Type",
+      "value": "Standard",
+      "value_type": "single_select"
+    },
+    {
+      "id": 988684,
+      "name": "JD Link",
+      "value": null,
+      "value_type": "url"
+    },
+    {
+      "id": 5525802,
+      "name": "Baseline Budgeted Salary",
+      "value": {
+        "unit": "INR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 5525816,
+      "name": "Other Large Market Budgeted Salary",
+      "value": {
+        "unit": "INR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 13324394,
+      "name": "Job Post Range (United States)",
+      "value": {
+        "unit": "INR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 40497768,
+      "name": "Job Post Range (Canada)",
+      "value": {
+        "unit": "INR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 57694516,
+      "name": "Job Post Range (Poland)",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 64002488,
+      "name": "Job Post Range (Italy)",
+      "value": null,
+      "value_type": "currency_range"
+    }
+  ],
+  "id": 7778978,
+  "updated_at": "2026-07-21T10:26:00-04:00",
+  "requisition_id": "1273405375",
+  "title": "Senior Engineer - Business Systems (Integrations)",
+  "company_name": "MongoDB",
+  "first_published": "2026-04-20T03:00:37-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;We are looking to speak to candidates who are based in Gurugram for our hybrid working model.&lt;/p&gt;\n&lt;h3&gt;About the Role&lt;/h3&gt;\n&lt;p&gt;We are looking for a Senior Workato Integration Engineer to join our GTMTech team. This critical role involves developing, deploying, and supporting GTMTech’s integrations, which are essential for core business operations.&lt;/p&gt;\n&lt;p&gt;The GTMTech team is focused on high-impact, large-scale technology programs, such as Quote-to-Cash. Our mission is to enhance company efficiency, boost profitability, and enable data-driven decision-making by streamlining systems, optimizing processes, and minimizing manual, low-value work through automation and AI.&lt;/p&gt;\n&lt;h3&gt;Key Responsibilities&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Automate, develop, and support integrations across various business systems, platforms, and tools&lt;/li&gt;\n&lt;li&gt;Work closely with different business units and technical teams to gather requirements and design solutions&lt;/li&gt;\n&lt;li&gt;Use your integration expertise to create scalable solutions and operationalize integrations.&lt;/li&gt;\n&lt;li&gt;Implement and promote integration best practices&lt;/li&gt;\n&lt;li&gt;Participate in on-call support rotation&lt;/li&gt;\n&lt;li&gt;Champion and role model MongoDB’s culture principles—Think Big, Make it Happen, Build Together, and Be Intellectually Honest—as we scale globally and grow our presence in new regions and offices&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Qualifications&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Bachelor&#39;s or Masters in Computer Science, Engineering or related field with 5+ years of enterprise integration experience&lt;/li&gt;\n&lt;li&gt;At least 3 years of experience in integration development using platforms such as Workato, Mulesoft, Boomi, etc&lt;/li&gt;\n&lt;li&gt;Deep understanding of enterprise integration design patterns, messaging, and event-driven architectures and Workato concepts like callable recipes, event streams, task optimization etc&lt;/li&gt;\n&lt;li&gt;Proficient with various Workato connectors (but not limited to) like Salesforce, Netsuite, HRIS and Google AppSuite along with expertise in Python/Ruby scripting skills&lt;/li&gt;\n&lt;li&gt;Strong development experience implementing Workato at scale - including automation, observability/monitoring, debugging skills in complex environments with multiple connected systems, implementing and managing devops process adhering to compliance, audit and our internal CI/CD processes&lt;/li&gt;\n&lt;li&gt;Hands-on experience in implementing secure and scalable REST APIs, implementing Workato MCP and agentic workflows&lt;/li&gt;\n&lt;li&gt;Strong problem solving and debugging skills in multiple connected systems with their respective environments.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Excellent analysis and design capabilities, with a focus on system design, flow, scalability, performance and mapping the business requirements into technical solutions.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Success Measures&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Deliver high-quality, scalable integration solutions (recipes/flows) within the Quote-to-Cash process and other high-impact GTMTech programs on time&lt;/li&gt;\n&lt;li&gt;Successfully deploy and operationalize integrations, ensuring system stability, performance, and adherence to integration best practices&lt;/li&gt;\n&lt;li&gt;Proactively identify and resolve complex integration issues, minimizing disruption to core business operations&lt;/li&gt;\n&lt;li&gt;Effectively collaborate with business and technical teams, translating complex requirements into technical design.&lt;/li&gt;\n&lt;li&gt;Become a champion and active participant in promoting MongoDB’s culture principles and best practices within the GTMTech team&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. &lt;a href=&quot;https://www.mongodb.com/company/blog/culture/employee-benefits-that-make-a-difference-at-mongodb&quot;&gt;From employee affinity groups, to fertility assistance and a generous parental leave policy&lt;/a&gt;, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys.&lt;a href=&quot;https://www.mongodb.com/blog/channel/culture&quot;&gt; Learn more about what it’s like to work at MongoDB&lt;/a&gt;, and help us make an impact on the world!&lt;/p&gt;\n&lt;p&gt;MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.&lt;/p&gt;\n&lt;p&gt;MongoDB, Inc. provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type and makes all hiring decisions without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.&lt;/p&gt;\n&lt;h3&gt;About MongoDB&lt;/h3&gt;\n&lt;p&gt;MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure.&lt;/p&gt;\n&lt;p&gt;With offices worldwide and over 67,000 customers, including 75% of the Fortune 100 and AI-native startups, relying on MongoDB for their most important applications, we’re powering the next era of software.&lt;/p&gt;\n&lt;p&gt;Our compass at MongoDB is our &lt;a href=&quot;https://www.mongodb.com/company&quot;&gt;Leadership Commitment,&lt;/a&gt; guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. &lt;a href=&quot;https://www.mongodb.com/company/blog/culture/employee-benefits-that-make-a-difference-at-mongodb&quot;&gt;From employee affinity groups, to fertility assistance and a generous parental leave policy&lt;/a&gt;, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys.&lt;a href=&quot;https://www.mongodb.com/blog/channel/culture&quot;&gt; Learn more about what it’s like to work at MongoDB&lt;/a&gt;, and help us make an impact on the world!&lt;/p&gt;\n&lt;p&gt;MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.&lt;/p&gt;\n&lt;p&gt;MongoDB is an equal opportunities employer.&lt;/p&gt;\n&lt;table class=&quot;fields&quot;&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;td&gt;Requisition ID&lt;/td&gt;\n&lt;td data-provides=&quot;requisition_id&quot;&gt;1273405375&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;",
+  "departments": [
+    {
+      "id": 289352,
+      "name": "GTM Tech",
+      "child_ids": [],
+      "parent_id": 298006
+    }
+  ],
+  "offices": [
+    {
+      "id": 65909,
+      "name": "Gurugram",
+      "location": "Gurugram, Haryana, India",
+      "child_ids": [],
+      "parent_id": 23659
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": null
+}
