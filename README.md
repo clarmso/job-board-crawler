@@ -11,6 +11,7 @@ This repo queries the job boards of selected companies and saves the job posting
 * [Recruitee](https://recruitee.com) — JSON API, includes descriptions by default
 * [SmartRecruiters](https://api.smartrecruiters.com) — JSON API, paginated; job descriptions require per-posting fetch
 * [Rippling](https://ats.rippling.com) — Next.js SSR; job list scraped from HTML, full job data extracted from `__NEXT_DATA__` on each posting page
+* [Gem](https://api.gem.com) — JSON API, flat array response; includes HTML and plain-text job descriptions
 
 ### Sources
 
