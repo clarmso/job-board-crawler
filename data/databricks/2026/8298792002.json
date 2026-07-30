@@ -31,7 +31,7 @@
     }
   ],
   "id": 8298792002,
-  "updated_at": "2026-07-24T19:28:53-04:00",
+  "updated_at": "2026-07-28T00:17:41-04:00",
   "requisition_id": "CSQ227R47",
   "title": "AI Engineer - FDE (Forward Deployed Engineer)",
   "company_name": "Databricks",
@@ -49,13 +49,11 @@
   ],
   "offices": [
     {
-      "id": 4033877002,
-      "name": "New South Wales, Australia",
-      "location": "New South Wales, Australia",
-      "child_ids": [
-        4002843002
-      ],
-      "parent_id": 4039465002
+      "id": 4002843002,
+      "name": "Sydney, Australia",
+      "location": "Sydney, Australia",
+      "child_ids": [],
+      "parent_id": 4033877002
     }
   ],
   "ai_disclaimer": null,

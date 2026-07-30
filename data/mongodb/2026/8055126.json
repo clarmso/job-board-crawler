@@ -18,7 +18,7 @@
     {
       "id": 22194060,
       "name": "Position ID",
-      "value": "T10000815",
+      "value": "10000815",
       "value_type": "short_text"
     },
     {
@@ -84,7 +84,11 @@
     {
       "id": 5525816,
       "name": "Other Large Market Budgeted Salary",
-      "value": null,
+      "value": {
+        "unit": "USD",
+        "max_value": "149000.0",
+        "min_value": "104000.0"
+      },
       "value_type": "currency_range"
     },
     {
@@ -121,7 +125,7 @@
     }
   ],
   "id": 8055126,
-  "updated_at": "2026-07-21T10:26:00-04:00",
+  "updated_at": "2026-07-29T11:36:04-04:00",
   "requisition_id": "2273491101",
   "title": "Senior Compensation Manager",
   "company_name": "MongoDB",

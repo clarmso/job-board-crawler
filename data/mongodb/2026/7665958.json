@@ -43,7 +43,7 @@
       "id": 4137836,
       "name": "Working Model Eligibility",
       "value": [
-        "2-Flexible"
+        "3-Fully Remote"
       ],
       "value_type": "multi_select"
     },
@@ -125,7 +125,7 @@
     }
   ],
   "id": 7665958,
-  "updated_at": "2026-07-21T10:26:00-04:00",
+  "updated_at": "2026-07-29T11:36:04-04:00",
   "requisition_id": "1273373875",
   "title": "Technical Services Engineer, 2nd Shift",
   "company_name": "MongoDB",
@@ -143,9 +143,9 @@
   ],
   "offices": [
     {
-      "id": 3960,
-      "name": "New York City",
-      "location": "New York, NY, United States",
+      "id": 95847,
+      "name": "Remote Washington",
+      "location": "Washington, United States",
       "child_ids": [],
       "parent_id": 23657
     }

@@ -24,13 +24,13 @@
     {
       "id": 24918,
       "name": "Department ID",
-      "value": "D21415-Core Product Management",
+      "value": "D23022-Identity and Access Management",
       "value_type": "single_select"
     },
     {
       "id": 22194061,
       "name": "Team",
-      "value": "T10433-Atlas PM",
+      "value": "68-IAM ENG",
       "value_type": "single_select"
     },
     {
@@ -74,13 +74,21 @@
     {
       "id": 5525802,
       "name": "Baseline Budgeted Salary",
-      "value": null,
+      "value": {
+        "unit": "CAD",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
       "value_type": "currency_range"
     },
     {
       "id": 5525816,
       "name": "Other Large Market Budgeted Salary",
-      "value": null,
+      "value": {
+        "unit": "CAD",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
       "value_type": "currency_range"
     },
     {
@@ -117,7 +125,7 @@
     }
   ],
   "id": 7523959,
-  "updated_at": "2026-07-21T10:26:00-04:00",
+  "updated_at": "2026-07-29T11:36:04-04:00",
   "requisition_id": "4263333204",
   "title": "Senior Product Manager, Security and Threat Management",
   "company_name": "MongoDB",
@@ -127,10 +135,10 @@
   "content": "&lt;p&gt;The Security Product Management team is vital in safeguarding customer trust and making data security a market differentiator that enables MongoDB to succeed in enterprise and regulated industries. Our team&#39;s scope is broad and critical, covering a range of features, including Networking, IAM, Data Governance, Encryption, Compliance, and Auditing.&lt;/p&gt;\n&lt;p&gt;This role can be based out of our Toronto office, or remotely in Canada.&amp;nbsp;&lt;/p&gt;\n&lt;h3&gt;Responsibilities&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;In this role, you will be a key member of security product management responsible for Account Protection and safeguarding customer trust at MongoDB&lt;/li&gt;\n&lt;li&gt;Develop a robust vision for best-in-class security and identity threat management, from identification to remediation&lt;/li&gt;\n&lt;li&gt;Build a vision for best-in class security features that identify, mitigate, and proactively prevent unauthorized attempts to access data&lt;/li&gt;\n&lt;li&gt;Partner with engineering to develop a prioritized product roadmap and backlog to execute against that vision&lt;/li&gt;\n&lt;li&gt;Deeply understand all aspects of the business - to ensure a business outcome aligned with our broader product, customer, and company goals&lt;/li&gt;\n&lt;li&gt;Deepen our understanding of evolving threats and corresponding technologies in data security. Use customer inputs to serve as an expert and propose new innovations or best practices from the industry&lt;/li&gt;\n&lt;li&gt;​​Partner with engineering, legal, research, product marketing, support, sales, and security teams to deepen customer trust as they use MongoDB for their most critical data workloads&lt;/li&gt;\n&lt;li&gt;Define and implement key performance indicators (KPIs) and success metrics for security initiatives, ensuring alignment with business objectives and product goals&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Requirements&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;5+ years of product management or equivalent experience in enterprise security or platforms&lt;/li&gt;\n&lt;li&gt;Experience working with security focused engineers in a diverse team&lt;/li&gt;\n&lt;li&gt;Domain expertise in threat detection, data security, or a related field&lt;/li&gt;\n&lt;li&gt;Experience driving business results through influential leadership across multiple partner teams including engineering, sales, marketing, solution architects and customer success.&lt;/li&gt;\n&lt;li&gt;Excellent written and verbal communication skills, including experience presenting to executive leadership&lt;/li&gt;\n&lt;li&gt;Proven ability to define and deliver successful product strategies and roadmaps&lt;/li&gt;\n&lt;li&gt;Demonstrated experience in defining technical product requirements into an actionable product roadmap&lt;/li&gt;\n&lt;li&gt;Understanding of various public cloud providers such as AWS, Azure, and GCP&lt;/li&gt;\n&lt;li&gt;Comfortable with stage presence and public speaking&lt;/li&gt;\n&lt;li&gt;B.Sc. in Computer Science, or equivalent experience&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Nice to have&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Certifications or similar evidence of professional milestone completion and continuous training (such as: CISSP, CompTia Security+, SANS, etc.)&lt;/li&gt;\n&lt;li&gt;Community support and participation to advance data and cloud security such as conference or meetup panels and blog or paper authorship&lt;/li&gt;\n&lt;li&gt;MBA, &lt;a href=&quot;http://m.sc/&quot;&gt;M.Sc&lt;/a&gt;.+ or equivalent in relevant domain&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;span style=&quot;color: #000000; background-color: transparent;&quot;&gt;About MongoDB&lt;/span&gt;&lt;/h3&gt;\n&lt;p&gt;MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure.&lt;/p&gt;\n&lt;p&gt;With offices worldwide and over 67,000 customers, including 75% of the Fortune 100 and AI-native startups, relying on MongoDB for their most important applications, we’re powering the next era of software.&lt;/p&gt;\n&lt;p&gt;Our compass at MongoDB is our &lt;a href=&quot;https://www.mongodb.com/company&quot;&gt;Leadership Commitment,&lt;/a&gt; guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.&lt;/p&gt;\n&lt;p style=&quot;margin: 0px !important; padding: 0px !important;&quot;&gt;&lt;span style=&quot;color: #000000; background-color: transparent;&quot;&gt;To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. &lt;/span&gt;&lt;u style=&quot;color: #1155cc; background-color: transparent;&quot;&gt;&lt;a href=&quot;https://www.mongodb.com/company/blog/culture/employee-benefits-that-make-a-difference-at-mongodb&quot;&gt;From employee affinity groups, to fertility assistance and a generous parental leave policy&lt;/a&gt;&lt;/u&gt;&lt;span style=&quot;color: #000000; background-color: transparent;&quot;&gt;, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys.&lt;/span&gt;&lt;a style=&quot;color: #000000; background-color: transparent;&quot; href=&quot;https://www.mongodb.com/blog/channel/culture&quot;&gt; &lt;/a&gt;&lt;u style=&quot;color: #1155cc; background-color: transparent;&quot;&gt;&lt;a href=&quot;https://www.mongodb.com/blog/channel/culture&quot;&gt;Learn more about what it’s like to work at MongoDB&lt;/a&gt;&lt;/u&gt;&lt;span style=&quot;color: #000000; background-color: transparent;&quot;&gt;, and help us make an impact on the world!&lt;/span&gt;&lt;/p&gt;\n&lt;p style=&quot;margin: 0px !important; padding: 0px !important;&quot;&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p style=&quot;margin: 0px !important; padding: 0px !important;&quot;&gt;&lt;span style=&quot;color: #000000; background-color: transparent;&quot;&gt;MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.&lt;/span&gt;&lt;/p&gt;\n&lt;p style=&quot;margin: 0px !important; padding: 0px !important;&quot;&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p style=&quot;margin: 0px !important; padding: 0px !important;&quot;&gt;&lt;span style=&quot;color: #000000; background-color: transparent;&quot;&gt;MongoDB is an equal opportunities employer.&lt;/span&gt;&lt;/p&gt;\n&lt;p style=&quot;margin: 0px !important; padding: 0px !important;&quot;&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p style=&quot;margin: 0px !important; padding: 0px !important;&quot;&gt;&lt;span style=&quot;color: #000000; background-color: transparent;&quot;&gt;Req ID: 4263333204&lt;/span&gt;&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;MongoDB’s base salary range for this role is posted below. Compensation at the time of offer is unique to each candidate and based on a variety of factors such as skill set, experience, qualifications, and work location. Salary is one part of MongoDB’s total compensation and benefits package. Other benefits for eligible employees may include: equity, participation in the employee stock purchase program, flexible paid time off, 20 weeks fully-paid gender-neutral parental leave, fertility and adoption assistance, Registered Retirement Savings Plan (RRSP) with employer match, mental health counseling, backup child and elder care, and health, dental, and vision benefits offerings. Please note, the base salary range listed below and the benefits in this paragraph are only applicable to candidates based in Canada.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;MongoDB’s base salary range for this role in Canada is:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$130,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$180,000 CAD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&lt;em&gt;AI is used to review applications based on job-related criteria and does not replace human decision-making. The hiring team decide who moves forward.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;MongoDB’s base salary range for this role is posted below. Compensation at the time of offer is unique to each candidate and based on a variety of factors such as skill set, experience, qualifications, and work location. Salary is one part of MongoDB’s total compensation and benefits package. Other benefits for eligible employees may include: equity, participation in the employee stock purchase program, flexible paid time off, 20 weeks fully-paid gender-neutral parental leave, fertility and adoption assistance, Registered Retirement Savings Plan (RRSP) with employer match, mental health counseling, backup child and elder care, and health, dental, and vision benefits offerings. Please note, the base salary range listed below and the benefits in this paragraph are only applicable to candidates based in Canada.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;MongoDB’s base salary range for this role in Canada is:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$130,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$180,000 CAD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;",
   "departments": [
     {
-      "id": 73383,
-      "name": "Product Management",
+      "id": 292549,
+      "name": "Identity and Access Management",
       "child_ids": [],
-      "parent_id": 370706
+      "parent_id": 371021
     }
   ],
   "offices": [

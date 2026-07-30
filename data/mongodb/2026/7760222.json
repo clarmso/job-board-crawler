@@ -84,7 +84,11 @@
     {
       "id": 5525816,
       "name": "Other Large Market Budgeted Salary",
-      "value": null,
+      "value": {
+        "unit": "USD",
+        "max_value": "125000.0",
+        "min_value": "87000.0"
+      },
       "value_type": "currency_range"
     },
     {
@@ -121,7 +125,7 @@
     }
   ],
   "id": 7760222,
-  "updated_at": "2026-07-21T10:26:00-04:00",
+  "updated_at": "2026-07-29T11:36:04-04:00",
   "requisition_id": "1273399863",
   "title": "Senior Business Operations & Strategy Analyst",
   "company_name": "MongoDB",

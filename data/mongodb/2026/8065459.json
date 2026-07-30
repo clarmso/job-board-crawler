@@ -1,0 +1,152 @@
+{
+  "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=8065459",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3494834,
+  "location": {
+    "name": "Mexico City"
+  },
+  "metadata": [
+    {
+      "id": 22194060,
+      "name": "Position ID",
+      "value": "10014958",
+      "value_type": "short_text"
+    },
+    {
+      "id": 24918,
+      "name": "Department ID",
+      "value": "D23140-Magenta",
+      "value_type": "single_select"
+    },
+    {
+      "id": 22194061,
+      "name": "Team",
+      "value": "T10512-Magenta",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4914027,
+      "name": "Region",
+      "value": "North America",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4137836,
+      "name": "Working Model Eligibility",
+      "value": [
+        "2-Flexible"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 4914029,
+      "name": "Job Level",
+      "value": "Professional - IC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24109,
+      "name": "Employment Type",
+      "value": "Full-time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 1073551,
+      "name": "Job Type",
+      "value": "Standard",
+      "value_type": "single_select"
+    },
+    {
+      "id": 988684,
+      "name": "JD Link",
+      "value": "https://docs.google.com/document/d/1oA6fK1KIaZhHFquUFi-W9A_W3GphHpteeYjNztwk2m8/edit?tab=t.0#heading=h.1q7j1lkf8hwn",
+      "value_type": "url"
+    },
+    {
+      "id": 5525802,
+      "name": "Baseline Budgeted Salary",
+      "value": {
+        "unit": "USD",
+        "max_value": "225000.0",
+        "min_value": "157000.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 5525816,
+      "name": "Other Large Market Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 13324394,
+      "name": "Job Post Range (United States)",
+      "value": {
+        "unit": "USD",
+        "max_value": "248000.0",
+        "min_value": "126000.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 40497768,
+      "name": "Job Post Range (Canada)",
+      "value": {
+        "unit": "USD",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 57694516,
+      "name": "Job Post Range (Poland)",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 64002488,
+      "name": "Job Post Range (Italy)",
+      "value": null,
+      "value_type": "currency_range"
+    }
+  ],
+  "id": 8065459,
+  "updated_at": "2026-07-30T10:24:17-04:00",
+  "requisition_id": "2273494834",
+  "title": "Sr. Technical Program Manager, FDE Engagements",
+  "company_name": "MongoDB",
+  "first_published": "2026-07-30T10:24:17-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;This role oversees the lifecycle of forward-deployed engineering engagements in which MongoDB Forward Deployed Engineers (FDEs) partner closely with customer engineering teams to build working agents.&lt;/p&gt;\n&lt;p&gt;It is a high-impact role at the intersection of customer delivery, AI agent development, and product feedback. By working closely with customers during implementation, the Sr. Technical Program Manager helps shape real-world agent outcomes, demonstrate the value of MongoDB’s platform in live enterprise environments, and bring back insights that can inform future product direction.&lt;/p&gt;\n&lt;p&gt;These engagements are designed to help customers realize business value from our platform, accelerate successful agent delivery, and generate product feedback through close collaboration during implementation.&lt;/p&gt;\n&lt;p&gt;The Sr. Technical Program Manager, FDE Engagements drives successful delivery by aligning stakeholders, managing risks and dependencies, removing operational blockers, and ensuring clear ownership, communication, and decision-making across the engagement lifecycle. In partnership with FDE, Product, Engineering, account teams, and customer stakeholders, this role is accountable for program execution and engagement outcomes.&lt;/p&gt;\n&lt;p&gt;If an action item does not yet have an explicitly assigned owner, the Sr. Technical Program Manager is responsible for driving assignment and follow-through until ownership is clear.&lt;/p&gt;\n&lt;h3&gt;Pre-customer environment access&lt;/h3&gt;\n&lt;p&gt;Main goals:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Secure access to the customer&#39;s internal collaboration and development tooling as early as possible&lt;/li&gt;\n&lt;li&gt;Align on the intended behavior, functionality, and architecture of the agents&lt;/li&gt;\n&lt;li&gt;Define how the FDE team and customer engineering team will collaborate on use case and architecture definition, code, and execution&lt;/li&gt;\n&lt;li&gt;Establish the deployment path for MongoDB’s tools across customer development and cloud environments&lt;/li&gt;\n&lt;li&gt;Confirm business goals, technical scope, and success criteria for the engagement&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;During this phase, the Sr. Technical Program Manager partners with the assigned FDE team, account teams, and customer stakeholders to coordinate onboarding requirements, dependency management, planning, and readiness activities. This may include coordinating statements of work, contractor onboarding steps, access approvals, and early execution planning.&lt;/p&gt;\n&lt;p&gt;The pre-access period should also be used to build a shared understanding of the business value, intended behavior, and technical architecture of the agent. The team should prepare the technical design inputs needed to break the work into executable tasks in the customer&#39;s preferred engineering collaboration environment.&lt;/p&gt;\n&lt;p&gt;Deliverables:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Engagement overview deck&lt;/li&gt;\n&lt;li&gt;Agent technical spec&lt;/li&gt;\n&lt;li&gt;Agent architecture&lt;/li&gt;\n&lt;li&gt;Mutually agreed-upon definition of success&amp;nbsp;&amp;nbsp;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Agent build and prototyping&lt;/h3&gt;\n&lt;p&gt;Main goals&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Enable the joint engineering team to develop agents locally and contribute to a shared code repository&lt;/li&gt;\n&lt;li&gt;Establish a viable path to deployment in MongoDB’s production environment&lt;/li&gt;\n&lt;li&gt;Support a single-team execution model across MongoDB and customer engineers&lt;/li&gt;\n&lt;li&gt;Provide structured status updates and feedback loops to internal product stakeholders&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;During this phase, the team should adapt to the customer’s preferred engineering collaboration model where it supports execution. FDEs may lead or contribute to technical workstreams, while the Sr. Technical Program Manager drives coordination, planning, risk management, communication, escalation and execution tracking across the engagement.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;FDEs kick off this phase by running an onboarding session for the customer engineering team to ensure that local development setup is seamless. FDEs should then act as a leader or member of their engineering team to break out the work in the agents’ technical spec into tickets that are picked up by both the FDE and customer’s engineers.&lt;/p&gt;\n&lt;p&gt;One particular item to look out for are red tape and restrictions around cloud deployments. Since our customers are often regulated industries, we might need to work with VDIs and artifact repositories instead of our native Github tooling. It should be a priority to determine the path to deploying the agents once code complete.&lt;/p&gt;\n&lt;p&gt;Deliverables&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Customer onboarding session&lt;/li&gt;\n&lt;li&gt;Engagement status updates and feedback to the Product team about issues or unmet needs&lt;/li&gt;\n&lt;li&gt;Working agent deployed onto the product, integrated into the customer’s cloud infrastructure&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Readout and closeout of engagement&lt;/h3&gt;\n&lt;p&gt;Main goals&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Confirm long-term ownership of the agent&lt;/li&gt;\n&lt;li&gt;Ensure the customer has a roadmap for continued usage and development&lt;/li&gt;\n&lt;li&gt;Identify opportunities for future paid FDE engagement support where appropriate&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Once the agent fulfills the initial engagement requirements, the team should prepare an engagement readout that demonstrates what was built, what business value was created, and what path exists for continued investment and adoption.&lt;/p&gt;\n&lt;p&gt;By the end of this phase, the customer should be positioned to continue development of the agent independently and to provide ongoing product feedback to MongoDB. Where appropriate, MongoDB may continue to support the customer through additional phases of the project.&lt;/p&gt;\n&lt;p&gt;Deliverables&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Engagement readout deck&lt;/li&gt;\n&lt;li&gt;MongoDB-internal perspective on future FDE engagement opportunities&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Qualifications&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;5+ years of experience leading complex technical programs or engineering initiatives from initiation through delivery, including planning, execution, and cross-functional coordination in customer-facing enterprise software, platform, infrastructure, or applied AI environments.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Working fluency in modern AI application architectures, including LLM-based workflows, retrieval and grounding patterns, orchestration frameworks, and evaluation approaches, with the ability to partner credibly with technical teams and scope technical tradeoffs&lt;/li&gt;\n&lt;li&gt;Demonstrated success operating in ambiguous, fast-changing technical environments and driving programs forward through structured planning, proactive dependency management, and clear decision-making&lt;/li&gt;\n&lt;li&gt;Strong ability to partner across Engineering, Product, customer stakeholders, and delivery teams to align goals, scope, priorities, timelines, and execution across the full engagement lifecycle, from onboarding and access planning through technical design, deployment, executive readouts, and transition to long-term ownership&lt;/li&gt;\n&lt;li&gt;Fluency in English, spoken and written&lt;/li&gt;\n&lt;li&gt;Strong written and verbal communication skills, including the ability to produce clear documentation, maintain durable decision records, tailor communication to technical, executive, and customer audiences, and connect technical delivery decisions to customer business value, adoption, and long-term growth opportunities&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Preferred Qualifications:&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience in forward-deployed, embedded, or other high-touch customer delivery models&lt;/li&gt;\n&lt;li&gt;Experience working with regulated or operationally constrained customer environments, including enterprise access controls, non-standard development tooling, artifact repositories, and deployment governance&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;About MongoDB&lt;/p&gt;\n&lt;p&gt;MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure.&lt;/p&gt;\n&lt;p&gt;With offices worldwide and over 67,000 customers, including 75% of the Fortune 100 and AI-native startups, relying on MongoDB for their most important applications, we’re powering the next era of software.&lt;/p&gt;\n&lt;p&gt;Our compass at MongoDB is our &lt;a href=&quot;https://www.mongodb.com/company&quot;&gt;Leadership Commitment,&lt;/a&gt; guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. &lt;a href=&quot;https://www.mongodb.com/company/blog/culture/employee-benefits-that-make-a-difference-at-mongodb&quot;&gt;From employee affinity groups, to fertility assistance and a generous parental leave policy&lt;/a&gt;, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys.&lt;a href=&quot;https://www.mongodb.com/blog/channel/culture&quot;&gt; Learn more about what it’s like to work at MongoDB&lt;/a&gt;, and help us make an impact on the world!&lt;/p&gt;\n&lt;p&gt;MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.&lt;/p&gt;\n&lt;p&gt;MongoDB is an equal opportunities employer.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Req ID: 2273494834&lt;/p&gt;",
+  "departments": [
+    {
+      "id": 345527,
+      "name": "Magenta",
+      "child_ids": [],
+      "parent_id": 370707
+    }
+  ],
+  "offices": [
+    {
+      "id": 3960,
+      "name": "New York City",
+      "location": "New York, NY, United States",
+      "child_ids": [],
+      "parent_id": 23657
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": null
+}

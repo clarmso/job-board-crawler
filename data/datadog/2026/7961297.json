@@ -1,0 +1,100 @@
+{
+  "absolute_url": "https://careers.datadoghq.com/detail/7961297/?gh_jid=7961297",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 3456670,
+  "location": {
+    "name": "New York, New York, USA"
+  },
+  "metadata": [
+    {
+      "id": 33310,
+      "name": "Time Type",
+      "value": "Full time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 166208,
+      "name": "Area - Engineering",
+      "value": "Product Management",
+      "value_type": "single_select"
+    },
+    {
+      "id": 498252,
+      "name": "Cost Center",
+      "value": "Engineering - Product Management",
+      "value_type": "single_select"
+    },
+    {
+      "id": 516515,
+      "name": "Geography",
+      "value": "North America",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9593635,
+      "name": "Early Career Time Type",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 29446322,
+      "name": "Pay Transparency Range",
+      "value": {
+        "unit": "USD",
+        "max_value": "195000.0",
+        "min_value": "156000.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 31273219,
+      "name": "Does this role require access to ITAR-controlled data?",
+      "value": "No",
+      "value_type": "single_select"
+    },
+    {
+      "id": 58619948,
+      "name": "IC or MG",
+      "value": "IC",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 7961297,
+  "updated_at": "2026-07-28T05:41:06-04:00",
+  "requisition_id": "R19281",
+  "title": "Partner Technology Solutions Engineer",
+  "company_name": "Datadog",
+  "first_published": "2026-05-27T16:26:28-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;h2 data-local-id=&quot;82a212d3910a&quot; data-renderer-start-pos=&quot;40&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;The Team&lt;/strong&gt;&lt;/h2&gt;\n&lt;p data-renderer-start-pos=&quot;50&quot; data-local-id=&quot;2f8e7856c8e7&quot;&gt;We are Datadog’s in-house product experts. The Technical Solutions team enables Datadog’s worldwide growth by educating potential partners and ensuring that our integration ecosystem is high-performing, secure, and valuable.&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;276&quot; data-local-id=&quot;6bf4ed8d5c61&quot;&gt;Partner Technology Solutions Engineers (TSEs) are the technical bridge between Datadog and our third-party developer community. We act as consultants, helping partners build world-class monitoring solutions on the &lt;strong data-renderer-mark=&quot;true&quot;&gt;Integration Developer Platform (IDP)&lt;/strong&gt;.&lt;br&gt;&lt;br&gt;&lt;/p&gt;\n&lt;h2 data-local-id=&quot;8e0695552861&quot; data-renderer-start-pos=&quot;529&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;The Opportunity&lt;/strong&gt;&lt;/h2&gt;\n&lt;p data-renderer-start-pos=&quot;546&quot; data-local-id=&quot;e9f74cb2a624&quot;&gt;Datadog is looking for a Partner Technology Solutions Engineer to join our fast-paced team. You will be the primary technical contact for our partners, guiding them through the entire integration lifecycle—from initial architectural design to final publication on the Datadog Marketplace.&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;836&quot; data-local-id=&quot;1145185b1967&quot;&gt;This is a unique role that combines deep technical troubleshooting with high-level consulting and platform advocacy. You will work directly with external developers and see your contributions immediately reflected in the Datadog ecosystem.&lt;br&gt;&lt;br&gt;&lt;/p&gt;\n&lt;h2 data-local-id=&quot;89772c1f037a&quot; data-renderer-start-pos=&quot;1077&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;You Will&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul class=&quot;ak-ul&quot; data-local-id=&quot;cb56c50a4984&quot; data-indent-level=&quot;1&quot;&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;1089&quot; data-local-id=&quot;cdc3e2a91d9c&quot;&gt;Act as the technical lead for partners, advising on OAuth flows, log pipelines, OpenTelemetry, and agent-based vs. API-based configurations&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;1232&quot; data-local-id=&quot;e1c21d46466e&quot;&gt;Perform architectural assessments and deep-dive code reviews for partner integrations in the integrations-extras and marketplace repositories, ensuring they meet our Quality Rubric&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;1416&quot; data-local-id=&quot;70e96cbc9595&quot;&gt;Solve complex technical challenges for partners via Zendesk, Slack, and dedicated technical consultations&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;1525&quot; data-local-id=&quot;8e5f860eed78&quot;&gt;Identify friction points in our Integration Developer Platform (IDP) and partner with our internal Product and Engineering teams to build a better developer experience&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;1696&quot; data-local-id=&quot;617aca1a40b7&quot;&gt;Maintain public-facing developer documentation and internal tracking systems (&lt;span class=&quot;acronym-highlight&quot;&gt;JIRA&lt;/span&gt;) to ensure transparency and scale&lt;br&gt;&lt;br&gt;&lt;/p&gt;\n&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2 data-local-id=&quot;0147821b87a2&quot; data-renderer-start-pos=&quot;1816&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;You Are&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul class=&quot;ak-ul&quot; data-local-id=&quot;11427f14c796&quot; data-indent-level=&quot;1&quot;&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;1827&quot; data-local-id=&quot;e7878e76ccbd&quot;&gt;A technical expert with 3+ years of experience in a technical role (Support Engineering, Solutions Architecture, or Software Development)&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;1968&quot; data-local-id=&quot;0c33dc73d906&quot;&gt;Proficient in at least one language (Python or Go preferred)&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;2032&quot; data-local-id=&quot;d1a31e3cfac2&quot;&gt;An observability enthusiast who understands monitoring fundamentals (Metrics, Logs, Traces) and modern standards like OpenTelemetry&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;2167&quot; data-local-id=&quot;ce0b4430bbe0&quot;&gt;A natural consultant with the ability to explain complex technical concepts to developers of varying skill levels&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;2284&quot; data-local-id=&quot;38a144cd8719&quot;&gt;A tinkerer who is comfortable working with APIs, Linux environments, and cloud infrastructure&lt;/p&gt;\n&lt;/li&gt;\n&lt;/ul&gt;\n&lt;ul&gt;\n&lt;li&gt;Someone who thrives in a hybrid work environment and values pragmatism, honesty, and simplicity&lt;br&gt;\n&lt;h3&gt;&lt;strong&gt;Bonus&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;&amp;nbsp;Demonstrated ability to use AI coding tools in day-to-day workflows and validate, critique, and refine AI-generated output.&lt;/li&gt;\n&lt;li&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;&amp;nbsp;&lt;/strong&gt;You’re motivated to push the boundaries of how AI can improve software engineering best practices and contribute to building AI-enabled products.&lt;br&gt;&lt;br&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2 data-local-id=&quot;ff4e6c3777e0&quot; data-renderer-start-pos=&quot;2480&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Why You Should Apply&lt;br&gt;&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul class=&quot;ak-ul&quot; data-local-id=&quot;f79fe6310d6c&quot; data-indent-level=&quot;1&quot;&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;2504&quot; data-local-id=&quot;4fe4ca12e0ef&quot;&gt;Generous and professional development and equipment budget&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;2566&quot; data-local-id=&quot;3cb6dfb7c9cd&quot;&gt;Best-in-class, high-growth technical culture&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;2614&quot; data-local-id=&quot;20650748f398&quot;&gt;Impactful role at the center of Datadog’s growth&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;2666&quot; data-local-id=&quot;38d506a4796d&quot;&gt;Inclusive workplace that values diverse backgrounds and experiences&lt;/p&gt;\n&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p style=&quot;color: white;&quot;&gt;#LI-Hybrid&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Datadog offers a competitive salary and equity package, and may include variable compensation. Actual compensation is based on factors such as the candidate&#39;s skills, qualifications, and experience. In addition, Datadog offers a wide range of best in class, comprehensive and inclusive employee benefits for this role including healthcare, dental, parental planning, and mental health benefits, a 401(k) plan and match, paid time off, fitness reimbursements, and a discounted employee stock purchase plan.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;The reasonably estimated yearly salary for this role at Datadog is:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$156,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$195,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;hr&gt;\n&lt;p&gt;&lt;strong&gt;About Datadog:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Datadog is the leading observability and security platform for the AI era, providing businesses with unified visibility across the technology stack to manage complexity at scale. It brings applications, infrastructure, data, models, and security into one place, using AI to detect and resolve issues before they impact customers. Trusted globally by Fortune 500 companies and high-growth AI leaders, Datadog enables businesses to move faster with clarity and confidence. Learn more about #DatadogLife on &lt;a href=&quot;https://www.instagram.com/datadoghq/?hl=en&quot; target=&quot;_blank&quot;&gt;Instagram&lt;/a&gt;, &lt;a href=&quot;https://www.linkedin.com/company/datadog&quot; target=&quot;_blank&quot;&gt;LinkedIn,&lt;/a&gt; and &lt;a href=&quot;https://learn.datadoghq.com/&quot; target=&quot;_blank&quot;&gt;Datadog Learning Center. &lt;/a&gt;&lt;/p&gt;\n&lt;hr&gt;\n&lt;p data-renderer-start-pos=&quot;215&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Equal Opportunity at Datadog:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Datadog is proud to offer &lt;a href=&quot;https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf&quot; target=&quot;_blank&quot;&gt;equal employment opportunity&lt;/a&gt; to everyone regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, veteran status, and other characteristics protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. Here are our &lt;a href=&quot;https://www.datadoghq.com/legal/candidate-legal-notices/&quot; target=&quot;_blank&quot;&gt;Candidate Legal Notices&lt;/a&gt; for your reference.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Datadog endeavors to make our Careers Page accessible to all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please complete &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSeoJeduEZ2NdZF_65uZmWUrCM-zee7yADXX1s6Xr9zAGq8iKA/viewform&quot; target=&quot;_blank&quot;&gt;this form&lt;/a&gt;. This form is for accommodation requests only and cannot be used to inquire about the status of applications.&amp;nbsp;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;662&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Privacy and AI Guidelines:&lt;/strong&gt;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;662&quot;&gt;Any information you submit to Datadog as part of your application will be processed in accordance with Datadog’s&amp;nbsp;&lt;a class=&quot;c-link&quot; href=&quot;https://www.datadoghq.com/legal/applicant-candidate-privacy/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.datadoghq.com/legal/applicant-candidate-privacy/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Applicant and Candidate Privacy Notice&lt;/a&gt;. For information on our AI policy, please visit &lt;a href=&quot;https://www.datadoghq.com/legal/interviewing-at-datadog-ai-guidelines/&quot; target=&quot;_blank&quot;&gt;Interviewing at Datadog AI Guidelines&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 72255,
+      "name": "Product Management",
+      "child_ids": [],
+      "parent_id": 9022
+    }
+  ],
+  "offices": [
+    {
+      "id": 76731,
+      "name": "Remote - Florida",
+      "location": "Florida, United States",
+      "child_ids": [],
+      "parent_id": 63588
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

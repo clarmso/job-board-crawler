@@ -43,7 +43,7 @@
       "id": 4137836,
       "name": "Working Model Eligibility",
       "value": [
-        "1-In Office"
+        "2-Flexible"
       ],
       "value_type": "multi_select"
     },
@@ -84,7 +84,11 @@
     {
       "id": 5525816,
       "name": "Other Large Market Budgeted Salary",
-      "value": null,
+      "value": {
+        "unit": "USD",
+        "max_value": "162000.0",
+        "min_value": "113000.0"
+      },
       "value_type": "currency_range"
     },
     {
@@ -101,9 +105,9 @@
       "id": 40497768,
       "name": "Job Post Range (Canada)",
       "value": {
-        "unit": "CAD",
-        "max_value": "170000.0",
-        "min_value": "122000.0"
+        "unit": "USD",
+        "max_value": "0.0",
+        "min_value": "0.0"
       },
       "value_type": "currency_range"
     },
@@ -121,7 +125,7 @@
     }
   ],
   "id": 8010102,
-  "updated_at": "2026-07-21T10:26:00-04:00",
+  "updated_at": "2026-07-29T15:40:14-04:00",
   "requisition_id": "2273473046",
   "title": "Software Engineer 3, Query Integration",
   "company_name": "MongoDB",

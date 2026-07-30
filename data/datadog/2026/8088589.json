@@ -1,0 +1,96 @@
+{
+  "absolute_url": "https://careers.datadoghq.com/detail/8088589/?gh_jid=8088589",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3501154,
+  "location": {
+    "name": "France, Remote; Germany, Remote; Italy, Remote; Spain, Remote"
+  },
+  "metadata": [
+    {
+      "id": 33310,
+      "name": "Time Type",
+      "value": "Full time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 166208,
+      "name": "Area - Engineering",
+      "value": "Library",
+      "value_type": "single_select"
+    },
+    {
+      "id": 498252,
+      "name": "Cost Center",
+      "value": "Engineering - Dev Eng",
+      "value_type": "single_select"
+    },
+    {
+      "id": 516515,
+      "name": "Geography",
+      "value": "EMEA",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9593635,
+      "name": "Early Career Time Type",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 29446322,
+      "name": "Pay Transparency Range",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 31273219,
+      "name": "Does this role require access to ITAR-controlled data?",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 58619948,
+      "name": "IC or MG",
+      "value": "IC",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8088589,
+  "updated_at": "2026-07-29T04:40:18-04:00",
+  "requisition_id": "R20109",
+  "title": "Senior Software Engineer - Security Libraries",
+  "company_name": "Datadog",
+  "first_published": "2026-07-27T10:39:53-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;h2&gt;About Datadog&lt;/h2&gt;\n&lt;p&gt;We&#39;re on a mission to build the best platform in the world for engineers to understand and scale their systems, applications, and teams. We operate at high scale with trillions of data points per day, enabling seamless collaboration and problem-solving among Dev, Ops, and Security teams for tens of thousands of companies globally. Our engineering culture values pragmatism, honesty, and simplicity to solve hard problems the right way.&lt;/p&gt;\n&lt;h2&gt;The Team&lt;/h2&gt;\n&lt;p&gt;The Datadog Security Libraries team owns the customer-side integrations behind our run-time security products &lt;a href=&quot;https://www.datadoghq.com/product/app-and-api-protection/&quot;&gt;App &amp;amp; API Protection&lt;/a&gt;, &lt;a href=&quot;https://www.datadoghq.com/product/workload-protection/&quot;&gt;Workload Protection&lt;/a&gt;, and &lt;a href=&quot;https://www.datadoghq.com/product/code-security/&quot;&gt;Code Security&lt;/a&gt;. Our libraries let customers automatically manage application security risk with continuous, real-time monitoring of vulnerabilities and threats against their web applications, serverless applications, and APIs, in production. Automatically integrated with &lt;a href=&quot;https://docs.datadoghq.com/tracing/&quot;&gt;Application Performance Monitoring&lt;/a&gt; (APM) distributed tracing and code-level context, our software empowers development, operations, and security teams to build and run secure applications.&lt;/p&gt;\n&lt;p&gt;As a polyglot team we ship and maintain the security capabilities of Datadog&#39;s tracing libraries across &lt;a href=&quot;https://github.com/DataDog/dd-trace-dotnet&quot;&gt;&lt;strong&gt;.NET&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;, &lt;/strong&gt;&lt;a href=&quot;https://github.com/DataDog/dd-trace-java&quot;&gt;&lt;strong&gt;Java&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;, &lt;/strong&gt;&lt;a href=&quot;https://github.com/DataDog/dd-trace-go&quot;&gt;&lt;strong&gt;Go&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;, &lt;/strong&gt;&lt;a href=&quot;https://github.com/DataDog/dd-trace-js&quot;&gt;&lt;strong&gt;Node.js&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;, &lt;/strong&gt;&lt;a href=&quot;https://github.com/DataDog/dd-trace-py&quot;&gt;&lt;strong&gt;Python&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;, &lt;/strong&gt;&lt;a href=&quot;https://github.com/DataDog/dd-trace-ruby&quot;&gt;&lt;strong&gt;Ruby&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;, and &lt;/strong&gt;&lt;a href=&quot;https://github.com/DataDog/dd-trace-php&quot;&gt;&lt;strong&gt;PHP&lt;/strong&gt;&lt;/a&gt;, on top of a shared C++ core and a set of HTTP proxy integrations (primarily Envoy, NGINX, and HAProxy). Our code runs inside thousands of production applications around the world. Recent work spans exploit prevention (RASP) and WAF detections, API Security, code security (IAST and SCA), and AI-assisted (&quot;agentic&quot;) onboarding, always measured by real product outcomes and operational telemetry.&lt;/p&gt;\n&lt;h2&gt;The Opportunity&lt;/h2&gt;\n&lt;p&gt;We&#39;re looking for a &lt;strong&gt;senior, polyglot engineer&lt;/strong&gt; to contribute across several of our security libraries, with &lt;strong&gt;.NET or Java&lt;/strong&gt; expertise. You&#39;ll design and build security integrations and detection features, take them from prototype to production-hardened, and own them operationally as they instrument thousands of applications.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;As a senior engineer within a product team, we also expect a strong sense of &lt;strong&gt;product engineering&lt;/strong&gt;: you connect the libraries you build to customer adoption and security value, and you help decide what&#39;s worth building.&lt;/p&gt;\n&lt;h2&gt;What You&#39;ll Do&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Design, build, and own security integrations and detections (WAF, RASP/exploit prevention, API Security, IAST, SCA) across multiple libraries, with &lt;strong&gt;.NET and/or Java as your primary focus&lt;/strong&gt;.&lt;/li&gt;\n&lt;li&gt;Take projects from prototype to deployed, correct, operable, and maintainable, writing code that safely instruments thousands of applications in production.&lt;/li&gt;\n&lt;li&gt;Own your systems operationally: monitor production telemetry (e.g., WAF/RASP timeouts, performance and cost), debug challenging cross-system issues, and drive down customer-facing problems.&lt;/li&gt;\n&lt;li&gt;Shape the roadmap: help define the OKRs for the systems you own, break features into components other engineers can build in parallel, and drive designs and RFCs to alignment across our security library teams.&lt;/li&gt;\n&lt;li&gt;Partner with product management, backend, and frontend teams to turn product ideas,&amp;nbsp; new detections, agentic onboarding, API security,&amp;nbsp; into capabilities customers actually adopt.&lt;/li&gt;\n&lt;li&gt;Mentor teammates and act as a force multiplier: raise the bar on code quality and testing, and make the whole team more effective than you&#39;d be on your own.&lt;/li&gt;\n&lt;li&gt;Represent Datadog in the relevant language and security communities.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;What We&#39;re Looking For&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;You are an &lt;strong&gt;expert in at least one of .NET (C#) or Java&lt;/strong&gt;, and you&#39;re a &lt;strong&gt;polyglot&lt;/strong&gt; who can contribute idiomatically across other libraries when needed with the support of their main maintainers. For each language you use, you write clean, correct, well-tested, performant, idiomatic code.&lt;/li&gt;\n&lt;li&gt;You have &lt;strong&gt;strong software-engineering fundamentals&lt;/strong&gt;: you consistently ship modular, maintainable code with little guidance, and you leave code in substantially better shape than you found it.&lt;/li&gt;\n&lt;li&gt;You have a &lt;strong&gt;product-engineering mindset&lt;/strong&gt;: you care about user experience and product outcomes as much as the code, weigh technical trade-offs against customer impact, and help decide what to build,&amp;nbsp; not just how.&lt;/li&gt;\n&lt;li&gt;You have experience &lt;strong&gt;building and shipping libraries or SDKs&lt;/strong&gt; consumed by other developers, and you understand packaging, versioning, and backward compatibility.&lt;/li&gt;\n&lt;li&gt;You care about &lt;strong&gt;performance and cost&lt;/strong&gt;, in both time and space, and you have experience measuring and optimizing to that end.&lt;/li&gt;\n&lt;li&gt;You are &lt;strong&gt;operationally mature&lt;/strong&gt;: you take full accountability for what you ship in production, even when others work on it.&lt;/li&gt;\n&lt;li&gt;You &lt;strong&gt;communicate clearly&lt;/strong&gt; in writing and in person,&amp;nbsp; you drive alignment through RFCs and informal collaboration, give bad news early, and give constructive, empathetic feedback to peers.&lt;/li&gt;\n&lt;li&gt;You have a BS/MS/PhD in a STEM field or equivalent experience.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;Bonus Points&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Deep expertise across &lt;strong&gt;.NET or Java&lt;/strong&gt;, including familiarity with &lt;strong&gt;language runtime internals and instrumentation&lt;/strong&gt;, the JVM, bytecode instrumentation and Java agents; or the CLR/JIT/GC, IL rewriting, and DiagnosticSource/EventPipe in .NET.&lt;/li&gt;\n&lt;li&gt;A track record of shipping across several of our languages (Go, Node.js, Python, Ruby, PHP, C/C++).&lt;/li&gt;\n&lt;li&gt;An &lt;strong&gt;application security&lt;/strong&gt; background: WAF, RASP, SAST/IAST/SCA, threat detection, or secure-by-design practices.&lt;/li&gt;\n&lt;li&gt;Experience with &lt;strong&gt;auto-instrumentation, APM/distributed tracing, or code telemetry and introspection&lt;/strong&gt;.&lt;/li&gt;\n&lt;li&gt;A history of &lt;strong&gt;maintaining open-source projects&lt;/strong&gt;, with public projects or published packages (e.g., NuGet, Maven).&lt;/li&gt;\n&lt;li&gt;Experience with &lt;strong&gt;AI-assisted developer tooling or agentic workflows&lt;/strong&gt;.&lt;/li&gt;\n&lt;li&gt;A developer-experience or customer-support sensibility.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p style=&quot;color: white;&quot;&gt;#LI-Remote&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;hr&gt;\n&lt;p&gt;&lt;strong&gt;About Datadog:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Datadog is the leading observability and security platform for the AI era, providing businesses with unified visibility across the technology stack to manage complexity at scale. It brings applications, infrastructure, data, models, and security into one place, using AI to detect and resolve issues before they impact customers. Trusted globally by Fortune 500 companies and high-growth AI leaders, Datadog enables businesses to move faster with clarity and confidence. Learn more about #DatadogLife on &lt;a href=&quot;https://www.instagram.com/datadoghq/?hl=en&quot; target=&quot;_blank&quot;&gt;Instagram&lt;/a&gt;, &lt;a href=&quot;https://www.linkedin.com/company/datadog&quot; target=&quot;_blank&quot;&gt;LinkedIn,&lt;/a&gt; and &lt;a href=&quot;https://learn.datadoghq.com/&quot; target=&quot;_blank&quot;&gt;Datadog Learning Center. &lt;/a&gt;&lt;/p&gt;\n&lt;hr&gt;\n&lt;p data-renderer-start-pos=&quot;215&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Equal Opportunity at Datadog:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Datadog is proud to offer &lt;a href=&quot;https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf&quot; target=&quot;_blank&quot;&gt;equal employment opportunity&lt;/a&gt; to everyone regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, veteran status, and other characteristics protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. Here are our &lt;a href=&quot;https://www.datadoghq.com/legal/candidate-legal-notices/&quot; target=&quot;_blank&quot;&gt;Candidate Legal Notices&lt;/a&gt; for your reference.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Datadog endeavors to make our Careers Page accessible to all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please complete &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSeoJeduEZ2NdZF_65uZmWUrCM-zee7yADXX1s6Xr9zAGq8iKA/viewform&quot; target=&quot;_blank&quot;&gt;this form&lt;/a&gt;. This form is for accommodation requests only and cannot be used to inquire about the status of applications.&amp;nbsp;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;662&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Privacy and AI Guidelines:&lt;/strong&gt;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;662&quot;&gt;Any information you submit to Datadog as part of your application will be processed in accordance with Datadog’s&amp;nbsp;&lt;a class=&quot;c-link&quot; href=&quot;https://www.datadoghq.com/legal/applicant-candidate-privacy/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.datadoghq.com/legal/applicant-candidate-privacy/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Applicant and Candidate Privacy Notice&lt;/a&gt;. For information on our AI policy, please visit &lt;a href=&quot;https://www.datadoghq.com/legal/interviewing-at-datadog-ai-guidelines/&quot; target=&quot;_blank&quot;&gt;Interviewing at Datadog AI Guidelines&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 72253,
+      "name": "Dev Eng",
+      "child_ids": [],
+      "parent_id": 9022
+    }
+  ],
+  "offices": [
+    {
+      "id": 8604,
+      "name": "Paris",
+      "location": "Paris, Paris, France",
+      "child_ids": [],
+      "parent_id": 78094
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

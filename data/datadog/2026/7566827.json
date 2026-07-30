@@ -1,0 +1,166 @@
+{
+  "absolute_url": "https://careers.datadoghq.com/detail/7566827/?gh_jid=7566827",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3200637,
+  "location": {
+    "name": "Madrid, Spain"
+  },
+  "metadata": [
+    {
+      "id": 33310,
+      "name": "Time Type",
+      "value": "Full time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 166208,
+      "name": "Area - Engineering",
+      "value": "AI Engineering",
+      "value_type": "single_select"
+    },
+    {
+      "id": 498252,
+      "name": "Cost Center",
+      "value": "Engineering - Dev Eng",
+      "value_type": "single_select"
+    },
+    {
+      "id": 516515,
+      "name": "Geography",
+      "value": "EMEA",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9593635,
+      "name": "Early Career Time Type",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 29446322,
+      "name": "Pay Transparency Range",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 31273219,
+      "name": "Does this role require access to ITAR-controlled data?",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 58619948,
+      "name": "IC or MG",
+      "value": "IC",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 7566827,
+  "updated_at": "2026-07-28T05:41:06-04:00",
+  "requisition_id": "R14768",
+  "title": "Senior Software Engineer (AI)",
+  "company_name": "Datadog",
+  "first_published": "2026-01-27T07:44:42-05:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;At Datadog, we leverage AI across our observability platform to improve monitoring, speed up incident resolution, and ensure data reliability for cloud applications.&lt;/p&gt;\n&lt;p&gt;Datadog’s &lt;a href=&quot;https://docs.datadoghq.com/deployment_gates/&quot;&gt;Deployment Gates&lt;/a&gt; team builds customer-facing systems that decide whether software should ship to production. Deployment Gates sit directly in customers’ CI/CD pipelines and use observability data to answer one of the hardest questions in software delivery:&lt;br&gt;Given everything we know right now, is this deployment safe to proceed?&lt;em&gt;&lt;br&gt;&lt;/em&gt;&lt;em&gt;&lt;br&gt;&lt;/em&gt;In this role, you will:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;\n&lt;p class=&quot;p1&quot;&gt;Work on an analysis service that prevents incidents by detecting faulty software changes in production before they reach clients&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;Lead the design of progressive deployment automation, starting with zero-setup, conservative AI rules and evolving toward adaptive gates that learn from incidents and organizational patterns&lt;/li&gt;\n&lt;li&gt;Design the foundation for autonomous remediation, connecting what changed in code to what broke in production, from blocking and rolling back unsafe deployments to proposing fixes and enforcing policies&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;This is a highly product‑minded engineering role: you’ll work from problem discovery and UX all the way to reliable, scalable production systems.&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;At Datadog, we place value in our office culture - the relationships that it builds, the creativity it brings to the table, and the collaboration of being together. We operate as a hybrid workplace to ensure our employees can create a work-life harmony that best fits them.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What you’ll do:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Build AI-driven deployment gates: Design and ship decision systems that evaluate customer deployments using CI/CD context and Datadog telemetry, producing safe, explainable allow/block outcomes&lt;/li&gt;\n&lt;li&gt;Own evals and rollout: Define precision, recall, and trust metrics; build offline and online evals; validate changes in shadow mode; and safely promote improvements to enforcement&lt;/li&gt;\n&lt;li&gt;Design for robustness and safety: Implement conservative defaults, guardrails, fallbacks, and human-in-the-loop paths so gates behave predictably under noisy or incomplete data&lt;/li&gt;\n&lt;li&gt;Partner closely with Product: Work hand-in-hand with the Product Manager to translate customer problems, adoption signals, and roadmap goals into concrete technical decisions and iterations&lt;/li&gt;\n&lt;li&gt;Integrate across the Datadog platform: Partner with internal AI teams building the Faulty Deployment Detection pipeline, as well as teams working on LLMs and AI agents&lt;/li&gt;\n&lt;li&gt;Own production systems: Build and operate reliable backend services that run in the critical path of customer deployments, and be on-call for those services&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Who you are:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;A Product‑minded engineer who ships AI to production&lt;/li&gt;\n&lt;li&gt;You have 5+ years experience with backend systems and microservices performance: tracing, latency breakdowns, concurrency, and resiliency patterns&lt;/li&gt;\n&lt;li&gt;You are proficient in a modern programming language; strong API/service design; production ops (monitoring, alerting, on‑call rotation)&lt;/li&gt;\n&lt;li&gt;You have proven experience delivering software based on LLM/agent features to production&lt;/li&gt;\n&lt;li class=&quot;p1&quot;&gt;You are comfortable owning user journeys, iterating from prototype → alpha → GA, and measuring impact with clear product metrics&lt;/li&gt;\n&lt;li&gt;An End-to-end AI implementation owner: You understands the end-to-end LLM product lifecycle&lt;/li&gt;\n&lt;li&gt;Fluent with offline/online evals for AI systems&lt;/li&gt;\n&lt;li&gt;You have demonstrated ability to use AI coding tools in day-to-day workflows and validate, critique, and refine AI-generated output&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Bonus Point:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience with Continuous Delivery tools (i.e. ArgoCD / Argo Rollouts, Spinnaker, Octopus Deploy)&lt;/li&gt;\n&lt;li&gt;Exposure to planning/agent frameworks, tool‑use orchestration, RAG, and retrieval/indexing for observability data&lt;/li&gt;\n&lt;li&gt;You’re motivated to push the boundaries of how AI can improve software engineering best practices and contribute to building AI-enabled products&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;em&gt;Datadog values people from all walks of life. We understand not everyone will meet all the above qualifications on day one. That&#39;s okay. If you’re passionate about technology and want to grow your skills, we encourage you to apply.&amp;nbsp;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Benefits and Growth:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;New hire stock equity (RSUs) and employee stock purchase plan (ESPP)&lt;/li&gt;\n&lt;li&gt;Continuous professional development, product training, and career pathing&lt;/li&gt;\n&lt;li&gt;Intradepartmental mentor and buddy program for in-house networking&lt;/li&gt;\n&lt;li&gt;An inclusive company culture, ability to join our Community Guilds (Datadog employee resource groups)&lt;/li&gt;\n&lt;li&gt;Access to Inclusion Talks, our Internal panel discussions&lt;/li&gt;\n&lt;li&gt;Free, global mental health benefits for employees and dependents age 6+&lt;/li&gt;\n&lt;li&gt;Competitive global benefits&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;br&gt;&lt;em&gt;Benefits and Growth listed above may vary based on the country of your employment and the nature of your employment with Datadog.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p style=&quot;color: white;&quot;&gt;#LI-Hybrid&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;hr&gt;\n&lt;p&gt;&lt;strong&gt;About Datadog:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Datadog is the leading observability and security platform for the AI era, providing businesses with unified visibility across the technology stack to manage complexity at scale. It brings applications, infrastructure, data, models, and security into one place, using AI to detect and resolve issues before they impact customers. Trusted globally by Fortune 500 companies and high-growth AI leaders, Datadog enables businesses to move faster with clarity and confidence. Learn more about #DatadogLife on &lt;a href=&quot;https://www.instagram.com/datadoghq/?hl=en&quot; target=&quot;_blank&quot;&gt;Instagram&lt;/a&gt;, &lt;a href=&quot;https://www.linkedin.com/company/datadog&quot; target=&quot;_blank&quot;&gt;LinkedIn,&lt;/a&gt; and &lt;a href=&quot;https://learn.datadoghq.com/&quot; target=&quot;_blank&quot;&gt;Datadog Learning Center. &lt;/a&gt;&lt;/p&gt;\n&lt;hr&gt;\n&lt;p data-renderer-start-pos=&quot;215&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Equal Opportunity at Datadog:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Datadog is proud to offer &lt;a href=&quot;https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf&quot; target=&quot;_blank&quot;&gt;equal employment opportunity&lt;/a&gt; to everyone regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, veteran status, and other characteristics protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. Here are our &lt;a href=&quot;https://www.datadoghq.com/legal/candidate-legal-notices/&quot; target=&quot;_blank&quot;&gt;Candidate Legal Notices&lt;/a&gt; for your reference.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Datadog endeavors to make our Careers Page accessible to all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please complete &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSeoJeduEZ2NdZF_65uZmWUrCM-zee7yADXX1s6Xr9zAGq8iKA/viewform&quot; target=&quot;_blank&quot;&gt;this form&lt;/a&gt;. This form is for accommodation requests only and cannot be used to inquire about the status of applications.&amp;nbsp;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;662&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Privacy and AI Guidelines:&lt;/strong&gt;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;662&quot;&gt;Any information you submit to Datadog as part of your application will be processed in accordance with Datadog’s&amp;nbsp;&lt;a class=&quot;c-link&quot; href=&quot;https://www.datadoghq.com/legal/applicant-candidate-privacy/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.datadoghq.com/legal/applicant-candidate-privacy/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Applicant and Candidate Privacy Notice&lt;/a&gt;. For information on our AI policy, please visit &lt;a href=&quot;https://www.datadoghq.com/legal/interviewing-at-datadog-ai-guidelines/&quot; target=&quot;_blank&quot;&gt;Interviewing at Datadog AI Guidelines&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 72253,
+      "name": "Dev Eng",
+      "child_ids": [],
+      "parent_id": 9022
+    }
+  ],
+  "offices": [
+    {
+      "id": 25185,
+      "name": "Dublin",
+      "location": "Dublin, Ireland",
+      "child_ids": [],
+      "parent_id": 78095
+    },
+    {
+      "id": 85005,
+      "name": "Lisbon",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 78106
+    },
+    {
+      "id": 76798,
+      "name": "Lyon",
+      "location": "Lyon, Rhône, France",
+      "child_ids": [],
+      "parent_id": 78094
+    },
+    {
+      "id": 74767,
+      "name": "Madrid",
+      "location": "Madrid, Madrid, Spain",
+      "child_ids": [],
+      "parent_id": 74766
+    },
+    {
+      "id": 8604,
+      "name": "Paris",
+      "location": "Paris, Paris, France",
+      "child_ids": [],
+      "parent_id": 78094
+    },
+    {
+      "id": 186706,
+      "name": "Paris 27 RdC",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 78094
+    },
+    {
+      "id": 237198,
+      "name": "Paris 33RLF",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 78094
+    },
+    {
+      "id": 76732,
+      "name": "Remote - France",
+      "location": "France",
+      "child_ids": [],
+      "parent_id": 78094
+    },
+    {
+      "id": 76766,
+      "name": "Remote - Germany",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 63631
+    },
+    {
+      "id": 76793,
+      "name": "Remote - Portugal",
+      "location": "Portugal",
+      "child_ids": [],
+      "parent_id": 78106
+    },
+    {
+      "id": 82342,
+      "name": "Tel Aviv",
+      "location": "Tel Aviv District, Israel",
+      "child_ids": [],
+      "parent_id": 78555
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}
