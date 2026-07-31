@@ -1,0 +1,109 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/siei/jobs/5621432004",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": true,
+      "requires_processing_consent": false,
+      "requires_retention_consent": true,
+      "retention_period": 730,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "education": "education_optional",
+  "internal_job_id": 4967693004,
+  "location": {
+    "name": "Japan, Tokyo"
+  },
+  "metadata": [
+    {
+      "id": 4367803004,
+      "name": "Cost Center",
+      "value": "JPZ1AG0000 FSEE-G",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167524004,
+      "name": "Career Page - Office Location",
+      "value": "Japan, Tokyo",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167525004,
+      "name": "Career Page - Department",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 9377282004,
+      "name": "Career Page - Sub Department",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 20089613004,
+      "name": "Career Page - Studio Project",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 4395289004,
+      "name": "Worker Type",
+      "value": "Employee",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4404049004,
+      "name": "Country",
+      "value": "Japan",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9262269004,
+      "name": "Job Family",
+      "value": "Software Development Engineering",
+      "value_type": "short_text"
+    },
+    {
+      "id": 9262270004,
+      "name": "Job Family Group",
+      "value": "Engineering",
+      "value_type": "short_text"
+    },
+    {
+      "id": 21724118004,
+      "name": "Bungie Geo Pay",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 5621432004,
+  "updated_at": "2026-07-09T18:53:43-04:00",
+  "requisition_id": "200306",
+  "title": "PlayStation向け低レイヤーソフトウェアエンジニア",
+  "company_name": "Sony Interactive Entertainment Inc.",
+  "first_published": "2025-08-18T07:09:52-04:00",
+  "language": "ja",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Why PlayStation?&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;PlayStation isn’t just the Best Place to Play — it’s also the Best Place to Work. Today, we’re recognized as a global leader in entertainment producing The PlayStation family of products and services including PlayStation®5, PlayStation®4, PlayStation®VR, PlayStation®Plus, acclaimed PlayStation software titles from PlayStation Studios, and more.&lt;/p&gt;\n&lt;p&gt;PlayStation also strives to create an inclusive environment that empowers employees and embraces diversity. We welcome and encourage everyone who has a passion and curiosity for innovation, technology, and play to explore our open positions and join our growing global team.&lt;/p&gt;\n&lt;p&gt;The PlayStation brand falls under Sony Interactive Entertainment, a wholly-owned subsidiary of Sony Group Corporation.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;ewa-rteLine&quot;&gt;\n&lt;div class=&quot;ewa-rteLine&quot;&gt;&lt;strong&gt;■職務内容&lt;/strong&gt;&lt;/div&gt;\n&lt;div class=&quot;ewa-rteLine&quot;&gt;Low-Level Software Engineerは、PlayStation本体の動作を根幹から支える、OS及びそれよりも下層のソフトウェア開発を担うポジションです。具体的には、電源投入からゲーム実行に至るまでの、ブートローダー、ファームウェア、ハイパーバイザ、GPU・SSD・Bluetoothなどの各種デバイスドライバの設計・実装・最適化を行います。&lt;br&gt;&lt;br&gt;&lt;/div&gt;\n&lt;div class=&quot;ewa-rteLine&quot;&gt;私たちのチームでは、既存のOSSを単に流用するのではなく、PlayStationの独自ハードウェアアーキテクチャに最適化されたソフトウェアを、自らの手で設計・構築しています。これにより、電源ONからゲームプレイまでの一連のプロセスを高速かつ安定して実現するための土台を提供するとともに、ユーザーが日々安心してゲーム体験を楽しめる環境の確立に大きく貢献しています。&lt;br&gt;&lt;br&gt;&lt;/div&gt;\n&lt;div class=&quot;ewa-rteLine&quot;&gt;PlayStationにはSoCや複数の専用プロセッサが組み込まれており、これらをシームレスに連携させるには、高度なハードウェア制御や電力管理が欠かせません。そのため、ハードウェアの深い仕様に踏み込んだソフトウェア開発力が求められる、非常にチャレンジングでありながらエキサイティングな技術領域です。また本ポジションでは、コントローラーをはじめとしたPlayStation向け周辺機器に関するファームウェアやドライバ開発にも関与する機会があり、ゲーム体験をより魅力的にする技術進化にも貢献しています。&lt;br&gt;&lt;br&gt;&lt;/div&gt;\n&lt;div class=&quot;ewa-rteLine&quot;&gt;私たちの仕事は、単にシステムを起動させることにとどまらず、最高のパフォーマンスと信頼性、そして安全性をユーザーに提供するための中核を担っています。ハードウェアとソフトウェアの垣根を越え、次世代のゲーム体験を支える技術に挑戦したいエンジニアを歓迎します。&lt;/div&gt;\n&lt;div class=&quot;ewa-rteLine&quot;&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div class=&quot;ewa-rteLine&quot;&gt;&lt;strong&gt;■職場紹介&lt;/strong&gt;&lt;/div&gt;\n&lt;div class=&quot;ewa-rteLine&quot;&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div class=&quot;ewa-rteLine&quot;&gt;特徴：&lt;/div&gt;\n&lt;div class=&quot;ewa-rteLine&quot;&gt;・PlayStationの低レイヤソフトウェア開発は、社内外・国内外の多岐にわたるチームと連携しながら進められます。特に新しいハードウェアの立ち上げ期には、商品企画や社内外のハードウェアエンジニアと密接に連携し、仕様の検討段階から深く関わります。また、市場やゲーム開発者からのフィードバックをタイムリーに反映させることも求められ、柔軟かつ迅速な開発体制が特徴です。グローバルで多様な視点を取り入れながら、ものづくりの最前線に携わるダイナミックな環境です。&lt;/div&gt;\n&lt;div class=&quot;ewa-rteLine&quot;&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div class=&quot;ewa-rteLine&quot;&gt;業務内容：&lt;/div&gt;\n&lt;div class=&quot;ewa-rteLine&quot;&gt;・上記の組織での、ソフトウェア開発業務をお任せします。&lt;/div&gt;\n&lt;div class=&quot;ewa-rteLine&quot;&gt;・ご経験やご希望に応じて最適なチーム、役割を検討します。&lt;/div&gt;\n&lt;div class=&quot;ewa-rteLine&quot;&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div class=&quot;ewa-rteLine&quot;&gt;&lt;strong&gt;■求められるスキル・技術領域&lt;/strong&gt;&lt;/div&gt;\n&lt;div class=&quot;ewa-rteLine&quot;&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div class=&quot;ewa-rteLine&quot;&gt;【必須（MUST）】&lt;/div&gt;\n&lt;div class=&quot;ewa-rteLine&quot;&gt;- C/C++言語でのソフトウェア開発経験&lt;/div&gt;\n&lt;div class=&quot;ewa-rteLine&quot;&gt;- デバイスドライバの開発もしくは組み込みシステムの開発経験&lt;/div&gt;\n&lt;div class=&quot;ewa-rteLine&quot;&gt;- リアルタイムOS, FreeBSD, Linuxを使った制御ソフトウェア開発経験&lt;/div&gt;\n&lt;div class=&quot;ewa-rteLine&quot;&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div class=&quot;ewa-rteLine&quot;&gt;【歓迎（WANT）】&lt;/div&gt;\n&lt;div class=&quot;ewa-rteLine&quot;&gt;- ブートローダーの開発経験&lt;/div&gt;\n&lt;div class=&quot;ewa-rteLine&quot;&gt;- 仮想化技術のHW/SW専門知識&lt;/div&gt;\n&lt;div class=&quot;ewa-rteLine&quot;&gt;- Bluetoothに関するプロトコルの知識、製品レベルでの開発経験&lt;/div&gt;\n&lt;div class=&quot;ewa-rteLine&quot;&gt;- Audio Codecの開発経験、知識&lt;/div&gt;\n&lt;div class=&quot;ewa-rteLine&quot;&gt;- ビデオストリーミングDRMモジュールの開発経験、知識&lt;/div&gt;\n&lt;div class=&quot;ewa-rteLine&quot;&gt;- Rust言語でのソフトウェア開発経験&lt;/div&gt;\n&lt;div class=&quot;ewa-rteLine&quot;&gt;- ハードウェアデバッグツール等を使用した組み込み環境でのソフトウェアデバッグスキル&lt;/div&gt;\n&lt;div class=&quot;ewa-rteLine&quot;&gt;- 大規模なソフトウェアチームでの開発経験&lt;/div&gt;\n&lt;div class=&quot;ewa-rteLine&quot;&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div class=&quot;ewa-rteLine&quot;&gt;【求める人物像】&lt;/div&gt;\n&lt;div class=&quot;ewa-rteLine&quot;&gt;ものづくりが好きでソフトウエアエンジニアとしての成長を楽しめる人。&lt;/div&gt;\n&lt;div class=&quot;ewa-rteLine&quot;&gt;とくかくコードが書きたい人。&lt;/div&gt;\n&lt;div class=&quot;ewa-rteLine&quot;&gt;新たな事に挑戦したい人。&lt;/div&gt;\n&lt;div class=&quot;ewa-rteLine&quot;&gt;世界中のSIEのエンジニア・顧客とやり取りしながら開発をしたい人。&lt;/div&gt;\n&lt;div class=&quot;ewa-rteLine&quot;&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div class=&quot;ewa-rteLine&quot;&gt;【求められる語学力】&lt;/div&gt;\n&lt;div class=&quot;ewa-rteLine&quot;&gt;英語コミュニケーション必須の業務から最低限の読み書きを必要とする業務まで多くのポジションがあり、英語レベル及び希望に合わせて配属先を検討します。英語レベルが高いほど配属先の幅は大きく広がります。&lt;/div&gt;\n&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p class=&quot;p1&quot;&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Equal Opportunity Statement:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Sony is an Equal Opportunity Employer. All persons will receive consideration for employment without regard to gender (including gender identity, gender expression and gender reassignment), race (including colour, nationality, ethnic or national origin), religion or belief, marital or civil partnership status, disability, age, sexual orientation, pregnancy or maternity, trade union membership or membership in any other legally protected category.&lt;/p&gt;\n&lt;p&gt;We strive to create an inclusive environment, empower employees and embrace diversity. We encourage everyone to respond.&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;PlayStation is a Fair Chance employer and qualified applicants with arrest and conviction records will be considered for employment.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4072503004,
+      "name": "Admin (FSEE)",
+      "child_ids": [],
+      "parent_id": 4072500004
+    }
+  ],
+  "offices": [
+    {
+      "id": 4040733004,
+      "name": "JPN-Tokyo-Sony City",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 4040731004
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

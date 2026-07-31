@@ -1,0 +1,108 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5969132004",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": true,
+      "requires_processing_consent": false,
+      "requires_retention_consent": true,
+      "retention_period": 730,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 5141775004,
+  "location": {
+    "name": "United Kingdom, London"
+  },
+  "metadata": [
+    {
+      "id": 4367803004,
+      "name": "Cost Center",
+      "value": "GAMES4GB60-GBG5001094 DevNet UK & Game",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167524004,
+      "name": "Career Page - Office Location",
+      "value": "United Kingdom, London",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167525004,
+      "name": "Career Page - Department",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 9377282004,
+      "name": "Career Page - Sub Department",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 20089613004,
+      "name": "Career Page - Studio Project",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 4395289004,
+      "name": "Worker Type",
+      "value": "Employee",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4404049004,
+      "name": "Country",
+      "value": "United Kingdom",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9262269004,
+      "name": "Job Family",
+      "value": "Software Development Engineering",
+      "value_type": "short_text"
+    },
+    {
+      "id": 9262270004,
+      "name": "Job Family Group",
+      "value": "Engineering",
+      "value_type": "short_text"
+    },
+    {
+      "id": 21724118004,
+      "name": "Bungie Geo Pay",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 5969132004,
+  "updated_at": "2026-07-09T18:53:36-04:00",
+  "requisition_id": "R-123663",
+  "title": "Software Engineer - C#/Windows",
+  "company_name": "PlayStation Global",
+  "first_published": "2026-04-14T05:10:27-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Why Sony Interactive Entertainment?&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Sony Interactive Entertainment isn’t just the Best Place to Play — it’s also the Best Place to Work. Sony Interactive Entertainment (SIE) is the company behind the PlayStation brand. As a subsidiary of Sony Group Corporation, we’re part of a proud legacy of innovation and excellence. SIE is a dynamic technology company, delivering cutting-edge hardware and network services to more than 100 million people and an entertainment leader, home to some of the most beloved and recognizable intellectual properties (IP) in the world. Our role at SIE is to create and nurture the experiences under the PlayStation brand, a name synonymous with entertainment excellence and creativity.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;We are seeking a candidate to join our game integration platform to bring gameplay and platform experiences closer together! As a team member for the Partners Platform, you will have the opportunity to work at the intersection of Business and Engineering on the PlayStation SDK Windows Delivery tooling.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;You&#39;ll be responsible for helping to develop SDK Manager Windows Application, co-ordinating with business and engineering to help improve the relationship between SIE and our Game development and publishing Partners..&lt;/span&gt;&lt;/p&gt;\n&lt;h2&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Role overview:&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;We are seeking a skilled C# Software Engineer to design and develop Windows-based applications that support the delivery and integration of SDK components for Sony PlayStation platforms. This role requires strong experience in C#, along with solid knowledge of C and C++ for low-level integration and performance-critical components.&lt;/span&gt;&lt;/p&gt;\n&lt;h2&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;What you&#39;ll be doing:&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Design, develop, and maintain Windows desktop applications using C# and the .NET framework&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Build tools and interfaces to support integration and delivery of PlayStation SDK components&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Work with native code (C/C++) to interface with low-level systems and SDK libraries&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Collaborate with cross-functional teams including platform engineers and SDK developers&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Debug, optimize, and improve performance across managed and unmanaged code&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Create and maintain technical documentation for internal tools and SDK workflows&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Ensure code quality through testing, code reviews, and best engineering practices&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Support build systems, packaging, and deployment of SDK-related deliverables&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;What we&#39;re looking for:&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Strong proficiency in C# and the .NET ecosystem (e.g., WinForms, WPF, or similar)&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Solid experience with C and C++ (memory management, pointers, native integration)&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Experience developing Windows desktop applications&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Familiarity with interop techniques (P/Invoke, C++/CLI, or similar)&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Understanding of software architecture and design patterns&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Experience with debugging tools for both managed and native code&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Knowledge of version control systems (e.g., Git)&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Strong problem-solving skills and attention to detail&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Desirable Skills:&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Experience working with SDKs or developer toolchains&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Familiarity with console development environments, especially Sony PlayStation platforms&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Knowledge of build systems (e.g., CMake, MSBuild)&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Experience with performance profiling and optimization&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Understanding of security and compliance requirements in SDK distribution&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Process Optimization: Continuously refine and improve program management processes to enhance efficiency and team productivity.&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Preferred Qualifications:&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Experience in Game Industry&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Familiarity with game development, cloud platforms, DevOps, and CI/CD pipelines is a plus&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Benefits:&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Discretionary bonus opportunity&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Hybrid Working (within Flexmodes)&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Private Medical Insurance&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Dental Scheme&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;25 days holiday per year&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;On Site Gym&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Subsidised Café&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Free soft drinks&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;On site bar&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Access to cycle garage and showers&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p class=&quot;p1&quot;&gt;Please note, Sony Interactive Entertainment conducts background checks at the offer stage for all new employees (which may include criminal background checks for some roles) and will need to process personal information to support these checks.&lt;/p&gt;\n&lt;p class=&quot;p1&quot;&gt;Please refer to our&amp;nbsp;&lt;a href=&quot;https://www.playstation.com/legal/careers-privacy-notice/&quot; target=&quot;_blank&quot;&gt;Candidate Privacy Notice&lt;/a&gt;&amp;nbsp;for more information about what personal information we collect, how we use it, who we share it with, and your data protection rights.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Equal Opportunity Statement:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Sony is an Equal Opportunity Employer. All persons will receive consideration for employment without regard to gender (including gender identity, gender expression and gender reassignment), race (including colour, nationality, ethnic or national origin), religion or belief, marital or civil partnership status, disability, age, sexual orientation, pregnancy, maternity or parental status, trade union membership or membership in any other legally protected category.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;We strive to create an inclusive environment, empower employees and embrace diversity. We encourage everyone to respond.&amp;nbsp;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Sony Interactive Entertainment is a Fair Chance employer and qualified applicants with arrest and conviction records will be considered for employment.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4065073004,
+      "name": "Commerce Services",
+      "child_ids": [],
+      "parent_id": 4065067004
+    }
+  ],
+  "offices": [
+    {
+      "id": 4011923004,
+      "name": "GBR-London-10GMS",
+      "location": "London, England, United Kingdom",
+      "child_ids": [],
+      "parent_id": 4011922004
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

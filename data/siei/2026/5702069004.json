@@ -1,0 +1,109 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/siei/jobs/5702069004",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": true,
+      "requires_processing_consent": false,
+      "requires_retention_consent": true,
+      "retention_period": 730,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "education": "education_optional",
+  "internal_job_id": 5003568004,
+  "location": {
+    "name": "Japan, Tokyo"
+  },
+  "metadata": [
+    {
+      "id": 4367803004,
+      "name": "Cost Center",
+      "value": "JPZ1GN1200 Platform Host Eng JP",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167524004,
+      "name": "Career Page - Office Location",
+      "value": "Japan, Tokyo",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167525004,
+      "name": "Career Page - Department",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 9377282004,
+      "name": "Career Page - Sub Department",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 20089613004,
+      "name": "Career Page - Studio Project",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 4395289004,
+      "name": "Worker Type",
+      "value": "Employee",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4404049004,
+      "name": "Country",
+      "value": "Japan",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9262269004,
+      "name": "Job Family",
+      "value": "Software Development Engineering",
+      "value_type": "short_text"
+    },
+    {
+      "id": 9262270004,
+      "name": "Job Family Group",
+      "value": "Engineering",
+      "value_type": "short_text"
+    },
+    {
+      "id": 21724118004,
+      "name": "Bungie Geo Pay",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 5702069004,
+  "updated_at": "2026-07-09T18:53:43-04:00",
+  "requisition_id": "R-122110",
+  "title": "Platform Support Site Reliability Engineer (SRE)",
+  "company_name": "Sony Interactive Entertainment Inc.",
+  "first_published": "2025-11-09T23:38:20-05:00",
+  "language": "ja",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Why PlayStation?&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;PlayStation isn’t just the Best Place to Play — it’s also the Best Place to Work. Today, we’re recognized as a global leader in entertainment producing The PlayStation family of products and services including PlayStation®5, PlayStation®4, PlayStation®VR, PlayStation®Plus, acclaimed PlayStation software titles from PlayStation Studios, and more.&lt;/p&gt;\n&lt;p&gt;PlayStation also strives to create an inclusive environment that empowers employees and embraces diversity. We welcome and encourage everyone who has a passion and curiosity for innovation, technology, and play to explore our open positions and join our growing global team.&lt;/p&gt;\n&lt;p&gt;The PlayStation brand falls under Sony Interactive Entertainment, a wholly-owned subsidiary of Sony Group Corporation.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;h2 data-start=&quot;521&quot; data-end=&quot;554&quot;&gt;■職務内容 / Job Responsibilities&lt;/h2&gt;\n&lt;p data-start=&quot;870&quot; data-end=&quot;882&quot;&gt;Platform Supportチームは、PlayStationのオンラインサービスを支えるコンテナ、ネットワーク、認証、監視などの共通基盤を対象に、プラットフォーム開発チームが提供する共通基盤の運用を担いながら、AIを活用した標準化・自動化を推進し、運用モデルそのものを継続的に改善しています。&lt;br&gt;また、共通基盤全体に対する深い知識と運用経験を活かし、共通基盤に不慣れな開発チームを支援し、PlayStation全体でベストプラクティスを実践できるようEnablementも行います。共通基盤を利用する開発者がより安全かつ効率的に開発・運用できる環境を提供することも重要なミッションです。&lt;/p&gt;\n&lt;p data-start=&quot;870&quot; data-end=&quot;882&quot;&gt;本ポジションでは、Platform Support Engineerとして、AIを活用した運用自動化やワークフロー改善、開発者体験（Developer Experience）の向上、さらには共通基盤の利用促進・標準化に取り組んでいただきます。&lt;br&gt;アプリケーション開発チーム、プラットフォーム開発チーム、運用チームと密接に連携しながら、よりスケーラブルで信頼性が高く、運用しやすいプラットフォームを実現するための仕組みづくりをリードしていただきます。&lt;br&gt;AIも活用して運用を変革したい方、複雑な技術課題をシンプルな仕組みに落とし込みたい方、そして組織全体の生産性向上やDeveloper Experienceの改善に情熱を持つエンジニアにとって、大きな裁量とインパクトを持って活躍できるポジションです。&lt;br&gt;&lt;br&gt;&lt;/p&gt;\n&lt;p data-start=&quot;870&quot; data-end=&quot;882&quot;&gt;&lt;strong data-start=&quot;870&quot; data-end=&quot;880&quot;&gt;【主な業務】&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;共通基盤の運用を担い、定常業務の標準化・自動化、および運用ワークフローの継続的な改善を推進&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;新たに発生した運用業務や高度な判断を伴う運用業務は自ら実施しつつ、AIを活用した自動化によって再現可能な運用プロセスへ進化させたうえで、TOS（Technical Operations Support）などの実行チームへ移管し、スケーラブルな運用モデルを構築&lt;/li&gt;\n&lt;li&gt;共通基盤を利用する社内エンジニアリングチームへの技術支援、課題調査、ベストプラクティスの展開&lt;/li&gt;\n&lt;li&gt;アプリケーション開発チームやプラットフォーム開発チームと連携し、信頼性・運用性・DeveloperExperienceを向上させるソリューションの企画・実装&lt;/li&gt;\n&lt;li&gt;USをはじめとするグローバルチームと協力し、Follow the Sun体制の整備や運用プロセスの共通化を通じて、日本に閉じないオペレーションモデルを構築&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2 data-start=&quot;63&quot; data-end=&quot;106&quot;&gt;&lt;br&gt;■組織・職場紹介 / About Team and Organization&lt;/h2&gt;\n&lt;p&gt;PlayStationのオンラインサービスは世界中で1億人を超えるユーザーに利用されており、ゲーム、コマース、ソーシャル機能をはじめとするPlayStationエコシステム全体を支えています。&lt;br&gt;Platform Supportチームは、PlayStationのオンラインサービスを支えるコンテナ、ネットワーク、認証、監視などの共通基盤を対象に、プラットフォーム開発チームが提供する共通基盤の運用を担いながら、AIを活用した標準化・自動化を推進し、運用モデルそのものを継続的に改善しています。&lt;br&gt;私たちは、日本だけでなく、USやインドを含むグローバルメンバーと日常的に協力しながら、Follow the Sunを意識した運用体制や共通プロセスの整備を進めています。拠点を越えて知見を共有し、世界共通のベストプラクティスを作り上げることも、このチームの重要なミッションです。&lt;br&gt;オープンなコミュニケーション、継続的な学習、実践的な課題解決を大切にしながら、社内エンジニアのDeveloper Experienceと、世界中のPlayStationプレイヤーの体験を継続的に改善していくことを目指しています。&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;hr data-start=&quot;1221&quot; data-end=&quot;1224&quot;&gt;\n&lt;h2 data-start=&quot;1226&quot; data-end=&quot;1261&quot;&gt;■求められるスキル・経験 / Required Skills&lt;/h2&gt;\n&lt;h4&gt;&lt;strong&gt;【&lt;/strong&gt;&lt;strong&gt;以下のいずれか一つ以上（MUST）：技術領域&lt;/strong&gt;&lt;strong&gt;】&lt;/strong&gt;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;パブリッククラウド環境におけるサービスの設計・構築・運用経験&lt;/li&gt;\n&lt;li&gt;システム、インフラ、ネットワーク、アプリケーションにまたがる障害調査・トラブルシューティングの経験&lt;/li&gt;\n&lt;li&gt;AIやスクリプトを活用し、運用業務や定型業務の自動化・効率化を推進した経験&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;&lt;strong&gt;【&lt;/strong&gt;&lt;strong&gt;必須（MUST）：コミュニケーション・協業&lt;/strong&gt;&lt;strong&gt;】&lt;/strong&gt;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;ビジネスレベルの日本語コミュニケーション力&lt;/li&gt;\n&lt;li&gt;英語でグローバルチームと協働できるコミュニケーション力、マインドセット（文書・口頭）&lt;/li&gt;\n&lt;li&gt;社内のエンジニアリングユーザーおよび部門横断の関係者と円滑に連携できる対人スキル&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;&lt;strong&gt;【&lt;/strong&gt;&lt;strong&gt;歓迎（WANT）&lt;/strong&gt;&lt;strong&gt;】&lt;/strong&gt;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Observabilityプラットフォーム、監視ソリューション、APMツールの利用経験&lt;/li&gt;\n&lt;li&gt;Terraform、CloudFormation等を用いたInfrastructure as Code（IaC）の設計・実装経験&lt;/li&gt;\n&lt;li&gt;Python、Go、JavaScriptまたは類似言語を用いたソフトウェア、自動化、運用ツールの開発経験&lt;/li&gt;\n&lt;li&gt;大規模分散システムの運用経験&lt;/li&gt;\n&lt;li&gt;クラウドネットワーク、DNS、トラフィック管理、証明書管理、ID/アクセス管理、構成管理、または関連するプラットフォーム技術の経験&lt;/li&gt;\n&lt;li&gt;規制やコンプライアンス要件が重視される環境でのサービス運用経験&lt;/li&gt;\n&lt;li&gt;Business Process Outsourcing（BPO）、オフショア、Shared Serviceなどを活用し、業務を標準化・整理した上で他チームへ移管した経験&lt;/li&gt;\n&lt;li&gt;技術資格、技術コミュニティ、オープンソースプロジェクト、その他関連活動への貢献実績&lt;/li&gt;\n&lt;li&gt;コンピューターサイエンス、ソフトウェアエンジニアリング、または関連分野の学士号、もしくは同等の実務経験&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;【求める人物像】&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;課題や改善機会を主体的に見つけ、自らオーナーシップを持って解決を推進できる方&lt;/li&gt;\n&lt;li&gt;システム改善、運用の複雑性低減、反復的な手作業の削減にやりがいを感じる方&lt;/li&gt;\n&lt;li&gt;課題分析やソリューション評価において、論理的かつ体系的に考えられる方&lt;/li&gt;\n&lt;li&gt;異なる意見を尊重しながら、自身の提案や懸念を明確に伝えられる方&lt;/li&gt;\n&lt;li&gt;社内ユーザー、同僚、部門横断のチームと良好な関係を築ける方&lt;/li&gt;\n&lt;li&gt;新しい技術を素早く学び、変化する優先順位にも柔軟に対応できる方&lt;/li&gt;\n&lt;li&gt;運用に対する強い当事者意識、信頼性へのこだわり、継続的な改善意欲を持つ方&lt;/li&gt;\n&lt;/ul&gt;\n&lt;hr&gt;\n&lt;h2 data-start=&quot;1226&quot; data-end=&quot;1261&quot;&gt;■このポジションの魅力 / Why Join This Team&lt;/h2&gt;\n&lt;p&gt;世界規模のPlayStation Networkを支える技術に携わりながら、世界中のプレイヤーにより良い体験を届けるために、社内エンジニアリングチームを支援できるポジションです。&lt;br&gt;国際的なチームと協働し、プラットフォームの信頼性とオペレーショナルエクセレンスに貢献しながら、PlayStationの未来を支えるツール、プロセス、自動化の整備・改善に携わっていただきます。&lt;/p&gt;\n&lt;h2 data-start=&quot;63&quot; data-end=&quot;106&quot;&gt;&amp;nbsp;&lt;/h2&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p class=&quot;p1&quot;&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Equal Opportunity Statement:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Sony is an Equal Opportunity Employer. All persons will receive consideration for employment without regard to gender (including gender identity, gender expression and gender reassignment), race (including colour, nationality, ethnic or national origin), religion or belief, marital or civil partnership status, disability, age, sexual orientation, pregnancy or maternity, trade union membership or membership in any other legally protected category.&lt;/p&gt;\n&lt;p&gt;We strive to create an inclusive environment, empower employees and embrace diversity. We encourage everyone to respond.&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;PlayStation is a Fair Chance employer and qualified applicants with arrest and conviction records will be considered for employment.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4037262004,
+      "name": "Network / Core Engineering",
+      "child_ids": [],
+      "parent_id": 4037176004
+    }
+  ],
+  "offices": [
+    {
+      "id": 4040733004,
+      "name": "JPN-Tokyo-Sony City",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 4040731004
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

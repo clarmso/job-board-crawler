@@ -1,0 +1,108 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6111396004",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": true,
+      "requires_processing_consent": false,
+      "requires_retention_consent": true,
+      "retention_period": 730,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 5183968004,
+  "location": {
+    "name": "United Kingdom, London"
+  },
+  "metadata": [
+    {
+      "id": 4367803004,
+      "name": "Cost Center",
+      "value": "GAMES1EUHQ-EUL10HQ025 UK - Data Science",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167524004,
+      "name": "Career Page - Office Location",
+      "value": "United Kingdom, London",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167525004,
+      "name": "Career Page - Department",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 9377282004,
+      "name": "Career Page - Sub Department",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 20089613004,
+      "name": "Career Page - Studio Project",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 4395289004,
+      "name": "Worker Type",
+      "value": "Employee",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4404049004,
+      "name": "Country",
+      "value": "United Kingdom",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9262269004,
+      "name": "Job Family",
+      "value": "Data Science",
+      "value_type": "short_text"
+    },
+    {
+      "id": 9262270004,
+      "name": "Job Family Group",
+      "value": "Planning",
+      "value_type": "short_text"
+    },
+    {
+      "id": 21724118004,
+      "name": "Bungie Geo Pay",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 6111396004,
+  "updated_at": "2026-07-14T05:38:03-04:00",
+  "requisition_id": "R-124713",
+  "title": "Data Scientist – Incremental Player Value",
+  "company_name": "PlayStation Global",
+  "first_published": "2026-07-09T06:53:03-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Why Sony Interactive Entertainment?&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Sony Interactive Entertainment isn’t just the Best Place to Play — it’s also the Best Place to Work. Sony Interactive Entertainment (SIE) is the company behind the PlayStation brand. As a subsidiary of Sony Group Corporation, we’re part of a proud legacy of innovation and excellence. SIE is a dynamic technology company, delivering cutting-edge hardware and network services to more than 100 million people and an entertainment leader, home to some of the most beloved and recognizable intellectual properties (IP) in the world. Our role at SIE is to create and nurture the experiences under the PlayStation brand, a name synonymous with entertainment excellence and creativity.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Department Overview:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;At PlayStation, Data Science plays a critical role in shaping how we invest in, retain, and delight our global player base. The CLV team focuses on understanding the drivers of long-term player value and enabling better business decisions through robust forecasting and insight generation.&lt;/p&gt;\n&lt;p&gt;As a Causal Insights Specialist, you will help transform how PlayStation measures and optimises player value by identifying the true impact of products, features, and commercial interventions on long-term player outcomes. You will develop causal measurement frameworks and apply causal inference techniques to distinguish correlation from causation, enabling more effective investment decisions across the player lifecycle.&lt;/p&gt;\n&lt;p&gt;This role is ideal for someone who is passionate about understanding why outcomes occur, enjoys solving complex business problems through rigorous analysis, and can translate causal insights into actionable recommendations for stakeholders.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What you&#39;ll be doing:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Apply causal inference methodologies to measure the incremental impact of player experiences, lifecycle interventions, product features, and commercial initiatives on Customer Lifetime Value (CLV).&lt;/li&gt;\n&lt;li&gt;Design, analyse, and interpret experiments, quasi-experiments, and observational studies to answer strategic business questions.&lt;/li&gt;\n&lt;li&gt;Support the development of frameworks for measuring incremental CLV, uplift, and causal impact across acquisition, engagement, retention, and monetisation initiatives.&lt;/li&gt;\n&lt;li&gt;Work with cross-functional teams and business stakeholders to identify opportunities where causal measurement can improve decision-making and resource allocation.&lt;/li&gt;\n&lt;li&gt;Analyse large-scale behavioural and transactional datasets to uncover drivers of player value and quantify their causal impact.&lt;/li&gt;\n&lt;li&gt;Apply techniques such as propensity score matching, difference-in-differences, causal forests, and broader synthetic controls where appropriate.&lt;/li&gt;\n&lt;li&gt;Collaborate with data scientists, analysts, and engineers to operationalise causal insights and embed them into decision-making processes.&lt;/li&gt;\n&lt;li&gt;Translate complex analyses into clear and actionable recommendations for both technical and non-technical audiences.&lt;/li&gt;\n&lt;li&gt;Contribute to the evolution of PlayStation’s CLV framework by incorporating causal approaches to understanding long-term player value.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;What we&#39;re looking for:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;You’re intellectually curious, analytical, and passionate about understanding cause-and-effect relationships in complex systems. You bring strong quantitative skills and enjoy applying rigorous methods to high-impact business challenges.&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience applying causal inference techniques in a commercial, product, marketing, or research environment.&lt;/li&gt;\n&lt;li&gt;Strong understanding of causal inference methods.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Exposure to experimental design and A/B testing.&lt;/li&gt;\n&lt;li&gt;Ability to independently frame business questions, select appropriate methodologies, and deliver actionable recommendations.&lt;/li&gt;\n&lt;li&gt;Proficiency in Python and SQL, with experience using statistical and causal inference libraries.&lt;/li&gt;\n&lt;li&gt;Strong foundation in statistics.&lt;/li&gt;\n&lt;li&gt;Experience working with large datasets and translating findings into business decisions.&lt;/li&gt;\n&lt;li&gt;Excellent communication and stakeholder management skills, with the ability to explain complex methodologies and findings to diverse audiences.&lt;/li&gt;\n&lt;li&gt;Ability to balance methodological rigour with practical business considerations.&lt;/li&gt;\n&lt;li&gt;Strong problem-solving skills and a structured approach to tackling data challenges.&lt;/li&gt;\n&lt;li&gt;A strong academic background, typically a Master’s or Ph.D. in a quantitative or technical field (e.g. Mathematics, Statistics, Economics, Econometrics, Computer Science, or a related quantitative field.)&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Nice to have:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Familiarity with modern causal machine learning techniques such as Double Machine Learning, Causal Forests, Meta-Learners, and Uplift Models.&lt;/li&gt;\n&lt;li&gt;Experience evaluating incrementality, or uplift using experimental data.&lt;/li&gt;\n&lt;li&gt;Knowledge of Bayesian methods for causal analysis and decision-making.&lt;/li&gt;\n&lt;li&gt;Experience in gaming, e-commerce, or subscription-based products.&lt;/li&gt;\n&lt;li&gt;Experience working with large-scale data using PySpark or equivalent distributed data processing tools.&lt;/li&gt;\n&lt;li&gt;Familiarity with production environments, MLOps, or data pipelines.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Benefits: &lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Discretionary bonus opportunity&lt;/li&gt;\n&lt;li&gt;Private Medical Insurance&lt;/li&gt;\n&lt;li&gt;Dental Scheme&lt;/li&gt;\n&lt;li&gt;25 days holiday per year&lt;/li&gt;\n&lt;li&gt;On Site Gym&lt;/li&gt;\n&lt;li&gt;Subsidised Café&lt;/li&gt;\n&lt;li&gt;Free soft drinks&lt;/li&gt;\n&lt;li&gt;On site bar&lt;/li&gt;\n&lt;li&gt;Access to cycle garage and showers&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p class=&quot;p1&quot;&gt;Please note, Sony Interactive Entertainment conducts background checks at the offer stage for all new employees (which may include criminal background checks for some roles) and will need to process personal information to support these checks.&lt;/p&gt;\n&lt;p class=&quot;p1&quot;&gt;Please refer to our&amp;nbsp;&lt;a href=&quot;https://www.playstation.com/legal/careers-privacy-notice/&quot; target=&quot;_blank&quot;&gt;Candidate Privacy Notice&lt;/a&gt;&amp;nbsp;for more information about what personal information we collect, how we use it, who we share it with, and your data protection rights.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Equal Opportunity Statement:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Sony is an Equal Opportunity Employer. All persons will receive consideration for employment without regard to gender (including gender identity, gender expression and gender reassignment), race (including colour, nationality, ethnic or national origin), religion or belief, marital or civil partnership status, disability, age, sexual orientation, pregnancy, maternity or parental status, trade union membership or membership in any other legally protected category.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;We strive to create an inclusive environment, empower employees and embrace diversity. We encourage everyone to respond.&amp;nbsp;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Sony Interactive Entertainment is a Fair Chance employer and qualified applicants with arrest and conviction records will be considered for employment.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4072502004,
+      "name": "Admin (PDS)",
+      "child_ids": [],
+      "parent_id": 4037174004
+    }
+  ],
+  "offices": [
+    {
+      "id": 4032610004,
+      "name": "GBR-London-51GMS",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 4011922004
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

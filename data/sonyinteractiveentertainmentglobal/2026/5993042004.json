@@ -1,0 +1,108 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5993042004",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": true,
+      "requires_processing_consent": false,
+      "requires_retention_consent": true,
+      "retention_period": 1460,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 5152839004,
+  "location": {
+    "name": "United States, San Mateo, CA"
+  },
+  "metadata": [
+    {
+      "id": 4367803004,
+      "name": "Cost Center",
+      "value": "GAMES4US70-USL2950305 SQE-SDK-US",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167524004,
+      "name": "Career Page - Office Location",
+      "value": "United States, San Mateo, CA",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167525004,
+      "name": "Career Page - Department",
+      "value": "Software Engineering & Services",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9377282004,
+      "name": "Career Page - Sub Department",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 20089613004,
+      "name": "Career Page - Studio Project",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 4395289004,
+      "name": "Worker Type",
+      "value": "Employee",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4404049004,
+      "name": "Country",
+      "value": "United States of America",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9262269004,
+      "name": "Job Family",
+      "value": "Software QA Engineering",
+      "value_type": "short_text"
+    },
+    {
+      "id": 9262270004,
+      "name": "Job Family Group",
+      "value": "Engineering",
+      "value_type": "short_text"
+    },
+    {
+      "id": 21724118004,
+      "name": "Bungie Geo Pay",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 5993042004,
+  "updated_at": "2026-07-24T05:37:53-04:00",
+  "requisition_id": "R-124060",
+  "title": "Software Development Engineer In Test",
+  "company_name": "PlayStation Global",
+  "first_published": "2026-05-15T13:14:14-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Why Sony Interactive Entertainment?&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Sony Interactive Entertainment isn’t just the Best Place to Play — it’s also the Best Place to Work. Sony Interactive Entertainment (SIE) is the company behind the PlayStation brand. As a subsidiary of Sony Group Corporation, we’re part of a proud legacy of innovation and excellence. SIE is a dynamic technology company, delivering cutting-edge hardware and network services to more than 100 million people and an entertainment leader, home to some of the most beloved and recognizable intellectual properties (IP) in the world. Our role at SIE is to create and nurture the experiences under the PlayStation brand, a name synonymous with entertainment excellence and creativity.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;How would you like to influence the most successful gaming platform of all time by validating the very technology our developers use to build extraordinary games?&lt;/p&gt;\n&lt;p&gt;Sony Interactive Entertainment (PlayStation) is seeking a Software Development Engineer in Test (SDET) to provide hands-on engineering excellence across our SDK ecosystem. This role focuses on building tools and infrastructure for analyzing the quality of the PlayStation SDK and related technology. While this is the primary domain, there are opportunities to expand into 3D graphics, spatial audio, artificial intelligence, and the fully integrated PlayStation game development environment.&lt;/p&gt;\n&lt;p&gt;We are looking for someone who wants to directly impact PlayStation technology by developing tools and automated systems that deeply analyze SDK components and platform capabilities. You will help strengthen and evolve our testing infrastructure, raise the technical bar for quality engineering, and drive confidence in every release. If you’re passionate about solving complex system-level challenges and influencing technology used by people around the world, we want to hear from you, come help us power the future of PlayStation!&lt;/p&gt;\n&lt;h1&gt;Responsibilities:&lt;/h1&gt;\n&lt;h2&gt;Technical Strategy &amp;amp; Architecture&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;\n&lt;p&gt;Own and drive the technical strategy for automation frameworks, test architecture, and CI systems supporting PlayStation® SDK components.&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p&gt;Define scalable, maintainable automation and infrastructure patterns that support long-term platform growth.&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p&gt;Contribute to architectural discussions for test systems spanning C++, embedded firmware (C), and Python-based infrastructure.&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p&gt;Identify technical risks early and drive mitigation strategies to protect release confidence.&lt;/p&gt;\n&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;Hands-On Engineering&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;\n&lt;p&gt;Crafting and improving automated test cases, sample applications, testing tools and frameworks for SDK libraries and low level software (C++)&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p&gt;Build and improve test infrastructure using Python and Groovy to simplify building, testing, and demonstrating PlayStation® sample applications.&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p&gt;Monitor test infrastructure, analyze automation failures, improve reliability, and optimize runtime performance.&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p&gt;Partner closely with software production and offshore teams to compose robust test plans, validation strategies, and documentation.&lt;/p&gt;\n&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h1&gt;Skills and Characteristics&lt;/h1&gt;\n&lt;ul&gt;\n&lt;li&gt;\n&lt;p&gt;Strong technical leadership with the ability to influence cross-functional stakeholders.&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p&gt;Excellent interpersonal skills, including presenting technical direction to both engineers and executives.&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p&gt;Proven experience leading architectural decisions and complex debugging efforts.&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p&gt;Self-directed, committed to producing strong results, and passionate about high-quality automation.&lt;/p&gt;\n&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h1&gt;Qualifications&lt;/h1&gt;\n&lt;ul&gt;\n&lt;li&gt;\n&lt;p&gt;Strong programming proficiency in Python &amp;amp; C++.&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p&gt;Experience building, running, and debugging software in both Windows &amp;amp; Linux environments.&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p&gt;Deep understanding of automation trade-offs and architectural design decisions.&lt;/p&gt;\n&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;Nice-to-Have&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;\n&lt;p&gt;Exposure to Android platform, including SDK, tooling and architecture&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p&gt;Prior experience with PlayStation SDK development is helpful.&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p&gt;Familiarity with Unity, Unreal Engine or other game engine technology.&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p&gt;Containerization technology such as Docker and Kubernetes.&lt;/p&gt;\n&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;At SIE, we consider several factors when setting each role’s base pay range, including the competitive benchmarking data for the market and geographic location.&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;br&gt;Please note that the base pay range may vary in line with our hybrid working policy and individual base pay will be determined based on job-related factors which may include knowledge, skills, experience, and location.&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;br&gt;In addition, this role &lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;is eligible&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; for SIE’s top-tier benefits package that includes medical, dental, vision, matching 401(k), paid time off, wellness program and coveted employee discounts for Sony products. &lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;This role also may be eligible for a bonus package.&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; Click&amp;nbsp;&lt;/span&gt;&lt;a href=&quot;https://careers.playstation.com/benefits&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; to learn more.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;The estimated base pay range for this role is listed below.&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$140,500&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$210,700 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p class=&quot;p1&quot;&gt;Please note, Sony Interactive Entertainment conducts background checks at the offer stage for all new employees (which may include criminal background checks for some roles) and will need to process personal information to support these checks.&lt;/p&gt;\n&lt;p class=&quot;p1&quot;&gt;Please refer to our&amp;nbsp;&lt;a href=&quot;https://www.playstation.com/legal/careers-privacy-notice/&quot; target=&quot;_blank&quot;&gt;Candidate Privacy Notice&lt;/a&gt;&amp;nbsp;for more information about what personal information we collect, how we use it, who we share it with, and your data protection rights.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Equal Opportunity Statement:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Sony is an Equal Opportunity Employer. All persons will receive consideration for employment without regard to gender (including gender identity, gender expression and gender reassignment), race (including colour, nationality, ethnic or national origin), religion or belief, marital or civil partnership status, disability, age, sexual orientation, pregnancy, maternity or parental status, trade union membership or membership in any other legally protected category.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;We strive to create an inclusive environment, empower employees and embrace diversity. We encourage everyone to respond.&amp;nbsp;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Sony Interactive Entertainment is a Fair Chance employer and qualified applicants with arrest and conviction records will be considered for employment.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4149056004,
+      "name": "FSEE US",
+      "child_ids": [],
+      "parent_id": 4072500004
+    }
+  ],
+  "offices": [
+    {
+      "id": 4012034004,
+      "name": "USA-CA-San Mateo",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 4089335004
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

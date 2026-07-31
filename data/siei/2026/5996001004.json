@@ -1,0 +1,109 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/siei/jobs/5996001004",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": true,
+      "requires_processing_consent": false,
+      "requires_retention_consent": true,
+      "retention_period": 730,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "education": "education_optional",
+  "internal_job_id": 5154890004,
+  "location": {
+    "name": "Japan, Tokyo"
+  },
+  "metadata": [
+    {
+      "id": 4367803004,
+      "name": "Cost Center",
+      "value": "JPZ1DH0400 GPRD-2",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167524004,
+      "name": "Career Page - Office Location",
+      "value": "Japan, Tokyo",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167525004,
+      "name": "Career Page - Department",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 9377282004,
+      "name": "Career Page - Sub Department",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 20089613004,
+      "name": "Career Page - Studio Project",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 4395289004,
+      "name": "Worker Type",
+      "value": "Employee",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4404049004,
+      "name": "Country",
+      "value": "Japan",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9262269004,
+      "name": "Job Family",
+      "value": "Software Development Engineering",
+      "value_type": "short_text"
+    },
+    {
+      "id": 9262270004,
+      "name": "Job Family Group",
+      "value": "Engineering",
+      "value_type": "short_text"
+    },
+    {
+      "id": 21724118004,
+      "name": "Bungie Geo Pay",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 5996001004,
+  "updated_at": "2026-07-27T21:17:40-04:00",
+  "requisition_id": "R-124073",
+  "title": "システムソフトウェアパフォーマンス最適化エンジニア（R&D）",
+  "company_name": "Sony Interactive Entertainment Inc.",
+  "first_published": "2026-07-27T21:17:40-04:00",
+  "language": "ja",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Why PlayStation?&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;PlayStation isn’t just the Best Place to Play — it’s also the Best Place to Work. Today, we’re recognized as a global leader in entertainment producing The PlayStation family of products and services including PlayStation®5, PlayStation®4, PlayStation®VR, PlayStation®Plus, acclaimed PlayStation software titles from PlayStation Studios, and more.&lt;/p&gt;\n&lt;p&gt;PlayStation also strives to create an inclusive environment that empowers employees and embraces diversity. We welcome and encourage everyone who has a passion and curiosity for innovation, technology, and play to explore our open positions and join our growing global team.&lt;/p&gt;\n&lt;p&gt;The PlayStation brand falls under Sony Interactive Entertainment, a wholly-owned subsidiary of Sony Group Corporation.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;組織・チームについて&lt;/h2&gt;\n&lt;p&gt;私たちのミッションは、「遊びの限界を超える」ことです。&lt;/p&gt;\n&lt;p&gt;このミッションの実現に向けて、研究開発と製品開発が一体となり、次世代のエンターテインメント体験を支える技術の創出に取り組んでいます。将来世代のPlayStationを中心に、半導体ハードウェアとソフトウェアを統合的に設計・最適化し、革新的な製品アーキテクチャの実現を目指しています。&lt;/p&gt;\n&lt;p&gt;研究開発チームと製品開発チームが密接に連携することで、最先端技術を実際の製品へとつなげ、新たな価値を世界中のプレイヤーへ届けています。&lt;/p&gt;\n&lt;p&gt;多様なバックグラウンドを持つメンバーが専門性を発揮しながら協働する、オープンでフラットなカルチャーも私たちの特長です。技術者一人ひとりが主体的にアイデアを提案し、それを形にできる環境があり、リモートワークを含む柔軟な働き方や継続的なキャリア成長を支援する制度も整っています。&lt;/p&gt;\n&lt;p&gt;研究開発の自由度と製品開発ならではの社会実装の達成感、その両方を味わえる環境で、私たちとともにPlayStationの未来を創りませんか。&lt;/p&gt;\n&lt;h2&gt;このポジションについて&lt;/h2&gt;\n&lt;p&gt;本ポジションでは、将来世代のPlayStationに向けたシステムパフォーマンスおよび低レイテンシー技術の研究開発を担当いただきます。&lt;/p&gt;\n&lt;p&gt;OS、ミドルウェア、デバイス、ハードウェアを含むシステム全体を俯瞰しながら、入力から描画に至る処理パイプラインの最適化や、新たなアーキテクチャ・要素技術の研究・検証を推進します。&lt;/p&gt;\n&lt;p&gt;ソフトウェアとハードウェアの境界領域で技術的な課題に挑戦し、PlayStationならではの高品質なゲーム体験を支えるコア技術の創出に携わることができるポジションです。&lt;/p&gt;\n&lt;h2&gt;主な業務内容&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;\n&lt;p&gt;将来世代のPlayStationに向けたシステムパフォーマンスおよび低レイテンシー技術の研究・開発&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p&gt;OS、ミドルウェア、デバイスを含むシステム全体の挙動分析および性能評価&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p&gt;入力から描画までの処理パイプラインにおける新たなアプローチの企画、技術検証、プロトタイピング&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p&gt;システムアーキテクチャの観点から性能改善施策の立案・実装・評価&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p&gt;研究成果を製品開発へ展開するための技術検証および関連チームとの協働&lt;/p&gt;\n&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;このポジションで得られる経験&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;\n&lt;p&gt;将来世代のPlayStationを支えるコア技術の研究開発に携わる経験&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p&gt;OS、ミドルウェア、デバイス、SoCまでを含めたシステム全体を俯瞰した技術開発経験&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p&gt;最先端の研究開発と実際の製品開発の両方に関わり、技術を市場へ届ける経験&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p&gt;世界中の開発拠点や多様な専門性を持つエンジニアとのグローバルな技術協業&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p&gt;エンターテインメント体験そのものを進化させる技術創出への挑戦&lt;/p&gt;\n&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;求められるスキル・経験&lt;/h2&gt;\n&lt;h3&gt;必須要件&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;\n&lt;p&gt;システムアーキテクチャを理解し、ソフトウェアの設計・実装・評価ができる方&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p&gt;Gitなどのバージョン管理ツールを用いたチームでのソフトウェア開発経験&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p&gt;マルチスレッドプログラミングに関する知識および開発経験&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p&gt;C/C++を用いたソフトウェア開発経験（3年以上を目安）&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p&gt;OSや低レイヤソフトウェア（デバイスドライバ、カーネル等）の開発またはデバッグ経験&lt;/p&gt;\n&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;歓迎要件&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;\n&lt;p&gt;Linuxカーネルやデバイスドライバに関する知識・開発経験&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p&gt;仮想化技術に関する知識・開発経験&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p&gt;SoC／LSIに近い領域での設計、開発、検証、デバッグ経験&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p&gt;CPU、メモリ階層などコンピュータアーキテクチャに関する知識・経験&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p&gt;パフォーマンス分析やプロファイリングの実務経験&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p&gt;英語を用いた技術コミュニケーションの経験&lt;/p&gt;\n&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;語学力&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;英語&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;\n&lt;p&gt;技術仕様書を読解できること&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p&gt;メールなどによる基本的な技術コミュニケーションができること&lt;/p&gt;\n&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;日本語&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;\n&lt;p&gt;ビジネスレベルの日本語力（日本語能力試験N1相当以上）&lt;/p&gt;\n&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;求める人物像&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;\n&lt;p&gt;社内外の関係者と協働しながら、課題解決に主体的に取り組める方&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p&gt;複雑な技術課題を論理的に分析し、本質的な解決策を導き出せる方&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p&gt;新しい技術や研究動向に高い関心を持ち、論文や学会などを通じて継続的に学び続けられる方&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p&gt;技術への探究心を持ち、PlayStationの未来を支える新たな価値創出に挑戦したい方&lt;/p&gt;\n&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p class=&quot;p1&quot;&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Equal Opportunity Statement:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Sony is an Equal Opportunity Employer. All persons will receive consideration for employment without regard to gender (including gender identity, gender expression and gender reassignment), race (including colour, nationality, ethnic or national origin), religion or belief, marital or civil partnership status, disability, age, sexual orientation, pregnancy or maternity, trade union membership or membership in any other legally protected category.&lt;/p&gt;\n&lt;p&gt;We strive to create an inclusive environment, empower employees and embrace diversity. We encourage everyone to respond.&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;PlayStation is a Fair Chance employer and qualified applicants with arrest and conviction records will be considered for employment.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4037262004,
+      "name": "Network / Core Engineering",
+      "child_ids": [],
+      "parent_id": 4037176004
+    }
+  ],
+  "offices": [
+    {
+      "id": 4040734004,
+      "name": "JPN-Tokyo-Shibaura Crystal Shinagawa Konan",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 4040731004
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

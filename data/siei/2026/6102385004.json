@@ -1,0 +1,109 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/siei/jobs/6102385004",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": true,
+      "requires_processing_consent": false,
+      "requires_retention_consent": true,
+      "retention_period": 730,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "education": "education_optional",
+  "internal_job_id": 5179201004,
+  "location": {
+    "name": "Japan, Tokyo"
+  },
+  "metadata": [
+    {
+      "id": 4367803004,
+      "name": "Cost Center",
+      "value": "JPZ1AH0800 FSEE-JP-6",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167524004,
+      "name": "Career Page - Office Location",
+      "value": "Japan, Tokyo",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167525004,
+      "name": "Career Page - Department",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 9377282004,
+      "name": "Career Page - Sub Department",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 20089613004,
+      "name": "Career Page - Studio Project",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 4395289004,
+      "name": "Worker Type",
+      "value": "Employee",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4404049004,
+      "name": "Country",
+      "value": "Japan",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9262269004,
+      "name": "Job Family",
+      "value": "Software Development Engineering",
+      "value_type": "short_text"
+    },
+    {
+      "id": 9262270004,
+      "name": "Job Family Group",
+      "value": "Engineering",
+      "value_type": "short_text"
+    },
+    {
+      "id": 21724118004,
+      "name": "Bungie Geo Pay",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 6102385004,
+  "updated_at": "2026-07-09T18:53:43-04:00",
+  "requisition_id": "R-124572",
+  "title": "ソフトウェアエンジニア（PlayStation開発環境の開発）",
+  "company_name": "Sony Interactive Entertainment Inc.",
+  "first_published": "2026-06-29T05:01:17-04:00",
+  "language": "ja",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Why PlayStation?&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;PlayStation isn’t just the Best Place to Play — it’s also the Best Place to Work. Today, we’re recognized as a global leader in entertainment producing The PlayStation family of products and services including PlayStation®5, PlayStation®4, PlayStation®VR, PlayStation®Plus, acclaimed PlayStation software titles from PlayStation Studios, and more.&lt;/p&gt;\n&lt;p&gt;PlayStation also strives to create an inclusive environment that empowers employees and embraces diversity. We welcome and encourage everyone who has a passion and curiosity for innovation, technology, and play to explore our open positions and join our growing global team.&lt;/p&gt;\n&lt;p&gt;The PlayStation brand falls under Sony Interactive Entertainment, a wholly-owned subsidiary of Sony Group Corporation.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;■職務内容 / Job Description(Roles &amp;amp; Responsibilities)&lt;/strong&gt;&lt;br&gt;PlayStationの開発環境に関わるソフトウェア開発ポジションです。&lt;br&gt;C/C++を主に使用し、ハードウェアやOSといった低レイヤに密接に依存・連携する開発を手掛けています。&lt;br&gt;今回の募集では、ご経験に応じて、下記のいずれか一点以上の業務を担当していただきます。&lt;br&gt;&amp;nbsp;- PlayStation向けゲーム・アプリを開発する機能やデバッグする機能のソフトウェア開発&lt;br&gt;&amp;nbsp;- PlayStationのクラッシュレポート機能に関係するソフトウェア開発&lt;br&gt;&amp;nbsp;- 上記の開発に関連したテストの開発・チーム内インフラ整備&lt;/p&gt;\n&lt;p&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;■組織・職場紹介 / About team and organization&lt;/strong&gt;&lt;br&gt;PlayStationのシステムソフトウェアのOSレイヤや開発環境パートを開発している部署です。&lt;br&gt;PlayStationのシステムソフトウェアには、&lt;br&gt;‐実際にPlayStation上で動作するシステムソフトウェアの機能 (PlayStationのユーザ向けの機能)&lt;br&gt;‐PlayStation上で動作するゲームやアプリを開発するための機能 (ゲームディベロッパ・アプリディベロッパ向けの機能)&lt;br&gt;という二つの側面があります。いずれの面においても直接的・間接的にエンドユーザに届くソフトウェア機能を開発する、取り組みがいのある業務です。&lt;br&gt;当部署では高速ストレージアクセス用コプロセッサの周辺機能、および社内外向けの開発環境に関連したソフトウェア開発を10名強で行なっています。&lt;/p&gt;\n&lt;p&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;■求められるスキル・技術領域 / Skills and Qualifications&lt;br&gt;&amp;nbsp;【必須(MUST)】&lt;br&gt;&lt;/strong&gt;チームでのソフトウェア開発経験に加え、&lt;br&gt;以下のいずれか、もしくは関連する周辺技術一点以上の開発経験が必須です。&lt;br&gt;&amp;nbsp;- FreeBSD, Linux 等の UNIX 系オペレーティングシステム開発&lt;br&gt;&amp;nbsp;- デバッガ・ソフトウェア開発支援ツール、クラッシュレポート等の開発環境関連の機能開発&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;【尚可(WANT)】&lt;br&gt;&lt;/strong&gt;&amp;nbsp;- ファイルシステムやデバイスドライバ開発経験&lt;/p&gt;\n&lt;p&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;■語学力 / Language Skills&lt;/strong&gt;&lt;br&gt;&amp;nbsp;【英語】&lt;br&gt;&amp;nbsp;・英語で技術的なやりとりができる能力 (TOEIC 650以上目安)。&lt;br&gt;&amp;nbsp;　海外チームとのやりとりや英文の技術仕様の読解が日常的に行なわれるため、&lt;br&gt;　 担当領域に関して英語でコミュニケーションできることが必須です。&lt;br&gt;&lt;br&gt;【日本語】&lt;br&gt;&amp;nbsp;・ビジネスレベルの日本語力（日本語能力試験N1またはそれと同等以上）&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p class=&quot;p1&quot;&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Equal Opportunity Statement:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Sony is an Equal Opportunity Employer. All persons will receive consideration for employment without regard to gender (including gender identity, gender expression and gender reassignment), race (including colour, nationality, ethnic or national origin), religion or belief, marital or civil partnership status, disability, age, sexual orientation, pregnancy or maternity, trade union membership or membership in any other legally protected category.&lt;/p&gt;\n&lt;p&gt;We strive to create an inclusive environment, empower employees and embrace diversity. We encourage everyone to respond.&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;PlayStation is a Fair Chance employer and qualified applicants with arrest and conviction records will be considered for employment.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4072503004,
+      "name": "Admin (FSEE)",
+      "child_ids": [],
+      "parent_id": 4072500004
+    }
+  ],
+  "offices": [
+    {
+      "id": 4040733004,
+      "name": "JPN-Tokyo-Sony City",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 4040731004
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

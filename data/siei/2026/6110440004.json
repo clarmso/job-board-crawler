@@ -1,0 +1,109 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/siei/jobs/6110440004",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": true,
+      "requires_processing_consent": false,
+      "requires_retention_consent": true,
+      "retention_period": 730,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "education": "education_optional",
+  "internal_job_id": 5183442004,
+  "location": {
+    "name": "Japan, Tokyo"
+  },
+  "metadata": [
+    {
+      "id": 4367803004,
+      "name": "Cost Center",
+      "value": "JPZ1EI6700 Manufacturing IT & Data Management",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167524004,
+      "name": "Career Page - Office Location",
+      "value": "Japan, Tokyo",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167525004,
+      "name": "Career Page - Department",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 9377282004,
+      "name": "Career Page - Sub Department",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 20089613004,
+      "name": "Career Page - Studio Project",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 4395289004,
+      "name": "Worker Type",
+      "value": "Employee",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4404049004,
+      "name": "Country",
+      "value": "Japan",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9262269004,
+      "name": "Job Family",
+      "value": "Systems Solutions",
+      "value_type": "short_text"
+    },
+    {
+      "id": 9262270004,
+      "name": "Job Family Group",
+      "value": "Information Technology",
+      "value_type": "short_text"
+    },
+    {
+      "id": 21724118004,
+      "name": "Bungie Geo Pay",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 6110440004,
+  "updated_at": "2026-07-28T00:52:04-04:00",
+  "requisition_id": "R-124540",
+  "title": "Sr Infrastructure / Platform Engineer",
+  "company_name": "Sony Interactive Entertainment Inc.",
+  "first_published": "2026-07-28T00:52:04-04:00",
+  "language": "ja",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Why PlayStation?&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;PlayStation isn’t just the Best Place to Play — it’s also the Best Place to Work. Today, we’re recognized as a global leader in entertainment producing The PlayStation family of products and services including PlayStation®5, PlayStation®4, PlayStation®VR, PlayStation®Plus, acclaimed PlayStation software titles from PlayStation Studios, and more.&lt;/p&gt;\n&lt;p&gt;PlayStation also strives to create an inclusive environment that empowers employees and embraces diversity. We welcome and encourage everyone who has a passion and curiosity for innovation, technology, and play to explore our open positions and join our growing global team.&lt;/p&gt;\n&lt;p&gt;The PlayStation brand falls under Sony Interactive Entertainment, a wholly-owned subsidiary of Sony Group Corporation.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;## **職務内容**&lt;/p&gt;\n&lt;p&gt;PlayStationの製造を支えるシステム基盤の設計・構築・運用を担当いただきます。&lt;/p&gt;\n&lt;p&gt;対象システムは、製造ライン・サプライチェーン・セキュリティ管理を支える高可用かつ高セキュリティな環境であり、安定稼働とデータ保護が求められるミッションクリティカルなシステムです。&lt;/p&gt;\n&lt;p&gt;グローバル製造拠点および関連部門と連携しながら、オンプレミスおよびKubernetesベースのインフラ基盤の設計・改善・運用に携わっていただきます。&lt;/p&gt;\n&lt;p&gt;### **主な業務内容**&lt;/p&gt;\n&lt;p&gt;- 高可用性・セキュリティ・運用性を考慮したシステム基盤の設計・構築・運用&lt;br&gt;- Kubernetesベースのコンテナ基盤の運用・改善&lt;br&gt;- 監視、障害対応、パフォーマンス改善などを含むシステム運用&lt;br&gt;- Infrastructure as Codeや構成管理ツールを活用した運用効率化・自動化&lt;br&gt;- ミッションクリティカルなデータに対する整合性・耐障害性を考慮したインフラ設計・運用&lt;br&gt;- HSM（Hardware Security Module）や鍵管理基盤を含むセキュリティ強化施策への参画&lt;br&gt;- レガシー環境の改善・モダナイズ推進&lt;br&gt;- グローバル製造拠点へのシステム展開および運用支援&lt;br&gt;- 外部開発パートナーとの協業、技術レビュー、品質管理、進捗管理&lt;br&gt;- 運用課題や障害分析を通じた継続的改善の推進&lt;/p&gt;\n&lt;p&gt;---&lt;/p&gt;\n&lt;p&gt;## **組織・職場紹介**&lt;/p&gt;\n&lt;p&gt;- PlayStationビジネスにおける各種課題に対して、主にITの側面からソリューション提供を行う組織です。&lt;br&gt;- ITサービスはグローバルで展開しており、各地域の担当者とコミュニケーションを取り、日本・アジア地域に最適なものを提供できるよう尽力しています。&lt;br&gt;- メンバーは多様なスキル・経験を持ち、互いに教えあい・学びあうことで成長し、組織に貢献できるチームワークが醸成されています。また、自主性を重んじたチーム運営がなされており、チャレンジしやすい環境です。&lt;br&gt;- 業務はテレワークと出社のハイブリッドで実施しています。出社は強制ではなく、各人の生活状況に応じて選択可能です。新規メンバーが加わる際には、チームビルディングも兼ねて積極的に出社し、迎え入れる体制があります。&lt;br&gt;- PlayStationビジネスを通じてキャリア開発・スキル向上を図り、組織および会社への貢献を目指す方にとって、成長機会の多い環境です。&lt;/p&gt;\n&lt;p&gt;---&lt;/p&gt;\n&lt;p&gt;## **応募資格**&lt;/p&gt;\n&lt;p&gt;### **【必須（MUST）】**&lt;/p&gt;\n&lt;p&gt;- Linux/オンプレミス環境におけるインフラ設計・構築・運用経験&lt;br&gt;- Kubernetesまたはコンテナ基盤の運用経験&lt;br&gt;- 高可用性・セキュリティを考慮したシステム運用経験&lt;br&gt;- システム障害対応、原因分析、運用改善の経験&lt;br&gt;- 英語による業務コミュニケーション能力&lt;br&gt;&amp;nbsp; &amp;nbsp; - 英語での会議参加、技術ドキュメントの読解・作成が可能なレベル&lt;br&gt;- 日本語ネイティブレベル&lt;/p&gt;\n&lt;p&gt;### **【歓迎（WANT）】**&lt;/p&gt;\n&lt;p&gt;- Kubernetes基盤の設計・構築経験&lt;br&gt;- Ansible等による構成管理経験&lt;br&gt;- Helm等を用いたKubernetesデプロイ管理経験&lt;br&gt;- Infrastructure as Codeに関する実務経験&lt;br&gt;- HSM、鍵管理基盤、PKI、証明書管理等のセキュリティインフラ経験&lt;br&gt;- Prometheus、Grafana等を用いた監視設計経験&lt;br&gt;- SRE/DevOps/Platform Engineeringの実践経験&lt;br&gt;- 高可用なデータストア／ストレージ基盤の設計・運用経験&lt;br&gt;- 製造業またはミッションクリティカルシステムの運用経験&lt;br&gt;- PlayStationやゲームへの興味・関心&lt;/p&gt;\n&lt;p&gt;---&lt;/p&gt;\n&lt;p&gt;## **求める人物像**&lt;/p&gt;\n&lt;p&gt;- 外部パートナーとも協業しながら、自らも技術的な設計・改善・運用に主体的に関与できる方&lt;br&gt;- 未知の技術や領域に対しても、自ら学習しキャッチアップできる方&lt;br&gt;- システム全体を俯瞰し、可用性・セキュリティ・運用性を考慮して課題解決できる方&lt;br&gt;- 障害や運用課題に対してオーナーシップを持ち、継続的改善を推進できる方&lt;br&gt;- ドキュメント作成やレビュー、技術議論を通じて円滑にコミュニケーションできる方&lt;br&gt;- 利用者・運用者視点を持ち、安定運用と業務効率化を両立できる方&lt;br&gt;- 多様なメンバーと協力しながら、主体的に業務を推進できる方&lt;br&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p class=&quot;p1&quot;&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Equal Opportunity Statement:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Sony is an Equal Opportunity Employer. All persons will receive consideration for employment without regard to gender (including gender identity, gender expression and gender reassignment), race (including colour, nationality, ethnic or national origin), religion or belief, marital or civil partnership status, disability, age, sexual orientation, pregnancy or maternity, trade union membership or membership in any other legally protected category.&lt;/p&gt;\n&lt;p&gt;We strive to create an inclusive environment, empower employees and embrace diversity. We encourage everyone to respond.&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;PlayStation is a Fair Chance employer and qualified applicants with arrest and conviction records will be considered for employment.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4069199004,
+      "name": "DTIS Japan/Asia",
+      "child_ids": [],
+      "parent_id": 4065067004
+    }
+  ],
+  "offices": [
+    {
+      "id": 4040734004,
+      "name": "JPN-Tokyo-Shibaura Crystal Shinagawa Konan",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 4040731004
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

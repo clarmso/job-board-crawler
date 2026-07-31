@@ -1,0 +1,108 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6006523004",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": true,
+      "requires_processing_consent": false,
+      "requires_retention_consent": true,
+      "retention_period": 730,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 5159005004,
+  "location": {
+    "name": "United Kingdom, London"
+  },
+  "metadata": [
+    {
+      "id": 4367803004,
+      "name": "Cost Center",
+      "value": "GAMES4GB62-GBU2100001 SDKQA & Docs GB",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167524004,
+      "name": "Career Page - Office Location",
+      "value": "United Kingdom, London",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167525004,
+      "name": "Career Page - Department",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 9377282004,
+      "name": "Career Page - Sub Department",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 20089613004,
+      "name": "Career Page - Studio Project",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 4395289004,
+      "name": "Worker Type",
+      "value": "Employee",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4404049004,
+      "name": "Country",
+      "value": "United Kingdom",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9262269004,
+      "name": "Job Family",
+      "value": "Software Development Engineering",
+      "value_type": "short_text"
+    },
+    {
+      "id": 9262270004,
+      "name": "Job Family Group",
+      "value": "Engineering",
+      "value_type": "short_text"
+    },
+    {
+      "id": 21724118004,
+      "name": "Bungie Geo Pay",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 6006523004,
+  "updated_at": "2026-07-09T18:53:36-04:00",
+  "requisition_id": "R-124203",
+  "title": "Senior Software Engineer, Audio Validation Systems",
+  "company_name": "PlayStation Global",
+  "first_published": "2026-06-05T07:45:35-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Why Sony Interactive Entertainment?&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Sony Interactive Entertainment isn’t just the Best Place to Play — it’s also the Best Place to Work. Sony Interactive Entertainment (SIE) is the company behind the PlayStation brand. As a subsidiary of Sony Group Corporation, we’re part of a proud legacy of innovation and excellence. SIE is a dynamic technology company, delivering cutting-edge hardware and network services to more than 100 million people and an entertainment leader, home to some of the most beloved and recognizable intellectual properties (IP) in the world. Our role at SIE is to create and nurture the experiences under the PlayStation brand, a name synonymous with entertainment excellence and creativity.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;United Kingdom, London&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;h3&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Why Sony Interactive Entertainment?&lt;/span&gt;&lt;/h3&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Sony Interactive Entertainment isn’t just the Best Place to Play — it’s also the Best Place to Work. We’re the company behind PlayStation, delivering cutting-edge hardware, software, and network services to players and game creators around the world.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Our role is to create the technologies, tools, and experiences that help developers build the best games on PlayStation. We work at the intersection of platform engineering, developer experience, and interactive entertainment, pushing the boundaries of play through high-quality SDKs, systems, and tools.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Role overview&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;We’re looking for a &lt;strong&gt;Senior Software Engineer&lt;/strong&gt; to build the tools and automated systems we use to validate audio technologies in the PlayStation SDK.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;This role sits within SDK Quality Engineering, but the work is primarily software engineering. You’ll design and build audio analysis tools, automated validation pipelines, regression detection systems, and developer-facing diagnostics that help engineers understand whether audio behaviour is correct, stable, and release-ready.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;You’ll work closely with Audio SDK engineers and platform teams to turn complex audio quality problems into measurable, repeatable engineering systems.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;The right person will have strong C/C++ and Python skills, practical digital audio knowledge, and experience building reliable tools, automation, or analysis systems. Previous testing or QE experience is helpful, but we’re most interested in engineers who can write production-quality code, reason about audio behaviour, and build systems that other engineers depend on.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;The team&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;The SDK Quality Engineering team is part of the Foundational Systems and Experiences Engineering group in London.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;We work on low-level SDKs and core platform technologies used by game developers building PlayStation games. This role focuses on audio technologies within the PlayStation SDK, including libraries, tools, runtime behaviour, and platform-level audio features.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;You’ll work close to both engineering and quality. The goal is to make audio behaviour measurable, regressions easier to detect, and release decisions better informed.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;What you’ll be doing&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Design, build, and maintain audio validation tools for PlayStation SDK audio libraries and technologies.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Write C/C++ and Python code to analyse audio output, detect regressions, compare SDK versions, and validate expected behaviour.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Build automated systems for repeatable audio quality measurement, including signal analysis, spectral comparison, latency checks, conformance checks, and regression detection.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Create tooling that gives engineers clear evidence when audio behaviour changes.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Work with Audio SDK engineers to understand features, risks, expected behaviour, and testability needs.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Integrate audio validation into CI, build pipelines, reporting, dashboards, and release workflows.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Investigate complex audio issues using debugging, data analysis, signal processing, and collaboration with domain experts.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Own technical areas end to end, from requirements and design through implementation, documentation, maintenance, and support.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Help define standards for maintainable, reproducible, and trustworthy audio validation tooling.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Mentor engineers and share knowledge across SDK QE and Audio SDK teams.&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;What we’re looking for&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Essential&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Strong professional software engineering experience.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Strong C/C++ development skills.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Strong Python development skills.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Practical understanding of digital audio fundamentals, such as PCM audio, sample rates, channels, latency, dynamic range, filtering, resampling, encoding, or frequency-domain analysis.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Experience building tools, automation, analysis systems, SDK components, test infrastructure, or developer-facing systems.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Strong debugging skills across code, data, tooling, environments, and pipelines.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Ability to take ambiguous technical problems and turn them into robust, maintainable software.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Experience with source control, code review, CI, and collaborative engineering workflows.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Clear written and verbal communication, especially when explaining technical findings to engineers with different specialisms.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Degree in Computer Science, Engineering, Audio Technology, Mathematics, Physics, or equivalent practical experience.&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Strongly preferred&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Experience with audio analysis, signal processing, or automated media validation.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Experience validating libraries, APIs, command-line tools, SDKs, runtime systems, or platform-level software.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Experience with automated regression detection and quality measurement.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Experience working with CI systems such as Jenkins, GitHub Actions, Buildkite, TeamCity, or similar.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Experience with test frameworks such as GTest, CppUnit, PyTest, or similar.&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Useful extras&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Game audio, console audio, real-time audio systems, middleware, audio engines, or SDK development.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Perceptual or objective audio quality approaches such as loudness measurement, spectral comparison, null testing, impulse response analysis, latency measurement, glitch detection, dropout detection, PESQ, POLQA, or PEAQ.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Spatial audio, 3D audio, binaural rendering, ambisonics, HRTFs, object-based audio, or immersive audio formats.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Performance profiling, numerical correctness testing, floating-point tolerances, or cross-platform determinism.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Dashboards, telemetry, reporting, or trend analysis.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Technical leadership, mentoring, or leading work across multiple teams.&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;What success looks like&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;You’ll make PlayStation SDK audio technologies easier to validate, easier to debug, and safer to release.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Within the first 6 to 12 months, success could look like:&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Audio regressions are detected earlier through automated validation.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Engineers have clearer evidence when audio behaviour changes between SDK versions.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Audio quality checks are integrated into repeatable CI or release workflows.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Key audio validation tools are documented, maintainable, and trusted by engineering teams.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;The team has a clearer technical strategy for audio quality measurement.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;You’re recognised as a senior technical owner for audio validation systems within SDK QE.&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;At Senior Software Engineer level, we expect you to work independently, make sound technical trade-offs, own systems end to end, and influence quality practices beyond your immediate tasks.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;h3&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Benefits of working at PlayStation&lt;/span&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Technology development is not constrained by a specific game or engine; there is space to research, prototype, and develop foundational technologies used across PlayStation.&lt;/span&gt;&lt;/p&gt;\n&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Opportunities to collaborate with engineering and R&amp;amp;D teams across London, Tokyo, San Mateo, and the wider Sony group.&lt;/span&gt;&lt;/p&gt;\n&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Time and support to investigate new approaches, improve engineering systems, and contribute ideas that raise the quality bar.&lt;/span&gt;&lt;/p&gt;\n&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Opportunities to take part in global hackathons and cross-team innovation projects.&lt;/span&gt;&lt;/p&gt;\n&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;A relaxed working environment with a high level of trust and autonomy, where engineers are encouraged to express their views and challenge the status quo.&lt;/span&gt;&lt;/p&gt;\n&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Benefits&lt;/strong&gt;:&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Hybrid working&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Discretionary bonus opportunity&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Private Medical Insurance&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Dental Scheme&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;London Allowance (if applicable)&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;25 days holiday per year&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;On Site Gym&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Subsidised Café&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Free soft drinks&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;On site bar&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Access to cycle garage and showers&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p class=&quot;p1&quot;&gt;Please note, Sony Interactive Entertainment conducts background checks at the offer stage for all new employees (which may include criminal background checks for some roles) and will need to process personal information to support these checks.&lt;/p&gt;\n&lt;p class=&quot;p1&quot;&gt;Please refer to our&amp;nbsp;&lt;a href=&quot;https://www.playstation.com/legal/careers-privacy-notice/&quot; target=&quot;_blank&quot;&gt;Candidate Privacy Notice&lt;/a&gt;&amp;nbsp;for more information about what personal information we collect, how we use it, who we share it with, and your data protection rights.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Equal Opportunity Statement:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Sony is an Equal Opportunity Employer. All persons will receive consideration for employment without regard to gender (including gender identity, gender expression and gender reassignment), race (including colour, nationality, ethnic or national origin), religion or belief, marital or civil partnership status, disability, age, sexual orientation, pregnancy, maternity or parental status, trade union membership or membership in any other legally protected category.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;We strive to create an inclusive environment, empower employees and embrace diversity. We encourage everyone to respond.&amp;nbsp;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Sony Interactive Entertainment is a Fair Chance employer and qualified applicants with arrest and conviction records will be considered for employment.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4072503004,
+      "name": "Admin (FSEE)",
+      "child_ids": [],
+      "parent_id": 4072500004
+    }
+  ],
+  "offices": [
+    {
+      "id": 4011924004,
+      "name": "GBR-London-13GMS",
+      "location": "London, England, United Kingdom",
+      "child_ids": [],
+      "parent_id": 4011922004
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

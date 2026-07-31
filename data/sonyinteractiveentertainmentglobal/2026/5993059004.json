@@ -1,0 +1,108 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5993059004",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": true,
+      "requires_processing_consent": false,
+      "requires_retention_consent": true,
+      "retention_period": 1460,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 5152844004,
+  "location": {
+    "name": "United States, San Mateo, CA"
+  },
+  "metadata": [
+    {
+      "id": 4367803004,
+      "name": "Cost Center",
+      "value": "GAMES4US70-USL2950156 SQE-Gaming-Life",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167524004,
+      "name": "Career Page - Office Location",
+      "value": "United States, San Mateo, CA",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167525004,
+      "name": "Career Page - Department",
+      "value": "Software Engineering & Services",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9377282004,
+      "name": "Career Page - Sub Department",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 20089613004,
+      "name": "Career Page - Studio Project",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 4395289004,
+      "name": "Worker Type",
+      "value": "Employee",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4404049004,
+      "name": "Country",
+      "value": "United States of America",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9262269004,
+      "name": "Job Family",
+      "value": "Software QA Engineering",
+      "value_type": "short_text"
+    },
+    {
+      "id": 9262270004,
+      "name": "Job Family Group",
+      "value": "Engineering",
+      "value_type": "short_text"
+    },
+    {
+      "id": 21724118004,
+      "name": "Bungie Geo Pay",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 5993059004,
+  "updated_at": "2026-07-24T05:37:57-04:00",
+  "requisition_id": "R-123971",
+  "title": "Senior Software Development Engineer In Test, ML/AI",
+  "company_name": "PlayStation Global",
+  "first_published": "2026-06-04T14:15:17-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Why Sony Interactive Entertainment?&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Sony Interactive Entertainment isn’t just the Best Place to Play — it’s also the Best Place to Work. Sony Interactive Entertainment (SIE) is the company behind the PlayStation brand. As a subsidiary of Sony Group Corporation, we’re part of a proud legacy of innovation and excellence. SIE is a dynamic technology company, delivering cutting-edge hardware and network services to more than 100 million people and an entertainment leader, home to some of the most beloved and recognizable intellectual properties (IP) in the world. Our role at SIE is to create and nurture the experiences under the PlayStation brand, a name synonymous with entertainment excellence and creativity.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;strong&gt;Senior Software Development Engineer In Test, ML/AI&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;At SIE, we believe in making play safer for everyone. Within our Information Security team, we protect our people, platforms, and products with smart, scalable, and thoughtful solutions. Our mission is to provide clear, actionable risk and security insights that guide the business and enable amazing player experiences.&lt;/p&gt;\n&lt;p&gt;We’re building a team that thrives on collaboration, curiosity, and delivering real value. Come help us make a difference!&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;We are hiring a Sr Software Engineer in Test specializing in ML/AI quality, including automation for model evaluation, LLM-assisted test generation, and validation of AI-powered workflows. The role includes guiding quality strategy and developing automation frameworks. You will also manage implementation for complex, cross-functional, machine learning-powered products and services. This role involves more than test development. You will lead quality initiatives from start to finish, ensuring teams stay synchronized, dependencies are managed, and releases are delivered confidently. You will work closely with ML, engineering, product, and infrastructure teams. You will shape how quality is built, monitored, and expanded while leading embedded QE efforts within projects.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Define and complete quality strategies, test plans, and automation coverage for ML-powered services and platform components.&lt;/li&gt;\n&lt;li&gt;Use LLMs and other AI-assisted techniques to generate, expand, and maintain high-value test cases for ML-powered workflows.&lt;/li&gt;\n&lt;li&gt;Design scenario-based test suites for AI features, including adversarial prompts, edge cases, ambiguous inputs, and underrepresented user scenarios.&lt;/li&gt;\n&lt;li&gt;Lead QE efforts for multi-functional projects, driving risk assessment, dependency management, and release readiness.&lt;/li&gt;\n&lt;li&gt;Design, develop, and maintain scalable automation frameworks for backend services, APIs, and ML inference systems using Python and/or Java.&lt;/li&gt;\n&lt;li&gt;Build automated validation for ML and LLM outputs, including ranking behavior, score distributions, prompt/response quality, hallucination indicators, and probabilistic model evaluation.&lt;/li&gt;\n&lt;li&gt;Debug test failures, service anomalies, model inconsistencies, and AI behavior regressions to identify root causes and drive resolution.&lt;/li&gt;\n&lt;li&gt;Perform functional, integration, regression, API, end-to-end, performance, and reliability testing for distributed systems.&lt;/li&gt;\n&lt;li&gt;Improve automation reliability, reduce flakiness, and optimize execution efficiency.&lt;/li&gt;\n&lt;li&gt;Partner with engineering and ML teams to integrate automated testing into CI/CD pipelines and release workflows.&lt;/li&gt;\n&lt;li&gt;Collaborate across teams to establish scalable quality standards, tooling, and guidelines.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;Required qualifications&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Bachelor’s degree in Computer Science or equivalent&lt;/li&gt;\n&lt;li&gt;5+ years of experience as an SDET or QE engineer focused on backend and distributed systems.&lt;/li&gt;\n&lt;li&gt;Experience using LLMs to generate, transform, and prioritize test cases for AI-powered experiences.&lt;/li&gt;\n&lt;li&gt;Experience with AI evaluation tooling, prompt evaluation frameworks, model monitoring, or human-in-the-loop review workflows.&lt;/li&gt;\n&lt;li&gt;Strong experience testing RESTful APIs, microservices, and distributed architectures.&lt;/li&gt;\n&lt;li&gt;Proficiency in Python, Java, JS or similar languages for automation development.&lt;/li&gt;\n&lt;li&gt;Hands-on experience with automation frameworks such as pytest, JUnit, Selenium, Playwright, Cypress, or Appium.&lt;/li&gt;\n&lt;li&gt;Experience with CI/CD systems and test pipelines (Jenkins, GitHub Actions, etc.).&lt;/li&gt;\n&lt;li&gt;Experience with cloud and container technologies (AWS, GCP, Kubernetes, Docker).&lt;/li&gt;\n&lt;li&gt;Familiarity with databases, monitoring, and observability tools.&lt;/li&gt;\n&lt;li&gt;Strong understanding of SDLC, Agile methodologies, and release processes.&lt;/li&gt;\n&lt;li&gt;Excellent problem-solving, debugging, and communication skills.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;Preferred qualifications&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience validating ML outputs using statistical analysis or scenario-based testing approaches.&lt;/li&gt;\n&lt;li&gt;Familiarity with ML infrastructure, data pipelines, or model-serving platforms (Seldon, KServe, Ray Serve, etc.).&lt;/li&gt;\n&lt;li&gt;Prior work in content moderation ML, security, fraud detection, or adversarial ML.&lt;/li&gt;\n&lt;li&gt;Experience testing high-scale, low-latency online services.&lt;/li&gt;\n&lt;li&gt;Experience with Databricks or similar ML platform tooling.&lt;/li&gt;\n&lt;li&gt;Familiarity with Node.js, React, or modern frontend technologies.&lt;/li&gt;\n&lt;li&gt;Experience testing mobile, console, or other non-PC platforms.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;What sets you apart&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Strong combination of automation engineering and delivery ownership.&lt;/li&gt;\n&lt;li&gt;Ability to drive quality across complex cross-functional initiatives.&lt;/li&gt;\n&lt;li&gt;Practical understanding of how to test non-deterministic AI systems and separate model variance from quality regressions.&lt;/li&gt;\n&lt;li&gt;Proven risk management and dependency coordination skills.&lt;/li&gt;\n&lt;li&gt;Ability to influence engineering teams and promote quality guidelines.&lt;/li&gt;\n&lt;li&gt;Passion for scalable, reliable, and maintainable automation systems.&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;At SIE, we consider several factors when setting each role’s base pay range, including the competitive benchmarking data for the market and geographic location.&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;br&gt;Please note that the base pay range may vary in line with our hybrid working policy and individual base pay will be determined based on job-related factors which may include knowledge, skills, experience, and location.&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;br&gt;In addition, this role &lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;is eligible&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; for SIE’s top-tier benefits package that includes medical, dental, vision, matching 401(k), paid time off, wellness program and coveted employee discounts for Sony products. &lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;This role also may be eligible for a bonus package.&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; Click&amp;nbsp;&lt;/span&gt;&lt;a href=&quot;https://careers.playstation.com/benefits&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; to learn more.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;The estimated base pay range for this role is listed below.&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$183,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$274,600 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p class=&quot;p1&quot;&gt;Please note, Sony Interactive Entertainment conducts background checks at the offer stage for all new employees (which may include criminal background checks for some roles) and will need to process personal information to support these checks.&lt;/p&gt;\n&lt;p class=&quot;p1&quot;&gt;Please refer to our&amp;nbsp;&lt;a href=&quot;https://www.playstation.com/legal/careers-privacy-notice/&quot; target=&quot;_blank&quot;&gt;Candidate Privacy Notice&lt;/a&gt;&amp;nbsp;for more information about what personal information we collect, how we use it, who we share it with, and your data protection rights.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Equal Opportunity Statement:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Sony is an Equal Opportunity Employer. All persons will receive consideration for employment without regard to gender (including gender identity, gender expression and gender reassignment), race (including colour, nationality, ethnic or national origin), religion or belief, marital or civil partnership status, disability, age, sexual orientation, pregnancy, maternity or parental status, trade union membership or membership in any other legally protected category.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;We strive to create an inclusive environment, empower employees and embrace diversity. We encourage everyone to respond.&amp;nbsp;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Sony Interactive Entertainment is a Fair Chance employer and qualified applicants with arrest and conviction records will be considered for employment.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4149056004,
+      "name": "FSEE US",
+      "child_ids": [],
+      "parent_id": 4072500004
+    }
+  ],
+  "offices": [
+    {
+      "id": 4012034004,
+      "name": "USA-CA-San Mateo",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 4089335004
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

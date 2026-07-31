@@ -1,0 +1,108 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5837069004",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": true,
+      "requires_processing_consent": false,
+      "requires_retention_consent": true,
+      "retention_period": 730,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 5068618004,
+  "location": {
+    "name": "United Kingdom, London"
+  },
+  "metadata": [
+    {
+      "id": 4367803004,
+      "name": "Cost Center",
+      "value": "GAMES4GB60-GBU1001083 PSS ATG EU",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167524004,
+      "name": "Career Page - Office Location",
+      "value": "United Kingdom, London",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167525004,
+      "name": "Career Page - Department",
+      "value": "Software Engineering & Services",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9377282004,
+      "name": "Career Page - Sub Department",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 20089613004,
+      "name": "Career Page - Studio Project",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 4395289004,
+      "name": "Worker Type",
+      "value": "Employee",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4404049004,
+      "name": "Country",
+      "value": "United Kingdom",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9262269004,
+      "name": "Job Family",
+      "value": "Software Development Engineering",
+      "value_type": "short_text"
+    },
+    {
+      "id": 9262270004,
+      "name": "Job Family Group",
+      "value": "Engineering",
+      "value_type": "short_text"
+    },
+    {
+      "id": 21724118004,
+      "name": "Bungie Geo Pay",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 5837069004,
+  "updated_at": "2026-07-09T18:53:36-04:00",
+  "requisition_id": "R-123607",
+  "title": "Senior Software Engineer - GPU Capture and Replay",
+  "company_name": "PlayStation Global",
+  "first_published": "2026-04-01T05:00:49-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Why Sony Interactive Entertainment?&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Sony Interactive Entertainment isn’t just the Best Place to Play — it’s also the Best Place to Work. Sony Interactive Entertainment (SIE) is the company behind the PlayStation brand. As a subsidiary of Sony Group Corporation, we’re part of a proud legacy of innovation and excellence. SIE is a dynamic technology company, delivering cutting-edge hardware and network services to more than 100 million people and an entertainment leader, home to some of the most beloved and recognizable intellectual properties (IP) in the world. Our role at SIE is to create and nurture the experiences under the PlayStation brand, a name synonymous with entertainment excellence and creativity.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;About the Advanced Technology Group&lt;/span&gt;&lt;/strong&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:true,&amp;quot;134233118&amp;quot;:true,&amp;quot;201341983&amp;quot;:0,&amp;quot;335559740&amp;quot;:240}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span data-contrast=&quot;auto&quot;&gt;The Advanced Technology Group (ATG) is a part of Foundational Systems and Experiences Engineering (FSEE) within the Platform Business Group.&amp;nbsp;Established over 20 years ago as part of&amp;nbsp;PlayStation®’s&amp;nbsp;first-party game development studios, ATG has always focused on helping game developers get the most out of PlayStation®&amp;nbsp;hardware&amp;nbsp;-&amp;nbsp;a mission that continues to this day.&amp;nbsp;As a team, we&amp;nbsp;are responsible&amp;nbsp;for&amp;nbsp;large parts&amp;nbsp;of the&amp;nbsp;graphics&amp;nbsp;software stack used by all PlayStation®&amp;nbsp;games,&amp;nbsp;and&amp;nbsp;collaborate with&amp;nbsp;leading&amp;nbsp;engineering teams worldwide, from game developers to hardware vendors, to deliver key platform technologies.&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:true,&amp;quot;134233118&amp;quot;:true,&amp;quot;201341983&amp;quot;:0,&amp;quot;335559740&amp;quot;:240}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;What&amp;nbsp;you’ll&amp;nbsp;be doing&lt;/span&gt;&lt;/strong&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:true,&amp;quot;134233118&amp;quot;:true,&amp;quot;201341983&amp;quot;:0,&amp;quot;335559740&amp;quot;:240}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;1&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;hybridMultilevel&amp;quot;}&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;You will be working on Razor GPU, a GPU performance analysis and debugging tool, for current and future PlayStation®&amp;nbsp;platforms.&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:true,&amp;quot;134233118&amp;quot;:true,&amp;quot;201341983&amp;quot;:0,&amp;quot;335559740&amp;quot;:240}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;ul&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;1&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;hybridMultilevel&amp;quot;}&quot; data-aria-posinset=&quot;2&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;You will be developing GPU Capture and Replay technology, which allows GPU&amp;nbsp;commands, shaders and resources to be captured,&amp;nbsp;analysed and later&amp;nbsp;reinstated,&amp;nbsp;so that&amp;nbsp;graphics&amp;nbsp;frames&amp;nbsp;can be re-executed on the GPU independently from the running game.&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:true,&amp;quot;134233118&amp;quot;:true,&amp;quot;201341983&amp;quot;:0,&amp;quot;335559740&amp;quot;:240}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;ul&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;1&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;hybridMultilevel&amp;quot;}&quot; data-aria-posinset=&quot;3&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;You will be developing&amp;nbsp;profiling and debugging features upon this core technology, to help game developers worldwide to realize their creative vision and push PlayStation®&amp;nbsp;hardware to its limits.&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:true,&amp;quot;134233118&amp;quot;:true,&amp;quot;201341983&amp;quot;:0,&amp;quot;335559740&amp;quot;:240}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;ul&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;1&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;hybridMultilevel&amp;quot;}&quot; data-aria-posinset=&quot;4&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;You will be developing&amp;nbsp;internal&amp;nbsp;features&amp;nbsp;used by&amp;nbsp;platform software&amp;nbsp;and hardware&amp;nbsp;teams,&amp;nbsp;to help build and improve the&amp;nbsp;PlayStation®&amp;nbsp;graphics software stack, as well as diagnose low-level&amp;nbsp;platform&amp;nbsp;issues.&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:true,&amp;quot;134233118&amp;quot;:true,&amp;quot;201341983&amp;quot;:0,&amp;quot;335559740&amp;quot;:240}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;ul&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;1&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;hybridMultilevel&amp;quot;}&quot; data-aria-posinset=&quot;5&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;You will collaborate with game developers and platform engineers to&amp;nbsp;gain a deep&amp;nbsp;understanding of&amp;nbsp;their&amp;nbsp;needs, with a view to creating efficient,&amp;nbsp;reliable&amp;nbsp;and scalable tools, which are a joy to use&amp;nbsp;for&amp;nbsp;&lt;/span&gt;&lt;span data-contrast=&quot;auto&quot;&gt;entry/&lt;/span&gt;&lt;span data-contrast=&quot;auto&quot;&gt;new&lt;/span&gt;&lt;span data-contrast=&quot;auto&quot;&gt;-level&lt;/span&gt;&lt;span data-contrast=&quot;auto&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span data-contrast=&quot;auto&quot;&gt;and deeply technical engineers alike.&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:true,&amp;quot;134233118&amp;quot;:true,&amp;quot;201341983&amp;quot;:0,&amp;quot;335559740&amp;quot;:240}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;span data-contrast=&quot;auto&quot;&gt;This is a unique senior&amp;nbsp;engineering role&amp;nbsp;at the&amp;nbsp;heart&amp;nbsp;of PlayStation®&amp;nbsp;GPU technology, where you will work within a highly experienced&amp;nbsp;&lt;/span&gt;&lt;span data-contrast=&quot;auto&quot;&gt;technology&lt;/span&gt;&lt;span data-contrast=&quot;auto&quot;&gt;technical&lt;/span&gt;&lt;span data-contrast=&quot;auto&quot;&gt;-driven team. We are looking for&amp;nbsp;developers&amp;nbsp;who are passionate&amp;nbsp;about their craft, the products they&amp;nbsp;build, and who would like to make a&amp;nbsp;lasting&amp;nbsp;impact on the&amp;nbsp;PlayStation®&amp;nbsp;graphics software stack,&amp;nbsp;its tooling&lt;/span&gt;&lt;span data-contrast=&quot;auto&quot;&gt;,&lt;/span&gt;&lt;span data-contrast=&quot;auto&quot;&gt;&amp;nbsp;and&amp;nbsp;future.&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:true,&amp;quot;134233118&amp;quot;:true,&amp;quot;201341983&amp;quot;:0,&amp;quot;335559740&amp;quot;:240}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:true,&amp;quot;134233118&amp;quot;:true,&amp;quot;201341983&amp;quot;:0,&amp;quot;335559740&amp;quot;:240}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;What&amp;nbsp;we are looking for&lt;/span&gt;&lt;/strong&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:true,&amp;quot;134233118&amp;quot;:true,&amp;quot;201341983&amp;quot;:0,&amp;quot;335559740&amp;quot;:240}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;2&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;multilevel&amp;quot;}&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Strong problem-solving skills, including the ability to design and implement&amp;nbsp;highly reliable&amp;nbsp;performant&amp;nbsp;systems in C++.&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:true,&amp;quot;134233118&amp;quot;:true,&amp;quot;201341983&amp;quot;:0,&amp;quot;335559740&amp;quot;:240}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;ul&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;2&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;multilevel&amp;quot;}&quot; data-aria-posinset=&quot;2&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Strong debugging skills, including the ability to understand&amp;nbsp;and reason about&amp;nbsp;complex systems,&amp;nbsp;as well as&amp;nbsp;unpick their interactions.&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:true,&amp;quot;134233118&amp;quot;:true,&amp;quot;201341983&amp;quot;:0,&amp;quot;335559740&amp;quot;:240}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;ul&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;2&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;multilevel&amp;quot;}&quot; data-aria-posinset=&quot;3&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Experience developing&amp;nbsp;on&amp;nbsp;consoles,&amp;nbsp;particularly&amp;nbsp;using&amp;nbsp;console&amp;nbsp;graphics and memory management APIs.&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:true,&amp;quot;134233118&amp;quot;:true,&amp;quot;201341983&amp;quot;:0,&amp;quot;335559740&amp;quot;:240}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;ul&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;2&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;multilevel&amp;quot;}&quot; data-aria-posinset=&quot;4&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;An interest in&amp;nbsp;GPU architecture&amp;nbsp;and&amp;nbsp;low-level graphics&amp;nbsp;engineering.&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:true,&amp;quot;134233118&amp;quot;:true,&amp;quot;201341983&amp;quot;:0,&amp;quot;335559740&amp;quot;:240}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;ul&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;2&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;multilevel&amp;quot;}&quot; data-aria-posinset=&quot;5&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Experience&amp;nbsp;using&amp;nbsp;GPU profiling and debugging tools.&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:true,&amp;quot;134233118&amp;quot;:true,&amp;quot;201341983&amp;quot;:0,&amp;quot;335559740&amp;quot;:240}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;ul&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;2&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;multilevel&amp;quot;}&quot; data-aria-posinset=&quot;6&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;An&amp;nbsp;eagerness&amp;nbsp;to learn&amp;nbsp;and take responsibility&amp;nbsp;of&amp;nbsp;features end-to-end, from&amp;nbsp;building&amp;nbsp;core&amp;nbsp;systems,&amp;nbsp;to&amp;nbsp;influencing&amp;nbsp;end-user&amp;nbsp;UX&amp;nbsp;design.&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:true,&amp;quot;134233118&amp;quot;:true,&amp;quot;201341983&amp;quot;:0,&amp;quot;335559740&amp;quot;:240}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p class=&quot;p1&quot;&gt;Please note, Sony Interactive Entertainment conducts background checks at the offer stage for all new employees (which may include criminal background checks for some roles) and will need to process personal information to support these checks.&lt;/p&gt;\n&lt;p class=&quot;p1&quot;&gt;Please refer to our&amp;nbsp;&lt;a href=&quot;https://www.playstation.com/legal/careers-privacy-notice/&quot; target=&quot;_blank&quot;&gt;Candidate Privacy Notice&lt;/a&gt;&amp;nbsp;for more information about what personal information we collect, how we use it, who we share it with, and your data protection rights.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Equal Opportunity Statement:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Sony is an Equal Opportunity Employer. All persons will receive consideration for employment without regard to gender (including gender identity, gender expression and gender reassignment), race (including colour, nationality, ethnic or national origin), religion or belief, marital or civil partnership status, disability, age, sexual orientation, pregnancy, maternity or parental status, trade union membership or membership in any other legally protected category.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;We strive to create an inclusive environment, empower employees and embrace diversity. We encourage everyone to respond.&amp;nbsp;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Sony Interactive Entertainment is a Fair Chance employer and qualified applicants with arrest and conviction records will be considered for employment.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4072503004,
+      "name": "Admin (FSEE)",
+      "child_ids": [],
+      "parent_id": 4072500004
+    }
+  ],
+  "offices": [
+    {
+      "id": 4011925004,
+      "name": "GBR-London-15GMS",
+      "location": "London, England, United Kingdom",
+      "child_ids": [],
+      "parent_id": 4011922004
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

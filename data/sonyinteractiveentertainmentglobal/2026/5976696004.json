@@ -1,0 +1,108 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5976696004",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": true,
+      "requires_processing_consent": false,
+      "requires_retention_consent": true,
+      "retention_period": 730,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 5144608004,
+  "location": {
+    "name": "Germany, Berlin"
+  },
+  "metadata": [
+    {
+      "id": 4367803004,
+      "name": "Cost Center",
+      "value": "GAMES4DE10-DEL4300021 SRE DE",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167524004,
+      "name": "Career Page - Office Location",
+      "value": "Germany, Berlin",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167525004,
+      "name": "Career Page - Department",
+      "value": "Network Engineering",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9377282004,
+      "name": "Career Page - Sub Department",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 20089613004,
+      "name": "Career Page - Studio Project",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 4395289004,
+      "name": "Worker Type",
+      "value": "Employee",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4404049004,
+      "name": "Country",
+      "value": "Germany",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9262269004,
+      "name": "Job Family",
+      "value": "Site Reliability Engineering",
+      "value_type": "short_text"
+    },
+    {
+      "id": 9262270004,
+      "name": "Job Family Group",
+      "value": "Engineering",
+      "value_type": "short_text"
+    },
+    {
+      "id": 21724118004,
+      "name": "Bungie Geo Pay",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 5976696004,
+  "updated_at": "2026-07-09T18:53:36-04:00",
+  "requisition_id": "R-123687",
+  "title": "Site Reliability Engineer",
+  "company_name": "PlayStation Global",
+  "first_published": "2026-04-20T11:23:13-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Why Sony Interactive Entertainment?&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Sony Interactive Entertainment isn’t just the Best Place to Play — it’s also the Best Place to Work. Sony Interactive Entertainment (SIE) is the company behind the PlayStation brand. As a subsidiary of Sony Group Corporation, we’re part of a proud legacy of innovation and excellence. SIE is a dynamic technology company, delivering cutting-edge hardware and network services to more than 100 million people and an entertainment leader, home to some of the most beloved and recognizable intellectual properties (IP) in the world. Our role at SIE is to create and nurture the experiences under the PlayStation brand, a name synonymous with entertainment excellence and creativity.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Site Reliability Engineer&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;As a part of Sony Computer Entertainment, the &lt;span data-contrast=&quot;none&quot;&gt;Gaming,&lt;span class=&quot;Apple-converted-space&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span class=&quot;searchHighlight&quot;&gt;Developer&lt;/span&gt;&lt;span class=&quot;Apple-converted-space&quot;&gt;&amp;nbsp;&lt;/span&gt;&amp;amp; Future&lt;span class=&quot;Apple-converted-space&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span class=&quot;searchHighlight&quot;&gt;Technology Group&lt;/span&gt; (&lt;span data-teams=&quot;true&quot;&gt;GDFT&lt;/span&gt;)&lt;/span&gt; is leading the cloud gaming revolution, putting console-quality video games on any device, from TVs to consoles to mobile devices and beyond.&lt;/p&gt;\n&lt;p&gt;Our Site Reliability Engineering team plays a significant role in delivering on the promise of a great cloud gaming experience to our customers. We do this by influencing design and operational decisions towards the overall stability of the gaming service. Our SREs focus on three main things: overall ownership of production, production code quality, and deployments. The successful candidate will be self-directed and able to participate in the way we make decisions at different levels.&lt;/p&gt;\n&lt;p&gt;We expect our SREs to have opinions on the state of our service and provide critical feedback during different phases of the operational lifecycle. We are engaged throughout the software development lifecycle, ensuring the operational readiness and stability.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What you&#39;ll be doing:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Lead team technical discussions, especially around ongoing improvements in Reliability and Scalability&lt;/li&gt;\n&lt;li&gt;Be involved in creating High Level Designs (HLDs) for new products and platforms&lt;/li&gt;\n&lt;li&gt;Mentor junior SRE staff and enable them for success&lt;/li&gt;\n&lt;li&gt;Lead incident response and post-mortem activities within your assigned service team&lt;/li&gt;\n&lt;li&gt;Work with other Engineers in a cross-functional team to prioritise reliability improvements to address technical debt and toil&lt;/li&gt;\n&lt;li&gt;Contribute to code to improve reliability&lt;/li&gt;\n&lt;li&gt;Implement automation to reduce ongoing toil&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;What we&#39;re looking for:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Minimum of 5+ years working experience in Software Development and/or Linux Systems Administration role.&lt;/li&gt;\n&lt;li&gt;Strong interpersonal, written and verbal communication skills.&lt;/li&gt;\n&lt;li&gt;Available to be scheduled in on-call rotation.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Skills &amp;amp; Knowledge:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Proficient as a Linux Production Systems Engineer, with experience managing large scale Web Services infrastructure.&lt;/li&gt;\n&lt;li&gt;Development experience in one or more of the following programming languages:&lt;/li&gt;\n&lt;li&gt;Python (preferred)&lt;/li&gt;\n&lt;li&gt;Bash, Go, Java, C++, or Rust&lt;/li&gt;\n&lt;li&gt;In addition, experience with at least 3 of the following topics:&lt;/li&gt;\n&lt;li&gt;Distributed data storage at scale (Hadoop, Ceph)&lt;/li&gt;\n&lt;li&gt;NoSQL at scale (MongoDB, Redis, Cassandra)&lt;/li&gt;\n&lt;li&gt;Data Aggregation technologies. (ElasticSearch, Kafka)&lt;/li&gt;\n&lt;li&gt;Scaling and running traditional RDBMS (PostgreSQL, MySQL) with High Availability&lt;/li&gt;\n&lt;li&gt;Monitoring &amp;amp; Alerting (Prometheus, Grafana), and Incident Management toolsets&lt;/li&gt;\n&lt;li&gt;Kubernetes and/or AWS (deployment and management)&lt;/li&gt;\n&lt;li&gt;Software Distribution (Package management and distribution at scale)&lt;/li&gt;\n&lt;li&gt;Configuration Management (ansible, saltstack, puppet, chef)&lt;/li&gt;\n&lt;li&gt;S/W Performance analysis and load testing (QA or SDET experience: a plus)&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p class=&quot;p1&quot;&gt;Please note, Sony Interactive Entertainment conducts background checks at the offer stage for all new employees (which may include criminal background checks for some roles) and will need to process personal information to support these checks.&lt;/p&gt;\n&lt;p class=&quot;p1&quot;&gt;Please refer to our&amp;nbsp;&lt;a href=&quot;https://www.playstation.com/legal/careers-privacy-notice/&quot; target=&quot;_blank&quot;&gt;Candidate Privacy Notice&lt;/a&gt;&amp;nbsp;for more information about what personal information we collect, how we use it, who we share it with, and your data protection rights.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Equal Opportunity Statement:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Sony is an Equal Opportunity Employer. All persons will receive consideration for employment without regard to gender (including gender identity, gender expression and gender reassignment), race (including colour, nationality, ethnic or national origin), religion or belief, marital or civil partnership status, disability, age, sexual orientation, pregnancy, maternity or parental status, trade union membership or membership in any other legally protected category.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;We strive to create an inclusive environment, empower employees and embrace diversity. We encourage everyone to respond.&amp;nbsp;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Sony Interactive Entertainment is a Fair Chance employer and qualified applicants with arrest and conviction records will be considered for employment.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4037262004,
+      "name": "Network / Core Engineering",
+      "child_ids": [],
+      "parent_id": 4037176004
+    }
+  ],
+  "offices": [
+    {
+      "id": 4041916004,
+      "name": "DEU-Berlin-Kemperplatz",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 4011934004
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

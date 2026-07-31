@@ -1,0 +1,108 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5655306004",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": true,
+      "requires_processing_consent": false,
+      "requires_retention_consent": true,
+      "retention_period": 730,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 4968880004,
+  "location": {
+    "name": "United Kingdom, Remote"
+  },
+  "metadata": [
+    {
+      "id": 4367803004,
+      "name": "Cost Center",
+      "value": "GAMES3GB61-GBV3001098 Analytics Platform EU",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167524004,
+      "name": "Career Page - Office Location",
+      "value": "United Kingdom, London",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167525004,
+      "name": "Career Page - Department",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 9377282004,
+      "name": "Career Page - Sub Department",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 20089613004,
+      "name": "Career Page - Studio Project",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 4395289004,
+      "name": "Worker Type",
+      "value": "Employee",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4404049004,
+      "name": "Country",
+      "value": "United Kingdom",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9262269004,
+      "name": "Job Family",
+      "value": "Software Development Engineering",
+      "value_type": "short_text"
+    },
+    {
+      "id": 9262270004,
+      "name": "Job Family Group",
+      "value": "Engineering",
+      "value_type": "short_text"
+    },
+    {
+      "id": 21724118004,
+      "name": "Bungie Geo Pay",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 5655306004,
+  "updated_at": "2026-07-09T18:53:36-04:00",
+  "requisition_id": "R-121016",
+  "title": "Staff Software Engineer - AI Tools",
+  "company_name": "PlayStation Global",
+  "first_published": "2025-09-19T11:13:29-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Why Sony Interactive Entertainment?&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Sony Interactive Entertainment isn’t just the Best Place to Play — it’s also the Best Place to Work. Sony Interactive Entertainment (SIE) is the company behind the PlayStation brand. As a subsidiary of Sony Group Corporation, we’re part of a proud legacy of innovation and excellence. SIE is a dynamic technology company, delivering cutting-edge hardware and network services to more than 100 million people and an entertainment leader, home to some of the most beloved and recognizable intellectual properties (IP) in the world. Our role at SIE is to create and nurture the experiences under the PlayStation brand, a name synonymous with entertainment excellence and creativity.&lt;/p&gt;&lt;/div&gt;&lt;h3&gt;About the Role&lt;/h3&gt;\n&lt;p&gt;We’re looking for a Staff Software Engineer to build AI-powered tools and integrations that plug directly into game engines, editors, clients, and backend services. You’ll deliver high-quality C++ integrations across proprietary studio engines, ship robust build/QA automation, and partner with multiple PlayStation Studios teams to make AI an everyday part of development.&lt;/p&gt;\n&lt;h3&gt;What You’ll Be Doing&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Build and maintain engine/editor plugins, runtime SDKs, and services that integrate AI (LLMs and related systems) into game clients, servers, and build tools.&lt;/li&gt;\n&lt;li&gt;Ship performant, memory-aware C++ by profiling, optimizing, and debugging across PC/console builds with tight frame budgets.&lt;/li&gt;\n&lt;li&gt;Design stable API surfaces for game teams (C++/C API, gRPC/HTTP) with versioning, telemetry, and backward compatibility.&lt;/li&gt;\n&lt;li&gt;Stand up CI/CD for game builds and tools (UBT or proprietary build systems; artifact packaging; nightly/regression suites; distributed/accelerated builds).&lt;/li&gt;\n&lt;li&gt;Automate QA for tooling and in-engine features using engine test frameworks and headless runs, and wire results into CI and dashboards.&lt;/li&gt;\n&lt;li&gt;Implement production LLM integrations (prompting, RAG/tool calls, guardrails/safety, observability, timeouts/retries, and cost controls).&lt;/li&gt;\n&lt;li&gt;Collaborate with studio engineering, tech art, design, and QA to land integrations across varied codebases and pipelines.&lt;/li&gt;\n&lt;li&gt;Document patterns, provide sample projects, and deliver internal training so solutions scale across PlayStation Studios.&lt;/li&gt;\n&lt;li&gt;Influence standards and tech choices for AI in our dev stack, and contribute to shared libraries and best practices.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Qualifications&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;You have at least five years of experience building production software in modern C++ (C++17/20) with strong fundamentals in memory management, concurrency, performance, and debugging.&lt;/li&gt;\n&lt;li&gt;You have shipped tools or runtime features in AAA engines, including work on plugins/modules, asset and build pipelines, and editor/runtime integration.&lt;/li&gt;\n&lt;li&gt;You have delivered features or tooling that integrate with LLMs or other ML services, and you understand prompt design, evaluation, safety, and telemetry for production usage.&lt;/li&gt;\n&lt;li&gt;You have implemented engine-level automated testing (functional and integration), including headless execution and CI gating.&lt;/li&gt;\n&lt;li&gt;You work fluently with large code/asset repositories and are comfortable with both Perforce and Git.&lt;/li&gt;\n&lt;li&gt;You communicate clearly across disciplines and translate diverse studio requirements into pragmatic, maintainable solutions.&lt;/li&gt;\n&lt;li&gt;You write thorough documentation and favor well-tested, maintainable code.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Nice to Have&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;You have built networking/service integrations for game backends (gRPC/HTTP) and implemented telemetry/observability (logs, metrics, traces).&lt;/li&gt;\n&lt;li&gt;You have packaged SDKs/plugins for multiple studios and managed semantic versioning and migration tooling.&lt;/li&gt;\n&lt;li&gt;You understand console platform requirements and certification workflows.&lt;/li&gt;\n&lt;li&gt;You are familiar with security, privacy, and responsible-AI practices in production systems.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Please note; this position can be completed remotely from The UK&lt;/em&gt;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p class=&quot;p1&quot;&gt;Please note, Sony Interactive Entertainment conducts background checks at the offer stage for all new employees (which may include criminal background checks for some roles) and will need to process personal information to support these checks.&lt;/p&gt;\n&lt;p class=&quot;p1&quot;&gt;Please refer to our&amp;nbsp;&lt;a href=&quot;https://www.playstation.com/legal/careers-privacy-notice/&quot; target=&quot;_blank&quot;&gt;Candidate Privacy Notice&lt;/a&gt;&amp;nbsp;for more information about what personal information we collect, how we use it, who we share it with, and your data protection rights.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Equal Opportunity Statement:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Sony is an Equal Opportunity Employer. All persons will receive consideration for employment without regard to gender (including gender identity, gender expression and gender reassignment), race (including colour, nationality, ethnic or national origin), religion or belief, marital or civil partnership status, disability, age, sexual orientation, pregnancy, maternity or parental status, trade union membership or membership in any other legally protected category.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;We strive to create an inclusive environment, empower employees and embrace diversity. We encourage everyone to respond.&amp;nbsp;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Sony Interactive Entertainment is a Fair Chance employer and qualified applicants with arrest and conviction records will be considered for employment.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4037289004,
+      "name": "PD Tools & Services",
+      "child_ids": [],
+      "parent_id": 4037187004
+    }
+  ],
+  "offices": [
+    {
+      "id": 4011923004,
+      "name": "GBR-London-10GMS",
+      "location": "London, England, United Kingdom",
+      "child_ids": [],
+      "parent_id": 4011922004
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

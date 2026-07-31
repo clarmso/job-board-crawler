@@ -1,0 +1,108 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6108172004",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": true,
+      "requires_processing_consent": false,
+      "requires_retention_consent": true,
+      "retention_period": 1460,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 5161266004,
+  "location": {
+    "name": "United States, San Mateo, CA"
+  },
+  "metadata": [
+    {
+      "id": 4367803004,
+      "name": "Cost Center",
+      "value": "GAMES4US70-USL2950156 SQE-Gaming-Life",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167524004,
+      "name": "Career Page - Office Location",
+      "value": "United States, San Mateo, CA",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167525004,
+      "name": "Career Page - Department",
+      "value": "Software Engineering & Services",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9377282004,
+      "name": "Career Page - Sub Department",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 20089613004,
+      "name": "Career Page - Studio Project",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 4395289004,
+      "name": "Worker Type",
+      "value": "Employee",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4404049004,
+      "name": "Country",
+      "value": "United States of America",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9262269004,
+      "name": "Job Family",
+      "value": "Software QA Engineering",
+      "value_type": "short_text"
+    },
+    {
+      "id": 9262270004,
+      "name": "Job Family Group",
+      "value": "Engineering",
+      "value_type": "short_text"
+    },
+    {
+      "id": 21724118004,
+      "name": "Bungie Geo Pay",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 6108172004,
+  "updated_at": "2026-07-24T05:38:14-04:00",
+  "requisition_id": "R-124327",
+  "title": "Staff Software Development Engineer in Test (Staff SDET)",
+  "company_name": "PlayStation Global",
+  "first_published": "2026-07-02T15:17:33-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Why Sony Interactive Entertainment?&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Sony Interactive Entertainment isn’t just the Best Place to Play — it’s also the Best Place to Work. Sony Interactive Entertainment (SIE) is the company behind the PlayStation brand. As a subsidiary of Sony Group Corporation, we’re part of a proud legacy of innovation and excellence. SIE is a dynamic technology company, delivering cutting-edge hardware and network services to more than 100 million people and an entertainment leader, home to some of the most beloved and recognizable intellectual properties (IP) in the world. Our role at SIE is to create and nurture the experiences under the PlayStation brand, a name synonymous with entertainment excellence and creativity.&lt;/p&gt;&lt;/div&gt;&lt;h1&gt;&lt;strong&gt;Staff Software Development Engineer in Test&lt;/strong&gt;&lt;/h1&gt;\n&lt;p&gt;San Mateo, CA&lt;/p&gt;\n&lt;p&gt;Do you have a passion for development and automation as well as driven vision for delivering the best experiences to users? Do you want to work at a company where customers have real passion and excitement for the products you help build? At PlayStation, we are looking for engineers to join a global initiative in building innovative test automation and CI/CD systems. We are looking for self-motivated, quick-starter and highly proactive individuals to join our Client QA team, who would be responsible for ensuring delivery of features on PlayStation&#39;s Mobile App!&lt;/p&gt;\n&lt;p&gt;At PlayStation, we are passionate about innovation, teamwork and technology. We love building the systems that millions of people use and are our own first customers. We strive to be at the forefront of development technologies and are a diverse company with teams on four continents.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Primary Responsibilities&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Lead and influence the overall quality engineering strategy across PlayStation console, mobile, portal, hardware, and service ecosystems.&lt;/li&gt;\n&lt;li&gt;Drive architecture-level automation solutions and scalable quality engineering practices across multiple teams and product areas.&lt;/li&gt;\n&lt;li&gt;Define and evolve enterprise-level automation standards, CI/CD quality gates, and testing strategies to improve release confidence, scalability, and engineering velocity.&lt;/li&gt;\n&lt;li&gt;Design, build, and scale automation frameworks across UI, API, integration, telemetry, hardware, portal, and end-to-end testing layers.&lt;/li&gt;\n&lt;li&gt;Lead cross-functional initiatives focused on automation stability, flakiness reduction, infrastructure modernization, and long-term QE scalability.&lt;/li&gt;\n&lt;li&gt;Partner closely with Engineering, Product, Program Management, and QE leadership to drive shift-left testing practices and shared ownership of quality.&lt;/li&gt;\n&lt;li&gt;Drive R&amp;amp;D initiatives around AI-assisted testing and modern quality engineering solutions to address automation gaps, improve coverage, accelerate test generation, enhance failure analysis, and reduce manual effort.&lt;/li&gt;\n&lt;li&gt;Evaluate emerging technologies, AI driven tooling, and innovative automation approaches to future-proof the organization’s testing strategy.&lt;/li&gt;\n&lt;li&gt;Lead strategic improvements in hardware/device testing, cloud/device lab orchestration, telemetry validation, observability, and production-like validation environments.&lt;/li&gt;\n&lt;li&gt;Mentor and guide SDETs and QEs across teams on automation architecture, testing methodologies, debugging, quality strategy, and engineering standards.&lt;/li&gt;\n&lt;li&gt;Define and track quality metrics, automation health, pipeline stability, release risk indicators, and defect trends to drive data-informed quality decisions.&lt;/li&gt;\n&lt;li&gt;Influence organizational quality culture by establishing scalable operational models, governance mechanisms, and engineering standards.&lt;/li&gt;\n&lt;li&gt;Lead complex root-cause investigations and drive systemic fixes to recurring quality issues across platforms and teams.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Qualifications&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;BS/MS degree in Computer Science or related field, or equivalent experience.&lt;/li&gt;\n&lt;li&gt;8+ years of experience in Software Development Engineering in Test (SDET), automation engineering, or quality engineering roles.&lt;/li&gt;\n&lt;li&gt;Proven experience leading large-scale mobile quality engineering initiatives across multiple teams or product areas.&lt;/li&gt;\n&lt;li&gt;Deep experience designing automation frameworks and implementing automated testing solutions across UI, API, integration, telemetry, portal, hardware, and end-to-end layers.&lt;/li&gt;\n&lt;li&gt;Strong programming/scripting experience in Python, JavaScript, or similar languages.&lt;/li&gt;\n&lt;li&gt;Strong expertise with automation frameworks such as Playwright, Pytest, Appium, Selenium.&lt;/li&gt;\n&lt;li&gt;Experience architecting and optimizing CI/CD pipelines, quality gates, and release validation systems using Jenkins or similar platforms.&lt;/li&gt;\n&lt;li&gt;Practical experience with development and deployment tooling such as Git, Jenkins, Docker, Appium, cloud/device lab solutions, browser-based portal testing, and hardware/device validation workflows.&lt;/li&gt;\n&lt;li&gt;Experience leveraging AI-assisted testing tools and driving innovation in AI-based automation, test generation, defect analysis, and productivity improvements.&lt;/li&gt;\n&lt;li&gt;Experience driving test strategy, release quality planning, risk management, and operational quality improvements for large-scale systems.&lt;/li&gt;\n&lt;li&gt;Strong analytical, troubleshooting, and systems-thinking abilities with a focus on identifying and solving systemic quality gaps.&lt;/li&gt;\n&lt;li&gt;Proven ability to influence engineering organizations, drive adoption of best practices, and align teams on scalable quality strategies.&lt;/li&gt;\n&lt;li&gt;Experience mentoring engineers and leading cross-functional technical initiatives.&lt;/li&gt;\n&lt;li&gt;Comfortable operating in fast-paced Agile environments with evolving requirements and multiple stakeholders.&lt;/li&gt;\n&lt;li&gt;Excellent verbal and written communication skills with strong leadership and cross-functional collaboration abilities.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;At SIE, we consider several factors when setting each role’s base pay range, including the competitive benchmarking data for the market and geographic location.&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;br&gt;Please note that the base pay range may vary in line with our hybrid working policy and individual base pay will be determined based on job-related factors which may include knowledge, skills, experience, and location.&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;br&gt;In addition, this role &lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;is eligible&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; for SIE’s top-tier benefits package that includes medical, dental, vision, matching 401(k), paid time off, wellness program and coveted employee discounts for Sony products. &lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;This role also may be eligible for a bonus package.&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; Click&amp;nbsp;&lt;/span&gt;&lt;a href=&quot;https://careers.playstation.com/benefits&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; to learn more.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;The estimated base pay range for this role is listed below.&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$208,200&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$312,400 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p class=&quot;p1&quot;&gt;Please note, Sony Interactive Entertainment conducts background checks at the offer stage for all new employees (which may include criminal background checks for some roles) and will need to process personal information to support these checks.&lt;/p&gt;\n&lt;p class=&quot;p1&quot;&gt;Please refer to our&amp;nbsp;&lt;a href=&quot;https://www.playstation.com/legal/careers-privacy-notice/&quot; target=&quot;_blank&quot;&gt;Candidate Privacy Notice&lt;/a&gt;&amp;nbsp;for more information about what personal information we collect, how we use it, who we share it with, and your data protection rights.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Equal Opportunity Statement:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Sony is an Equal Opportunity Employer. All persons will receive consideration for employment without regard to gender (including gender identity, gender expression and gender reassignment), race (including colour, nationality, ethnic or national origin), religion or belief, marital or civil partnership status, disability, age, sexual orientation, pregnancy, maternity or parental status, trade union membership or membership in any other legally protected category.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;We strive to create an inclusive environment, empower employees and embrace diversity. We encourage everyone to respond.&amp;nbsp;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Sony Interactive Entertainment is a Fair Chance employer and qualified applicants with arrest and conviction records will be considered for employment.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4149056004,
+      "name": "FSEE US",
+      "child_ids": [],
+      "parent_id": 4072500004
+    }
+  ],
+  "offices": [
+    {
+      "id": 4012034004,
+      "name": "USA-CA-San Mateo",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 4089335004
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

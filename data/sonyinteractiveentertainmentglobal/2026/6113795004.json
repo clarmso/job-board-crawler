@@ -1,0 +1,108 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6113795004",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": true,
+      "requires_processing_consent": false,
+      "requires_retention_consent": true,
+      "retention_period": 730,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 5186401004,
+  "location": {
+    "name": "United Kingdom, London"
+  },
+  "metadata": [
+    {
+      "id": 4367803004,
+      "name": "Cost Center",
+      "value": "GAMES1EUHQ-EUL10HQ025 UK - Data Science",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167524004,
+      "name": "Career Page - Office Location",
+      "value": "United Kingdom, London",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167525004,
+      "name": "Career Page - Department",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 9377282004,
+      "name": "Career Page - Sub Department",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 20089613004,
+      "name": "Career Page - Studio Project",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 4395289004,
+      "name": "Worker Type",
+      "value": "Employee",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4404049004,
+      "name": "Country",
+      "value": "United Kingdom",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9262269004,
+      "name": "Job Family",
+      "value": "Data Science",
+      "value_type": "short_text"
+    },
+    {
+      "id": 9262270004,
+      "name": "Job Family Group",
+      "value": "Planning",
+      "value_type": "short_text"
+    },
+    {
+      "id": 21724118004,
+      "name": "Bungie Geo Pay",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 6113795004,
+  "updated_at": "2026-07-21T11:17:43-04:00",
+  "requisition_id": "R-124763",
+  "title": "Senior Data Scientist - Platform Economics & Simulation",
+  "company_name": "PlayStation Global",
+  "first_published": "2026-07-14T11:08:01-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Why Sony Interactive Entertainment?&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Sony Interactive Entertainment isn’t just the Best Place to Play — it’s also the Best Place to Work. Sony Interactive Entertainment (SIE) is the company behind the PlayStation brand. As a subsidiary of Sony Group Corporation, we’re part of a proud legacy of innovation and excellence. SIE is a dynamic technology company, delivering cutting-edge hardware and network services to more than 100 million people and an entertainment leader, home to some of the most beloved and recognizable intellectual properties (IP) in the world. Our role at SIE is to create and nurture the experiences under the PlayStation brand, a name synonymous with entertainment excellence and creativity.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Role Overview:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;At PlayStation, Data Science plays a critical role in shaping how we invest in, retain, and delight our global player base. Understanding why those players spend, stay, and engage is a complex causal problem, and one the Player Value Science team exists to solve. We explain what drives value, where it is created or missed, and what to change, so growth can be created and protected.&lt;/p&gt;\n&lt;p&gt;This role is the causal and economic core of that mission. Most analytics can tell you what happened; we&#39;re hiring someone who can rigorously explain why value moves, and turn that understanding into sharper decisions. You&#39;ll spend your time on two linked problems: explaining the economics of the platform (what drives revenue, retention, and engagement, and what to do about it), and building the simulation and offline-evaluation tooling that lets us test decision policies before we scale them. The team is both reactive and proactive: bringing proposals that turn causal understanding into incremental value, and responding when the platform needs answers.&lt;/p&gt;\n&lt;p&gt;You&#39;ll work with a high degree of autonomy on ambiguous problems, and you&#39;ll be measured on the commercial decisions your work changes, not on model metrics alone.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What You&#39;ll Do:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Explain why value moves across revenue, retention, and engagement, through value decomposition, cannibalisation and substitution analysis, meta-analysis across our models, and clear strategic trade-off framing.&lt;/li&gt;\n&lt;li&gt;Apply causal reasoning to understand our own models and players: why a model behaves as it does, whether an observed effect is incremental or displaced, and what genuinely drives lifetime value.&lt;/li&gt;\n&lt;li&gt;Build offline policy evaluation and simulation tooling that lets the platform identify the content, players, and policies that create incremental value, and stress-test decision policies before they scale.&lt;/li&gt;\n&lt;li&gt;Guide model development across the team, raising the standard of causal and economic thinking through review, mentoring, and example.&lt;/li&gt;\n&lt;li&gt;Turn causal understanding into concrete proposals, and respond with rigorous answers when the platform needs them.&lt;/li&gt;\n&lt;li&gt;Communicate assumptions, methods, and conclusions clearly enough that senior technical and commercial audiences can act on them with confidence.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;What We&#39;re Looking For:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;You think in counterfactuals. You instinctively separate incremental effect from what would have happened anyway, and you reason naturally about substitution, cannibalisation, and the economics of a content platform. A background in economics, econometrics, or a similarly causal quantitative discipline is a strong fit.&lt;/li&gt;\n&lt;li&gt;Proven industry experience turning causal and economic understanding into decisions that changed commercial outcomes, in areas such as customer value, retention, pricing, or decisioning.&lt;/li&gt;\n&lt;li&gt;Depth in causal methods used to explain and understand systems: treatment-effect estimation, uplift, structural or counterfactual reasoning&lt;/li&gt;\n&lt;li&gt;The ability to build, not just analyse: you can implement models, simulation, or offline-evaluation environments and take them to production.&lt;/li&gt;\n&lt;li&gt;Strong judgement on when a sophisticated approach is warranted versus a simpler one that answers the question.&lt;/li&gt;\n&lt;li&gt;Experience owning ambiguous problems end-to-end: framing the question, choosing the approach, and delivering something the business acts on.&lt;/li&gt;\n&lt;li&gt;Fluency with large, complex behavioural datasets and the craft to work with them at scale: Python, SQL, and distributed processing (e.g. PySpark), plus standard ML tooling as the work requires.&lt;/li&gt;\n&lt;li&gt;Excellent stakeholder communication: you can make a rigorous causal argument land with a non-technical commercial audience and move a decision.&lt;/li&gt;\n&lt;li&gt;A strong quantitative academic background, typically a Master&#39;s or PhD.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Nice to Have:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience with incrementality and uplift modelling, or with experimentation frameworks.&lt;/li&gt;\n&lt;li&gt;Reinforcement learning or contextual-bandit decisioning, and offline evaluation for recommendation or decisioning systems.&lt;/li&gt;\n&lt;li&gt;Background in gaming, e-commerce, or subscription businesses.&lt;/li&gt;\n&lt;li&gt;Experience deploying and maintaining business-critical or consumer-facing models.&lt;/li&gt;\n&lt;li&gt;Experience working in agile, fast-paced environments.&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p class=&quot;p1&quot;&gt;Please note, Sony Interactive Entertainment conducts background checks at the offer stage for all new employees (which may include criminal background checks for some roles) and will need to process personal information to support these checks.&lt;/p&gt;\n&lt;p class=&quot;p1&quot;&gt;Please refer to our&amp;nbsp;&lt;a href=&quot;https://www.playstation.com/legal/careers-privacy-notice/&quot; target=&quot;_blank&quot;&gt;Candidate Privacy Notice&lt;/a&gt;&amp;nbsp;for more information about what personal information we collect, how we use it, who we share it with, and your data protection rights.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Equal Opportunity Statement:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Sony is an Equal Opportunity Employer. All persons will receive consideration for employment without regard to gender (including gender identity, gender expression and gender reassignment), race (including colour, nationality, ethnic or national origin), religion or belief, marital or civil partnership status, disability, age, sexual orientation, pregnancy, maternity or parental status, trade union membership or membership in any other legally protected category.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;We strive to create an inclusive environment, empower employees and embrace diversity. We encourage everyone to respond.&amp;nbsp;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Sony Interactive Entertainment is a Fair Chance employer and qualified applicants with arrest and conviction records will be considered for employment.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4072502004,
+      "name": "Admin (PDS)",
+      "child_ids": [],
+      "parent_id": 4037174004
+    }
+  ],
+  "offices": [
+    {
+      "id": 4032610004,
+      "name": "GBR-London-51GMS",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 4011922004
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

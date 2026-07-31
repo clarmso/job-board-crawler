@@ -1,0 +1,108 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6007946004",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": true,
+      "requires_processing_consent": false,
+      "requires_retention_consent": true,
+      "retention_period": 1460,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 5159536004,
+  "location": {
+    "name": "United States, San Diego, CA"
+  },
+  "metadata": [
+    {
+      "id": 4367803004,
+      "name": "Cost Center",
+      "value": "GAMES1US70-USN1950151 D2C-US-Commerce Operations",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167524004,
+      "name": "Career Page - Office Location",
+      "value": "United States, San Diego, CA",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167525004,
+      "name": "Career Page - Department",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 9377282004,
+      "name": "Career Page - Sub Department",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 20089613004,
+      "name": "Career Page - Studio Project",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 4395289004,
+      "name": "Worker Type",
+      "value": "Employee",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4404049004,
+      "name": "Country",
+      "value": "United States of America",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9262269004,
+      "name": "Job Family",
+      "value": "Machine Learning",
+      "value_type": "short_text"
+    },
+    {
+      "id": 9262270004,
+      "name": "Job Family Group",
+      "value": "Engineering",
+      "value_type": "short_text"
+    },
+    {
+      "id": 21724118004,
+      "name": "Bungie Geo Pay",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 6007946004,
+  "updated_at": "2026-07-17T11:07:59-04:00",
+  "requisition_id": "R-124264",
+  "title": "AI Engineer",
+  "company_name": "PlayStation Global",
+  "first_published": "2026-06-03T13:23:43-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Why Sony Interactive Entertainment?&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Sony Interactive Entertainment isn’t just the Best Place to Play — it’s also the Best Place to Work. Sony Interactive Entertainment (SIE) is the company behind the PlayStation brand. As a subsidiary of Sony Group Corporation, we’re part of a proud legacy of innovation and excellence. SIE is a dynamic technology company, delivering cutting-edge hardware and network services to more than 100 million people and an entertainment leader, home to some of the most beloved and recognizable intellectual properties (IP) in the world. Our role at SIE is to create and nurture the experiences under the PlayStation brand, a name synonymous with entertainment excellence and creativity.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;AI Software Engineer - D2C - SPOC&lt;/h2&gt;\n&lt;p&gt;Sony Interactive Entertainment (SIE) PlayStation; San Diego, CA&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;The &lt;strong&gt;Direct to Consumer (D2C) Data Science&lt;/strong&gt; organization comprises Data Science, Data Engineering and ML Engineering practices. D2C Data Science helps PlayStation grow and operate its digital business across commerce, subscriptions, payments, lifecycle experiences and player-facing services. We partner with product, engineering, finance, marketing and operations teams to turn experimentation, forecasting, AI and production-quality measurement into better player experiences.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Role overview&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Within D2C Data Science, the D2C ML Engineering team is seeking an AI Software Engineer to help design, build, and support production AI capabilities that solve high-value business problems across SPOC and the broader digital commerce ecosystem. This is not a model-training or predictive-platform ownership role; it is an applied AI engineering role focused on turning AI into dependable products, services, and automation.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;You will work with core engineering, operations, data, risk, and product partners to build AI-powered workflows that improve speed, quality, insight, and decision support. The work may include LLM-powered services, retrieval-augmented generation (RAG), agentic workflows, tool/function calling, evaluation harnesses, guardrails, and reusable AI platform components.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;The ideal candidate is a strong software engineer with backend or platform experience and practical hands-on applied AI experience. You are comfortable building with foundation model APIs, vector and hybrid search, prompt and model evaluation, AI observability, and cloud-based services, and you are eager to learn while contributing to reliable production systems.&lt;/p&gt;\n&lt;h2&gt;What you’ll be doing&lt;/h2&gt;\n&lt;p&gt;&lt;strong&gt;Build Applied AI Features: &lt;/strong&gt;Implement services, workflows, and reusable components for LLM-powered automation, retrieval, tool use, summarization, classification, decision support, and knowledge workflows.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Solve Business Problems with AI: &lt;/strong&gt;Collaborate with operations, product, data, risk, and engineering stakeholders to understand use cases, prototype solutions, measure outcomes, and help move proven capabilities into production.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Support Agentic Workflows and Integrations: &lt;/strong&gt;Build AI workflows that use tool/function calling, structured outputs, workflow state, internal APIs, and human review patterns to take useful action while staying auditable and controlled.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Develop Retrieval and Knowledge Systems: &lt;/strong&gt;Contribute to RAG and agentic retrieval pipelines over enterprise content and operational data using embeddings, vector databases, hybrid search, reranking, citations, access controls, and freshness strategies.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Improve AI Quality, Safety, and Evaluation: &lt;/strong&gt;Create and maintain evaluation suites, regression tests, prompt/model versioning, trace analysis, guardrails, policy checks, PII handling, hallucination mitigation, and operational monitoring.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Production AI Engineering: &lt;/strong&gt;Develop scalable APIs, microservices, and event-driven workflows in Python or Java, with attention to reliability, resilience, security, cost efficiency, and clean integration with existing services.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Cloud Delivery and Automation: &lt;/strong&gt;Deploy AI services using AWS, containers, infrastructure as code, CI/CD pipelines, secrets management, observability, and operational runbooks.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Cross-Functional Collaboration: &lt;/strong&gt;Participate in design reviews, implementation planning, troubleshooting, documentation, and knowledge sharing across technical and non-technical teams.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What we’re looking for&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Educational Background: &lt;/strong&gt;Bachelor&#39;s degree in computer science, engineering, a related technical field, or equivalent practical experience, with 2+ years of professional software engineering experience.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Applied AI Experience: &lt;/strong&gt;Hands-on experience building AI or generative AI features that connect model APIs to business workflows, data, documents, or internal services.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Coding Proficiency: &lt;/strong&gt;Strong software engineering skills in Python and/or Java, including API development, testing, debugging, asynchronous processing, and maintainable service design.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Cloud Competency: &lt;/strong&gt;Experience with AWS or equivalent cloud services&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;RAG and Retrieval Systems: &lt;/strong&gt;Familiarity with embeddings, chunking, indexing, retrieval strategies, vector and hybrid search, reranking, citations, and vector stores such as OpenSearch, Pinecone, Weaviate, Redis, pgvector, Azure AI Search, or similar technologies.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Agent and Workflow Orchestration: &lt;/strong&gt;Experience with AI orchestration patterns and tools such as LangChain, LangGraph, LlamaIndex, Semantic Kernel, OpenAI Agents SDK, N8N, AWS Bedrock Agents and Knowledge Bases, or comparable tools.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Structured Outputs and Tool Use: &lt;/strong&gt;Experience designing prompts, schemas, tool/function calls, workflow contracts, and validation logic so AI systems can produce dependable outputs and interact safely with internal systems.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;AI Observability and Evaluation: &lt;/strong&gt;Familiarity with tracing, monitoring, evals, prompt testing, quality metrics, and debugging tools such as LangSmith, Arize Phoenix, OpenTelemetry, Datadog, Splunk, New Relic, CloudWatch, or comparable platforms.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Communication Skills: &lt;/strong&gt;Possesses exceptional communication skills, able to turn business requirements into technical tasks, collaborate across teams, and explain AI tradeoffs in clear, practical terms.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Preferred Skills&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Model Context and Connectors: &lt;/strong&gt;Familiarity with Model Context Protocol (MCP) or similar patterns for connecting AI applications to enterprise tools, databases, documents, and workflows.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Multimodal AI Systems: &lt;/strong&gt;Experience with text, image, document, audio, or video models, including multimodal embeddings, OCR/document understanding, or content moderation workflows.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Commerce or Trust Domain Experience: &lt;/strong&gt;Experience applying AI to fraud, payments, risk, customer support, marketplace operations, trust and safety, content operations, or digital commerce business processes.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;PlayStation isn&#39;t just the Best Place to Play - it&#39;s also the Best Place to Work. We&#39;ve thrilled gamers since 1994 when we launched the original PlayStation. Today, we&#39;re recognized as a global leader in interactive and digital entertainment. The PlayStation brand falls under Sony Interactive Entertainment, a wholly owned subsidiary of Sony Corporation.&lt;/p&gt;\n&lt;p&gt;Sony is an Equal Opportunity Employer. All persons will receive consideration for employment without regard to race, color, religion, gender, pregnancy, national origin, ancestry, citizenship, age, legally protected physical or mental disability, covered veteran status, status in the U.S. uniformed services, sexual orientation, marital status, genetic information or membership in any other legally protected category.&lt;/p&gt;\n&lt;p&gt;We strive to create an inclusive environment, empower employees and embrace diversity. We encourage everyone to respond.&lt;/p&gt;\n&lt;p&gt;We sincerely appreciate the time and effort you spent in contacting us and we thank you for your interest in PlayStation.&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;At SIE, we consider several factors when setting each role’s base pay range, including the competitive benchmarking data for the market and geographic location.&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;br&gt;Please note that the base pay range may vary in line with our hybrid working policy and individual base pay will be determined based on job-related factors which may include knowledge, skills, experience, and location.&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;br&gt;In addition, this role &lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;is eligible&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; for SIE’s top-tier benefits package that includes medical, dental, vision, matching 401(k), paid time off, wellness program and coveted employee discounts for Sony products. &lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;This role also may be eligible for a bonus package.&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; Click&amp;nbsp;&lt;/span&gt;&lt;a href=&quot;https://careers.playstation.com/benefits&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; to learn more.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;The estimated base pay range for this role is listed below.&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$150,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$225,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p class=&quot;p1&quot;&gt;Please note, Sony Interactive Entertainment conducts background checks at the offer stage for all new employees (which may include criminal background checks for some roles) and will need to process personal information to support these checks.&lt;/p&gt;\n&lt;p class=&quot;p1&quot;&gt;Please refer to our&amp;nbsp;&lt;a href=&quot;https://www.playstation.com/legal/careers-privacy-notice/&quot; target=&quot;_blank&quot;&gt;Candidate Privacy Notice&lt;/a&gt;&amp;nbsp;for more information about what personal information we collect, how we use it, who we share it with, and your data protection rights.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Equal Opportunity Statement:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Sony is an Equal Opportunity Employer. All persons will receive consideration for employment without regard to gender (including gender identity, gender expression and gender reassignment), race (including colour, nationality, ethnic or national origin), religion or belief, marital or civil partnership status, disability, age, sexual orientation, pregnancy, maternity or parental status, trade union membership or membership in any other legally protected category.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;We strive to create an inclusive environment, empower employees and embrace diversity. We encourage everyone to respond.&amp;nbsp;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Sony Interactive Entertainment is a Fair Chance employer and qualified applicants with arrest and conviction records will be considered for employment.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4037217004,
+      "name": "D2C - Global Payment, Fraud & Decision Sciences",
+      "child_ids": [],
+      "parent_id": 4037142004
+    }
+  ],
+  "offices": [
+    {
+      "id": 4012032004,
+      "name": "USA-CA-San Diego-Via Esprillo",
+      "location": "California, United States",
+      "child_ids": [],
+      "parent_id": 4089335004
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

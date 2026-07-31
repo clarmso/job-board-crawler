@@ -1,0 +1,109 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/siei/jobs/5850805004",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": true,
+      "requires_processing_consent": false,
+      "requires_retention_consent": true,
+      "retention_period": 730,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "education": "education_optional",
+  "internal_job_id": 5074685004,
+  "location": {
+    "name": "Japan, Tokyo"
+  },
+  "metadata": [
+    {
+      "id": 4367803004,
+      "name": "Cost Center",
+      "value": "JPZ1EJ0100 Security Engineering",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167524004,
+      "name": "Career Page - Office Location",
+      "value": "Japan, Tokyo",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167525004,
+      "name": "Career Page - Department",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 9377282004,
+      "name": "Career Page - Sub Department",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 20089613004,
+      "name": "Career Page - Studio Project",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 4395289004,
+      "name": "Worker Type",
+      "value": "Employee",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4404049004,
+      "name": "Country",
+      "value": "Japan",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9262269004,
+      "name": "Job Family",
+      "value": "Technical/Info Security",
+      "value_type": "short_text"
+    },
+    {
+      "id": 9262270004,
+      "name": "Job Family Group",
+      "value": "Information Technology",
+      "value_type": "short_text"
+    },
+    {
+      "id": 21724118004,
+      "name": "Bungie Geo Pay",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 5850805004,
+  "updated_at": "2026-07-09T18:53:43-04:00",
+  "requisition_id": "R-123715",
+  "title": "シニアエンドポイントセキュリティエンジニア/Senior Endpoint Security Engineer",
+  "company_name": "Sony Interactive Entertainment Inc.",
+  "first_published": "2026-04-29T20:33:04-04:00",
+  "language": "ja",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Why PlayStation?&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;PlayStation isn’t just the Best Place to Play — it’s also the Best Place to Work. Today, we’re recognized as a global leader in entertainment producing The PlayStation family of products and services including PlayStation®5, PlayStation®4, PlayStation®VR, PlayStation®Plus, acclaimed PlayStation software titles from PlayStation Studios, and more.&lt;/p&gt;\n&lt;p&gt;PlayStation also strives to create an inclusive environment that empowers employees and embraces diversity. We welcome and encourage everyone who has a passion and curiosity for innovation, technology, and play to explore our open positions and join our growing global team.&lt;/p&gt;\n&lt;p&gt;The PlayStation brand falls under Sony Interactive Entertainment, a wholly-owned subsidiary of Sony Group Corporation.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;div&gt;【職務内容】&lt;/div&gt;\n&lt;div&gt;SIEグループのITセキュリティ部門（情報セキュリティ東京オフィス）において、日本およびアジアリージョンのエンドポイントセキュリティ領域をリードし、戦略設計から導入・運用最適化までを一貫して担います。&lt;/div&gt;\n&lt;div&gt;グローバルセキュリティの方針を踏まえつつ、リージョン固有の業務要件や技術環境に適合したセキュリティアーキテクチャの設計・実装を推進します。IT、開発チーム、ゲームスタジオと連携し、複雑かつ高速に変化する環境におけるセキュリティ課題に対して、実効性の高いソリューションを主体的に導入・展開します。&lt;/div&gt;\n&lt;div&gt;また、グローバルチームとの協働を通じて標準化の改善にも関与し、リージョン視点からの技術的インプットを提供します。&lt;/div&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;【主な業務内容】&lt;/div&gt;\n&lt;div&gt;・エンドポイントセキュリティ領域における戦略設計およびロードマップ策定をリード&lt;/div&gt;\n&lt;div&gt;・セキュリティ製品（EDR、脆弱性管理等）の選定・評価・導入方針決定および展開プロジェクトの推進&lt;/div&gt;\n&lt;div&gt;・複数拠点・多様な業務環境に対するセキュリティアーキテクチャ設計および実装の主導&lt;/div&gt;\n&lt;div&gt;・運用データおよびインシデント傾向に基づく継続的改善施策の立案・実行（KPI設計含む）&lt;/div&gt;\n&lt;div&gt;・高度な技術的課題やインシデントに対するエスカレーション対応および技術的意思決定&lt;/div&gt;\n&lt;div&gt;・グローバル標準のローカライズおよび標準化の改善へのフィードバック・提案&lt;/div&gt;\n&lt;div&gt;・関係部門（IT、開発チーム、スタジオ）との調整を通じたセキュリティ施策の実行推進&lt;/div&gt;\n&lt;div&gt;・メンバーへの技術指導・レビューおよびナレッジ共有の推進&lt;/div&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;【主な技術領域】&lt;/div&gt;\n&lt;div&gt;・EDR（Endpoint Detection and Response）および次世代エンドポイント防御&lt;/div&gt;\n&lt;div&gt;・脆弱性管理／セキュリティコンプライアンス管理&lt;/div&gt;\n&lt;div&gt;・エンドポイント管理（MDM、パッチ管理、構成管理）&lt;/div&gt;\n&lt;div&gt;・クラウドセキュリティ&lt;/div&gt;\n&lt;div&gt;・DevOps／開発環境におけるセキュリティ統制&lt;/div&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;【このポジションの特徴】&lt;/div&gt;\n&lt;div&gt;・日本およびアジアリージョンにおけるエンドポイントセキュリティ領域の中核リーダーとしての役割&lt;/div&gt;\n&lt;div&gt;・戦略設計から実装・運用改善までを一貫して担う高い裁量と責任範囲&lt;/div&gt;\n&lt;div&gt;・グローバルチームと連携し、標準策定および技術方針に影響を与えるポジション&lt;/div&gt;\n&lt;div&gt;・ゲーム開発・DevOps環境特有の制約下における、高度かつ複雑な課題解決への関与&lt;/div&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;【組織・職場紹介】&lt;/div&gt;\n&lt;div&gt;情報セキュリティ東京オフィスは、米国・欧州・アジア各国のDevOps／ITチームと連携し、SIEが展開するゲーム機およびネットワークサービス、並びに日本・アジア拠点のIT基盤全体のセキュリティを担っています。多様なバックグラウンドを持つメンバーで構成され（2025年2月時点：20名）、グローバル連携が日常的に発生する環境です。&lt;/div&gt;\n&lt;div&gt;・参考: 「情報セキュリティ東京オフィス」社員インタビュー(URL: https://www.sie.com/jp/saiyo/career/roma.html)&lt;/div&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;【想定する人物】&lt;/div&gt;\n&lt;div&gt;・セキュリティ領域において高い専門性を持ち、自律的に意思決定しながら領域をリードできる方&lt;/div&gt;\n&lt;div&gt;・技術的な深さと広さを兼ね備え、複雑な課題に対して実践的な解決策を導出できる方&lt;/div&gt;\n&lt;div&gt;・ステークホルダーを巻き込み、部門横断で施策を推進できるコミュニケーション力を有する方&lt;/div&gt;\n&lt;div&gt;・グローバル環境において、技術的観点から主体的に議論・提案ができる方&lt;/div&gt;\n&lt;div&gt;・知見を組織に還元し、チームの技術力向上に貢献できる方&lt;/div&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;【必須スキル・経験（MUST）】&lt;/div&gt;\n&lt;div&gt;・エンドポイントセキュリティ領域における8年以上の実務経験および設計・導入リード経験&lt;/div&gt;\n&lt;div&gt;・EDR、脆弱性管理等の複数製品における評価・選定・導入の主導経験&lt;/div&gt;\n&lt;div&gt;・複雑な技術課題に対する問題分析および解決能力（自律的に推進可能なレベル）&lt;/div&gt;\n&lt;div&gt;・グローバル環境における英語での業務遂行能力（会議・ドキュメント）&lt;/div&gt;\n&lt;div&gt;　- 目安：TOEIC 800点相当以上&lt;/div&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;【歓迎スキル・経験（WANT）】&lt;/div&gt;\n&lt;div&gt;・セキュリティ関連資格（CISSP、Security+ 等）&lt;/div&gt;\n&lt;div&gt;・ネットワーク・クラウド関連資格（CCNP、CCSE 等）&lt;/div&gt;\n&lt;div&gt;・自動化（スクリプト／API連携）による運用高度化経験&lt;/div&gt;\n&lt;div&gt;・WAF、CNAPP 等を含む統合的セキュリティアーキテクチャ設計経験&lt;/div&gt;\n&lt;div&gt;・CSIRT／SOCにおけるインシデント対応および改善リード経験&lt;/div&gt;\n&lt;div&gt;・組織横断での脆弱性管理プロセスの設計・改善経験&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p class=&quot;p1&quot;&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Equal Opportunity Statement:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Sony is an Equal Opportunity Employer. All persons will receive consideration for employment without regard to gender (including gender identity, gender expression and gender reassignment), race (including colour, nationality, ethnic or national origin), religion or belief, marital or civil partnership status, disability, age, sexual orientation, pregnancy or maternity, trade union membership or membership in any other legally protected category.&lt;/p&gt;\n&lt;p&gt;We strive to create an inclusive environment, empower employees and embrace diversity. We encourage everyone to respond.&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;PlayStation is a Fair Chance employer and qualified applicants with arrest and conviction records will be considered for employment.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4037267004,
+      "name": "Information Security",
+      "child_ids": [],
+      "parent_id": 4037179004
+    }
+  ],
+  "offices": [
+    {
+      "id": 4040733004,
+      "name": "JPN-Tokyo-Sony City",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 4040731004
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

@@ -1,0 +1,108 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5985600004",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": true,
+      "requires_processing_consent": false,
+      "requires_retention_consent": true,
+      "retention_period": 730,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 5149043004,
+  "location": {
+    "name": "United Kingdom, London"
+  },
+  "metadata": [
+    {
+      "id": 4367803004,
+      "name": "Cost Center",
+      "value": "GAMES4GB60-GBG5001097 Data Engineering & Services (GB71)",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167524004,
+      "name": "Career Page - Office Location",
+      "value": "United Kingdom, London",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167525004,
+      "name": "Career Page - Department",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 9377282004,
+      "name": "Career Page - Sub Department",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 20089613004,
+      "name": "Career Page - Studio Project",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 4395289004,
+      "name": "Worker Type",
+      "value": "Employee",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4404049004,
+      "name": "Country",
+      "value": "United Kingdom",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9262269004,
+      "name": "Job Family",
+      "value": "Software Development Engineering",
+      "value_type": "short_text"
+    },
+    {
+      "id": 9262270004,
+      "name": "Job Family Group",
+      "value": "Engineering",
+      "value_type": "short_text"
+    },
+    {
+      "id": 21724118004,
+      "name": "Bungie Geo Pay",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 5985600004,
+  "updated_at": "2026-07-09T18:53:36-04:00",
+  "requisition_id": "R-124070",
+  "title": "Senior Analytics Engineer",
+  "company_name": "PlayStation Global",
+  "first_published": "2026-05-12T13:04:40-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Why Sony Interactive Entertainment?&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Sony Interactive Entertainment isn’t just the Best Place to Play — it’s also the Best Place to Work. Sony Interactive Entertainment (SIE) is the company behind the PlayStation brand. As a subsidiary of Sony Group Corporation, we’re part of a proud legacy of innovation and excellence. SIE is a dynamic technology company, delivering cutting-edge hardware and network services to more than 100 million people and an entertainment leader, home to some of the most beloved and recognizable intellectual properties (IP) in the world. Our role at SIE is to create and nurture the experiences under the PlayStation brand, a name synonymous with entertainment excellence and creativity.&lt;/p&gt;&lt;/div&gt;&lt;h3&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 12pt;&quot;&gt;&lt;strong&gt;About the Role&lt;/strong&gt;&lt;/span&gt;&lt;/h3&gt;\n&lt;p&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 12pt;&quot;&gt;We are seeking a Senior Analytics Engineer to help design, build, and scale our analytics platform. This is a hands‑on, high‑impact role suited to someone who enjoys greenfield analytics work, has strong opinions on data modelling and architecture, and partners closely with stakeholders to translate business problems into trusted, well‑governed data products.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 12pt;&quot;&gt;You will work within the PlayStation Partners Platform, delivering global data, reporting, and analytics solutions that support partners worldwide in developing and publishing games and content on PlayStation.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 12pt;&quot;&gt;Our mission is to deliver timely, scalable, and high‑quality data and insights that enable data‑driven decision‑making, improve operational efficiency, and uncover revenue opportunities. In this role, you will help shape how analytics is delivered across the organisation, from modelling standards and dbt best practices to the creation of trusted, decision‑ready datasets.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;h3&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 12pt;&quot;&gt;&lt;strong&gt;What You Will Be Doing&lt;/strong&gt;&lt;/span&gt;&lt;/h3&gt;\n&lt;p&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 12pt;&quot;&gt;&lt;strong&gt;Analytics Engineering and Data Modelling&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 12pt;&quot;&gt;Design, build, and maintain analytics‑ready data models using dbt, following best practices such as modularity, reusability, and clear semantic layering.&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 12pt;&quot;&gt;Lead the development of greenfield analytics assets, from raw source ingestion through to curated, business‑facing models.&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 12pt;&quot;&gt;Apply strong data modelling techniques, including dimensional modelling, facts and dimensions, and other appropriate design patterns.&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 12pt;&quot;&gt;Own and evolve the analytics layer architecture, ensuring it scales with data volume and business complexity.&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 12pt;&quot;&gt;Ensure data quality and trust through testing, documentation, and observability within dbt.&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 12pt;&quot;&gt;&lt;strong&gt;Business Partnership&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 12pt;&quot;&gt;Partner closely with business stakeholders, analysts, and product teams to understand requirements and translate them into well‑designed data models.&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 12pt;&quot;&gt;Act as a trusted thought partner, helping stakeholders understand what is possible with data and shaping requirements collaboratively.&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 12pt;&quot;&gt;Balance technical excellence with pragmatic delivery, focusing on measurable business outcomes.&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 12pt;&quot;&gt;&lt;strong&gt;Platform and Best Practices&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 12pt;&quot;&gt;Define and embed dbt standards, including naming conventions, model layering, testing strategies, and documentation practices.&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 12pt;&quot;&gt;Contribute to data architecture decisions, including warehouse design, schema organisation, and performance optimisation.&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 12pt;&quot;&gt;Improve developer experience through tooling, CI/CD patterns, and modern analytics engineering workflows.&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 12pt;&quot;&gt;Maintain deep expertise in the analytics technology stack, ensuring optimal performance and effective feature usage.&lt;br&gt;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 12pt;&quot;&gt;&lt;strong&gt;Required Skills&lt;/strong&gt;&lt;/span&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 12pt;&quot;&gt;Proven experience delivering data products, analytics, and visualisations using Business Intelligence tools such as Domo, Tableau, Power BI, Qlik, or similar platforms.&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 12pt;&quot;&gt;Strong hands‑on experience with dbt, including:&lt;/span&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 12pt;&quot;&gt;Data model design and refactoring&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 12pt;&quot;&gt;Generic and singular testing&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 12pt;&quot;&gt;Documentation and exposures&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 12pt;&quot;&gt;Sources, snapshots, and macros&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/li&gt;\n&lt;li&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 12pt;&quot;&gt;Excellent data modelling skills across conceptual, logical, and physical models, including both third normal form and dimensional modelling approaches.&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 12pt;&quot;&gt;Advanced SQL skills and experience with modern cloud data warehouses such as Snowflake, BigQuery, or Redshift.&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 12pt;&quot;&gt;Demonstrated ability to design analytics models that are technically robust and intuitive for business users.&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 12pt;&quot;&gt;Experience building greenfield analytics or data platforms, or significantly evolving existing ones.&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 12pt;&quot;&gt;Experience with data quality and observability, using dbt or complementary tooling.&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 12pt;&quot;&gt;Familiarity with orchestration tools such as Airflow, Dagster, or Prefect.&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 12pt;&quot;&gt;Experience with semantic layers, metrics frameworks, or analytics consumption patterns.&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 12pt;&quot;&gt;Exposure to data governance, access control, or analytics enablement at scale.&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 12pt;&quot;&gt;Experience mentoring or supporting junior analytics engineers or analysts.&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 12pt;&quot;&gt;Strong track record of partnering effectively with business teams to deliver outcomes.&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 12pt;&quot;&gt;Undergraduate degree in a related field, or an equivalent combination of education and experience.&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 12pt;&quot;&gt;&lt;strong&gt;Desirable Experience and Attributes&lt;/strong&gt;&lt;/span&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 12pt;&quot;&gt;Comfort operating in ambiguous or evolving data environments.&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 12pt;&quot;&gt;Strong focus on clean design, maintainability, and long‑term sustainability, not just speed of delivery.&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 12pt;&quot;&gt;Pride in building trusted data assets that are widely adopted and valued.&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 12pt;&quot;&gt;Ability to be opinionated yet pragmatic, clearly explaining trade‑offs and adapting when required.&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 12pt;&quot;&gt;Experience maintaining high technical delivery standards, including documentation and end‑user self‑service enablement.&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 12pt;&quot;&gt;Collaboration with business, product, and engineering teams to deliver scalable and flexible solutions.&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 12pt;&quot;&gt;Ongoing support for users who rely on analytics products for decision‑making.&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 12pt;&quot;&gt;&lt;strong&gt;Nice to Have&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 12pt;&quot;&gt;Extensive experience with Domo.&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 12pt;&quot;&gt;Hands‑on experience with Snowflake.&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 12pt;&quot;&gt;Exposure to web technologies such as JavaScript, HTML, and CSS.&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 12pt;&quot;&gt;Experience in web analytics or related domains.&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 12pt;&quot;&gt;Knowledge of statistical methodologies.&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 12pt;&quot;&gt;Exposure to data science or advanced analytics use cases.&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 12pt;&quot;&gt;Experience developing on AWS.&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p class=&quot;p1&quot;&gt;Please note, Sony Interactive Entertainment conducts background checks at the offer stage for all new employees (which may include criminal background checks for some roles) and will need to process personal information to support these checks.&lt;/p&gt;\n&lt;p class=&quot;p1&quot;&gt;Please refer to our&amp;nbsp;&lt;a href=&quot;https://www.playstation.com/legal/careers-privacy-notice/&quot; target=&quot;_blank&quot;&gt;Candidate Privacy Notice&lt;/a&gt;&amp;nbsp;for more information about what personal information we collect, how we use it, who we share it with, and your data protection rights.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Equal Opportunity Statement:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Sony is an Equal Opportunity Employer. All persons will receive consideration for employment without regard to gender (including gender identity, gender expression and gender reassignment), race (including colour, nationality, ethnic or national origin), religion or belief, marital or civil partnership status, disability, age, sexual orientation, pregnancy, maternity or parental status, trade union membership or membership in any other legally protected category.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;We strive to create an inclusive environment, empower employees and embrace diversity. We encourage everyone to respond.&amp;nbsp;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Sony Interactive Entertainment is a Fair Chance employer and qualified applicants with arrest and conviction records will be considered for employment.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4065072004,
+      "name": "Information Capital and Data Services (ICDS)",
+      "child_ids": [],
+      "parent_id": 4065067004
+    }
+  ],
+  "offices": [
+    {
+      "id": 4011923004,
+      "name": "GBR-London-10GMS",
+      "location": "London, England, United Kingdom",
+      "child_ids": [],
+      "parent_id": 4011922004
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

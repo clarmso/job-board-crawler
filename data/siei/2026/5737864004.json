@@ -1,0 +1,109 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/siei/jobs/5737864004",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": true,
+      "requires_processing_consent": false,
+      "requires_retention_consent": true,
+      "retention_period": 730,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "education": "education_optional",
+  "internal_job_id": 5020103004,
+  "location": {
+    "name": "Japan, Tokyo"
+  },
+  "metadata": [
+    {
+      "id": 4367803004,
+      "name": "Cost Center",
+      "value": "JPZ1AH0400 FSEE-JP-2",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167524004,
+      "name": "Career Page - Office Location",
+      "value": "Japan, Tokyo",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167525004,
+      "name": "Career Page - Department",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 9377282004,
+      "name": "Career Page - Sub Department",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 20089613004,
+      "name": "Career Page - Studio Project",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 4395289004,
+      "name": "Worker Type",
+      "value": "Employee",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4404049004,
+      "name": "Country",
+      "value": "Japan",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9262269004,
+      "name": "Job Family",
+      "value": "Software Development Engineering",
+      "value_type": "short_text"
+    },
+    {
+      "id": 9262270004,
+      "name": "Job Family Group",
+      "value": "Engineering",
+      "value_type": "short_text"
+    },
+    {
+      "id": 21724118004,
+      "name": "Bungie Geo Pay",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 5737864004,
+  "updated_at": "2026-07-09T18:53:43-04:00",
+  "requisition_id": "R-122598",
+  "title": "システムソフトウェアエンジニア（ゲームダウンロード・インストール機能の開発）",
+  "company_name": "Sony Interactive Entertainment Inc.",
+  "first_published": "2026-04-16T22:33:45-04:00",
+  "language": "ja",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Why PlayStation?&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;PlayStation isn’t just the Best Place to Play — it’s also the Best Place to Work. Today, we’re recognized as a global leader in entertainment producing The PlayStation family of products and services including PlayStation®5, PlayStation®4, PlayStation®VR, PlayStation®Plus, acclaimed PlayStation software titles from PlayStation Studios, and more.&lt;/p&gt;\n&lt;p&gt;PlayStation also strives to create an inclusive environment that empowers employees and embraces diversity. We welcome and encourage everyone who has a passion and curiosity for innovation, technology, and play to explore our open positions and join our growing global team.&lt;/p&gt;\n&lt;p&gt;The PlayStation brand falls under Sony Interactive Entertainment, a wholly-owned subsidiary of Sony Group Corporation.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;■組織・職場紹介&lt;/strong&gt;&lt;br&gt;PS5、PS4をはじめ、歴代PlayStationのシステムソフトウェア開発を担う組織です。&lt;br&gt;本ポジションの配属先では、主にゲームのダウンロード、インストール、アップデート、起動に関わる一連の機能を担当します。&lt;br&gt;扱うのは、単なるアプリケーション開発ではなく、大容量コンテンツをいかに早く・確実に・互換性を保って届けるかという、PlayStationにおけるゲームプレイ体験の中核を支える領域です。数十GB〜100GB超のゲームコンテンツを、ネットワーク帯域、ストレージ容量、実行環境、過去資産との互換性といった複数の制約の中で最適に扱うための、幅広い視点での設計力と実装力が求められます。&lt;br&gt;東京拠点だけでなく、米国拠点の開発・運用チームや関連チームと連携しながら開発を進める、グローバルな職場です。また、ゲーム開発者や外部パートナーと協働しながら、ゲームタイトルとSDK、システムソフトウェアやインフラとの依存関係を踏まえた設計・改善にも取り組みます。&lt;br&gt;PlayStationのシステムソフトウェアは多数のモジュールで構成されており、関連モジュールの専門チームと密に連携しながら、課題の洗い出し、解決方針の検討、実装までを進めます。&lt;br&gt;1億以上の月間アクティブユーザのゲーム体験を支える基盤技術に携わり、将来世代も見据えた設計・開発に挑戦できる環境です。&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;■職務内容&lt;/strong&gt;&lt;br&gt;・PlayStationシステムソフトウェアにおける、ゲーム配信・インストール・アップデートに関わるクライアントソフトウェアの設計・開発を担当します。&lt;br&gt;・ゲームタイトルとシステムソフトウェア、SDKの依存関係や、既存タイトル資産・将来タイトル双方の制約を踏まえ、長期的な互換性と運用を見据えた設計を行います。&lt;br&gt;・新規要件や機能追加に対して、ソリューション検討、基本設計、関連チームとの仕様調整・合意形成を担います。&lt;br&gt;・チームメンバーや協力会社メンバーと連携し、詳細設計、実装、単体・結合テスト、リリース後のサポートまで一貫して担当します。&lt;br&gt;・ご経験に応じて、チームリードまたはチームリード候補として、設計方針の推進やチーム横断での課題解決を担っていただくことを期待しています。&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;■ダウンロード・インストール機能について&lt;/strong&gt;&lt;br&gt;・100GBを超えるゲームについても、可能な限り早くプレイ可能な状態に到達させるためのダウンロード・インストール機能を開発しています。&lt;br&gt;・言語や対象PlayStationの性能特性に応じてゲームバイナリを分割し、ユーザ操作やシステム状態に応じてダウンロード対象や順序を最適化することで、効率的な配信を実現しています。&lt;br&gt;・アップデート時には差分のみをダウンロードし、再利用可能なデータは既存インストール済みデータを活用することで、高速かつ効率的な更新を実現しています。&lt;br&gt;・あわせて、ゲームタイトルをコンソールのライフサイクル全体で、継続的に安定して動作させるため、ランタイム環境のアップデートや構成管理にも取り組みます。&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;■求める 実務経験・スキル&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;【必須要件（MUST）】&lt;/strong&gt;&lt;br&gt;・C++によるソフトウェア開発経験、またはオペレーティングシステム／ミドルウェアなど低レイヤ領域の開発経験（5年以上）&lt;br&gt;・製品レベルのソフトウェア開発において、要件整理、設計、実装、テストまで一貫して携わった経験&lt;br&gt;・並行処理や非同期処理を含む設計・実装経験&lt;br&gt;・複数の関係者やチームと連携しながら技術課題を解決した経験&lt;/p&gt;\n&lt;p&gt;&lt;br&gt;&lt;strong&gt;【歓迎要件（WANT）】&lt;/strong&gt;&lt;br&gt;・ソフトウェア構成管理、コンテナ技術に関する知識・経験&lt;br&gt;・CI/CDパイプライン、プロダクトのビルドシステム構築、またはQA業務の経験&lt;br&gt;・Python、JavaScriptなどのスクリプト言語の知識&lt;br&gt;・デザインパターンを活用したソフトウェア設計経験&lt;br&gt;・SDK開発経験&lt;br&gt;・テストプログラム、テストフレームワーク、またはテストインフラの設計・開発・運用経験&lt;br&gt;・PlayStation固有の知識は入社時点では必須ではなく、必要に応じてキャッチアップしていただきます&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;【語学力】&lt;/strong&gt;&lt;br&gt;・英語での口頭コミュニケーションおよび読み書きに抵抗がないこと&lt;br&gt;・日本語能力試験N1、またはそれと同等以上の日本語力&lt;br&gt;・いずれにおいても、流暢さそのものより、技術的な論点を整理して伝えようとする姿勢を重視します。&lt;/p&gt;\n&lt;p&gt;　&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p class=&quot;p1&quot;&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Equal Opportunity Statement:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Sony is an Equal Opportunity Employer. All persons will receive consideration for employment without regard to gender (including gender identity, gender expression and gender reassignment), race (including colour, nationality, ethnic or national origin), religion or belief, marital or civil partnership status, disability, age, sexual orientation, pregnancy or maternity, trade union membership or membership in any other legally protected category.&lt;/p&gt;\n&lt;p&gt;We strive to create an inclusive environment, empower employees and embrace diversity. We encourage everyone to respond.&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;PlayStation is a Fair Chance employer and qualified applicants with arrest and conviction records will be considered for employment.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4072503004,
+      "name": "Admin (FSEE)",
+      "child_ids": [],
+      "parent_id": 4072500004
+    }
+  ],
+  "offices": [
+    {
+      "id": 4040733004,
+      "name": "JPN-Tokyo-Sony City",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 4040731004
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}
