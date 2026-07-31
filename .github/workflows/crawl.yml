@@ -2,7 +2,7 @@ name: Crawl Job Boards
 
 on:
   schedule:
-      - cron: '0 23 * * 4'  # Every Thursday at 23:00 UTC
+      - cron: '0 23 * * 1,4'  # Every Monday and Thursday at 23:00 UTC
   workflow_dispatch:       # Allow manual trigger
 
 permissions:
