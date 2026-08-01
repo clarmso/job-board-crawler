@@ -1,0 +1,148 @@
+{
+  "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=8089124",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3504602,
+  "location": {
+    "name": "United States"
+  },
+  "metadata": [
+    {
+      "id": 22194060,
+      "name": "Position ID",
+      "value": "10006050",
+      "value_type": "short_text"
+    },
+    {
+      "id": 24918,
+      "name": "Department ID",
+      "value": "D21420-AI Builder Experience",
+      "value_type": "single_select"
+    },
+    {
+      "id": 22194061,
+      "name": "Team",
+      "value": "T10333-AI Builder Experience Eng",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4914027,
+      "name": "Region",
+      "value": "North America",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4137836,
+      "name": "Working Model Eligibility",
+      "value": [
+        "3-Fully Remote"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 4914029,
+      "name": "Job Level",
+      "value": "Professional - IC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24109,
+      "name": "Employment Type",
+      "value": "Full-time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 1073551,
+      "name": "Job Type",
+      "value": "Standard",
+      "value_type": "single_select"
+    },
+    {
+      "id": 988684,
+      "name": "JD Link",
+      "value": "https://docs.google.com/document/d/12Ja-Y9L1u7QAnAEgYch3eNiI963OdwNyPjagI2ZoQmQ/edit?usp=sharing",
+      "value_type": "url"
+    },
+    {
+      "id": 5525802,
+      "name": "Baseline Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 5525816,
+      "name": "Other Large Market Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 13324394,
+      "name": "Job Post Range (United States)",
+      "value": {
+        "unit": "USD",
+        "max_value": "215000.0",
+        "min_value": "109000.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 40497768,
+      "name": "Job Post Range (Canada)",
+      "value": {
+        "unit": "USD",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 57694516,
+      "name": "Job Post Range (Poland)",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 64002488,
+      "name": "Job Post Range (Italy)",
+      "value": null,
+      "value_type": "currency_range"
+    }
+  ],
+  "id": 8089124,
+  "updated_at": "2026-07-31T14:48:17-04:00",
+  "requisition_id": "2273504602",
+  "title": "Software Engineer 3",
+  "company_name": "MongoDB",
+  "first_published": "2026-07-31T14:48:17-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;The Agent Research and Tooling team, part of MongoDB&#39;s AI Builder Experience organization, owns the platform layer around agents: how teams author, distribute, evaluate, monitor, and improve agent skills and agent behavior. We are hiring a software engineer to build and maintain the tooling, evaluation systems, and quality gates behind MongoDB&#39;s agent skills.&lt;/p&gt;\n&lt;p&gt;This is a software engineering role at the intersection of developer tooling, applied AI, and software quality. You will take loosely defined agent and tooling problems, break them into workable plans, and ship durable internal systems: command-line tools, reusable libraries, evaluation harnesses, and CI workflows.&lt;/p&gt;\n&lt;p&gt;This role is open to remote work in the US or can be based out of any of our US offices.&lt;/p&gt;\n&lt;h3&gt;What you&#39;ll do&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Build and maintain agent skills and the infrastructure to validate, evaluate, publish, and maintain them&lt;/li&gt;\n&lt;li&gt;Design evaluation datasets and workflows that compare agent behavior against a baseline and produce actionable quality signals&lt;/li&gt;\n&lt;li&gt;Build agent metrics and observability: skill selection and routing, success and failure outcomes, tool calls, latency, and token usage&lt;/li&gt;\n&lt;li&gt;Design safety and quality gates for agent-authored content: rule packs, static analysis, confidence thresholds, structured verdicts, and bounded suppression&lt;/li&gt;\n&lt;li&gt;Create CLIs, libraries, and MCP integrations that other repositories adopt and that run in local development and CI&lt;/li&gt;\n&lt;li&gt;Integrate tooling into GitHub Actions and other CI workflows, including secrets, annotations, exit codes, and artifacts&lt;/li&gt;\n&lt;li&gt;Build code-generation quality checks, such as anti-pattern catalogs and linting for AI-generated MongoDB code&lt;/li&gt;\n&lt;li&gt;Investigate real failures such as nondeterministic results, false positives, and unsafe generated guidance, and turn them into reusable improvements&lt;/li&gt;\n&lt;li&gt;Collaborate with engineers, security partners, and product teams; communicate trade-offs, risks, and ownership across teams&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Examples of the problems you&#39;ll solve&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;How can tests verify an agent tool&#39;s structured result when item order may vary, but counts, required fields, and values must remain correct&lt;/li&gt;\n&lt;li&gt;How can a CI gate flag unsafe instructions in an agent skill without treating every neutral mention as an incident or letting cautionary wording hide a real instruction&lt;/li&gt;\n&lt;li&gt;How can an evaluation suite show whether a skill improves answers over a baseline and give authors enough signal to improve it&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;What we&#39;re looking for&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;2+ years of experience building production software, developer tools, internal platforms, or automation systems&lt;/li&gt;\n&lt;li&gt;Software engineering fundamentals in API design, testing, error handling, and maintainability&lt;/li&gt;\n&lt;li&gt;Experience building CLIs, libraries, test infrastructure, static analysis, or CI/CD workflows&lt;/li&gt;\n&lt;li&gt;Ability to design systems that are usable by developers and reliable in automation&lt;/li&gt;\n&lt;li&gt;Experience reasoning about correctness and safety with ambiguous input, nondeterministic output, false positives, or untrusted content&lt;/li&gt;\n&lt;li&gt;Comfort in an evolving R&amp;amp;D environment where the right abstraction emerges through prototypes and feedback&lt;/li&gt;\n&lt;li&gt;Written and verbal communication, including explaining technical trade-offs and aligning stakeholders across teams&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Nice to have&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience with agentic systems, LLM applications, prompt or rubric-based evaluation, or AI-assisted development&lt;/li&gt;\n&lt;li&gt;Experience building eval harnesses, benchmark datasets, quality metrics, LLM-as-judge workflows, or human-review tooling&lt;/li&gt;\n&lt;li&gt;Experience with Go, Python, JavaScript/TypeScript, Java, or C#&lt;/li&gt;\n&lt;li&gt;Experience with GitHub Actions security, secret handling, static rule engines, or policy enforcement&lt;/li&gt;\n&lt;li&gt;Experience moving prototypes into production&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;What success looks like&lt;/h3&gt;\n&lt;p&gt;In your first year, you will:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Ship tooling that makes agent skills or developer workflows easier to test, review, and adopt&lt;/li&gt;\n&lt;li&gt;Improve the quality and interpretability of evaluations, not just their count&lt;/li&gt;\n&lt;li&gt;Convert recurring manual work and fragile scripts into documented, reusable automation&lt;/li&gt;\n&lt;li&gt;Make security, correctness, and operational trade-offs explicit in the designs you ship&lt;/li&gt;\n&lt;li&gt;Earn adoption from partner teams through clear interfaces and reliable CI&lt;/li&gt;\n&lt;li&gt;Own projects independently while collaborating on shared systems&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;About MongoDB&lt;/h3&gt;\n&lt;p&gt;MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure.&lt;/p&gt;\n&lt;p&gt;With offices worldwide and over 67,000 customers, including 75% of the Fortune 100 and AI-native startups, relying on MongoDB for their most important applications, we’re powering the next era of software.&lt;/p&gt;\n&lt;p&gt;Our compass at MongoDB is our &lt;a href=&quot;https://www.mongodb.com/company&quot;&gt;Leadership Commitment,&lt;/a&gt; guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. &lt;a href=&quot;https://www.mongodb.com/company/blog/culture/employee-benefits-that-make-a-difference-at-mongodb&quot;&gt;From employee affinity groups, to fertility assistance and a generous parental leave policy&lt;/a&gt;, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys.&lt;a href=&quot;https://www.mongodb.com/blog/channel/culture&quot;&gt; Learn more about what it’s like to work at MongoDB&lt;/a&gt;, and help us make an impact on the world!&lt;/p&gt;\n&lt;p&gt;MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.&lt;/p&gt;\n&lt;p&gt;MongoDB, Inc. provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type and makes all hiring decisions without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.&lt;/p&gt;\n&lt;p&gt;Red ID: 2273504602&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;MongoDB’s base salary range for this role is posted below. Compensation at the time of offer is unique to each candidate and based on a variety of factors such as skill set, experience, qualifications, and work location. Salary is one part of MongoDB’s total compensation and benefits package. Other benefits for eligible employees may include: equity, participation in the employee stock purchase program, flexible paid time off, 20 weeks fully-paid gender-neutral parental leave, fertility and adoption assistance, 401(k) plan, mental health counseling, access to transgender-inclusive health insurance coverage, and health benefits offerings. Please note, the base salary range listed below and the benefits in this paragraph are only applicable to U.S.-based candidates.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;MongoDB’s base salary range for this role in the U.S. is:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$109,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$215,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 49197,
+      "name": "AI Builder Experience",
+      "child_ids": [],
+      "parent_id": 370707
+    }
+  ],
+  "offices": [
+    {
+      "id": 95844,
+      "name": "Remote Vermont",
+      "location": "Vermont, United States",
+      "child_ids": [],
+      "parent_id": 23657
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": null
+}

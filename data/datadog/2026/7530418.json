@@ -65,7 +65,7 @@
     }
   ],
   "id": 7530418,
-  "updated_at": "2026-07-28T05:41:06-04:00",
+  "updated_at": "2026-07-31T09:42:54-04:00",
   "requisition_id": "R17394",
   "title": "Mid-Market Sales (Italy/Spain)",
   "company_name": "Datadog",
@@ -88,6 +88,13 @@
       "location": "Amsterdam, Noord-Holland, Netherlands",
       "child_ids": [],
       "parent_id": 78096
+    },
+    {
+      "id": 25185,
+      "name": "Dublin",
+      "location": "Dublin, Ireland",
+      "child_ids": [],
+      "parent_id": 78095
     }
   ],
   "ai_disclaimer": null,

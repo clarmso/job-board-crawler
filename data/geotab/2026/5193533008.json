@@ -19,7 +19,7 @@
     {
       "id": 4072049008,
       "name": "Employment Type",
-      "value": "Fixed Term Employee",
+      "value": "Permanent Full Time",
       "value_type": "single_select"
     },
     {
@@ -36,9 +36,9 @@
     }
   ],
   "id": 5193533008,
-  "updated_at": "2026-07-20T07:41:13-04:00",
+  "updated_at": "2026-07-31T09:47:32-04:00",
   "requisition_id": "2166",
-  "title": "Technical Support Specialist – Benelux Market",
+  "title": "Technical Support Specialist – Dutch Market",
   "company_name": "Geotab",
   "first_published": "2026-04-20T06:49:38-04:00",
   "language": "en",
@@ -73,6 +73,13 @@
       "location": null,
       "child_ids": [],
       "parent_id": 4063009008
+    },
+    {
+      "id": 4007423008,
+      "name": "Madrid",
+      "location": "Madrid",
+      "child_ids": [],
+      "parent_id": 4007401008
     }
   ],
   "ai_disclaimer": "<p>We use Greenhouse's AI-powered Talent Match tool to compare your application against our job requirements.</p>",

@@ -74,13 +74,21 @@
     {
       "id": 5525802,
       "name": "Baseline Budgeted Salary",
-      "value": null,
+      "value": {
+        "unit": "GBP",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
       "value_type": "currency_range"
     },
     {
       "id": 5525816,
       "name": "Other Large Market Budgeted Salary",
-      "value": null,
+      "value": {
+        "unit": "GBP",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
       "value_type": "currency_range"
     },
     {
@@ -117,7 +125,7 @@
     }
   ],
   "id": 8056751,
-  "updated_at": "2026-07-29T11:36:04-04:00",
+  "updated_at": "2026-07-31T15:10:23-04:00",
   "requisition_id": "2273491684",
   "title": "Vice President, Solutions Architecture - EMEA",
   "company_name": "MongoDB",

@@ -1,0 +1,68 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/alpaca/jobs/6126498004",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 5191681004,
+  "location": {
+    "name": "Remote - North America - LATAM"
+  },
+  "metadata": null,
+  "id": 6126498004,
+  "updated_at": "2026-07-29T09:57:48-04:00",
+  "requisition_id": "N260095",
+  "title": "Senior Data Engineer",
+  "company_name": "Alpaca ",
+  "first_published": "2026-07-27T04:18:38-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Who We Are:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Alpaca is a US-headquartered, global leader in agent-first brokerage infrastructure&amp;nbsp;&lt;/strong&gt;for stocks, ETFs, options, crypto, fixed income, 24/5 trading, and more.&lt;br&gt;&lt;br&gt;Amongst our subsidiaries, Alpaca is a licensed financial services company, serving hundreds of financial institutions across 40 countries with our institutional-grade APIs. This includes broker-dealers, investment advisors, wealth managers, hedge funds, and crypto exchanges, totalling over 10 million brokerage accounts.&lt;br&gt;&lt;br&gt;Our global team is a diverse group of experienced engineers, traders, and brokerage professionals who are working to achieve our mission of opening financial services to everyone on the planet. We&#39;re deeply committed to open-source contributions and fostering a vibrant community, continuously enhancing our award-winning, developer-friendly API and the robust infrastructure behind it.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Alpaca is proudly backed by $400 million in funding from top-tier global investors including Portage Ventures, Spark Capital, Tribe Capital, Social Leverage, Horizons Ventures, Opera Tech Ventures, SBI Group, Derayah Financial, Unbound, Peak XV, Elefund, and Y Combinator.&lt;/strong&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;Our Team Members:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We&#39;re a dynamic team of 400+ globally distributed members who thrive working from our favorite places around the world, with teammates spanning the USA, Canada, Japan, Hungary, Nigeria, Brazil, the UK, and beyond!&lt;br&gt;&lt;br&gt;We&#39;re searching for passionate individuals eager to contribute to Alpaca&#39;s rapid growth. If you align with our core values—Stay Curious, Have Empathy, and Be Accountable—and are ready to make a significant impact, we encourage you to apply.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Your Role:&lt;/strong&gt; We are seeking a Senior Data Engineer to help design and build the next generation of our Data Platform as we continue to scale to larger customers and new jurisdictions. At Alpaca, Data Engineering encompasses financial transactions, customer data, API logs, system metrics, augmented data, and third-party systems that impact decision making for both internal and external stakeholders. We process hundreds of millions of events daily, and this number continues to grow as we onboard new customers and products.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;We prioritize open-source technologies in our data stack while leveraging Google Cloud Platform (GCP) as the foundation for our data infrastructure. This spans batch and stream ingestion, transformation, and consumption layers for BI/Reporting, AI/agent interfaces (MCP), and external third-party sinks. We also oversee data experimentation, cataloging, and monitoring/alerting systems.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Our team is 100% distributed and remote.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Responsibilities:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Design, build, and evolve the core data platform infrastructure e.g., distributed query engines, orchestration, warehousing, cataloging, and more.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Own our lakehouse infrastructure as code, managing deployments through Terraform and Ansible on Kubernetes.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Build and maintain low-latency streaming and CDC ingestion pipelines, as well as batch ingestion paths landing in Iceberg.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Develop and scale our BI landscape so downstream teams and agents get performant, self-serve access to lakehouse data.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Enforce platform reliability best practices, including monitoring and alerting, on-call rotations, incident response, maintenance windows, runbooks, and SLAs.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Partner with DevOps, Analytics Engineering, and other stakeholders to close infrastructure gaps and support new data requirements.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Must-Haves:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;5+ years of experience in Data Engineering, including 2+ years building and operating scalable, low-latency data platforms handling &amp;gt; 100M events/day.&lt;/li&gt;\n&lt;li&gt;Strong hands-on experience running data infrastructure on Kubernetes, with cloud-native tooling like Docker and Helm.&lt;/li&gt;\n&lt;li&gt;Production experience with IaC: Terraform, Ansible, and ArgoCD (or equivalents).&lt;/li&gt;\n&lt;li&gt;Deep knowledge of distributed systems (storage, transactions, and query processing) with hands-on experience operating open-source query engines like Trino or Presto.&lt;/li&gt;\n&lt;li&gt;Strong experience with object storage and open table formats, specifically Apache Iceberg.&lt;/li&gt;\n&lt;li&gt;Experience with streaming and CDC systems: Kafka, Redpanda, and Debezium.&lt;/li&gt;\n&lt;li&gt;Hands-on experience with orchestration frameworks (Airflow) and ELT tools (Airbyte).&lt;/li&gt;\n&lt;li&gt;Strong working knowledge of Python and SQL for building pipelines and platform tooling.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Experience with Google Cloud Platform and its data services (GCS, Cloud Build, Cloud SQL, Dataproc, etc); or related experience with other cloud services.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Ability to thrive in a fast-paced startup environment and adapt infrastructure to rapidly changing needs.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;strong&gt;Nice to Haves:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience with semantic/metrics layers (Cube, dbt, Looker).&lt;/li&gt;\n&lt;li&gt;Familiarity with transformation frameworks (dbt).&lt;/li&gt;\n&lt;li&gt;Familiarity with reverse ETL tooling (Hightouch)&lt;/li&gt;\n&lt;li&gt;Familiarity with data catalog and lineage tooling (OpenMetadata, Datahub)&lt;/li&gt;\n&lt;li&gt;Experience with data access control and governance frameworks (Apache Ranger)&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h3&gt;&lt;strong&gt;How We Take Care of You:&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-weight: 400; text-align: justify;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Competitive Salary &amp;amp; Stock Options&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;text-align: justify;&quot;&gt;Health Benefits&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400; text-align: justify;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;New Hire Home-Office Setup: One-time USD $500&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400; text-align: justify;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Monthly Stipend: USD $150 per month via a Brex Card&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Alpaca is proud to be an equal opportunity workplace dedicated to pursuing and hiring a diverse workforce.&lt;br&gt;&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;a href=&quot;https://files.alpaca.markets/disclosures/AlpacaRecruitmentPrivacyPolicy.pdf&quot;&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Recruitment Privacy Policy&lt;/span&gt;&lt;/em&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4056401004,
+      "name": "Data Engineering",
+      "child_ids": [],
+      "parent_id": 4041733004
+    }
+  ],
+  "offices": [
+    {
+      "id": 4031433004,
+      "name": "Remote - Canada",
+      "location": null,
+      "child_ids": [],
+      "parent_id": null
+    },
+    {
+      "id": 4025501004,
+      "name": "Remote - North America ",
+      "location": "North America",
+      "child_ids": [],
+      "parent_id": null
+    },
+    {
+      "id": 4025505004,
+      "name": "Remote - South America",
+      "location": "South America ",
+      "child_ids": [],
+      "parent_id": null
+    },
+    {
+      "id": 4031051004,
+      "name": "Remote - United States",
+      "location": null,
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": "<p>We use Greenhouse’s AI-powered Talent Matching tool to compare your application against our job requirements.</p>",
+  "include_ai_disclaimer": true,
+  "ai_opt_out_request_url": "http://app4.greenhouse.io/ai_opt_out_request/job_post/6126498004/ai_opt_out"
+}

@@ -1,0 +1,61 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/alpaca/jobs/5628538004",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 4848460004,
+  "location": {
+    "name": "North America and Europe"
+  },
+  "metadata": null,
+  "id": 5628538004,
+  "updated_at": "2026-07-29T09:57:44-04:00",
+  "requisition_id": "N98",
+  "title": "Senior Software Engineer - Market Data",
+  "company_name": "Alpaca ",
+  "first_published": "2025-08-21T13:52:37-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Who We Are:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Alpaca is a US-headquartered, global leader in agent-first brokerage infrastructure&amp;nbsp;&lt;/strong&gt;for stocks, ETFs, options, crypto, fixed income, 24/5 trading, and more.&lt;br&gt;&lt;br&gt;Amongst our subsidiaries, Alpaca is a licensed financial services company, serving hundreds of financial institutions across 40 countries with our institutional-grade APIs. This includes broker-dealers, investment advisors, wealth managers, hedge funds, and crypto exchanges, totalling over 10 million brokerage accounts.&lt;br&gt;&lt;br&gt;Our global team is a diverse group of experienced engineers, traders, and brokerage professionals who are working to achieve our mission of opening financial services to everyone on the planet. We&#39;re deeply committed to open-source contributions and fostering a vibrant community, continuously enhancing our award-winning, developer-friendly API and the robust infrastructure behind it.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Alpaca is proudly backed by $400 million in funding from top-tier global investors including Portage Ventures, Spark Capital, Tribe Capital, Social Leverage, Horizons Ventures, Opera Tech Ventures, SBI Group, Derayah Financial, Unbound, Peak XV, Elefund, and Y Combinator.&lt;/strong&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;Our Team Members:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We&#39;re a dynamic team of 400+ globally distributed members who thrive working from our favorite places around the world, with teammates spanning the USA, Canada, Japan, Hungary, Nigeria, Brazil, the UK, and beyond!&lt;br&gt;&lt;br&gt;We&#39;re searching for passionate individuals eager to contribute to Alpaca&#39;s rapid growth. If you align with our core values—Stay Curious, Have Empathy, and Be Accountable—and are ready to make a significant impact, we encourage you to apply.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;As a senior software engineer, you will help build and scale the systems and services that form the foundation of Alpaca and empower millions of users who are trading billions of dollars worth of assets.&lt;/p&gt;\n&lt;p&gt;The market data team is responsible for improving the overall architecture of Alpaca connected to data products such as stocks, options, crypto, and foreign exchange markets. Oversee their public API structure and documentation on both streaming and historical endpoints. The team is responsible for building a cohesive developer-first API and is tasked with planning, ideating, experimenting, and putting into production the new services, and libraries that overcome some of our greatest technical challenges as we continue to scale rapidly.&lt;/p&gt;\n&lt;p&gt;We are looking for senior or staff engineers who are keen on providing quality solutions, have great fundamentals, have proven experience building and architecting at scale, and are not afraid of challenging conventions. This demanding team also requires a deep understanding of POSIX-like operating systems, modern infrastructure, and orchestration practices.&lt;br&gt;&lt;br&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Things You Get To Do:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Influence the overall architecture of Alpaca’s market data systems&lt;/li&gt;\n&lt;li&gt;Design highly scalable, mission-critical systems&lt;/li&gt;\n&lt;li&gt;Obsess over latency (every nanosecond counts)&lt;/li&gt;\n&lt;li&gt;Implement backend services and lead architecture where scalability and resilience matters&lt;/li&gt;\n&lt;li&gt;Maintain good software quality and test coverage&lt;/li&gt;\n&lt;li&gt;Participate in code reviews&lt;/li&gt;\n&lt;li&gt;Troubleshooting on incidents and reported bugs&lt;/li&gt;\n&lt;li&gt;You may be asked to be on-call to assist with engineering projects that are timely in nature&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Who You Are (Must-Haves):&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;At least 4 years of experience working on systems at scale&lt;/li&gt;\n&lt;li&gt;Experience with at least compiled imperative languages (e.g. Go, C, C++, Rust, etc.). Most of our critical services are written in Go&lt;/li&gt;\n&lt;li&gt;SQL or relational database skills&lt;/li&gt;\n&lt;li&gt;Familiarity with TCP/IP, and UDP networking&lt;/li&gt;\n&lt;li&gt;Proficient with Linux/BSD, and shell scripting&lt;/li&gt;\n&lt;li&gt;Excited about what we are building at Alpaca&lt;/li&gt;\n&lt;li&gt;Proven track record of architecting and leading medium-scale projects involving multiple teams&lt;/li&gt;\n&lt;li&gt;Experience with Kubernetes or other workload orchestration and scheduling systems (we primarily use Kubernetes via GKE)&lt;/li&gt;\n&lt;li&gt;Experience with major cloud platforms (we primarily use GCP)&lt;/li&gt;\n&lt;li&gt;A passion for financial markets&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Who You Might Be&lt;/strong&gt; (&lt;strong&gt;Nice-to-Haves):&amp;nbsp;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience with Market Data&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Knowledge of microservice architectures&lt;/li&gt;\n&lt;li&gt;Knowledge of clean code principles&lt;/li&gt;\n&lt;li&gt;DevOps mindset is an asset&lt;/li&gt;\n&lt;li&gt;Cloud Networking experience (BGP, VPC peering)&lt;/li&gt;\n&lt;li&gt;Experience in building low-latency applications&lt;/li&gt;\n&lt;li&gt;Experience with distributed key-value stores&lt;/li&gt;\n&lt;li&gt;Experience with CI/CD&lt;/li&gt;\n&lt;li&gt;A passion for financial markets or the desire to learn&lt;/li&gt;\n&lt;li&gt;Knowledge of Agile/Scrum methodologies&lt;/li&gt;\n&lt;li&gt;Experience with observability, tracing, continuous profiling&lt;/li&gt;\n&lt;li&gt;Experience with capacity planning and benchmarking&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h3&gt;&lt;strong&gt;How We Take Care of You:&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-weight: 400; text-align: justify;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Competitive Salary &amp;amp; Stock Options&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;text-align: justify;&quot;&gt;Health Benefits&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400; text-align: justify;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;New Hire Home-Office Setup: One-time USD $500&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400; text-align: justify;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Monthly Stipend: USD $150 per month via a Brex Card&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Alpaca is proud to be an equal opportunity workplace dedicated to pursuing and hiring a diverse workforce.&lt;br&gt;&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;a href=&quot;https://files.alpaca.markets/disclosures/AlpacaRecruitmentPrivacyPolicy.pdf&quot;&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Recruitment Privacy Policy&lt;/span&gt;&lt;/em&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4041733004,
+      "name": "Engineering",
+      "child_ids": [
+        4041738004,
+        4056293004,
+        4056295004,
+        4056296004,
+        4056294004,
+        4056401004
+      ],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 4031479004,
+      "name": "Remote - European Time Zones",
+      "location": "Remote - European Time Zones",
+      "child_ids": [],
+      "parent_id": null
+    },
+    {
+      "id": 4031475004,
+      "name": "Remote - Global - Eastern Time Zone",
+      "location": "Remote - Global (Eastern Time Zone)",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": "<p>We use Greenhouse’s AI-powered Talent Matching tool to compare your application against our job requirements.</p>",
+  "include_ai_disclaimer": true,
+  "ai_opt_out_request_url": "http://app4.greenhouse.io/ai_opt_out_request/job_post/5628538004/ai_opt_out"
+}

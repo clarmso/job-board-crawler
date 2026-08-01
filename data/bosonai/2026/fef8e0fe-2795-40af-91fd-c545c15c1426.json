@@ -1,0 +1,45 @@
+{
+  "additional": "",
+  "additionalPlain": "",
+  "categories": {
+    "commitment": "Full-time",
+    "location": "Santa Clara HQ",
+    "team": "Engineering",
+    "allLocations": [
+      "Santa Clara HQ"
+    ]
+  },
+  "createdAt": 1783540951931,
+  "descriptionPlain": "About Boson AI: At Boson AI, we are not just building AI solutions; we are pioneering the future of enterprise AI. Driven by a passion for cutting-edge AI research, particularly in the transformative areas of large language models and agentic systems, our mission is to tackle the most complex real-world problems for businesses and unlock significant value. We are a dynamic and collaborative team of researchers and engineers who thrive on pushing the boundaries of what's possible, dedicated to delivering high-quality, reliable products that seamlessly integrate into the fabric of enterprise workflows and set new industry standards.\n \nAbout the Role: Build and operate the core platform behind Boson's model APIs and agentic products. You'll own the infrastructure that every Boson agent runs on — API serving, state management, data pipelines, context retrieval, and execution runtime — and make it fast, reliable, and easy for product teams to build on.\n",
+  "description": "<div><strong style=\"font-size: 11pt;\">About Boson AI:</strong><span style=\"font-size: 11pt;\"> At Boson AI, we are not just building AI solutions; we are pioneering the future of enterprise AI. Driven by a passion for cutting-edge AI research, particularly in the transformative areas of large language models and agentic systems, our mission is to tackle the most complex real-world problems for businesses and unlock significant value. We are a dynamic and collaborative team of researchers and engineers who thrive on pushing the boundaries of what's possible, dedicated to delivering high-quality, reliable products that seamlessly integrate into the fabric of enterprise workflows and set new industry standards.</span></div>\n<div>&nbsp;</div>\n<div><span style=\"font-size: 11pt;\"><strong style=\"font-size: 11pt;\">About the Role:</strong> Build and operate the core platform behind Boson's model APIs and agentic products. You'll own the infrastructure that every Boson agent runs on — API serving, state management, data pipelines, context retrieval, and execution runtime — and make it fast, reliable, and easy for product teams to build on.</span></div>",
+  "id": "fef8e0fe-2795-40af-91fd-c545c15c1426",
+  "lists": [
+    {
+      "text": "Responsibilities",
+      "content": "<div>\n\n<li>Own and evolve the core platform infrastructure: API serving layer, state management, policy enforcement engine, and execution runtime for agentic workflows.</li>\n<li>Design and operate high-throughput, low-latency distributed services that back our model API products — including request routing, load management, rate limiting, and multi-tenant isolation.</li>\n<li>Build and maintain downstream data pipelines (ETL/ELT) for API logs, usage analytics, and billing — ensuring data correctness, freshness, and queryability at scale.</li>\n<li>Develop production-grade internal SDKs and libraries with clean APIs, strong type safety, and clear contracts that product teams can build on confidently.</li>\n<li>Architect context and memory systems for conversational workloads — low-latency retrieval, caching, and integration with vector stores and retrieval pipelines.</li>\n<li>Instrument end-to-end observability: define SLIs/SLOs, build structured logging and tracing, and drive reliability improvements across the platform.</li>\n<li>Collaborate closely with ML and product teams to integrate model serving, voice runtime, and tooling infrastructure under tight latency and quality constraints.</li>\n\n</div>"
+    },
+    {
+      "text": "Qualifications",
+      "content": "<div>\n\n<li>3+ years building and operating backend systems at scale — you've owned services that other teams depend on in production.</li>\n<li>Strong distributed systems fundamentals: concurrency, fault tolerance, consistency tradeoffs, capacity planning.</li>\n<li>Hands-on experience with data pipeline infrastructure (Kafka/Kinesis, Spark/Flink, Airflow, or similar) for log processing, analytics, or ETL workloads.</li>\n<li>Track record of designing APIs and frameworks adopted by other engineering teams — you care about developer experience and long-term maintainability.</li>\n<li>Proficiency in at least one systems language (Go, Rust, Java, C++) or Python in a performance-sensitive context.</li>\n<li>Comfortable working across the stack: cloud infrastructure (AWS/GCP), containerized deployments (K8s), CI/CD, and production oncall.</li>\n\n</div>"
+    },
+    {
+      "text": "Bonus point",
+      "content": "<div>\n\n<li>Experience with LLM serving, agentic orchestration patterns (ReAct, planner-executor), or RAG pipelines.</li>\n<li>Familiarity with emerging agent integration protocols (MCP, A2A) or orchestration frameworks (LangChain, LlamaIndex).</li>\n<li>Background in real-time media systems (audio/video streaming, low-latency signaling).</li>\n<li>Experience building high-stakes platform services (payments, identity, core data) where correctness and auditability are non-negotiable.</li>\n\n</div>"
+    }
+  ],
+  "salaryRange": {
+    "min": 180000,
+    "max": 400000,
+    "currency": "USD",
+    "interval": "per-year-salary"
+  },
+  "text": "Senior Software Engineer - Systems",
+  "country": "US",
+  "workplaceType": "onsite",
+  "opening": "",
+  "openingPlain": "",
+  "descriptionBody": "<div><strong style=\"font-size: 11pt;\">About Boson AI:</strong><span style=\"font-size: 11pt;\"> At Boson AI, we are not just building AI solutions; we are pioneering the future of enterprise AI. Driven by a passion for cutting-edge AI research, particularly in the transformative areas of large language models and agentic systems, our mission is to tackle the most complex real-world problems for businesses and unlock significant value. We are a dynamic and collaborative team of researchers and engineers who thrive on pushing the boundaries of what's possible, dedicated to delivering high-quality, reliable products that seamlessly integrate into the fabric of enterprise workflows and set new industry standards.</span></div>\n<div>&nbsp;</div>\n<div><span style=\"font-size: 11pt;\"><strong style=\"font-size: 11pt;\">About the Role:</strong> Build and operate the core platform behind Boson's model APIs and agentic products. You'll own the infrastructure that every Boson agent runs on &mdash; API serving, state management, data pipelines, context retrieval, and execution runtime &mdash; and make it fast, reliable, and easy for product teams to build on.</span></div>",
+  "descriptionBodyPlain": "About Boson AI: At Boson AI, we are not just building AI solutions; we are pioneering the future of enterprise AI. Driven by a passion for cutting-edge AI research, particularly in the transformative areas of large language models and agentic systems, our mission is to tackle the most complex real-world problems for businesses and unlock significant value. We are a dynamic and collaborative team of researchers and engineers who thrive on pushing the boundaries of what's possible, dedicated to delivering high-quality, reliable products that seamlessly integrate into the fabric of enterprise workflows and set new industry standards.\n \nAbout the Role: Build and operate the core platform behind Boson's model APIs and agentic products. You'll own the infrastructure that every Boson agent runs on — API serving, state management, data pipelines, context retrieval, and execution runtime — and make it fast, reliable, and easy for product teams to build on.\n",
+  "hostedUrl": "https://jobs.lever.co/bosonai/fef8e0fe-2795-40af-91fd-c545c15c1426",
+  "applyUrl": "https://jobs.lever.co/bosonai/fef8e0fe-2795-40af-91fd-c545c15c1426/apply"
+}

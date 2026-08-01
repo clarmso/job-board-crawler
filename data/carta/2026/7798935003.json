@@ -16,7 +16,7 @@
   },
   "metadata": null,
   "id": 7798935003,
-  "updated_at": "2026-07-10T09:05:18-04:00",
+  "updated_at": "2026-07-31T05:31:08-04:00",
   "requisition_id": "PL348",
   "title": "Paralegal, Funds",
   "company_name": "Carta",
@@ -28,7 +28,14 @@
     {
       "id": 4169323003,
       "name": "Carta Law",
-      "child_ids": [],
+      "child_ids": [
+        4169353003,
+        4169354003,
+        4169355003,
+        4169356003,
+        4169357003,
+        4169358003
+      ],
       "parent_id": null
     }
   ],
