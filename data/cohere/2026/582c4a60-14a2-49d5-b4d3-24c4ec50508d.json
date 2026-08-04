@@ -49,12 +49,42 @@
       }
     },
     {
+      "location": "New Jersey",
+      "address": null
+    },
+    {
+      "location": "Atlanta",
+      "address": {
+        "postalAddress": {}
+      }
+    },
+    {
       "location": "Washington, DC",
       "address": {
         "postalAddress": {
           "addressRegion": "Washington, DC",
           "addressCountry": "United States",
           "addressLocality": "Washington, DC"
+        }
+      }
+    },
+    {
+      "location": "Ottawa",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "Ontario",
+          "addressCountry": "Canada",
+          "addressLocality": "Ottawa"
+        }
+      }
+    },
+    {
+      "location": "Montreal",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "Quebec ",
+          "addressCountry": "Canada",
+          "addressLocality": "Montreal"
         }
       }
     }

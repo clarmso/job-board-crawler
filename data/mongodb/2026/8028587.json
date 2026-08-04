@@ -74,21 +74,13 @@
     {
       "id": 5525802,
       "name": "Baseline Budgeted Salary",
-      "value": {
-        "unit": "USD",
-        "max_value": "330000.0",
-        "min_value": "231000.0"
-      },
+      "value": null,
       "value_type": "currency_range"
     },
     {
       "id": 5525816,
       "name": "Other Large Market Budgeted Salary",
-      "value": {
-        "unit": "USD",
-        "max_value": "281000.0",
-        "min_value": "197000.0"
-      },
+      "value": null,
       "value_type": "currency_range"
     },
     {
@@ -125,7 +117,7 @@
     }
   ],
   "id": 8028587,
-  "updated_at": "2026-07-29T11:36:04-04:00",
+  "updated_at": "2026-08-03T18:35:35-04:00",
   "requisition_id": "2273467505",
   "title": "Senior Staff Product Manager, Query",
   "company_name": "MongoDB",

@@ -1,0 +1,108 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5722668004",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": true,
+      "requires_processing_consent": false,
+      "requires_retention_consent": true,
+      "retention_period": 730,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 5012628004,
+  "location": {
+    "name": "United Kingdom, Bristol"
+  },
+  "metadata": [
+    {
+      "id": 4367803004,
+      "name": "Cost Center",
+      "value": "GAMES4GB62-GBU2100001 SDKQA & Docs GB",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167524004,
+      "name": "Career Page - Office Location",
+      "value": "United Kingdom, Bristol",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167525004,
+      "name": "Career Page - Department",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 9377282004,
+      "name": "Career Page - Sub Department",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 20089613004,
+      "name": "Career Page - Studio Project",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 4395289004,
+      "name": "Worker Type",
+      "value": "Employee",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4404049004,
+      "name": "Country",
+      "value": "United Kingdom",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9262269004,
+      "name": "Job Family",
+      "value": "Software Development Engineering",
+      "value_type": "short_text"
+    },
+    {
+      "id": 9262270004,
+      "name": "Job Family Group",
+      "value": "Engineering",
+      "value_type": "short_text"
+    },
+    {
+      "id": 21724118004,
+      "name": "Bungie Geo Pay",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 5722668004,
+  "updated_at": "2026-08-03T07:05:12-04:00",
+  "requisition_id": "R-122234",
+  "title": "Senior Software Engineer, Quality Engineering",
+  "company_name": "PlayStation Global",
+  "first_published": "2025-12-23T09:46:16-05:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Why Sony Interactive Entertainment?&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Sony Interactive Entertainment isn’t just the Best Place to Play — it’s also the Best Place to Work. Sony Interactive Entertainment (SIE) is the company behind the PlayStation brand. As a subsidiary of Sony Group Corporation, we’re part of a proud legacy of innovation and excellence. SIE is a dynamic technology company, delivering cutting-edge hardware and network services to more than 100 million people and an entertainment leader, home to some of the most beloved and recognizable intellectual properties (IP) in the world. Our role at SIE is to create and nurture the experiences under the PlayStation brand, a name synonymous with entertainment excellence and creativity.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;The role&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;We’re looking for a Senior Software Engineer to help strengthen the Quality Engineering foundation across our SDK teams.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;This role focuses on building confidence in the quality, reliability, and delivery of SDK solutions across multiple platforms. You’ll work on automation, CI/CD, tooling, test strategy, diagnostics, reporting, and engineering practices that help teams build quality into their work from the start.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;You’ll work across several SDK teams to understand quality risks, improve workflows, and turn broad or ambiguous problems into practical engineering outcomes. This role needs someone with a strong testing mindset, good technical judgement, and the ability to improve both the systems we use and the way teams think about quality.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;We’re looking for someone who can operate beyond traditional test automation. The right person will understand how to identify risk, ask good questions, design useful test approaches, improve developer feedback loops, and build tools or processes that make quality easier to achieve.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;You don’t need to have worked with every tool or domain listed below. You should have strong engineering fundamentals, be comfortable learning unfamiliar technical areas, and be able to apply that learning to real quality engineering problems.&lt;/span&gt;&lt;/p&gt;\n&lt;h2&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;What you’ll be doing&lt;/span&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Building and improving CI/CD pipelines that support SDK build, test, validation, and release workflows.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Developing Python-based automation and tooling for test orchestration, system validation, diagnostics, reporting, and quality visibility.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Creating, maintaining, and improving automated tests across unit, integration, system, and end-to-end levels.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Applying a testing mindset to engineering problems, including identifying risks, questioning assumptions, improving observability, and designing solutions that are easier to validate and maintain.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Helping teams bake quality into solutions early by influencing design, implementation, testability, diagnostics, and release confidence.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Investigating issues across build, test, deployment, and execution environments, then improving the workflows that allow teams to detect, diagnose, and prevent similar issues.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Supporting Linux and Windows development environments, including cross-platform scripting, automation, debugging, and build/test workflows.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Using test frameworks, quality metrics, reporting, and engineering data to improve quality visibility and support practical test strategy.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Working with SDK teams to clarify quality risks, align on shared initiatives, and turn broad goals into actionable engineering work.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Identifying bottlenecks, fragile processes, gaps in automation, weak feedback loops, or weaknesses in test coverage, then driving pragmatic improvements with the teams involved.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Using AI-assisted and agentic engineering technologies responsibly to improve coding, debugging, test generation, refactoring, documentation, triage, and team efficiency.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Building domain knowledge across SDK areas through planned rotations or focused assignments, contributing useful improvements in new technical contexts.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Balancing immediate delivery needs with longer-term improvements to SDK quality engineering practices, CI/CD reliability, developer feedback, and test effectiveness.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Coordinating with teams across London, Bristol, and Dublin, including occasional planned travel where useful.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Mentoring peers, sharing good engineering practices, and helping influence quality engineering approaches across teams.&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;What we’re looking for&lt;/span&gt;&lt;/h2&gt;\n&lt;ul data-editing-info=&quot;{&amp;quot;applyListStyleFromLevel&amp;quot;:true,&amp;quot;unorderedStyleType&amp;quot;:1}&quot;&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Strong practical Python skills for engineering automation, tooling, diagnostics, test orchestration, or quality-focused workflows.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Experience building, maintaining, or improving CI/CD, build, test, release, or deployment automation, using tools such as Jenkins/Groovy or equivalent systems.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Experience developing, maintaining, or improving automated tests, test frameworks, test infrastructure, or quality-focused tooling.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;A strong testing mindset, including the ability to identify risk, understand failure modes, question assumptions, and design practical approaches to build confidence in complex systems.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Experience applying quality engineering practices beyond test execution, such as improving testability, observability, diagnostics, developer feedback, reporting, and release confidence.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Ability to diagnose and resolve issues across complex build, test, CI, deployment, or execution environments.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Comfortable working across Linux and Windows development environments.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Familiarity with test frameworks such as pytest, GTest, or similar, and an understanding of quality metrics, test reporting, or practical test strategy.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Experience using AI-assisted coding tools, LLMs, or agentic technologies to improve engineering productivity, with an understanding of how to review, validate, and apply generated output safely.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Ability to work with ambiguity: asking good questions, identifying risks, breaking broad problems into practical steps, and making sound engineering decisions when every detail isn’t defined upfront.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Pragmatic engineering judgement, including knowing when to build a robust long-term solution and when to deliver a focused improvement that unblocks progress.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Clear communication and collaborative problem-solving, especially when working across distributed teams, resolving unclear ownership, and advocating for quality engineering concerns.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;A willingness to take responsibility for quality engineering improvements, including proposing practical options, implementing changes, and following up with the teams involved.&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Useful additional experience&lt;/span&gt;&lt;/h2&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Experience or awareness in 1 or more of the following areas would be useful, but we don’t expect expertise in all of them:&lt;/span&gt;&lt;/p&gt;\n&lt;ul data-editing-info=&quot;{&amp;quot;applyListStyleFromLevel&amp;quot;:true,&amp;quot;unorderedStyleType&amp;quot;:1}&quot;&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Languages such as C, C++, C#, or Rust.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Build systems such as CMake or similar.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;.NET development or testing workflows.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Container, Kubernetes, or VM-based environments.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Desktop application testing.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Graphics APIs or graphics-adjacent testing.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;AI/ML, MLOps, or data-driven quality workflows.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Large-scale test infrastructure, reporting, or quality analytics.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Developer productivity, platform engineering, or internal tooling.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Experience introducing or improving AI-assisted engineering workflows within a team.&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;About your background&lt;/span&gt;&lt;/h2&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;We know strong engineers come from many different career paths. You don’t need to match every item in this advert to be considered.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;The most important experience for this role is practical engineering work that improves quality, confidence, reliability, or delivery. That could come from quality engineering, SDET, test infrastructure, automation, CI/CD, developer tooling, platform engineering, or complex technical debugging.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;We’re looking for someone who can operate at a senior level, work well with others, and help raise the quality engineering bar across SDK teams.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;You should be comfortable thinking beyond individual tests or pipelines. We want someone who can help teams understand risk, build better feedback loops, improve testability, make delivery workflows more reliable, and use technology, including agentic AI, to improve how engineering teams work.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;If that sounds like work you’ve done, or a natural next step from your experience, we encourage you to apply.&lt;/span&gt;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p class=&quot;p1&quot;&gt;Please note, Sony Interactive Entertainment conducts background checks at the offer stage for all new employees (which may include criminal background checks for some roles) and will need to process personal information to support these checks.&lt;/p&gt;\n&lt;p class=&quot;p1&quot;&gt;Please refer to our&amp;nbsp;&lt;a href=&quot;https://www.playstation.com/legal/careers-privacy-notice/&quot; target=&quot;_blank&quot;&gt;Candidate Privacy Notice&lt;/a&gt;&amp;nbsp;for more information about what personal information we collect, how we use it, who we share it with, and your data protection rights.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Equal Opportunity Statement:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Sony is an Equal Opportunity Employer. All persons will receive consideration for employment without regard to gender (including gender identity, gender expression and gender reassignment), race (including colour, nationality, ethnic or national origin), religion or belief, marital or civil partnership status, disability, age, sexual orientation, pregnancy, maternity or parental status, trade union membership or membership in any other legally protected category.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;We strive to create an inclusive environment, empower employees and embrace diversity. We encourage everyone to respond.&amp;nbsp;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Sony Interactive Entertainment is a Fair Chance employer and qualified applicants with arrest and conviction records will be considered for employment.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4072503004,
+      "name": "Admin (FSEE)",
+      "child_ids": [],
+      "parent_id": 4072500004
+    }
+  ],
+  "offices": [
+    {
+      "id": 4011929004,
+      "name": "GBR-Bristol-Hartwell House",
+      "location": "Bristol, England, United Kingdom",
+      "child_ids": [],
+      "parent_id": 4011922004
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

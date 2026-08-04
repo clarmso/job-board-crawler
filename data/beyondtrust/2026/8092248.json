@@ -16,7 +16,7 @@
   },
   "metadata": null,
   "id": 8092248,
-  "updated_at": "2026-07-30T12:08:13-04:00",
+  "updated_at": "2026-08-03T09:46:52-04:00",
   "requisition_id": "4100",
   "title": "Software Development Engineer",
   "company_name": "BeyondTrust",
@@ -33,6 +33,13 @@
     }
   ],
   "offices": [
+    {
+      "id": 60490,
+      "name": "Remote Canada",
+      "location": "Toronto, Ontario, Canada",
+      "child_ids": [],
+      "parent_id": 44144
+    },
     {
       "id": 60813,
       "name": "Remote United States",

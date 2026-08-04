@@ -1,0 +1,47 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/alpaca/jobs/6129946004",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 5193362004,
+  "location": {
+    "name": "North America - Remote"
+  },
+  "metadata": null,
+  "id": 6129946004,
+  "updated_at": "2026-08-03T09:28:27-04:00",
+  "requisition_id": "N260223",
+  "title": "Senior Analytics Engineer  ",
+  "company_name": "Alpaca ",
+  "first_published": "2026-08-03T09:28:27-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Who We Are:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Alpaca is a US-headquartered, global leader in agent-first brokerage infrastructure&amp;nbsp;&lt;/strong&gt;for stocks, ETFs, options, crypto, fixed income, 24/5 trading, and more.&lt;br&gt;&lt;br&gt;Amongst our subsidiaries, Alpaca is a licensed financial services company, serving hundreds of financial institutions across 40 countries with our institutional-grade APIs. This includes broker-dealers, investment advisors, wealth managers, hedge funds, and crypto exchanges, totalling over 10 million brokerage accounts.&lt;br&gt;&lt;br&gt;Our global team is a diverse group of experienced engineers, traders, and brokerage professionals who are working to achieve our mission of opening financial services to everyone on the planet. We&#39;re deeply committed to open-source contributions and fostering a vibrant community, continuously enhancing our award-winning, developer-friendly API and the robust infrastructure behind it.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Alpaca is proudly backed by $400 million in funding from top-tier global investors including Portage Ventures, Spark Capital, Tribe Capital, Social Leverage, Horizons Ventures, Opera Tech Ventures, SBI Group, Derayah Financial, Unbound, Peak XV, Elefund, and Y Combinator.&lt;/strong&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;Our Team Members:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We&#39;re a dynamic team of 400+ globally distributed members who thrive working from our favorite places around the world, with teammates spanning the USA, Canada, Japan, Hungary, Nigeria, Brazil, the UK, and beyond!&lt;br&gt;&lt;br&gt;We&#39;re searching for passionate individuals eager to contribute to Alpaca&#39;s rapid growth. If you align with our core values—Stay Curious, Have Empathy, and Be Accountable—and are ready to make a significant impact, we encourage you to apply.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;About the Role:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We are seeking an Analytics Engineer to own and execute the vision for our data transformation layer. You will be at the heart of our data platform, which processes hundreds of millions of events daily from a wide array of sources, including transactional databases, API logs, CRMs, payment systems, and marketing platforms.&lt;/p&gt;\n&lt;p&gt;You will join our 100% remote team and work closely with Data Engineers (who manage data ingestion) and Data Scientists and Business Users (who consume your data models). Your primary responsibility will be to use dbt and Trino on our GCP-based, open-source data infrastructure to build robust, scalable data models. These models are critical for stakeholders across the company—from finance and operations to the executive team—and are delivered via BI tools, reports, and reverse ETL systems.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What You&#39;ll Do:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Own the Transformation Layer: Design, build, and maintain scalable data models using dbt and SQL to support diverse business needs, from monthly financial reporting to near-real-time operational metrics.&lt;/li&gt;\n&lt;li&gt;Set Technical Standards: Establish and enforce best practices for data modeling, development, testing, and monitoring to ensure data quality, integrity (up to cent-level precision), and discoverability.&lt;/li&gt;\n&lt;li&gt;Enable Stakeholders: Collaborate directly with finance, operations, customer success, and marketing teams to understand their requirements and deliver reliable data products.&lt;/li&gt;\n&lt;li&gt;Integrate and Deliver: Create repeatable patterns for integrating our data models with BI tools and reverse ETL processes, enabling consistent metric reporting across the business.&lt;/li&gt;\n&lt;li&gt;Ensure Quality: Champion high standards for development, including robust change management, source control, code reviews, and data monitoring as our products and data evolve.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;What You Need (Must-Haves):&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;4+ years of experience in analytics engineering or data engineering with a strong focus on the &quot;T&quot; (transformation) in ELT.&lt;/li&gt;\n&lt;li&gt;Proven track record of owning data products end-to-end, applying analytics and data engineering best practices to ensure data quality, scalability, and robust data models.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Comfortable working with ambiguity and collaborating with stakeholders to define requirements; able to take ownership with minimal oversight in a fast-paced environment.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Experience proactively identifying and implementing improvements to data warehouse performance and ETL efficiency.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Technical Versatility:&lt;/li&gt;\n&lt;ul&gt;\n&lt;li&gt;Expert-level SQL and DBT skills for complex queries and data transformations.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Proficiency in Python for transformations that extend beyond SQL.&lt;/li&gt;\n&lt;li&gt;Hands-on experience with query optimization across OLTP and OLAP systems (e.g., Postgres, Iceberg).&lt;/li&gt;\n&lt;li&gt;Proficiency with Semantic Layer modelling (e.g. Cube, dbt Semantic Layer).&lt;/li&gt;\n&lt;li&gt;Experience owning CI/CD workflows and establishing team-wide standards for version control and code review (e.g., Git).&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Familiarity with cloud environments (GCP or AWS).&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Nice to Haves:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience with data ingestion tools (e.g., Airbyte) and orchestration tools (e.g., Airflow).&lt;/li&gt;\n&lt;li&gt;Domain experience for brokerage operations or passion for financial markets and modeling financial datasets.&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h3&gt;&lt;strong&gt;How We Take Care of You:&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-weight: 400; text-align: justify;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Competitive Salary &amp;amp; Stock Options&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;text-align: justify;&quot;&gt;Health Benefits&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400; text-align: justify;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;New Hire Home-Office Setup: One-time USD $500&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400; text-align: justify;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Monthly Stipend: USD $150 per month via a Brex Card&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Alpaca is proud to be an equal opportunity workplace dedicated to pursuing and hiring a diverse workforce.&lt;br&gt;&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;a href=&quot;https://files.alpaca.markets/disclosures/AlpacaRecruitmentPrivacyPolicy.pdf&quot;&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Recruitment Privacy Policy&lt;/span&gt;&lt;/em&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4041730004,
+      "name": "Data Analytics",
+      "child_ids": [],
+      "parent_id": 4148600004
+    }
+  ],
+  "offices": [
+    {
+      "id": 4025501004,
+      "name": "Remote - North America ",
+      "location": "North America",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": "<p>We use Greenhouse’s AI-powered Talent Matching tool to compare your application against our job requirements.</p>",
+  "include_ai_disclaimer": true,
+  "ai_opt_out_request_url": "http://app4.greenhouse.io/ai_opt_out_request/job_post/6129946004/ai_opt_out"
+}

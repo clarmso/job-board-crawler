@@ -18,7 +18,7 @@
     {
       "id": 22194060,
       "name": "Position ID",
-      "value": "T10006512",
+      "value": "10006512",
       "value_type": "short_text"
     },
     {
@@ -74,13 +74,21 @@
     {
       "id": 5525802,
       "name": "Baseline Budgeted Salary",
-      "value": null,
+      "value": {
+        "unit": "EUR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
       "value_type": "currency_range"
     },
     {
       "id": 5525816,
       "name": "Other Large Market Budgeted Salary",
-      "value": null,
+      "value": {
+        "unit": "EUR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
       "value_type": "currency_range"
     },
     {
@@ -117,7 +125,7 @@
     }
   ],
   "id": 7996557,
-  "updated_at": "2026-07-29T11:36:04-04:00",
+  "updated_at": "2026-08-03T19:01:02-04:00",
   "requisition_id": "2273468308",
   "title": "Engagement Manager (Services Sales)",
   "company_name": "MongoDB",
