@@ -1,0 +1,112 @@
+{
+  "id": "744000141585420",
+  "name": "Workplace Services Site Lead",
+  "uuid": "7fa5fa19-3657-427d-93c0-bc11d9da39be",
+  "jobAdId": "0e6ae627-28ff-41c0-98e9-7f65d2ee46d6",
+  "defaultJobAd": true,
+  "refNumber": "JB0074370",
+  "company": {
+    "identifier": "ServiceNow",
+    "name": "ServiceNow"
+  },
+  "releasedDate": "2026-08-04T21:47:01.533Z",
+  "location": {
+    "city": "Kirkland",
+    "region": "Washington",
+    "country": "us",
+    "address": "4400 Carillon Point Floor 4",
+    "postalCode": "98033",
+    "remote": false,
+    "hybrid": false,
+    "fullLocation": "Kirkland, Washington, United States"
+  },
+  "industry": {
+    "id": "it_and_services",
+    "label": "Information Technology And Services"
+  },
+  "department": {
+    "id": "2294072",
+    "label": "Finance & Accounting"
+  },
+  "function": {
+    "id": "finance",
+    "label": "Finance"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "entry_level",
+    "label": "Entry Level"
+  },
+  "customField": [
+    {
+      "fieldId": "60345fa28b4ba8595bef1863",
+      "fieldLabel": "Recruiting Team",
+      "valueId": "professional",
+      "valueLabel": "Professional"
+    },
+    {
+      "fieldId": "60345d5c5165a31b17288279",
+      "fieldLabel": "Region",
+      "valueId": "722a833b93e4437798309f43c0d25990",
+      "valueLabel": "AMS - North America and Canada"
+    },
+    {
+      "fieldId": "6034601b43915a29a4b3389b",
+      "fieldLabel": "Job Location",
+      "valueId": "L_SEA002",
+      "valueLabel": "4400 Carillon Point, Kirkland, Washington, 98033, United States of America(L_SEA002)"
+    },
+    {
+      "fieldId": "60345e1a0b24a127cbdfa148",
+      "fieldLabel": "Employee Type",
+      "valueId": "0082f6cbe6154da19322cbab1f6aa5af",
+      "valueLabel": "Regular"
+    },
+    {
+      "fieldId": "5f63a78f1dae5c5c4e54ba2b",
+      "fieldLabel": "Department",
+      "valueId": "2294072",
+      "valueLabel": "Finance & Accounting"
+    },
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "us",
+      "valueLabel": "United States"
+    },
+    {
+      "fieldId": "5f63a78f1dae5c5c4e54ba2a",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "ServiceNow"
+    },
+    {
+      "fieldId": "603462175165a31b1728827d",
+      "fieldLabel": "Cost Center",
+      "valueId": "CC5500",
+      "valueLabel": "5500 Workplace Services"
+    },
+    {
+      "fieldId": "618ed92b8f5e5f110e5bfb95",
+      "fieldLabel": "Work Persona",
+      "valueId": "e5efb1ea-f0e1-4bc5-94b6-d5072787c528",
+      "valueLabel": "Required in Office"
+    },
+    {
+      "fieldId": "690cc0e8c682c3dbadaa7d73",
+      "fieldLabel": "Job Posting Type",
+      "valueId": "professional",
+      "valueLabel": "Professional"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/ServiceNow/postings/744000141585420",
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

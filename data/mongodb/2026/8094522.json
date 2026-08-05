@@ -1,0 +1,148 @@
+{
+  "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=8094522",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3506590,
+  "location": {
+    "name": "Gurugram"
+  },
+  "metadata": [
+    {
+      "id": 22194060,
+      "name": "Position ID",
+      "value": "10015472",
+      "value_type": "short_text"
+    },
+    {
+      "id": 24918,
+      "name": "Department ID",
+      "value": "D23140-Magenta",
+      "value_type": "single_select"
+    },
+    {
+      "id": 22194061,
+      "name": "Team",
+      "value": "T10512-Magenta",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4914027,
+      "name": "Region",
+      "value": "APAC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4137836,
+      "name": "Working Model Eligibility",
+      "value": [
+        "1-In Office"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 4914029,
+      "name": "Job Level",
+      "value": "Professional - IC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24109,
+      "name": "Employment Type",
+      "value": "Full-time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 1073551,
+      "name": "Job Type",
+      "value": "Standard",
+      "value_type": "single_select"
+    },
+    {
+      "id": 988684,
+      "name": "JD Link",
+      "value": "https://docs.google.com/document/d/14Tf9LfyHA0W-Tf_GQp6aDn6rTlc3secpgmVVKfJfNzo/edit?tab=t.0",
+      "value_type": "url"
+    },
+    {
+      "id": 5525802,
+      "name": "Baseline Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 5525816,
+      "name": "Other Large Market Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 13324394,
+      "name": "Job Post Range (United States)",
+      "value": {
+        "unit": "INR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 40497768,
+      "name": "Job Post Range (Canada)",
+      "value": {
+        "unit": "INR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 57694516,
+      "name": "Job Post Range (Poland)",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 64002488,
+      "name": "Job Post Range (Italy)",
+      "value": null,
+      "value_type": "currency_range"
+    }
+  ],
+  "id": 8094522,
+  "updated_at": "2026-08-04T05:42:30-04:00",
+  "requisition_id": "2273506590",
+  "title": "Staff Forward Deployed Engineer",
+  "company_name": "MongoDB",
+  "first_published": "2026-08-04T05:42:30-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;Staff Forward Deployed Engineers (FDE) sit at the intersection of enterprise customer environments and a fast-moving internal product. They are senior technical leaders who own ambiguous, high-impact problems that span customer engagements, product direction, and engineering execution. They are accountable not only for getting customers to production, but for using what is learned in the field to shape reusable product capabilities, technical strategy, and delivery quality across multiple teams.&lt;/p&gt;\n&lt;p&gt;This role is best suited for engineers who want to combine hands-on technical depth with broad influence: defining or changing strategy when customer reality reveals a gap, guiding technical decisions across teams, and translating field insight into durable product and engineering improvements.&lt;/p&gt;\n&lt;p&gt;We are looking to speak to candidates who are based in Gurugram for our hybrid working model.&lt;/p&gt;\n&lt;h3&gt;Responsibilities&lt;/h3&gt;\n&lt;p&gt;Customer and business impact&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Own the most complex customer engagements and technical workstreams, especially where the problem, solution, or path to production is ambiguous&lt;/li&gt;\n&lt;li&gt;Build deep understanding of customer architecture, business goals, constraints, and definition of success, and use that understanding to shape the technical approach rather than only execute within a predefined one&lt;/li&gt;\n&lt;li&gt;Act as a trusted technical counterpart to customer’s engineering leaders, internal product and engineering leaders, and executive stakeholders when navigating complex tradeoffs, risks, and priorities&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Technical leadership and execution&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Lead architectural design for customer-facing solutions and platform capabilities within the FDE domain, balancing hands-on implementation with technical decision-making across multiple teams&lt;/li&gt;\n&lt;li&gt;Take ambiguous, high-level problems and turn them into clear technical direction, implementation plans, milestones, and ownership boundaries that enable execution at quality and speed&lt;/li&gt;\n&lt;li&gt;Continue to write and review production-quality code, troubleshoot complex failures, and set a high bar for correctness, maintainability, observability, and operational readiness in the systems and integrations this role touches&lt;/li&gt;\n&lt;li&gt;Identify systemic issues in tooling, architecture, or delivery and drive durable fixes that improve outcomes across engagements rather than solving each issue as a one-off&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Product and roadmap influence&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Use field engagements to surface domain-level patterns, product gaps, and technical risks, and translate them into actionable proposals, design direction, and roadmap input&lt;/li&gt;\n&lt;li&gt;Influence short- to mid-term technical vision for the FDE domain, partnering with Product and Engineering leaders to balance customer impact, time-to-market, technical debt, and long-term platform quality&lt;/li&gt;\n&lt;li&gt;Help determine which field-learned patterns should remain engagement-specific and which should become reusable product capabilities, standards, or platform investments&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Cross-functional leadership&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Lead focused cross-functional workstreams with Product and Engineering, especially where field experience is necessary to define requirements, resolve tradeoffs, and deliver the right outcome&lt;/li&gt;\n&lt;li&gt;Drive consensus on large, abstract, or contentious technical issues that affect multiple teams, and resolve deadlocks through strong judgment, clear reasoning, and durable written artifacts&lt;/li&gt;\n&lt;li&gt;Create high-quality technical artifacts such as designs, decision logs, and proposals that align stakeholders and raise the standard for how teams communicate and execute&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Organizational impact&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Act as a force multiplier for the broader organization by mentoring senior engineers, sharing best practices across teams, and helping others make strong technical decisions in this domain&lt;/li&gt;\n&lt;li&gt;Establish or improve mechanisms, standards, and operating practices that help teams make high-quality decisions and deliver resilient solutions independently&lt;/li&gt;\n&lt;li&gt;Model MongoDB’s leadership principles through clarity, accountability, customer obsession, and strong cross-functional partnership in situations of high ambiguity and consequence&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Qualifications&lt;/h3&gt;\n&lt;p&gt;Basic qualifications&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;9+ years of relevant engineering experience, including hands-on work in production systems and complex customer or enterprise environments&lt;/li&gt;\n&lt;li&gt;Demonstrated success leading technical domains or initiatives that span multiple teams, with ownership of technical direction and delivery outcomes&lt;/li&gt;\n&lt;li&gt;Strong experience designing and implementing production-grade integrations, platforms, or distributed systems in ambiguous environments&lt;/li&gt;\n&lt;li&gt;Strong technical judgment, including the ability to balance customer impact, speed, maintainability, and operational risk&lt;/li&gt;\n&lt;li&gt;Ability to shape technical direction based on customer and business context, influence cross-functional stakeholders, and raise the bar for other engineers through mentorship and technical leadership&lt;/li&gt;\n&lt;li&gt;Willingness and ability to travel up to 30% to customer sites as needed for on-site engagements, technical reviews, and executive or customer presentations&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Preferred qualifications&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience with LLMs, agent frameworks, retrieval systems, evaluation frameworks, or deploying AI systems in production enterprise environments&lt;/li&gt;\n&lt;li&gt;Prior experience in a forward-deployed engineering role or a similarly hybrid role spanning customer environments, product influence, and hands-on engineering execution&lt;/li&gt;\n&lt;li&gt;Experience leading multi-team technical initiatives from problem definition through adoption, especially in environments with significant ambiguity or cross-functional dependency&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;About MongoDB&lt;/h3&gt;\n&lt;p&gt;MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure.&lt;/p&gt;\n&lt;p&gt;With offices worldwide and over 67,000 customers, including 75% of the Fortune 100 and AI-native startups, relying on MongoDB for their most important applications, we’re powering the next era of software.&lt;/p&gt;\n&lt;p&gt;Our compass at MongoDB is our &lt;a href=&quot;https://www.mongodb.com/company&quot;&gt;Leadership Commitment,&lt;/a&gt; guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. &lt;a href=&quot;https://www.mongodb.com/company/blog/culture/employee-benefits-that-make-a-difference-at-mongodb&quot;&gt;From employee affinity groups, to fertility assistance and a generous parental leave policy&lt;/a&gt;, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys.&lt;a href=&quot;https://www.mongodb.com/blog/channel/culture&quot;&gt; Learn more about what it’s like to work at MongoDB&lt;/a&gt;, and help us make an impact on the world!&lt;/p&gt;\n&lt;p&gt;MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.&lt;/p&gt;\n&lt;p&gt;MongoDB is an equal opportunities employer.&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Req ID - 2273506590&lt;/em&gt;&lt;/p&gt;",
+  "departments": [
+    {
+      "id": 345527,
+      "name": "Magenta",
+      "child_ids": [],
+      "parent_id": 370707
+    }
+  ],
+  "offices": [
+    {
+      "id": 65909,
+      "name": "Gurugram",
+      "location": "Gurugram, Haryana, India",
+      "child_ids": [],
+      "parent_id": 23659
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": null
+}

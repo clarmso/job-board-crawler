@@ -7,7 +7,7 @@
       "requires_processing_consent": false,
       "requires_retention_consent": false,
       "retention_period": null,
-      "demographic_data_consent_applies": false
+      "demographic_data_consent_applies": true
     }
   ],
   "internal_job_id": 3508633,
@@ -23,7 +23,7 @@
     }
   ],
   "id": 8103253,
-  "updated_at": "2026-08-03T17:50:41-04:00",
+  "updated_at": "2026-08-04T17:50:46-04:00",
   "requisition_id": "50771",
   "title": "Software Engineer (L4)",
   "company_name": "Twilio",

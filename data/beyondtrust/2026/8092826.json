@@ -1,0 +1,54 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/beyondtrust/jobs/8092826",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3505817,
+  "location": {
+    "name": "Remote Canada | Remote United States"
+  },
+  "metadata": null,
+  "id": 8092826,
+  "updated_at": "2026-08-04T21:32:32-04:00",
+  "requisition_id": "4102",
+  "title": "Staff Site Reliability Engineer",
+  "company_name": "BeyondTrust",
+  "first_published": "2026-08-04T21:32:32-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;BeyondTrust is a place where you can bring your purpose to life through the work that you do, creating a safer world through our cybersecurity SaaS portfolio.&lt;/p&gt;\n&lt;p&gt;Our culture of flexibility, trust, and continual learning means you will be recognized for your growth, and for the impact you make on our success. You will be surrounded by people who challenge, support, and inspire you to be the best version of yourself.&lt;/p&gt;\n&lt;p&gt;&lt;u&gt;The Role&lt;/u&gt;&lt;/p&gt;\n&lt;p&gt;We are seeking a Staff Site Reliability Engineer (SRE) to lead the evolution of the Password Safe platform, infrastructure, and deployment ecosystem. In this role, you will bridge the gap between systems engineering and software development, architecting highly availability highly resilient systems across both cloud and on-premises environments.&lt;/p&gt;\n&lt;p&gt;As a Staff level engineer, you will tackle complex technical challenges and serve as a technical leader, mentoring engineers and influencing our broader engineering roadmap. You will own the reliability, scalability, and efficiency of shared services, CI/CD pipelines, and platform engineering initiatives via an AI first operating model.&lt;/p&gt;\n&lt;p&gt;&lt;u&gt;What You’ll Do&lt;/u&gt;&lt;/p&gt;\n&lt;p&gt;Infrastructure &amp;amp; Platform Engineering&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Design, scale, and maintain highly available, secure, and resilient systems spanning both cloud (AWS/Azure) and on premises environments.&lt;/li&gt;\n&lt;li&gt;Champion platform engineering initiatives that reduce cognitive load for software engineers and accelerate velocity.&lt;/li&gt;\n&lt;li&gt;Own and optimize foundational services, including api gateways, service meshes, caches, configuration management, and secrets management.&lt;/li&gt;\n&lt;li&gt;Drive a &quot;Everything as Code&quot; culture, ensuring that all cloud and on-prem infrastructure, CI/CD pipelines, and configurations are declaratively defined, version-controlled, and deployed via automated GitOps workflows.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;CI/CD &amp;amp; Automation&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Standardize, secure, and optimize modern CI/CD pipelines to ensure safe, repeatable, and rapid code deployments.&lt;/li&gt;\n&lt;li&gt;Treat infrastructure as code (Terraform, OpenTofu, or Ansible), driving architectural patterns that eliminate configuration drift.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Reliability, Testing &amp;amp; Observability&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Design and implement automated chaos engineering frameworks and disaster recovery simulations to proactively identify system weaknesses.&lt;/li&gt;\n&lt;li&gt;Architect and mature our telemetry stack (metrics, logs, traces) using tools like Grafana Cloud, Datadog, and OpenTelemetry to ensure deep system visibility.&lt;/li&gt;\n&lt;li&gt;Define, implement, and enforce Service Level Objectives (SLOs) and Service Level Indicators (SLIs) across critical applications.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Leadership&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Partner with engineering leadership to define the long-term SRE strategy.&lt;/li&gt;\n&lt;li&gt;Raise the bar through mentorship and standards. Coach engineers on reliability practices, run design and incident reviews, and build documentation and tooling that makes reliability knowledge accessible.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;u&gt;What You’ll Bring&lt;/u&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Experience&lt;/strong&gt;: 7+ years of experience in SRE, DevOps, or Platform Engineering, with at least 2 years in a Senior or Staff level.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Systems Architecture:&lt;/strong&gt; Proven track record of managing automation and infrastructure across both cloud and on-premises environments.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Containerization:&lt;/strong&gt; Experience with Docker and Kubernetes (including cluster administration, networking, and security primitives).&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Release Orchestration: &lt;/strong&gt;Prior experience with release orchestration strategies such Canary or Blue Green models.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Software Engineering:&lt;/strong&gt; Proficiency in at least one systems language (e.g. Go, Java, or C#) to build automation, tooling, and internal APIs.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Observability&lt;/strong&gt;: Deep understanding of open telemetry and monitoring and observability best practices (e.g. Golden vs Red Signals, and App monitoring).&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Everything as Code&lt;/strong&gt;: Familiarity with GitOps workflows, Infrastructure and Config as Code best practices.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;u&gt;Nice To Have&lt;/u&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Knowledge of UI automation testing.&lt;/li&gt;\n&lt;li&gt;Experience designing and testing microservice based applications.&lt;/li&gt;\n&lt;li&gt;Experience working with virtual machines and managing test environments.&lt;/li&gt;\n&lt;li&gt;Experience working in a continuous integration environment.&lt;/li&gt;\n&lt;li&gt;Deep understanding of Linux and Windows internals.&lt;/li&gt;\n&lt;li&gt;Experience migrating workloads seamlessly across on-prem and cloud environments.&lt;/li&gt;\n&lt;li&gt;Understanding of modern DevSec Ops practices.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;u&gt;Better Together&lt;/u&gt;&lt;/p&gt;\n&lt;p&gt;Diversity. Inclusion. They’re more than just words for us. They are the guiding values of how we build our teams, cultivate leaders, and create a culture where people feel connected.&lt;/p&gt;\n&lt;p&gt;We take care of our employees so they can take care of our customers. Customers who&amp;nbsp;come from all walks of life just like us. We hire incredible people from diverse backgrounds because when we are different together, we are stronger together.&lt;/p&gt;\n&lt;p&gt;&lt;u&gt;About Us&lt;/u&gt;&lt;/p&gt;\n&lt;p&gt;BeyondTrust is the global identity security leader protecting Paths to Privilege™. Our identity-centric approach goes beyond securing privileges and access, empowering organizations with the most effective solution to manage the entire identity attack surface and neutralize threats, whether from external attacks or insiders.&lt;/p&gt;\n&lt;p&gt;BeyondTrust is leading the charge in transforming identity security to prevent breaches and limit the blast radius of attacks, while creating a superior customer experience and operational efficiencies. We are trusted by 20,000 customers, including 75 of the Fortune 100, and our global ecosystem of partners.&lt;/p&gt;\n&lt;p&gt;Learn more at &lt;a href=&quot;http://www.beyondtrust.com/&quot;&gt;www.beyondtrust.com&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;#LI-DF1&lt;/p&gt;",
+  "departments": [
+    {
+      "id": 151526,
+      "name": "Engineering ",
+      "child_ids": [],
+      "parent_id": 81781
+    }
+  ],
+  "offices": [
+    {
+      "id": 60490,
+      "name": "Remote Canada",
+      "location": "Toronto, Ontario, Canada",
+      "child_ids": [],
+      "parent_id": 44144
+    },
+    {
+      "id": 60813,
+      "name": "Remote United States",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 44144
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

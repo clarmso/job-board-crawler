@@ -36,7 +36,7 @@
     {
       "id": 4914027,
       "name": "Region",
-      "value": "EMEA",
+      "value": "North America",
       "value_type": "single_select"
     },
     {
@@ -75,9 +75,9 @@
       "id": 5525802,
       "name": "Baseline Budgeted Salary",
       "value": {
-        "unit": "EUR",
-        "max_value": "0.0",
-        "min_value": "0.0"
+        "unit": "USD",
+        "max_value": "175000.0",
+        "min_value": "122000.0"
       },
       "value_type": "currency_range"
     },
@@ -85,9 +85,9 @@
       "id": 5525816,
       "name": "Other Large Market Budgeted Salary",
       "value": {
-        "unit": "EUR",
-        "max_value": "0.0",
-        "min_value": "0.0"
+        "unit": "USD",
+        "max_value": "149000.0",
+        "min_value": "104000.0"
       },
       "value_type": "currency_range"
     },
@@ -95,9 +95,9 @@
       "id": 13324394,
       "name": "Job Post Range (United States)",
       "value": {
-        "unit": "EUR",
-        "max_value": "0.0",
-        "min_value": "0.0"
+        "unit": "USD",
+        "max_value": "193000.0",
+        "min_value": "98000.0"
       },
       "value_type": "currency_range"
     },
@@ -105,7 +105,7 @@
       "id": 40497768,
       "name": "Job Post Range (Canada)",
       "value": {
-        "unit": "EUR",
+        "unit": "USD",
         "max_value": "0.0",
         "min_value": "0.0"
       },
@@ -125,7 +125,7 @@
     }
   ],
   "id": 8028218,
-  "updated_at": "2026-08-03T18:35:35-04:00",
+  "updated_at": "2026-08-04T14:50:31-04:00",
   "requisition_id": "2273480325",
   "title": "Director, Credit & Accounts Receivable",
   "company_name": "MongoDB",
@@ -143,11 +143,11 @@
   ],
   "offices": [
     {
-      "id": 3962,
-      "name": "Dublin",
-      "location": "Dublin, Ireland",
+      "id": 4036,
+      "name": "Atlanta",
+      "location": "Atlanta, GA, United States",
       "child_ids": [],
-      "parent_id": 23658
+      "parent_id": 23657
     }
   ],
   "ai_disclaimer": null,

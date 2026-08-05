@@ -43,7 +43,7 @@
       "id": 4137836,
       "name": "Working Model Eligibility",
       "value": [
-        "2-Flexible"
+        "1-In Office"
       ],
       "value_type": "multi_select"
     },
@@ -74,13 +74,21 @@
     {
       "id": 5525802,
       "name": "Baseline Budgeted Salary",
-      "value": null,
+      "value": {
+        "unit": "USD",
+        "max_value": "190000.0",
+        "min_value": "133000.0"
+      },
       "value_type": "currency_range"
     },
     {
       "id": 5525816,
       "name": "Other Large Market Budgeted Salary",
-      "value": null,
+      "value": {
+        "unit": "USD",
+        "max_value": "162000.0",
+        "min_value": "113000.0"
+      },
       "value_type": "currency_range"
     },
     {
@@ -117,7 +125,7 @@
     }
   ],
   "id": 8041664,
-  "updated_at": "2026-08-03T18:35:35-04:00",
+  "updated_at": "2026-08-05T14:10:09-04:00",
   "requisition_id": "2273485618",
   "title": "Software Engineer 3, Voyage Control Plane",
   "company_name": "MongoDB",

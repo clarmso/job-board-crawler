@@ -74,13 +74,21 @@
     {
       "id": 5525802,
       "name": "Baseline Budgeted Salary",
-      "value": null,
+      "value": {
+        "unit": "USD",
+        "max_value": "205000.0",
+        "min_value": "143000.0"
+      },
       "value_type": "currency_range"
     },
     {
       "id": 5525816,
       "name": "Other Large Market Budgeted Salary",
-      "value": null,
+      "value": {
+        "unit": "USD",
+        "max_value": "174000.0",
+        "min_value": "122000.0"
+      },
       "value_type": "currency_range"
     },
     {
@@ -117,7 +125,7 @@
     }
   ],
   "id": 8071805,
-  "updated_at": "2026-08-03T18:35:35-04:00",
+  "updated_at": "2026-08-04T20:30:26-04:00",
   "requisition_id": "2273497304",
   "title": "Sr. Strategic Engagement Manager",
   "company_name": "MongoDB",
@@ -135,9 +143,9 @@
   ],
   "offices": [
     {
-      "id": 95842,
-      "name": "Tysons",
-      "location": "Tysons, Virginia, United States",
+      "id": 4040,
+      "name": "Seattle",
+      "location": "Seattle, WA, United States",
       "child_ids": [],
       "parent_id": 23657
     }

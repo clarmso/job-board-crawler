@@ -1,0 +1,109 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/siei/jobs/6123048004",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": true,
+      "requires_processing_consent": false,
+      "requires_retention_consent": true,
+      "retention_period": 730,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "education": "education_optional",
+  "internal_job_id": 5190812004,
+  "location": {
+    "name": "Japan, Tokyo"
+  },
+  "metadata": [
+    {
+      "id": 4367803004,
+      "name": "Cost Center",
+      "value": "JPZ1CA0300 IRD-1-1",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167524004,
+      "name": "Career Page - Office Location",
+      "value": "Japan, Tokyo",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167525004,
+      "name": "Career Page - Department",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 9377282004,
+      "name": "Career Page - Sub Department",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 20089613004,
+      "name": "Career Page - Studio Project",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 4395289004,
+      "name": "Worker Type",
+      "value": "Employee",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4404049004,
+      "name": "Country",
+      "value": "Japan",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9262269004,
+      "name": "Job Family",
+      "value": "Software Development Engineering",
+      "value_type": "short_text"
+    },
+    {
+      "id": 9262270004,
+      "name": "Job Family Group",
+      "value": "Engineering",
+      "value_type": "short_text"
+    },
+    {
+      "id": 21724118004,
+      "name": "Bungie Geo Pay",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 6123048004,
+  "updated_at": "2026-08-03T21:16:20-04:00",
+  "requisition_id": "R-124511",
+  "title": "リードソフトウェアリサーチャー（3Dディスプレイ描画アルゴリズム開発）",
+  "company_name": "Sony Interactive Entertainment Inc.",
+  "first_published": "2026-08-03T21:16:20-04:00",
+  "language": "ja",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Why PlayStation?&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;PlayStation isn’t just the Best Place to Play — it’s also the Best Place to Work. Today, we’re recognized as a global leader in entertainment producing The PlayStation family of products and services including PlayStation®5, PlayStation®4, PlayStation®VR, PlayStation®Plus, acclaimed PlayStation software titles from PlayStation Studios, and more.&lt;/p&gt;\n&lt;p&gt;PlayStation also strives to create an inclusive environment that empowers employees and embraces diversity. We welcome and encourage everyone who has a passion and curiosity for innovation, technology, and play to explore our open positions and join our growing global team.&lt;/p&gt;\n&lt;p&gt;The PlayStation brand falls under Sony Interactive Entertainment, a wholly-owned subsidiary of Sony Group Corporation.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;div&gt;■ 職場紹介　&lt;/div&gt;\n&lt;div&gt;　将来の PlayStation でゲームをプレイするための Display 技術の開発を行っています。過去 IDW や SIGGRAPH Asia などでも開発成果を発表してきました。最先端の研究成果を利用した 3D Display 技術、特に CGH (Computer Generated Holography) の研究を行っています。職場には Graphics、機械学習、アプリ開発を行えるエンジニアからシステム・幾何光学・波動光学・高速な電気回路の設計ができるエンジニアが在籍しており、新しい 3D Display を開発できる、さらなる人材を集めています。&lt;/div&gt;\n&lt;div&gt;この研究開発は SIE の中でも長期的に取り組む重要な研究テーマに位置付けられています。現状お持ちのスキルだけでなく、応募される方の将来の成長性も重視していますので、ぜひ積極的な応募をお願いいたします。&lt;/div&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;■ 職務内容&lt;/div&gt;\n&lt;div&gt;　今回の募集では、特に 3D Graphics やアルゴリズムの開発のできる人材を求めています。 CGH (Computer Generated Holography)の研究を行っていることから、ゲームエンジンへの CGH の組み込みや CGH アルゴリズム自体の開発・リアルタイム化に取り組みます。CGH のアルゴリズム自体が発展途上の分野であることもあり、論文実装を行ったり、協業している大学の先生や企業と議論しながら開発を始めている段階です。&lt;/div&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;■ 求められるスキル・技術領域&lt;/div&gt;\n&lt;div&gt;【必須（MUST）】&lt;/div&gt;\n&lt;div&gt;GPUプログラミング (シェーダー言語やCUDA等) の経験&lt;/div&gt;\n&lt;div&gt;C++ / C / Python でのプログラミング経験&lt;/div&gt;\n&lt;div&gt;機械学習の利用経験&lt;/div&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;【歓迎（WANT）】&lt;/div&gt;\n&lt;div&gt;ゲームエンジン上でのアプリケーションの開発&lt;/div&gt;\n&lt;div&gt;ゲームエンジンのプラグイン開発&lt;/div&gt;\n&lt;div&gt;画像処理 / OpenCV の利用&lt;/div&gt;\n&lt;div&gt;Blender などを利用した 3D modeling&lt;/div&gt;\n&lt;div&gt;CGH描画アルゴリズム (回折光学) の専門知識&lt;/div&gt;\n&lt;div&gt;Graphics Middleware 開発 や OpenXR を利用したアプリ開発&lt;/div&gt;\n&lt;div&gt;Ray Tracing の利用&lt;/div&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;【求める人物像】&lt;/div&gt;\n&lt;div&gt;3D Display 向けのソフトウェア開発をリードできる方&lt;/div&gt;\n&lt;div&gt;未来のゲーム体験を実現することに興味がある方&lt;/div&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;【求められる語学力】&lt;/div&gt;\n&lt;div&gt;　US の組織と一体になって開発を行っていますので、一緒に仕事ができるレベルの英語力が必要です。海外出張だけでなく、海外学会や展示会への参加や海外ベンダーとの共同開発も行っています。&lt;/div&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p class=&quot;p1&quot;&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Equal Opportunity Statement:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Sony is an Equal Opportunity Employer. All persons will receive consideration for employment without regard to gender (including gender identity, gender expression and gender reassignment), race (including colour, nationality, ethnic or national origin), religion or belief, marital or civil partnership status, disability, age, sexual orientation, pregnancy or maternity, trade union membership or membership in any other legally protected category.&lt;/p&gt;\n&lt;p&gt;We strive to create an inclusive environment, empower employees and embrace diversity. We encourage everyone to respond.&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;PlayStation is a Fair Chance employer and qualified applicants with arrest and conviction records will be considered for employment.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4037264004,
+      "name": "Research & Development",
+      "child_ids": [],
+      "parent_id": 4037176004
+    }
+  ],
+  "offices": [
+    {
+      "id": 4040734004,
+      "name": "JPN-Tokyo-Shibaura Crystal Shinagawa Konan",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 4040731004
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}
