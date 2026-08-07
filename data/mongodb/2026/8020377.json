@@ -1,0 +1,148 @@
+{
+  "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=8020377",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3477133,
+  "location": {
+    "name": "Sydney"
+  },
+  "metadata": [
+    {
+      "id": 22194060,
+      "name": "Position ID",
+      "value": "10010310",
+      "value_type": "short_text"
+    },
+    {
+      "id": 24918,
+      "name": "Department ID",
+      "value": "D21000-Durable TXs & Availability",
+      "value_type": "single_select"
+    },
+    {
+      "id": 22194061,
+      "name": "Team",
+      "value": "T10431-Storage Layer Services",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4914027,
+      "name": "Region",
+      "value": "APAC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4137836,
+      "name": "Working Model Eligibility",
+      "value": [
+        "1-In Office"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 4914029,
+      "name": "Job Level",
+      "value": "Professional - IC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24109,
+      "name": "Employment Type",
+      "value": "Full-time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 1073551,
+      "name": "Job Type",
+      "value": "Standard",
+      "value_type": "single_select"
+    },
+    {
+      "id": 988684,
+      "name": "JD Link",
+      "value": "https://docs.google.com/document/d/1aY3wPQuVO4vDVT7JpHg2dAfNIsZ4Z4OgtpjkIT_zH0I/edit?tab=t.0#heading=h.608folefvc7m",
+      "value_type": "url"
+    },
+    {
+      "id": 5525802,
+      "name": "Baseline Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 5525816,
+      "name": "Other Large Market Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 13324394,
+      "name": "Job Post Range (United States)",
+      "value": {
+        "unit": "AUD",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 40497768,
+      "name": "Job Post Range (Canada)",
+      "value": {
+        "unit": "AUD",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 57694516,
+      "name": "Job Post Range (Poland)",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 64002488,
+      "name": "Job Post Range (Italy)",
+      "value": null,
+      "value_type": "currency_range"
+    }
+  ],
+  "id": 8020377,
+  "updated_at": "2026-08-06T19:32:15-04:00",
+  "requisition_id": "2273477133",
+  "title": "Senior Software Engineer",
+  "company_name": "MongoDB",
+  "first_published": "2026-08-06T19:32:15-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;h3&gt;About the Role&lt;/h3&gt;\n&lt;p&gt;The worldwide data management software market is massive – IDC forecasts it to be $137.6 billion by 2026! At MongoDB, we are transforming industries and empowering developers to build amazing apps that people use every day. We are the leading modern data platform and were the first database provider to IPO in over 20 years. Join our team and be at the forefront of innovation and creativity.&lt;/p&gt;\n&lt;p&gt;The Storage Layer Services Team is currently re-architecting the MongoDB Cloud Storage Layer. This is a relatively new team in MongoDB that sits at the heart of the next generation MongoDB Cloud Storage Architecture, and the team is working to build performant multi-tenant distributed storage services both to enhance our existing MongoDB cloud storage architecture and to power more of our customers&#39; use cases more efficiently. We are looking for talented Senior Engineers to join the team and be founding members of the team, where you will play a crucial role in our multi-year roadmap.&lt;/p&gt;\n&lt;p&gt;Our team champions a strong culture of inclusivity, diversity, and collaboration. If you want to work on a collaborative team that applies distributed systems fundamentals to deliver core storage features of a popular database, join us! Let’s change what’s possible for application developers, system architects, and database operators.&lt;/p&gt;\n&lt;p&gt;We are looking to speak to candidates who are based in Sydney for our hybrid working model.&lt;/p&gt;\n&lt;h3&gt;Candidate Profile&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Minimum of 5 years of experience in programming, debugging, and performance tuning of distributed and/or highly concurrent software systems&lt;/li&gt;\n&lt;li&gt;Strong systems fundamentals, including multi-threaded programming and performance profiling&lt;/li&gt;\n&lt;li&gt;Experience with distributed systems&lt;/li&gt;\n&lt;li&gt;Proven experience in building, deploying, and operating multi-tenant cloud services with a focus on operational excellence&lt;/li&gt;\n&lt;li&gt;Familiarity with database internals or experience building core components for data processing systems&lt;/li&gt;\n&lt;li&gt;Hands-on experience in developing performance-sensitive software&lt;/li&gt;\n&lt;li&gt;Experience with large backend/compiled codebases, preferably in Rust or C/C++&lt;/li&gt;\n&lt;li&gt;B.Sc. in Computer Science or a related field, or equivalent practical experience&lt;/li&gt;\n&lt;li&gt;Excellent verbal and written technical communication skills, with a strong desire to collaborate with colleagues&lt;/li&gt;\n&lt;li&gt;Strong time management skills and the ability to realistically assess project complexity&lt;/li&gt;\n&lt;li&gt;Interest in the theory and practice of high-availability systems; hands-on experience or an M.Sc./Ph.D. in the domain is a plus&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Position Expectations&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Develop secure multi-tenant cloud-native storage solutions to ensure performance, automatic failover and zero downtime&lt;/li&gt;\n&lt;li&gt;Implement and operate (oncall) production-ready applications in Rust&lt;/li&gt;\n&lt;li&gt;Diagnose test failures and performance regressions, and implement fixes&lt;/li&gt;\n&lt;li&gt;Lead development and project management for large, cross-team initiatives&lt;/li&gt;\n&lt;li&gt;Identify, design, implement, test, and support new features related to Storage Layer Services, while contributing to the operational excellence of running a cloud service&lt;/li&gt;\n&lt;li&gt;Collaborate with Product Management and Engineering leadership to define product roadmaps&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Success Measures&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;In the first month: Understand the high-level architecture of MongoDB Cloud Storage Architecture and resolve a few bugs&lt;/li&gt;\n&lt;li&gt;In three months: Contribute to the Rust development of a project slated for the initial release of the Storage Layer Services and take on code review responsibilities and participate in reviewing designs for new features&lt;/li&gt;\n&lt;li&gt;In six months: Lead the development of a new feature and help mentor new engineers on the team&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;About MongoDB&lt;/h3&gt;\n&lt;p&gt;MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure.&lt;/p&gt;\n&lt;p&gt;With offices worldwide and over 67,000 customers, including 75% of the Fortune 100 and AI-native startups, relying on MongoDB for their most important applications, we’re powering the next era of software.&lt;/p&gt;\n&lt;p&gt;Our compass at MongoDB is our &lt;a href=&quot;https://www.mongodb.com/company&quot;&gt;Leadership Commitment,&lt;/a&gt; guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. &lt;a href=&quot;https://www.mongodb.com/company/blog/culture/employee-benefits-that-make-a-difference-at-mongodb&quot;&gt;From employee affinity groups, to fertility assistance and a generous parental leave policy&lt;/a&gt;, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys.&lt;a href=&quot;https://www.mongodb.com/blog/channel/culture&quot;&gt; Learn more about what it’s like to work at MongoDB&lt;/a&gt;, and help us make an impact on the world!&lt;/p&gt;\n&lt;p&gt;MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.&lt;/p&gt;\n&lt;p&gt;MongoDB is an equal opportunities employer.&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Requisition ID : 2273477133&lt;/em&gt;&lt;/p&gt;",
+  "departments": [
+    {
+      "id": 85966,
+      "name": "Durable TXs & Availability",
+      "child_ids": [],
+      "parent_id": 371021
+    }
+  ],
+  "offices": [
+    {
+      "id": 3965,
+      "name": "Sydney",
+      "location": "Sydney, New South Wales, Australia",
+      "child_ids": [],
+      "parent_id": 23659
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": null
+}

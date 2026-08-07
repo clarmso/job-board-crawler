@@ -23,7 +23,7 @@
     }
   ],
   "id": 4713950005,
-  "updated_at": "2026-07-30T11:39:27-04:00",
+  "updated_at": "2026-08-07T10:27:47-04:00",
   "requisition_id": "EVG-SrCAE",
   "title": "Senior Customer Account Executive",
   "company_name": "Tailscale",
@@ -44,6 +44,13 @@
       "id": 4053187005,
       "name": "Hybrid (Denver)",
       "location": "Denver, Colorado, United States",
+      "child_ids": [],
+      "parent_id": null
+    },
+    {
+      "id": 4053580005,
+      "name": "Hybrid (Toronto)",
+      "location": "Toronto, Ontario, Canada",
       "child_ids": [],
       "parent_id": null
     }

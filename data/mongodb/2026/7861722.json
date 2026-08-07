@@ -24,7 +24,7 @@
     {
       "id": 24918,
       "name": "Department ID",
-      "value": "D11325-PS Engagement Management",
+      "value": "D42502-Engagement Managers APJ",
       "value_type": "single_select"
     },
     {
@@ -74,21 +74,13 @@
     {
       "id": 5525802,
       "name": "Baseline Budgeted Salary",
-      "value": {
-        "unit": "KRW",
-        "max_value": "0.0",
-        "min_value": "0.0"
-      },
+      "value": null,
       "value_type": "currency_range"
     },
     {
       "id": 5525816,
       "name": "Other Large Market Budgeted Salary",
-      "value": {
-        "unit": "KRW",
-        "max_value": "0.0",
-        "min_value": "0.0"
-      },
+      "value": null,
       "value_type": "currency_range"
     },
     {
@@ -125,7 +117,7 @@
     }
   ],
   "id": 7861722,
-  "updated_at": "2026-08-03T18:35:35-04:00",
+  "updated_at": "2026-08-06T16:13:35-04:00",
   "requisition_id": "1273423541",
   "title": "Engagement Manager",
   "company_name": "MongoDB",

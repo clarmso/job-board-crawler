@@ -1,0 +1,148 @@
+{
+  "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=8111736",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3513808,
+  "location": {
+    "name": "Dublin, Ireland"
+  },
+  "metadata": [
+    {
+      "id": 22194060,
+      "name": "Position ID",
+      "value": "10015490",
+      "value_type": "short_text"
+    },
+    {
+      "id": 24918,
+      "name": "Department ID",
+      "value": "D21415-Core Product Management",
+      "value_type": "single_select"
+    },
+    {
+      "id": 22194061,
+      "name": "Team",
+      "value": "T10439-Observability PM",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4914027,
+      "name": "Region",
+      "value": "EMEA",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4137836,
+      "name": "Working Model Eligibility",
+      "value": [
+        "2-Flexible"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 4914029,
+      "name": "Job Level",
+      "value": "Professional - IC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24109,
+      "name": "Employment Type",
+      "value": "Full-time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 1073551,
+      "name": "Job Type",
+      "value": "Standard",
+      "value_type": "single_select"
+    },
+    {
+      "id": 988684,
+      "name": "JD Link",
+      "value": "https://docs.google.com/document/d/1rZ1FAO56Cw6v1t-anSi3xUCb2tEEh6K89X1Ivx-Cz8U/edit?tab=t.0",
+      "value_type": "url"
+    },
+    {
+      "id": 5525802,
+      "name": "Baseline Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 5525816,
+      "name": "Other Large Market Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 13324394,
+      "name": "Job Post Range (United States)",
+      "value": {
+        "unit": "EUR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 40497768,
+      "name": "Job Post Range (Canada)",
+      "value": {
+        "unit": "EUR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 57694516,
+      "name": "Job Post Range (Poland)",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 64002488,
+      "name": "Job Post Range (Italy)",
+      "value": null,
+      "value_type": "currency_range"
+    }
+  ],
+  "id": 8111736,
+  "updated_at": "2026-08-07T12:52:53-04:00",
+  "requisition_id": "3273513808",
+  "title": "Staff Product Manager",
+  "company_name": "MongoDB",
+  "first_published": "2026-08-07T12:41:52-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;The observability market is shifting from surfacing data to delivering answers. MongoDB is looking for a Staff Product Manager to lead that shift for database users, owning the strategy that takes customers from raw telemetry to AI-powered diagnostics and autonomous remediation, so developers can focus on building great applications instead of managing infrastructure.&lt;/p&gt;\n&lt;p&gt;You will define how MongoDB turns raw telemetry into actionable intelligence, set the vision for AI-powered root cause analysis and proactive recommendations, and shape what best-in-class database observability looks like at global scale.&lt;/p&gt;\n&lt;p&gt;The ideal candidate has experience shipping products that deal with data at scale, can engage deeply with senior engineering on technical architecture, and knows how to balance long-term platform investment against near-term customer value.&lt;/p&gt;\n&lt;p&gt;We are looking to speak to candidates who are based in Dublin for our hybrid working model.&lt;/p&gt;\n&lt;h3&gt;What you&#39;ll do&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Define the vision, strategy, and multi-year roadmap for MongoDB observability, balancing the needs of developers, ops teams, enterprise customers, and internal engineering teams&lt;/li&gt;\n&lt;li&gt;Help shape the next generation of AI-powered and agentic observability, including intelligent anomaly detection, automated root cause analysis, and proactive recommendations that help customers resolve issues before they escalate&lt;/li&gt;\n&lt;li&gt;Own product strategy for experiences that span database health, performance diagnostics, alerting, log analysis, and data visualization, creating a coherent observability journey rather than a collection of disconnected tools&lt;/li&gt;\n&lt;li&gt;Identify high-impact opportunities across the observability stack, from how customers monitor and understand their deployments to how MongoDB can reduce the operational burden of managing a database fleet at scale&lt;/li&gt;\n&lt;li&gt;Lead customer discovery with developers, DBAs, and enterprise teams; turn qualitative and quantitative insights into clear product decisions that reduce time spent managing the database and increase time spent building applications&lt;/li&gt;\n&lt;li&gt;Partner deeply with engineering and design to frame problems, define requirements, make tradeoffs, and deliver high-quality products from discovery through launch and iteration&lt;/li&gt;\n&lt;li&gt;Establish clear success metrics for observability, using product analytics, customer feedback, research, and market signals to evaluate progress and adjust priorities&lt;/li&gt;\n&lt;li&gt;Communicate product direction and decisions clearly to senior leaders and cross-functional stakeholders, including the rationale behind what we will and will not build&lt;/li&gt;\n&lt;li&gt;Raise the bar for product management by mentoring other PMs, improving product practices, and modeling strong judgment, customer empathy, and execution&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;What you&#39;ll bring&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;10+ years of product management experience; including experience leading complex technical products in the data management or analytics space&lt;/li&gt;\n&lt;li&gt;A track record of defining strategy and delivering products used by technical audiences, ideally across database, data infrastructure, or observability&lt;/li&gt;\n&lt;li&gt;Experience translating ambiguous customer and business problems into focused strategies, product narratives, roadmaps, and prioritized execution plans&lt;/li&gt;\n&lt;li&gt;Demonstrated ability to lead through influence across multiple engineering and product teams without relying on formal authority&lt;/li&gt;\n&lt;li&gt;Excellent customer instincts and the ability to move comfortably between user research, product details, business strategy, and executive communication&lt;/li&gt;\n&lt;li&gt;Experience launching products that require behavior change, ecosystem coordination, or adoption across both self-serve and enterprise customers&lt;/li&gt;\n&lt;li&gt;Comfort working with AI-enabled product experiences and evaluating where automation, guidance, and human control create the most value&lt;/li&gt;\n&lt;li&gt;Exceptional written and verbal communication skills, with the ability to make complex technical concepts clear and compelling&lt;/li&gt;\n&lt;li&gt;A bias toward action, disciplined prioritization, and the judgment to make decisions with incomplete information&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Nice to have&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Familiarity with observability tools and platforms such as CloudWatch, Datadog, Grafana, Splunk, OpenTelemetry&lt;/li&gt;\n&lt;li&gt;Experience building or scaling telemetry infrastructure, data pipelines, or platform products used by other engineering teams&lt;/li&gt;\n&lt;li&gt;Familiarity with MongoDB, Atlas, or comparable database products and the operational challenges customers face managing them at scale&lt;/li&gt;\n&lt;li&gt;Experience leading product strategy for AI-assisted workflows, anomaly detection, or intelligent diagnostics&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;How success will be measured&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Customers move from reactive troubleshooting to proactive optimization, with Atlas surfacing insights and recommendations before issues escalate&lt;/li&gt;\n&lt;li&gt;AI-powered diagnostic experiences deliver meaningful reductions in time-to-resolution while remaining transparent and easy to act on&lt;/li&gt;\n&lt;li&gt;Adoption, engagement, and customer satisfaction improve across observability workflows including alerting, performance diagnostics, and proactive database optimization&lt;/li&gt;\n&lt;li&gt;The observability roadmap is clear, well-sequenced, and trusted by engineering, design, and go-to-market partners&lt;/li&gt;\n&lt;li&gt;Enterprise customers successfully adopt new observability capabilities while the platform remains accessible to developers who are not database or infrastructure experts&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;About MongoDB&lt;/h3&gt;\n&lt;p&gt;MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure.&lt;/p&gt;\n&lt;p&gt;With offices worldwide and over 67,000 customers, including 75% of the Fortune 100 and AI-native startups, relying on MongoDB for their most important applications, we’re powering the next era of software.&lt;/p&gt;\n&lt;p&gt;Our compass at MongoDB is our &lt;a href=&quot;https://www.mongodb.com/company&quot;&gt;Leadership Commitment,&lt;/a&gt; guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. &lt;a href=&quot;https://www.mongodb.com/company/blog/culture/employee-benefits-that-make-a-difference-at-mongodb&quot;&gt;From employee affinity groups, to fertility assistance and a generous parental leave policy&lt;/a&gt;, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys.&lt;a href=&quot;https://www.mongodb.com/blog/channel/culture&quot;&gt; Learn more about what it’s like to work at MongoDB&lt;/a&gt;, and help us make an impact on the world!&lt;/p&gt;\n&lt;p&gt;MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.&lt;/p&gt;\n&lt;p&gt;MongoDB is an equal opportunities employer.&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Req ID: 3273513808&lt;/em&gt;&lt;/p&gt;",
+  "departments": [
+    {
+      "id": 73383,
+      "name": "Product Management",
+      "child_ids": [],
+      "parent_id": 370706
+    }
+  ],
+  "offices": [
+    {
+      "id": 3962,
+      "name": "Dublin",
+      "location": "Dublin, Ireland",
+      "child_ids": [],
+      "parent_id": 23658
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": null
+}

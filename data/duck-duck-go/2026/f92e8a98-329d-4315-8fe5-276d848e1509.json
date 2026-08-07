@@ -8,10 +8,26 @@
   "shouldDisplayCompensationOnJobPostings": true,
   "secondaryLocations": [
     {
+      "location": "Slovakia (Remote)",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "Slovakia"
+        }
+      }
+    },
+    {
       "location": "Spain (Remote)",
       "address": {
         "postalAddress": {
           "addressCountry": "Spain"
+        }
+      }
+    },
+    {
+      "location": "Czechia (Remote)",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "Czechia"
         }
       }
     },
@@ -44,6 +60,22 @@
       "address": {
         "postalAddress": {
           "addressCountry": "United States"
+        }
+      }
+    },
+    {
+      "location": "Iceland (Remote)",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "Iceland"
+        }
+      }
+    },
+    {
+      "location": "Hungary (Remote)",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "Hungary"
         }
       }
     },

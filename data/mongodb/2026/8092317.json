@@ -1,0 +1,148 @@
+{
+  "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=8092317",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3505626,
+  "location": {
+    "name": "Sydney"
+  },
+  "metadata": [
+    {
+      "id": 22194060,
+      "name": "Position ID",
+      "value": "10007385",
+      "value_type": "short_text"
+    },
+    {
+      "id": 24918,
+      "name": "Department ID",
+      "value": "D23015-Atlas Search",
+      "value_type": "single_select"
+    },
+    {
+      "id": 22194061,
+      "name": "Team",
+      "value": "T10457-Search Inference",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4914027,
+      "name": "Region",
+      "value": "APAC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4137836,
+      "name": "Working Model Eligibility",
+      "value": [
+        "1-In Office"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 4914029,
+      "name": "Job Level",
+      "value": "Professional - IC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24109,
+      "name": "Employment Type",
+      "value": "Full-time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 1073551,
+      "name": "Job Type",
+      "value": "Standard",
+      "value_type": "single_select"
+    },
+    {
+      "id": 988684,
+      "name": "JD Link",
+      "value": "https://docs.google.com/document/d/1LOGfUxZlPh4hUhL1jBPRDqLVqZGVbFaly91ZGYxx4uQ/edit?tab=t.0",
+      "value_type": "url"
+    },
+    {
+      "id": 5525802,
+      "name": "Baseline Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 5525816,
+      "name": "Other Large Market Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 13324394,
+      "name": "Job Post Range (United States)",
+      "value": {
+        "unit": "AUD",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 40497768,
+      "name": "Job Post Range (Canada)",
+      "value": {
+        "unit": "AUD",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 57694516,
+      "name": "Job Post Range (Poland)",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 64002488,
+      "name": "Job Post Range (Italy)",
+      "value": null,
+      "value_type": "currency_range"
+    }
+  ],
+  "id": 8092317,
+  "updated_at": "2026-08-06T11:17:09-04:00",
+  "requisition_id": "2273505626",
+  "title": "Software Engineer 3",
+  "company_name": "MongoDB",
+  "first_published": "2026-08-06T01:58:06-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;We’re looking for a Software Engineer 3 to help bring Voyage’s embedding models - used for semantic search, retrieval, and AI-native experiences; to the platforms and environments where customers already run their workloads, beyond first-party MongoDB Atlas.&lt;/p&gt;\n&lt;p&gt;You’ll join the broader Search and AI Platform organization and collaborate closely with the engineers building Voyage’s first-party inference. Together, we’re extending that platform across cloud marketplaces, third-party inference providers, and self-managed deployments so customers get the same Voyage models, behaving consistently, wherever they choose to run them.&lt;/p&gt;\n&lt;p&gt;As a Software Engineer 3, you&#39;ll focus on building the systems, tooling, and deployment workflows that power third-party model delivery. You&#39;ll own key components of how Voyage models are packaged, validated, and deployed, work across teams to ensure tight integration with the core inference platform, and contribute to delivery surfaces designed for reliability, observability, and ease of use.&lt;/p&gt;\n&lt;p&gt;We are looking to speak to candidates who are based in Sydney for our hybrid working model.&lt;/p&gt;\n&lt;h3&gt;What you&#39;ll do&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Port and tune the model server that runs Voyage embedding and reranking models: improving inference performance, consistency, and runtime behavior across environments&lt;/li&gt;\n&lt;li&gt;Productionize new Voyage models for delivery beyond first-party Atlas, owning the packaging, configuration, and deployment workflows that get them running on AWS, Azure, GCP and more&lt;/li&gt;\n&lt;li&gt;Design correctness, correlation, and performance validation that proves third-party deployments match first-party behavior&lt;/li&gt;\n&lt;li&gt;Build operability into every surface: structured logging, metrics, diagnostics, and health checks with tools like Prometheus and OpenTelemetry&lt;/li&gt;\n&lt;li&gt;Debug problems that span model servers, containers, deployment configuration, and partner cloud environments&lt;/li&gt;\n&lt;li&gt;Work alongside Voyage&#39;s model-serving teams, and partner with GTM, SAs, TSEs, and strategic customers on the hardest external deployments&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Who you are&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;4+ years building backend, infrastructure systems, CI and build tooling&lt;/li&gt;\n&lt;li&gt;Strong software engineering skills in languages such as Python or Go, with an emphasis on performance and reliability&lt;/li&gt;\n&lt;li&gt;Experience with cloud environments (AWS, Azure, or GCP), containers, and Kubernetes&lt;/li&gt;\n&lt;li&gt;Comfortable debugging across the stack - code, runtime, model servers, configuration, and external dependencies&lt;/li&gt;\n&lt;li&gt;Familiar with concepts in ML model serving and inference runtimes, even if not directly deploying models&lt;/li&gt;\n&lt;li&gt;You communicate clearly and do well in ambitious, cross-team work&lt;/li&gt;\n&lt;li&gt;Motivated to get Voyage&#39;s AI models running reliably wherever customers want them&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Nice to have&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience productionizing or deploying ML model servers or inference runtimes (e.g., vLLM, Triton, TGI)&lt;/li&gt;\n&lt;li&gt;Experience with observability stacks like Prometheus, Grafana, or OpenTelemetry&lt;/li&gt;\n&lt;li&gt;Experience shipping software through cloud marketplaces or partner / self-managed channels&lt;/li&gt;\n&lt;li&gt;Contributions to open-source infrastructure for ML serving or deployment&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Why join us&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Own how Voyage&#39;s AI models reach customers everywhere outside first-party Atlas — a fast-growing, high-visibility part of the platform&lt;/li&gt;\n&lt;li&gt;Work on genuinely varied engineering: model servers inference, CI deployments, observability, and large-scale cloud integration&lt;/li&gt;\n&lt;li&gt;Collaborate with the ML and platform teams behind Voyage to bring new models to market&lt;/li&gt;\n&lt;li&gt;Join a team that values ownership, pragmatism, technical judgment, and clarity in ambiguous spaces&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;About MongoDB&lt;/h3&gt;\n&lt;p&gt;MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure.&lt;/p&gt;\n&lt;p&gt;With offices worldwide and over 67,000 customers, including 75% of the Fortune 100 and AI-native startups, relying on MongoDB for their most important applications, we’re powering the next era of software.&lt;/p&gt;\n&lt;p&gt;Our compass at MongoDB is our &lt;a href=&quot;https://www.mongodb.com/company&quot;&gt;Leadership Commitment,&lt;/a&gt; guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. &lt;a href=&quot;https://www.mongodb.com/company/blog/culture/employee-benefits-that-make-a-difference-at-mongodb&quot;&gt;From employee affinity groups, to fertility assistance and a generous parental leave policy&lt;/a&gt;, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys.&lt;a href=&quot;https://www.mongodb.com/blog/channel/culture&quot;&gt; Learn more about what it’s like to work at MongoDB&lt;/a&gt;, and help us make an impact on the world!&lt;/p&gt;\n&lt;p&gt;MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.&lt;/p&gt;\n&lt;p&gt;MongoDB is an equal opportunities employer.&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Req ID - 2273505626&lt;/em&gt;&lt;/p&gt;",
+  "departments": [
+    {
+      "id": 65526,
+      "name": "Atlas Search",
+      "child_ids": [],
+      "parent_id": 371021
+    }
+  ],
+  "offices": [
+    {
+      "id": 3965,
+      "name": "Sydney",
+      "location": "Sydney, New South Wales, Australia",
+      "child_ids": [],
+      "parent_id": 23659
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": null
+}

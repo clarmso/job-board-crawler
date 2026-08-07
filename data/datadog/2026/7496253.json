@@ -65,7 +65,7 @@
     }
   ],
   "id": 7496253,
-  "updated_at": "2026-07-28T05:41:06-04:00",
+  "updated_at": "2026-08-06T11:13:05-04:00",
   "requisition_id": "R17199",
   "title": "Technical Support Engineer 2, Premier - EMEA",
   "company_name": "Datadog",
@@ -82,6 +82,13 @@
     }
   ],
   "offices": [
+    {
+      "id": 63481,
+      "name": "Amsterdam",
+      "location": "Amsterdam, Noord-Holland, Netherlands",
+      "child_ids": [],
+      "parent_id": 78096
+    },
     {
       "id": 25185,
       "name": "Dublin",

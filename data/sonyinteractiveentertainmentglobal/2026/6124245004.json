@@ -1,0 +1,108 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6124245004",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": true,
+      "requires_processing_consent": false,
+      "requires_retention_consent": true,
+      "retention_period": 730,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 5191628004,
+  "location": {
+    "name": "United States, Madison, WI"
+  },
+  "metadata": [
+    {
+      "id": 4367803004,
+      "name": "Cost Center",
+      "value": "GAMES4US70-USL1950098 IT DevOps/SNEO/PPM",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167524004,
+      "name": "Career Page - Office Location",
+      "value": "United States, Madison, WI",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167525004,
+      "name": "Career Page - Department",
+      "value": "Information Technology",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9377282004,
+      "name": "Career Page - Sub Department",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 20089613004,
+      "name": "Career Page - Studio Project",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 4395289004,
+      "name": "Worker Type",
+      "value": "Employee",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4404049004,
+      "name": "Country",
+      "value": "United States of America",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9262269004,
+      "name": "Job Family",
+      "value": "Software Development Engineering",
+      "value_type": "short_text"
+    },
+    {
+      "id": 9262270004,
+      "name": "Job Family Group",
+      "value": "Engineering",
+      "value_type": "short_text"
+    },
+    {
+      "id": 21724118004,
+      "name": "Bungie Geo Pay",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 6124245004,
+  "updated_at": "2026-08-06T19:37:19-04:00",
+  "requisition_id": "R-124829",
+  "title": "Sr Cloud Infrastructure & Platform Engineer",
+  "company_name": "PlayStation Global",
+  "first_published": "2026-08-06T19:22:28-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Why Sony Interactive Entertainment?&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Sony Interactive Entertainment isn’t just the Best Place to Play — it’s also the Best Place to Work. Sony Interactive Entertainment (SIE) is the company behind the PlayStation brand. As a subsidiary of Sony Group Corporation, we’re part of a proud legacy of innovation and excellence. SIE is a dynamic technology company, delivering cutting-edge hardware and network services to more than 100 million people and an entertainment leader, home to some of the most beloved and recognizable intellectual properties (IP) in the world. Our role at SIE is to create and nurture the experiences under the PlayStation brand, a name synonymous with entertainment excellence and creativity.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;Build the Cloud Foundation Behind Sony Interactive Entertainment&lt;/h2&gt;\n&lt;p&gt;Every day, engineering teams across Sony Interactive Entertainment rely on the platforms we build to deliver secure, resilient, and scalable services. IT Cloud Foundations engineers the cloud capabilities that power enterprise business systems, developer platforms, and data services across the company.&lt;/p&gt;\n&lt;p&gt;Our customers are both engineers and the businesses they support. Every improvement we make to automation, reliability, security, and cloud infrastructure directly accelerates engineering teams while improving the reliability of critical business services.&lt;/p&gt;\n&lt;p&gt;The solutions we build become reusable capabilities that scale across the enterprise—not just for a single application or project.&lt;/p&gt;\n&lt;p&gt;Our mission isn&#39;t simply to manage cloud infrastructure—it&#39;s to engineer the secure, scalable cloud platform that enables Sony Interactive Entertainment to operate, innovate, and grow.&lt;/p&gt;\n&lt;h2&gt;Lead Meaningful Engineering&lt;/h2&gt;\n&lt;p&gt;As a Senior Cloud Infrastructure &amp;amp; Platform Engineer, you&#39;ll lead some of our most important cloud initiatives from design through production.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;You&#39;ll combine deep technical expertise with sound engineering judgment to design and deliver secure, resilient, and scalable cloud capabilities supporting business-critical services across Sony Interactive Entertainment.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;This is a hands-on engineering role where you&#39;ll partner with Networking, Security, Identity, Database, Platform, Data, and Application Engineering teams to solve complex infrastructure challenges, mentor fellow engineers, and continuously improve how cloud services are delivered.&lt;/p&gt;\n&lt;p&gt;Whether you&#39;re designing reusable Terraform modules, expanding Kubernetes platforms, improving observability, or automating operational processes, your work will help shape the shared engineering platform that teams rely on every day.&lt;/p&gt;\n&lt;h2&gt;The Challenges You&#39;ll Help Us Solve&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;How can we deliver complex infrastructure requests while continuously improving the platform for the next request?&lt;/li&gt;\n&lt;li&gt;How can we raise the quality of automation, observability, Kubernetes, networking, and governance across the enterprise?&lt;/li&gt;\n&lt;li&gt;How can we strengthen engineering partnerships while delivering business-critical cloud capabilities?&lt;/li&gt;\n&lt;li&gt;How can emerging technologies—including AI—improve automation, troubleshooting, documentation, and developer productivity where they create measurable value?&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;What You&#39;ll Work On&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Lead complex AWS infrastructure and platform initiatives from architecture through production.&lt;/li&gt;\n&lt;li&gt;Design reusable infrastructure, automation, and platform capabilities that strengthen the shared cloud platform.&lt;/li&gt;\n&lt;li&gt;Advance Kubernetes/EKS, observability, governance, CI/CD, networking, and automation capabilities.&lt;/li&gt;\n&lt;li&gt;Partner across engineering organizations to deliver secure, scalable solutions for business-critical services.&lt;/li&gt;\n&lt;li&gt;Mentor engineers through design reviews, implementation guidance, troubleshooting, and knowledge sharing.&lt;/li&gt;\n&lt;li&gt;Evaluate AI-assisted engineering capabilities where they improve automation, operational efficiency, documentation, or delivery quality.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;How We Engineer&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Build cloud infrastructure that is secure, resilient, automated, and designed to evolve with the business.&lt;/li&gt;\n&lt;li&gt;Automate first whenever a pattern is repeatable.&lt;/li&gt;\n&lt;li&gt;Build security and governance into every solution.&lt;/li&gt;\n&lt;li&gt;Partner across engineering organizations to deliver better outcomes.&lt;/li&gt;\n&lt;li&gt;Continuously improve the platform through practical, measurable engineering.&lt;/li&gt;\n&lt;li&gt;Use AI where it meaningfully improves engineering outcomes.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;Technology You&#39;ll Work With&lt;/h2&gt;\n&lt;p&gt;AWS • Terraform • Kubernetes/EKS • Helm • Python • GitHub Actions • GitOps • Lambda • IAM • Route 53 • Transit Gateway • CloudWatch • Datadog • Prometheus • Grafana • Cloud Custodian&lt;/p&gt;\n&lt;h2&gt;Qualifications&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Bachelor&#39;s degree or equivalent in Computer Science, Information Technology, Engineering, or related discipline&lt;/li&gt;\n&lt;li&gt;Strong hands-on experience designing and operating AWS-based cloud infrastructure.&lt;/li&gt;\n&lt;li&gt;Experience with Infrastructure as Code, Kubernetes, automation, and CI/CD.&lt;/li&gt;\n&lt;li&gt;Strong communication, collaboration, and problem-solving skills.&lt;/li&gt;\n&lt;li&gt;AWS certifications.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;Required Experience&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Proven experience designing, implementing, and supporting AWS cloud infrastructure.&lt;/li&gt;\n&lt;li&gt;Hands-on experience with IaC and Terraform.&lt;/li&gt;\n&lt;li&gt;Experience deploying, administering, and troubleshooting Kubernetes platforms.&lt;/li&gt;\n&lt;li&gt;Strong automation experience using Python and/or Bash.&lt;/li&gt;\n&lt;li&gt;Experience designing CI/CD pipelines for infrastructure and application delivery.&lt;/li&gt;\n&lt;li&gt;Strong understanding of AWS networking including VPCs, subnets, routing, security groups, VPNs, and load balancing.&lt;/li&gt;\n&lt;li&gt;Experience building secure, highly available, resilient cloud environments.&lt;/li&gt;\n&lt;li&gt;Strong troubleshooting across compute, storage, networking, and platform services.&lt;/li&gt;\n&lt;li&gt;Experience with CloudWatch, Datadog, Splunk, Prometheus, and/or Grafana.&lt;/li&gt;\n&lt;li&gt;Experience with Git-based source control and collaborative engineering practices.&lt;/li&gt;\n&lt;li&gt;Experience administering Linux systems in cloud environments.&lt;/li&gt;\n&lt;li&gt;Knowledge of IAM, encryption, secrets management, logging, and cloud security best practices.&lt;/li&gt;\n&lt;li&gt;Experience monitoring, optimizing, and operating cloud infrastructure for performance, reliability, scalability, and cost efficiency.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;You&#39;ll Be Successful Here If You...&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Enjoy leading complex technical initiatives from idea to production.&lt;/li&gt;\n&lt;li&gt;Naturally look for opportunities to simplify, automate, and improve.&lt;/li&gt;\n&lt;li&gt;Build strong partnerships across engineering organizations.&lt;/li&gt;\n&lt;li&gt;Mentor others by sharing knowledge and raising engineering quality.&lt;/li&gt;\n&lt;li&gt;Balance technical excellence with practical business outcomes.&lt;/li&gt;\n&lt;li&gt;Embrace emerging technologies—including AI—when they create meaningful value.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;Technology Evolves. So Do We.&lt;/h2&gt;\n&lt;p&gt;We value curiosity, ownership, continuous learning, and engineers who continually challenge themselves—and us—to build better platforms, automate intelligently, and raise the standard for cloud engineering.&lt;/p&gt;\n&lt;p&gt;Join us in building the cloud foundation that enables Sony Interactive Entertainment to operate, innovate, and scale securely.&lt;/p&gt;\n&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;At SIE, we consider several factors when setting each role’s base pay range, including the competitive benchmarking data for the market and geographic location.&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;br&gt;Please note that the base pay range may vary in line with our hybrid working policy and individual base pay will be determined based on job-related factors which may include knowledge, skills, experience, and location.&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;br&gt;In addition, this role &lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;is eligible&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; for SIE’s top-tier benefits package that includes medical, dental, vision, matching 401(k), paid time off, wellness program and coveted employee discounts for Sony products. &lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;This role also may be eligible for a bonus package.&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; Click&amp;nbsp;&lt;/span&gt;&lt;a href=&quot;https://careers.playstation.com/benefits&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; to learn more.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;The estimated base pay range for this role is listed below.&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$161,100&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$241,700 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p class=&quot;p1&quot;&gt;Please note, Sony Interactive Entertainment conducts background checks at the offer stage for all new employees (which may include criminal background checks for some roles) and will need to process personal information to support these checks.&lt;/p&gt;\n&lt;p class=&quot;p1&quot;&gt;Please refer to our&amp;nbsp;&lt;a href=&quot;https://www.playstation.com/legal/careers-privacy-notice/&quot; target=&quot;_blank&quot;&gt;Candidate Privacy Notice&lt;/a&gt;&amp;nbsp;for more information about what personal information we collect, how we use it, who we share it with, and your data protection rights.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Equal Opportunity Statement:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Sony is an Equal Opportunity Employer. All persons will receive consideration for employment without regard to gender (including gender identity, gender expression and gender reassignment), race (including colour, nationality, ethnic or national origin), religion or belief, marital or civil partnership status, disability, age, sexual orientation, pregnancy, maternity or parental status, trade union membership or membership in any other legally protected category.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;We strive to create an inclusive environment, empower employees and embrace diversity. We encourage everyone to respond.&amp;nbsp;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Sony Interactive Entertainment is a Fair Chance employer and qualified applicants with arrest and conviction records will be considered for employment.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4065076004,
+      "name": "Corporate Systems Services",
+      "child_ids": [],
+      "parent_id": 4065067004
+    }
+  ],
+  "offices": [
+    {
+      "id": 4012052004,
+      "name": "USA-WI-Madison",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 4094643004
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

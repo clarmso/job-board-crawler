@@ -24,7 +24,7 @@
     {
       "id": 24918,
       "name": "Department ID",
-      "value": "D11325-PS Engagement Management",
+      "value": "D42501-Engagement Managers EMEA",
       "value_type": "single_select"
     },
     {
@@ -74,21 +74,13 @@
     {
       "id": 5525802,
       "name": "Baseline Budgeted Salary",
-      "value": {
-        "unit": "EUR",
-        "max_value": "0.0",
-        "min_value": "0.0"
-      },
+      "value": null,
       "value_type": "currency_range"
     },
     {
       "id": 5525816,
       "name": "Other Large Market Budgeted Salary",
-      "value": {
-        "unit": "EUR",
-        "max_value": "0.0",
-        "min_value": "0.0"
-      },
+      "value": null,
       "value_type": "currency_range"
     },
     {
@@ -129,7 +121,7 @@
     }
   ],
   "id": 7982616,
-  "updated_at": "2026-08-03T19:00:52-04:00",
+  "updated_at": "2026-08-06T16:02:10-04:00",
   "requisition_id": "2273464280",
   "title": "Engagement Manager (Services Sales)",
   "company_name": "MongoDB",

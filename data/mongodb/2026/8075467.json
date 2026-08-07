@@ -1,0 +1,148 @@
+{
+  "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=8075467",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3498778,
+  "location": {
+    "name": "Sydney"
+  },
+  "metadata": [
+    {
+      "id": 22194060,
+      "name": "Position ID",
+      "value": "10007802",
+      "value_type": "short_text"
+    },
+    {
+      "id": 24918,
+      "name": "Department ID",
+      "value": "D21000-Durable TXs & Availability",
+      "value_type": "single_select"
+    },
+    {
+      "id": 22194061,
+      "name": "Team",
+      "value": "T10431-Storage Layer Services",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4914027,
+      "name": "Region",
+      "value": "APAC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4137836,
+      "name": "Working Model Eligibility",
+      "value": [
+        "2-Flexible"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 4914029,
+      "name": "Job Level",
+      "value": "Professional - IC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24109,
+      "name": "Employment Type",
+      "value": "Full-time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 1073551,
+      "name": "Job Type",
+      "value": "Standard",
+      "value_type": "single_select"
+    },
+    {
+      "id": 988684,
+      "name": "JD Link",
+      "value": "https://docs.google.com/document/d/1aY3wPQuVO4vDVT7JpHg2dAfNIsZ4Z4OgtpjkIT_zH0I/edit?tab=t.9cm6rkb683xy#heading=h.bi9ngz5tt5re",
+      "value_type": "url"
+    },
+    {
+      "id": 5525802,
+      "name": "Baseline Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 5525816,
+      "name": "Other Large Market Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 13324394,
+      "name": "Job Post Range (United States)",
+      "value": {
+        "unit": "AUD",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 40497768,
+      "name": "Job Post Range (Canada)",
+      "value": {
+        "unit": "AUD",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 57694516,
+      "name": "Job Post Range (Poland)",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 64002488,
+      "name": "Job Post Range (Italy)",
+      "value": null,
+      "value_type": "currency_range"
+    }
+  ],
+  "id": 8075467,
+  "updated_at": "2026-08-06T23:51:20-04:00",
+  "requisition_id": "2273498778",
+  "title": "Staff Engineer",
+  "company_name": "MongoDB",
+  "first_published": "2026-08-06T23:51:20-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;The Storage Layer Services team is currently re-architecting the MongoDB Cloud Storage Layer. This is a relatively new team in MongoDB that sits at the heart of the next generation MongoDB Cloud Storage Architecture, and the team is working to build performant multi-tenant distributed storage services both to enhance our existing MongoDB cloud storage architecture and to power more of our customers&#39; use cases more efficiently.&lt;/p&gt;\n&lt;p&gt;Engineering at MongoDB is globally distributed, with a mix of folks being fully remote, hybrid, or in-office. We have a small but growing team that calls Sydney home, and we are looking for a Staff Engineer to join the team working closely with other teams in Sydney and North America.&lt;/p&gt;\n&lt;p&gt;Our team champions a strong culture of inclusivity, diversity, and collaboration. If you want to work on a collaborative team that applies great engineering fundamentals to deliver core features of a popular database, join us! Let’s change what’s possible for application developers, system architects, and database operators.&lt;/p&gt;\n&lt;p&gt;We are looking to speak to candidates who are based in Sydney for our hybrid working model.&lt;/p&gt;\n&lt;h3&gt;You’re an ideal candidate if:&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;You have 10+ years of experience in programming, debugging, and performance tuning highly concurrent and/or distributed systems. Especially if you have worked in a systems language (C, C++, Rust, etc) for a number of those years&lt;/li&gt;\n&lt;li&gt;You have a track record as an effective technical leader. You love helping teams be successful at solving vaguely defined problems in iterative and measurable ways. You put the customer first, and don’t hesitate to cross team boundaries in search of the right solution&lt;/li&gt;\n&lt;li&gt;You have a solid grasp of related systems fundamentals, such as cache management, log-based recovery, transactions or performance profiling&lt;/li&gt;\n&lt;li&gt;You’re comfortable reasoning about highly concurrent, asynchronous services — backpressure, tail latency, and the failure modes of replicated state machines&lt;/li&gt;\n&lt;li&gt;You’ve worked on large, highly available, scalable and performant systems such as databases, high frequency trading platforms, cloud storage services, or maybe even Mars rovers&lt;/li&gt;\n&lt;li&gt;You have excellent verbal and written technical communication skills; you enjoy collaborating with colleagues and mentoring junior engineers&lt;/li&gt;\n&lt;li&gt;You enjoy learning new things in the domains of computer science and software engineering&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;As a Staff Engineer on the Storage Layer Services team you will:&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Be directly responsible for delivering on goals which span a 6-18 month timeframe&lt;/li&gt;\n&lt;li&gt;Play a key role in defining the roadmap for the next 12 months&lt;/li&gt;\n&lt;li&gt;Write well tested, production-ready code in rust&lt;/li&gt;\n&lt;li&gt;Act as a force multiplier across the organization, drive improvements to processes and tools to help us more confidently make sound decisions and&amp;nbsp; changes to high risk parts of our codebase&lt;/li&gt;\n&lt;li&gt;Use our observability stack to inform decisions and measure the impact of work the team ships&lt;/li&gt;\n&lt;li&gt;Investigate performance regressions and guide the team through making complex changes that have to balance performance against other requirements&lt;/li&gt;\n&lt;li&gt;Champion a culture of operational excellence, and be part of a one-week-in-6 on-call rotation&lt;/li&gt;\n&lt;li&gt;Help cultivate a strong talent bench through interviewing, mentoring and knowledge sharing&lt;/li&gt;\n&lt;li&gt;Develop, maintain and apply expertise on cutting edge database and distributed systems research from industry and academia&lt;/li&gt;\n&lt;li&gt;Handle (or lead the effort to handle) time-sensitive customer escalations&lt;/li&gt;\n&lt;li&gt;Propose and advocate for high-impact projects across teams, connecting customer needs and company goals to a clear technical strategy for large initiatives&lt;/li&gt;\n&lt;li&gt;Drive consensus on abstract, complex issues affecting multiple teams by framing tradeoffs, engaging stakeholders, and guiding decisions to durable outcomes&lt;/li&gt;\n&lt;li&gt;Be open to occasional (once a year) travel to the US&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Success Measures:&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;In the first month:&lt;/li&gt;\n&lt;ul&gt;\n&lt;li&gt;You have understood the high level architecture of SLS and fixed a few bugs&lt;/li&gt;\n&lt;li&gt;You are starting to develop relationships with key stakeholders across your VPs organisation&lt;/li&gt;\n&lt;/ul&gt;\n&lt;li&gt;In three months:&lt;/li&gt;\n&lt;ul&gt;\n&lt;li&gt;You have diagnosed and fixed a few customer or testing-reported issues&lt;/li&gt;\n&lt;li&gt;You have contributed to the development of SLS and shipped your first feature to production&lt;/li&gt;\n&lt;li&gt;You are starting to take on code review responsibilities and are involved in reviewing the design for new features&lt;/li&gt;\n&lt;/ul&gt;\n&lt;li&gt;In six months:&lt;/li&gt;\n&lt;ul&gt;\n&lt;li&gt;You have started mentoring other engineers on the team&lt;/li&gt;\n&lt;li&gt;You are leading the development of a new feature&lt;/li&gt;\n&lt;li&gt;You are beginning to involve yourself in planning and roadmapping efforts&lt;/li&gt;\n&lt;/ul&gt;\n&lt;li&gt;In twelve months:&lt;/li&gt;\n&lt;ul&gt;\n&lt;li&gt;You have successfully shipped multiple major contributions&lt;/li&gt;\n&lt;li&gt;You own a department level goal&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Benefits:&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;5 weeks annual leave&lt;/li&gt;\n&lt;li&gt;22 weeks paid parental leave for both parents that covers childbirth, adoption, surrogacy and fostering. In your first year with MongoDB this benefit is reduced&lt;/li&gt;\n&lt;li&gt;Family forming assistance which covers fertility care, adoption and surrogacy&lt;/li&gt;\n&lt;li&gt;Subsidised health &amp;amp; dental insurance for you and your dependents (through Medibank)&lt;/li&gt;\n&lt;li&gt;Classpass credits, a Headspace subscription and Vaccination vouchers as part of our broader health and wellness programs&lt;/li&gt;\n&lt;li&gt;In-office Lunch (on us) up to 3 days per week&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;About MongoDB&lt;/h3&gt;\n&lt;p&gt;MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure.&lt;/p&gt;\n&lt;p&gt;With offices worldwide and over 67,000 customers, including 75% of the Fortune 100 and AI-native startups, relying on MongoDB for their most important applications, we’re powering the next era of software.&lt;/p&gt;\n&lt;p&gt;Our compass at MongoDB is our &lt;a href=&quot;https://www.mongodb.com/company&quot;&gt;Leadership Commitment,&lt;/a&gt; guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. &lt;a href=&quot;https://www.mongodb.com/company/blog/culture/employee-benefits-that-make-a-difference-at-mongodb&quot;&gt;From employee affinity groups, to fertility assistance and a generous parental leave policy&lt;/a&gt;, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys.&lt;a href=&quot;https://www.mongodb.com/blog/channel/culture&quot;&gt; Learn more about what it’s like to work at MongoDB&lt;/a&gt;, and help us make an impact on the world!&lt;/p&gt;\n&lt;p&gt;MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.&lt;/p&gt;\n&lt;p&gt;MongoDB is an equal opportunities employer.&lt;/p&gt;\n&lt;table class=&quot;fields&quot;&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;td&gt;Requisition ID&lt;/td&gt;\n&lt;td data-provides=&quot;requisition_id&quot;&gt;2273498778&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;",
+  "departments": [
+    {
+      "id": 85966,
+      "name": "Durable TXs & Availability",
+      "child_ids": [],
+      "parent_id": 371021
+    }
+  ],
+  "offices": [
+    {
+      "id": 3965,
+      "name": "Sydney",
+      "location": "Sydney, New South Wales, Australia",
+      "child_ids": [],
+      "parent_id": 23659
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": null
+}

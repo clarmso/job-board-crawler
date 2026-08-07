@@ -1,0 +1,103 @@
+{
+  "absolute_url": "https://careers.datadoghq.com/detail/8115033/?gh_jid=8115033",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 3515030,
+  "location": {
+    "name": "New York, New York, USA"
+  },
+  "metadata": [
+    {
+      "id": 33310,
+      "name": "Time Type",
+      "value": "Full time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 166208,
+      "name": "Area - Engineering",
+      "value": "Product Management",
+      "value_type": "single_select"
+    },
+    {
+      "id": 498252,
+      "name": "Cost Center",
+      "value": "Engineering - Product Management",
+      "value_type": "single_select"
+    },
+    {
+      "id": 516515,
+      "name": "Geography",
+      "value": "North America",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9593635,
+      "name": "Early Career Time Type",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 29446322,
+      "name": "Pay Transparency Range",
+      "value": {
+        "unit": "USD",
+        "max_value": "240000.0",
+        "min_value": "192000.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 31273219,
+      "name": "Does this role require access to ITAR-controlled data?",
+      "value": "No",
+      "value_type": "single_select"
+    },
+    {
+      "id": 58619948,
+      "name": "IC or MG",
+      "value": "IC",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8115033,
+  "updated_at": "2026-08-07T17:24:07-04:00",
+  "requisition_id": "R20544",
+  "title": "Senior Product Manager - Journey Monitoring",
+  "company_name": "Datadog",
+  "first_published": "2026-08-07T17:24:07-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;Today, organizations struggle to ensure their most important digital experiences are working as intended because observability data is scattered across products and siloed in logical layers of their technical stack. We&#39;re building the system that fixes this: Journey Monitoring, a single centralized hub that brings together Real User Monitoring (RUM), Synthetics, and Product Analytics to bridge the gap between system health and user success. You&#39;d be building a product that establishes a new functional observability layer, enabling teams to auto-discover journeys, track conversions and uptime side-by-side, and trace root causes across their full stack without cross-team handoffs.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What you&#39;ll do:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Drive the product vision and roadmap&lt;/strong&gt; spanning the Journey Monitoring hub, including the journey map, details reports, automatically inferred journeys, and cross-product data federation.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Own the end-to-end product lifecycle&lt;/strong&gt; from discovery to launch, working with a cross-functional team of engineers, designers, and other PMs across the Digital Experience Monitoring (DEM) products.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Deeply understand the needs of distinct key personas:&lt;/strong&gt; SREs and engineers (who monitor uptime and troubleshoot technical performance), product managers (who track conversion and investigate behavioral drop-offs), and business leaders (who care about outcomes and revenue impact).&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Design the functional observability layer&lt;/strong&gt; that makes end-to-end flow monitoring intuitive — including the auto-discovery of user journeys from real traffic, Experience Level Objectives (XLOs), and seamless Bits AI integrations for automated root-cause investigations.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Define how behavioral data and technical data come together&lt;/strong&gt; to automatically surface whether a drop in conversion is caused by a technical failure (like a breached SLO) or a behavioral friction point.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Engage directly with early customers and internal dogfooding users&lt;/strong&gt; to iterate on usability, refine the journey map, and optimize the cross-sell and up-sell paths for customers with partial DEM product adoption.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Independently research the competitive landscape&lt;/strong&gt; across digital experience and business process monitoring vendors like Dynatrace, New Relic, Contentsquare, and Amplitude.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Work with GTM teams&lt;/strong&gt; to define positioning and messaging that establishes Journey Monitoring as the shared unit of analysis across engineering, product, and business teams.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Who you are:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;5+ years of experience in B2B SaaS Product Management&lt;/strong&gt;, with at least some of it spent on data-intensive, analytics, or digital experience monitoring products.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;You have domain knowledge&lt;/strong&gt; of Real User Monitoring, Synthetics, Product Analytics, Application Performance Monitoring (APM), and how to bridge the gap between technical metrics and business outcomes.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Strong analytical skills&lt;/strong&gt; - you can write SQL, interpret complex data, and use data to drive product decisions.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Experience with AI-powered products is a strong plus&lt;/strong&gt; - you understand how to integrate AI workflows (like Bits AI root-cause analysis) to simplify cross-team triage.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;You have a strong sense of ownership with an entrepreneurial mindset&lt;/strong&gt; - this requires someone comfortable with ambiguity and speed to push a major new capability to General Availability.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Sharp communication skills&lt;/strong&gt; with the ability to interact with technical stakeholders and executives alike.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Bachelor&#39;s Degree&lt;/strong&gt; in Engineering, Computer Science, Data Science, or equivalent experience is a plus.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p data-renderer-start-pos=&quot;8657&quot; data-local-id=&quot;5e8eafc9-f170-4fd3-87bc-1304980c2dd3&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Benefits and Growth: &lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li data-renderer-start-pos=&quot;8657&quot; data-local-id=&quot;5e8eafc9-f170-4fd3-87bc-1304980c2dd3&quot;&gt;New hire stock equity (RSUs) and employee stock purchase plan (ESPP)&lt;/li&gt;\n&lt;li data-renderer-start-pos=&quot;8657&quot; data-local-id=&quot;5e8eafc9-f170-4fd3-87bc-1304980c2dd3&quot;&gt;Continuous professional development, product training, and career pathing&lt;/li&gt;\n&lt;li data-renderer-start-pos=&quot;8974&quot; data-local-id=&quot;3324ea0f-380e-4472-9f52-1666b332a455&quot;&gt;Intradepartmental mentor and buddy program for in-house networking&lt;/li&gt;\n&lt;li data-renderer-start-pos=&quot;9044&quot; data-local-id=&quot;1a06981b-432b-4704-a0a9-53ad70c1f71c&quot;&gt;An inclusive company culture, ability to join our Community Guilds (Datadog employee resource groups)&lt;/li&gt;\n&lt;li data-renderer-start-pos=&quot;9210&quot; data-local-id=&quot;2d8af845-0ad9-40ef-a349-470ea53d3700&quot;&gt;Free, global Spring Health benefits for employees and dependents age 6+&lt;/li&gt;\n&lt;li data-renderer-start-pos=&quot;9285&quot; data-local-id=&quot;41c7ea66-36b9-45f4-89ed-54468badf95e&quot;&gt;Competitive global benefits and giving programs&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p data-renderer-start-pos=&quot;9335&quot; data-local-id=&quot;f5847ffe-836c-4c01-97c0-7ea485f92ced&quot;&gt;&lt;em data-renderer-mark=&quot;true&quot;&gt;Benefits and Growth listed above may vary based on the country of your employment and the nature of your employment with Datadog.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Datadog offers a competitive salary and equity package, and may include variable compensation. Actual compensation is based on factors such as the candidate&#39;s skills, qualifications, and experience. In addition, Datadog offers a wide range of best in class, comprehensive and inclusive employee benefits for this role including healthcare, dental, parental planning, and mental health benefits, a 401(k) plan and match, paid time off, fitness reimbursements, and a discounted employee stock purchase plan.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;The reasonably estimated yearly salary for this role at Datadog is:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$192,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$240,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;hr&gt;\n&lt;p&gt;&lt;strong&gt;About Datadog:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Datadog is the leading observability and security platform for the AI era, providing businesses with unified visibility across the technology stack to manage complexity at scale. It brings applications, infrastructure, data, models, and security into one place, using AI to detect and resolve issues before they impact customers. Trusted globally by Fortune 500 companies and high-growth AI leaders, Datadog enables businesses to move faster with clarity and confidence. Learn more about #DatadogLife on &lt;a href=&quot;https://www.instagram.com/datadoghq/?hl=en&quot; target=&quot;_blank&quot;&gt;Instagram&lt;/a&gt;, &lt;a href=&quot;https://www.linkedin.com/company/datadog&quot; target=&quot;_blank&quot;&gt;LinkedIn,&lt;/a&gt; and &lt;a href=&quot;https://learn.datadoghq.com/&quot; target=&quot;_blank&quot;&gt;Datadog Learning Center. &lt;/a&gt;&lt;/p&gt;\n&lt;hr&gt;\n&lt;p data-renderer-start-pos=&quot;215&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Equal Opportunity at Datadog:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Datadog is proud to offer &lt;a href=&quot;https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf&quot; target=&quot;_blank&quot;&gt;equal employment opportunity&lt;/a&gt; to everyone regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, veteran status, and other characteristics protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. Here are our &lt;a href=&quot;https://www.datadoghq.com/legal/candidate-legal-notices/&quot; target=&quot;_blank&quot;&gt;Candidate Legal Notices&lt;/a&gt; for your reference.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Datadog endeavors to make our Careers Page accessible to all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please complete &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSeoJeduEZ2NdZF_65uZmWUrCM-zee7yADXX1s6Xr9zAGq8iKA/viewform&quot; target=&quot;_blank&quot;&gt;this form&lt;/a&gt;. This form is for accommodation requests only and cannot be used to inquire about the status of applications.&amp;nbsp;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;662&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Privacy and AI Guidelines:&lt;/strong&gt;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;662&quot;&gt;Any information you submit to Datadog as part of your application will be processed in accordance with Datadog’s&amp;nbsp;&lt;a class=&quot;c-link&quot; href=&quot;https://www.datadoghq.com/legal/applicant-candidate-privacy/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.datadoghq.com/legal/applicant-candidate-privacy/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Applicant and Candidate Privacy Notice&lt;/a&gt;. For information on our AI policy, please visit &lt;a href=&quot;https://www.datadoghq.com/legal/interviewing-at-datadog-ai-guidelines/&quot; target=&quot;_blank&quot;&gt;Interviewing at Datadog AI Guidelines&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 72255,
+      "name": "Product Management",
+      "child_ids": [],
+      "parent_id": 9022
+    }
+  ],
+  "offices": [
+    {
+      "id": 5664,
+      "name": "New York",
+      "location": "New York, NY, United States",
+      "child_ids": [
+        81327,
+        76746
+      ],
+      "parent_id": 73429
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

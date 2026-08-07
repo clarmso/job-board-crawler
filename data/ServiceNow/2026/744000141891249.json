@@ -1,0 +1,112 @@
+{
+  "id": "744000141891249",
+  "name": "Senior Solution Sales Executive - Finance & Supply Chain Solutions",
+  "uuid": "2fc36635-633a-49fd-8e52-67795b52a41d",
+  "jobAdId": "c84845cd-d2ef-4983-b51b-a4a4250db82c",
+  "defaultJobAd": true,
+  "refNumber": "JB0074537",
+  "company": {
+    "identifier": "ServiceNow",
+    "name": "ServiceNow"
+  },
+  "releasedDate": "2026-08-06T10:45:52.262Z",
+  "location": {
+    "city": "London",
+    "region": "GREATER LONDON",
+    "country": "gb",
+    "address": "8 Salisbury Square, 6th Floor",
+    "postalCode": "EC4Y 8AP",
+    "remote": true,
+    "hybrid": false,
+    "fullLocation": "London, GREATER LONDON, United Kingdom"
+  },
+  "industry": {
+    "id": "it_and_services",
+    "label": "Information Technology And Services"
+  },
+  "department": {
+    "id": "2294208",
+    "label": "Sales"
+  },
+  "function": {
+    "id": "sales",
+    "label": "Sales"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "not_applicable",
+    "label": "Not Applicable"
+  },
+  "customField": [
+    {
+      "fieldId": "60345fa28b4ba8595bef1863",
+      "fieldLabel": "Recruiting Team",
+      "valueId": "professional",
+      "valueLabel": "Professional"
+    },
+    {
+      "fieldId": "60345d5c5165a31b17288279",
+      "fieldLabel": "Region",
+      "valueId": "395ee3093de740ba9cb8b3d35cb67e2d",
+      "valueLabel": "EMEA - Europe, Middle East and Africa"
+    },
+    {
+      "fieldId": "6034601b43915a29a4b3389b",
+      "fieldLabel": "Job Location",
+      "valueId": "L_RMTE_GBR",
+      "valueLabel": "Remote, United Kingdom(L_RMTE_GBR)"
+    },
+    {
+      "fieldId": "60345e1a0b24a127cbdfa148",
+      "fieldLabel": "Employee Type",
+      "valueId": "0082f6cbe6154da19322cbab1f6aa5af",
+      "valueLabel": "Regular"
+    },
+    {
+      "fieldId": "5f63a78f1dae5c5c4e54ba2b",
+      "fieldLabel": "Department",
+      "valueId": "2294208",
+      "valueLabel": "Sales"
+    },
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "gb",
+      "valueLabel": "United Kingdom"
+    },
+    {
+      "fieldId": "5f63a78f1dae5c5c4e54ba2a",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "ServiceNow"
+    },
+    {
+      "fieldId": "603462175165a31b1728827d",
+      "fieldLabel": "Cost Center",
+      "valueId": "CC3832",
+      "valueLabel": "3832 Global WF Solution Sales Executive-FPL"
+    },
+    {
+      "fieldId": "618ed92b8f5e5f110e5bfb95",
+      "fieldLabel": "Work Persona",
+      "valueId": "5530c877-6b63-4bf5-bde8-215ef35bf172",
+      "valueLabel": "Flexible or Remote"
+    },
+    {
+      "fieldId": "690cc0e8c682c3dbadaa7d73",
+      "fieldLabel": "Job Posting Type",
+      "valueId": "professional",
+      "valueLabel": "Professional"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/ServiceNow/postings/744000141891249",
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}
