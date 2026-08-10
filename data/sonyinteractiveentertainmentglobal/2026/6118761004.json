@@ -1,0 +1,108 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6118761004",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": true,
+      "requires_processing_consent": false,
+      "requires_retention_consent": true,
+      "retention_period": 1460,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 5188961004,
+  "location": {
+    "name": "United States, Aliso Viejo, CA"
+  },
+  "metadata": [
+    {
+      "id": 4367803004,
+      "name": "Cost Center",
+      "value": "GAMES4US70-USL2900850 Cloud Engineering US",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167524004,
+      "name": "Career Page - Office Location",
+      "value": "United States, Aliso Viejo, CA",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167525004,
+      "name": "Career Page - Department",
+      "value": "Software Engineering & Services",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9377282004,
+      "name": "Career Page - Sub Department",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 20089613004,
+      "name": "Career Page - Studio Project",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 4395289004,
+      "name": "Worker Type",
+      "value": "Contingent Worker",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4404049004,
+      "name": "Country",
+      "value": "United States of America",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9262269004,
+      "name": "Job Family",
+      "value": null,
+      "value_type": "short_text"
+    },
+    {
+      "id": 9262270004,
+      "name": "Job Family Group",
+      "value": null,
+      "value_type": "short_text"
+    },
+    {
+      "id": 21724118004,
+      "name": "Bungie Geo Pay",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 6118761004,
+  "updated_at": "2026-08-10T10:32:03-04:00",
+  "requisition_id": "R-123528",
+  "title": "Senior Software Engineer Cloud Engineering (Contractor)",
+  "company_name": "PlayStation Global",
+  "first_published": "2026-08-10T10:32:03-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Why Sony Interactive Entertainment?&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Sony Interactive Entertainment isn’t just the Best Place to Play — it’s also the Best Place to Work. Sony Interactive Entertainment (SIE) is the company behind the PlayStation brand. As a subsidiary of Sony Group Corporation, we’re part of a proud legacy of innovation and excellence. SIE is a dynamic technology company, delivering cutting-edge hardware and network services to more than 100 million people and an entertainment leader, home to some of the most beloved and recognizable intellectual properties (IP) in the world. Our role at SIE is to create and nurture the experiences under the PlayStation brand, a name synonymous with entertainment excellence and creativity.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Senior Software Engineer Cloud Engineering (Contractor)&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We are seeking a &lt;strong&gt;Senior Software Engineer&lt;/strong&gt; to be part of a new engineering team supporting our Cloud Streaming platforms. This individual will partner closely with existing domain experts, develop deep expertise in complex distributed systems, and serve as the technical foundation for building a new high-performing team.&lt;/p&gt;\n&lt;h2&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;What You’ll Do&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Design and implementation of features in distributed back end systems&lt;/li&gt;\n&lt;li&gt;Ownership of the implementation and delivery of well-defined features from start to finish&lt;/li&gt;\n&lt;li&gt;Implementation of unit tests via testing frameworks&lt;/li&gt;\n&lt;li&gt;Define and craft integration tests with Test Engineering&lt;/li&gt;\n&lt;li&gt;Solve performance and reliability issues at a global scale&lt;/li&gt;\n&lt;li&gt;Triage and fix reported bugs&lt;/li&gt;\n&lt;li&gt;Communicate estimates, schedules, issues, and dependencies to technical or project lead&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Requirements&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;BS in Computer Science (or equivalent experience)&lt;/li&gt;\n&lt;li&gt;5+ years of relevant experience&lt;/li&gt;\n&lt;li&gt;In-depth experience in Java&lt;/li&gt;\n&lt;li&gt;Experience with AWS technologies and managed services&lt;/li&gt;\n&lt;li&gt;Knowledge of Kubernetes, Docker, Helm&lt;/li&gt;\n&lt;li&gt;Development experience with Linux&lt;/li&gt;\n&lt;li&gt;Intermediate knowledge of version control tools such as git, Github and GitLab&lt;/li&gt;\n&lt;li&gt;Familiarity with CI/CD pipelines, ArgoCD&lt;/li&gt;\n&lt;li&gt;Knowledge in NoSQL, Prometheus, Elasticsearch, and other CNCF technologies&lt;/li&gt;\n&lt;li&gt;Deep understanding of distributed systems, storage architectures (object/block), networking, and high-availability design&lt;/li&gt;\n&lt;li&gt;Understanding of concepts such as concurrency, parallelism, and event driven architecture&lt;/li&gt;\n&lt;li&gt;Knowledge of Web technologies including REST and gRPC&lt;/li&gt;\n&lt;li&gt;Strong communication and documentation skills&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Nice to Have&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience with Python or Rust a plus&lt;/li&gt;\n&lt;li&gt;Familiar with Agile development concepts&lt;/li&gt;\n&lt;li&gt;Experience with streaming platforms, cloud gaming, or large-scale distributed systems&lt;/li&gt;\n&lt;li&gt;Infrastructure-as-code experience (CDK, Terraform)&lt;/li&gt;\n&lt;li&gt;Familiarity with AI-assisted development tools and modern cloud-native practices&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p class=&quot;p1&quot;&gt;Please note, Sony Interactive Entertainment conducts background checks at the offer stage for all new employees (which may include criminal background checks for some roles) and will need to process personal information to support these checks.&lt;/p&gt;\n&lt;p class=&quot;p1&quot;&gt;Please refer to our&amp;nbsp;&lt;a href=&quot;https://www.playstation.com/legal/careers-privacy-notice/&quot; target=&quot;_blank&quot;&gt;Candidate Privacy Notice&lt;/a&gt;&amp;nbsp;for more information about what personal information we collect, how we use it, who we share it with, and your data protection rights.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Equal Opportunity Statement:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Sony is an Equal Opportunity Employer. All persons will receive consideration for employment without regard to gender (including gender identity, gender expression and gender reassignment), race (including colour, nationality, ethnic or national origin), religion or belief, marital or civil partnership status, disability, age, sexual orientation, pregnancy, maternity or parental status, trade union membership or membership in any other legally protected category.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;We strive to create an inclusive environment, empower employees and embrace diversity. We encourage everyone to respond.&amp;nbsp;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Sony Interactive Entertainment is a Fair Chance employer and qualified applicants with arrest and conviction records will be considered for employment.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4037262004,
+      "name": "Network / Core Engineering",
+      "child_ids": [],
+      "parent_id": 4037176004
+    }
+  ],
+  "offices": [
+    {
+      "id": 4012028004,
+      "name": "USA-CA-Aliso Viejo",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 4089335004
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

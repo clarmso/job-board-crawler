@@ -18,7 +18,7 @@
     {
       "id": 22194060,
       "name": "Position ID",
-      "value": "T10001317",
+      "value": "10001317",
       "value_type": "short_text"
     },
     {
@@ -74,13 +74,21 @@
     {
       "id": 5525802,
       "name": "Baseline Budgeted Salary",
-      "value": null,
+      "value": {
+        "unit": "INR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
       "value_type": "currency_range"
     },
     {
       "id": 5525816,
       "name": "Other Large Market Budgeted Salary",
-      "value": null,
+      "value": {
+        "unit": "INR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
       "value_type": "currency_range"
     },
     {
@@ -117,7 +125,7 @@
     }
   ],
   "id": 8079967,
-  "updated_at": "2026-08-06T11:17:09-04:00",
+  "updated_at": "2026-08-10T18:50:52-04:00",
   "requisition_id": "2273500551",
   "title": "Regional Vice President, Enterprise, Growth",
   "company_name": "MongoDB",

@@ -24,13 +24,13 @@
     {
       "id": 24918,
       "name": "Department ID",
-      "value": "D41808-Solutions Consulting, Growth EMEA",
+      "value": "D41808-Solutions Architecture, Growth EMEA",
       "value_type": "single_select"
     },
     {
       "id": 22194061,
       "name": "Team",
-      "value": "T10414-Solutions Consulting EMEA, North",
+      "value": "T10414-Solutions Architecture EMEA, North",
       "value_type": "single_select"
     },
     {
@@ -74,13 +74,21 @@
     {
       "id": 5525802,
       "name": "Baseline Budgeted Salary",
-      "value": null,
+      "value": {
+        "unit": "GBP",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
       "value_type": "currency_range"
     },
     {
       "id": 5525816,
       "name": "Other Large Market Budgeted Salary",
-      "value": null,
+      "value": {
+        "unit": "GBP",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
       "value_type": "currency_range"
     },
     {
@@ -117,7 +125,7 @@
     }
   ],
   "id": 8111814,
-  "updated_at": "2026-08-07T10:44:25-04:00",
+  "updated_at": "2026-08-10T04:50:27-04:00",
   "requisition_id": "3273513842",
   "title": "Solutions Architect",
   "company_name": "MongoDB",

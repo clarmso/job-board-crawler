@@ -4,18 +4,39 @@
   "department": "HighlightTA",
   "team": "HighlightTA",
   "employmentType": "FullTime",
-  "location": "Canada",
+  "location": "Toronto, Ontario",
   "shouldDisplayCompensationOnJobPostings": false,
-  "secondaryLocations": [],
+  "secondaryLocations": [
+    {
+      "location": "Halifax, Nova Scotia",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "Nova Scotia",
+          "addressCountry": "Canada",
+          "addressLocality": "Halifax"
+        }
+      }
+    },
+    {
+      "location": "Calgary",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "Alberta",
+          "addressCountry": "Canada",
+          "addressLocality": "Calgary"
+        }
+      }
+    }
+  ],
   "publishedAt": "2026-04-20T22:43:56.531+00:00",
   "isListed": true,
   "isRemote": true,
   "workplaceType": "Remote",
   "address": {
     "postalAddress": {
-      "addressRegion": "",
+      "addressRegion": "Ontario",
       "addressCountry": "Canada",
-      "addressLocality": ""
+      "addressLocality": "Toronto"
     }
   },
   "jobUrl": "https://jobs.ashbyhq.com/HighlightTA/90fb3621-899e-4b59-925d-25080ec91e18",
