@@ -16,7 +16,7 @@
   },
   "metadata": null,
   "id": 6113939004,
-  "updated_at": "2026-08-05T11:46:01-04:00",
+  "updated_at": "2026-08-12T17:53:13-04:00",
   "requisition_id": "B260032",
   "title": "Clearing Operations Associate - Corporate Actions - Shift 2AM - 11AM EST",
   "company_name": "Alpaca ",
@@ -36,6 +36,13 @@
     }
   ],
   "offices": [
+    {
+      "id": 4025503004,
+      "name": "Remote - EU",
+      "location": "European Union",
+      "child_ids": [],
+      "parent_id": null
+    },
     {
       "id": 4025510004,
       "name": "Remote - Global - Anywhere",

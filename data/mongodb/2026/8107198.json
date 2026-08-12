@@ -1,0 +1,152 @@
+{
+  "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=8107198",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3512114,
+  "location": {
+    "name": "New York City"
+  },
+  "metadata": [
+    {
+      "id": 22194060,
+      "name": "Position ID",
+      "value": "10008672",
+      "value_type": "short_text"
+    },
+    {
+      "id": 24918,
+      "name": "Department ID",
+      "value": "D21000-Durable TXs & Availability",
+      "value_type": "single_select"
+    },
+    {
+      "id": 22194061,
+      "name": "Team",
+      "value": "T10057-Replicated Storage Services",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4914027,
+      "name": "Region",
+      "value": "North America",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4137836,
+      "name": "Working Model Eligibility",
+      "value": [
+        "1-In Office"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 4914029,
+      "name": "Job Level",
+      "value": "Professional - IC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24109,
+      "name": "Employment Type",
+      "value": "Full-time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 1073551,
+      "name": "Job Type",
+      "value": "Standard",
+      "value_type": "single_select"
+    },
+    {
+      "id": 988684,
+      "name": "JD Link",
+      "value": "https://docs.google.com/document/d/1gHkkTbxwfeJYqY3mRBlcrO6yVvI7QpUvWpc_QOH41jU/edit?usp=sharing",
+      "value_type": "url"
+    },
+    {
+      "id": 5525802,
+      "name": "Baseline Budgeted Salary",
+      "value": {
+        "unit": "USD",
+        "max_value": "190000.0",
+        "min_value": "133000.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 5525816,
+      "name": "Other Large Market Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 13324394,
+      "name": "Job Post Range (United States)",
+      "value": {
+        "unit": "USD",
+        "max_value": "209000.0",
+        "min_value": "106000.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 40497768,
+      "name": "Job Post Range (Canada)",
+      "value": {
+        "unit": "USD",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 57694516,
+      "name": "Job Post Range (Poland)",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 64002488,
+      "name": "Job Post Range (Italy)",
+      "value": null,
+      "value_type": "currency_range"
+    }
+  ],
+  "id": 8107198,
+  "updated_at": "2026-08-12T11:27:25-04:00",
+  "requisition_id": "3273512114",
+  "title": "Software Engineer 3",
+  "company_name": "MongoDB",
+  "first_published": "2026-08-12T10:46:19-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;MongoDB’s Replication Team builds the infrastructure that enables high availability, fault tolerance, automatic failover, and tunable consistency. As an engineer on the team, you will design and implement distributed-systems features that protect data and keep applications available under demanding operating conditions.&lt;/p&gt;\n&lt;p&gt;You will work primarily in C++ on core database code, partner with engineers across MongoDB, and help shape features that are central to major MongoDB releases. This is an opportunity to apply distributed-systems fundamentals to a widely used database while solving challenging problems in correctness, performance, and operability.&lt;/p&gt;\n&lt;p&gt;We&#39;re looking to speak with candidates based in New York City for our in-office working model.&lt;/p&gt;\n&lt;h3&gt;What you will do&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Design and implement replication features based on the Raft consensus protocol&lt;/li&gt;\n&lt;li&gt;Improve failover behavior, availability, correctness, and performance across the replication system&lt;/li&gt;\n&lt;li&gt;Write production-quality C++ and the unit, integration, and system tests needed to demonstrate correctness&lt;/li&gt;\n&lt;li&gt;Use JavaScript and Python where appropriate to extend test coverage and validate end-to-end behavior&lt;/li&gt;\n&lt;li&gt;Diagnose test failures, investigate bugs, and drive issues through root-cause analysis and resolution&lt;/li&gt;\n&lt;li&gt;Measure the performance impact of code changes and prevent or resolve regressions&lt;/li&gt;\n&lt;li&gt;Collaborate with partner engineering teams and stakeholders on large, cross-functional initiatives&lt;/li&gt;\n&lt;li&gt;Investigate distributed-systems issues raised by customers and Technical Support, communicate findings clearly, and help deliver durable fixes&lt;/li&gt;\n&lt;li&gt;Participate in code reviews, design reviews, and technical discussions that improve the quality of the team’s work&lt;/li&gt;\n&lt;li&gt;Interview candidates and mentor junior engineers and interns&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;What you bring&lt;/h3&gt;\n&lt;p&gt;Required&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;At least five years of experience programming, debugging, and performance-tuning distributed or highly concurrent software systems&lt;/li&gt;\n&lt;li&gt;Strong systems fundamentals, including multithreaded programming, concurrency, debugging, and performance profiling&lt;/li&gt;\n&lt;li&gt;Practical experience with one or more distributed-systems concepts, such as consensus protocols, replication, distributed transactions, or fault tolerance&lt;/li&gt;\n&lt;li&gt;Experience working with complex production codebases and diagnosing problems that cross subsystem boundaries&lt;/li&gt;\n&lt;li&gt;Strong written and verbal technical communication skills&lt;/li&gt;\n&lt;li&gt;A collaborative approach and the ability to make realistic assessments of project complexity and delivery risk&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Preferred&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Professional experience developing production software in C++&lt;/li&gt;\n&lt;li&gt;Familiarity with database internals or core components of data-processing systems&lt;/li&gt;\n&lt;li&gt;Experience with Raft or another consensus protocol&lt;/li&gt;\n&lt;li&gt;Experience writing unit, integration, and end-to-end tests in C++, JavaScript, or Python&lt;/li&gt;\n&lt;li&gt;Experience responding to customer-impacting production issues in distributed systems&lt;/li&gt;\n&lt;li&gt;Experience mentoring engineers or interns and contributing to technical hiring&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Candidates with additional relevant experience may be considered for more senior roles.&lt;/p&gt;\n&lt;h3&gt;What success looks like&lt;/h3&gt;\n&lt;p&gt;In your first month&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Build a working understanding of MongoDB’s replication architecture, development workflow, and testing strategy&lt;/li&gt;\n&lt;li&gt;Begin resolving scoped bugs and contributing effectively to code reviews&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;In your first three months&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Contribute production C++ code to a project targeted for an upcoming MongoDB release&lt;/li&gt;\n&lt;li&gt;Diagnose and resolve issues identified by testing, customers, or partner teams&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;In your first six months&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Take regular ownership of code reviews and participate meaningfully in feature design reviews&lt;/li&gt;\n&lt;li&gt;Independently drive scoped technical work from investigation through implementation and validation&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;In your first twelve months&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Lead the development of a new feature or substantial improvement from design through delivery&lt;/li&gt;\n&lt;li&gt;Help mentor new engineers and contribute to the team’s technical direction&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;About MongoDB&lt;/h3&gt;\n&lt;p&gt;MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure.&lt;/p&gt;\n&lt;p&gt;With offices worldwide and over 67,000 customers, including 75% of the Fortune 100 and AI-native startups, relying on MongoDB for their most important applications, we’re powering the next era of software.&lt;/p&gt;\n&lt;p&gt;Our compass at MongoDB is our &lt;a href=&quot;https://www.mongodb.com/company&quot;&gt;Leadership Commitment,&lt;/a&gt; guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. &lt;a href=&quot;https://www.mongodb.com/company/blog/culture/employee-benefits-that-make-a-difference-at-mongodb&quot;&gt;From employee affinity groups, to fertility assistance and a generous parental leave policy&lt;/a&gt;, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys.&lt;a href=&quot;https://www.mongodb.com/blog/channel/culture&quot;&gt; Learn more about what it’s like to work at MongoDB&lt;/a&gt;, and help us make an impact on the world!&lt;/p&gt;\n&lt;p&gt;MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.&lt;/p&gt;\n&lt;p&gt;MongoDB, Inc. provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type and makes all hiring decisions without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.&lt;/p&gt;\n&lt;p&gt;Req ID: 3273512114&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;MongoDB’s base salary range for this role is posted below. Compensation at the time of offer is unique to each candidate and based on a variety of factors such as skill set, experience, qualifications, and work location. Salary is one part of MongoDB’s total compensation and benefits package. Other benefits for eligible employees may include: equity, participation in the employee stock purchase program, flexible paid time off, 20 weeks fully-paid gender-neutral parental leave, fertility and adoption assistance, 401(k) plan, mental health counseling, access to transgender-inclusive health insurance coverage, and health benefits offerings. Please note, the base salary range listed below and the benefits in this paragraph are only applicable to U.S.-based candidates.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;MongoDB’s base salary range for this role in the U.S. is:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$106,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$209,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 85966,
+      "name": "Durable TXs & Availability",
+      "child_ids": [],
+      "parent_id": 371021
+    }
+  ],
+  "offices": [
+    {
+      "id": 3960,
+      "name": "New York City",
+      "location": "New York, NY, United States",
+      "child_ids": [],
+      "parent_id": 23657
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": null
+}

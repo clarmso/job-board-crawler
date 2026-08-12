@@ -16,7 +16,7 @@
   },
   "metadata": null,
   "id": 8047154,
-  "updated_at": "2026-08-06T11:48:53-04:00",
+  "updated_at": "2026-08-11T13:58:06-04:00",
   "requisition_id": "1081",
   "title": "Manager, Finance Operations, Procure-to-Pay",
   "company_name": "Flipp",
@@ -50,6 +50,20 @@
     {
       "id": 232508,
       "name": "Italy",
+      "location": null,
+      "child_ids": [],
+      "parent_id": null
+    },
+    {
+      "id": 306392,
+      "name": "Poland",
+      "location": null,
+      "child_ids": [],
+      "parent_id": null
+    },
+    {
+      "id": 306387,
+      "name": "Romania",
       "location": null,
       "child_ids": [],
       "parent_id": null

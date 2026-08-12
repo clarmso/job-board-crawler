@@ -12,7 +12,7 @@
   ],
   "internal_job_id": 2727009,
   "location": {
-    "name": "Germany, Remote"
+    "name": "Germany, Remote; Poland, Remote"
   },
   "metadata": [
     {
@@ -65,7 +65,7 @@
     }
   ],
   "id": 5511968,
-  "updated_at": "2026-08-10T10:49:18-04:00",
+  "updated_at": "2026-08-12T15:59:08-04:00",
   "requisition_id": "R5307",
   "title": "Strategic Account Executive (DACH)",
   "company_name": "Datadog",
@@ -82,6 +82,27 @@
     }
   ],
   "offices": [
+    {
+      "id": 73028,
+      "name": "Austria",
+      "location": "Niederösterreich, Austria",
+      "child_ids": [
+        76770,
+        73221
+      ],
+      "parent_id": 73431
+    },
+    {
+      "id": 78097,
+      "name": "Poland",
+      "location": "Poland",
+      "child_ids": [
+        82961,
+        76792,
+        76790
+      ],
+      "parent_id": 73431
+    },
     {
       "id": 76766,
       "name": "Remote - Germany",

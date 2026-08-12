@@ -4,7 +4,7 @@
   "department": "Sales",
   "team": "Sales",
   "employmentType": "FullTime",
-  "location": "Spain",
+  "location": "Germany",
   "shouldDisplayCompensationOnJobPostings": false,
   "secondaryLocations": [
     {
@@ -37,7 +37,9 @@
   "isRemote": true,
   "workplaceType": "Remote",
   "address": {
-    "postalAddress": {}
+    "postalAddress": {
+      "addressCountry": "Germany"
+    }
   },
   "jobUrl": "https://jobs.ashbyhq.com/tempo-io/e94d97cd-9fb7-4d9a-863b-3c6d35c4270f",
   "applyUrl": "https://jobs.ashbyhq.com/tempo-io/e94d97cd-9fb7-4d9a-863b-3c6d35c4270f/application",
