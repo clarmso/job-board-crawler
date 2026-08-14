@@ -1,0 +1,148 @@
+{
+  "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=8126618",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3519278,
+  "location": {
+    "name": "United States"
+  },
+  "metadata": [
+    {
+      "id": 22194060,
+      "name": "Position ID",
+      "value": "10008436",
+      "value_type": "short_text"
+    },
+    {
+      "id": 24918,
+      "name": "Department ID",
+      "value": "D25001-Security Product Management",
+      "value_type": "single_select"
+    },
+    {
+      "id": 22194061,
+      "name": "Team",
+      "value": "T10039-Security Product Management",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4914027,
+      "name": "Region",
+      "value": "North America",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4137836,
+      "name": "Working Model Eligibility",
+      "value": [
+        "3-Fully Remote"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 4914029,
+      "name": "Job Level",
+      "value": "Professional - IC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24109,
+      "name": "Employment Type",
+      "value": "Full-time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 1073551,
+      "name": "Job Type",
+      "value": "Standard",
+      "value_type": "single_select"
+    },
+    {
+      "id": 988684,
+      "name": "JD Link",
+      "value": "https://docs.google.com/document/d/1t6bhgVjIUcB1EQXUjRJTpFMC8i16Q_JX9eGltuF_orA/edit?usp=sharing",
+      "value_type": "url"
+    },
+    {
+      "id": 5525802,
+      "name": "Baseline Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 5525816,
+      "name": "Other Large Market Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 13324394,
+      "name": "Job Post Range (United States)",
+      "value": {
+        "unit": "USD",
+        "max_value": "297000.0",
+        "min_value": "151000.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 40497768,
+      "name": "Job Post Range (Canada)",
+      "value": {
+        "unit": "CAD",
+        "max_value": "194000.0",
+        "min_value": "155000.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 57694516,
+      "name": "Job Post Range (Poland)",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 64002488,
+      "name": "Job Post Range (Italy)",
+      "value": null,
+      "value_type": "currency_range"
+    }
+  ],
+  "id": 8126618,
+  "updated_at": "2026-08-14T13:46:07-04:00",
+  "requisition_id": "3273519278",
+  "title": "Staff Product Manager",
+  "company_name": "MongoDB",
+  "first_published": "2026-08-14T13:46:07-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;h3&gt;&lt;strong&gt;The Role&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;MongoDB is seeking a Staff Product Manager to lead strategic initiatives across Identity and Security. In this role, you will serve as the senior product leader shaping the next generation of authentication, authorization, and access control across MongoDB Atlas, the core database engine, and emerging developer platforms.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;You will lead the strategy for non-human identity—spanning workload identity federation, zero-trust passwordless access, Model Context Protocol (MCP) integrations, and autonomous AI agentic identity. You will partner closely with engineering, UX, product marketing, and enterprise customers to build identity experiences that are enterprise-grade, seamless for developers, and secure by default.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Set and champion a multi-year product strategy across interrelated identity areas, aligning dependencies and investments to MongoDB’s broader objectives&lt;/li&gt;\n&lt;li&gt;Identify cross-cutting customer and market opportunities, build business cases for investment, and bring a clear point of view to senior stakeholders&lt;/li&gt;\n&lt;li&gt;Lead workload identity federation and programmatic access initiatives across cloud and enterprise identity environments&lt;/li&gt;\n&lt;li&gt;Define secure authorization approaches for AI agents and MCP clients, including delegation, identity lifecycle, policy, and administrative controls&lt;/li&gt;\n&lt;li&gt;Drive developer-first access management, ensuring security controls enhance rather than obstruct developer velocity&lt;/li&gt;\n&lt;li&gt;Partner with engineering, design, GTM, and cross-functional leadership to validate enterprise requirements, prioritize initiatives, and measure feature adoption&lt;/li&gt;\n&lt;li&gt;Stay ahead of evolving cloud security paradigms, emerging standards (e.g., SPIFFE/SPIRE, O4AA), and AI access patterns to guide executive decision-making&lt;/li&gt;\n&lt;li&gt;Represent MongoDB’s security and identity vision at industry events, customer advisory boards, and executive briefings&lt;/li&gt;\n&lt;li&gt;Demonstrate creativity, an innovative spirit, and a bias towards action&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Requirements&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;8+ years (or equivalent experience) in Product Management, Security Architecture, or Technical Leadership focused on IAM, Cloud Security, or Enterprise Infrastructure&lt;/li&gt;\n&lt;li&gt;Experience influencing senior stakeholders and leading through ambiguity without direct authority, including establishing decision frameworks or operating mechanisms that improve execution&lt;/li&gt;\n&lt;li&gt;Deep domain knowledge in authentication, authorization, federation protocols (OAuth 2.0, OIDC, SAML, SCIM), and policy-based access management (RBAC/ABAC)&lt;/li&gt;\n&lt;li&gt;Hands-on familiarity with cloud identity models across AWS, Azure, and GCP, as well as secret-reduction strategies (e.g., IAM roles, short-lived tokens, vaultless access)&lt;/li&gt;\n&lt;li&gt;Conceptual and practical understanding of AI agent workflows, tool-calling interfaces (MCP), and non-human identity security challenges&lt;/li&gt;\n&lt;li&gt;Track record of building intuitive developer or administrative experiences for complex backend/infrastructure technologies&lt;/li&gt;\n&lt;li&gt;Strong executive presence, public speaking ability, and experience engaging directly with CISO/CIO stakeholders&lt;/li&gt;\n&lt;li&gt;Ability to serve as a trusted subject-matter expert, mentor other PMs, and raise the quality of product thinking across teams&lt;/li&gt;\n&lt;li&gt;B.Sc. in Computer Science, Cybersecurity, Engineering, or equivalent practical experience&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Nice to Have&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience with zero-trust architectures, SPIFFE/SPIRE, or machine-to-machine service meshes&lt;/li&gt;\n&lt;li&gt;Understanding of database security models (TLS/x509, SASL, field-level encryption, audit logging)&lt;/li&gt;\n&lt;li&gt;Familiarity with governance models for autonomous AI workloads and multi-tenant authorization&lt;/li&gt;\n&lt;li&gt;Active participation in security standard bodies, industry panels, or open-source identity communities&lt;/li&gt;\n&lt;li&gt;Advanced degree (M.Sc., MBA, or Ph.D.) in a technical or business discipline&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Success Measures&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;2 Months: Build a comprehensive understanding of MongoDB Atlas and core database identity architectures, mapping existing technical debt alongside emerging workload and agentic identity requirements&lt;/li&gt;\n&lt;li&gt;4 Months: Establish trusted relationships across Engineering, UX, and GTM teams; deliver an audited, prioritized stakeholder matrix and product hypothesis framework for machine identity capabilities&lt;/li&gt;\n&lt;li&gt;6 Months: Own and execute the identity roadmap while driving measurable enterprise customer adoption&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;About MongoDB&lt;/h3&gt;\n&lt;p&gt;MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure.&lt;/p&gt;\n&lt;p&gt;With offices worldwide and over 67,000 customers, including 75% of the Fortune 100 and AI-native startups, relying on MongoDB for their most important applications, we’re powering the next era of software.&lt;/p&gt;\n&lt;p&gt;Our compass at MongoDB is our &lt;a href=&quot;https://www.mongodb.com/company&quot;&gt;Leadership Commitment,&lt;/a&gt; guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. &lt;a href=&quot;https://www.mongodb.com/company/blog/culture/employee-benefits-that-make-a-difference-at-mongodb&quot;&gt;From employee affinity groups, to fertility assistance and a generous parental leave policy&lt;/a&gt;, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys.&lt;a href=&quot;https://www.mongodb.com/blog/channel/culture&quot;&gt; Learn more about what it’s like to work at MongoDB&lt;/a&gt;, and help us make an impact on the world!&lt;/p&gt;\n&lt;p&gt;MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.&lt;/p&gt;\n&lt;p&gt;MongoDB, Inc. provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type and makes all hiring decisions without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.&lt;/p&gt;\n&lt;p&gt;REQ ID: 3273519278&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;MongoDB’s base salary range for this role is posted below. Compensation at the time of offer is unique to each candidate and based on a variety of factors such as skill set, experience, qualifications, and work location. Salary is one part of MongoDB’s total compensation and benefits package. Other benefits for eligible employees may include: equity, participation in the employee stock purchase program, flexible paid time off, 20 weeks fully-paid gender-neutral parental leave, fertility and adoption assistance, 401(k) plan, mental health counseling, access to transgender-inclusive health insurance coverage, and health benefits offerings. Please note, the base salary range listed below and the benefits in this paragraph are only applicable to U.S.-based candidates.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;MongoDB’s base salary range for this role in the U.S. is:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$151,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$297,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 371022,
+      "name": "Security Product Management",
+      "child_ids": [],
+      "parent_id": 370706
+    }
+  ],
+  "offices": [
+    {
+      "id": 95793,
+      "name": "Remote California",
+      "location": "California, United States",
+      "child_ids": [],
+      "parent_id": 23657
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": null
+}

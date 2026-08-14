@@ -16,9 +16,9 @@
   },
   "metadata": null,
   "id": 4301432009,
-  "updated_at": "2026-08-03T16:29:47-04:00",
+  "updated_at": "2026-08-14T14:27:56-04:00",
   "requisition_id": "494",
-  "title": "Engineering Manager I, Creatives",
+  "title": "Engineering Manager II, Creatives",
   "company_name": "StackAdapt",
   "first_published": "2026-07-07T10:28:21-04:00",
   "language": "en",
@@ -33,6 +33,21 @@
     }
   ],
   "offices": [
+    {
+      "id": 4008687009,
+      "name": "Canada",
+      "location": null,
+      "child_ids": [
+        4008688009,
+        4008690009,
+        4011421009,
+        4022035009,
+        4008689009,
+        4008691009,
+        4011422009
+      ],
+      "parent_id": null
+    },
     {
       "id": 4008441009,
       "name": "United States",

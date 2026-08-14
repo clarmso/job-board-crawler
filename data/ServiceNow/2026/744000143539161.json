@@ -1,0 +1,111 @@
+{
+  "id": "744000143539161",
+  "name": "OTC Customer Support Analyst",
+  "uuid": "68dd0cc5-38a3-4c0a-97e5-d555710c667d",
+  "jobAdId": "a4c1ff74-7bd4-4b8e-b79b-28577ae74b69",
+  "defaultJobAd": true,
+  "refNumber": "JB0074348",
+  "company": {
+    "identifier": "ServiceNow",
+    "name": "ServiceNow"
+  },
+  "releasedDate": "2026-08-14T15:06:42.338Z",
+  "location": {
+    "city": "San Francisco de Heredia",
+    "country": "cr",
+    "address": "America Free Zone, 600 Norte de Plaza Real Cariairi  Calle 11, L4 & L5, C11",
+    "postalCode": "40103",
+    "remote": false,
+    "hybrid": true,
+    "fullLocation": "San Francisco de Heredia, , Costa Rica"
+  },
+  "industry": {
+    "id": "it_and_services",
+    "label": "Information Technology And Services"
+  },
+  "department": {
+    "id": "2294072",
+    "label": "Finance & Accounting"
+  },
+  "function": {
+    "id": "finance",
+    "label": "Finance"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "not_applicable",
+    "label": "Not Applicable"
+  },
+  "customField": [
+    {
+      "fieldId": "60345fa28b4ba8595bef1863",
+      "fieldLabel": "Recruiting Team",
+      "valueId": "early-in-career",
+      "valueLabel": "Global Emerging Talent"
+    },
+    {
+      "fieldId": "60345d5c5165a31b17288279",
+      "fieldLabel": "Region",
+      "valueId": "c07e4bb2ef75103f5710e95052af2b21",
+      "valueLabel": "LATAM - Latin America"
+    },
+    {
+      "fieldId": "6034601b43915a29a4b3389b",
+      "fieldLabel": "Job Location",
+      "valueId": "L_SYQ002",
+      "valueLabel": "America Free Zone, 600 Norte de Plaza Real Cariairi, San Francisco de Heredia, 40103, Costa Rica(L_SYQ002)"
+    },
+    {
+      "fieldId": "60345e1a0b24a127cbdfa148",
+      "fieldLabel": "Employee Type",
+      "valueId": "0082f6cbe6154da19322cbab1f6aa5af",
+      "valueLabel": "Regular"
+    },
+    {
+      "fieldId": "5f63a78f1dae5c5c4e54ba2b",
+      "fieldLabel": "Department",
+      "valueId": "2294072",
+      "valueLabel": "Finance & Accounting"
+    },
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "cr",
+      "valueLabel": "Costa Rica"
+    },
+    {
+      "fieldId": "5f63a78f1dae5c5c4e54ba2a",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "ServiceNow"
+    },
+    {
+      "fieldId": "603462175165a31b1728827d",
+      "fieldLabel": "Cost Center",
+      "valueId": "CC5142",
+      "valueLabel": "5142 Collections"
+    },
+    {
+      "fieldId": "618ed92b8f5e5f110e5bfb95",
+      "fieldLabel": "Work Persona",
+      "valueId": "bf7551c6-9b06-4e7c-8217-3baf43edd060",
+      "valueLabel": "Flexible"
+    },
+    {
+      "fieldId": "690cc0e8c682c3dbadaa7d73",
+      "fieldLabel": "Job Posting Type",
+      "valueId": "early-career",
+      "valueLabel": "Early Career"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/ServiceNow/postings/744000143539161",
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

@@ -18,7 +18,7 @@
     {
       "id": 22194060,
       "name": "Position ID",
-      "value": "10006777",
+      "value": "T10006777",
       "value_type": "short_text"
     },
     {
@@ -43,7 +43,7 @@
       "id": 4137836,
       "name": "Working Model Eligibility",
       "value": [
-        "3-Fully Remote"
+        "3CF-Customer Facing Remote"
       ],
       "value_type": "multi_select"
     },
@@ -125,7 +125,7 @@
     }
   ],
   "id": 8050418,
-  "updated_at": "2026-08-12T11:27:25-04:00",
+  "updated_at": "2026-08-14T09:30:20-04:00",
   "requisition_id": "2273489128",
   "title": "Advisory Partner Solutions Architect",
   "company_name": "MongoDB",
@@ -143,9 +143,9 @@
   ],
   "offices": [
     {
-      "id": 95750,
-      "name": "Remote India",
-      "location": "India",
+      "id": 26756,
+      "name": "Bengaluru",
+      "location": "Bengaluru, Karnataka, India",
       "child_ids": [],
       "parent_id": 23659
     }

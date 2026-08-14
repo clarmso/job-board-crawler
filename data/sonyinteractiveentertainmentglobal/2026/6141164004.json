@@ -1,0 +1,108 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6141164004",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": true,
+      "requires_processing_consent": false,
+      "requires_retention_consent": true,
+      "retention_period": 1460,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 5198909004,
+  "location": {
+    "name": "United States, San Mateo, CA"
+  },
+  "metadata": [
+    {
+      "id": 4367803004,
+      "name": "Cost Center",
+      "value": "GAMES4US70-USL2950136 Data Platform Engineering & Ops US",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167524004,
+      "name": "Career Page - Office Location",
+      "value": "United States, San Diego, CA",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167525004,
+      "name": "Career Page - Department",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 9377282004,
+      "name": "Career Page - Sub Department",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 20089613004,
+      "name": "Career Page - Studio Project",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 4395289004,
+      "name": "Worker Type",
+      "value": "Employee",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4404049004,
+      "name": "Country",
+      "value": "United States of America",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9262269004,
+      "name": "Job Family",
+      "value": "Software Development Engineering",
+      "value_type": "short_text"
+    },
+    {
+      "id": 9262270004,
+      "name": "Job Family Group",
+      "value": "Engineering",
+      "value_type": "short_text"
+    },
+    {
+      "id": 21724118004,
+      "name": "Bungie Geo Pay",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 6141164004,
+  "updated_at": "2026-08-13T16:21:16-04:00",
+  "requisition_id": "R-124982",
+  "title": "Staff Software Engineer – Data",
+  "company_name": "PlayStation Global",
+  "first_published": "2026-08-13T16:21:16-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Why Sony Interactive Entertainment?&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Sony Interactive Entertainment isn’t just the Best Place to Play — it’s also the Best Place to Work. Sony Interactive Entertainment (SIE) is the company behind the PlayStation brand. As a subsidiary of Sony Group Corporation, we’re part of a proud legacy of innovation and excellence. SIE is a dynamic technology company, delivering cutting-edge hardware and network services to more than 100 million people and an entertainment leader, home to some of the most beloved and recognizable intellectual properties (IP) in the world. Our role at SIE is to create and nurture the experiences under the PlayStation brand, a name synonymous with entertainment excellence and creativity.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;strong&gt;PlayStation isn’t just the Best Place to Play — it’s also the Best Place to Work. Today, we’re recognized as a global leader in entertainment producing The PlayStation family of products and services including PlayStation®5, PlayStation®4, PlayStation®VR, PlayStation®Plus, acclaimed PlayStation software titles from PlayStation Studios, and more.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;strong&gt;PlayStation also strives to create an inclusive environment that empowers employees and embraces diversity. We welcome and encourage everyone who has a passion and curiosity for innovation, technology, and play to explore our open positions and join our growing global team.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;strong&gt;The PlayStation brand falls under Sony Interactive Entertainment, a wholly-owned subsidiary of Sony Corporation.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;h1&gt;&lt;strong&gt;Staff Software Engineer – Data&amp;nbsp;&lt;/strong&gt;&lt;/h1&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Do you want to join a team of talented engineers building the next generation of real-time data platforms that power analytics and data-driven experiences across PlayStation? As part of our Data Platform team, you will play a key technical leadership role in designing and evolving the Real-Time Analytics Platform (RTAP), enabling high-throughput, low-latency analytics and stream processing at PlayStation scale.&lt;/span&gt;&lt;/p&gt;\n&lt;p style=&quot;color: !important;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;The Software Engineers within our Platform Engineering Group design, build, document, and operate large-scale distributed data platforms that support real-time and near real-time analytics across PlayStation. You will solve complex distributed systems challenges, evolve our streaming and analytics architecture, integrate AI-powered platform capabilities, and improve scalability, reliability, performance, and developer productivity.&lt;/span&gt;&lt;/p&gt;\n&lt;p style=&quot;color: !important;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;We’re looking for someone who is passionate about distributed systems, real-time analytics, and building scalable data platforms. You will work closely with Engineering, Product, Infrastructure, Security, and Data Engineering teams to shape technical strategy, influence architecture across organizations, mentor engineers, and help drive the long-term evolution of PlayStation’s data platform.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;\n&lt;h2&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;·&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #000000;&quot;&gt;Design, build, and operate large-scale distributed data systems that power real-time and near real-time analytics,, and data-driven applications across PlayStation.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;·&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #000000;&quot;&gt;Lead the architecture and evolution of RTAP’s stream processing and analytics platforms, improving scalability, reliability, performance, and developer productivity.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;·&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #000000;&quot;&gt;Own critical platform capabilities end-to-end from architecture and implementation through production operations, performance optimization, reliability, and lifecycle management.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;·&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #000000;&quot;&gt;Build and optimize distributed data services using technologies such as Apache Flink, Spark Structured Streaming, ClickHouse, and Apache Druid to support high-throughput, low-latency workloads.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;·&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #000000;&quot;&gt;Partner with Data Engineering teams to integrate batch and streaming workloads using modern lakehouse architectures and build interoperable, scalable data platforms.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;·&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #000000;&quot;&gt;Build AI-powered capabilities to automate engineering workflows, improve data quality, simplify platform operations, accelerate troubleshooting, and enhance developer productivity.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;·&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #000000;&quot;&gt;Establish technical standards and engineering best practices for distributed systems, stream processing, data modeling, query optimization and platform reliability.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;·&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #000000;&quot;&gt;Mentor engineers across the organization by reviewing architecture, designs, and code while raising the technical bar through coaching and technical leadership.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;·&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #000000;&quot;&gt;Partner with Product, Infrastructure, Security, and Platform Engineering teams to define long-term technical strategy and deliver scalable platform capabilities aligned with business priorities.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;·&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #000000;&quot;&gt;Investigate and resolve complex production challenges involving high-throughput, low-latency distributed systems, ensuring high availability and operational excellence.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;·&lt;/span&gt;&amp;nbsp;&lt;span style=&quot;color: #000000;&quot;&gt; Participate in the team&#39;s production support and on-call rotation, leading incident response, conducting root-cause analysis, and implementing reliability improvements that strengthen the platform over time&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;·&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #000000;&quot;&gt;Evaluate emerging technologies and distributed data platforms, recommending investments that improve scalability, reliability, developer productivity, and cost efficiency.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;\n&lt;h2&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;strong&gt;Requirements&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;·&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #000000;&quot;&gt;Bachelor’s degree in Computer Science, Engineering, or a related technical field, or equivalent practical experience.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;·&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #000000;&quot;&gt;8+ years of experience designing and building large-scale distributed systems, with expertise in real-time data processing, analytics, or data platform engineering.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;·&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #000000;&quot;&gt;Strong proficiency in &lt;strong&gt;Python&lt;/strong&gt;, with experience building production-grade distributed systems and data processing applications. Experience with &lt;strong&gt;Scala&lt;/strong&gt; is beneficial for supporting and evolving existing platform components.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;·&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #000000;&quot;&gt;Hands-on expertise designing and operating large-scale stream processing applications using &lt;strong&gt;Apache Flink&lt;/strong&gt;, &lt;strong&gt;Apache Spark Structured Streaming&lt;/strong&gt;, or equivalent distributed streaming technologies.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;·&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #000000;&quot;&gt;Production experience designing, operating, and optimizing distributed analytics platforms using &lt;strong&gt;ClickHouse&lt;/strong&gt;, &lt;strong&gt;Apache Druid&lt;/strong&gt;, or equivalent high-performance OLAP/analytics databases, including query optimization, data modeling, and performance tuning at scale.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;·&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #000000;&quot;&gt;Experience building and consuming event-driven data pipelines using &lt;strong&gt;AWS MSK&lt;/strong&gt;, &lt;strong&gt;Apache Kafka&lt;/strong&gt;, or equivalent messaging platforms, with a focus on developing reliable, scalable data processing applications.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;·&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #000000;&quot;&gt;Experience applying &lt;strong&gt;AI/ML techniques and modern AI tooling&lt;/strong&gt; to automate engineering workflows, improve data pipelines, simplify platform operations, and enhance developer productivity.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;·&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #000000;&quot;&gt;Strong systems design skills with the ability to evaluate architectural trade-offs across scalability, latency, throughput, consistency, reliability, and cost.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;·&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #000000;&quot;&gt;Demonstrated technical leadership through architecture ownership, mentoring engineers, and influencing technical decisions across multiple teams.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;\n&lt;h2&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;strong&gt;Nice to Have&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;·&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #000000;&quot;&gt;Experience with &lt;strong&gt;Databricks&lt;/strong&gt;, &lt;strong&gt;Apache Iceberg&lt;/strong&gt;, or modern lakehouse architectures, with the ability to design and integrate batch and streaming workloads into scalable, production-grade data platforms.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;·&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #000000;&quot;&gt;Experience building or operating &lt;strong&gt;multi-tenant, self-service data platforms&lt;/strong&gt; supporting multiple engineering organizations.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;·&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #000000;&quot;&gt;Experience collaborating with globally distributed engineering teams across multiple organizations and time zones to deliver shared platform capabilities and drive technical alignment.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;strong&gt;Your First 90 Days&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;strong&gt;30 Days:&lt;/strong&gt; Develop a strong understanding of the platform’s architecture, capabilities, engineering practices, and roadmap.Begin contributing to architecture discussions, feature development, design reviews, and production support.Build relationships within the team as well as across&amp;nbsp; the Data Platform organization.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;strong&gt;60 Days:&lt;/strong&gt; Take technical ownership of a major platform capability or architectural area.&lt;br&gt;Identify opportunities to improve scalability, performance, reliability, or developer productivity.Collaborate with Data Engineering, Infrastructure, Product, and other partner teams on cross-platform initiatives.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;strong&gt;90 Days:&lt;/strong&gt; Lead the design and delivery of key roadmap initiatives for the team..Influence technical direction across teams and mentor engineers on distributed systems and platform engineering best practices.Establish clear architectural recommendations for the next phase of the platform’s evolution.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;In 90 days, you will have a detailed understanding of the &lt;strong&gt;Real-Time Analytics Platform&lt;/strong&gt; and its role within PlayStation’s broader data ecosystem. You will be comfortable owning complex distributed systems initiatives, partnering closely with Product and Engineering teams, and driving large-scale solutions from architecture through production delivery.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;At SIE, we consider several factors when setting each role’s base pay range, including the competitive benchmarking data for the market and geographic location.&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;br&gt;Please note that the base pay range may vary in line with our hybrid working policy and individual base pay will be determined based on job-related factors which may include knowledge, skills, experience, and location.&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;br&gt;In addition, this role &lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;is eligible&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; for SIE’s top-tier benefits package that includes medical, dental, vision, matching 401(k), paid time off, wellness program and coveted employee discounts for Sony products. &lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;This role also may be eligible for a bonus package.&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; Click&amp;nbsp;&lt;/span&gt;&lt;a href=&quot;https://careers.playstation.com/benefits&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; to learn more.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;The estimated base pay range for this role is listed below.&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$198,200&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$297,400 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p class=&quot;p1&quot;&gt;Please note, Sony Interactive Entertainment conducts background checks at the offer stage for all new employees (which may include criminal background checks for some roles) and will need to process personal information to support these checks.&lt;/p&gt;\n&lt;p class=&quot;p1&quot;&gt;Please refer to our&amp;nbsp;&lt;a href=&quot;https://www.playstation.com/legal/careers-privacy-notice/&quot; target=&quot;_blank&quot;&gt;Candidate Privacy Notice&lt;/a&gt;&amp;nbsp;for more information about what personal information we collect, how we use it, who we share it with, and your data protection rights.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Equal Opportunity Statement:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Sony is an Equal Opportunity Employer. All persons will receive consideration for employment without regard to gender (including gender identity, gender expression and gender reassignment), race (including colour, nationality, ethnic or national origin), religion or belief, marital or civil partnership status, disability, age, sexual orientation, pregnancy, maternity or parental status, trade union membership or membership in any other legally protected category.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;We strive to create an inclusive environment, empower employees and embrace diversity. We encourage everyone to respond.&amp;nbsp;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Sony Interactive Entertainment is a Fair Chance employer and qualified applicants with arrest and conviction records will be considered for employment.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4065072004,
+      "name": "Information Capital and Data Services (ICDS)",
+      "child_ids": [],
+      "parent_id": 4065067004
+    }
+  ],
+  "offices": [
+    {
+      "id": 4012032004,
+      "name": "USA-CA-San Diego-Via Esprillo",
+      "location": "California, United States",
+      "child_ids": [],
+      "parent_id": 4089335004
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

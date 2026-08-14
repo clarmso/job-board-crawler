@@ -43,7 +43,7 @@
       "id": 4137836,
       "name": "Working Model Eligibility",
       "value": [
-        "3-Fully Remote"
+        "2-Flexible"
       ],
       "value_type": "multi_select"
     },
@@ -74,13 +74,21 @@
     {
       "id": 5525802,
       "name": "Baseline Budgeted Salary",
-      "value": null,
+      "value": {
+        "unit": "USD",
+        "max_value": "160000.0",
+        "min_value": "112000.0"
+      },
       "value_type": "currency_range"
     },
     {
       "id": 5525816,
       "name": "Other Large Market Budgeted Salary",
-      "value": null,
+      "value": {
+        "unit": "USD",
+        "max_value": "136000.0",
+        "min_value": "95000.0"
+      },
       "value_type": "currency_range"
     },
     {
@@ -117,7 +125,7 @@
     }
   ],
   "id": 8030936,
-  "updated_at": "2026-08-12T11:27:25-04:00",
+  "updated_at": "2026-08-13T10:00:25-04:00",
   "requisition_id": "2273481393",
   "title": "Technical Services Engineer, 1st shift (Weekend)",
   "company_name": "MongoDB",
@@ -135,9 +143,9 @@
   ],
   "offices": [
     {
-      "id": 95825,
-      "name": "Remote New York",
-      "location": "New York, United States",
+      "id": 3960,
+      "name": "New York City",
+      "location": "New York, NY, United States",
       "child_ids": [],
       "parent_id": 23657
     }
