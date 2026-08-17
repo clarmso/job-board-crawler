@@ -1,0 +1,112 @@
+{
+  "id": "744000143858889",
+  "name": "Team Lead, People Operations – Recruitment & Onboarding, AMS ",
+  "uuid": "04dd4bd0-f0ab-4940-a16b-cfa4279d653b",
+  "jobAdId": "2693e32c-b41c-4976-af4d-bf9910481183",
+  "defaultJobAd": true,
+  "refNumber": "JB0074687",
+  "company": {
+    "identifier": "ServiceNow",
+    "name": "ServiceNow"
+  },
+  "releasedDate": "2026-08-17T14:45:33.284Z",
+  "location": {
+    "city": "San Francisco de Heredia",
+    "country": "cr",
+    "address": "America Free Zone, 600 Norte de Plaza Real Cariairi  Calle 11, L4 & L5, C11",
+    "postalCode": "40103",
+    "remote": false,
+    "hybrid": true,
+    "hybridDescription": "3x a week in office",
+    "fullLocation": "San Francisco de Heredia, , Costa Rica"
+  },
+  "industry": {
+    "id": "it_and_services",
+    "label": "Information Technology And Services"
+  },
+  "department": {
+    "id": "2294106",
+    "label": "Human Resources"
+  },
+  "function": {
+    "id": "human_resources",
+    "label": "Human Resources"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "customField": [
+    {
+      "fieldId": "60345fa28b4ba8595bef1863",
+      "fieldLabel": "Recruiting Team",
+      "valueId": "professional",
+      "valueLabel": "Professional"
+    },
+    {
+      "fieldId": "60345d5c5165a31b17288279",
+      "fieldLabel": "Region",
+      "valueId": "c07e4bb2ef75103f5710e95052af2b21",
+      "valueLabel": "LATAM - Latin America"
+    },
+    {
+      "fieldId": "6034601b43915a29a4b3389b",
+      "fieldLabel": "Job Location",
+      "valueId": "L_SYQ002",
+      "valueLabel": "America Free Zone, 600 Norte de Plaza Real Cariairi, San Francisco de Heredia, 40103, Costa Rica(L_SYQ002)"
+    },
+    {
+      "fieldId": "60345e1a0b24a127cbdfa148",
+      "fieldLabel": "Employee Type",
+      "valueId": "0082f6cbe6154da19322cbab1f6aa5af",
+      "valueLabel": "Regular"
+    },
+    {
+      "fieldId": "5f63a78f1dae5c5c4e54ba2b",
+      "fieldLabel": "Department",
+      "valueId": "2294106",
+      "valueLabel": "Human Resources"
+    },
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "cr",
+      "valueLabel": "Costa Rica"
+    },
+    {
+      "fieldId": "5f63a78f1dae5c5c4e54ba2a",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "ServiceNow"
+    },
+    {
+      "fieldId": "603462175165a31b1728827d",
+      "fieldLabel": "Cost Center",
+      "valueId": "CC5826",
+      "valueLabel": "5826 PEC - Costa Rica"
+    },
+    {
+      "fieldId": "618ed92b8f5e5f110e5bfb95",
+      "fieldLabel": "Work Persona",
+      "valueId": "bf7551c6-9b06-4e7c-8217-3baf43edd060",
+      "valueLabel": "Flexible"
+    },
+    {
+      "fieldId": "690cc0e8c682c3dbadaa7d73",
+      "fieldLabel": "Job Posting Type",
+      "valueId": "professional",
+      "valueLabel": "Professional"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/ServiceNow/postings/744000143858889",
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

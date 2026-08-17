@@ -18,7 +18,7 @@
     {
       "id": 22194060,
       "name": "Position ID",
-      "value": "T10005822",
+      "value": "10005822",
       "value_type": "short_text"
     },
     {
@@ -74,13 +74,21 @@
     {
       "id": 5525802,
       "name": "Baseline Budgeted Salary",
-      "value": null,
+      "value": {
+        "unit": "USD",
+        "max_value": "245000.0",
+        "min_value": "171000.0"
+      },
       "value_type": "currency_range"
     },
     {
       "id": 5525816,
       "name": "Other Large Market Budgeted Salary",
-      "value": null,
+      "value": {
+        "unit": "USD",
+        "max_value": "208000.0",
+        "min_value": "146000.0"
+      },
       "value_type": "currency_range"
     },
     {
@@ -117,7 +125,7 @@
     }
   ],
   "id": 8072501,
-  "updated_at": "2026-08-12T11:27:25-04:00",
+  "updated_at": "2026-08-17T18:50:54-04:00",
   "requisition_id": "2273497608",
   "title": "Head of Revenue Accounting & Order to Cash",
   "company_name": "MongoDB",

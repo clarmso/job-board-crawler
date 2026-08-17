@@ -74,13 +74,21 @@
     {
       "id": 5525802,
       "name": "Baseline Budgeted Salary",
-      "value": null,
+      "value": {
+        "unit": "EUR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
       "value_type": "currency_range"
     },
     {
       "id": 5525816,
       "name": "Other Large Market Budgeted Salary",
-      "value": null,
+      "value": {
+        "unit": "EUR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
       "value_type": "currency_range"
     },
     {
@@ -121,9 +129,9 @@
     }
   ],
   "id": 8109295,
-  "updated_at": "2026-08-12T11:27:25-04:00",
+  "updated_at": "2026-08-17T14:27:22-04:00",
   "requisition_id": "3273512884",
-  "title": "Principal Consulting Engineer",
+  "title": "Senior Consulting Engineer",
   "company_name": "MongoDB",
   "first_published": "2026-08-10T11:35:47-04:00",
   "language": "en",

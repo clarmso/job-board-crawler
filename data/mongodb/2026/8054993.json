@@ -84,7 +84,11 @@
     {
       "id": 5525816,
       "name": "Other Large Market Budgeted Salary",
-      "value": null,
+      "value": {
+        "unit": "USD",
+        "max_value": "162000.0",
+        "min_value": "113000.0"
+      },
       "value_type": "currency_range"
     },
     {
@@ -101,9 +105,9 @@
       "id": 40497768,
       "name": "Job Post Range (Canada)",
       "value": {
-        "unit": "CAD",
-        "max_value": "170000.0",
-        "min_value": "122000.0"
+        "unit": "USD",
+        "max_value": "0.0",
+        "min_value": "0.0"
       },
       "value_type": "currency_range"
     },
@@ -121,7 +125,7 @@
     }
   ],
   "id": 8054993,
-  "updated_at": "2026-08-12T11:27:25-04:00",
+  "updated_at": "2026-08-17T14:27:22-04:00",
   "requisition_id": "2273491036",
   "title": "Software Engineer 3, Documentation Platform",
   "company_name": "MongoDB",
@@ -139,9 +143,9 @@
   ],
   "offices": [
     {
-      "id": 3960,
-      "name": "New York City",
-      "location": "New York, NY, United States",
+      "id": 6280,
+      "name": "San Diego",
+      "location": "San Diego, CA, United States",
       "child_ids": [],
       "parent_id": 23657
     }

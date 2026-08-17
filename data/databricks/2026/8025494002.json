@@ -18,7 +18,7 @@
     {
       "id": 9740521002,
       "name": "Company Assignment",
-      "value": "Databricks Sweden AB",
+      "value": "Databricks Denmark ApS",
       "value_type": "single_select"
     },
     {
@@ -31,7 +31,7 @@
     }
   ],
   "id": 8025494002,
-  "updated_at": "2026-08-11T14:54:32-04:00",
+  "updated_at": "2026-08-17T09:00:57-04:00",
   "requisition_id": "FEQ326R286",
   "title": "Senior Solutions Engineer",
   "company_name": "Databricks",
@@ -49,11 +49,14 @@
   ],
   "offices": [
     {
-      "id": 4059151002,
-      "name": "Stockholm, Sweden",
-      "location": "Stockholm, Sweden",
-      "child_ids": [],
-      "parent_id": 4039463002
+      "id": 4018697002,
+      "name": "Denmark",
+      "location": "Denmark",
+      "child_ids": [
+        4088148002,
+        4086869002
+      ],
+      "parent_id": 4000548002
     }
   ],
   "ai_disclaimer": null,
