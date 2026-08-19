@@ -1,0 +1,108 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6141158004",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": true,
+      "requires_processing_consent": false,
+      "requires_retention_consent": true,
+      "retention_period": 1460,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 5198907004,
+  "location": {
+    "name": "United States, San Diego, CA"
+  },
+  "metadata": [
+    {
+      "id": 4367803004,
+      "name": "Cost Center",
+      "value": "GAMES4US70-USL3950167 Product Ops Engineering",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167524004,
+      "name": "Career Page - Office Location",
+      "value": "United States, San Diego, CA",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167525004,
+      "name": "Career Page - Department",
+      "value": "Software Engineering & Services",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9377282004,
+      "name": "Career Page - Sub Department",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 20089613004,
+      "name": "Career Page - Studio Project",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 4395289004,
+      "name": "Worker Type",
+      "value": "Employee",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4404049004,
+      "name": "Country",
+      "value": "United States of America",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9262269004,
+      "name": "Job Family",
+      "value": "Site Reliability Engineering",
+      "value_type": "short_text"
+    },
+    {
+      "id": 9262270004,
+      "name": "Job Family Group",
+      "value": "Engineering",
+      "value_type": "short_text"
+    },
+    {
+      "id": 21724118004,
+      "name": "Bungie Geo Pay",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 6141158004,
+  "updated_at": "2026-08-19T19:16:20-04:00",
+  "requisition_id": "R-125020",
+  "title": "Senior Production Operations Engineer ",
+  "company_name": "PlayStation Global",
+  "first_published": "2026-08-19T18:30:51-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Why Sony Interactive Entertainment?&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Sony Interactive Entertainment isn’t just the Best Place to Play — it’s also the Best Place to Work. Sony Interactive Entertainment (SIE) is the company behind the PlayStation brand. As a subsidiary of Sony Group Corporation, we’re part of a proud legacy of innovation and excellence. SIE is a dynamic technology company, delivering cutting-edge hardware and network services to more than 100 million people and an entertainment leader, home to some of the most beloved and recognizable intellectual properties (IP) in the world. Our role at SIE is to create and nurture the experiences under the PlayStation brand, a name synonymous with entertainment excellence and creativity.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;As a member of the Production Operations Engineering team within the platform technology group, you will help keep key user experiences on the platform available, resilient and high performing across time zones and critical business periods, while continually enabling our service teams to deliver new and exciting products and technical features. The team is trusted to respond when production services need support, including through rotational on-call, incident response and urgent operational escalations. You will be empowered to drive and lead technical initiatives, helping identify and proactively drive improvements in process, technology and production operations supporting millions of users.&lt;/p&gt;\n&lt;p&gt;This senior individual contributor role operates at P4 scope: highly independent, hands-on, influential across partner teams, and accountable for meaningful production operations capabilities. The ideal candidate brings deep production experience, strong automation instincts, modern cloud/container operations expertise, and curiosity for using AI-assisted engineering workflows to improve operational quality and delivery speed.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Responsibilities:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Own application operations and production support for internal and public-facing services in AWS and container environments, with focus on availability, resiliency, scalability, performance and security.&lt;/li&gt;\n&lt;li&gt;Drive production readiness for new services and features, including provisioning, automation, monitoring, alerting, dashboards, runbooks, rollback planning and operational acceptance criteria.&lt;/li&gt;\n&lt;li&gt;Build scripts, tools and repeatable workflows that reduce toil, improve incident response, and standardize operational practices across the environment.&lt;/li&gt;\n&lt;li&gt;Improve observability and event correlation across the platform using actionable service health signals, dashboards, alerts and incident workflows that reduce MTTD and MTTR.&lt;/li&gt;\n&lt;li&gt;Support and improve incident management practices using tools such as Slack, JIRA, ServiceNow, BigPanda and related escalation/notification systems.&lt;/li&gt;\n&lt;li&gt;Partner with SRE, data services, CI/CD, service engineering, platform hosting and product teams to improve end-to-end reliability and operational readiness.&lt;/li&gt;\n&lt;li&gt;Drive performance, capacity and cost optimization for services using AWS, Kubernetes, EKS/UKS, autoscaling and related cloud patterns.&lt;/li&gt;\n&lt;li&gt;Use AI-assisted and agentic engineering tools, such as Codex, Claude, Cursor or similar, to accelerate development, operational automation and production-signal analysis where appropriate.&lt;/li&gt;\n&lt;li&gt;Provide rotational on-call support, lead incident triage/mitigation, and document post-incident reviews with corrective actions and prevention opportunities.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Key Qualifications:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Senior hands-on engineer equally comfortable with software development, systems engineering and production operations.&lt;/li&gt;\n&lt;li&gt;Proven ability to operate distributed services at scale while automating toil, improving processes and raising production readiness standards.&lt;/li&gt;\n&lt;li&gt;Strong troubleshooting depth across user experience, application runtime, Linux, infrastructure, cloud, Kubernetes/EKS/UKS and network layers.&lt;/li&gt;\n&lt;li&gt;Highly independent technical leader who uses sound judgment, mentors less experienced engineers and drives follow-through during incidents.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Required Skills:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Distributed service operations, Unix/Linux systems internals, networking, TCP/IP, HTTP/HTTPS, DNS, load balancing and API troubleshooting.&lt;/li&gt;\n&lt;li&gt;AWS service operations, including ALB, Route 53, API Gateway, Lambda, RDS, DynamoDB, ElastiCache and Java/API services.&lt;/li&gt;\n&lt;li&gt;Containers and orchestration, including Docker, Kubernetes, EKS/UKS and Fargate.&lt;/li&gt;\n&lt;li&gt;Automation and software development in Python, Go or Java; source control and configuration management using GitHub/Git, Ansible, Chef or similar.&lt;/li&gt;\n&lt;li&gt;Infrastructure as Code and CI/CD using Terraform, CloudFormation, Jenkins, Spinnaker or comparable tooling.&lt;/li&gt;\n&lt;li&gt;Observability, incident management and collaboration tooling such as Datadog, CloudWatch, Splunk, Grafana, BigPanda, Slack, JIRA and ServiceNow.&lt;/li&gt;\n&lt;li&gt;Strong communication skills with the ability to adjust messaging by audience, translate complex technical issues for cross-functional business partners, and articulate both technical detail and customer/business impact.&lt;/li&gt;\n&lt;li&gt;Data reporting, analytics or operational data platforms such as SQL, MySQL, Oracle, Snowflake or big data systems.&lt;/li&gt;\n&lt;li&gt;AI-assisted development or agentic engineering workflow experience using tools such as Codex, Claude, Cursor or similar.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Experience:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;BS degree or equivalent in Computer Science, Software Engineering or related technical area,&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;5+ years operating and supporting services in production environments at scale.&lt;/li&gt;\n&lt;li&gt;3+ years AWS Cloud experience deploying, tuning and operating Java/API services.&lt;/li&gt;\n&lt;li&gt;Hands-on incident management experience, including on-call, incident coordination, stakeholder communications, RCA and corrective-action tracking.&lt;/li&gt;\n&lt;li&gt;Payment processing, commerce, entitlement, wallet, fraud or financial systems experience is a plus.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;At SIE, we consider several factors when setting each role’s base pay range, including the competitive benchmarking data for the market and geographic location.&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;br&gt;Please note that the base pay range may vary in line with our hybrid working policy and individual base pay will be determined based on job-related factors which may include knowledge, skills, experience, and location.&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;br&gt;In addition, this role &lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;is eligible&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; for SIE’s top-tier benefits package that includes medical, dental, vision, matching 401(k), paid time off, wellness program and coveted employee discounts for Sony products. &lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;This role also may be eligible for a bonus package.&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; Click&amp;nbsp;&lt;/span&gt;&lt;a href=&quot;https://careers.playstation.com/benefits&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; to learn more.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;The estimated base pay range for this role is listed below.&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$172,100&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$258,100 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p class=&quot;p1&quot;&gt;Please note, Sony Interactive Entertainment conducts background checks at the offer stage for all new employees (which may include criminal background checks for some roles) and will need to process personal information to support these checks.&lt;/p&gt;\n&lt;p class=&quot;p1&quot;&gt;Please refer to our&amp;nbsp;&lt;a href=&quot;https://www.playstation.com/legal/careers-privacy-notice/&quot; target=&quot;_blank&quot;&gt;Candidate Privacy Notice&lt;/a&gt;&amp;nbsp;for more information about what personal information we collect, how we use it, who we share it with, and your data protection rights.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Equal Opportunity Statement:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Sony is an Equal Opportunity Employer. All persons will receive consideration for employment without regard to gender (including gender identity, gender expression and gender reassignment), race (including colour, nationality, ethnic or national origin), religion or belief, marital or civil partnership status, disability, age, sexual orientation, pregnancy, maternity or parental status, trade union membership or membership in any other legally protected category.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;We strive to create an inclusive environment, empower employees and embrace diversity. We encourage everyone to respond.&amp;nbsp;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Sony Interactive Entertainment is a Fair Chance employer and qualified applicants with arrest and conviction records will be considered for employment.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4065075004,
+      "name": "Global Services Operations and DTIS Office",
+      "child_ids": [],
+      "parent_id": 4065067004
+    }
+  ],
+  "offices": [
+    {
+      "id": 4012032004,
+      "name": "USA-CA-San Diego-Via Esprillo",
+      "location": "California, United States",
+      "child_ids": [],
+      "parent_id": 4089335004
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

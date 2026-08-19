@@ -70,15 +70,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "4a766f77-d4a6-407b-b556-3eab3e47ec75",
-            "summary": "Offers Commission",
-            "compensationType": "Commission",
-            "interval": "1 YEAR",
-            "currencyCode": "CAD",
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "afa00b4f-c813-444a-bb62-05ff0deafd92",
             "summary": "CA$50K",
             "compensationType": "Salary",
@@ -86,6 +77,15 @@
             "currencyCode": "CAD",
             "minValue": 50000,
             "maxValue": 50000
+          },
+          {
+            "id": "4a766f77-d4a6-407b-b556-3eab3e47ec75",
+            "summary": "Offers Commission",
+            "compensationType": "Commission",
+            "interval": "1 YEAR",
+            "currencyCode": "CAD",
+            "minValue": null,
+            "maxValue": null
           }
         ]
       }

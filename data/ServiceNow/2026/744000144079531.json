@@ -1,0 +1,112 @@
+{
+  "id": "744000144079531",
+  "name": "Senior Technical Consultant (Technical Architect), Core Business Workflows",
+  "uuid": "8da93556-f705-4795-a215-1efe4de0e2bd",
+  "jobAdId": "251a5d4b-dbd9-4e35-993d-b12e85288dae",
+  "defaultJobAd": false,
+  "refNumber": "JB0074745",
+  "company": {
+    "identifier": "ServiceNow",
+    "name": "ServiceNow"
+  },
+  "releasedDate": "2026-08-18T13:50:15.345Z",
+  "location": {
+    "city": "Bangalore",
+    "region": "Karnataka",
+    "country": "in",
+    "address": "The Fairway 6th Floor, Survey No 10/1, 11/2 and 12/2B, Challaghatta Next to Embassy Golf Links, Domlur",
+    "postalCode": "560071",
+    "remote": false,
+    "hybrid": false,
+    "fullLocation": "Bangalore, Karnataka, India"
+  },
+  "industry": {
+    "id": "it_and_services",
+    "label": "Information Technology And Services"
+  },
+  "department": {
+    "id": "11717291",
+    "label": "Customer Excellence HQ"
+  },
+  "function": {
+    "id": "consulting",
+    "label": "Consulting"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "not_applicable",
+    "label": "Not Applicable"
+  },
+  "customField": [
+    {
+      "fieldId": "60345fa28b4ba8595bef1863",
+      "fieldLabel": "Recruiting Team",
+      "valueId": "professional",
+      "valueLabel": "Professional"
+    },
+    {
+      "fieldId": "60345d5c5165a31b17288279",
+      "fieldLabel": "Region",
+      "valueId": "858884996eea4a49baa6231279f39054",
+      "valueLabel": "APAC - Asia Pacific"
+    },
+    {
+      "fieldId": "6034601b43915a29a4b3389b",
+      "fieldLabel": "Job Location",
+      "valueId": "L_MUM004",
+      "valueLabel": "Plot No C-54 & C-55, G Block, Mumbai, Maharashtra, 400051, India(L_MUM004)"
+    },
+    {
+      "fieldId": "60345e1a0b24a127cbdfa148",
+      "fieldLabel": "Employee Type",
+      "valueId": "0082f6cbe6154da19322cbab1f6aa5af",
+      "valueLabel": "Regular"
+    },
+    {
+      "fieldId": "5f63a78f1dae5c5c4e54ba2b",
+      "fieldLabel": "Department",
+      "valueId": "11717291",
+      "valueLabel": "Customer Excellence HQ"
+    },
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "in",
+      "valueLabel": "India"
+    },
+    {
+      "fieldId": "5f63a78f1dae5c5c4e54ba2a",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "ServiceNow"
+    },
+    {
+      "fieldId": "603462175165a31b1728827d",
+      "fieldLabel": "Cost Center",
+      "valueId": "CC2750",
+      "valueLabel": "2750 Expert Services PLD HR"
+    },
+    {
+      "fieldId": "618ed92b8f5e5f110e5bfb95",
+      "fieldLabel": "Work Persona",
+      "valueId": "bf7551c6-9b06-4e7c-8217-3baf43edd060",
+      "valueLabel": "Flexible"
+    },
+    {
+      "fieldId": "690cc0e8c682c3dbadaa7d73",
+      "fieldLabel": "Job Posting Type",
+      "valueId": "professional",
+      "valueLabel": "Professional"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/ServiceNow/postings/744000144079531",
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

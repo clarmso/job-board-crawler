@@ -8,6 +8,14 @@
   "shouldDisplayCompensationOnJobPostings": false,
   "secondaryLocations": [
     {
+      "location": "Europe",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "European Union"
+        }
+      }
+    },
+    {
       "location": "Canada",
       "address": {
         "postalAddress": {

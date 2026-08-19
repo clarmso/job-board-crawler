@@ -74,20 +74,28 @@
     {
       "id": 5525802,
       "name": "Baseline Budgeted Salary",
-      "value": null,
+      "value": {
+        "unit": "GBP",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
       "value_type": "currency_range"
     },
     {
       "id": 5525816,
       "name": "Other Large Market Budgeted Salary",
-      "value": null,
+      "value": {
+        "unit": "GBP",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
       "value_type": "currency_range"
     },
     {
       "id": 13324394,
       "name": "Job Post Range (United States)",
       "value": {
-        "unit": "EUR",
+        "unit": "GBP",
         "max_value": "0.0",
         "min_value": "0.0"
       },
@@ -97,7 +105,7 @@
       "id": 40497768,
       "name": "Job Post Range (Canada)",
       "value": {
-        "unit": "EUR",
+        "unit": "GBP",
         "max_value": "0.0",
         "min_value": "0.0"
       },
@@ -121,7 +129,7 @@
     }
   ],
   "id": 8127859,
-  "updated_at": "2026-08-17T14:27:22-04:00",
+  "updated_at": "2026-08-19T12:00:14-04:00",
   "requisition_id": "3273514642",
   "title": "Senior Consulting Engineer",
   "company_name": "MongoDB",
@@ -139,9 +147,9 @@
   ],
   "offices": [
     {
-      "id": 95771,
-      "name": "Remote Italy",
-      "location": "Italy",
+      "id": 3963,
+      "name": "London",
+      "location": "London, United Kingdom",
       "child_ids": [],
       "parent_id": 23658
     }

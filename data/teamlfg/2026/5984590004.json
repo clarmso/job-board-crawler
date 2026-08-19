@@ -24,7 +24,7 @@
     {
       "id": 4167524004,
       "name": "Career Page - Office Location",
-      "value": "United States, Bellevue, WA",
+      "value": "United States, Remote",
       "value_type": "single_select"
     },
     {
@@ -77,7 +77,7 @@
     }
   ],
   "id": 5984590004,
-  "updated_at": "2026-08-12T19:47:31-04:00",
+  "updated_at": "2026-08-18T19:17:21-04:00",
   "requisition_id": "R-123969",
   "title": "3D Character Art Lead",
   "company_name": "teamLFG",
@@ -95,12 +95,10 @@
   ],
   "offices": [
     {
-      "id": 4046556004,
-      "name": "USA-WA-Bellevue-106th Ave",
-      "location": "Bellevue, Washington, United States",
-      "child_ids": [
-        4076523004
-      ],
+      "id": 4023537004,
+      "name": "USA-WA-Telecommute",
+      "location": "Washington, United States",
+      "child_ids": [],
       "parent_id": 4094639004
     }
   ],

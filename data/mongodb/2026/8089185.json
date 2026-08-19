@@ -75,25 +75,29 @@
       "id": 5525802,
       "name": "Baseline Budgeted Salary",
       "value": {
-        "unit": "USD",
-        "max_value": "270000.0",
-        "min_value": "189000.0"
+        "unit": "CAD",
+        "max_value": "0.0",
+        "min_value": "0.0"
       },
       "value_type": "currency_range"
     },
     {
       "id": 5525816,
       "name": "Other Large Market Budgeted Salary",
-      "value": null,
+      "value": {
+        "unit": "CAD",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
       "value_type": "currency_range"
     },
     {
       "id": 13324394,
       "name": "Job Post Range (United States)",
       "value": {
-        "unit": "USD",
-        "max_value": "297000.0",
-        "min_value": "151000.0"
+        "unit": "CAD",
+        "max_value": "0.0",
+        "min_value": "0.0"
       },
       "value_type": "currency_range"
     },
@@ -101,9 +105,9 @@
       "id": 40497768,
       "name": "Job Post Range (Canada)",
       "value": {
-        "unit": "USD",
-        "max_value": "0.0",
-        "min_value": "0.0"
+        "unit": "CAD",
+        "max_value": "260000.0",
+        "min_value": "187000.0"
       },
       "value_type": "currency_range"
     },
@@ -121,7 +125,7 @@
     }
   ],
   "id": 8089185,
-  "updated_at": "2026-08-17T14:27:22-04:00",
+  "updated_at": "2026-08-19T13:30:14-04:00",
   "requisition_id": "2273504626",
   "title": "Staff Forward Deployed Engineer",
   "company_name": "MongoDB",
@@ -139,9 +143,9 @@
   ],
   "offices": [
     {
-      "id": 3960,
-      "name": "New York City",
-      "location": "New York, NY, United States",
+      "id": 9444,
+      "name": "Toronto",
+      "location": "Toronto, ON, Canada",
       "child_ids": [],
       "parent_id": 23657
     }

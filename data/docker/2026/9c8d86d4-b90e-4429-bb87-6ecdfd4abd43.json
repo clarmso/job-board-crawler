@@ -41,15 +41,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "4ab9fd4a-b273-45d4-84a8-e965796d4223",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "17650656-ccdb-49c4-9490-ab80856f1786",
             "summary": "EU Salary Range €94,040 – €155,650",
             "compensationType": "Salary",
@@ -57,6 +48,15 @@
             "currencyCode": "EUR",
             "minValue": 94040,
             "maxValue": 155650
+          },
+          {
+            "id": "4ab9fd4a-b273-45d4-84a8-e965796d4223",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           }
         ]
       },
@@ -67,15 +67,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "6a41c765-8f43-4a4f-adc3-e23d9a6dd1fd",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "b236f0e6-6027-444f-a15f-671d12e6a705",
             "summary": "US Salary Range $160,900 – $260,700",
             "compensationType": "Salary",
@@ -83,23 +74,32 @@
             "currencyCode": "USD",
             "minValue": 160900,
             "maxValue": 260700
+          },
+          {
+            "id": "6a41c765-8f43-4a4f-adc3-e23d9a6dd1fd",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           }
         ]
       }
     ],
     "summaryComponents": [
       {
-        "compensationType": "EquityPercentage",
-        "minValue": null,
-        "maxValue": null,
-        "interval": "1 YEAR"
-      },
-      {
         "compensationType": "Salary",
         "interval": "1 YEAR",
         "currencyCode": "EUR",
         "minValue": 94040,
         "maxValue": 155650
+      },
+      {
+        "compensationType": "EquityPercentage",
+        "minValue": null,
+        "maxValue": null,
+        "interval": "1 YEAR"
       }
     ]
   }
