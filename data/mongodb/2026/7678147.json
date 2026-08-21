@@ -43,7 +43,7 @@
       "id": 4137836,
       "name": "Working Model Eligibility",
       "value": [
-        "3-Fully Remote"
+        "2-Flexible"
       ],
       "value_type": "multi_select"
     },
@@ -74,22 +74,30 @@
     {
       "id": 5525802,
       "name": "Baseline Budgeted Salary",
-      "value": null,
+      "value": {
+        "unit": "USD",
+        "max_value": "330000.0",
+        "min_value": "231000.0"
+      },
       "value_type": "currency_range"
     },
     {
       "id": 5525816,
       "name": "Other Large Market Budgeted Salary",
-      "value": null,
+      "value": {
+        "unit": "USD",
+        "max_value": "281000.0",
+        "min_value": "197000.0"
+      },
       "value_type": "currency_range"
     },
     {
       "id": 13324394,
       "name": "Job Post Range (United States)",
       "value": {
-        "unit": "CAD",
-        "max_value": "0.0",
-        "min_value": "0.0"
+        "unit": "USD",
+        "max_value": "363000.0",
+        "min_value": "185000.0"
       },
       "value_type": "currency_range"
     },
@@ -97,9 +105,9 @@
       "id": 40497768,
       "name": "Job Post Range (Canada)",
       "value": {
-        "unit": "CAD",
-        "max_value": "290000.0",
-        "min_value": "209000.0"
+        "unit": "USD",
+        "max_value": "0.0",
+        "min_value": "0.0"
       },
       "value_type": "currency_range"
     },
@@ -117,7 +125,7 @@
     }
   ],
   "id": 7678147,
-  "updated_at": "2026-08-17T14:27:22-04:00",
+  "updated_at": "2026-08-21T15:40:40-04:00",
   "requisition_id": "1273362664",
   "title": "Senior Staff Engineer, AMP",
   "company_name": "MongoDB",
@@ -135,9 +143,9 @@
   ],
   "offices": [
     {
-      "id": 95830,
-      "name": "Remote Ontario",
-      "location": "Ontario, Canada",
+      "id": 4040,
+      "name": "Seattle",
+      "location": "Seattle, WA, United States",
       "child_ids": [],
       "parent_id": 23657
     }

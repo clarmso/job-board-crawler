@@ -30,7 +30,7 @@
     {
       "id": 22194061,
       "name": "Team",
-      "value": "T10353-Technical Services - Core",
+      "value": "T10352-Technical Services - Cloud",
       "value_type": "single_select"
     },
     {
@@ -74,7 +74,11 @@
     {
       "id": 5525802,
       "name": "Baseline Budgeted Salary",
-      "value": null,
+      "value": {
+        "unit": "USD",
+        "max_value": "135000.0",
+        "min_value": "94000.0"
+      },
       "value_type": "currency_range"
     },
     {
@@ -121,7 +125,7 @@
     }
   ],
   "id": 8044218,
-  "updated_at": "2026-08-17T14:27:22-04:00",
+  "updated_at": "2026-08-21T15:40:40-04:00",
   "requisition_id": "2273486567",
   "title": "Associate Technical Services Engineer II",
   "company_name": "MongoDB",

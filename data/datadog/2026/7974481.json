@@ -69,7 +69,7 @@
     }
   ],
   "id": 7974481,
-  "updated_at": "2026-08-19T16:07:00-04:00",
+  "updated_at": "2026-08-20T15:57:49-04:00",
   "requisition_id": "R19310",
   "title": "Senior Product Manager - Search",
   "company_name": "Datadog",
@@ -86,6 +86,13 @@
     }
   ],
   "offices": [
+    {
+      "id": 5455,
+      "name": "Boston",
+      "location": "Boston, MA, United States",
+      "child_ids": [],
+      "parent_id": 78117
+    },
     {
       "id": 5664,
       "name": "New York",

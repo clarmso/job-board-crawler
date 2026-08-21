@@ -1,0 +1,110 @@
+{
+  "absolute_url": "https://careers.datadoghq.com/detail/8141967/?gh_jid=8141967",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 3523681,
+  "location": {
+    "name": "Boston, Massachusetts, USA; New York, New York, USA"
+  },
+  "metadata": [
+    {
+      "id": 33310,
+      "name": "Time Type",
+      "value": "Full time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 166208,
+      "name": "Area - Engineering",
+      "value": "Data & Analytics",
+      "value_type": "single_select"
+    },
+    {
+      "id": 498252,
+      "name": "Cost Center",
+      "value": "Engineering - Dev Eng",
+      "value_type": "single_select"
+    },
+    {
+      "id": 516515,
+      "name": "Geography",
+      "value": "North America",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9593635,
+      "name": "Early Career Time Type",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 29446322,
+      "name": "Pay Transparency Range",
+      "value": {
+        "unit": "USD",
+        "max_value": "240000.0",
+        "min_value": "192000.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 31273219,
+      "name": "Does this role require access to ITAR-controlled data?",
+      "value": "Yes",
+      "value_type": "single_select"
+    },
+    {
+      "id": 58619948,
+      "name": "IC or MG",
+      "value": "IC",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8141967,
+  "updated_at": "2026-08-20T10:33:31-04:00",
+  "requisition_id": "R20696",
+  "title": "Senior Data Engineer - Revenue Data Platform",
+  "company_name": "Datadog",
+  "first_published": "2026-08-20T09:47:35-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;&lt;strong&gt;About Datadog:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We&#39;re on a mission to build the best platform in the world for engineers to understand and scale their systems, applications, and teams. We operate at high scale—trillions of data points per day—allowing for seamless collaboration and problem-solving among Dev, Ops and Security teams globally for tens of thousands of companies. Our engineering culture values pragmatism, honesty, and simplicity to solve hard problems the right way.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;The Team:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;The Revenue Data Engineering Teams designs, builds and runs the data pipelines and helper systems to accurately and in a timely manner quantify our customers’ usage across all Datadog products. This team is at the leading edge of any new product we release.&lt;/p&gt;\n&lt;p&gt;The Revenue Data Processing team builds and operates the data pipelines that does billing, and cost attribution for all Datadog products. We process terabytes of data daily to power revenue-critical systems and are at the center of every new product launch at Datadog.&lt;/p&gt;\n&lt;p&gt;As a Senior Software Engineer, you will own meaningful parts of a large-scale, mission-critical processing platform — driving architectural improvements, building new billing capabilities, and maintaining the high reliability bar our downstream consumers depend on.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;You Will:&lt;/strong&gt;&lt;/p&gt;\n&lt;ol&gt;\n&lt;li&gt;Design and build high-throughput data pipelines for billing and cost attribution&lt;/li&gt;\n&lt;li&gt;Drive platform improvements — latency reduction, Spark optimization, sharding, and cross-datacenter reliability&lt;/li&gt;\n&lt;li&gt;Own root-cause investigations on billing accuracy issues in collaboration with Finance and Product teams&lt;/li&gt;\n&lt;li&gt;Contribute to new billing features&lt;/li&gt;\n&lt;li&gt;Work across Python and Scala, with technologies including Spark, Airflow, Trino, and Apache Iceberg&lt;/li&gt;\n&lt;li&gt;Participate in on-call rotation and maintain a high reliability bar for production systems&lt;/li&gt;\n&lt;li&gt;Contribute to engineering standards and help grow the technical culture of the team&lt;/li&gt;\n&lt;/ol&gt;\n&lt;p&gt;&lt;strong&gt;You Are:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;You have significant experience building and operating production data pipelines at scale using Spark and Airflow&lt;/li&gt;\n&lt;li&gt;You are comfortable owning complex, cross-functional investigations and driving them to resolution&lt;/li&gt;\n&lt;li&gt;You understand how to balance feature delivery with platform health and technical debt&lt;/li&gt;\n&lt;li&gt;You have strong analytical instincts and are rigorous about correctness in data systems&lt;/li&gt;\n&lt;li&gt;You work well in ambiguous environments and can drive alignment across stakeholder teams&lt;/li&gt;\n&lt;li&gt;You care about code quality, maintainability, and operational excellence&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Bonus Points:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Have experience with Apache Iceberg or Lakehouse architectures&lt;/li&gt;\n&lt;li&gt;Have worked on billing, metering, or financial data systems&lt;/li&gt;\n&lt;li&gt;Have experience with low-latency data serving or real-time aggregation pipelines&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;To conform to US export control regulations, candidates should be eligible for any required authorizations from the US government. This job is available in various departments within our company; to conform to US export control regulations, some of these roles may require candidates to be eligible for any required authorizations from the US government.&lt;/p&gt;\n&lt;p style=&quot;color: white;&quot;&gt;#LI-Hybrid&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Datadog offers a competitive salary and equity package, and may include variable compensation. Actual compensation is based on factors such as the candidate&#39;s skills, qualifications, and experience. In addition, Datadog offers a wide range of best in class, comprehensive and inclusive employee benefits for this role including healthcare, dental, parental planning, and mental health benefits, a 401(k) plan and match, paid time off, fitness reimbursements, and a discounted employee stock purchase plan.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;The reasonably estimated yearly salary for this role at Datadog is:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$192,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$240,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;hr&gt;\n&lt;p&gt;&lt;strong&gt;About Datadog:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Datadog is the leading observability and security platform for the AI era, providing businesses with unified visibility across the technology stack to manage complexity at scale. It brings applications, infrastructure, data, models, and security into one place, using AI to detect and resolve issues before they impact customers. Trusted globally by Fortune 500 companies and high-growth AI leaders, Datadog enables businesses to move faster with clarity and confidence. Learn more about #DatadogLife on &lt;a href=&quot;https://www.instagram.com/datadoghq/?hl=en&quot; target=&quot;_blank&quot;&gt;Instagram&lt;/a&gt;, &lt;a href=&quot;https://www.linkedin.com/company/datadog&quot; target=&quot;_blank&quot;&gt;LinkedIn,&lt;/a&gt; and &lt;a href=&quot;https://learn.datadoghq.com/&quot; target=&quot;_blank&quot;&gt;Datadog Learning Center. &lt;/a&gt;&lt;/p&gt;\n&lt;hr&gt;\n&lt;p data-renderer-start-pos=&quot;215&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Equal Opportunity at Datadog:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Datadog is proud to offer &lt;a href=&quot;https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf&quot; target=&quot;_blank&quot;&gt;equal employment opportunity&lt;/a&gt; to everyone regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, veteran status, and other characteristics protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. Here are our &lt;a href=&quot;https://www.datadoghq.com/legal/candidate-legal-notices/&quot; target=&quot;_blank&quot;&gt;Candidate Legal Notices&lt;/a&gt; for your reference.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Datadog endeavors to make our Careers Page accessible to all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please complete &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSeoJeduEZ2NdZF_65uZmWUrCM-zee7yADXX1s6Xr9zAGq8iKA/viewform&quot; target=&quot;_blank&quot;&gt;this form&lt;/a&gt;. This form is for accommodation requests only and cannot be used to inquire about the status of applications.&amp;nbsp;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;662&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Privacy and AI Guidelines:&lt;/strong&gt;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;662&quot;&gt;Any information you submit to Datadog as part of your application will be processed in accordance with Datadog’s&amp;nbsp;&lt;a class=&quot;c-link&quot; href=&quot;https://www.datadoghq.com/legal/applicant-candidate-privacy/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.datadoghq.com/legal/applicant-candidate-privacy/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Applicant and Candidate Privacy Notice&lt;/a&gt;. For information on our AI policy, please visit &lt;a href=&quot;https://www.datadoghq.com/legal/interviewing-at-datadog-ai-guidelines/&quot; target=&quot;_blank&quot;&gt;Interviewing at Datadog AI Guidelines&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 72253,
+      "name": "Dev Eng",
+      "child_ids": [],
+      "parent_id": 9022
+    }
+  ],
+  "offices": [
+    {
+      "id": 5455,
+      "name": "Boston",
+      "location": "Boston, MA, United States",
+      "child_ids": [],
+      "parent_id": 78117
+    },
+    {
+      "id": 5664,
+      "name": "New York",
+      "location": "New York, NY, United States",
+      "child_ids": [
+        81327,
+        76746
+      ],
+      "parent_id": 73429
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

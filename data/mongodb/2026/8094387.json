@@ -1,0 +1,148 @@
+{
+  "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=8094387",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3506536,
+  "location": {
+    "name": "Gurugram"
+  },
+  "metadata": [
+    {
+      "id": 22194060,
+      "name": "Position ID",
+      "value": "10014868",
+      "value_type": "short_text"
+    },
+    {
+      "id": 24918,
+      "name": "Department ID",
+      "value": "D85021-GTM Tech",
+      "value_type": "single_select"
+    },
+    {
+      "id": 22194061,
+      "name": "Team",
+      "value": "387-GTM Tech",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4914027,
+      "name": "Region",
+      "value": "APAC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4137836,
+      "name": "Working Model Eligibility",
+      "value": [
+        "2-Flexible"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 4914029,
+      "name": "Job Level",
+      "value": "Professional - IC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24109,
+      "name": "Employment Type",
+      "value": "Full-time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 1073551,
+      "name": "Job Type",
+      "value": "Standard",
+      "value_type": "single_select"
+    },
+    {
+      "id": 988684,
+      "name": "JD Link",
+      "value": "https://docs.google.com/document/d/1cJW1dfEFHb7yyqiIpHQ4y_raHCNF2B4U7rEr6hc20CY/edit?tab=t.0#heading=h.ca49dqck5bbe",
+      "value_type": "url"
+    },
+    {
+      "id": 5525802,
+      "name": "Baseline Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 5525816,
+      "name": "Other Large Market Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 13324394,
+      "name": "Job Post Range (United States)",
+      "value": {
+        "unit": "INR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 40497768,
+      "name": "Job Post Range (Canada)",
+      "value": {
+        "unit": "INR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 57694516,
+      "name": "Job Post Range (Poland)",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 64002488,
+      "name": "Job Post Range (Italy)",
+      "value": null,
+      "value_type": "currency_range"
+    }
+  ],
+  "id": 8094387,
+  "updated_at": "2026-08-21T15:40:40-04:00",
+  "requisition_id": "2273506536",
+  "title": "Senior Engineer - GTM Tech",
+  "company_name": "MongoDB",
+  "first_published": "2026-08-14T17:21:28-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;h3&gt;About Team&lt;/h3&gt;\n&lt;p&gt;The IT SaaS Engineering Team is the backbone of MongoDB&#39;s go-to-market operations. We build and run the Salesforce platform — with the automation, security, and governance that Sales Operations, Revenue Operations, Security, and Compliance rely on daily to manage customer relationships and drive business growth.&lt;/p&gt;\n&lt;h3&gt;Role Overview&lt;/h3&gt;\n&lt;p&gt;Join us as a Senior Salesforce Engineer and take ownership of the CPQ and CLM systems that power MongoDB&#39;s quote-to-contract lifecycle. You&#39;ll design and build scalable pricing, quoting, and contract automation solutions end-to-end — from first design conversation to production support — working alongside senior engineers and stakeholders across Sales, Deal Desk, and Legal. This is a role for an engineer who enjoys solving hard technical problems, cares deeply about accuracy and compliance in revenue-critical systems, and wants to bring modern, AI-augmented development practices into how enterprise Q2C solutions get built.&lt;/p&gt;\n&lt;h3&gt;What you’ll do&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Design, build, and maintain scalable CPQ configuration (product rules, price rules, bundles, discounting logic) and CLM workflows (clause libraries, approval chains, e-signature integration)&lt;/li&gt;\n&lt;li&gt;Partner with Sales, Deal Desk, Legal, and Finance stakeholders to translate quote-to-cash requirements into secure, maintainable technical solutions&lt;/li&gt;\n&lt;li&gt;Own delivery across the full solution lifecycle — design, development, testing, deployment, documentation, and production support&lt;/li&gt;\n&lt;li&gt;Collaborate with globally distributed engineering teams to deliver reliable, well-governed CPQ/CLM solutions in an Agile environment&lt;/li&gt;\n&lt;li&gt;Drive strong engineering practices across code quality, documentation, release management, and platform governance&lt;/li&gt;\n&lt;li&gt;Identify opportunities to simplify pricing logic, reduce legacy quote template debt, and strengthen the overall Q2C operating model&lt;/li&gt;\n&lt;li&gt;Troubleshoot complex pricing, approval, or contract-generation issues and deliver sustainable, long-term fixes&lt;/li&gt;\n&lt;li&gt;Stay current on CPQ/CLM platform capabilities and apply them thoughtfully to improve delivery quality&lt;/li&gt;\n&lt;li&gt;Leverage AI-powered engineering tools (GitHub Copilot, Salesforce Agentforce Vibes, Claude Code, Cursor) to improve productivity, code quality, and documentation — with sound judgment on security, privacy, and responsible AI usage.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Responsibilities&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Develop, test, document, and deploy high-quality CPQ/CLM solutions aligned with business and compliance needs&lt;/li&gt;\n&lt;li&gt;Support enhancements, break/fix issues, and ongoing maintenance across CPQ, CLM, and related integrations (ERP/billing)&lt;/li&gt;\n&lt;li&gt;Investigate pricing, contract, and integration issues, working closely with development, operations, Deal Desk, and Legal teams to resolve them&lt;/li&gt;\n&lt;li&gt;Communicate clearly with stakeholders on delivery status, technical challenges, and solution trade-offs&lt;/li&gt;\n&lt;li&gt;Manage multiple priorities effectively while ensuring high-quality, timely delivery&lt;/li&gt;\n&lt;li&gt;Research new CPQ/CLM platform capabilities and engineering approaches to improve the Q2C ecosystem&lt;/li&gt;\n&lt;li&gt;Provide mentorship and technical guidance to junior engineers and administrators where needed&lt;/li&gt;\n&lt;li&gt;Contribute to a culture of ownership, collaboration, and continuous improvement&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Minimum Requirements&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Bachelor&#39;s or Master&#39;s degree in Computer Science, Information Systems, or a related field&lt;/li&gt;\n&lt;li&gt;9+ years of experience in Salesforce development and enterprise application engineering, with 3+ years specifically in CPQ and/or CLM implementation&lt;/li&gt;\n&lt;li&gt;Strong hands-on experience with Salesforce CPQ (product/price rules, quote templates, approval processes) and a CLM platform (Malbek, DocuSign CLM, Conga, or similar)&lt;/li&gt;\n&lt;li&gt;Strong hands-on experience with Apex, Lightning Web Components (LWC), JavaScript, Flows, SOQL, APIs, and platform customization&lt;/li&gt;\n&lt;li&gt;Strong understanding of Salesforce architecture, governor limits, declarative automation, integration patterns, and scalable solution design&lt;/li&gt;\n&lt;li&gt;Experience integrating CPQ/CLM with ERP/billing systems (NetSuite preferred)&lt;/li&gt;\n&lt;li&gt;Experience with CI/CD, deployment processes, code refactoring, and performance optimization&lt;/li&gt;\n&lt;li&gt;Salesforce Platform Developer II (PD2) certification strongly preferred; Salesforce CPQ Specialist certification a plus; JavaScript Developer, Advanced Administrator, Application Architect, or System Architect certifications also valued&lt;/li&gt;\n&lt;li&gt;Working knowledge of AI-powered and agentic development tools (Cursor, Claude Code, Salesforce Agentforce Vibes) and the ability to use them effectively to improve productivity and delivery&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Success Measures&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;In 3 months, you will: Develop a strong understanding of MongoDB’s Salesforce ecosystem, business processes, and current implementations by working closely with senior engineers and stakeholders&lt;/li&gt;\n&lt;li&gt;In 6 months, you will: Successfully deliver one or more critical Salesforce initiatives and establish yourself as a trusted technical contributor within the Sales Apps team&lt;/li&gt;\n&lt;li&gt;In 12 months, you will: Become a go-to engineer for key Salesforce solutions, build strong cross-functional partnerships, and contribute meaningfully to the scalability, quality, and long-term evolution of the CRM platform&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;About MongoDB&lt;/h3&gt;\n&lt;p&gt;MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure.&lt;/p&gt;\n&lt;p&gt;With offices worldwide and over 67,000 customers, including 75% of the Fortune 100 and AI-native startups, relying on MongoDB for their most important applications, we’re powering the next era of software.&lt;/p&gt;\n&lt;p&gt;Our compass at MongoDB is our &lt;a href=&quot;https://www.mongodb.com/company&quot;&gt;Leadership Commitment,&lt;/a&gt; guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. &lt;a href=&quot;https://www.mongodb.com/company/blog/culture/employee-benefits-that-make-a-difference-at-mongodb&quot;&gt;From employee affinity groups, to fertility assistance and a generous parental leave policy&lt;/a&gt;, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys.&lt;a href=&quot;https://www.mongodb.com/blog/channel/culture&quot;&gt; Learn more about what it’s like to work at MongoDB&lt;/a&gt;, and help us make an impact on the world!&lt;/p&gt;\n&lt;p&gt;MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.&lt;/p&gt;\n&lt;p&gt;MongoDB is an equal opportunities employer.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;REQ ID: 2273506536&lt;/p&gt;",
+  "departments": [
+    {
+      "id": 289352,
+      "name": "GTM Tech",
+      "child_ids": [],
+      "parent_id": 298006
+    }
+  ],
+  "offices": [
+    {
+      "id": 65909,
+      "name": "Gurugram",
+      "location": "Gurugram, Haryana, India",
+      "child_ids": [],
+      "parent_id": 23659
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": null
+}

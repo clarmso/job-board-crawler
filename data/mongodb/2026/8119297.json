@@ -74,13 +74,21 @@
     {
       "id": 5525802,
       "name": "Baseline Budgeted Salary",
-      "value": null,
+      "value": {
+        "unit": "KRW",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
       "value_type": "currency_range"
     },
     {
       "id": 5525816,
       "name": "Other Large Market Budgeted Salary",
-      "value": null,
+      "value": {
+        "unit": "KRW",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
       "value_type": "currency_range"
     },
     {
@@ -117,7 +125,7 @@
     }
   ],
   "id": 8119297,
-  "updated_at": "2026-08-17T14:27:22-04:00",
+  "updated_at": "2026-08-21T15:40:40-04:00",
   "requisition_id": "3273516745",
   "title": "Advisory / Senior Solutions Architect",
   "company_name": "MongoDB",
@@ -128,9 +136,9 @@
   "departments": [
     {
       "id": 243376,
-      "name": "Solutions Consulting, APAC",
+      "name": "Solutions Architecture, APAC",
       "child_ids": [],
-      "parent_id": 268135
+      "parent_id": 336792
     }
   ],
   "offices": [

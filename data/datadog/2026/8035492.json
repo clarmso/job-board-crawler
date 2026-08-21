@@ -58,7 +58,7 @@
     {
       "id": 31273219,
       "name": "Does this role require access to ITAR-controlled data?",
-      "value": null,
+      "value": "Yes",
       "value_type": "single_select"
     },
     {
@@ -69,7 +69,7 @@
     }
   ],
   "id": 8035492,
-  "updated_at": "2026-08-19T16:07:00-04:00",
+  "updated_at": "2026-08-21T13:58:27-04:00",
   "requisition_id": "R19445",
   "title": "Senior Software Engineer - Streaming Platform Client",
   "company_name": "Datadog",

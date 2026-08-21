@@ -69,7 +69,7 @@
     }
   ],
   "id": 7961297,
-  "updated_at": "2026-08-19T16:07:00-04:00",
+  "updated_at": "2026-08-20T12:52:19-04:00",
   "requisition_id": "R19281",
   "title": "Partner Technology Solutions Engineer",
   "company_name": "Datadog",
@@ -87,11 +87,14 @@
   ],
   "offices": [
     {
-      "id": 76731,
-      "name": "Remote - Florida",
-      "location": "Florida, United States",
-      "child_ids": [],
-      "parent_id": 63588
+      "id": 5664,
+      "name": "New York",
+      "location": "New York, NY, United States",
+      "child_ids": [
+        81327,
+        76746
+      ],
+      "parent_id": 73429
     }
   ],
   "ai_disclaimer": null,

@@ -16,9 +16,9 @@
   },
   "metadata": null,
   "id": 6146921004,
-  "updated_at": "2026-08-19T12:28:18-04:00",
+  "updated_at": "2026-08-21T10:04:29-04:00",
   "requisition_id": "N260262",
-  "title": "Senior Sales Engineer - APAC",
+  "title": "Senior Sales Engineer (Mandarin fluent) - APAC",
   "company_name": "Alpaca ",
   "first_published": "2026-08-19T12:28:18-04:00",
   "language": "en",
@@ -28,9 +28,7 @@
     {
       "id": 4055880004,
       "name": "Customer Success ",
-      "child_ids": [
-        4041731004
-      ],
+      "child_ids": [],
       "parent_id": null
     }
   ],
@@ -39,6 +37,13 @@
       "id": 4025506004,
       "name": "Remote - Asia ",
       "location": "Asia",
+      "child_ids": [],
+      "parent_id": null
+    },
+    {
+      "id": 4111804004,
+      "name": "Remote - Singapore",
+      "location": "Singapore",
       "child_ids": [],
       "parent_id": null
     }

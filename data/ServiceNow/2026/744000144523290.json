@@ -1,0 +1,115 @@
+{
+  "id": "744000144523290",
+  "name": "FSI Advisory Solution Consultant",
+  "uuid": "2f5bc393-8417-4d76-969a-1b060fcec351",
+  "jobAdId": "87d2c4ca-93af-4630-a54d-9d2233a25f05",
+  "defaultJobAd": true,
+  "refNumber": "JB0074476",
+  "company": {
+    "identifier": "ServiceNow",
+    "name": "ServiceNow"
+  },
+  "releasedDate": "2026-08-20T11:10:47.878Z",
+  "location": {
+    "city": "Sao Paulo",
+    "region": "SAO PAULO",
+    "country": "br",
+    "address": "Vera Cruz II Condominium, Av. Brig. Faria Lima  4285 - Itaim Bibi",
+    "postalCode": "04538-133",
+    "remote": false,
+    "hybrid": false,
+    "fullLocation": "Sao Paulo, SAO PAULO, Brazil"
+  },
+  "industry": {
+    "id": "it_and_services",
+    "label": "Information Technology And Services"
+  },
+  "department": {
+    "id": "2294208",
+    "label": "Sales"
+  },
+  "function": {
+    "id": "consulting",
+    "label": "Consulting"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "not_applicable",
+    "label": "Not Applicable"
+  },
+  "customField": [
+    {
+      "fieldId": "60345fa28b4ba8595bef1863",
+      "fieldLabel": "Recruiting Team",
+      "valueId": "professional",
+      "valueLabel": "Professional"
+    },
+    {
+      "fieldId": "60345d5c5165a31b17288279",
+      "fieldLabel": "Region",
+      "valueId": "c07e4bb2ef75103f5710e95052af2b21",
+      "valueLabel": "LATAM - Latin America"
+    },
+    {
+      "fieldId": "6034601b43915a29a4b3389b",
+      "fieldLabel": "Job Location",
+      "valueId": "L_SAO002",
+      "valueLabel": "Vera Cruz II Condominium, Av. Brig. Faria Lima, Sao Paulo, Acre, 04538-133, Brazil(L_SAO002)"
+    },
+    {
+      "fieldId": "60345e1a0b24a127cbdfa148",
+      "fieldLabel": "Employee Type",
+      "valueId": "0082f6cbe6154da19322cbab1f6aa5af",
+      "valueLabel": "Regular"
+    },
+    {
+      "fieldId": "5f63a78f1dae5c5c4e54ba2b",
+      "fieldLabel": "Department",
+      "valueId": "2294208",
+      "valueLabel": "Sales"
+    },
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "br",
+      "valueLabel": "Brazil"
+    },
+    {
+      "fieldId": "5f63a78f1dae5c5c4e54ba2a",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "ServiceNow"
+    },
+    {
+      "fieldId": "603462175165a31b1728827d",
+      "fieldLabel": "Cost Center",
+      "valueId": "CC3300",
+      "valueLabel": "3300 SC Field"
+    },
+    {
+      "fieldId": "618ed92b8f5e5f110e5bfb95",
+      "fieldLabel": "Work Persona",
+      "valueId": "e5efb1ea-f0e1-4bc5-94b6-d5072787c528",
+      "valueLabel": "Required in Office"
+    },
+    {
+      "fieldId": "690cc0e8c682c3dbadaa7d73",
+      "fieldLabel": "Job Posting Type",
+      "valueId": "professional",
+      "valueLabel": "Professional"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/ServiceNow/postings/744000144523290",
+  "creator": {
+    "name": "Ercilia Vianna"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

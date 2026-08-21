@@ -1,0 +1,112 @@
+{
+  "id": "744000144802369",
+  "name": "Director, Industry Marketing- Life Sciences",
+  "uuid": "bb42288f-aa17-43ef-a1cd-2834e4167e4c",
+  "jobAdId": "c98e8dd6-30c9-4e2e-8c00-3c79bc55c6f8",
+  "defaultJobAd": false,
+  "refNumber": "JB0073814",
+  "company": {
+    "identifier": "ServiceNow",
+    "name": "ServiceNow"
+  },
+  "releasedDate": "2026-08-21T16:08:20.905Z",
+  "location": {
+    "city": "Austin",
+    "region": "Texas",
+    "country": "us",
+    "address": "701 Brazos Street, Suite 519",
+    "postalCode": "78701",
+    "remote": true,
+    "hybrid": false,
+    "fullLocation": "Austin, Texas, United States"
+  },
+  "industry": {
+    "id": "it_and_services",
+    "label": "Information Technology And Services"
+  },
+  "department": {
+    "id": "2294157",
+    "label": "Marketing, Communications, and Brand"
+  },
+  "function": {
+    "id": "marketing",
+    "label": "Marketing"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "not_applicable",
+    "label": "Not Applicable"
+  },
+  "customField": [
+    {
+      "fieldId": "60345fa28b4ba8595bef1863",
+      "fieldLabel": "Recruiting Team",
+      "valueId": "professional",
+      "valueLabel": "Professional"
+    },
+    {
+      "fieldId": "60345d5c5165a31b17288279",
+      "fieldLabel": "Region",
+      "valueId": "722a833b93e4437798309f43c0d25990",
+      "valueLabel": "AMS - North America and Canada"
+    },
+    {
+      "fieldId": "6034601b43915a29a4b3389b",
+      "fieldLabel": "Job Location",
+      "valueId": "L_NYC001",
+      "valueLabel": "50 Hudson Yards, New York, New York, 10001, United States of America(L_NYC001)"
+    },
+    {
+      "fieldId": "60345e1a0b24a127cbdfa148",
+      "fieldLabel": "Employee Type",
+      "valueId": "0082f6cbe6154da19322cbab1f6aa5af",
+      "valueLabel": "Regular"
+    },
+    {
+      "fieldId": "5f63a78f1dae5c5c4e54ba2b",
+      "fieldLabel": "Department",
+      "valueId": "2294157",
+      "valueLabel": "Marketing, Communications, and Brand"
+    },
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "us",
+      "valueLabel": "United States"
+    },
+    {
+      "fieldId": "5f63a78f1dae5c5c4e54ba2a",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "ServiceNow"
+    },
+    {
+      "fieldId": "603462175165a31b1728827d",
+      "fieldLabel": "Cost Center",
+      "valueId": "CC4400",
+      "valueLabel": "4400 Product and Solutions Marketing"
+    },
+    {
+      "fieldId": "618ed92b8f5e5f110e5bfb95",
+      "fieldLabel": "Work Persona",
+      "valueId": "bf7551c6-9b06-4e7c-8217-3baf43edd060",
+      "valueLabel": "Flexible"
+    },
+    {
+      "fieldId": "690cc0e8c682c3dbadaa7d73",
+      "fieldLabel": "Job Posting Type",
+      "valueId": "professional",
+      "valueLabel": "Professional"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/ServiceNow/postings/744000144802369",
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

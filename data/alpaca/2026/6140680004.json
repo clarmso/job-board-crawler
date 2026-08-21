@@ -16,7 +16,7 @@
   },
   "metadata": null,
   "id": 6140680004,
-  "updated_at": "2026-08-16T21:37:48-04:00",
+  "updated_at": "2026-08-21T14:54:29-04:00",
   "requisition_id": "N260233",
   "title": "IT Operations Specialist",
   "company_name": "Alpaca ",
@@ -28,7 +28,12 @@
     {
       "id": 4074695004,
       "name": " Information Security",
-      "child_ids": [],
+      "child_ids": [
+        4150833004,
+        4150835004,
+        4150832004,
+        4150834004
+      ],
       "parent_id": null
     }
   ],

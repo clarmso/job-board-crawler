@@ -16,7 +16,7 @@
   },
   "metadata": null,
   "id": 6115683004,
-  "updated_at": "2026-08-15T07:23:16-04:00",
+  "updated_at": "2026-08-21T14:55:01-04:00",
   "requisition_id": "B260034",
   "title": "Financial Operations Principal ",
   "company_name": "Alpaca ",
@@ -28,7 +28,11 @@
     {
       "id": 4041734004,
       "name": "Finance",
-      "child_ids": [],
+      "child_ids": [
+        4150827004,
+        4150830004,
+        4150831004
+      ],
       "parent_id": null
     }
   ],

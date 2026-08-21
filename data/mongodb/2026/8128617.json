@@ -74,13 +74,21 @@
     {
       "id": 5525802,
       "name": "Baseline Budgeted Salary",
-      "value": null,
+      "value": {
+        "unit": "INR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
       "value_type": "currency_range"
     },
     {
       "id": 5525816,
       "name": "Other Large Market Budgeted Salary",
-      "value": null,
+      "value": {
+        "unit": "INR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
       "value_type": "currency_range"
     },
     {
@@ -117,7 +125,7 @@
     }
   ],
   "id": 8128617,
-  "updated_at": "2026-08-19T12:00:30-04:00",
+  "updated_at": "2026-08-21T15:40:40-04:00",
   "requisition_id": "3273519991",
   "title": "Senior Associate, HR Shared Services",
   "company_name": "MongoDB",

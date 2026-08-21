@@ -17,7 +17,7 @@
   },
   "metadata": null,
   "id": 6112157004,
-  "updated_at": "2026-08-12T17:53:13-04:00",
+  "updated_at": "2026-08-21T10:04:29-04:00",
   "requisition_id": "B260031",
   "title": "Account Executive - US",
   "company_name": "Alpaca ",
@@ -29,7 +29,9 @@
     {
       "id": 4148597004,
       "name": "Sales",
-      "child_ids": [],
+      "child_ids": [
+        4150826004
+      ],
       "parent_id": null
     }
   ],
