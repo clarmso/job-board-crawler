@@ -30,7 +30,7 @@
     {
       "id": 22194061,
       "name": "Team",
-      "value": "235-DevProd Workflows",
+      "value": "235-Pipeline",
       "value_type": "single_select"
     },
     {
@@ -43,14 +43,14 @@
       "id": 4137836,
       "name": "Working Model Eligibility",
       "value": [
-        "2-Flexible"
+        "3-Fully Remote"
       ],
       "value_type": "multi_select"
     },
     {
       "id": 4914029,
       "name": "Job Level",
-      "value": "Senior Director",
+      "value": "People Manager",
       "value_type": "single_select"
     },
     {
@@ -76,15 +76,19 @@
       "name": "Baseline Budgeted Salary",
       "value": {
         "unit": "USD",
-        "max_value": "300000.0",
-        "min_value": "210000.0"
+        "max_value": "330000.0",
+        "min_value": "231000.0"
       },
       "value_type": "currency_range"
     },
     {
       "id": 5525816,
       "name": "Other Large Market Budgeted Salary",
-      "value": null,
+      "value": {
+        "unit": "USD",
+        "max_value": "281000.0",
+        "min_value": "197000.0"
+      },
       "value_type": "currency_range"
     },
     {
@@ -92,8 +96,8 @@
       "name": "Job Post Range (United States)",
       "value": {
         "unit": "USD",
-        "max_value": "330000.0",
-        "min_value": "168000.0"
+        "max_value": "363000.0",
+        "min_value": "185000.0"
       },
       "value_type": "currency_range"
     },
@@ -102,8 +106,8 @@
       "name": "Job Post Range (Canada)",
       "value": {
         "unit": "USD",
-        "max_value": "300000.0",
-        "min_value": "210000.0"
+        "max_value": "0.0",
+        "min_value": "0.0"
       },
       "value_type": "currency_range"
     },
@@ -121,7 +125,7 @@
     }
   ],
   "id": 8052617,
-  "updated_at": "2026-08-21T15:40:40-04:00",
+  "updated_at": "2026-08-24T14:20:17-04:00",
   "requisition_id": "2273490078",
   "title": "Senior Director of Engineering, Developer Productivity",
   "company_name": "MongoDB",
@@ -139,9 +143,9 @@
   ],
   "offices": [
     {
-      "id": 3960,
-      "name": "New York City",
-      "location": "New York, NY, United States",
+      "id": 95845,
+      "name": "Remote Virginia",
+      "location": "Virginia, United States",
       "child_ids": [],
       "parent_id": 23657
     }

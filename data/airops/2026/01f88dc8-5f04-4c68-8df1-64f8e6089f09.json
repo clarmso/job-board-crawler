@@ -4,19 +4,15 @@
   "department": "Product",
   "team": "Product",
   "employmentType": "FullTime",
-  "location": "New York City or San Francisco (Onsite)",
+  "location": "New York City or San Francisco",
   "shouldDisplayCompensationOnJobPostings": true,
   "secondaryLocations": [],
-  "publishedAt": "2026-04-14T18:37:03.872+00:00",
+  "publishedAt": "2026-08-22T10:14:27.111+00:00",
   "isListed": true,
-  "isRemote": false,
-  "workplaceType": "OnSite",
+  "isRemote": true,
+  "workplaceType": "Hybrid",
   "address": {
-    "postalAddress": {
-      "addressRegion": "CA",
-      "addressCountry": "United States",
-      "addressLocality": "San Francisco"
-    }
+    "postalAddress": {}
   },
   "jobUrl": "https://jobs.ashbyhq.com/airops/01f88dc8-5f04-4c68-8df1-64f8e6089f09",
   "applyUrl": "https://jobs.ashbyhq.com/airops/01f88dc8-5f04-4c68-8df1-64f8e6089f09/application",

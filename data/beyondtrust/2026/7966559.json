@@ -16,7 +16,7 @@
   },
   "metadata": null,
   "id": 7966559,
-  "updated_at": "2026-08-12T09:46:21-04:00",
+  "updated_at": "2026-08-24T17:43:55-04:00",
   "requisition_id": "4042",
   "title": "Product Security Architect",
   "company_name": "BeyondTrust",
@@ -33,6 +33,13 @@
     }
   ],
   "offices": [
+    {
+      "id": 60490,
+      "name": "Remote Canada",
+      "location": "Toronto, Ontario, Canada",
+      "child_ids": [],
+      "parent_id": 44144
+    },
     {
       "id": 60813,
       "name": "Remote United States",

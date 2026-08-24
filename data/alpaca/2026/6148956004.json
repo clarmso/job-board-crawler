@@ -1,0 +1,66 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/alpaca/jobs/6148956004",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 5202770004,
+  "location": {
+    "name": "Remote - Americas, Remote - APAC, Remote - EU"
+  },
+  "metadata": null,
+  "id": 6148956004,
+  "updated_at": "2026-08-23T23:53:35-04:00",
+  "requisition_id": "N260267",
+  "title": "Director, Corporate Actions",
+  "company_name": "Alpaca ",
+  "first_published": "2026-08-21T20:17:13-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Who We Are:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Alpaca is a US-headquartered, global leader in agent-first brokerage infrastructure&amp;nbsp;&lt;/strong&gt;for stocks, ETFs, options, crypto, fixed income, 24/5 trading, and more.&lt;br&gt;&lt;br&gt;Amongst our subsidiaries, Alpaca is a licensed financial services company, serving hundreds of financial institutions across 40 countries with our institutional-grade APIs. This includes broker-dealers, investment advisors, wealth managers, hedge funds, and crypto exchanges, totalling over 10 million brokerage accounts.&lt;br&gt;&lt;br&gt;Our global team is a diverse group of experienced engineers, traders, and brokerage professionals who are working to achieve our mission of opening financial services to everyone on the planet. We&#39;re deeply committed to open-source contributions and fostering a vibrant community, continuously enhancing our award-winning, developer-friendly API and the robust infrastructure behind it.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Alpaca is proudly backed by $400 million in funding from top-tier global investors including Portage Ventures, Spark Capital, Tribe Capital, Social Leverage, Horizons Ventures, Opera Tech Ventures, SBI Group, Derayah Financial, Unbound, Peak XV, Elefund, and Y Combinator.&lt;/strong&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;Our Team Members:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We&#39;re a dynamic team of 400+ globally distributed members who thrive working from our favorite places around the world, with teammates spanning the USA, Canada, Japan, Hungary, Nigeria, Brazil, the UK, and beyond!&lt;br&gt;&lt;br&gt;We&#39;re searching for passionate individuals eager to contribute to Alpaca&#39;s rapid growth. If you align with our core values—Stay Curious, Have Empathy, and Be Accountable—and are ready to make a significant impact, we encourage you to apply.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;strong&gt;Your Role:&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;The Director of Global Corporate Actions will own the function end-to-end across U.S. and international markets. This leader will be accountable for daily production, supervisory controls, team performance, incident management, and the systems and operating model required to scale Corporate Actions globally.&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Lead Alpaca’s Corporate Actions organization across mandatory and voluntary events, including dividends, splits, mergers, exchanges, tenders, rights, redemptions, spin-offs, elections, and security lifecycle changes.&lt;/li&gt;\n&lt;li&gt;Establish and own the supervisory framework governing Corporate Actions, including clear maker-checker standards, control gates, reconciliations, exception management, escalation thresholds, and evidence of review.&lt;/li&gt;\n&lt;li&gt;Hold the team accountable for accurate, timely processing and ensure no material event progresses without required supervisory and system checks.&lt;/li&gt;\n&lt;li&gt;Own material Corporate Actions incidents from containment through root cause analysis, remediation, and permanent control or system improvement.&lt;/li&gt;\n&lt;li&gt;Partner with Security Master, Trading, Ledger, Product, Engineering, and Operations leadership to eliminate recurring failure modes and strengthen front-to-back controls.&lt;/li&gt;\n&lt;li&gt;Drive automation, observability, reconciliation, and exception tooling to reduce manual processing and improve scalability.&lt;/li&gt;\n&lt;li&gt;Build a common global operating model across markets, custodians, depositories, currencies, tax regimes, deadlines, and local market conventions.&lt;/li&gt;\n&lt;li&gt;Develop the Corporate Actions team, strengthen subject-matter depth and succession coverage, and reduce reliance on tribal knowledge.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;Supervisory Controls &amp;amp; Systems Oversight&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;The Director will own the end-to-end Corporate Actions control framework, ensuring events are accurately validated, reconciled, processed, synchronized across systems, and formally closed.&lt;/p&gt;\n&lt;p&gt;Responsibilities include:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Establishing controls over event terms, Security Master data, eligible positions, expected entitlements, elections, withholding, cash, stock, fractions, and exceptions.&lt;/li&gt;\n&lt;li&gt;Ensuring customer-impacting events are appropriately pre-processed and reconciled before market or payment deadlines where settlement timing creates risk.&lt;/li&gt;\n&lt;li&gt;Overseeing accurate, controlled booking of entitlements, including retries, reversals, manual adjustments, and exception handling.&lt;/li&gt;\n&lt;li&gt;Ensuring Corporate Actions bookings propagate correctly across Back Office, Front Office, Security Master, Ledger, Trading, margin, buying power, and customer positions.&lt;/li&gt;\n&lt;li&gt;Designing controls to prevent customers from trading against incorrect post-event positions, symbols, or quantities when processing or system synchronization is incomplete.&lt;/li&gt;\n&lt;li&gt;Requiring post-processing reconciliation to internal books and records, custodians, depositories, paying agents, and other authoritative sources.&lt;/li&gt;\n&lt;li&gt;Defining approval thresholds, tolerances, escalation standards, supervisory evidence, event closure requirements, and management reporting.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;The Director must understand how Corporate Actions failures can create broader trading, margin, settlement, and financial exposure—not simply operational breaks—and build controls accordingly.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;Qualifications (Must-Haves)&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;8+ years of Corporate Actions experience within a broker-dealer, clearing firm, custodian, bank, or comparable financial institution.&lt;/li&gt;\n&lt;li&gt;Prior leadership experience managing a Corporate Actions or securities operations function.&lt;/li&gt;\n&lt;li&gt;Deep hands-on knowledge of mandatory and voluntary Corporate Actions, including dividends, reorganizations, splits, mergers, tenders, rights, redemptions, elections, entitlements, and security lifecycle events.&lt;/li&gt;\n&lt;li&gt;Strong knowledge of U.S. market infrastructure, including DTCC/DTC Corporate Actions processes.&lt;/li&gt;\n&lt;li&gt;Meaningful international Corporate Actions experience across multiple markets, custodians, currencies, withholding regimes, and local market conventions.&lt;/li&gt;\n&lt;li&gt;Deep understanding of how Corporate Actions bookings flow through broker-dealer books and records, position systems, front-office trading systems, margin, and customer-facing balances.&lt;/li&gt;\n&lt;li&gt;Demonstrated understanding of the risks created when Security Master, back-office positions, and front-office tradability are not synchronized around an effective-date event.&lt;/li&gt;\n&lt;li&gt;Experience operating in a retail brokerage or clearing environment where Corporate Actions must often be pre-processed with strong pre-reconciliation controls before final depository confirmation.&lt;/li&gt;\n&lt;li&gt;Proven experience designing and supervising maker-checker controls, reconciliations, exception-management processes, and operational risk frameworks.&lt;/li&gt;\n&lt;li&gt;Demonstrated ownership of high-risk production functions where errors can create direct financial, customer, trading, settlement, margin, or regulatory exposure.&lt;/li&gt;\n&lt;li&gt;Strong incident-management discipline with a track record of driving permanent process and technology remediation.&lt;/li&gt;\n&lt;li&gt;Ability to challenge control design, identify structural weaknesses, and hold teams accountable for remediation.&lt;/li&gt;\n&lt;li&gt;Strong ability to partner with Product and Engineering and translate operational risk into scalable system requirements.&lt;/li&gt;\n&lt;li&gt;Clear, concise communicator able to work with senior leadership, partners, auditors, regulators, custodians, and technical teams.&lt;/li&gt;\n&lt;li&gt;Comfortable operating independently in a fast-paced, technology-driven, high-growth environment.&lt;/li&gt;\n&lt;li&gt;Alignment with Alpaca’s company tenets:&lt;/li&gt;\n&lt;ul&gt;\n&lt;li&gt;Stay Curious&lt;/li&gt;\n&lt;li&gt;Have Empathy&lt;/li&gt;\n&lt;li&gt;Be Accountable&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h3&gt;&lt;strong&gt;How We Take Care of You:&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-weight: 400; text-align: justify;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Competitive Salary &amp;amp; Stock Options&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;text-align: justify;&quot;&gt;Health Benefits&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400; text-align: justify;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;New Hire Home-Office Setup: One-time USD $500&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400; text-align: justify;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Monthly Stipend: USD $150 per month via a Brex Card&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Alpaca is proud to be an equal opportunity workplace dedicated to pursuing and hiring a diverse workforce.&lt;br&gt;&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;a href=&quot;https://files.alpaca.markets/disclosures/AlpacaRecruitmentPrivacyPolicy.pdf&quot;&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Recruitment Privacy Policy&lt;/span&gt;&lt;/em&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4041729004,
+      "name": "Brokerage",
+      "child_ids": [
+        4080226004,
+        4093387004,
+        4150828004,
+        4150829004
+      ],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 4025503004,
+      "name": "Remote - EU",
+      "location": "European Union",
+      "child_ids": [],
+      "parent_id": null
+    },
+    {
+      "id": 4025510004,
+      "name": "Remote - Global - Anywhere",
+      "location": "Global Anywhere",
+      "child_ids": [],
+      "parent_id": null
+    },
+    {
+      "id": 4025501004,
+      "name": "Remote - North America ",
+      "location": "North America",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": "<p>We use Greenhouse’s AI-powered Talent Matching tool to compare your application against our job requirements.</p>",
+  "include_ai_disclaimer": true,
+  "ai_opt_out_request_url": "http://app4.greenhouse.io/ai_opt_out_request/job_post/6148956004/ai_opt_out"
+}

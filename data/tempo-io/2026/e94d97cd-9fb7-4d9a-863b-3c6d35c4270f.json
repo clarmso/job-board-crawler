@@ -6,32 +6,7 @@
   "employmentType": "FullTime",
   "location": "Germany",
   "shouldDisplayCompensationOnJobPostings": false,
-  "secondaryLocations": [
-    {
-      "location": "United Kingdom",
-      "address": {
-        "postalAddress": {
-          "addressRegion": "United Kingdom",
-          "addressLocality": "United Kingdom"
-        }
-      }
-    },
-    {
-      "location": "Ireland",
-      "address": {
-        "postalAddress": {}
-      }
-    },
-    {
-      "location": "Portugal",
-      "address": {
-        "postalAddress": {
-          "addressCountry": "Portugal",
-          "addressLocality": ""
-        }
-      }
-    }
-  ],
+  "secondaryLocations": [],
   "publishedAt": "2026-01-23T21:46:38.090+00:00",
   "isListed": true,
   "isRemote": true,

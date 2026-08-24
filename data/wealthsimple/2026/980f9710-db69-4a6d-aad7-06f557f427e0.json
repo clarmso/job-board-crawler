@@ -4,18 +4,18 @@
   "department": "Regulatory",
   "team": "Regulatory",
   "employmentType": "FullTime",
-  "location": "Toronto Headquarters",
+  "location": "Remote (Canada)",
   "shouldDisplayCompensationOnJobPostings": true,
   "secondaryLocations": [],
   "publishedAt": "2026-07-30T18:44:58.473+00:00",
   "isListed": true,
-  "isRemote": null,
-  "workplaceType": null,
+  "isRemote": true,
+  "workplaceType": "Remote",
   "address": {
     "postalAddress": {
-      "addressRegion": "Ontario",
+      "addressRegion": "",
       "addressCountry": "Canada",
-      "addressLocality": "Toronto"
+      "addressLocality": ""
     }
   },
   "jobUrl": "https://jobs.ashbyhq.com/wealthsimple/980f9710-db69-4a6d-aad7-06f557f427e0",
