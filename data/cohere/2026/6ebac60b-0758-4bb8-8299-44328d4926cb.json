@@ -4,9 +4,17 @@
   "department": "Agentic Platform",
   "team": "Agentic Platform",
   "employmentType": "FullTime",
-  "location": "Europe",
+  "location": "Toronto",
   "shouldDisplayCompensationOnJobPostings": false,
   "secondaryLocations": [
+    {
+      "location": "Canada",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "Canada"
+        }
+      }
+    },
     {
       "location": "London",
       "address": {
@@ -14,16 +22,6 @@
           "addressRegion": "London",
           "addressCountry": "United Kingdom",
           "addressLocality": "London"
-        }
-      }
-    },
-    {
-      "location": "United States",
-      "address": {
-        "postalAddress": {
-          "addressRegion": "California",
-          "addressCountry": "United States",
-          "addressLocality": "San Francisco"
         }
       }
     },
@@ -46,16 +44,6 @@
       }
     },
     {
-      "location": "Toronto",
-      "address": {
-        "postalAddress": {
-          "addressRegion": "Ontario",
-          "addressCountry": "Canada",
-          "addressLocality": "Toronto"
-        }
-      }
-    },
-    {
       "location": "Montreal",
       "address": {
         "postalAddress": {
@@ -72,7 +60,9 @@
   "workplaceType": "Remote",
   "address": {
     "postalAddress": {
-      "addressCountry": "European Union"
+      "addressRegion": "Ontario",
+      "addressCountry": "Canada",
+      "addressLocality": "Toronto"
     }
   },
   "jobUrl": "https://jobs.ashbyhq.com/cohere/6ebac60b-0758-4bb8-8299-44328d4926cb",

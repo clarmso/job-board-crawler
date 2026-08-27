@@ -4,13 +4,13 @@
   "department": "Marketing",
   "team": "Marketing",
   "employmentType": "FullTime",
-  "location": "New York , San Francisco or Remote ",
+  "location": "New York City or San Francisco",
   "shouldDisplayCompensationOnJobPostings": false,
   "secondaryLocations": [],
   "publishedAt": "2026-08-07T17:07:43.101+00:00",
   "isListed": true,
-  "isRemote": null,
-  "workplaceType": null,
+  "isRemote": true,
+  "workplaceType": "Hybrid",
   "address": {
     "postalAddress": {}
   },

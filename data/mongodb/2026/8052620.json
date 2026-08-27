@@ -30,7 +30,7 @@
     {
       "id": 22194061,
       "name": "Team",
-      "value": "235-DevProd Workflows",
+      "value": "235-Pipeline",
       "value_type": "single_select"
     },
     {
@@ -75,25 +75,29 @@
       "id": 5525802,
       "name": "Baseline Budgeted Salary",
       "value": {
-        "unit": "USD",
-        "max_value": "270000.0",
-        "min_value": "189000.0"
+        "unit": "CAD",
+        "max_value": "0.0",
+        "min_value": "0.0"
       },
       "value_type": "currency_range"
     },
     {
       "id": 5525816,
       "name": "Other Large Market Budgeted Salary",
-      "value": null,
+      "value": {
+        "unit": "CAD",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
       "value_type": "currency_range"
     },
     {
       "id": 13324394,
       "name": "Job Post Range (United States)",
       "value": {
-        "unit": "USD",
-        "max_value": "297000.0",
-        "min_value": "151000.0"
+        "unit": "CAD",
+        "max_value": "0.0",
+        "min_value": "0.0"
       },
       "value_type": "currency_range"
     },
@@ -121,7 +125,7 @@
     }
   ],
   "id": 8052620,
-  "updated_at": "2026-08-21T15:40:40-04:00",
+  "updated_at": "2026-08-25T08:00:22-04:00",
   "requisition_id": "2273490079",
   "title": "Senior Engineering Manager, Developer Productivity",
   "company_name": "MongoDB",
@@ -139,9 +143,9 @@
   ],
   "offices": [
     {
-      "id": 3960,
-      "name": "New York City",
-      "location": "New York, NY, United States",
+      "id": 9444,
+      "name": "Toronto",
+      "location": "Toronto, ON, Canada",
       "child_ids": [],
       "parent_id": 23657
     }
