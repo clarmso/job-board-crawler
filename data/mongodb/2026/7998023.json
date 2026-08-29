@@ -74,13 +74,21 @@
     {
       "id": 5525802,
       "name": "Baseline Budgeted Salary",
-      "value": null,
+      "value": {
+        "unit": "USD",
+        "max_value": "160000.0",
+        "min_value": "160000.0"
+      },
       "value_type": "currency_range"
     },
     {
       "id": 5525816,
       "name": "Other Large Market Budgeted Salary",
-      "value": null,
+      "value": {
+        "unit": "USD",
+        "max_value": "160000.0",
+        "min_value": "160000.0"
+      },
       "value_type": "currency_range"
     },
     {
@@ -117,7 +125,7 @@
     }
   ],
   "id": 7998023,
-  "updated_at": "2026-08-21T15:40:40-04:00",
+  "updated_at": "2026-08-28T17:10:26-04:00",
   "requisition_id": "2273468844",
   "title": "Senior Enterprise Account Executive, Growth",
   "company_name": "MongoDB",
@@ -135,9 +143,9 @@
   ],
   "offices": [
     {
-      "id": 19258,
-      "name": "Houston",
-      "location": "Houston, TX, United States",
+      "id": 4306,
+      "name": "Dallas",
+      "location": "Dallas, TX, United States",
       "child_ids": [],
       "parent_id": 23657
     }

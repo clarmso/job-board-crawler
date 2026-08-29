@@ -74,13 +74,21 @@
     {
       "id": 5525802,
       "name": "Baseline Budgeted Salary",
-      "value": null,
+      "value": {
+        "unit": "USD",
+        "max_value": "160000.0",
+        "min_value": "112000.0"
+      },
       "value_type": "currency_range"
     },
     {
       "id": 5525816,
       "name": "Other Large Market Budgeted Salary",
-      "value": null,
+      "value": {
+        "unit": "USD",
+        "max_value": "136000.0",
+        "min_value": "95000.0"
+      },
       "value_type": "currency_range"
     },
     {
@@ -117,7 +125,7 @@
     }
   ],
   "id": 8041641,
-  "updated_at": "2026-08-21T15:40:40-04:00",
+  "updated_at": "2026-08-28T12:10:16-04:00",
   "requisition_id": "2273485607",
   "title": "Technical Services Engineer, Named Accounts",
   "company_name": "MongoDB",
@@ -135,9 +143,9 @@
   ],
   "offices": [
     {
-      "id": 3961,
-      "name": "Palo Alto",
-      "location": "Palo Alto, CA, United States",
+      "id": 17687,
+      "name": "San Francisco ",
+      "location": "San Francisco, CA, United States",
       "child_ids": [],
       "parent_id": 23657
     }

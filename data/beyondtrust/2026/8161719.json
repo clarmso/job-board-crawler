@@ -1,0 +1,54 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/beyondtrust/jobs/8161719",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3532327,
+  "location": {
+    "name": "Remote Canada | Remote United States"
+  },
+  "metadata": null,
+  "id": 8161719,
+  "updated_at": "2026-08-28T12:25:28-04:00",
+  "requisition_id": "4134",
+  "title": "Cloud Engineer",
+  "company_name": "BeyondTrust",
+  "first_published": "2026-08-28T12:25:28-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;BeyondTrust is a place where you can bring your purpose to life through the work that you do, creating a safer world through our cybersecurity SaaS portfolio.&lt;/p&gt;\n&lt;p&gt;Our culture of flexibility, trust, and continual learning means you will be recognized for your growth, and for the impact you make on our success. You will be surrounded by people who challenge, support, and inspire you to be the best version of yourself.&lt;/p&gt;\n&lt;p&gt;&lt;u&gt;The Role&lt;/u&gt;&lt;/p&gt;\n&lt;p&gt;The Cloud Engineer designs, secures, and supports mission-critical cloud infrastructure that enables reliable services for users worldwide. The successful candidate demonstrates strong technical judgment, operational discipline, and the ability to apply practical solutions to complex cloud engineering challenges.&lt;/p&gt;\n&lt;p&gt;&lt;u&gt;What You’ll Do&lt;/u&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Operate and maintain BeyondTrust&#39;s cloud infrastructure, ensuring availability, performance, and operational health across all environments.&lt;/li&gt;\n&lt;li&gt;Design, deploy, and secure multi-account AWS, Azure, and GCP environments in alignment with organizational standards.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Design, deploy, and support AWS networking solutions, including VPCs, Transit Gateway, VPC Peering, PrivateLink, VPC Endpoints, and related routing and connectivity services.&lt;/li&gt;\n&lt;li&gt;Develop and maintain reusable Terraform modules, remote state management, and version-controlled configurations that enforce infrastructure standards.&lt;/li&gt;\n&lt;li&gt;Build and maintain CI/CD pipelines using GitHub Actions, including self-hosted runners, to deliver infrastructure and application changes consistently and reliably.&lt;/li&gt;\n&lt;li&gt;Troubleshoot and resolve incidents, apply patches, validate backup and recovery processes, and optimize infrastructure for performance and cost efficiency.&lt;/li&gt;\n&lt;li&gt;Troubleshoot cloud connectivity issues with DNS, routing, load balancing, and application communication across multi-account environments.&lt;/li&gt;\n&lt;li&gt;Provide after-hours support as needed, resolve incidents, and document post-incident reviews and follow-up actions.&lt;/li&gt;\n&lt;li&gt;Administer identity federation, authentication, authorization, and privileged access controls across cloud platforms.&lt;/li&gt;\n&lt;li&gt;Integrate, manage, and support third-party tools used for cloud access, operations, security, and auditing.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Enforce governance standards, including account management, resource tagging, configuration compliance, and capacity planning through controlled and auditable changes.&lt;/li&gt;\n&lt;li&gt;Leverage AI-assisted engineering tools to develop reusable automation that accelerates delivery and improves team productivity.&lt;/li&gt;\n&lt;li&gt;Create and maintain architecture diagrams, Terraform standards, SOPs, troubleshooting guides, and disaster recovery documentation.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;u&gt;What You’ll Bring&lt;/u&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;2+ years of experience designing, securing, and managing large cloud environments in AWS, Azure, or GCP.&lt;/li&gt;\n&lt;li&gt;2+ years of hands-on experience with AWS core services, including networking, compute, storage, load balancing, monitoring, and automation services.&lt;/li&gt;\n&lt;li&gt;2+ years of experience developing and maintaining Terraform modules or other infrastructure as code solutions.&lt;/li&gt;\n&lt;li&gt;2+ years of experience with AWS IAM, including roles, policies, permissions, and access management.&lt;/li&gt;\n&lt;li&gt;Strong understanding of AWS networking, including CIDR, routing, DNS, security controls, Transit Gateway, and VPC connectivity services.&lt;/li&gt;\n&lt;li&gt;2+ years of experience with Git workflows, version control, scripting, configuration management, and automated infrastructure testing and validation.&lt;/li&gt;\n&lt;li&gt;2+ years of experience building or supporting CI/CD pipelines using GitHub Actions or similar automation platforms.&lt;/li&gt;\n&lt;li&gt;2+ years of scripting experience using Python (preferred), PowerShell, or Bash.&lt;/li&gt;\n&lt;li&gt;Strong troubleshooting, problem-solving, and root cause analysis skills.&lt;/li&gt;\n&lt;li&gt;Familiarity with cloud monitoring and observability tools such as CloudWatch, Prometheus, or Datadog.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;2+ years of experience working within ITSM and change management processes.&lt;/li&gt;\n&lt;li&gt;Strong verbal and written communication skills, including the ability to create and maintain technical documentation.&lt;/li&gt;\n&lt;li&gt;Bachelor&#39;s degree in Computer Science, Information Systems, Computer Engineering, or equivalent practical experience.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;u&gt;Must Have&lt;/u&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;AWS Certified Solutions Architect Associate, AWS Certified CloudOps Engineer, or equivalent cloud certification.&lt;/li&gt;\n&lt;li&gt;3+ years of experience in two or more of the following areas:&lt;/li&gt;\n&lt;li&gt;AWS Organizations, Control Tower, and multi-account governance.&lt;/li&gt;\n&lt;li&gt;AWS networking, including VPC, IPAM, WAF, and hybrid network architectures.&lt;/li&gt;\n&lt;li&gt;GitHub Actions, self-hosted runners, or CI/CD platform administration.&lt;/li&gt;\n&lt;li&gt;Cloud observability, infrastructure security, or regulated environments.&lt;/li&gt;\n&lt;li&gt;Implementing cloud controls aligned with SOC 2, ISO 27001, NIST CSF 2.0, or FedRAMP Moderate requirements.&lt;/li&gt;\n&lt;li&gt;Experience using AI-assisted engineering tools, such as GitHub Copilot, Claude Code, or equivalent solutions, to improve development and operational efficiency.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;u&gt;Better Together&lt;/u&gt;&lt;/p&gt;\n&lt;p&gt;Diversity. Inclusion. They’re more than just words for us. They are the guiding values of how we build our teams, cultivate leaders, and create a culture where people feel connected.&lt;/p&gt;\n&lt;p&gt;We take care of our employees so they can take care of our customers. Customers who&amp;nbsp;come from all walks of life just like us. We hire incredible people from diverse backgrounds because when we are different together, we are stronger together.&lt;/p&gt;\n&lt;p&gt;&lt;u&gt;About Us&lt;/u&gt;&lt;/p&gt;\n&lt;p&gt;BeyondTrust is the global identity security leader protecting Paths to Privilege™. Our identity-centric approach goes beyond securing privileges and access, empowering organizations with the most effective solution to manage the entire identity attack surface and neutralize threats, whether from external attacks or insiders.&lt;/p&gt;\n&lt;p&gt;BeyondTrust is leading the charge in transforming identity security to prevent breaches and limit the blast radius of attacks, while creating a superior customer experience and operational efficiencies. We are trusted by 20,000 customers, including 75 of the Fortune 100, and our global ecosystem of partners.&lt;/p&gt;\n&lt;p&gt;Learn more at &lt;a href=&quot;http://www.beyondtrust.com/&quot;&gt;www.beyondtrust.com&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;#LI-BS1&lt;/p&gt;",
+  "departments": [
+    {
+      "id": 88737,
+      "name": "Information Systems ",
+      "child_ids": [],
+      "parent_id": 44279
+    }
+  ],
+  "offices": [
+    {
+      "id": 60490,
+      "name": "Remote Canada",
+      "location": "Toronto, Ontario, Canada",
+      "child_ids": [],
+      "parent_id": 44144
+    },
+    {
+      "id": 60813,
+      "name": "Remote United States",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 44144
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

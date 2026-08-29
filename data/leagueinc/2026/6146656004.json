@@ -55,7 +55,7 @@
     }
   ],
   "id": 6146656004,
-  "updated_at": "2026-08-19T10:21:59-04:00",
+  "updated_at": "2026-08-28T14:00:02-04:00",
   "requisition_id": "796",
   "title": "Director, FP&A",
   "company_name": "League Inc.",
@@ -76,6 +76,13 @@
       "id": 4010926004,
       "name": "Canada - Remote",
       "location": null,
+      "child_ids": [],
+      "parent_id": null
+    },
+    {
+      "id": 4010920004,
+      "name": "Toronto",
+      "location": "225 King St. West. Toronto, Ontario",
       "child_ids": [],
       "parent_id": null
     }

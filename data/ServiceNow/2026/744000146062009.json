@@ -1,0 +1,112 @@
+{
+  "id": "744000146062009",
+  "name": "Staff Technical Support Engineer ( Armis)",
+  "uuid": "c08e232c-8cb0-443e-95cb-e65c3ec22825",
+  "jobAdId": "3c763377-0464-4efc-94a3-2fb360df8641",
+  "defaultJobAd": true,
+  "refNumber": "JB0073943",
+  "company": {
+    "identifier": "ServiceNow",
+    "name": "ServiceNow"
+  },
+  "releasedDate": "2026-08-27T20:02:48.418Z",
+  "location": {
+    "city": "San Francisco de Heredia",
+    "region": "Heredia",
+    "country": "cr",
+    "address": "America Free Zone, 600 Norte de Plaza",
+    "postalCode": "40101",
+    "remote": false,
+    "hybrid": true,
+    "fullLocation": "San Francisco de Heredia, Heredia, Costa Rica"
+  },
+  "industry": {
+    "id": "it_and_services",
+    "label": "Information Technology And Services"
+  },
+  "department": {
+    "id": "5359631",
+    "label": "Customer Service and Support"
+  },
+  "function": {
+    "id": "customer_service",
+    "label": "Customer Service"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "not_applicable",
+    "label": "Not Applicable"
+  },
+  "customField": [
+    {
+      "fieldId": "60345fa28b4ba8595bef1863",
+      "fieldLabel": "Recruiting Team",
+      "valueId": "professional",
+      "valueLabel": "Professional"
+    },
+    {
+      "fieldId": "60345d5c5165a31b17288279",
+      "fieldLabel": "Region",
+      "valueId": "c07e4bb2ef75103f5710e95052af2b21",
+      "valueLabel": "LATAM - Latin America"
+    },
+    {
+      "fieldId": "6034601b43915a29a4b3389b",
+      "fieldLabel": "Job Location",
+      "valueId": "L_RT_CRI",
+      "valueLabel": "Remote, Costa Rica (FTE Only)(L_RT_CRI)"
+    },
+    {
+      "fieldId": "60345e1a0b24a127cbdfa148",
+      "fieldLabel": "Employee Type",
+      "valueId": "0082f6cbe6154da19322cbab1f6aa5af",
+      "valueLabel": "Regular"
+    },
+    {
+      "fieldId": "5f63a78f1dae5c5c4e54ba2b",
+      "fieldLabel": "Department",
+      "valueId": "5359631",
+      "valueLabel": "Customer Service and Support"
+    },
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "cr",
+      "valueLabel": "Costa Rica"
+    },
+    {
+      "fieldId": "5f63a78f1dae5c5c4e54ba2a",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "ServiceNow"
+    },
+    {
+      "fieldId": "603462175165a31b1728827d",
+      "fieldLabel": "Cost Center",
+      "valueId": "CC1017",
+      "valueLabel": "1017 Armis Support"
+    },
+    {
+      "fieldId": "618ed92b8f5e5f110e5bfb95",
+      "fieldLabel": "Work Persona",
+      "valueId": "e5efb1ea-f0e1-4bc5-94b6-d5072787c528",
+      "valueLabel": "Required in Office"
+    },
+    {
+      "fieldId": "690cc0e8c682c3dbadaa7d73",
+      "fieldLabel": "Job Posting Type",
+      "valueId": "professional",
+      "valueLabel": "Professional"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/ServiceNow/postings/744000146062009",
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

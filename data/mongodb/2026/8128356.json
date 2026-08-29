@@ -1,0 +1,182 @@
+{
+  "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=8128356",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3519879,
+  "location": {
+    "name": "San Francisco"
+  },
+  "metadata": [
+    {
+      "id": 22194060,
+      "name": "Position ID",
+      "value": "N/A",
+      "value_type": "short_text"
+    },
+    {
+      "id": 24918,
+      "name": "Department ID",
+      "value": "D21425-Search and Voyage Product Mgmt",
+      "value_type": "single_select"
+    },
+    {
+      "id": 22194061,
+      "name": "Team",
+      "value": "120-Security",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4914027,
+      "name": "Region",
+      "value": "North America",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4137836,
+      "name": "Working Model Eligibility",
+      "value": [
+        "1-In Office",
+        "2-Flexible",
+        "3-Fully Remote"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 4914029,
+      "name": "Job Level",
+      "value": "IC - Professional",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24109,
+      "name": "Employment Type",
+      "value": "Full-time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 1073551,
+      "name": "Job Type",
+      "value": "GTM Upskill Pipeline",
+      "value_type": "single_select"
+    },
+    {
+      "id": 988684,
+      "name": "JD Link",
+      "value": "https://docs.google.com/document/d/1KjbVp621veN1Dpcch3T9bpXuCFNIXKaamewW05WzD9A/edit?tab=t.0#heading=h.o6t08jurynh",
+      "value_type": "url"
+    },
+    {
+      "id": 5525802,
+      "name": "Baseline Budgeted Salary",
+      "value": {
+        "unit": "USD",
+        "max_value": "220626.0",
+        "min_value": "220626.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 5525816,
+      "name": "Other Large Market Budgeted Salary",
+      "value": {
+        "unit": "USD",
+        "max_value": "220626.0",
+        "min_value": "220626.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 13324394,
+      "name": "Job Post Range (United States)",
+      "value": {
+        "unit": "USD",
+        "max_value": "0.01",
+        "min_value": "0.01"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 40497768,
+      "name": "Job Post Range (Canada)",
+      "value": {
+        "unit": null,
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 57694516,
+      "name": "Job Post Range (Poland)",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 64002488,
+      "name": "Job Post Range (Italy)",
+      "value": null,
+      "value_type": "currency_range"
+    }
+  ],
+  "id": 8128356,
+  "updated_at": "2026-08-27T14:29:59-04:00",
+  "requisition_id": "426378",
+  "title": "Senior Product Manager",
+  "company_name": "MongoDB",
+  "first_published": "2026-08-27T14:25:03-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;Join our MongoDB Search Systems Engineering team at the forefront of building next-generation database infrastructure at scale. You&#39;ll work alongside some of our most talented and deeply technical engineering teams who are architecting distributed systems that power highly performant search and AI applications for enterprise customers worldwide. This team operates at the intersection of infrastructure innovation and customer impact—building the foundational platform capabilities that will define how organizations leverage search and AI at scale for years to come.&lt;/p&gt;\n&lt;p&gt;In this role, you&#39;ll serve as both strategic partner and technical translator, helping brilliant engineers navigate the path to operational excellence while maintaining the forward vision to anticipate market needs 18-24 months ahead of current development cycles.&lt;/p&gt;\n&lt;p&gt;What Makes This Role Unique: This is about architecting the future of search infrastructure. You&#39;ll be working with engineers who live and breathe distributed systems, helping them channel that brilliance toward platforms that don&#39;t just work today, but anticipate the architectural needs of tomorrow&#39;s AI-native applications. If you light up at the challenge of seeing around corners in infrastructure and can hold your own in technical debates about consensus protocols while keeping the team focused on customer value—this is your role.&lt;/p&gt;\n&lt;p&gt;This role can be based out of our San Francisco office or remotely in USA region.&lt;/p&gt;\n&lt;h3&gt;Role Responsibilities&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Contribute to the Future of Search Infrastructure: Drive the long-term technical vision for MongoDB Search, anticipating emerging patterns in vector, hybrid, and AI-native applications to build conviction around platform investments 12–18 months ahead of market demand&lt;/li&gt;\n&lt;li&gt;Champion the Customer &amp;amp; Innovation: Act as the voice of customers building mission-critical AI applications, using deep technical discovery to uncover latent needs around scalability and consistency, ensuring our architecture leads the industry in performance and multi-tenancy&lt;/li&gt;\n&lt;li&gt;Drive Engineering Strategy &amp;amp; Impact: Partner deeply with engineering leadership to translate complex technical tradeoffs into business value, balancing rapid innovation velocity with the rigorous production stability required for long-term platform health&lt;/li&gt;\n&lt;li&gt;Orchestrate World-Class Observability: Collaborate with SRE and Solutions Architects to build advanced instrumentation strategies and feedback loops, turning production signals and incident learnings into proactive improvements that secure system resilience&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Requirements&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Deep Technical Authority: 5+ years of PM experience with a specific focus on infrastructure or distributed systems. You possess a mastery of concepts like CAP theorem, consistency models, and sharding strategies, backed by real-world empathy for the engineering experience—whether that’s being on-call or debugging production incidents&lt;/li&gt;\n&lt;li&gt;Strategic Vision at the Technical Edge: You operate comfortably at the intersection of complex architecture and business strategy, capable of debating consensus algorithms with engineers while Data-Driven Storytelling: A proven track record of driving operational excellence combined with exceptional narrative skills. You effortlessly pivot from analyzing low-level system metrics to crafting executive narratives that connect infrastructure health to critical business outcomes&lt;/li&gt;\n&lt;li&gt;Unrivaled Influence: You earn the trust of senior engineers through technical depth and respect for complexity, not just title. You excel at guiding architectural decisions without needing formal authority helping to translate those decisions into market differentiation and forward-looking product investments&lt;/li&gt;\n&lt;li&gt;Visionary Customer Obsession: You understand that for platform products, your customers are often building abstractions on top of your abstractions, and you design deeply technical products with their long-term success criteria in mind&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Nice to Have&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Direct experience with search technologies (Elasticsearch, Solr, Lucene) or vector databases, particularly in production environments at scale&lt;/li&gt;\n&lt;li&gt;Experience with AI/ML infrastructure or building platform capabilities that enable AI applications (vector search, embeddings management, hybrid retrieval systems)&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Success Measures&lt;/h3&gt;\n&lt;p&gt;Month 3:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Technical Immersion: Complete a full architectural audit of the search stack. Be able to debate replication flows and consistency guarantees with Staff Engineers&lt;/li&gt;\n&lt;li&gt;State of Reliability: Deliver a report identifying the top 3 sources of operational toil and observability blind spots&lt;/li&gt;\n&lt;li&gt;The Quick Win: Identify and ship one low-hanging reliability improvement (e.g., a missing metric or doc gap) to demonstrate immediate value to the engineering team&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Month 6:&amp;nbsp;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Operationalize SLOs: Partner with SRE to publish official SLOs/SLIs, shifting the culture from &quot;is it down?&quot; to managing error budgets&lt;/li&gt;\n&lt;li&gt;The &quot;Conviction Paper&quot;: Synthesize customer discovery into a strategic whitepaper defining the architectural investments needed for the next 18 months&lt;/li&gt;\n&lt;li&gt;Observability Upgrade: Lead the rollout of high-signal alerting strategies that move the team from reactive triage to proactive prevention&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Month 12:&amp;nbsp;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Quantifiable Health Gains: Demonstrate measurable improvement in system metrics (e.g., reduced p99 latency, improved MTTR, or 0 capacity-related incidents)&lt;/li&gt;\n&lt;li&gt;Tier-1 Launch: successfully guide a major infrastructure capability (e.g., new vector index or sharding mechanic) from concept to General Availability&lt;/li&gt;\n&lt;li&gt;Authority: Establish yourself as the internal authority on search scaling, influencing roadmap allocation toward long-term platform health&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;About MongoDB&lt;/h3&gt;\n&lt;p&gt;MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the database for the AI era, enabling innovators to create, transform, and disrupt industries with software. MongoDB’s unified database platform—the most widely available, globally distributed database on the market—helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud database and is available across AWS, Google Cloud, and Microsoft Azure.&lt;/p&gt;\n&lt;p&gt;With offices worldwide and nearly 60,000 customers—including 75% of the Fortune 100 and AI-native startups—relying on MongoDB for their most important applications, we’re powering the next era of software.&lt;/p&gt;\n&lt;p&gt;Our compass at MongoDB is our&lt;a href=&quot;https://www.mongodb.com/company&quot;&gt; Leadership Commitment,&lt;/a&gt; guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone.&lt;a href=&quot;https://www.mongodb.com/company/blog/culture/employee-benefits-that-make-a-difference-at-mongodb&quot;&gt; From employee affinity groups, to fertility assistance and a generous parental leave policy&lt;/a&gt;, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys.&lt;a href=&quot;https://www.mongodb.com/blog/channel/culture&quot;&gt; Learn more about what it’s like to work at MongoDB&lt;/a&gt;, and help us make an impact on the world!&lt;/p&gt;\n&lt;p&gt;MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.&lt;/p&gt;\n&lt;p&gt;MongoDB, Inc. provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type and makes all hiring decisions without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.&lt;/p&gt;\n&lt;p&gt;Req. ID: 426378&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;MongoDB’s base salary range for this role is posted below. Compensation at the time of offer is unique to each candidate and based on a variety of factors such as skill set, experience, qualifications, and work location. Salary is one part of MongoDB’s total compensation and benefits package. Other benefits for eligible employees may include: equity, participation in the employee stock purchase program, flexible paid time off, 20 weeks fully-paid gender-neutral parental leave, fertility and adoption assistance, 401(k) plan, mental health counseling, access to transgender-inclusive health insurance coverage, and health benefits offerings. Please note, the base salary range listed below and the benefits in this paragraph are only applicable to U.S.-based candidates.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;MongoDB’s base salary range for this role in the U.S. is:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$0.01&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$0.01 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 6180,
+      "name": "Product & Technology",
+      "child_ids": [
+        38818,
+        85957,
+        85958,
+        216150,
+        216151,
+        91202,
+        89215,
+        292715,
+        89216,
+        38828,
+        38827,
+        201604,
+        85982,
+        85962,
+        89218,
+        144605,
+        38830,
+        85972,
+        85978,
+        85970,
+        85977,
+        85983,
+        91203
+      ],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 73478,
+      "name": "Remote North America",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 23657
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": null
+}

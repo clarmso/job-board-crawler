@@ -8,12 +8,39 @@
   "shouldDisplayCompensationOnJobPostings": false,
   "secondaryLocations": [
     {
+      "location": "Dubai",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "United Arab Emirates",
+          "addressLocality": "Dubai"
+        }
+      }
+    },
+    {
+      "location": "London",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "London",
+          "addressCountry": "United Kingdom",
+          "addressLocality": "London"
+        }
+      }
+    },
+    {
       "location": "United States",
       "address": {
         "postalAddress": {
           "addressRegion": "California",
           "addressCountry": "United States",
           "addressLocality": "San Francisco"
+        }
+      }
+    },
+    {
+      "location": "United Kingdom",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "United Kingdom"
         }
       }
     }
