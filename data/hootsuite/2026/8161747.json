@@ -33,7 +33,7 @@
     }
   ],
   "id": 8161747,
-  "updated_at": "2026-08-27T12:31:15-04:00",
+  "updated_at": "2026-08-31T09:28:25-04:00",
   "requisition_id": "20260151",
   "title": "Revenue Accounting Manager",
   "company_name": "Hootsuite",
@@ -68,6 +68,20 @@
       "id": 60847,
       "name": "Ontario",
       "location": "Ontario, Canada",
+      "child_ids": [],
+      "parent_id": 24309
+    },
+    {
+      "id": 24311,
+      "name": "Toronto",
+      "location": "Toronto, Ontario, Canada",
+      "child_ids": [],
+      "parent_id": 24309
+    },
+    {
+      "id": 24310,
+      "name": "Vancouver",
+      "location": "Vancouver, British Columbia, Canada",
       "child_ids": [],
       "parent_id": 24309
     }

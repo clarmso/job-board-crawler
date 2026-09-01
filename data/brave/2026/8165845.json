@@ -1,0 +1,47 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/brave/jobs/8165845",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 3533903,
+  "location": {
+    "name": "London, England"
+  },
+  "metadata": null,
+  "id": 8165845,
+  "updated_at": "2026-08-29T12:52:15-04:00",
+  "requisition_id": "138",
+  "title": "AI Security Researcher/Research Engineer",
+  "company_name": "Brave",
+  "first_published": "2026-08-29T12:52:15-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;&lt;strong&gt;AI Security Researcher / Research Engineer&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Remote or hybrid - London preferred&lt;/strong&gt;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;About Brave:&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Brave is on a mission to protect the human right to privacy online. We’ve built a free web browser that blocks creepy ads and trackers by default, a private search engine with a &lt;em&gt;truly&lt;/em&gt; independent index, private AI assistant, latest privacy and security features, and a private ad network (opt-in!) that directly rewards you for your attention. Already over 120 million people regularly use Brave for a faster, more private web. Millions more switch every month.&lt;/p&gt;\n&lt;p&gt;The internet is a sea of ads, hackers, and echo chambers. Big Tech makes huge profits off our data, and tells us what’s true and what’s not. Brave is fighting back. Join us!&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;We are looking for a researcher/research engineer to help mitigate the security risks that come with building AI systems-especially LLM-powered web agents and chatbots. In this role, you&#39;ll design and implement secure-by-design architectures, audit our LLM-powered web agent (https://brave.com/blog/ai-browsing/) and chatbot, and help set Brave&#39;s direction on how we identify, measure, and reduce security risk across AI products.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&amp;nbsp;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Design and execute adversarial evaluations to uncover failure modes in LLM-powered web agents and chatbots (e.g., prompt injection, tool abuse, data exfiltration)&lt;/li&gt;\n&lt;li&gt;Analyze model behavior (including internal thoughts) to understand and forecast security risks in frontier models&lt;/li&gt;\n&lt;li&gt;Develop and prototype security-focused training and fine-tuning techniques&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Augment web agents with security principles including information flow control, privilege control and contextual security&lt;/li&gt;\n&lt;li&gt;Partner with engineers and (privacy, ML, and Cryptographic) researchers to translate findings into product changes, tests, and measurable security improvements&lt;/li&gt;\n&lt;li&gt;Help define a forward-looking security strategy and policy for building and responsibly releasing web agents—advocating for user protection&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;You may be a good fit if you have&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Demonstrated experience working on Secure AI (prompt injection attacks and security guardrails)&lt;/li&gt;\n&lt;li&gt;Strong publication record in AI security, ML security, or closely related areas&lt;/li&gt;\n&lt;li&gt;A track record of shipping products and features inside a fast-moving environment&lt;/li&gt;\n&lt;li&gt;Strong coding skills in Python and familiarity with ML frameworks like PyTorch or JAX&lt;/li&gt;\n&lt;li&gt;Experience training, fine-tuning, and evaluating large language models&lt;/li&gt;\n&lt;li&gt;Deep familiarity with large language models and web agents, how they work, and how they are trained&lt;/li&gt;\n&lt;li&gt;Experience applying security principles (e.g., information flow control, access control/least privilege)&lt;/li&gt;\n&lt;li&gt;Demonstrated success in bringing clarity and ownership to ambiguous technical problems&lt;/li&gt;\n&lt;li&gt;A Ph.D. in computer science is highly preferred, but we may consider some exceptions with industry experience&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Skills That Will Set You Apart from the Competition&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Knowledge of AI Systems (pipelines, security evaluation, etc.)&lt;/li&gt;\n&lt;li&gt;Open source projects on security/privacy&lt;/li&gt;\n&lt;li&gt;Experience with confidential computing and ZKP/SMPC protocols&lt;/li&gt;\n&lt;li&gt;Ph.D. in computer science from a top-tier school&lt;/li&gt;\n&lt;li&gt;A strong publication record in premier systems, performance, or ML&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Work experience in industry is desirable&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Working at Brave - What we offer&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Ability to work at an exciting and well-funded international startup headquartered in San Francisco&lt;/li&gt;\n&lt;li&gt;Cutting-edge technology, allowing you to work with state-of-the-art tools and software solutions&lt;/li&gt;\n&lt;li&gt;Competitive compensation and plenty of room for personal growth&lt;/li&gt;\n&lt;li&gt;Great international exposure and team atmosphere&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;We are looking to hire in London but would &lt;em&gt;consider&lt;/em&gt; an exceptional candidate in the rest of Europe.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;NO AGENCIES or RECRUITERS PLEASE - Unfortunately, we cannot work with third parties on these searches.&lt;/p&gt;\n&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;",
+  "departments": [
+    {
+      "id": 45295,
+      "name": "Research",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 58241,
+      "name": "Brave London ",
+      "location": "London, Greater London, England, United Kingdom",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": "http://app.greenhouse.io/ai_opt_out_request/job_post/8165845/ai_opt_out"
+}

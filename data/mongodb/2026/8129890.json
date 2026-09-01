@@ -18,7 +18,7 @@
     {
       "id": 22194060,
       "name": "Position ID",
-      "value": "T10001134",
+      "value": "10001134",
       "value_type": "short_text"
     },
     {
@@ -74,13 +74,21 @@
     {
       "id": 5525802,
       "name": "Baseline Budgeted Salary",
-      "value": null,
+      "value": {
+        "unit": "AUD",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
       "value_type": "currency_range"
     },
     {
       "id": 5525816,
       "name": "Other Large Market Budgeted Salary",
-      "value": null,
+      "value": {
+        "unit": "AUD",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
       "value_type": "currency_range"
     },
     {
@@ -117,7 +125,7 @@
     }
   ],
   "id": 8129890,
-  "updated_at": "2026-08-21T15:40:40-04:00",
+  "updated_at": "2026-08-31T18:50:28-04:00",
   "requisition_id": "3273520424",
   "title": "Senior Customer Success Manager",
   "company_name": "MongoDB",

@@ -33,7 +33,7 @@
     }
   ],
   "id": 8161217,
-  "updated_at": "2026-08-27T08:53:13-04:00",
+  "updated_at": "2026-08-30T19:42:20-04:00",
   "requisition_id": "20260152",
   "title": "Bilingual Senior Customer Success Manager (STE - 12 month contract, French/English)",
   "company_name": "Hootsuite",
@@ -50,6 +50,13 @@
     }
   ],
   "offices": [
+    {
+      "id": 83598,
+      "name": "Montréal",
+      "location": "Montréal, Quebec, Canada",
+      "child_ids": [],
+      "parent_id": 24309
+    },
     {
       "id": 24311,
       "name": "Toronto",

@@ -18,7 +18,7 @@
     {
       "id": 22194060,
       "name": "Position ID",
-      "value": "T10005731",
+      "value": "10005731",
       "value_type": "short_text"
     },
     {
@@ -74,13 +74,21 @@
     {
       "id": 5525802,
       "name": "Baseline Budgeted Salary",
-      "value": null,
+      "value": {
+        "unit": "USD",
+        "max_value": "345000.0",
+        "min_value": "241000.0"
+      },
       "value_type": "currency_range"
     },
     {
       "id": 5525816,
       "name": "Other Large Market Budgeted Salary",
-      "value": null,
+      "value": {
+        "unit": "USD",
+        "max_value": "293000.0",
+        "min_value": "205000.0"
+      },
       "value_type": "currency_range"
     },
     {
@@ -117,7 +125,7 @@
     }
   ],
   "id": 8138914,
-  "updated_at": "2026-08-24T13:11:52-04:00",
+  "updated_at": "2026-08-31T18:50:23-04:00",
   "requisition_id": "3273522460",
   "title": "Vice President, Solutions Architect",
   "company_name": "MongoDB",
@@ -135,23 +143,9 @@
   ],
   "offices": [
     {
-      "id": 3964,
-      "name": "Austin",
-      "location": "Austin, TX, United States",
-      "child_ids": [],
-      "parent_id": 23657
-    },
-    {
-      "id": 3960,
-      "name": "New York City",
-      "location": "New York, NY, United States",
-      "child_ids": [],
-      "parent_id": 23657
-    },
-    {
-      "id": 17687,
-      "name": "San Francisco ",
-      "location": "San Francisco, CA, United States",
+      "id": 4044,
+      "name": "Los Angeles ",
+      "location": "Los Angeles, CA, United States",
       "child_ids": [],
       "parent_id": 23657
     }

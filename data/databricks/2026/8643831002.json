@@ -31,7 +31,7 @@
     }
   ],
   "id": 8643831002,
-  "updated_at": "2026-08-18T14:40:45-04:00",
+  "updated_at": "2026-08-31T18:32:00-04:00",
   "requisition_id": "SLSQ427R348",
   "title": "Startup Hunter Account Executive",
   "company_name": "Databricks",
@@ -49,10 +49,13 @@
   ],
   "offices": [
     {
-      "id": 4012088002,
-      "name": "Calgary, Canada",
-      "location": "Calgary, Canada",
-      "child_ids": [],
+      "id": 4033854002,
+      "name": "Ontario, Canada",
+      "location": "Ontario, Canada",
+      "child_ids": [
+        4056724002,
+        4013297002
+      ],
       "parent_id": 4002841002
     }
   ],

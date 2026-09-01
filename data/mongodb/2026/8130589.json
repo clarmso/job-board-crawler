@@ -74,7 +74,11 @@
     {
       "id": 5525802,
       "name": "Baseline Budgeted Salary",
-      "value": null,
+      "value": {
+        "unit": "USD",
+        "max_value": "150000.0",
+        "min_value": "105000.0"
+      },
       "value_type": "currency_range"
     },
     {
@@ -121,7 +125,7 @@
     }
   ],
   "id": 8130589,
-  "updated_at": "2026-08-27T12:47:58-04:00",
+  "updated_at": "2026-08-31T04:40:12-04:00",
   "requisition_id": "3273520697",
   "title": "Senior Partner Marketing Manager",
   "company_name": "MongoDB",
