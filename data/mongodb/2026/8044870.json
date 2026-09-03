@@ -30,7 +30,7 @@
     {
       "id": 22194061,
       "name": "Team",
-      "value": "208-Customer Observability",
+      "value": "208-Observability",
       "value_type": "single_select"
     },
     {
@@ -74,13 +74,21 @@
     {
       "id": 5525802,
       "name": "Baseline Budgeted Salary",
-      "value": null,
+      "value": {
+        "unit": "EUR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
       "value_type": "currency_range"
     },
     {
       "id": 5525816,
       "name": "Other Large Market Budgeted Salary",
-      "value": null,
+      "value": {
+        "unit": "EUR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
       "value_type": "currency_range"
     },
     {
@@ -117,7 +125,7 @@
     }
   ],
   "id": 8044870,
-  "updated_at": "2026-08-21T15:40:40-04:00",
+  "updated_at": "2026-09-02T06:40:09-04:00",
   "requisition_id": "2273486842",
   "title": "Staff Technical Program Manager",
   "company_name": "MongoDB",

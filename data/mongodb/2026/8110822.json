@@ -1,0 +1,148 @@
+{
+  "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=8110822",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3513566,
+  "location": {
+    "name": "San Francisco"
+  },
+  "metadata": [
+    {
+      "id": 22194060,
+      "name": "Position ID",
+      "value": "10014117",
+      "value_type": "short_text"
+    },
+    {
+      "id": 24918,
+      "name": "Department ID",
+      "value": "D23015-Atlas Search",
+      "value_type": "single_select"
+    },
+    {
+      "id": 22194061,
+      "name": "Team",
+      "value": "278-Atlas Search Query",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4914027,
+      "name": "Region",
+      "value": "North America",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4137836,
+      "name": "Working Model Eligibility",
+      "value": [
+        "2-Flexible"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 4914029,
+      "name": "Job Level",
+      "value": "Professional - IC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24109,
+      "name": "Employment Type",
+      "value": "Full-time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 1073551,
+      "name": "Job Type",
+      "value": "Standard",
+      "value_type": "single_select"
+    },
+    {
+      "id": 988684,
+      "name": "JD Link",
+      "value": "https://docs.google.com/document/d/1EIT4enHmnkH73Hy4tONL_wYu3KBdgRLaibTZcTBVvV4/edit?usp=sharing",
+      "value_type": "url"
+    },
+    {
+      "id": 5525802,
+      "name": "Baseline Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 5525816,
+      "name": "Other Large Market Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 13324394,
+      "name": "Job Post Range (United States)",
+      "value": {
+        "unit": "USD",
+        "max_value": "297000.0",
+        "min_value": "151000.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 40497768,
+      "name": "Job Post Range (Canada)",
+      "value": {
+        "unit": "USD",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 57694516,
+      "name": "Job Post Range (Poland)",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 64002488,
+      "name": "Job Post Range (Italy)",
+      "value": null,
+      "value_type": "currency_range"
+    }
+  ],
+  "id": 8110822,
+  "updated_at": "2026-09-02T16:55:44-04:00",
+  "requisition_id": "3273513566",
+  "title": "Staff Engineer, Search Systems",
+  "company_name": "MongoDB",
+  "first_published": "2026-09-02T16:55:44-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;The Search Systems team at MongoDB builds the core infrastructure behind MongoDB Search and Vector Search. Our mission is to make advanced search capabilities feel native to the database, so developers can build powerful, scalable applications without standing up separate systems or compromising transactional performance.&lt;/p&gt;\n&lt;p&gt;We are the team behind mongot, the indexing and query execution engine that powers Search and Vector Search across MongoDB Atlas and self-managed deployments. Our work sits at the intersection of distributed systems, databases, and search infrastructure. We integrate Apache Lucene with MongoDB using native query operators like $search and $vectorSearch, build asynchronous change-stream-driven indexing pipelines that scale independently from transactional workloads, and support deployments across cloud, on-prem, and hybrid environments. Engineers on this team own meaningful subsystems, influence architectural decisions, and work on core database technology used by developers globally.&lt;/p&gt;\n&lt;p&gt;We are looking to speak to candidates who are based in San Francisco, CA for our hybrid working model.&lt;/p&gt;\n&lt;h3&gt;What You&#39;ll Do&lt;/h3&gt;\n&lt;p&gt;This is a rare opportunity to set the technical direction for one of MongoDB&#39;s most strategic investments. You will define the architecture of a self-contained search system that spans Community, Enterprise, and Atlas, while guiding how we integrate AI-native capabilities from Voyage AI. This is not a chance to influence a feature. It is a chance to shape the foundation of how developers everywhere build applications with MongoDB.&lt;/p&gt;\n&lt;p&gt;In this role, you will&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Own the cross-system data infrastructure layer for MongoDB&#39;s next-generation Search and Vector Search capabilities, carrying outcomes that span 6-18 months&lt;/li&gt;\n&lt;li&gt;Define the technical roadmap for Atlas Search, identifying gaps, proposing solutions, and driving alignment across engineering teams globally&lt;/li&gt;\n&lt;li&gt;Lead the architecture and evolution of the core mongot and Mongo Management Service infrastructure, making durability, consistency, and scale decisions with conviction&lt;/li&gt;\n&lt;li&gt;Drive complex, multi-team initiatives by building technical consensus, navigating ambiguity, and setting direction when there is no clean playbook&lt;/li&gt;\n&lt;li&gt;Serve as a trusted technical partner to leadership on roadmap, architecture, and engineering process, advising rather than just informing&lt;/li&gt;\n&lt;li&gt;Raise the technical ceiling of the team through mentoring, rigorous code review, and knowledge-sharing that creates leverage beyond your own output&lt;/li&gt;\n&lt;li&gt;Standardize how engineering teams across the globe contract with one another, reducing coordination costs and increasing execution velocity at scale&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;What We&#39;re Looking For&lt;/h3&gt;\n&lt;p&gt;Required&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;10+ years of experience in data management systems or related distributed infrastructure&lt;/li&gt;\n&lt;li&gt;Deep proficiency in modern programming languages and techniques, with Java fluency preferred&lt;/li&gt;\n&lt;li&gt;Demonstrable experience designing and operating distributed systems, cloud services, or SaaS products at scale&lt;/li&gt;\n&lt;li&gt;The ability to reason about systems at the physical layer: data consistency, durability guarantees, concurrency, and failure modes in distributed environments&lt;/li&gt;\n&lt;li&gt;A track record of operating at Staff or Principal scope: defining technical direction, resolving cross-team ambiguity, and personally championing initiatives from conception to delivery&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Preferred (not required)&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience designing or maintaining search platforms or distributed databases&lt;/li&gt;\n&lt;li&gt;Experience debugging and profiling multithreaded JVM applications and distributed systems&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;The profile we hire at this level&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Operational Architects. You understand the physical limits of the stack. You can articulate why a system breaks at 100x load, reason about the risks of a dual-write migration strategy, and make data consistency and durability decisions with conviction&lt;/li&gt;\n&lt;li&gt;Scale-First Thinkers. You identify risks before they surface. You think in migration paths, failure modes, and second-order architectural consequences, not just implementation details&lt;/li&gt;\n&lt;li&gt;Technical Force Multipliers. You create leverage across teams. You challenge requirements rather than execute them, set technical direction independently, and hold a high bar for architectural clarity whether you are mentoring a struggling engineer or reviewing a design with a principal.&lt;/li&gt;\n&lt;li&gt;Systems Intuitionists. You connect operational constraints to design decisions in concrete terms. You know why fsync matters. You know how atomic operations behave under contention. You have built systems where these things were not hypothetical.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;What Success Looks Like&lt;/h3&gt;\n&lt;p&gt;In 3 months: You have developed deep familiarity with the core mongot and Mongo Management Service repos and shipped your first meaningful contribution.&lt;/p&gt;\n&lt;p&gt;In 6 months: You are driving features that build out new infrastructure for Atlas Search and have identified at least one systemic risk or architectural gap the team had not fully articulated.&lt;/p&gt;\n&lt;p&gt;In 12 months: You are building POCs, setting technical direction on complex cross-team projects, and actively shaping what the next generation of MongoDB Search looks like.&lt;/p&gt;\n&lt;h3&gt;About MongoDB&lt;/h3&gt;\n&lt;p&gt;MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure.&lt;/p&gt;\n&lt;p&gt;With offices worldwide and over 67,000 customers, including AI-native startups and approximately 75% of the Fortune 100, relying on MongoDB for their most important applications, we’re powering the next era of software.&lt;/p&gt;\n&lt;p&gt;Our compass at MongoDB is our &lt;a href=&quot;https://www.mongodb.com/company&quot;&gt;Leadership Commitment,&lt;/a&gt; guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. &lt;a href=&quot;https://www.mongodb.com/company/blog/culture/employee-benefits-that-make-a-difference-at-mongodb&quot;&gt;From employee affinity groups, to fertility assistance and a generous parental leave policy&lt;/a&gt;, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys.&lt;a href=&quot;https://www.mongodb.com/blog/channel/culture&quot;&gt; Learn more about what it’s like to work at MongoDB&lt;/a&gt;, and help us make an impact on the world!&lt;/p&gt;\n&lt;p&gt;MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.&lt;/p&gt;\n&lt;p&gt;MongoDB, Inc. provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type and makes all hiring decisions without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.&lt;/p&gt;\n&lt;p&gt;Req ID: 3273513566&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;MongoDB’s base salary range for this role is posted below. Compensation at the time of offer is unique to each candidate and based on a variety of factors such as skill set, experience, qualifications, and work location. Salary is one part of MongoDB’s total compensation and benefits package. Other benefits for eligible employees may include: equity, participation in the employee stock purchase program, flexible paid time off, 20 weeks fully-paid gender-neutral parental leave, fertility and adoption assistance, 401(k) plan, mental health counseling, access to transgender-inclusive health insurance coverage, and health benefits offerings. Please note, the base salary range listed below and the benefits in this paragraph are only applicable to U.S.-based candidates.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;MongoDB’s base salary range for this role in the U.S. is:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$151,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$297,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 65526,
+      "name": "Atlas Search",
+      "child_ids": [],
+      "parent_id": 371021
+    }
+  ],
+  "offices": [
+    {
+      "id": 17687,
+      "name": "San Francisco ",
+      "location": "San Francisco, CA, United States",
+      "child_ids": [],
+      "parent_id": 23657
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": null
+}

@@ -1,0 +1,111 @@
+{
+  "id": "744000147039354",
+  "name": "Senior Platform Architect",
+  "uuid": "fdb797c2-7b5d-4a8a-9ef9-a88c3a99acd9",
+  "jobAdId": "930f8a8f-d769-4e67-ae14-523ec8cf7d75",
+  "defaultJobAd": true,
+  "refNumber": "JB0073100",
+  "company": {
+    "identifier": "ServiceNow",
+    "name": "ServiceNow"
+  },
+  "releasedDate": "2026-09-02T16:21:38.654Z",
+  "location": {
+    "city": "Milan",
+    "country": "it",
+    "address": "Milan, Torre Velasca, Piazza Velasca 5",
+    "postalCode": "20122",
+    "remote": false,
+    "hybrid": false,
+    "fullLocation": "Milan, , Italy"
+  },
+  "industry": {
+    "id": "it_and_services",
+    "label": "Information Technology And Services"
+  },
+  "department": {
+    "id": "2294004",
+    "label": "Customer Outcomes"
+  },
+  "function": {
+    "id": "consulting",
+    "label": "Consulting"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "not_applicable",
+    "label": "Not Applicable"
+  },
+  "customField": [
+    {
+      "fieldId": "60345fa28b4ba8595bef1863",
+      "fieldLabel": "Recruiting Team",
+      "valueId": "professional",
+      "valueLabel": "Professional"
+    },
+    {
+      "fieldId": "60345d5c5165a31b17288279",
+      "fieldLabel": "Region",
+      "valueId": "395ee3093de740ba9cb8b3d35cb67e2d",
+      "valueLabel": "EMEA - Europe, Middle East and Africa"
+    },
+    {
+      "fieldId": "6034601b43915a29a4b3389b",
+      "fieldLabel": "Job Location",
+      "valueId": "L_MIL005",
+      "valueLabel": "Milan, Torre Velasca, Piazza Velasca 5, Milan, 20122, Italy(L_MIL005)"
+    },
+    {
+      "fieldId": "60345e1a0b24a127cbdfa148",
+      "fieldLabel": "Employee Type",
+      "valueId": "0082f6cbe6154da19322cbab1f6aa5af",
+      "valueLabel": "Regular"
+    },
+    {
+      "fieldId": "5f63a78f1dae5c5c4e54ba2b",
+      "fieldLabel": "Department",
+      "valueId": "2294004",
+      "valueLabel": "Customer Outcomes"
+    },
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "it",
+      "valueLabel": "Italy"
+    },
+    {
+      "fieldId": "5f63a78f1dae5c5c4e54ba2a",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "ServiceNow"
+    },
+    {
+      "fieldId": "603462175165a31b1728827d",
+      "fieldLabel": "Cost Center",
+      "valueId": "CC1350",
+      "valueLabel": "1350 Impact Platform Architect"
+    },
+    {
+      "fieldId": "618ed92b8f5e5f110e5bfb95",
+      "fieldLabel": "Work Persona",
+      "valueId": "bf7551c6-9b06-4e7c-8217-3baf43edd060",
+      "valueLabel": "Flexible"
+    },
+    {
+      "fieldId": "690cc0e8c682c3dbadaa7d73",
+      "fieldLabel": "Job Posting Type",
+      "valueId": "professional",
+      "valueLabel": "Professional"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/ServiceNow/postings/744000147039354",
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

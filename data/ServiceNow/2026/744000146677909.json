@@ -1,0 +1,115 @@
+{
+  "id": "744000146677909",
+  "name": "IRM Technology Consultant",
+  "uuid": "70214279-03f9-42cb-b97a-02bd3475af05",
+  "jobAdId": "0e6719b3-7e52-4738-a5f0-e5d276267e2e",
+  "defaultJobAd": true,
+  "refNumber": "JB0074695",
+  "company": {
+    "identifier": "ServiceNow",
+    "name": "ServiceNow"
+  },
+  "releasedDate": "2026-09-01T10:30:22.016Z",
+  "location": {
+    "city": "Sao Paulo",
+    "region": "SAO PAULO",
+    "country": "br",
+    "address": "Vera Cruz II Condominium, Av. Brig. Faria Lima  4285 - Itaim Bibi",
+    "postalCode": "04538-133",
+    "remote": true,
+    "hybrid": false,
+    "fullLocation": "Sao Paulo, SAO PAULO, Brazil"
+  },
+  "industry": {
+    "id": "it_and_services",
+    "label": "Information Technology And Services"
+  },
+  "department": {
+    "id": "2294004",
+    "label": "Customer Outcomes"
+  },
+  "function": {
+    "id": "consulting",
+    "label": "Consulting"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "not_applicable",
+    "label": "Not Applicable"
+  },
+  "customField": [
+    {
+      "fieldId": "60345fa28b4ba8595bef1863",
+      "fieldLabel": "Recruiting Team",
+      "valueId": "professional",
+      "valueLabel": "Professional"
+    },
+    {
+      "fieldId": "60345d5c5165a31b17288279",
+      "fieldLabel": "Region",
+      "valueId": "c07e4bb2ef75103f5710e95052af2b21",
+      "valueLabel": "LATAM - Latin America"
+    },
+    {
+      "fieldId": "6034601b43915a29a4b3389b",
+      "fieldLabel": "Job Location",
+      "valueId": "L_SAO002",
+      "valueLabel": "Vera Cruz II Condominium, Av. Brig. Faria Lima, Sao Paulo, Acre, 04538-133, Brazil(L_SAO002)"
+    },
+    {
+      "fieldId": "60345e1a0b24a127cbdfa148",
+      "fieldLabel": "Employee Type",
+      "valueId": "0082f6cbe6154da19322cbab1f6aa5af",
+      "valueLabel": "Regular"
+    },
+    {
+      "fieldId": "5f63a78f1dae5c5c4e54ba2b",
+      "fieldLabel": "Department",
+      "valueId": "2294004",
+      "valueLabel": "Customer Outcomes"
+    },
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "br",
+      "valueLabel": "Brazil"
+    },
+    {
+      "fieldId": "5f63a78f1dae5c5c4e54ba2a",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "ServiceNow"
+    },
+    {
+      "fieldId": "603462175165a31b1728827d",
+      "fieldLabel": "Cost Center",
+      "valueId": "CC2250",
+      "valueLabel": "2250 Expert Services PLD Risk"
+    },
+    {
+      "fieldId": "618ed92b8f5e5f110e5bfb95",
+      "fieldLabel": "Work Persona",
+      "valueId": "5530c877-6b63-4bf5-bde8-215ef35bf172",
+      "valueLabel": "Flexible or Remote"
+    },
+    {
+      "fieldId": "690cc0e8c682c3dbadaa7d73",
+      "fieldLabel": "Job Posting Type",
+      "valueId": "professional",
+      "valueLabel": "Professional"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/ServiceNow/postings/744000146677909",
+  "creator": {
+    "name": "Ercilia Vianna"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

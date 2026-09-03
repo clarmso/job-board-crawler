@@ -1,0 +1,108 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6151886004",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": true,
+      "requires_processing_consent": false,
+      "requires_retention_consent": true,
+      "retention_period": 730,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 5203994004,
+  "location": {
+    "name": "Canada, Waterloo, ON"
+  },
+  "metadata": [
+    {
+      "id": 4367803004,
+      "name": "Cost Center",
+      "value": "GAMES4CA70-CAL2950387 Nurture CA",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167524004,
+      "name": "Career Page - Office Location",
+      "value": "Canada, Waterloo, ON",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167525004,
+      "name": "Career Page - Department",
+      "value": "Software Engineering & Services",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9377282004,
+      "name": "Career Page - Sub Department",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 20089613004,
+      "name": "Career Page - Studio Project",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 4395289004,
+      "name": "Worker Type",
+      "value": "Employee",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4404049004,
+      "name": "Country",
+      "value": "Canada",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9262269004,
+      "name": "Job Family",
+      "value": "Software Development Engineering",
+      "value_type": "short_text"
+    },
+    {
+      "id": 9262270004,
+      "name": "Job Family Group",
+      "value": "Engineering",
+      "value_type": "short_text"
+    },
+    {
+      "id": 21724118004,
+      "name": "Bungie Geo Pay",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 6151886004,
+  "updated_at": "2026-09-02T14:54:34-04:00",
+  "requisition_id": "R-125156",
+  "title": "Staff Software Engineer",
+  "company_name": "PlayStation Global",
+  "first_published": "2026-09-02T14:54:34-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Why Sony Interactive Entertainment?&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Sony Interactive Entertainment isn’t just the Best Place to Play — it’s also the Best Place to Work. Sony Interactive Entertainment (SIE) is the company behind the PlayStation brand. As a subsidiary of Sony Group Corporation, we’re part of a proud legacy of innovation and excellence. SIE is a dynamic technology company, delivering cutting-edge hardware and network services to more than 100 million people and an entertainment leader, home to some of the most beloved and recognizable intellectual properties (IP) in the world. Our role at SIE is to create and nurture the experiences under the PlayStation brand, a name synonymous with entertainment excellence and creativity.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Staff Software Engineer, Adaptive Experiences Platform&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Waterloo, ON&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;About the Role&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;The DTIS Nurture organization is building the next generation of adaptive experiences for PlayStation. Our vision is to make every customer touchpoint more relevant, useful, and joyful by combining reusable experience capabilities with personalization, merchandising, experimentation, and intelligent decisioning.&lt;/p&gt;\n&lt;p&gt;We are looking for a &lt;strong&gt;Staff Software Engineer &lt;/strong&gt;to help lead the evolution of our Dynamic Experience Management, allowing teams to create and optimize experiences without requiring bespoke implementation for every client or a client release for every layout change.&lt;/p&gt;\n&lt;p&gt;You will be a hands-on technical leader working across the experience stack. You will also shape the architecture needed to extend capabilities beyond PS5, across web, mobile, and other PlayStation devices. This is an opportunity to define foundational technology that will change how PlayStation builds, delivers, experiments with, and learns from customer experiences at scale.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Define and drive the technical direction for our experiances SDK, translating the adaptive-experiences vision into an incremental, production-ready architecture.&lt;/li&gt;\n&lt;li&gt;Lead the modernization of the PS5 Store experience runtime, including migration from legacy EMS SDK and client-specific rendering paths to schema-driven DXM experiences rendered through Content SDK.&lt;/li&gt;\n&lt;li&gt;Design and evolve the platform-independent composition layer, public TypeScript APIs, versioned schemas, content adapters, component model, data bindings, and platform renderer contracts.&lt;/li&gt;\n&lt;li&gt;Build reusable experience primitives and native rendering capabilities that support responsive layouts, personalization, experimentation, telemetry, accessibility, localization, and platform-specific interaction models.&lt;/li&gt;\n&lt;li&gt;Establish safe coexistence and migration patterns, including backward compatibility, capability negotiation, validation, feature flags, fallbacks, rollback, and observability.&lt;/li&gt;\n&lt;li&gt;Profile and optimize bundle size, startup and time-to-interactive performance, memory usage, rendering behavior, and runtime reliability on resource-constrained client platforms.&lt;/li&gt;\n&lt;li&gt;Improve developer experience through clear interfaces, reference integrations, test harnesses, preview and debugging tools, automated compatibility testing, and high-quality documentation.&lt;/li&gt;\n&lt;li&gt;Help establish governed, agent-assisted authoring and validation workflows that can translate design and business intent into trusted artifacts, supported by policy checks and evaluation suites.&lt;/li&gt;\n&lt;li&gt;Partner with client, design system, merchandising, content, personalization, experimentation, and platform service teams to align contracts and deliver end-to-end capabilities.&lt;/li&gt;\n&lt;li&gt;Provide technical leadership across team boundaries, mentor engineers, make sound trade-offs in ambiguous problem spaces, and communicate architecture and decisions to technical and non-technical stakeholders.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Required Qualifications&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Bachelor’s degree in Computer Science, Software Engineering, or a related field, or equivalent practical experience.&lt;/li&gt;\n&lt;li&gt;8+ years of professional software engineering experience, including significant experience designing and delivering production client platforms, SDKs, frameworks, or shared libraries.&lt;/li&gt;\n&lt;li&gt;Expert-level proficiency with TypeScript or JavaScript and strong experience with React, React Native, or a comparable component-based client framework.&lt;/li&gt;\n&lt;li&gt;Strong software architecture and API design skills, including modularity, dependency management, versioning, backward compatibility, and incremental migration of large production systems.&lt;/li&gt;\n&lt;li&gt;Experience building data-driven or server-driven user interfaces, reusable component systems, or runtime composition frameworks.&lt;/li&gt;\n&lt;li&gt;Demonstrated ability to diagnose and improve client performance and reliability using profiling, telemetry, automated testing, and production observability.&lt;/li&gt;\n&lt;li&gt;Experience designing for more than one client environment, such as console, mobile, web, TV, or embedded platforms, with a practical understanding of platform-specific constraints.&lt;/li&gt;\n&lt;li&gt;Proven track record of solving ambiguous, cross-functional problems with minimal direction and driving alignment without relying on formal authority.&lt;/li&gt;\n&lt;li&gt;Strong written and verbal communication skills, including the ability to document architecture and explain complex technical decisions clearly.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Preferred Qualifications&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience with console development, living-room interfaces, focus-based navigation, or performance-constrained native clients.&lt;/li&gt;\n&lt;li&gt;Experience with schema-backed declarative UI, domain-specific languages, JSON Schema, component expansion, data binding, hydration, or client-side rendering engines.&lt;/li&gt;\n&lt;li&gt;Experience building or integrating client SDKs, content management or merchandising systems, personalization platforms, experimentation frameworks, or design systems.&lt;/li&gt;\n&lt;li&gt;Experience migrating a large client application away from a legacy rendering or content-delivery framework using staged rollout, compatibility layers, and measurable exit criteria.&lt;/li&gt;\n&lt;li&gt;Experience developing platform adapters or renderers for iOS, Android, web, or other native client environments.&lt;/li&gt;\n&lt;li&gt;Familiarity with content and layout separation, runtime content sources, telemetry provenance, accessibility, localization, and safe fallback behavior.&lt;/li&gt;\n&lt;li&gt;Experience with developer tooling, visual preview systems, contract testing, schema validation, or automated cross-platform regression testing.&lt;/li&gt;\n&lt;li&gt;Experience applying generative AI or agentic workflows to software or content creation, including evaluation, governance, and deterministic output constraints.&lt;/li&gt;\n&lt;li&gt;A track record of technical leadership and mentoring across multiple teams.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Additional Skills&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Motivated self-starter who combines long-term architectural thinking with pragmatic, incremental delivery.&lt;/li&gt;\n&lt;li&gt;Customer-focused and attentive to developer experience, operational usability, and measurable product outcomes.&lt;/li&gt;\n&lt;li&gt;Comfortable working in a fast-paced, collaborative environment with partners across product, design, engineering, and operations.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;#LI-KS1&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;At SIE, we consider several factors when setting each role’s base pay range, including the competitive benchmarking data for the market and geographic location.&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;br&gt;Please note that the base pay range may vary in line with our hybrid working policy and individual base pay will be determined based on job-related factors which may include knowledge, skills, experience, and location.&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;br&gt;In addition, this role &lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;is eligible&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; for SIE’s top-tier benefits package that includes medical, dental, vision, matching 401(k), paid time off, wellness program and coveted employee discounts for Sony products. &lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;This role also may be eligible for a bonus package.&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; Click&amp;nbsp;&lt;/span&gt;&lt;a href=&quot;https://careers.playstation.com/benefits&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; to learn more.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;The estimated base pay range for this role is listed below.&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$188,200&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$282,200 CAD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p class=&quot;p1&quot;&gt;Please note, Sony Interactive Entertainment conducts background checks at the offer stage for all new employees (which may include criminal background checks for some roles) and will need to process personal information to support these checks.&lt;/p&gt;\n&lt;p class=&quot;p1&quot;&gt;Please refer to our&amp;nbsp;&lt;a href=&quot;https://www.playstation.com/legal/careers-privacy-notice/&quot; target=&quot;_blank&quot;&gt;Candidate Privacy Notice&lt;/a&gt;&amp;nbsp;for more information about what personal information we collect, how we use it, who we share it with, and your data protection rights.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Equal Opportunity Statement:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Sony is an Equal Opportunity Employer. All persons will receive consideration for employment without regard to gender (including gender identity, gender expression and gender reassignment), race (including colour, nationality, ethnic or national origin), religion or belief, marital or civil partnership status, disability, age, sexual orientation, pregnancy, maternity or parental status, trade union membership or membership in any other legally protected category.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;We strive to create an inclusive environment, empower employees and embrace diversity. We encourage everyone to respond.&amp;nbsp;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Sony Interactive Entertainment is a Fair Chance employer and qualified applicants with arrest and conviction records will be considered for employment.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4065073004,
+      "name": "Commerce Services",
+      "child_ids": [],
+      "parent_id": 4065067004
+    }
+  ],
+  "offices": [
+    {
+      "id": 4012056004,
+      "name": "CAN-ON-Waterloo",
+      "location": "Ontario, Canada",
+      "child_ids": [],
+      "parent_id": 4012054004
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

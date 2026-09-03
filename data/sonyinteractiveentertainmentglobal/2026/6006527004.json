@@ -6,7 +6,7 @@
       "requires_consent": true,
       "requires_processing_consent": false,
       "requires_retention_consent": true,
-      "retention_period": 1460,
+      "retention_period": 730,
       "demographic_data_consent_applies": true
     }
   ],
@@ -18,13 +18,13 @@
     {
       "id": 4367803004,
       "name": "Cost Center",
-      "value": "GAMES1US70-USN1950151 D2C-US-Commerce Operations",
+      "value": "GAMES1EUHQ-EUA50HQ034 D2C-JP-Commerce Operations",
       "value_type": "single_select"
     },
     {
       "id": 4167524004,
       "name": "Career Page - Office Location",
-      "value": "United States, San Diego, CA",
+      "value": "United Kingdom, London",
       "value_type": "single_select"
     },
     {
@@ -54,19 +54,19 @@
     {
       "id": 4404049004,
       "name": "Country",
-      "value": "United States of America",
+      "value": "United Kingdom",
       "value_type": "single_select"
     },
     {
       "id": 9262269004,
       "name": "Job Family",
-      "value": "Financial Analysis",
+      "value": "Business Intelligence",
       "value_type": "short_text"
     },
     {
       "id": 9262270004,
       "name": "Job Family Group",
-      "value": "Finance",
+      "value": "Information Technology",
       "value_type": "short_text"
     },
     {
@@ -77,7 +77,7 @@
     }
   ],
   "id": 6006527004,
-  "updated_at": "2026-08-28T14:37:39-04:00",
+  "updated_at": "2026-09-02T13:47:46-04:00",
   "requisition_id": "R-124134",
   "title": "Payments Analyst",
   "company_name": "PlayStation Global",
@@ -95,11 +95,11 @@
   ],
   "offices": [
     {
-      "id": 4012032004,
-      "name": "USA-CA-San Diego-Via Esprillo",
-      "location": null,
+      "id": 4011923004,
+      "name": "GBR-London-10GMS",
+      "location": "London, England, United Kingdom",
       "child_ids": [],
-      "parent_id": 4089335004
+      "parent_id": 4011922004
     }
   ],
   "ai_disclaimer": null,

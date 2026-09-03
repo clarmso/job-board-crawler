@@ -1,0 +1,111 @@
+{
+  "id": "744000146690462",
+  "name": "Sr Business Strategy Specialist",
+  "uuid": "eddad516-a466-479a-8da8-fceb999a1498",
+  "jobAdId": "9b2caf36-1f84-4917-b5d8-6d6bc016eb55",
+  "defaultJobAd": true,
+  "refNumber": "JB0075092",
+  "company": {
+    "identifier": "ServiceNow",
+    "name": "ServiceNow"
+  },
+  "releasedDate": "2026-09-01T11:45:35.486Z",
+  "location": {
+    "city": "Gurgaon",
+    "country": "in",
+    "address": "One Horizon Center One Horizon Center, Golf Course Road DLF Phase–5, Sector 43",
+    "postalCode": "122002",
+    "remote": false,
+    "hybrid": false,
+    "fullLocation": "Gurgaon, , India"
+  },
+  "industry": {
+    "id": "it_and_services",
+    "label": "Information Technology And Services"
+  },
+  "department": {
+    "id": "2293987",
+    "label": "Corporate Development & Strategy"
+  },
+  "function": {
+    "id": "strategy_planning",
+    "label": "Strategy/Planning"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "not_applicable",
+    "label": "Not Applicable"
+  },
+  "customField": [
+    {
+      "fieldId": "60345fa28b4ba8595bef1863",
+      "fieldLabel": "Recruiting Team",
+      "valueId": "professional",
+      "valueLabel": "Professional"
+    },
+    {
+      "fieldId": "60345d5c5165a31b17288279",
+      "fieldLabel": "Region",
+      "valueId": "858884996eea4a49baa6231279f39054",
+      "valueLabel": "APAC - Asia Pacific"
+    },
+    {
+      "fieldId": "6034601b43915a29a4b3389b",
+      "fieldLabel": "Job Location",
+      "valueId": "L_GUR002",
+      "valueLabel": "One Horizon Center, Golf Course Road, Gurgaon, 122002, India(L_GUR002)"
+    },
+    {
+      "fieldId": "60345e1a0b24a127cbdfa148",
+      "fieldLabel": "Employee Type",
+      "valueId": "0082f6cbe6154da19322cbab1f6aa5af",
+      "valueLabel": "Regular"
+    },
+    {
+      "fieldId": "5f63a78f1dae5c5c4e54ba2b",
+      "fieldLabel": "Department",
+      "valueId": "2293987",
+      "valueLabel": "Corporate Development & Strategy"
+    },
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "in",
+      "valueLabel": "India"
+    },
+    {
+      "fieldId": "5f63a78f1dae5c5c4e54ba2a",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "ServiceNow"
+    },
+    {
+      "fieldId": "603462175165a31b1728827d",
+      "fieldLabel": "Cost Center",
+      "valueId": "CC3814",
+      "valueLabel": "3814 Inspire Value - Services & Innovation"
+    },
+    {
+      "fieldId": "618ed92b8f5e5f110e5bfb95",
+      "fieldLabel": "Work Persona",
+      "valueId": "5530c877-6b63-4bf5-bde8-215ef35bf172",
+      "valueLabel": "Flexible or Remote"
+    },
+    {
+      "fieldId": "690cc0e8c682c3dbadaa7d73",
+      "fieldLabel": "Job Posting Type",
+      "valueId": "professional",
+      "valueLabel": "Professional"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/ServiceNow/postings/744000146690462",
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

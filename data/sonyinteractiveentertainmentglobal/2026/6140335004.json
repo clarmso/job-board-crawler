@@ -1,0 +1,108 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6140335004",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": true,
+      "requires_processing_consent": false,
+      "requires_retention_consent": true,
+      "retention_period": 730,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 5198535004,
+  "location": {
+    "name": "Canada, Remote"
+  },
+  "metadata": [
+    {
+      "id": 4367803004,
+      "name": "Cost Center",
+      "value": "GAMES3CA70-CAL1900745 PSS TC&S Canada",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167524004,
+      "name": "Career Page - Office Location",
+      "value": "Canada, Remote",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167525004,
+      "name": "Career Page - Department",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 9377282004,
+      "name": "Career Page - Sub Department",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 20089613004,
+      "name": "Career Page - Studio Project",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 4395289004,
+      "name": "Worker Type",
+      "value": "Employee",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4404049004,
+      "name": "Country",
+      "value": "Canada",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9262269004,
+      "name": "Job Family",
+      "value": "Software Development Engineering",
+      "value_type": "short_text"
+    },
+    {
+      "id": 9262270004,
+      "name": "Job Family Group",
+      "value": "Engineering",
+      "value_type": "short_text"
+    },
+    {
+      "id": 21724118004,
+      "name": "Bungie Geo Pay",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 6140335004,
+  "updated_at": "2026-09-02T18:51:08-04:00",
+  "requisition_id": "R-125050",
+  "title": "Lead Analytics Engineer",
+  "company_name": "PlayStation Global",
+  "first_published": "2026-09-02T16:05:07-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Why Sony Interactive Entertainment?&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Sony Interactive Entertainment isn’t just the Best Place to Play — it’s also the Best Place to Work. Sony Interactive Entertainment (SIE) is the company behind the PlayStation brand. As a subsidiary of Sony Group Corporation, we’re part of a proud legacy of innovation and excellence. SIE is a dynamic technology company, delivering cutting-edge hardware and network services to more than 100 million people and an entertainment leader, home to some of the most beloved and recognizable intellectual properties (IP) in the world. Our role at SIE is to create and nurture the experiences under the PlayStation brand, a name synonymous with entertainment excellence and creativity.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;PlayStation Studios is the game development division of Sony PlayStation, and is responsible for developing some of the most recognisable and ambitious console games and franchises on PlayStation, including The Last of Us, Horizon, Spider-Man, God of War, Helldivers and Gran Turismo.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;br&gt;We work with some of the best game studios in the world, and use data to help them make their games even better. We provide end-to-end analytics services for PlayStation Studios and use data to help them in the game development lifecycle. We are looking for talented people to join us in pushing the boundaries of game analytics for PlayStation games.&lt;br&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;strong&gt;As a Lead Analytics Developer,&lt;/strong&gt; you’ll work in our cross-disciplinary engineering team to scale our platform, expand its reach, and help define and build the future of analytics for PlayStation games. You should have a passion for video games and a background in data or analytics engineering.&amp;nbsp; You’re looking for a fun, dynamic environment to take on new challenges.&lt;br&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;strong&gt;In your first six months&lt;/strong&gt;, you will work on new title launches, and build data models to ensure efficient and consistent queries. To build these data models, you’ll work directly with game studios and data analysts to design and validate suitable in-game telemetry. You’ll also help expand our use of technologies, such as dbt and airflow, in ways that are suitable to our use cases. You will be given ownership of data models for specific games and work closely with Game Analytics team members and game studio colleagues to ensure we’re building with consistency and performance in mind.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;br&gt;We’d love to hear from you if:&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li style=&quot;color: #000000 !important;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;You are adept at writing SQL on analytics (OLAP) databases (preferably Redshift, or similar databases)&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;span style=&quot;color: #000000;&quot;&gt;You have experience implementing and using data modelling tools such as dbt or SQLMesh&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;color: #000000 !important;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;You have experience in transforming business needs into data model requirements &amp;amp; solutions&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;color: #000000 !important;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;You’re excited by Big Data projects and technology, and want to gain more experience in this area&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;color: #000000 !important;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;You’re committed to quality as a top priority, and have an interest in repeatable, testable, destructible, test-driven database development&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;color: #000000 !important;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Bonus points for:&lt;/span&gt;\n&lt;ul&gt;\n&lt;li style=&quot;color: #000000 !important;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;a degree in Computer Science&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;color: #000000 !important;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;experience with Python, AWS Glue, source control (Git, Liquibase), Airflow&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;color: #000000 !important;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;familiarity with AAA game development and modern console games&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;br&gt;We are an equal opportunity employer and value diversity at our company.&amp;nbsp; We do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, marital status, or disability.&lt;/span&gt;&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;At SIE, we consider several factors when setting each role’s base pay range, including the competitive benchmarking data for the market and geographic location.&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Please note that the base pay range may vary in line with our hybrid working policy and individual base pay will be determined based on job-related factors which may include knowledge, skills, experience, and location.&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;In addition, this role is eligible for SIE’s top-tier benefits package that includes medical, dental, vision, matching 401(k), paid time off, wellness program and coveted employee discounts for Sony products. This role also may be eligible for a bonus package. Click &lt;/span&gt;&lt;a href=&quot;https://careers.playstation.com/benefits&quot; target=&quot;_blank&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; to learn more.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;This is a flexible role that can be remote, with varying pay ranges based on geographic location. For example, if you are based out of Seattle, the estimated base pay range for this role is listed below.&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$141,900&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$212,900 CAD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p class=&quot;p1&quot;&gt;Please note, Sony Interactive Entertainment conducts background checks at the offer stage for all new employees (which may include criminal background checks for some roles) and will need to process personal information to support these checks.&lt;/p&gt;\n&lt;p class=&quot;p1&quot;&gt;Please refer to our&amp;nbsp;&lt;a href=&quot;https://www.playstation.com/legal/careers-privacy-notice/&quot; target=&quot;_blank&quot;&gt;Candidate Privacy Notice&lt;/a&gt;&amp;nbsp;for more information about what personal information we collect, how we use it, who we share it with, and your data protection rights.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Equal Opportunity Statement:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Sony is an Equal Opportunity Employer. All persons will receive consideration for employment without regard to gender (including gender identity, gender expression and gender reassignment), race (including colour, nationality, ethnic or national origin), religion or belief, marital or civil partnership status, disability, age, sexual orientation, pregnancy, maternity or parental status, trade union membership or membership in any other legally protected category.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;We strive to create an inclusive environment, empower employees and embrace diversity. We encourage everyone to respond.&amp;nbsp;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Sony Interactive Entertainment is a Fair Chance employer and qualified applicants with arrest and conviction records will be considered for employment.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4037289004,
+      "name": "PD Tools & Services",
+      "child_ids": [],
+      "parent_id": 4037187004
+    }
+  ],
+  "offices": [
+    {
+      "id": 4023572004,
+      "name": "CAN-QC-Telecommute",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 4012054004
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

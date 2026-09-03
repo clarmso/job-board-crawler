@@ -1,0 +1,96 @@
+{
+  "absolute_url": "https://careers.datadoghq.com/detail/8172855/?gh_jid=8172855",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 2708278,
+  "location": {
+    "name": "Paris, France"
+  },
+  "metadata": [
+    {
+      "id": 33310,
+      "name": "Time Type",
+      "value": "Full time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 166208,
+      "name": "Area - Engineering",
+      "value": "Data Science",
+      "value_type": "single_select"
+    },
+    {
+      "id": 498252,
+      "name": "Cost Center",
+      "value": "Engineering - Dev Eng",
+      "value_type": "single_select"
+    },
+    {
+      "id": 516515,
+      "name": "Geography",
+      "value": "EMEA",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9593635,
+      "name": "Early Career Time Type",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 29446322,
+      "name": "Pay Transparency Range",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 31273219,
+      "name": "Does this role require access to ITAR-controlled data?",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 58619948,
+      "name": "IC or MG",
+      "value": "IC",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8172855,
+  "updated_at": "2026-09-02T12:39:47-04:00",
+  "requisition_id": "R10167",
+  "title": "Senior Applied Scientist - AI Platform",
+  "company_name": "Datadog",
+  "first_published": "2026-09-02T12:39:47-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;AI Platform builds the foundations of Datadog&#39;s AI efforts. The org is 70+ people organised in three pillars: training and serving (GPU clusters, distributed training, low-level infrastructure), agents (agent harnesses, memory systems, the internal AI gateway that routes every LLM request at Datadog), and evaluation and experimentation. This role sits in the evaluation and experimentation pillar, which owns Datadog&#39;s shared annotation and evaluation infrastructure — including the evaluation scenario store and the telemetry archival systems used across the Bits org. Together they let an agent travel back in time and query what Datadog looked like at the exact moment an incident happened, so scenarios can be replayed and agent performance tracked over time.&lt;/p&gt;\n&lt;p&gt;Specifically, you&#39;ll be the first applied scientist on GenSim (Generative Simulations), the team that builds the environments Datadog&#39;s agents learn in. GenSim doesn&#39;t replay sampled telemetry — it stands up real, fully instrumented applications that talk to Datadog, drives them with representative traffic, injects controlled failures, and records what happens. Because GenSim injected the failure, it knows the ground truth. That corpus — hundreds of postmortem-derived scenarios and thousands of runnable applications — is today the primary source of post-training data for Datadog&#39;s own SRE model, and the substrate that Bits AI SRE and our other agents are trained and evaluated against.&lt;/p&gt;\n&lt;p&gt;The team has no applied science support today and is learning post-training data methodology on the fly. That&#39;s the gap this role fills, and the open questions are the interesting part. How do you tell whether a generated environment is actually representative of the messy, incomplete telemetry real customers run — rather than a suspiciously clean one where every monitor exists and every service emits complete logs? How do you make injected problems genuinely hard, and how do you even measure difficulty? How do you define and control the quality of post-training data when correctness, representativeness and difficulty pull in different directions? How do you evaluate an agent end to end when the trajectory is non-deterministic? Creating simulated agent environments for monitoring and SRE work is not well solved in open source or in published research, and Datadog is the leading company in this field. If those are the problems you want to spend your time on, come build this with us.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;What You&#39;ll Do:&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Own the applied science direction for GenSim: set the methodology and the forward-looking technical calls on how simulated environments and post-training data should be built, on a team where that decision-making does not exist yet.&lt;/li&gt;\n&lt;li&gt;Define, measure and raise the quality of post-training data — basic correctness, representativeness against the real distribution of customer systems and production telemetry, and difficulty — and make those measures something the team can act on release over release.&lt;/li&gt;\n&lt;li&gt;Close the realism gap. Simulated environments today are too clean and the injected problems are not yet hard enough; you&#39;ll drive the research and the engineering that make them look like real, imperfect production systems.&lt;/li&gt;\n&lt;li&gt;Build scalable, production-grade systems rather than research scripts. The output is not just a dataset — it is a system of synthetic environments that must be reliable and invokable inside a training loop.&lt;/li&gt;\n&lt;li&gt;Determine how this data is best applied, in LLM post-training and in evaluation, and own the agent and LLM application evaluation approaches for these environments.&lt;/li&gt;\n&lt;li&gt;Work cross-functionally with the engineers and applied scientists on adjacent teams — Bits AI SRE, the model training effort, and the wider evaluation and experimentation pillar — so that what you learn moves freely in both directions.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;Who You Are:&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;You have a PhD, MS or equivalent research experience in a scientific field, with strong applied mathematics grounding.&lt;/li&gt;\n&lt;li&gt;6+ years of relevant applied science or ML engineering experience, including setting technical direction for others.&lt;/li&gt;\n&lt;li&gt;You have hands-on experience with LLM and agent post-training data: how it is created, managed, and how training-data quality is controlled. This is the requirement that matters most.&lt;/li&gt;\n&lt;li&gt;You have real domain expertise in LLMs and agentic applications — not classical ML fine-tuning. Fine-tuning classifiers or traditional models is a different problem from the one this team is solving.&lt;/li&gt;\n&lt;li&gt;You have evaluated agents or LLM applications, and can define what &#39;good&#39; means before you measure it.&lt;/li&gt;\n&lt;li&gt;You are a strong programmer and production software engineer. Python at minimum, plus the ability to ship scalable production systems and work with distributed systems.&lt;/li&gt;\n&lt;li&gt;You collaborate well across engineering and science teams, and you&#39;re comfortable being the domain expert who decides what comes next.&lt;/li&gt;\n&lt;li&gt;You thrive in ambiguity and can make sound technical calls when the path isn&#39;t yet defined.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;Bonus Points:&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Hands-on LLM fine-tuning, post-training or model training experience.&lt;/li&gt;\n&lt;li&gt;Background in statistics, experiment design and data analysis.&lt;/li&gt;\n&lt;li&gt;Experience deploying production-level ML infrastructure.&lt;/li&gt;\n&lt;li&gt;Observability or monitoring systems background.&lt;/li&gt;\n&lt;li&gt;Architecture-level understanding of LLMs.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;Benefits &amp;amp; Growth:&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;New hire stock equity (RSUs) and employee stock purchase plan (ESPP)&lt;/li&gt;\n&lt;li&gt;Continuous professional development, product training, and career pathing&lt;/li&gt;\n&lt;li&gt;Intra-departmental mentor and buddy program for in-house networking&lt;/li&gt;\n&lt;li&gt;An inclusive company culture and the ability to join our Community Guilds&lt;/li&gt;\n&lt;li&gt;Access to Inclusion Talks, our internal panel discussions&lt;/li&gt;\n&lt;li&gt;Free, global Spring Health benefits for employees and dependents age 6+&lt;/li&gt;\n&lt;li&gt;Competitive global benefits&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;em&gt;Benefits and Growth listed above may vary based on the country of your employment and the nature of your employment with Datadog.&lt;/em&gt;&lt;/p&gt;\n&lt;p style=&quot;color: white;&quot;&gt;#LI-Hybrid&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;hr&gt;\n&lt;p&gt;&lt;strong&gt;About Datadog:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Datadog is the leading observability and security platform for the AI era, providing businesses with unified visibility across the technology stack to manage complexity at scale. It brings applications, infrastructure, data, models, and security into one place, using AI to detect and resolve issues before they impact customers. Trusted globally by Fortune 500 companies and high-growth AI leaders, Datadog enables businesses to move faster with clarity and confidence. Learn more about #DatadogLife on &lt;a href=&quot;https://www.instagram.com/datadoghq/?hl=en&quot; target=&quot;_blank&quot;&gt;Instagram&lt;/a&gt;, &lt;a href=&quot;https://www.linkedin.com/company/datadog&quot; target=&quot;_blank&quot;&gt;LinkedIn,&lt;/a&gt; and &lt;a href=&quot;https://learn.datadoghq.com/&quot; target=&quot;_blank&quot;&gt;Datadog Learning Center. &lt;/a&gt;&lt;/p&gt;\n&lt;hr&gt;\n&lt;p data-renderer-start-pos=&quot;215&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Equal Opportunity at Datadog:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Datadog is proud to offer &lt;a href=&quot;https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf&quot; target=&quot;_blank&quot;&gt;equal employment opportunity&lt;/a&gt; to everyone regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, veteran status, and other characteristics protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. Here are our &lt;a href=&quot;https://www.datadoghq.com/legal/candidate-legal-notices/&quot; target=&quot;_blank&quot;&gt;Candidate Legal Notices&lt;/a&gt; for your reference.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Datadog endeavors to make our Careers Page accessible to all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please complete &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSeoJeduEZ2NdZF_65uZmWUrCM-zee7yADXX1s6Xr9zAGq8iKA/viewform&quot; target=&quot;_blank&quot;&gt;this form&lt;/a&gt;. This form is for accommodation requests only and cannot be used to inquire about the status of applications.&amp;nbsp;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;662&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Privacy and AI Guidelines:&lt;/strong&gt;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;662&quot;&gt;Any information you submit to Datadog as part of your application will be processed in accordance with Datadog’s&amp;nbsp;&lt;a class=&quot;c-link&quot; href=&quot;https://www.datadoghq.com/legal/applicant-candidate-privacy/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.datadoghq.com/legal/applicant-candidate-privacy/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Applicant and Candidate Privacy Notice&lt;/a&gt;. For information on our AI policy, please visit &lt;a href=&quot;https://www.datadoghq.com/legal/interviewing-at-datadog-ai-guidelines/&quot; target=&quot;_blank&quot;&gt;Interviewing at Datadog AI Guidelines&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 72253,
+      "name": "Dev Eng",
+      "child_ids": [],
+      "parent_id": 9022
+    }
+  ],
+  "offices": [
+    {
+      "id": 8604,
+      "name": "Paris",
+      "location": "Paris, Paris, France",
+      "child_ids": [],
+      "parent_id": 78094
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}
