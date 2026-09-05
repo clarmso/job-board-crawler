@@ -1,0 +1,112 @@
+{
+  "id": "744000147192599",
+  "name": "Mgr, Solution Consulting",
+  "uuid": "1a373f71-c0a5-4568-b23f-818ed2fc7f7d",
+  "jobAdId": "450ebb39-3124-4098-aed8-8e2f25c81b94",
+  "defaultJobAd": true,
+  "refNumber": "JB0074055",
+  "company": {
+    "identifier": "ServiceNow",
+    "name": "ServiceNow"
+  },
+  "releasedDate": "2026-09-03T08:44:56.572Z",
+  "location": {
+    "city": "Stockholm",
+    "region": "Stockholm County",
+    "country": "se",
+    "address": "Frosundaviks Alle 1, 6th Floor",
+    "postalCode": "169 70",
+    "remote": false,
+    "hybrid": true,
+    "fullLocation": "Stockholm, Stockholm County, Sweden"
+  },
+  "industry": {
+    "id": "it_and_services",
+    "label": "Information Technology And Services"
+  },
+  "department": {
+    "id": "2294208",
+    "label": "Sales"
+  },
+  "function": {
+    "id": "consulting",
+    "label": "Consulting"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "not_applicable",
+    "label": "Not Applicable"
+  },
+  "customField": [
+    {
+      "fieldId": "60345fa28b4ba8595bef1863",
+      "fieldLabel": "Recruiting Team",
+      "valueId": "professional",
+      "valueLabel": "Professional"
+    },
+    {
+      "fieldId": "60345d5c5165a31b17288279",
+      "fieldLabel": "Region",
+      "valueId": "395ee3093de740ba9cb8b3d35cb67e2d",
+      "valueLabel": "EMEA - Europe, Middle East and Africa"
+    },
+    {
+      "fieldId": "6034601b43915a29a4b3389b",
+      "fieldLabel": "Job Location",
+      "valueId": "L_RMTE_SWE",
+      "valueLabel": "Remote, Sweden(L_RMTE_SWE)"
+    },
+    {
+      "fieldId": "60345e1a0b24a127cbdfa148",
+      "fieldLabel": "Employee Type",
+      "valueId": "0082f6cbe6154da19322cbab1f6aa5af",
+      "valueLabel": "Regular"
+    },
+    {
+      "fieldId": "5f63a78f1dae5c5c4e54ba2b",
+      "fieldLabel": "Department",
+      "valueId": "2294208",
+      "valueLabel": "Sales"
+    },
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "se",
+      "valueLabel": "Sweden"
+    },
+    {
+      "fieldId": "5f63a78f1dae5c5c4e54ba2a",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "ServiceNow"
+    },
+    {
+      "fieldId": "603462175165a31b1728827d",
+      "fieldLabel": "Cost Center",
+      "valueId": "CC3042",
+      "valueLabel": "3042 Armis Sales Solution Consulting Managers"
+    },
+    {
+      "fieldId": "618ed92b8f5e5f110e5bfb95",
+      "fieldLabel": "Work Persona",
+      "valueId": "5530c877-6b63-4bf5-bde8-215ef35bf172",
+      "valueLabel": "Flexible or Remote"
+    },
+    {
+      "fieldId": "690cc0e8c682c3dbadaa7d73",
+      "fieldLabel": "Job Posting Type",
+      "valueId": "professional",
+      "valueLabel": "Professional"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/ServiceNow/postings/744000147192599",
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

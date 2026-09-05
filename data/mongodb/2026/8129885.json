@@ -1,0 +1,152 @@
+{
+  "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=8129885",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3520423,
+  "location": {
+    "name": "United States"
+  },
+  "metadata": [
+    {
+      "id": 22194060,
+      "name": "Position ID",
+      "value": "10011739",
+      "value_type": "short_text"
+    },
+    {
+      "id": 24918,
+      "name": "Department ID",
+      "value": "D21420-AI Builder Experience",
+      "value_type": "single_select"
+    },
+    {
+      "id": 22194061,
+      "name": "Team",
+      "value": "T10333-AI Builder Experience Eng",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4914027,
+      "name": "Region",
+      "value": "North America",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4137836,
+      "name": "Working Model Eligibility",
+      "value": [
+        "2-Flexible"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 4914029,
+      "name": "Job Level",
+      "value": "Professional - IC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24109,
+      "name": "Employment Type",
+      "value": "Full-time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 1073551,
+      "name": "Job Type",
+      "value": "Standard",
+      "value_type": "single_select"
+    },
+    {
+      "id": 988684,
+      "name": "JD Link",
+      "value": "https://docs.google.com/document/d/1Inodoo8eQYMp0P1latR9Dmr5H5bWfLMDVG7w1hQXO68/edit?usp=sharing",
+      "value_type": "url"
+    },
+    {
+      "id": 5525802,
+      "name": "Baseline Budgeted Salary",
+      "value": {
+        "unit": "USD",
+        "max_value": "270000.0",
+        "min_value": "189000.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 5525816,
+      "name": "Other Large Market Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 13324394,
+      "name": "Job Post Range (United States)",
+      "value": {
+        "unit": "USD",
+        "max_value": "297000.0",
+        "min_value": "151000.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 40497768,
+      "name": "Job Post Range (Canada)",
+      "value": {
+        "unit": "CAD",
+        "max_value": "215000.0",
+        "min_value": "155000.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 57694516,
+      "name": "Job Post Range (Poland)",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 64002488,
+      "name": "Job Post Range (Italy)",
+      "value": null,
+      "value_type": "currency_range"
+    }
+  ],
+  "id": 8129885,
+  "updated_at": "2026-09-04T18:13:52-04:00",
+  "requisition_id": "3273520423",
+  "title": "Staff Product Manager, AI Builder Experience",
+  "company_name": "MongoDB",
+  "first_published": "2026-09-04T18:13:52-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;h3&gt;The Role&lt;/h3&gt;\n&lt;p&gt;AI Builder Experience (ABX) is MongoDB’s front door for the agentic era. We help human developers and coding agents discover, evaluate, and choose MongoDB, and we make MongoDB work naturally inside the AI-native tools, frameworks, and platforms where software is being built.&lt;/p&gt;\n&lt;p&gt;We are looking for an outstanding Staff Product Manager to own the Partner Platform: the products, experiences, and operating model that allow ecosystem partners to build trusted, high-quality MongoDB experiences for their users. This includes the Partner API and the broader path toward self-serve integrations, partner onboarding, enterprise controls, marketplace/discovery, and partner-managed experiences.&lt;/p&gt;\n&lt;p&gt;This is a role at the intersection of humans, machines, and partners. Human builders increasingly work through AI agents; AI agents need reliable interfaces, context, permissions, and tools; and partners determine where those experiences are discovered and adopted. You will make those three parts work together so MongoDB becomes the obvious database choice wherever AI-native software is created.&lt;/p&gt;\n&lt;p&gt;The role is highly cross-functional and highly visible. You will work with engineering, design, IAM, billing, security, documentation, analytics, product marketing, partnerships, field teams, and strategic customers and partners. You will be expected to operate as both a strategic product leader and a hands-on builder who can turn an ambiguous ecosystem opportunity into a clear product vision, strategy, and an executable roadmap.&lt;/p&gt;\n&lt;h3&gt;What You’ll Do&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Own the vision, strategy, and roadmap for the MongoDB Partner Platform, starting with the Partner API and evolving toward a scalable, self-serve industry leading partner experience&lt;/li&gt;\n&lt;li&gt;Turn partner and customer needs into clear product bets, sequencing near-term delivery against a compelling long-term platform strategy&lt;/li&gt;\n&lt;li&gt;Build the next phases of the Partner API, including self-serve onboarding, enterprise and administrator controls, partner-managed account creation and billing, partner discovery, and a high-quality integration bar&lt;/li&gt;\n&lt;li&gt;Establish a repeatable operating model for partner intake, design-partner engagement, integration support, launch readiness, documentation, incident response, and post-launch learning&lt;/li&gt;\n&lt;li&gt;Partner deeply with the Partner team, IAM, Billing, Security, Engineering, Design, Docs, Analytics, Product Marketing, Sales, and Technical Services to align all towards the cross-functional outcomes required&lt;/li&gt;\n&lt;li&gt;Work directly with strategic AI-native partners, cloud platforms, and similar to understand their users, business models, technical constraints, and adoption levers&lt;/li&gt;\n&lt;li&gt;Ensure the platform works for both human and agentic developers: APIs and tools must be understandable to people, usable by agents, observable, secure, and resilient under automation&lt;/li&gt;\n&lt;li&gt;Define the metrics that show whether the platform is creating value, e.g. partner activation, time to first successful integration, integration quality, end-user adoption, successful agentic workflows, cluster growth, and partner-influenced revenue&lt;/li&gt;\n&lt;li&gt;Create clear product narratives and communicate strategy to executives, engineering teams, partners, customers, and field stakeholders&lt;/li&gt;\n&lt;li&gt;Represent ABX and MongoDB externally as a credible voice on AI-native product development, developer ecosystems, and partner platforms&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;What We’re Looking For&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;8+ years of product management or equivalent experience, including ownership of complex technical products, platforms, APIs, developer tools, ecosystems, or partner integrations&lt;/li&gt;\n&lt;li&gt;Demonstrated success taking a product or platform from ambiguous opportunity through launch, adoption, and continued evolution&lt;/li&gt;\n&lt;li&gt;Deep technical fluency: you can reason about APIs, authentication and authorization, distributed systems, platform boundaries, integrations, data flows, reliability, and security trade-offs&lt;/li&gt;\n&lt;li&gt;Experience building products for developers, technical users, AI-native workflows, or platform ecosystems. Direct experience with AI agents, MCP, agent frameworks, agentic coding tools, or agentic developer platforms is strongly preferred&lt;/li&gt;\n&lt;li&gt;A clear point of view on the difference between building for human developers and building for AI agents, including implications for APIs, documentation, tooling, evaluation, observability, and quality&lt;/li&gt;\n&lt;li&gt;Strong partner and customer instincts, with experience translating external needs into a product strategy without becoming a collection of one-off feature requests&lt;/li&gt;\n&lt;li&gt;Ability to navigate complex and growing organizations, align teams without direct authority, and create momentum when ownership and dependencies are not obvious&lt;/li&gt;\n&lt;li&gt;Comfort balancing speed, security, quality, enterprise requirements, and long-term platform health in a fast-moving market&lt;/li&gt;\n&lt;li&gt;Strong analytical judgment and the ability to define meaningful outcomes even when the direct revenue line is indirect or still emerging&lt;/li&gt;\n&lt;li&gt;Excellent written and verbal communication skills; you write clear documents, make trade-offs visible, and communicate effectively from engineering working sessions to executive reviews&lt;/li&gt;\n&lt;li&gt;Genuine enthusiasm for AI-native development and regular hands-on use of AI tools in your own work&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Nice to Have&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience with partner platforms, marketplaces, developer ecosystems, cloud platforms, databases, infrastructure, or enterprise SaaS&lt;/li&gt;\n&lt;li&gt;Experience with OAuth, delegated access, API governance, partner billing, provisioning, or multi-tenant product models&lt;/li&gt;\n&lt;li&gt;Experience with MongoDB, developer tools, application frameworks, or data infrastructure&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Success Measures&lt;/h3&gt;\n&lt;p&gt;Within 30 days:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Develop a deep understanding of the current Partner API, partner pipeline, design-partner experience, dependencies, launch commitments, and known gaps&lt;/li&gt;\n&lt;li&gt;Build strong working relationships with engineering, IAM, Billing, Security, Design, Partnerships, Docs, Analytics, Product Marketing, and the adjacent ABX PMs&lt;/li&gt;\n&lt;li&gt;Meet key partners and customers and understand the jobs they need the Partner Platform to accomplish for humans, agents, and their businesses&lt;/li&gt;\n&lt;li&gt;Produce a concise current-state assessment: what is working, what is fragile, what is one-off, and what must become platform capability&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Within 60 days:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Evolve the Partner Platform vision and strategy, including clear ownership boundaries with AI Interfaces and AI Frameworks&lt;/li&gt;\n&lt;li&gt;Establish a metrics framework connecting partner integration quality and adoption to builder activation, Atlas usage, enterprise confidence, and business impact&lt;/li&gt;\n&lt;li&gt;Deliver an aligned roadmap for the next phases of Partner API, partner onboarding, enterprise controls, and partner platform capabilities&lt;/li&gt;\n&lt;li&gt;Identify the highest-leverage operating-model changes needed to improve partner speed, quality, and repeatability&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Within 90 days:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Drive one or more high-impact improvements that materially improve partner onboarding, integration quality, enterprise readiness, or end-user adoption&lt;/li&gt;\n&lt;li&gt;Establish a credible plan for scaling from design partners to a broader ecosystem without relying on bespoke MongoDB-side work for every integration&lt;/li&gt;\n&lt;li&gt;Be recognized by engineering, design, partnerships, marketing, and field teams as a trusted product leader and effective cross-functional partner&lt;/li&gt;\n&lt;li&gt;Present a clear recommendation for the long-term Partner Platform shape, including the investments, sequencing, and trade-offs required to make MongoDB the default database for AI-native builders&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;About MongoDB&lt;/h3&gt;\n&lt;p&gt;MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure.&lt;/p&gt;\n&lt;p&gt;With offices worldwide and over 67,000 customers, including AI-native startups and approximately 75% of the Fortune 100, relying on MongoDB for their most important applications, we’re powering the next era of software.&lt;/p&gt;\n&lt;p&gt;Our compass at MongoDB is our &lt;a href=&quot;https://www.mongodb.com/company&quot;&gt;Leadership Commitment,&lt;/a&gt; guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. &lt;a href=&quot;https://www.mongodb.com/company/blog/culture/employee-benefits-that-make-a-difference-at-mongodb&quot;&gt;From employee affinity groups, to fertility assistance and a generous parental leave policy&lt;/a&gt;, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys.&lt;a href=&quot;https://www.mongodb.com/blog/channel/culture&quot;&gt; Learn more about what it’s like to work at MongoDB&lt;/a&gt;, and help us make an impact on the world!&lt;/p&gt;\n&lt;p&gt;MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.&lt;/p&gt;\n&lt;p&gt;MongoDB, Inc. provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type and makes all hiring decisions without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.&lt;/p&gt;\n&lt;p&gt;REQ ID: 3273520423&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;MongoDB’s base salary range for this role is posted below. Compensation at the time of offer is unique to each candidate and based on a variety of factors such as skill set, experience, qualifications, and work location. Salary is one part of MongoDB’s total compensation and benefits package. Other benefits for eligible employees may include: equity, participation in the employee stock purchase program, flexible paid time off, 20 weeks fully-paid gender-neutral parental leave, fertility and adoption assistance, 401(k) plan, mental health counseling, access to transgender-inclusive health insurance coverage, and health benefits offerings. Please note, the base salary range listed below and the benefits in this paragraph are only applicable to U.S.-based candidates.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;MongoDB’s base salary range for this role in the U.S. is:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$151,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$297,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 49197,
+      "name": "AI Builder Experience",
+      "child_ids": [],
+      "parent_id": 370707
+    }
+  ],
+  "offices": [
+    {
+      "id": 3960,
+      "name": "New York City",
+      "location": "New York, NY, United States",
+      "child_ids": [],
+      "parent_id": 23657
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": null
+}

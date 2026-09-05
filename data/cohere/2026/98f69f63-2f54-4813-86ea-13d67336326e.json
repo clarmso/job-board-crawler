@@ -33,15 +33,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "27e532b1-8956-431d-b705-a73ff845d60f",
-            "summary": "Offers Equity",
-            "compensationType": "EquityCashValue",
-            "interval": "1 YEAR",
-            "currencyCode": "USD",
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "7d2f8498-fb0e-4703-b4cb-18860171c5d7",
             "summary": "Base Salary Range $240K – $430K",
             "compensationType": "Salary",
@@ -49,17 +40,26 @@
             "currencyCode": "USD",
             "minValue": 240000,
             "maxValue": 430000
+          },
+          {
+            "id": "27e532b1-8956-431d-b705-a73ff845d60f",
+            "summary": "Offers Equity",
+            "compensationType": "EquityCashValue",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": null,
+            "maxValue": null
           }
         ]
       }
     ],
     "summaryComponents": [
       {
-        "compensationType": "Commission",
+        "compensationType": "Salary",
         "interval": "1 YEAR",
         "currencyCode": "USD",
-        "minValue": 150000,
-        "maxValue": null
+        "minValue": 240000,
+        "maxValue": 430000
       },
       {
         "compensationType": "EquityCashValue",
@@ -69,11 +69,11 @@
         "maxValue": null
       },
       {
-        "compensationType": "Salary",
+        "compensationType": "Commission",
         "interval": "1 YEAR",
         "currencyCode": "USD",
-        "minValue": 240000,
-        "maxValue": 430000
+        "minValue": 150000,
+        "maxValue": null
       }
     ]
   }

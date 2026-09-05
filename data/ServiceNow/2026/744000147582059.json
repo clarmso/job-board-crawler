@@ -1,0 +1,112 @@
+{
+  "id": "744000147582059",
+  "name": "C&I Global Partner Manager – Global SI",
+  "uuid": "fdbc62eb-69f8-49d2-a1aa-6362dd27c354",
+  "jobAdId": "35100fc6-e22f-4889-a859-f0e6685c1f21",
+  "defaultJobAd": true,
+  "refNumber": "JB0074189",
+  "company": {
+    "identifier": "ServiceNow",
+    "name": "ServiceNow"
+  },
+  "releasedDate": "2026-09-04T18:22:22.503Z",
+  "location": {
+    "city": "Waltham",
+    "region": "Massachusetts",
+    "country": "us",
+    "address": "275 Wyman Street, 2nd Floor",
+    "postalCode": "02451",
+    "remote": true,
+    "hybrid": false,
+    "fullLocation": "Waltham, Massachusetts, United States"
+  },
+  "industry": {
+    "id": "it_and_services",
+    "label": "Information Technology And Services"
+  },
+  "department": {
+    "id": "2294208",
+    "label": "Sales"
+  },
+  "function": {
+    "id": "sales",
+    "label": "Sales"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "not_applicable",
+    "label": "Not Applicable"
+  },
+  "customField": [
+    {
+      "fieldId": "60345fa28b4ba8595bef1863",
+      "fieldLabel": "Recruiting Team",
+      "valueId": "professional",
+      "valueLabel": "Professional"
+    },
+    {
+      "fieldId": "60345d5c5165a31b17288279",
+      "fieldLabel": "Region",
+      "valueId": "722a833b93e4437798309f43c0d25990",
+      "valueLabel": "AMS - North America and Canada"
+    },
+    {
+      "fieldId": "6034601b43915a29a4b3389b",
+      "fieldLabel": "Job Location",
+      "valueId": "L_RMTE_MA",
+      "valueLabel": "Remote, MA, USA(L_RMTE_MA)"
+    },
+    {
+      "fieldId": "60345e1a0b24a127cbdfa148",
+      "fieldLabel": "Employee Type",
+      "valueId": "0082f6cbe6154da19322cbab1f6aa5af",
+      "valueLabel": "Regular"
+    },
+    {
+      "fieldId": "5f63a78f1dae5c5c4e54ba2b",
+      "fieldLabel": "Department",
+      "valueId": "2294208",
+      "valueLabel": "Sales"
+    },
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "us",
+      "valueLabel": "United States"
+    },
+    {
+      "fieldId": "5f63a78f1dae5c5c4e54ba2a",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "ServiceNow"
+    },
+    {
+      "fieldId": "603462175165a31b1728827d",
+      "fieldLabel": "Cost Center",
+      "valueId": "CC3264",
+      "valueLabel": "3264 Global C&I Partners"
+    },
+    {
+      "fieldId": "618ed92b8f5e5f110e5bfb95",
+      "fieldLabel": "Work Persona",
+      "valueId": "ddd1898d-c9e0-4640-9f8b-9f9a59e2f155",
+      "valueLabel": "Remote"
+    },
+    {
+      "fieldId": "690cc0e8c682c3dbadaa7d73",
+      "fieldLabel": "Job Posting Type",
+      "valueId": "professional",
+      "valueLabel": "Professional"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/ServiceNow/postings/744000147582059",
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

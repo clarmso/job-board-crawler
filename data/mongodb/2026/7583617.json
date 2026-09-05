@@ -43,7 +43,7 @@
       "id": 4137836,
       "name": "Working Model Eligibility",
       "value": [
-        "2-Flexible"
+        "3-Fully Remote"
       ],
       "value_type": "multi_select"
     },
@@ -74,13 +74,21 @@
     {
       "id": 5525802,
       "name": "Baseline Budgeted Salary",
-      "value": null,
+      "value": {
+        "unit": "INR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
       "value_type": "currency_range"
     },
     {
       "id": 5525816,
       "name": "Other Large Market Budgeted Salary",
-      "value": null,
+      "value": {
+        "unit": "INR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
       "value_type": "currency_range"
     },
     {
@@ -117,7 +125,7 @@
     }
   ],
   "id": 7583617,
-  "updated_at": "2026-09-01T03:40:27-04:00",
+  "updated_at": "2026-09-03T18:40:15-04:00",
   "requisition_id": "1273352650",
   "title": "Staff Engineer, AMP",
   "company_name": "MongoDB",
@@ -135,9 +143,9 @@
   ],
   "offices": [
     {
-      "id": 65909,
-      "name": "Gurugram",
-      "location": "Gurugram, Haryana, India",
+      "id": 95750,
+      "name": "Remote India",
+      "location": "India",
       "child_ids": [],
       "parent_id": 23659
     }

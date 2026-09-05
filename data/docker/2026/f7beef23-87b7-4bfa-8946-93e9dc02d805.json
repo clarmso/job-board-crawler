@@ -67,15 +67,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "20424da1-efe4-4d48-8723-65587141e0a0",
-            "summary": "US Salary Range $170,350 – $275,550",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "USD",
-            "minValue": 170350,
-            "maxValue": 275550
-          },
-          {
             "id": "506b91eb-fd63-49ae-8b82-7a064ec1ae05",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
@@ -83,6 +74,15 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "20424da1-efe4-4d48-8723-65587141e0a0",
+            "summary": "US Salary Range $170,350 – $275,550",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 170350,
+            "maxValue": 275550
           }
         ]
       }

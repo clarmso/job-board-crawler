@@ -1,0 +1,111 @@
+{
+  "id": "744000147484659",
+  "name": "Staff Software Engineer- Fullstack",
+  "uuid": "470ab6e7-189c-47ff-b6e7-17e9c08846e0",
+  "jobAdId": "ee2ffa57-f095-465a-bc2d-c72279863e59",
+  "defaultJobAd": true,
+  "refNumber": "JB0075090",
+  "company": {
+    "identifier": "ServiceNow",
+    "name": "ServiceNow"
+  },
+  "releasedDate": "2026-09-04T11:14:46.637Z",
+  "location": {
+    "city": "Hyderabad",
+    "country": "in",
+    "address": "Salarpuria Sattva Knowledge City Knowledge City, Unit II, 17 to 10 Floor Survey No. 83/1, Serilingampally Mandal",
+    "postalCode": "500081",
+    "remote": false,
+    "hybrid": true,
+    "fullLocation": "Hyderabad, , India"
+  },
+  "industry": {
+    "id": "it_and_services",
+    "label": "Information Technology And Services"
+  },
+  "department": {
+    "id": "2294038",
+    "label": "Engineering, Infrastructure and Operations"
+  },
+  "function": {
+    "id": "engineering",
+    "label": "Engineering"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "not_applicable",
+    "label": "Not Applicable"
+  },
+  "customField": [
+    {
+      "fieldId": "60345fa28b4ba8595bef1863",
+      "fieldLabel": "Recruiting Team",
+      "valueId": "professional",
+      "valueLabel": "Professional"
+    },
+    {
+      "fieldId": "60345d5c5165a31b17288279",
+      "fieldLabel": "Region",
+      "valueId": "858884996eea4a49baa6231279f39054",
+      "valueLabel": "APAC - Asia Pacific"
+    },
+    {
+      "fieldId": "6034601b43915a29a4b3389b",
+      "fieldLabel": "Job Location",
+      "valueId": "L_HYD002",
+      "valueLabel": "Knowledge City, Unit II, 17 to 10 Floor, Survey No. 83/1, Serilingampally Mandal, Hyderabad- 500081, Telangana, India(L_HYD002)"
+    },
+    {
+      "fieldId": "60345e1a0b24a127cbdfa148",
+      "fieldLabel": "Employee Type",
+      "valueId": "0082f6cbe6154da19322cbab1f6aa5af",
+      "valueLabel": "Regular"
+    },
+    {
+      "fieldId": "5f63a78f1dae5c5c4e54ba2b",
+      "fieldLabel": "Department",
+      "valueId": "2294038",
+      "valueLabel": "Engineering, Infrastructure and Operations"
+    },
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "in",
+      "valueLabel": "India"
+    },
+    {
+      "fieldId": "5f63a78f1dae5c5c4e54ba2a",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "ServiceNow"
+    },
+    {
+      "fieldId": "603462175165a31b1728827d",
+      "fieldLabel": "Cost Center",
+      "valueId": "CC6308",
+      "valueLabel": "6308 Platform Engineering App Lifecycle"
+    },
+    {
+      "fieldId": "618ed92b8f5e5f110e5bfb95",
+      "fieldLabel": "Work Persona",
+      "valueId": "5530c877-6b63-4bf5-bde8-215ef35bf172",
+      "valueLabel": "Flexible or Remote"
+    },
+    {
+      "fieldId": "690cc0e8c682c3dbadaa7d73",
+      "fieldLabel": "Job Posting Type",
+      "valueId": "professional",
+      "valueLabel": "Professional"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/ServiceNow/postings/744000147484659",
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

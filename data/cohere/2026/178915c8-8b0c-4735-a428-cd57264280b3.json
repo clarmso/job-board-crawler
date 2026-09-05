@@ -65,15 +65,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "1839b519-2ae4-4b50-aa8c-614b0f3d872f",
-            "summary": "On-Target Earnings (OTE) Compensation Range. Actual OTE will depend on individual performance. $220K – $380K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "USD",
-            "minValue": 220000,
-            "maxValue": 380000
-          },
-          {
             "id": "45626e95-58d9-49af-a303-7fe0fc58efed",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
@@ -81,24 +72,33 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "1839b519-2ae4-4b50-aa8c-614b0f3d872f",
+            "summary": "On-Target Earnings (OTE) Compensation Range. Actual OTE will depend on individual performance. $220K – $380K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 220000,
+            "maxValue": 380000
           }
         ]
       }
     ],
     "summaryComponents": [
       {
-        "compensationType": "Salary",
-        "interval": "1 YEAR",
-        "currencyCode": "USD",
-        "minValue": 220000,
-        "maxValue": 380000
-      },
-      {
         "compensationType": "EquityPercentage",
         "interval": "NONE",
         "currencyCode": null,
         "minValue": null,
         "maxValue": null
+      },
+      {
+        "compensationType": "Salary",
+        "interval": "1 YEAR",
+        "currencyCode": "USD",
+        "minValue": 220000,
+        "maxValue": 380000
       }
     ]
   }

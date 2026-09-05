@@ -31,7 +31,7 @@
     }
   ],
   "id": 8537033002,
-  "updated_at": "2026-09-02T00:18:45-04:00",
+  "updated_at": "2026-09-04T04:00:48-04:00",
   "requisition_id": "FEQ427R64",
   "title": "Sr. Solutions Architect",
   "company_name": "Databricks",
@@ -49,10 +49,12 @@
   ],
   "offices": [
     {
-      "id": 4038814002,
-      "name": "Western Australia, Australia",
-      "location": "Western Australia, Australia",
-      "child_ids": [],
+      "id": 4034019002,
+      "name": "Queensland, Australia",
+      "location": "Queensland, Australia",
+      "child_ids": [
+        4057499002
+      ],
       "parent_id": 4039465002
     }
   ],

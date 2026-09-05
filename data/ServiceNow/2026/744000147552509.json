@@ -1,0 +1,112 @@
+{
+  "id": "744000147552509",
+  "name": "Director, Industry Marketing - Telecommunications",
+  "uuid": "6ba5ff4f-d264-4093-aad2-d91e5b2370b5",
+  "jobAdId": "8ff2da95-2411-4381-98c0-2f052f3923f4",
+  "defaultJobAd": true,
+  "refNumber": "JB0075220",
+  "company": {
+    "identifier": "ServiceNow",
+    "name": "ServiceNow"
+  },
+  "releasedDate": "2026-09-04T15:30:26.865Z",
+  "location": {
+    "city": "Kirkland",
+    "region": "Washington",
+    "country": "us",
+    "address": "4400 Carillon Point, Floor 4,",
+    "postalCode": "98033",
+    "remote": true,
+    "hybrid": false,
+    "fullLocation": "Kirkland, Washington, United States"
+  },
+  "industry": {
+    "id": "it_and_services",
+    "label": "Information Technology And Services"
+  },
+  "department": {
+    "id": "2294157",
+    "label": "Marketing, Communications, and Brand"
+  },
+  "function": {
+    "id": "marketing",
+    "label": "Marketing"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "not_applicable",
+    "label": "Not Applicable"
+  },
+  "customField": [
+    {
+      "fieldId": "60345fa28b4ba8595bef1863",
+      "fieldLabel": "Recruiting Team",
+      "valueId": "professional",
+      "valueLabel": "Professional"
+    },
+    {
+      "fieldId": "60345d5c5165a31b17288279",
+      "fieldLabel": "Region",
+      "valueId": "722a833b93e4437798309f43c0d25990",
+      "valueLabel": "AMS - North America and Canada"
+    },
+    {
+      "fieldId": "6034601b43915a29a4b3389b",
+      "fieldLabel": "Job Location",
+      "valueId": "L_RMTE_SEA",
+      "valueLabel": "Remote, WA (Seattle)(L_RMTE_SEA)"
+    },
+    {
+      "fieldId": "60345e1a0b24a127cbdfa148",
+      "fieldLabel": "Employee Type",
+      "valueId": "0082f6cbe6154da19322cbab1f6aa5af",
+      "valueLabel": "Regular"
+    },
+    {
+      "fieldId": "5f63a78f1dae5c5c4e54ba2b",
+      "fieldLabel": "Department",
+      "valueId": "2294157",
+      "valueLabel": "Marketing, Communications, and Brand"
+    },
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "us",
+      "valueLabel": "United States"
+    },
+    {
+      "fieldId": "5f63a78f1dae5c5c4e54ba2a",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "ServiceNow"
+    },
+    {
+      "fieldId": "603462175165a31b1728827d",
+      "fieldLabel": "Cost Center",
+      "valueId": "CC4400",
+      "valueLabel": "4400 Product and Solutions Marketing"
+    },
+    {
+      "fieldId": "618ed92b8f5e5f110e5bfb95",
+      "fieldLabel": "Work Persona",
+      "valueId": "bf7551c6-9b06-4e7c-8217-3baf43edd060",
+      "valueLabel": "Flexible"
+    },
+    {
+      "fieldId": "690cc0e8c682c3dbadaa7d73",
+      "fieldLabel": "Job Posting Type",
+      "valueId": "professional",
+      "valueLabel": "Professional"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/ServiceNow/postings/744000147552509",
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

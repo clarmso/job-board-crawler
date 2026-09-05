@@ -31,7 +31,7 @@
     }
   ],
   "id": 8595160002,
-  "updated_at": "2026-09-02T00:39:20-04:00",
+  "updated_at": "2026-09-03T03:00:35-04:00",
   "requisition_id": "FEQ427R98",
   "title": "Solutions Architect",
   "company_name": "Databricks",
@@ -49,11 +49,13 @@
   ],
   "offices": [
     {
-      "id": 4002843002,
-      "name": "Sydney, Australia",
-      "location": "Sydney, Australia",
-      "child_ids": [],
-      "parent_id": 4033877002
+      "id": 4034019002,
+      "name": "Queensland, Australia",
+      "location": "Queensland, Australia",
+      "child_ids": [
+        4057499002
+      ],
+      "parent_id": 4039465002
     }
   ],
   "ai_disclaimer": null,

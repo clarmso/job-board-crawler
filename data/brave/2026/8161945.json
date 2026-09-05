@@ -1,0 +1,47 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/brave/jobs/8161945",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 3532426,
+  "location": {
+    "name": "Canada"
+  },
+  "metadata": null,
+  "id": 8161945,
+  "updated_at": "2026-09-04T13:18:06-04:00",
+  "requisition_id": "137",
+  "title": "Software Engineering Intern - Waterloo University",
+  "company_name": "Brave",
+  "first_published": "2026-09-04T13:16:41-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;&lt;strong&gt;Software Development Interns - Waterloo University&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Remote - Fall Semester&lt;/strong&gt;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;About Brave&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Brave is on a mission to protect the human right to privacy online. We’ve built a free web browser that blocks creepy ads and trackers by default, a private search engine with a &lt;em&gt;truly&lt;/em&gt; independent index, private AI assistant, latest privacy and security features, and a private ad network (opt-in!) that directly rewards you for your attention. Already over 120 million people regularly use Brave for a faster, more private web. Millions more switch every month.&lt;/p&gt;\n&lt;p&gt;The internet is a sea of ads, hackers, and echo chambers. Big Tech makes huge profits off our data, and tells us what’s true and what’s not. Brave is fighting back. Join us!&lt;/p&gt;\n&lt;p&gt;Brave is hiring 2 Software Engineer interns this fall from Waterloo University to assist adding AI, security and privacy features to our products.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Software Developer Co-op - Internship Role One&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Contribute to the design, development, and maintenance of data-intensive systems and AI-powered services.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Key responsibilities include:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Build and maintain ETL pipelines for ingesting, transforming, and loading structured and unstructured data across internal systems&lt;/li&gt;\n&lt;li&gt;Develop backend services and tooling in Python and TypeScript to support data processing workflows and API integrations&lt;/li&gt;\n&lt;li&gt;Integrate and optimize LLM inference pipelines, including prompt engineering, model serving, and evaluation of large language model outputs&lt;/li&gt;\n&lt;li&gt;Deploy and manage containerized workloads on Kubernetes, including writing manifests, configuring autoscaling, and troubleshooting cluster issues&lt;/li&gt;\n&lt;li&gt;Collaborate with cross-functional teams to improve data quality, pipeline reliability, and system observability&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Software Developer (Privacy) Co-op - Internship Role 2&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Contribute to the design, development, and shipping of privacy and security features in the Brave browser (based on Chromium), bringing cutting-edge protections to 115M+ users without breaking the Web.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Key responsibilities include:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Prototype, implement, and ship privacy-enhancing features end-to-end in C++ or Rust for the Brave browser&lt;/li&gt;\n&lt;li&gt;Build browser-native privacy protections privacy-enhancing permissions and anti-fingerprinting defenses&lt;/li&gt;\n&lt;li&gt;Navigate and contribute to an extremely large, complex codebase, applying knowledge of the Web security model and Chromium&#39;s architecture&lt;/li&gt;\n&lt;li&gt;Work with Web technologies (HTML, CSS, JavaScript) to develop and validate browser features&lt;/li&gt;\n&lt;li&gt;Collaborate async with a geographically-distributed, open source team using Git and GitHub&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Working at Brave - What we offer&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Ability to work at an exciting and well-funded international startup headquartered in San Francisco&lt;/li&gt;\n&lt;li&gt;Cutting-edge technology, allowing you to work with state-of-the-art tools and software solutions&lt;/li&gt;\n&lt;li&gt;Competitive compensation of $6000.00 per month for 3 months&lt;/li&gt;\n&lt;li&gt;Great international exposure and team atmosphere&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;If you are currently a student at Waterloo University, we would love to hear from you.&amp;nbsp; We offer flexible schedules to accommodate your studies.&amp;nbsp;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;",
+  "departments": [
+    {
+      "id": 38565,
+      "name": "Engineering",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 25239,
+      "name": "Brave Canada",
+      "location": "Canada",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": "http://app.greenhouse.io/ai_opt_out_request/job_post/8161945/ai_opt_out"
+}

@@ -18,16 +18,6 @@
       }
     },
     {
-      "location": "London",
-      "address": {
-        "postalAddress": {
-          "addressRegion": "London",
-          "addressCountry": "United Kingdom",
-          "addressLocality": "London"
-        }
-      }
-    },
-    {
       "location": "New York",
       "address": {
         "postalAddress": {
@@ -74,15 +64,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "4900f349-39c6-43b7-9927-c72b2f0e9cef",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "37213c48-3b99-4ea3-b782-a898dee4588b",
             "summary": "Base Salary $190K – $260K",
             "compensationType": "Salary",
@@ -90,6 +71,15 @@
             "currencyCode": "USD",
             "minValue": 190000,
             "maxValue": 260000
+          },
+          {
+            "id": "4900f349-39c6-43b7-9927-c72b2f0e9cef",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           }
         ]
       },
@@ -126,15 +116,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "5481e49e-dc45-4200-8b3a-4b038aa8bd9c",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "f686eb1f-ddd9-466a-8392-e57a18e0812a",
             "summary": "Base Salary CA$225K – CA$310K",
             "compensationType": "Salary",
@@ -142,23 +123,32 @@
             "currencyCode": "CAD",
             "minValue": 225000,
             "maxValue": 310000
+          },
+          {
+            "id": "5481e49e-dc45-4200-8b3a-4b038aa8bd9c",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           }
         ]
       }
     ],
     "summaryComponents": [
       {
-        "compensationType": "EquityPercentage",
-        "minValue": null,
-        "maxValue": null,
-        "interval": "1 YEAR"
-      },
-      {
         "minValue": 160000,
         "maxValue": 260000,
         "currencyCode": "USD",
         "interval": "1 YEAR",
         "compensationType": "Salary"
+      },
+      {
+        "compensationType": "EquityPercentage",
+        "minValue": null,
+        "maxValue": null,
+        "interval": "1 YEAR"
       }
     ]
   }

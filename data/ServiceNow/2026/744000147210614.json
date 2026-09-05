@@ -1,0 +1,114 @@
+{
+  "id": "744000147210614",
+  "name": "Partner Manager",
+  "uuid": "10b2f5a5-fe9c-4aff-905f-54858f278c48",
+  "jobAdId": "3b17a5c6-903b-4943-91a0-fc48232c0655",
+  "defaultJobAd": true,
+  "refNumber": "JB0075145",
+  "company": {
+    "identifier": "ServiceNow",
+    "name": "ServiceNow"
+  },
+  "releasedDate": "2026-09-03T10:16:39.515Z",
+  "location": {
+    "city": "Riyadh",
+    "country": "sa",
+    "address": "King Khalid & Oruba Rd",
+    "postalCode": "00000",
+    "remote": false,
+    "hybrid": false,
+    "fullLocation": "Riyadh, , Saudi Arabia"
+  },
+  "industry": {
+    "id": "it_and_services",
+    "label": "Information Technology And Services"
+  },
+  "department": {
+    "id": "2294208",
+    "label": "Sales"
+  },
+  "function": {
+    "id": "sales",
+    "label": "Sales"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "not_applicable",
+    "label": "Not Applicable"
+  },
+  "customField": [
+    {
+      "fieldId": "60345fa28b4ba8595bef1863",
+      "fieldLabel": "Recruiting Team",
+      "valueId": "professional",
+      "valueLabel": "Professional"
+    },
+    {
+      "fieldId": "60345d5c5165a31b17288279",
+      "fieldLabel": "Region",
+      "valueId": "395ee3093de740ba9cb8b3d35cb67e2d",
+      "valueLabel": "EMEA - Europe, Middle East and Africa"
+    },
+    {
+      "fieldId": "6034601b43915a29a4b3389b",
+      "fieldLabel": "Job Location",
+      "valueId": "L_RUH002",
+      "valueLabel": "King Khalid & Oruba Rd, Riyadh, 00000, Saudi Arabia(L_RUH002)"
+    },
+    {
+      "fieldId": "60345e1a0b24a127cbdfa148",
+      "fieldLabel": "Employee Type",
+      "valueId": "0082f6cbe6154da19322cbab1f6aa5af",
+      "valueLabel": "Regular"
+    },
+    {
+      "fieldId": "5f63a78f1dae5c5c4e54ba2b",
+      "fieldLabel": "Department",
+      "valueId": "2294208",
+      "valueLabel": "Sales"
+    },
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "sa",
+      "valueLabel": "Saudi Arabia"
+    },
+    {
+      "fieldId": "5f63a78f1dae5c5c4e54ba2a",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "ServiceNow"
+    },
+    {
+      "fieldId": "603462175165a31b1728827d",
+      "fieldLabel": "Cost Center",
+      "valueId": "CC3251",
+      "valueLabel": "3251 GEO Partner Mgrs"
+    },
+    {
+      "fieldId": "618ed92b8f5e5f110e5bfb95",
+      "fieldLabel": "Work Persona",
+      "valueId": "bf7551c6-9b06-4e7c-8217-3baf43edd060",
+      "valueLabel": "Flexible"
+    },
+    {
+      "fieldId": "690cc0e8c682c3dbadaa7d73",
+      "fieldLabel": "Job Posting Type",
+      "valueId": "professional",
+      "valueLabel": "Professional"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/ServiceNow/postings/744000147210614",
+  "creator": {
+    "name": "Maeve O'Reilly"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}
