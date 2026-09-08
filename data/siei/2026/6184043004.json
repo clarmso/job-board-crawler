@@ -1,0 +1,109 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/siei/jobs/6184043004",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": true,
+      "requires_processing_consent": false,
+      "requires_retention_consent": true,
+      "retention_period": 730,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "education": "education_optional",
+  "internal_job_id": 5192114004,
+  "location": {
+    "name": "Japan, Tokyo"
+  },
+  "metadata": [
+    {
+      "id": 4367803004,
+      "name": "Cost Center",
+      "value": "JPZ1DJ0000 LSI Development",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167524004,
+      "name": "Career Page - Office Location",
+      "value": "Japan, Tokyo",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167525004,
+      "name": "Career Page - Department",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 9377282004,
+      "name": "Career Page - Sub Department",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 20089613004,
+      "name": "Career Page - Studio Project",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 4395289004,
+      "name": "Worker Type",
+      "value": "Employee",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4404049004,
+      "name": "Country",
+      "value": "Japan",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9262269004,
+      "name": "Job Family",
+      "value": "LSI Development Engineering",
+      "value_type": "short_text"
+    },
+    {
+      "id": 9262270004,
+      "name": "Job Family Group",
+      "value": "Engineering",
+      "value_type": "short_text"
+    },
+    {
+      "id": 21724118004,
+      "name": "Bungie Geo Pay",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 6184043004,
+  "updated_at": "2026-09-06T03:18:01-04:00",
+  "requisition_id": "R-124962",
+  "title": "PlayStation向けカスタムLSIの開発評価エンジニア（Graphics）",
+  "company_name": "Sony Interactive Entertainment Inc.",
+  "first_published": "2026-09-06T03:18:01-04:00",
+  "language": "ja",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Why PlayStation?&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;PlayStation isn’t just the Best Place to Play — it’s also the Best Place to Work. Today, we’re recognized as a global leader in entertainment producing The PlayStation family of products and services including PlayStation®5, PlayStation®4, PlayStation®VR, PlayStation®Plus, acclaimed PlayStation software titles from PlayStation Studios, and more.&lt;/p&gt;\n&lt;p&gt;PlayStation also strives to create an inclusive environment that empowers employees and embraces diversity. We welcome and encourage everyone who has a passion and curiosity for innovation, technology, and play to explore our open positions and join our growing global team.&lt;/p&gt;\n&lt;p&gt;The PlayStation brand falls under Sony Interactive Entertainment, a wholly-owned subsidiary of Sony Group Corporation.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;div&gt;\n&lt;div class=&quot;ewa-rteLine&quot;&gt;&amp;nbsp;&lt;/div&gt;\n&lt;/div&gt;\n&lt;div class=&quot;ewa-rteLine&quot;&gt;\n&lt;p&gt;【職務内容】&lt;br&gt;PlayStationをはじめとする当社製品に使用される最先端カスタムLSIの開発・評価の業務を担っていただきます。&lt;br&gt;入社後はカスタムLSIの中でGPU部分の仕様検討、機能開発および性能評価の業務を担っていただきます。&lt;br&gt;&amp;nbsp;&lt;br&gt;【具体的には】&amp;nbsp;&lt;br&gt;①LSIの仕様策定&lt;br&gt;　商品企画、ハードウェア、ソフトウェア、ゲームデベロッパーの皆様の要望を聞きながら「数年後に求められるLSI（性能面/コスト面）」を想像し仕様を決めます&lt;br&gt;②開発設計&lt;br&gt;　LSIベンダーへの発注および共同設計・開発を行います&lt;br&gt;③試作製品の検証評価&lt;br&gt;　試作品のチップが「私たちの所望する機能を満たしているか」「想定していた性能を出すことができるか」を確認します&lt;br&gt;④量産支援&lt;br&gt;※仕様策定・検証評価にあたっては、キャッシュ・メモリ・バスなど、Hardwareを低レベルまで深く理解し、論理的にアプローチを行っていただきます。&lt;br&gt;※LSIの検証評価にあたってはC/C++等を用いた評価・検証ツールの開発を行っていただきます&lt;br&gt;&amp;nbsp;&lt;br&gt;LSI開発部門では多くの世界トップクラスのLSI Design Houseと共同で最先端のアーキテクチャ、IP(CPU、GPU、AI/ML、Codec、高速I/F、電力制御、Security)、半導体プロセスを用いた、非常に競争力の高いLSI開発を行っています。&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;br&gt;最適なコストで最大限の性能を引き出すことに注力しています。&lt;br&gt;&amp;nbsp;&lt;br&gt;&amp;nbsp;【ポジションの魅力】&lt;br&gt;■PlayStationのLSIに使われるCPU/GPU等のアーキテクチャは最先端のテクノロジーを利用しており、当社は時代の最先端に触れることのできる日本において、また世界においても数少ない会社の一つです。&lt;br&gt;■近年話題の半導体プロセスにおいても最先端プロセスを積極的に利用しており、まさに「時代の最先端」で働く機会を得ることができます。&lt;br&gt;■自身が開発するLSIがPlayStationにおいてどのように使われるかを実感することができ、世の中にどう影響与えるか見えやすい環境です。&lt;br&gt;■LSIの仕様策定、設計、評価、量産まで一気通貫で開発の流れを知ることができ、キャリアと視野を広げることができます。&lt;br&gt;■本業務に携わっていただくことで、日本国内でも稀有な経験を積んでいただくことが可能です。&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;br&gt;【組織・職場紹介】&lt;br&gt;PlayStation5、PlayStation VR2をはじめとするSIE製品の根幹をなすカスタムLSIを開発しています。&lt;br&gt;チームはLSIアーキテクチャ、LSI設計検証、HW設計、SW開発など多岐にわたる分野のエキスパートで構成され、日々多くの議論と検討を重ねながら開発を進めています。&lt;br&gt;&amp;nbsp;&lt;br&gt;【ご入社後について】&lt;br&gt;チューターがアサインされます。&lt;br&gt;業務上困ったことがあればチューターに確認頂き慣れていただくことで、安心してチームに馴染んで頂ける仕組みを整えています。&lt;br&gt;&amp;nbsp;&lt;br&gt;【SIEで働く魅力 / 社員の声】&lt;br&gt;■大規模なBtoCのサービス提供を通じ、自らエンジョイしながら人々に楽しみを届けられること&lt;br&gt;■入社年を問わず、製品に対する影響力の大きいプロジェクトを任せてもらえること&lt;br&gt;■さまざまな改善提案をフラットに発信できること&lt;br&gt;■リモートワークの自由度が高く、スケジュール調整がしやすいこと&lt;br&gt;■様々なバックグラウンドを持ったメンバーが働いており、&lt;br&gt;　プライベートイベントやワークライフバランスの面で業務調整することを自然に受け入れている風土があること&lt;br&gt;■ソフトウェア、ハードウェア、ネットワークをすべて社内で開発しているからこそ、わからないことがあればすぐ本人に相談しに行けること&lt;br&gt;■将来目指したいと思える、洗練されたエンジニアが多く在籍していること&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;br&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/RgfQt7pLkTk&quot; width=&quot;560&quot; height=&quot;314&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;【求められる実務経験・スキル】&lt;br&gt;■必須（MUST）&lt;br&gt;　・コンピュータアーキテクチャを理解し、演算器、レジスタ、キャッシュ、バス、等のHW構造の理解に基づき、機能を設計し性能を解析／評価できること&lt;br&gt;　・C/C++プログラミングの開発経験&lt;br&gt;　・アセンブラコードを理解し読み書きできること&lt;br&gt;　・英語の仕様書を読みこなすことができること。英語でのメールやりとりができること&lt;br&gt;&amp;nbsp;&lt;br&gt;&amp;nbsp;■歓迎（WANT）&lt;br&gt;　・Computer Graphics、Ray Tracing、Machine Learningに関する知識、業務経験&lt;br&gt;　・ソフトウェアのパフォーマンスチューニング経験&lt;br&gt;　・LSI開発経験&lt;br&gt;　・英語での技術的な会話や議論を行えること&lt;br&gt;&amp;nbsp;&lt;br&gt;■求める人物像&lt;br&gt;・情熱をもって、チーム一丸で開発を行うことに興味のある方&lt;br&gt;・目標に対して達成までの道筋を自身で計画し、提案・実行できる方&lt;br&gt;・将来的にリーダーとしてメンバーを積極的に導く力のある方&lt;/p&gt;\n&lt;/div&gt;\n&lt;div class=&quot;ewa-rteLine&quot;&gt;&lt;br&gt;\n&lt;p&gt;■関連記事&lt;br&gt;LSI開発部門のVPインタビューや活躍する社員のインタビュー記事もぜひ参照ください。&lt;br&gt;&lt;br&gt;&lt;a href=&quot;https://sonyinteractive.com/jp/news/blog/lsi-experts/&quot;&gt;多種多様な強みを持つエキスパートが集うSIEのLSI開発部門 - Sony Interactive Entertainment Japan&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://www.sie.com/jp/saiyo/career/nagi.html&quot;&gt;経験者採用インタビュー：LSI開発エンジニア ①&amp;nbsp;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://www.sie.com/jp/saiyo/career/spike.html&quot;&gt;経験者採用インタビュー：LSI開発エンジニア ②&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://www.sie.com/jp/saiyo/newgrad/sugi.html&quot;&gt;新卒採用インタビュー：LSI開発エンジニア&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p class=&quot;p1&quot;&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Equal Opportunity Statement:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Sony is an Equal Opportunity Employer. All persons will receive consideration for employment without regard to gender (including gender identity, gender expression and gender reassignment), race (including colour, nationality, ethnic or national origin), religion or belief, marital or civil partnership status, disability, age, sexual orientation, pregnancy or maternity, trade union membership or membership in any other legally protected category.&lt;/p&gt;\n&lt;p&gt;We strive to create an inclusive environment, empower employees and embrace diversity. We encourage everyone to respond.&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;PlayStation is a Fair Chance employer and qualified applicants with arrest and conviction records will be considered for employment.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4072507004,
+      "name": "LSI",
+      "child_ids": [],
+      "parent_id": 4037178004
+    }
+  ],
+  "offices": [
+    {
+      "id": 4040733004,
+      "name": "JPN-Tokyo-Sony City",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 4040731004
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

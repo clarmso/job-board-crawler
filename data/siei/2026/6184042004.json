@@ -1,0 +1,109 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/siei/jobs/6184042004",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": true,
+      "requires_processing_consent": false,
+      "requires_retention_consent": true,
+      "retention_period": 730,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "education": "education_optional",
+  "internal_job_id": 5192114004,
+  "location": {
+    "name": "Japan, Tokyo"
+  },
+  "metadata": [
+    {
+      "id": 4367803004,
+      "name": "Cost Center",
+      "value": "JPZ1DJ0000 LSI Development",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167524004,
+      "name": "Career Page - Office Location",
+      "value": "Japan, Tokyo",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167525004,
+      "name": "Career Page - Department",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 9377282004,
+      "name": "Career Page - Sub Department",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 20089613004,
+      "name": "Career Page - Studio Project",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 4395289004,
+      "name": "Worker Type",
+      "value": "Employee",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4404049004,
+      "name": "Country",
+      "value": "Japan",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9262269004,
+      "name": "Job Family",
+      "value": "LSI Development Engineering",
+      "value_type": "short_text"
+    },
+    {
+      "id": 9262270004,
+      "name": "Job Family Group",
+      "value": "Engineering",
+      "value_type": "short_text"
+    },
+    {
+      "id": 21724118004,
+      "name": "Bungie Geo Pay",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 6184042004,
+  "updated_at": "2026-09-06T03:18:07-04:00",
+  "requisition_id": "R-124962",
+  "title": "PlayStation向けSoC製造検査ソフトウェアエンジニア",
+  "company_name": "Sony Interactive Entertainment Inc.",
+  "first_published": "2026-09-06T03:18:07-04:00",
+  "language": "ja",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Why PlayStation?&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;PlayStation isn’t just the Best Place to Play — it’s also the Best Place to Work. Today, we’re recognized as a global leader in entertainment producing The PlayStation family of products and services including PlayStation®5, PlayStation®4, PlayStation®VR, PlayStation®Plus, acclaimed PlayStation software titles from PlayStation Studios, and more.&lt;/p&gt;\n&lt;p&gt;PlayStation also strives to create an inclusive environment that empowers employees and embraces diversity. We welcome and encourage everyone who has a passion and curiosity for innovation, technology, and play to explore our open positions and join our growing global team.&lt;/p&gt;\n&lt;p&gt;The PlayStation brand falls under Sony Interactive Entertainment, a wholly-owned subsidiary of Sony Group Corporation.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;div&gt;\n&lt;div class=&quot;ewa-rteLine&quot;&gt;&amp;nbsp;&lt;/div&gt;\n&lt;/div&gt;\n&lt;div class=&quot;ewa-rteLine&quot;&gt;【組織／職場紹介】&lt;br&gt;私たちは、PlayStationの中核となるカスタムSoCと製品ハードウェアを対象に、製造検査ソフトウェアの開発、実機評価、不具合解析、量産工程への導入を行っています。&lt;br&gt;CPU、GPU、Display Controller、Video Codec、Audio Processor、メモリ、PCIe、USB、ストレージ、ネットワークなどの機能に加え、ブートファームウェア、ブートローダー、BIOS/UEFI、Linuxカーネル、デバイスドライバーまで、ハードウェアとソフトウェアの境界を横断して品質を作り込みます。&lt;br&gt;社内のSoC設計、システムソフトウェア、商品設計、製造、品質保証の各部門に加え、国内外の半導体ベンダーおよび設計パートナーと連携して開発を進めます。&lt;br&gt;&lt;br&gt;【業務内容】&lt;br&gt;製造検査、実機評価、不具合解析を中心に、これまでの経験や専門性に応じて、ブート関連ソフトウェア、SoC検証、評価自動化にも取り組んでいただきます。&lt;br&gt;1. 製造検査ソフトウェアの開発&lt;br&gt;　　・カスタムSoCおよびPlayStationハードウェアの機能、性能、信頼性を確認する診断ソフトウェアの設計・開発&lt;br&gt;　　・想定される不良と要求品質に基づく、テスト項目および合否判定基準の策定&lt;br&gt;　　・製造工程で使用するテストソフトウェア、ストレステスト、検査シーケンスの設計・実装&lt;br&gt;　　・テストの安定性、実行時間、検出範囲を考慮した検査内容の改善&lt;br&gt;　　・試作から量産までの製造日程を踏まえた、開発計画とテスト仕様の調整&lt;br&gt;　　・開発した検査ソフトウェアの実機確認、製造工程への導入および導入後の技術支援&lt;/div&gt;\n&lt;div class=&quot;ewa-rteLine&quot;&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div class=&quot;ewa-rteLine&quot;&gt;2. 実機評価・SoC検証・不具合解析&lt;br&gt;　　・CPU、GPU、Display Controller、Video Codec、Audio Processor、メモリ、PCIe、USB、ストレージ、ネットワークなどの機能・性能評価&lt;br&gt;　　・試作チップおよび試作ハードウェアの立ち上げと初期評価&lt;br&gt;　　・開発・製造・市場で検出された不具合の再現と、ログ、レジスタ値、テスト結果を用いた原因調査&lt;br&gt;　　・ハードウェア、ファームウェア、Linuxカーネル、デバイスドライバー、テスト環境のどこに原因があるかの切り分け&lt;br&gt;　　・原因特定に必要な追加テストの設計と、修正内容または回避策の効果確認&lt;/div&gt;\n&lt;div class=&quot;ewa-rteLine&quot;&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div class=&quot;ewa-rteLine&quot;&gt;3. ブートファームウェア・システムソフトウェア&lt;br&gt;　　・ブートファームウェア、ブートローダー、BIOS/UEFI、Linuxカーネルおよびデバイスドライバーの開発・評価&lt;br&gt;　　・ハードウェア初期化、起動シーケンス、電源状態遷移の設計・検証&lt;br&gt;　　・ハードウェア、ファームウェア、Linuxカーネルを横断した起動障害およびシステム障害の解析&lt;br&gt;　　・新しいハードウェア機能に対応する低レイヤーソフトウェア、テストコード、デバッグ機能の開発&lt;br&gt;　　・起動時間、安定性、互換性に関する評価と改善&lt;br&gt;　　・製造検査および診断ソフトウェアから利用する起動・制御機能の開発と保守&lt;/div&gt;\n&lt;div class=&quot;ewa-rteLine&quot;&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div class=&quot;ewa-rteLine&quot;&gt;4. テスト自動化・CI/CD&lt;br&gt;　　・複数の評価用実機を接続した自動テスト環境の設計・構築&lt;br&gt;　　・Jenkinsなどを使用したビルド、ソフトウェア配布、テスト実行、結果収集、ログ集約の自動化&lt;br&gt;　　・回帰テスト、長時間連続テスト、ストレステストの継続実行環境の開発・運用&lt;br&gt;　　・テスト対象、実行条件、期待結果、合否判定を管理する仕組みの開発&lt;br&gt;　　・開発・評価への効果を踏まえた自動化項目の優先順位付けと、実行時間、検出範囲、ログ品質の改善&lt;br&gt;　　・多数の評価機材を安定して運用するための制御、監視、復旧機能の開発&lt;/div&gt;\n&lt;div class=&quot;ewa-rteLine&quot;&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div class=&quot;ewa-rteLine&quot;&gt;5. 半導体ベンダーとの共同開発&lt;br&gt;　　・国内外の半導体ベンダーおよび設計パートナーとの仕様、設計、評価に関する技術協議&lt;br&gt;　　・チップ、ファームウェア、BIOS/UEFI、Linuxカーネル、デバイスドライバーに関する問題の共同解析&lt;br&gt;　　・問題の再現条件、ログ、期待動作、発生頻度、影響範囲の整理と共有&lt;br&gt;　　・解析結果に基づく半導体ベンダーへの修正依頼および技術的なフィードバック&lt;br&gt;　　・修正内容、回避策、評価方法、量産適用に関する合意形成&lt;br&gt;　　・海外のエンジニアを含む関係チームと連携した問題解決の推進&lt;/div&gt;\n&lt;div class=&quot;ewa-rteLine&quot;&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div class=&quot;ewa-rteLine&quot;&gt;【ポジションの魅力】&lt;br&gt;　　・自ら開発した検査ソフトウェアを製造工程へ導入し、PlayStationの品質に直接関わることができます&lt;br&gt;　　・ソフトウェアの実装に加え、実機、測定結果、ログ、レジスタ値を使ってハードウェアに近い問題を解決できます&lt;br&gt;　　・テスト仕様の策定から実装、実機評価、不具合解析、量産導入までを一貫して経験できます&lt;br&gt;　　・ブートファームウェア、Linuxカーネル、デバイスドライバー、SoCの各機能を横断して技術を深められます&lt;br&gt;　　・国内外の半導体ベンダーや、社内のSoC設計、OS、ファームウェア、製造の担当者と共同で問題を解決します&lt;br&gt;　　・専門領域を深める技術スペシャリストと、複数領域を主導するテクニカルリードの双方を目指せます&lt;/div&gt;\n&lt;div class=&quot;ewa-rteLine&quot;&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div class=&quot;ewa-rteLine&quot;&gt;【想定する役割】&lt;br&gt;シニアエンジニア候補を想定しています。担当する検査ソフトウェアやシステム機能について、自ら設計・実装・コードレビュー・実機評価を行い、製造日程と品質目標を踏まえて課題を優先付けします。原因が自チームの範囲外にある場合は、社内の担当チームや半導体ベンダーへ必要な情報を提示し、修正確認まで主体的に進めることを期待します。&lt;/div&gt;\n&lt;div class=&quot;ewa-rteLine&quot;&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div class=&quot;ewa-rteLine&quot;&gt;&lt;br&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/RgfQt7pLkTk&quot; width=&quot;560&quot; height=&quot;314&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;\n&lt;div class=&quot;ewa-rteLine&quot;&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div class=&quot;ewa-rteLine&quot;&gt;【必須条件（MUST）】&lt;br&gt;以下の共通条件に加え、専門領域のうち一つ以上の経験をお持ちの方。&lt;br&gt;◼️共通条件&lt;br&gt;　　・C/C++を使用したソフトウェア開発経験&lt;br&gt;　　・Linux環境でのソフトウェア開発またはデバッグ経験&lt;br&gt;　　・ハードウェア、ファームウェア、ソフトウェアの境界で発生する問題を論理的に切り分ける能力&lt;br&gt;　　・関係チームと連携し、担当課題を解決まで主体的に推進した経験&lt;/div&gt;\n&lt;div class=&quot;ewa-rteLine&quot;&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div class=&quot;ewa-rteLine&quot;&gt;◼️専門領域（以下のいずれか）&lt;br&gt;　　・ブートファームウェア、ブートローダー、BIOS/UEFI、Linuxカーネルまたはデバイスドライバーの開発・評価&lt;br&gt;　　・ハードウェアを制御するテストソフトウェア、診断ソフトウェア、ストレステストの開発&lt;br&gt;　　・製造テスト、量産検査、ハードウェア検証または試作チップの立ち上げ&lt;br&gt;　　・CPU、GPU、SoC、Display、Video、Audioなどのハードウェア機能の設計・検証&lt;br&gt;　　・Jenkinsなどを利用した、評価用実機を含むCI/CD・自動テスト環境の構築&lt;br&gt;　　・ハードウェア、ファームウェア、Linuxカーネル、デバイスドライバーにまたがる不具合解析&lt;/div&gt;\n&lt;div class=&quot;ewa-rteLine&quot;&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div class=&quot;ewa-rteLine&quot;&gt;【歓迎条件（WANT）】&lt;br&gt;　　・アセンブリ言語またはCPU/GPU固有の組み込み関数を使用した低レイヤー開発・性能最適化経験&lt;br&gt;　　・CPU、GPU、Display Controller、Video Codec、Audio Processorのいずれかに関する知識・経験&lt;br&gt;　　・メモリ、キャッシュ、バス、DMA、割り込み、PCIe、USB、ストレージ、ネットワークに関する知識&lt;br&gt;　　・シミュレーション／エミュレーション環境、または試作チップを使用した検証経験&lt;br&gt;　　・テスト仕様、合否判定基準、テスト範囲を策定または改善した経験&lt;br&gt;　　・多数の実機を使用した回帰テストや長時間連続テスト環境の開発・運用経験&lt;br&gt;　　・半導体ベンダーとの共同開発、技術折衝、問題解析の経験&lt;br&gt;　　・テクニカルリード、プロジェクトリード、または複数チームを横断した技術課題の推進経験&lt;/div&gt;\n&lt;div class=&quot;ewa-rteLine&quot;&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div class=&quot;ewa-rteLine&quot;&gt;【語学力・コミュニケーション力】&lt;br&gt;　　・英語の技術仕様書を読み、海外の半導体ベンダーやエンジニアと、メールや会議で技術情報をやり取りできる能力&lt;br&gt;　　・再現条件、ログ、期待動作、影響範囲を整理し、関係者に分かりやすく説明できる能力&lt;br&gt;　　・職種や部門を越えて意思疎通し、問題解決を推進できる能力&lt;/div&gt;\n&lt;div class=&quot;ewa-rteLine&quot;&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div class=&quot;ewa-rteLine&quot;&gt;【求める人物像】&lt;br&gt;　　・ハードウェアに近い領域でソフトウェアを開発し、実機を動かすことに興味がある方&lt;br&gt;　　・現象やログから仮説を立て、実験と検証によって原因を追究できる方&lt;br&gt;　　・自分の専門領域に閉じず、ハードウェア、ファームウェア、OS、製造の担当者と協力できる方&lt;br&gt;　　・原因や再現条件が明確でない問題に対し、必要なテスト方法や解析手段を考えられる方&lt;br&gt;　　・担当する機能や課題に責任を持ち、製造工程への導入と安定運用まで継続して取り組める方&lt;/div&gt;\n&lt;div class=&quot;ewa-rteLine&quot;&gt;&lt;br&gt;\n&lt;p&gt;■関連記事&lt;br&gt;LSI開発部門のVPインタビューや活躍する社員のインタビュー記事もぜひ参照ください。&lt;br&gt;&lt;br&gt;&lt;a href=&quot;https://sonyinteractive.com/jp/news/blog/lsi-experts/&quot;&gt;多種多様な強みを持つエキスパートが集うSIEのLSI開発部門 - Sony Interactive Entertainment Japan&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://www.sie.com/jp/saiyo/career/nagi.html&quot;&gt;経験者採用インタビュー：LSI開発エンジニア ①&amp;nbsp;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://www.sie.com/jp/saiyo/career/spike.html&quot;&gt;経験者採用インタビュー：LSI開発エンジニア ②&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://www.sie.com/jp/saiyo/newgrad/sugi.html&quot;&gt;新卒採用インタビュー：LSI開発エンジニア&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p class=&quot;p1&quot;&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Equal Opportunity Statement:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Sony is an Equal Opportunity Employer. All persons will receive consideration for employment without regard to gender (including gender identity, gender expression and gender reassignment), race (including colour, nationality, ethnic or national origin), religion or belief, marital or civil partnership status, disability, age, sexual orientation, pregnancy or maternity, trade union membership or membership in any other legally protected category.&lt;/p&gt;\n&lt;p&gt;We strive to create an inclusive environment, empower employees and embrace diversity. We encourage everyone to respond.&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;PlayStation is a Fair Chance employer and qualified applicants with arrest and conviction records will be considered for employment.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4072507004,
+      "name": "LSI",
+      "child_ids": [],
+      "parent_id": 4037178004
+    }
+  ],
+  "offices": [
+    {
+      "id": 4040733004,
+      "name": "JPN-Tokyo-Sony City",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 4040731004
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}
