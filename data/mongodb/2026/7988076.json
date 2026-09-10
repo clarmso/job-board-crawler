@@ -74,13 +74,21 @@
     {
       "id": 5525802,
       "name": "Baseline Budgeted Salary",
-      "value": null,
+      "value": {
+        "unit": "KRW",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
       "value_type": "currency_range"
     },
     {
       "id": 5525816,
       "name": "Other Large Market Budgeted Salary",
-      "value": null,
+      "value": {
+        "unit": "KRW",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
       "value_type": "currency_range"
     },
     {
@@ -117,7 +125,7 @@
     }
   ],
   "id": 7988076,
-  "updated_at": "2026-09-07T06:51:03-04:00",
+  "updated_at": "2026-09-08T11:30:20-04:00",
   "requisition_id": "2273465785",
   "title": "Enterprise Account Executive, Growth",
   "company_name": "MongoDB",

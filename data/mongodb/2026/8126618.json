@@ -43,7 +43,7 @@
       "id": 4137836,
       "name": "Working Model Eligibility",
       "value": [
-        "3-Fully Remote"
+        "2-Flexible"
       ],
       "value_type": "multi_select"
     },
@@ -74,13 +74,21 @@
     {
       "id": 5525802,
       "name": "Baseline Budgeted Salary",
-      "value": null,
+      "value": {
+        "unit": "USD",
+        "max_value": "270000.0",
+        "min_value": "189000.0"
+      },
       "value_type": "currency_range"
     },
     {
       "id": 5525816,
       "name": "Other Large Market Budgeted Salary",
-      "value": null,
+      "value": {
+        "unit": "USD",
+        "max_value": "230000.0",
+        "min_value": "161000.0"
+      },
       "value_type": "currency_range"
     },
     {
@@ -97,9 +105,9 @@
       "id": 40497768,
       "name": "Job Post Range (Canada)",
       "value": {
-        "unit": "CAD",
-        "max_value": "194000.0",
-        "min_value": "155000.0"
+        "unit": "USD",
+        "max_value": "0.0",
+        "min_value": "0.0"
       },
       "value_type": "currency_range"
     },
@@ -117,7 +125,7 @@
     }
   ],
   "id": 8126618,
-  "updated_at": "2026-09-01T03:40:27-04:00",
+  "updated_at": "2026-09-08T16:10:18-04:00",
   "requisition_id": "3273519278",
   "title": "Staff Product Manager, Identity and Security",
   "company_name": "MongoDB",
@@ -135,9 +143,9 @@
   ],
   "offices": [
     {
-      "id": 95793,
-      "name": "Remote California",
-      "location": "California, United States",
+      "id": 4040,
+      "name": "Seattle",
+      "location": "Seattle, WA, United States",
       "child_ids": [],
       "parent_id": 23657
     }
