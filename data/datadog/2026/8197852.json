@@ -1,0 +1,103 @@
+{
+  "absolute_url": "https://careers.datadoghq.com/detail/8197852/?gh_jid=8197852",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 3547848,
+  "location": {
+    "name": "New York, New York, USA"
+  },
+  "metadata": [
+    {
+      "id": 33310,
+      "name": "Time Type",
+      "value": "Full time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 166208,
+      "name": "Area - Engineering",
+      "value": "Product Management",
+      "value_type": "single_select"
+    },
+    {
+      "id": 498252,
+      "name": "Cost Center",
+      "value": "Engineering - Product Management",
+      "value_type": "single_select"
+    },
+    {
+      "id": 516515,
+      "name": "Geography",
+      "value": "North America",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9593635,
+      "name": "Early Career Time Type",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 29446322,
+      "name": "Pay Transparency Range",
+      "value": {
+        "unit": null,
+        "max_value": "195000.0",
+        "min_value": "156000.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 31273219,
+      "name": "Does this role require access to ITAR-controlled data?",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 58619948,
+      "name": "IC or MG",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8197852,
+  "updated_at": "2026-09-11T17:16:58-04:00",
+  "requisition_id": "R20966",
+  "title": "Product Manager 2 – IaC Detection",
+  "company_name": "Datadog",
+  "first_published": "2026-09-11T17:16:58-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p data-renderer-start-pos=&quot;85&quot; data-local-id=&quot;3343da33f007&quot;&gt;As a Product Manager – IaC Detection, you will define, build, and launch capabilities that proactively detect infrastructure issues in code (e.g. Terraform, Helm) before they can be deployed into production and escalate into production incidents. The Infrastructure Monitoring team has pioneered shift-left detection in the industry with &lt;a class=&quot;_ymio1r31 _ypr0glyw _zcxs1o36 _mizu194a _1ah3dkaa _ra3xnqa1 _128mdkaa _1cvmnqa1 _4davt94y _4bfu18uv _1hms8stv _ajmmnqa1 _vchhusvi _kqswh2mm _2rkolb4i _ect4ttxp _syaz13af _1a3b18uv _4fpr8stv _5goinqa1 _f8pj13af _9oik18uv _1bnxglyw _jf4cnqa1 _30l313af _1nrm18uv _c2waglyw _1iohnqa1 _9h8h12zz _10531ra0 _1ien1ra0 _n0fx1ra0 _1vhv17z1&quot; href=&quot;https://www.datadoghq.com/blog/bits-infrastructure-operations/&quot; data-renderer-mark=&quot;true&quot; data-is-router-link=&quot;false&quot; data-testid=&quot;link-with-safety&quot;&gt;&lt;u data-renderer-mark=&quot;true&quot;&gt;Bits Infrastructure Operations&lt;/u&gt;&lt;/a&gt;, and we’re looking for a Product Manager to expand this capability to a broader set of use cases&amp;nbsp;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;553&quot; data-local-id=&quot;9d5b5618b8bf&quot;&gt;Customers (and thus developers) are increasingly standardizing on IaC tools to deploy and maintain ever-growing infrastructure in the cloud. At the same time, SREs and Infra teams struggle with an increasing number of production incidents. By shifting-left and identifying high-impact infra changes before they are deployed, we help reduce production incidents, reduce waste, and free up SRE time to focus on value-added tasks. You will own the roadmap to expand IaC detection to a broader set of use cases, including cost detection, blast radius impact, as well as configuration changes on infrastructure powering applications like nginx, postgres and more. You’ll partner closely with Engineering, Design, and customers to build and iterate on the roadmap, build product market fit, drive customer adoption (including internal usage), and focus on coverage and correctness of the AI system. This is an opportunity to lead an initiative at the intersection of AI, infrastructure operations, and autonomous observability.&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;1576&quot; data-local-id=&quot;360b3189db93&quot;&gt;&lt;em&gt;At Datadog, we place value in our office culture - the relationships and collaboration it builds and the creativity it brings to the table. We operate as a hybrid workplace to ensure our Datadogs can create a work-life harmony that best fits them.&lt;/em&gt;&lt;/p&gt;\n&lt;h3 data-renderer-start-pos=&quot;1825&quot; data-local-id=&quot;9ef00d04b4e8&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;What You’ll Do:&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul class=&quot;ak-ul&quot; data-local-id=&quot;97f7e7608b92&quot; data-indent-level=&quot;1&quot;&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;1844&quot; data-local-id=&quot;4cf39165da06&quot;&gt;Lead the product roadmap for IaC Detection, enabling customers to proactively detect and catch high-impact infrastructure and configuration changes before they are deployed into production and escalate into incidents.&amp;nbsp;&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;2066&quot; data-local-id=&quot;bc8ef35059b3&quot;&gt;Define the end-to-end experience across the Datadog UI, developer workflows (e.g. GitHub). Partner with Design and Engineering to create user-facing experiences.&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;2231&quot; data-local-id=&quot;96bdea3009c0&quot;&gt;Work with customers, including Datadog, to drive adoption and iterate the product&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;2316&quot; data-local-id=&quot;128871308203&quot;&gt;Collaborate cross-functionally with infrastructure monitoring, AI product teams, and other teams in Datadog to integrate IaC detection capabilities across the Datadog platform.&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;2496&quot; data-local-id=&quot;cac9541b45a4&quot;&gt;Establish quality standards and success metrics, including coverage, correctness, and user trust.&lt;/p&gt;\n&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3 data-renderer-start-pos=&quot;2597&quot; data-local-id=&quot;eb59a4cec43b&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Who You Are:&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul class=&quot;ak-ul&quot; data-local-id=&quot;3567ff4e8b6e&quot; data-indent-level=&quot;1&quot;&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;2613&quot; data-local-id=&quot;6d4b41b4be28&quot;&gt;3+ years of Product Management experience shipping technical products in cloud infrastructure or SaaS environments, ideally for developer or operator audiences.&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;2777&quot; data-local-id=&quot;e5c27147b520&quot;&gt;You love building with AI, are excited about AI, and its potential to change the way infrastructure is monitored and managed&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;2905&quot; data-local-id=&quot;a8f4c10001c4&quot;&gt;You have a technical background and/or sense of the day in the life of an engineer/developer shipping, maintaining, or securing a distributed cloud application&amp;nbsp;&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;3069&quot; data-local-id=&quot;7578fdabb37c&quot;&gt;Ability to drive product-led growth for a new 0-1 initiative targeting developers by identifying design partners, fast iteration and building product market fit.&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;3234&quot; data-local-id=&quot;510aafd595d7&quot;&gt;Clear and concise communicator who can lead cross-functional initiatives and align stakeholders around a shared vision.&lt;/p&gt;\n&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p data-renderer-start-pos=&quot;3357&quot; data-local-id=&quot;5bbf9cc8eec8&quot;&gt;&lt;em&gt;Datadog values people from all walks of life. We understand not everyone will meet all the above qualifications on day one. That&#39;s okay. If you’re passionate about technology and want to grow your skills, we encourage you to apply.&lt;/em&gt;&lt;/p&gt;\n&lt;h3 data-renderer-start-pos=&quot;3590&quot; data-local-id=&quot;febb6297fdfc&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Benefits and Growth:&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul class=&quot;ak-ul&quot; data-local-id=&quot;efe200de32fb&quot; data-indent-level=&quot;1&quot;&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;3614&quot; data-local-id=&quot;7ced4d02b6a2&quot;&gt;Generous and competitive benefits package&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;3659&quot; data-local-id=&quot;f907d2c644c4&quot;&gt;New hire stock equity (RSUs) and employee stock purchase plan&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;3724&quot; data-local-id=&quot;2773a13b4a94&quot;&gt;Continuous career development and pathing opportunities&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;3783&quot; data-local-id=&quot;a04ccaf640e3&quot;&gt;Employee-focused best in class onboarding&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;3828&quot; data-local-id=&quot;71345facd16c&quot;&gt;Internal mentor and cross-departmental buddy program&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;3884&quot; data-local-id=&quot;53e84906cc46&quot;&gt;Friendly and inclusive workplace culture&lt;/p&gt;\n&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p data-renderer-start-pos=&quot;3928&quot; data-local-id=&quot;919df138133b&quot;&gt;&lt;em&gt;Benefits and Growth listed above may vary based on the country of your employment and the nature of your employment with Datadog.&lt;/em&gt;&lt;/p&gt;\n&lt;p style=&quot;color: white;&quot;&gt;#LI-Hybrid&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Datadog offers a competitive salary and equity package, and may include variable compensation. Actual compensation is based on factors such as the candidate&#39;s skills, qualifications, and experience. In addition, Datadog offers a wide range of best in class, comprehensive and inclusive employee benefits for this role including healthcare, dental, parental planning, and mental health benefits, a 401(k) plan and match, paid time off, fitness reimbursements, and a discounted employee stock purchase plan.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;The reasonably estimated yearly salary for this role at Datadog is:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$156,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$195,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;hr&gt;\n&lt;p&gt;&lt;strong&gt;About Datadog:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Datadog is the leading observability and security platform for the AI era, providing businesses with unified visibility across the technology stack to manage complexity at scale. It brings applications, infrastructure, data, models, and security into one place, using AI to detect and resolve issues before they impact customers. Trusted globally by Fortune 500 companies and high-growth AI leaders, Datadog enables businesses to move faster with clarity and confidence. Learn more about #DatadogLife on &lt;a href=&quot;https://www.instagram.com/datadoghq/?hl=en&quot; target=&quot;_blank&quot;&gt;Instagram&lt;/a&gt;, &lt;a href=&quot;https://www.linkedin.com/company/datadog&quot; target=&quot;_blank&quot;&gt;LinkedIn,&lt;/a&gt; and &lt;a href=&quot;https://learn.datadoghq.com/&quot; target=&quot;_blank&quot;&gt;Datadog Learning Center. &lt;/a&gt;&lt;/p&gt;\n&lt;hr&gt;\n&lt;p data-renderer-start-pos=&quot;215&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Equal Opportunity at Datadog:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Datadog is proud to offer &lt;a href=&quot;https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf&quot; target=&quot;_blank&quot;&gt;equal employment opportunity&lt;/a&gt; to everyone regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, veteran status, and other characteristics protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. Here are our &lt;a href=&quot;https://www.datadoghq.com/legal/candidate-legal-notices/&quot; target=&quot;_blank&quot;&gt;Candidate Legal Notices&lt;/a&gt; for your reference.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Datadog endeavors to make our Careers Page accessible to all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please complete &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSeoJeduEZ2NdZF_65uZmWUrCM-zee7yADXX1s6Xr9zAGq8iKA/viewform&quot; target=&quot;_blank&quot;&gt;this form&lt;/a&gt;. This form is for accommodation requests only and cannot be used to inquire about the status of applications.&amp;nbsp;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;662&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Privacy and AI Guidelines:&lt;/strong&gt;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;662&quot;&gt;Any information you submit to Datadog as part of your application will be processed in accordance with Datadog’s&amp;nbsp;&lt;a class=&quot;c-link&quot; href=&quot;https://www.datadoghq.com/legal/applicant-candidate-privacy/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.datadoghq.com/legal/applicant-candidate-privacy/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Applicant and Candidate Privacy Notice&lt;/a&gt;. For information on our AI policy, please visit &lt;a href=&quot;https://www.datadoghq.com/legal/interviewing-at-datadog-ai-guidelines/&quot; target=&quot;_blank&quot;&gt;Interviewing at Datadog AI Guidelines&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 72255,
+      "name": "Product Management",
+      "child_ids": [],
+      "parent_id": 9022
+    }
+  ],
+  "offices": [
+    {
+      "id": 5664,
+      "name": "New York",
+      "location": "New York, NY, United States",
+      "child_ids": [
+        81327,
+        76746
+      ],
+      "parent_id": 73429
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

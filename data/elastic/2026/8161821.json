@@ -1,0 +1,92 @@
+{
+  "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=8161821&gh_jid=8161821",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "education": "education_optional",
+  "internal_job_id": 3516800,
+  "location": {
+    "name": "Spain"
+  },
+  "metadata": [
+    {
+      "id": 32131013,
+      "name": "Requisition open date",
+      "value": "2026-08-10",
+      "value_type": "date"
+    },
+    {
+      "id": 168141,
+      "name": "Target Remote Countries / States Locations [For Job Wrapping]",
+      "value": [
+        "Canada",
+        "Norway",
+        "Poland",
+        "Spain",
+        "United Kingdom",
+        "United States"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 33574685,
+      "name": "Types of Hiring",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 20164553,
+      "name": "FADV_Account",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 20164588,
+      "name": "FADV_Package",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 30595384,
+      "name": "Seniority",
+      "value": "Mid-Senior Level",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8161821,
+  "updated_at": "2026-09-10T20:07:01-04:00",
+  "requisition_id": "R12165",
+  "title": "Senior Manager, Endpoint Protections",
+  "company_name": "Elastic",
+  "first_published": "2026-08-27T11:13:29-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Elastic, the Search AI Company, enables everyone to find the answers they need in real time, using all their data, at scale — unleashing the potential of businesses and people. The Elastic Search AI Platform, used by more than 50% of the Fortune 500, brings together the precision of search and the intelligence of AI to enable everyone to accelerate the results that matter. By taking advantage of all structured and unstructured data — securing and protecting private information more effectively — Elastic’s complete, cloud-based solutions for search, security, and observability help organizations deliver on the promise of AI.&lt;/p&gt;&lt;/div&gt;&lt;h3&gt;&lt;strong&gt;What is The Role&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;The Elastic Security Endpoint Protections team builds the visibility, prevention, and on-device machine learning capabilities at the core of Elastic Defend, our endpoint and SIEM security solution. We work in kernel and user mode across Windows, macOS, and Linux, against adversaries who study how to defeat what we build. Our work reaches the security community as well as the product, through original research and conference talks. We are looking for a Senior Manager who has done this work personally and can still review a design or write code. You will lead a globally distributed team and set the tone for a group that values candid feedback, collaborative learning, and mentorship.&lt;/p&gt;\n&lt;p&gt;We believe security is a team sport, and our efficacy is independently verified rather than simply claimed: in recent third-party enterprise protection testing, Elastic Security earned a perfect malware protection score with zero false alarms, the top result in the field. If you are energized by leading world-class engineers and making a measurable dent in how the industry defends the endpoint, we would love to hear from you!&lt;/p&gt;\n&lt;h3&gt;What You Will Be Doing&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Lead, mentor, and grow a world-class engineering team.&lt;/strong&gt; Guide senior research engineers across endpoint internals, prevention engineering, and machine learning. Coach career development, deliver candid feedback, own the hiring pipeline, and set new engineers up to contribute quickly.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Own the roadmap and drive delivery.&lt;/strong&gt; Decide where to invest in new visibility and where to deepen existing protection engines, balancing efficacy, performance, and stability across millions of endpoints. Work with product managers to define requirements and land high-quality features on release timelines.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Connect your team&#39;s work to the rest of Elastic Security.&lt;/strong&gt; Every event source your team adds unlocks new detection and protection capabilities across the product. Invest in the joint planning, working relationships, and shared accountability that get your team&#39;s work into customers&#39; hands.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Direct the team&#39;s machine learning work.&lt;/strong&gt; Set direction on model development, training data quality, and the telemetry features those models depend on, and connect that work to the broader machine learning strategy across Elastic Security.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Drive cross-platform protection parity.&lt;/strong&gt; Bring the depth Elastic has on Windows to macOS and Linux, keep the team ahead of new hardware architectures, and sustain the platform vendor relationships that give you early access to emerging operating system security APIs.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Represent the team externally.&lt;/strong&gt; Support your engineers in presenting at conferences and publishing on Elastic Security Labs, engage with customers and partners on protection capabilities, and be a credible voice for Elastic in the endpoint security community.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;What You Bring&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;People-leadership experience&lt;/strong&gt; managing senior technical individual contributors on a globally distributed team. You lead with curiosity rather than authority, actively solicit feedback, and have a track record of growing people, not just shipping releases.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;You have been a practitioner.&lt;/strong&gt; Substantial hands-on experience as a security researcher before moving into leadership: analyzing attacker tactics, techniques, and procedures (TTPs), building the protections that counter them, and shipping into software that runs on customer machines at scale.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Operating system internals knowledge&lt;/strong&gt;, in both kernel and user mode, earned hands-on rather than through oversight, and deep enough to reason about undocumented behavior and challenge a design on its technical merits. Windows depth is what we need most, with macOS or Linux close behind.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Hands-on reverse engineering and malware analysis experience.&lt;/strong&gt; You have done this work yourself, and can still read a disassembly, assess a research finding on its merits, and judge which threats warrant investment.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;An adversarial instinct.&lt;/strong&gt; You anticipate how a protection will be evaded before it ships, and hold the team to designing for resilience rather than for the proof of concept in front of them.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Clear communication skills&lt;/strong&gt;, comfortable writing for technical and executive audiences and distilling deeply technical work for non-expert stakeholders.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Motivation to thrive in a distributed, autonomous environment&lt;/strong&gt;, with a genuine passion for protecting customers from real-world adversaries.&lt;/li&gt;\n&lt;li&gt;Demonstrated experience leveraging AI-assisted development tools to accelerate feature development, debug complex systems, and optimize existing codebases.&lt;/li&gt;\n&lt;li&gt;You possess the ability to comfortably rotate across projects, collaborate across functions and teams, and seamlessly adapt to evolving team structures.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Bonus Points&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Prior ownership of an EDR, EPP, or other endpoint security product.&lt;/li&gt;\n&lt;li&gt;Personal research output: published vulnerabilities, patents, in-depth technical writing, or conference talks.&lt;/li&gt;\n&lt;li&gt;Experience leading machine learning engineers working on security problems.&lt;/li&gt;\n&lt;li&gt;Experience partnering with product engineering teams to take research prototypes through to GA release.&lt;/li&gt;\n&lt;li&gt;Conference speaking experience (e.g., Black Hat, DEF CON, CODE BLUE, Virus Bulletin).&lt;/li&gt;\n&lt;li&gt;Familiarity with the Elastic Stack (Elasticsearch, Kibana) and Elastic Security.&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Compensation for this role is in the form of base salary.&amp;nbsp; This role does not have a variable compensation component.&amp;nbsp;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;At Elastic, our compensation philosophy aims to provide fair, competitive and transparent remuneration. Salary ranges are established based on a combination of external market benchmarks, internal pay equity considerations, and the responsibilities and complexity associated with each role. This approach helps ensure consistency across comparable roles while remaining competitive within the relevant labour markets.&lt;/p&gt;\n&lt;p&gt;The final compensation offered within the applicable range will be determined based on several objective factors, including relevant professional experience, level of skills and expertise, alignment with the role requirements, and the overall scope and complexity of the position.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;The typical starting salary range for this role is:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;€80.400&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;€127.200 EUR&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;Additional Information - We Take Care of Our People&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;As a distributed company, diversity drives our identity. Whether you’re looking to launch a new career or grow an existing one, Elastic is the type of company where you can balance great work with great life. Your age is only a number. It doesn’t matter if you’re just out of college or your children are; we need you for what you can do.&lt;/p&gt;\n&lt;p&gt;We strive to have parity of benefits across regions and while regulations differ from place to place, we believe taking care of our people is the right thing to do.&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Competitive pay based on the work you do here and not your previous salary&lt;/li&gt;\n&lt;li&gt;Health coverage for you and your family in many locations&lt;/li&gt;\n&lt;li&gt;Ability to craft your calendar with flexible locations and schedules for many roles&lt;/li&gt;\n&lt;li&gt;Generous number of vacation days each year&lt;/li&gt;\n&lt;li&gt;Increase your impact - We match up to $2000 (or local currency equivalent) for financial donations and service&lt;/li&gt;\n&lt;li&gt;Up to 40 hours each year to use toward volunteer projects you love&lt;/li&gt;\n&lt;li&gt;Embracing parenthood with minimum of 16 weeks of parental leave&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Different people approach problems differently. We need that. Elastic is an equal opportunity employer and is committed to creating an inclusive culture that celebrates different perspectives, experiences, and backgrounds. Qualified applicants will receive consideration for employment without regard to race, ethnicity, color, religion, sex, pregnancy, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, disability status, or any other basis protected by federal, state or local law, ordinance or regulation.&lt;/p&gt;\n&lt;p&gt;We welcome individuals with disabilities and strive to create an accessible and inclusive experience for all individuals. To request an accommodation during the application or the recruiting process, please email &lt;a href=&quot;mailto:candidate_accessibility@elastic.co&quot; target=&quot;_blank&quot;&gt;candidate_accessibility@elastic.co&lt;/a&gt;&lt;span class=&quot;gmail_default&quot;&gt;.&lt;/span&gt;&amp;nbsp;We will reply to your request within 24 business hours of submission.&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Applicants have rights under Federal Employment Laws, view posters linked below:&lt;/span&gt; &lt;a href=&quot;https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/fmlaen.pdf&quot; target=&quot;_blank&quot;&gt;Family and Medical Leave Act (FMLA)&lt;/a&gt; &lt;span style=&quot;color: #000000;&quot;&gt;Poster;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&amp;nbsp;&lt;a href=&quot;https://www.dol.gov/sites/dolgov/files/ofccp/pdf/pay-transp_%20English_formattedESQA508c.pdf&quot; target=&quot;_blank&quot;&gt;Pay Transparency Nondiscrimination Provision&lt;/a&gt; Poster; &lt;/span&gt;&lt;a href=&quot;https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/eppabw.pdf&quot; target=&quot;_blank&quot;&gt;Employee Polygraph Protection Act (EPPA)&lt;/a&gt; &lt;span style=&quot;color: #000000;&quot;&gt;Poster and &lt;a href=&quot;https://www.dol.gov/sites/dolgov/files/OFCCP/regs/compliance/posters/pdf/22-088_EEOC_KnowYourRights.pdf&quot; target=&quot;_blank&quot;&gt;Know Your Rights&lt;/a&gt; (Poster)&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Elasticsearch develops and distributes technology and information that is subject to U.S. and other countries’ export controls and licensing requirements for individuals who are located in or are nationals of the following sanctioned countries and regions: Belarus, Cuba, Iran, North Korea, Syria, or Russia, including the Ukrainian territories annexed by Russia (The Crimea region of Ukraine, The Donetsk People&#39;s Republic (DNR), The Luhansk People&#39;s Republic (LNR), Kherson or Zaporizhzhia). If you are located in or are a national of one of the listed countries or regions, an export license may be required as a condition of your employment in this role. Please note that national origin and/or nationality do not affect eligibility for employment with Elastic.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;Please see&amp;nbsp;&lt;a href=&quot;https://www.elastic.co/legal/applicant-privacy-statement&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://www.elastic.co/legal/applicant-privacy-statement&amp;amp;source=gmail&amp;amp;ust=1611068262479000&amp;amp;usg=AFQjCNG3orAPk5sJIr9WVm0ZDxYw82c5DA&quot;&gt;here&lt;/a&gt;&amp;nbsp;for our Privacy Statement.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 69092,
+      "name": "Security - Protections",
+      "child_ids": [],
+      "parent_id": 69101
+    }
+  ],
+  "offices": [
+    {
+      "id": 57089,
+      "name": "Distributed, AMER",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 79984
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

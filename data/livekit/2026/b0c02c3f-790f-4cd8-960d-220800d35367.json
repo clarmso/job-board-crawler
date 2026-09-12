@@ -1,0 +1,88 @@
+{
+  "id": "b0c02c3f-790f-4cd8-960d-220800d35367",
+  "title": "Research Engineer (Reinforcement Learning)",
+  "department": "R&D",
+  "team": "Engineering ",
+  "employmentType": "FullTime",
+  "location": "North America",
+  "shouldDisplayCompensationOnJobPostings": true,
+  "secondaryLocations": [
+    {
+      "location": "APJ",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "APJ"
+        }
+      }
+    },
+    {
+      "location": "EMEA",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "EMEA"
+        }
+      }
+    }
+  ],
+  "publishedAt": "2026-08-18T22:07:52.018+00:00",
+  "isListed": true,
+  "isRemote": true,
+  "workplaceType": "Remote",
+  "address": {
+    "postalAddress": {
+      "addressCountry": "NAMER"
+    }
+  },
+  "jobUrl": "https://jobs.ashbyhq.com/livekit/b0c02c3f-790f-4cd8-960d-220800d35367",
+  "applyUrl": "https://jobs.ashbyhq.com/livekit/b0c02c3f-790f-4cd8-960d-220800d35367/application",
+  "descriptionHtml": "<h2>About LiveKit </h2><p style=\"min-height:1.5em\">LiveKit is building the infrastructure layer for the voice-driven era of computing. Our platform gives developers everything they need to build, test, deploy, scale, and observe agents in production. Founded in 2021, LiveKit powers voice AI applications for OpenAI, xAI, Salesforce, Coursera, Spotify, and thousands of others, collectively facilitating billions of calls each year.</p><p style=\"min-height:1.5em\"></p><h2>About This Role</h2><p style=\"min-height:1.5em\">We are looking for an exceptional engineer to build post-training at LiveKit. Our agents run over voice and increasingly over text channels like SMS and chat, and the interesting problems show up over long horizons: staying useful across many sessions, working with context that accumulates over time, and using tools reliably in the middle of a live conversation.</p><p style=\"min-height:1.5em\"></p><h2>What You'll Do</h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Build the environments and verifiers our models train against</p></li><li><p style=\"min-height:1.5em\">Own the synthetic data pipeline, from generation through the quality gates</p></li><li><p style=\"min-height:1.5em\">Run training experiments end to end, and explain what moved the model</p></li><li><p style=\"min-height:1.5em\">Build the evaluations a release has to clear</p></li><li><p style=\"min-height:1.5em\">Choose and adapt open-weight base models for our tasks</p></li><li><p style=\"min-height:1.5em\">Make trained behavior hold up for voice and text agents alike</p></li><li><p style=\"min-height:1.5em\">Ship models into production and keep improving them on real usage</p></li></ul><p style=\"min-height:1.5em\"></p><h2>Who You Are</h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">A strong Python engineer</p></li><li><p style=\"min-height:1.5em\">Have carried a model from raw data through to production</p></li><li><p style=\"min-height:1.5em\">Treat data as the product: coverage, diversity, leakage</p></li><li><p style=\"min-height:1.5em\">Assume a model will exploit a weak reward, and design against it</p></li><li><p style=\"min-height:1.5em\">Comfortable with GPUs and honest about their limits</p></li><li><p style=\"min-height:1.5em\">Know when to train, and when not to</p></li><li><p style=\"min-height:1.5em\">Comfortable working collaboratively in a remote environment</p></li></ul><p style=\"min-height:1.5em\"></p><h2>Nice to Have</h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Experience with post-training: fine-tuning, reward design, or reinforcement learning such as GRPO</p></li><li><p style=\"min-height:1.5em\">RL and fine-tuning frameworks such as TRL, verl, or OpenRLHF, or a training loop you wrote yourself</p></li><li><p style=\"min-height:1.5em\">Fast rollouts with vLLM or SGLang, multi-GPU training with FSDP</p></li><li><p style=\"min-height:1.5em\">Training tool-using or multi-turn agents</p></li><li><p style=\"min-height:1.5em\">Execution sandboxes, verifiers, eval harnesses, or tooling other engineers depend on</p></li><li><p style=\"min-height:1.5em\">Open-weight families such as Qwen or Llama, LoRA and similar</p></li></ul><p style=\"min-height:1.5em\"></p><h2>Our Commitment to You</h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">The opportunity to shape the brand of a fast-growing developer platform</p></li><li><p style=\"min-height:1.5em\">Collaboration with a small, senior team that deeply values craft and creativity</p></li><li><p style=\"min-height:1.5em\">Competitive salary and equity package</p></li><li><p style=\"min-height:1.5em\">Health, dental, and vision benefits</p></li><li><p style=\"min-height:1.5em\">Flexible vacation policy</p></li></ul><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">LiveKit is an equal opportunity employer and does not discriminate on the basis of any characteristic protected by applicable law. If you require a reasonable accommodation during the application or interview process, please contact recruiting@livekit.io.</p>",
+  "descriptionPlain": "ABOUT LIVEKIT \n\nLiveKit is building the infrastructure layer for the voice-driven era of computing. Our platform gives developers everything they need to build, test, deploy, scale, and observe agents in production. Founded in 2021, LiveKit powers voice AI applications for OpenAI, xAI, Salesforce, Coursera, Spotify, and thousands of others, collectively facilitating billions of calls each year.\n\n\n\n\nABOUT THIS ROLE\n\nWe are looking for an exceptional engineer to build post-training at LiveKit. Our agents run over voice and increasingly over text channels like SMS and chat, and the interesting problems show up over long horizons: staying useful across many sessions, working with context that accumulates over time, and using tools reliably in the middle of a live conversation.\n\n\n\n\nWHAT YOU'LL DO\n\n - Build the environments and verifiers our models train against\n\n - Own the synthetic data pipeline, from generation through the quality gates\n\n - Run training experiments end to end, and explain what moved the model\n\n - Build the evaluations a release has to clear\n\n - Choose and adapt open-weight base models for our tasks\n\n - Make trained behavior hold up for voice and text agents alike\n\n - Ship models into production and keep improving them on real usage\n\n\n\n\nWHO YOU ARE\n\n - A strong Python engineer\n\n - Have carried a model from raw data through to production\n\n - Treat data as the product: coverage, diversity, leakage\n\n - Assume a model will exploit a weak reward, and design against it\n\n - Comfortable with GPUs and honest about their limits\n\n - Know when to train, and when not to\n\n - Comfortable working collaboratively in a remote environment\n\n\n\n\nNICE TO HAVE\n\n - Experience with post-training: fine-tuning, reward design, or reinforcement learning such as GRPO\n\n - RL and fine-tuning frameworks such as TRL, verl, or OpenRLHF, or a training loop you wrote yourself\n\n - Fast rollouts with vLLM or SGLang, multi-GPU training with FSDP\n\n - Training tool-using or multi-turn agents\n\n - Execution sandboxes, verifiers, eval harnesses, or tooling other engineers depend on\n\n - Open-weight families such as Qwen or Llama, LoRA and similar\n\n\n\n\nOUR COMMITMENT TO YOU\n\n - The opportunity to shape the brand of a fast-growing developer platform\n\n - Collaboration with a small, senior team that deeply values craft and creativity\n\n - Competitive salary and equity package\n\n - Health, dental, and vision benefits\n\n - Flexible vacation policy\n\n\n\nLiveKit is an equal opportunity employer and does not discriminate on the basis of any characteristic protected by applicable law. If you require a reasonable accommodation during the application or interview process, please contact recruiting@livekit.io.",
+  "compensation": {
+    "compensationTierSummary": "$135K – $300K • Offers Equity",
+    "scrapeableCompensationSalarySummary": "$135K - $300K",
+    "compensationTiers": [
+      {
+        "id": "d1ff53eb-6096-4827-822c-9d8a34d9af9f",
+        "tierSummary": "$135K – $300K • Offers Equity",
+        "title": null,
+        "additionalInformation": null,
+        "components": [
+          {
+            "id": "7313c0be-3149-47fb-8fd0-a7d1b4d28425",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "3218a73d-c116-40d2-bed2-5e50781f764c",
+            "summary": "$135K – $300K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 135000,
+            "maxValue": 300000
+          }
+        ]
+      }
+    ],
+    "summaryComponents": [
+      {
+        "compensationType": "EquityPercentage",
+        "interval": "NONE",
+        "currencyCode": null,
+        "minValue": null,
+        "maxValue": null
+      },
+      {
+        "compensationType": "Salary",
+        "interval": "1 YEAR",
+        "currencyCode": "USD",
+        "minValue": 135000,
+        "maxValue": 300000
+      }
+    ]
+  }
+}

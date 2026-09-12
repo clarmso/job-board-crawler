@@ -1,0 +1,88 @@
+{
+  "id": "1355f64e-b394-4982-8de6-6fd3e6e8f30d",
+  "title": "Senior Software Engineer - Reliability, Infrastructure, and Tooling",
+  "department": "R&D",
+  "team": "Engineering ",
+  "employmentType": "FullTime",
+  "location": "North America",
+  "shouldDisplayCompensationOnJobPostings": true,
+  "secondaryLocations": [
+    {
+      "location": "APJ",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "APJ"
+        }
+      }
+    },
+    {
+      "location": "EMEA",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "EMEA"
+        }
+      }
+    }
+  ],
+  "publishedAt": "2026-03-18T20:06:10.950+00:00",
+  "isListed": true,
+  "isRemote": true,
+  "workplaceType": "Remote",
+  "address": {
+    "postalAddress": {
+      "addressCountry": "NAMER"
+    }
+  },
+  "jobUrl": "https://jobs.ashbyhq.com/livekit/1355f64e-b394-4982-8de6-6fd3e6e8f30d",
+  "applyUrl": "https://jobs.ashbyhq.com/livekit/1355f64e-b394-4982-8de6-6fd3e6e8f30d/application",
+  "descriptionHtml": "<h2><strong>About LiveKit</strong></h2><p style=\"min-height:1.5em\">LiveKit is building the infrastructure layer for the agentic era of computing. Our platform gives developers everything they need to build, test, deploy, scale, and observe AI agents in production. Founded in 2021, LiveKit powers voice and agentic AI applications for OpenAI, Salesforce, Spotify, Meta, and tens of thousands of other developers, collectively facilitating billions of calls each year.</p><p style=\"min-height:1.5em\"></p><h2><strong>About This Role</strong></h2><p style=\"min-height:1.5em\">We’re hiring Senior Software Engineers to join our team focused on infrastructure development and reliability engineering. This is not an “ops” team by any means. We partner with product dev teams to co-design and develop along with them to ensure that LiveKit systems are reliable, maintainable, and secure. We work on internal tooling to provide a smooth experience for our product dev teams to own and run their workloads on top of our infrastructure and to meet our strict reliability requirements.</p><p style=\"min-height:1.5em\">Like all teams, we own the ops and maintenance for the systems we work on, but where possible we automate away what we can. Our team also facilitates a healthy oncall rotation and incident management practices, but the rotation is shared with product dev team members to ensure the important production perspective that oncall provides isn’t isolated to just our team.</p><p style=\"min-height:1.5em\">We support the full range of LiveKit products which provide a fascinating landscape of problems to be solved because they are much more demanding than a simple web app. It includes real time media workloads, hosting of customer agent code in secure sandboxes, and advanced networking requirements, all of which keep us on our toes.</p><p style=\"min-height:1.5em\"></p><h2><strong>You'll Thrive Here If You:</strong></h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">You are tenacious with investigating tricky system level issues.</p></li><li><p style=\"min-height:1.5em\">You like the art of observability including quantifying reliability and visualizing it efficiently.</p></li><li><p style=\"min-height:1.5em\">You understand the delicate balance between moving fast now and moving fast later.</p></li><li><p style=\"min-height:1.5em\">You are able to communicate effectively with partner teams and tactfully handle sometimes contentious topics.</p></li><li><p style=\"min-height:1.5em\">You get satisfaction from clean, DRY, error-resistant configuration even when the underlying systems are complex and diverse.</p></li><li><p style=\"min-height:1.5em\">You look at the world in terms of signals and control systems.</p></li></ul><p style=\"min-height:1.5em\"></p><h2><strong>What You'll Do</strong></h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Ramp on LiveKit's global architecture — CockroachDB, NATS, Nebula, Kubernetes — and map where reliability debt lives</p></li><li><p style=\"min-height:1.5em\">Ship product SRE work directly in the product codebase: load balancing, load shedding, instrumentation, scalability, efficiency</p></li><li><p style=\"min-height:1.5em\">Build and extend common tooling so product teams can self-service reliability without Infra as a bottleneck</p></li><li><p style=\"min-height:1.5em\">Participate in the on-call rotation and help resolve recurring reliability patterns</p></li><li><p style=\"min-height:1.5em\">Bring informed systems opinions that improve how the team makes architectural decisions</p></li></ul><h2><strong>Who You Are</strong></h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Experience building non-trivial applications (high concurrency, complex control loops, etc).</p></li><li><p style=\"min-height:1.5em\">Strong experience with Kubernetes (or equivalent, Borg, etc).</p></li><li><p style=\"min-height:1.5em\">Experience with Linux internals and networking.</p></li><li><p style=\"min-height:1.5em\">Experience making use of observability tools to debug tricky problems.</p></li><li><p style=\"min-height:1.5em\">Experience running large scale globally distributed systems and working with the complex configuration management problems and technical debt that come along with it.</p></li><li><p style=\"min-height:1.5em\">Experience with complex production incident handling.</p></li><li><p style=\"min-height:1.5em\">Experience running open source tooling (e.g. Kafka, Clickhouse, etc).</p></li></ul><h2><strong>Nice to Have</strong></h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Data engineering and analytics.</p></li><li><p style=\"min-height:1.5em\">Global layer 3 networking.</p></li><li><p style=\"min-height:1.5em\">Experience working with systems that handle long lived load like media.</p></li><li><p style=\"min-height:1.5em\">Google SRE or equivalent high-scale background.</p></li><li><p style=\"min-height:1.5em\">Dealing with compliance frameworks (e.g. PCI).</p></li></ul><p style=\"min-height:1.5em\"></p><h2><strong>Our Commitment to You</strong></h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">An opportunity to build something truly impactful to the world</p></li><li><p style=\"min-height:1.5em\">Contribute to open source alongside world-class engineers</p></li><li><p style=\"min-height:1.5em\">Competitive salary and equity package</p></li><li><p style=\"min-height:1.5em\">Health, dental, and vision benefits</p></li><li><p style=\"min-height:1.5em\">Flexible vacation policy</p></li></ul><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><em>LiveKit is an equal opportunity employer and does not discriminate on the basis of any characteristic protected by applicable law. If you require a reasonable accommodation during the application or interview process, please contact recruiting@livekit.io.</em></p><p style=\"min-height:1.5em\"></p>",
+  "descriptionPlain": "ABOUT LIVEKIT\n\nLiveKit is building the infrastructure layer for the agentic era of computing. Our platform gives developers everything they need to build, test, deploy, scale, and observe AI agents in production. Founded in 2021, LiveKit powers voice and agentic AI applications for OpenAI, Salesforce, Spotify, Meta, and tens of thousands of other developers, collectively facilitating billions of calls each year.\n\n\n\n\nABOUT THIS ROLE\n\nWe’re hiring Senior Software Engineers to join our team focused on infrastructure development and reliability engineering. This is not an “ops” team by any means. We partner with product dev teams to co-design and develop along with them to ensure that LiveKit systems are reliable, maintainable, and secure. We work on internal tooling to provide a smooth experience for our product dev teams to own and run their workloads on top of our infrastructure and to meet our strict reliability requirements.\n\nLike all teams, we own the ops and maintenance for the systems we work on, but where possible we automate away what we can. Our team also facilitates a healthy oncall rotation and incident management practices, but the rotation is shared with product dev team members to ensure the important production perspective that oncall provides isn’t isolated to just our team.\n\nWe support the full range of LiveKit products which provide a fascinating landscape of problems to be solved because they are much more demanding than a simple web app. It includes real time media workloads, hosting of customer agent code in secure sandboxes, and advanced networking requirements, all of which keep us on our toes.\n\n\n\n\nYOU'LL THRIVE HERE IF YOU:\n\n - You are tenacious with investigating tricky system level issues.\n\n - You like the art of observability including quantifying reliability and visualizing it efficiently.\n\n - You understand the delicate balance between moving fast now and moving fast later.\n\n - You are able to communicate effectively with partner teams and tactfully handle sometimes contentious topics.\n\n - You get satisfaction from clean, DRY, error-resistant configuration even when the underlying systems are complex and diverse.\n\n - You look at the world in terms of signals and control systems.\n\n\n\n\nWHAT YOU'LL DO\n\n - Ramp on LiveKit's global architecture — CockroachDB, NATS, Nebula, Kubernetes — and map where reliability debt lives\n\n - Ship product SRE work directly in the product codebase: load balancing, load shedding, instrumentation, scalability, efficiency\n\n - Build and extend common tooling so product teams can self-service reliability without Infra as a bottleneck\n\n - Participate in the on-call rotation and help resolve recurring reliability patterns\n\n - Bring informed systems opinions that improve how the team makes architectural decisions\n\n\nWHO YOU ARE\n\n - Experience building non-trivial applications (high concurrency, complex control loops, etc).\n\n - Strong experience with Kubernetes (or equivalent, Borg, etc).\n\n - Experience with Linux internals and networking.\n\n - Experience making use of observability tools to debug tricky problems.\n\n - Experience running large scale globally distributed systems and working with the complex configuration management problems and technical debt that come along with it.\n\n - Experience with complex production incident handling.\n\n - Experience running open source tooling (e.g. Kafka, Clickhouse, etc).\n\n\nNICE TO HAVE\n\n - Data engineering and analytics.\n\n - Global layer 3 networking.\n\n - Experience working with systems that handle long lived load like media.\n\n - Google SRE or equivalent high-scale background.\n\n - Dealing with compliance frameworks (e.g. PCI).\n\n\n\n\nOUR COMMITMENT TO YOU\n\n - An opportunity to build something truly impactful to the world\n\n - Contribute to open source alongside world-class engineers\n\n - Competitive salary and equity package\n\n - Health, dental, and vision benefits\n\n - Flexible vacation policy\n\n\n\nLiveKit is an equal opportunity employer and does not discriminate on the basis of any characteristic protected by applicable law. If you require a reasonable accommodation during the application or interview process, please contact recruiting@livekit.io.\n\n",
+  "compensation": {
+    "compensationTierSummary": "$135K – $300K • Offers Equity",
+    "scrapeableCompensationSalarySummary": "$135K - $300K",
+    "compensationTiers": [
+      {
+        "id": "91058130-7bf2-44ac-9826-ea8543a7ac7f",
+        "tierSummary": "$135K – $300K • Offers Equity",
+        "title": null,
+        "additionalInformation": null,
+        "components": [
+          {
+            "id": "5f6c51c0-5331-45e1-b777-43f144df8e9f",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "85bb7e58-0799-457b-b945-209e8167468a",
+            "summary": "$135K – $300K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 135000,
+            "maxValue": 300000
+          }
+        ]
+      }
+    ],
+    "summaryComponents": [
+      {
+        "compensationType": "EquityPercentage",
+        "interval": "NONE",
+        "currencyCode": null,
+        "minValue": null,
+        "maxValue": null
+      },
+      {
+        "compensationType": "Salary",
+        "interval": "1 YEAR",
+        "currencyCode": "USD",
+        "minValue": 135000,
+        "maxValue": 300000
+      }
+    ]
+  }
+}

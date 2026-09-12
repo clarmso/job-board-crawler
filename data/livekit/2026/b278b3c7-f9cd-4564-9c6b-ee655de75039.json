@@ -1,0 +1,88 @@
+{
+  "id": "b278b3c7-f9cd-4564-9c6b-ee655de75039",
+  "title": "Staff Software Engineer, Distributed Systems",
+  "department": "R&D",
+  "team": "Engineering ",
+  "employmentType": "FullTime",
+  "location": "North America",
+  "shouldDisplayCompensationOnJobPostings": true,
+  "secondaryLocations": [
+    {
+      "location": "APJ",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "APJ"
+        }
+      }
+    },
+    {
+      "location": "EMEA",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "EMEA"
+        }
+      }
+    }
+  ],
+  "publishedAt": "2026-07-23T17:26:48.708+00:00",
+  "isListed": true,
+  "isRemote": true,
+  "workplaceType": "Remote",
+  "address": {
+    "postalAddress": {
+      "addressCountry": "NAMER"
+    }
+  },
+  "jobUrl": "https://jobs.ashbyhq.com/livekit/b278b3c7-f9cd-4564-9c6b-ee655de75039",
+  "applyUrl": "https://jobs.ashbyhq.com/livekit/b278b3c7-f9cd-4564-9c6b-ee655de75039/application",
+  "descriptionHtml": "<h2>About LiveKit</h2><p style=\"min-height:1.5em\">LiveKit is revolutionizing the AI landscape by providing the essential network infrastructure that powers multimodal AI interfaces, enabling seamless audio and visual interactions. Founded in 2021, LiveKit has rapidly grown to support over 3 Billion calls annually, 100,000+ developers globally, and industry giants like OpenAI, Character AI, Spotify, and Meta.</p><p style=\"min-height:1.5em\"></p><h2>About This Role</h2><p style=\"min-height:1.5em\">We're looking for a Staff Engineer to work across some of the most technically demanding parts of LiveKit's platform — core services, telephony, and observability. At LiveKit, the infrastructure is the product — you're not building the layer underneath, you <em>are</em> the layer.</p><p style=\"min-height:1.5em\">You'll work on problems where latency, availability, and operational simplicity are critical, and where the right answer often requires careful tradeoffs and outside-the-box thinking. While distributed systems experience is valuable, we care just as much about strong programming fundamentals, sound judgment, and the ability to learn fast. The team is small. Your decisions ship directly into production.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">You'll thrive as a Distributed Systems Engineer if you:</p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">obsess with crafting code that is fast, reliable and practical for the problem</p></li><li><p style=\"min-height:1.5em\">are known as the go-to person for tackling tough technical problems</p></li><li><p style=\"min-height:1.5em\">work hard and can build and ship fast</p></li><li><p style=\"min-height:1.5em\">can clearly explain complex technical concepts to others</p></li><li><p style=\"min-height:1.5em\">are a fast learner, frequently picking up new languages and tools</p></li></ul><p style=\"min-height:1.5em\">The best way to impress us is with thoughtful Issues and/or PRs on our Github repos 😊</p><p style=\"min-height:1.5em\"></p><h2>What You'll Do</h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Design and evolve the core control, data, and observability systems that power LiveKit Cloud</p></li><li><p style=\"min-height:1.5em\">Implement resilient, region-spanning architectures that degrade gracefully under partial failure</p></li><li><p style=\"min-height:1.5em\">Build libraries, protocols, and tooling that raise reliability and developer velocity across the org</p></li><li><p style=\"min-height:1.5em\">Diagnose and harden critical paths using metrics, tracing, testing, and real-world traffic insights</p></li><li><p style=\"min-height:1.5em\">Shape new platform capabilities across identity, scheduling, observability, and distributed state management</p></li><li><p style=\"min-height:1.5em\">Technologies include: Go, psrpc, gRPC, Raft, NATS, Kubernetes, Prometheus, OpenTelemetry, ClickHouse</p></li></ul><p style=\"min-height:1.5em\"></p><h2>Who You Are</h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">You have experience designing and delivering distributed systems in production</p></li><li><p style=\"min-height:1.5em\">You take ownership end-to-end - prototype, test, ship, monitor, and iterate</p></li><li><p style=\"min-height:1.5em\">You're comfortable with consensus, coordination, and the realities of distributed failure modes</p></li><li><p style=\"min-height:1.5em\">You think in terms of data flow, state, performance, and correctness, and you can reduce complex systems into understandable components</p></li><li><p style=\"min-height:1.5em\">You value clear communication, practical engineering, and building systems that others enjoy working with</p></li></ul><p style=\"min-height:1.5em\"></p><h2>Nice to Have</h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Go fluency — if you haven't written Go yet, you've been meaning to</p></li><li><p style=\"min-height:1.5em\">Hands-on experience with pub/sub, RPC, or coordination systems (NATS, etcd, Raft, Paxos)</p></li><li><p style=\"min-height:1.5em\">Exposure to real-time or low-latency infrastructure — you know what microseconds feel like</p></li><li><p style=\"min-height:1.5em\">You've shipped observability tooling you'd actually want to use (tracing, metrics, at-scale logging)</p></li><li><p style=\"min-height:1.5em\">In those school group projects, you did most of the work (:sigh:)</p></li></ul><p style=\"min-height:1.5em\"></p><h2><strong>We offer</strong></h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">The opportunity to shape the brand of a fast-growing developer platform</p></li><li><p style=\"min-height:1.5em\">Collaboration with a small, senior team that deeply values craft and creativity</p></li><li><p style=\"min-height:1.5em\">Competitive salary and equity package</p></li><li><p style=\"min-height:1.5em\">Health, dental, and vision benefits</p></li><li><p style=\"min-height:1.5em\">Flexible vacation policy</p></li></ul><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">LiveKit is an equal opportunity employer and does not discriminate on the basis of any characteristic protected by applicable law. If you require a reasonable accommodation during the application or interview process, please contact recruiting@livekit.io.</p>",
+  "descriptionPlain": "ABOUT LIVEKIT\n\nLiveKit is revolutionizing the AI landscape by providing the essential network infrastructure that powers multimodal AI interfaces, enabling seamless audio and visual interactions. Founded in 2021, LiveKit has rapidly grown to support over 3 Billion calls annually, 100,000+ developers globally, and industry giants like OpenAI, Character AI, Spotify, and Meta.\n\n\n\n\nABOUT THIS ROLE\n\nWe're looking for a Staff Engineer to work across some of the most technically demanding parts of LiveKit's platform — core services, telephony, and observability. At LiveKit, the infrastructure is the product — you're not building the layer underneath, you are the layer.\n\nYou'll work on problems where latency, availability, and operational simplicity are critical, and where the right answer often requires careful tradeoffs and outside-the-box thinking. While distributed systems experience is valuable, we care just as much about strong programming fundamentals, sound judgment, and the ability to learn fast. The team is small. Your decisions ship directly into production.\n\n\n\nYou'll thrive as a Distributed Systems Engineer if you:\n\n - obsess with crafting code that is fast, reliable and practical for the problem\n\n - are known as the go-to person for tackling tough technical problems\n\n - work hard and can build and ship fast\n\n - can clearly explain complex technical concepts to others\n\n - are a fast learner, frequently picking up new languages and tools\n\nThe best way to impress us is with thoughtful Issues and/or PRs on our Github repos 😊\n\n\n\n\nWHAT YOU'LL DO\n\n - Design and evolve the core control, data, and observability systems that power LiveKit Cloud\n\n - Implement resilient, region-spanning architectures that degrade gracefully under partial failure\n\n - Build libraries, protocols, and tooling that raise reliability and developer velocity across the org\n\n - Diagnose and harden critical paths using metrics, tracing, testing, and real-world traffic insights\n\n - Shape new platform capabilities across identity, scheduling, observability, and distributed state management\n\n - Technologies include: Go, psrpc, gRPC, Raft, NATS, Kubernetes, Prometheus, OpenTelemetry, ClickHouse\n\n\n\n\nWHO YOU ARE\n\n - You have experience designing and delivering distributed systems in production\n\n - You take ownership end-to-end - prototype, test, ship, monitor, and iterate\n\n - You're comfortable with consensus, coordination, and the realities of distributed failure modes\n\n - You think in terms of data flow, state, performance, and correctness, and you can reduce complex systems into understandable components\n\n - You value clear communication, practical engineering, and building systems that others enjoy working with\n\n\n\n\nNICE TO HAVE\n\n - Go fluency — if you haven't written Go yet, you've been meaning to\n\n - Hands-on experience with pub/sub, RPC, or coordination systems (NATS, etcd, Raft, Paxos)\n\n - Exposure to real-time or low-latency infrastructure — you know what microseconds feel like\n\n - You've shipped observability tooling you'd actually want to use (tracing, metrics, at-scale logging)\n\n - In those school group projects, you did most of the work (:sigh:)\n\n\n\n\nWE OFFER\n\n - The opportunity to shape the brand of a fast-growing developer platform\n\n - Collaboration with a small, senior team that deeply values craft and creativity\n\n - Competitive salary and equity package\n\n - Health, dental, and vision benefits\n\n - Flexible vacation policy\n\n\n\nLiveKit is an equal opportunity employer and does not discriminate on the basis of any characteristic protected by applicable law. If you require a reasonable accommodation during the application or interview process, please contact recruiting@livekit.io.",
+  "compensation": {
+    "compensationTierSummary": "$135K – $300K • Offers Equity",
+    "scrapeableCompensationSalarySummary": "$135K - $300K",
+    "compensationTiers": [
+      {
+        "id": "af2fc654-17e2-479e-8f7e-1dc0cb4e8596",
+        "tierSummary": "$135K – $300K • Offers Equity",
+        "title": null,
+        "additionalInformation": null,
+        "components": [
+          {
+            "id": "75c5c412-7268-45f7-99a9-e7a3b58f7f8e",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "6e30f16c-1b12-4895-897c-456bc55c77e0",
+            "summary": "$135K – $300K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 135000,
+            "maxValue": 300000
+          }
+        ]
+      }
+    ],
+    "summaryComponents": [
+      {
+        "compensationType": "EquityPercentage",
+        "interval": "NONE",
+        "currencyCode": null,
+        "minValue": null,
+        "maxValue": null
+      },
+      {
+        "compensationType": "Salary",
+        "interval": "1 YEAR",
+        "currencyCode": "USD",
+        "minValue": 135000,
+        "maxValue": 300000
+      }
+    ]
+  }
+}

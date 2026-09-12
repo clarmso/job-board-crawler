@@ -1,0 +1,82 @@
+{
+  "id": "a43e43b4-a41f-49b4-ae19-fbc0729f2a60",
+  "title": "Staff Product Manager, Agent Hosting",
+  "department": "R&D",
+  "team": "Product",
+  "employmentType": "FullTime",
+  "location": "North America",
+  "shouldDisplayCompensationOnJobPostings": true,
+  "secondaryLocations": [
+    {
+      "location": "San Francisco, CA (Hybrid)",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "California",
+          "addressCountry": "United States",
+          "addressLocality": "San Francisco"
+        }
+      }
+    }
+  ],
+  "publishedAt": "2026-07-27T19:41:02.178+00:00",
+  "isListed": true,
+  "isRemote": true,
+  "workplaceType": "Remote",
+  "address": {
+    "postalAddress": {
+      "addressCountry": "NAMER"
+    }
+  },
+  "jobUrl": "https://jobs.ashbyhq.com/livekit/a43e43b4-a41f-49b4-ae19-fbc0729f2a60",
+  "applyUrl": "https://jobs.ashbyhq.com/livekit/a43e43b4-a41f-49b4-ae19-fbc0729f2a60/application",
+  "descriptionHtml": "<h1><strong>About LiveKit </strong></h1><p style=\"min-height:1.5em\">LiveKit is building the infrastructure layer for the voice-driven era of computing. Our platform gives developers everything they need to build, test, deploy, scale, and observe agents in production. Founded in 2021, LiveKit powers voice AI applications for OpenAI, xAI, Salesforce, Coursera, Spotify, and thousands of others, collectively facilitating billions of calls each year.</p><p style=\"min-height:1.5em\"></p><h1>About This Role</h1><p style=\"min-height:1.5em\">We're looking for a Product Manager to own LiveKit's Agent Hosting product: how developers deploy, scale, and run agents on LiveKit Cloud.</p><p style=\"min-height:1.5em\">Our PM team is small and high-leverage, with each PM coming in to establish the foundations in a new area of the business. Agent Hosting is our production agent runtime and a primary revenue engine for the platform. It's how customers take an agent from a working prototype to something running reliably at global scale. Today it needs a dedicated owner, and that would be you.</p><p style=\"min-height:1.5em\">You'll set the vision and roadmap for Agent Hosting, including new capabilities, regional coverage, and pricing, and partner directly with the engineering team that builds it. This is infrastructure that some of the largest companies in the world will run mission-critical, voice agents on, at hundreds of millions of minutes a month. The bar is high: deploys should be fast, scale should be automatic, and latency and reliability should be things customers never have to worry about. And the scope is growing: the runtime starts with voice agents but is expanding toward all kinds, so you'll help define what the agent runtime becomes.</p><p style=\"min-height:1.5em\"><strong>This role can be based remotely or in our SF HQ, where you'll be part of a collaborative in-office culture!</strong></p><p style=\"min-height:1.5em\"></p><h1>You'll Thrive Here If You:</h1><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">are obsessed with making the best product for our customers</p></li><li><p style=\"min-height:1.5em\">are known as the go-to person for tackling tough problems</p></li><li><p style=\"min-height:1.5em\">work hard and can build and ship fast</p></li><li><p style=\"min-height:1.5em\">are focused on polish, detail, and quality</p></li><li><p style=\"min-height:1.5em\">are a fast learner, frequently picking up new tips, tricks, and skills</p></li></ul><p style=\"min-height:1.5em\">The best way to impress us is by trying LiveKit's product, understanding the space, and bringing smart thoughts and opinions to the table.</p><p style=\"min-height:1.5em\"></p><h1>What You'll Do</h1><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>Own the hosting roadmap.</strong> Set a clear vision and a sequenced plan for the product, and decide what gets built and when, in partnership with engineering.</p></li><li><p style=\"min-height:1.5em\"><strong>Ship a runtime people rely on.</strong> Turn deploys, scaling, and reliability into an experience customers trust with their production workloads, and keep raising the bar.</p></li><li><p style=\"min-height:1.5em\"><strong>Make scale automatic.</strong> Drive the work on cold starts, autoscaling, regional coverage, and performance so customers can run at massive volume without thinking about it.</p></li><li><p style=\"min-height:1.5em\"><strong>Get deep with customers and data.</strong> Understand how teams actually deploy and operate agents in production, and let that shape priorities.</p></li><li><p style=\"min-height:1.5em\"><strong>Grow it into a business.</strong> Drive adoption and revenue so Agent Hosting reflects the real value it delivers as our production runtime.</p></li><li><p style=\"min-height:1.5em\"><strong>Expand what the runtime is.</strong> Help take Hosting beyond voice agents to all kinds of agents.</p></li></ul><p style=\"min-height:1.5em\"></p><h1>Who You Are</h1><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>8+ years in product management</strong>, at a senior or staff level, ideally having owned a developer-facing infrastructure or platform product.</p></li><li><p style=\"min-height:1.5em\"><strong>Technical depth.</strong> You can reason about distributed systems, runtimes, scaling, and latency, and earn the trust of strong engineers. You don't need to write code, but you need to understand systems well enough to make good tradeoffs.</p></li><li><p style=\"min-height:1.5em\"><strong>Infrastructure product sense.</strong> You've owned a product where reliability and performance at scale were the core of the job, and you have judgment about the tradeoffs behind deploy speed, autoscaling, and cost.</p></li><li><p style=\"min-height:1.5em\"><strong>Cross-functional influence.</strong> LiveKit's engineering teams operate with high autonomy. You influence through clarity, trust, and good judgment, not process or hierarchy.</p></li><li><p style=\"min-height:1.5em\"><strong>Communication as a superpower.</strong> You write clearly, present well, and can move between a board-level strategy conversation and a detailed technical discussion with an engineering lead.</p></li><li><p style=\"min-height:1.5em\"><strong>Comfort with ambiguity.</strong> We're a small product team at a fast-growing company. You'll figure out what matters, prioritize ruthlessly, and move quickly without perfect information.</p></li></ul><p style=\"min-height:1.5em\"></p><h1>Nice to Have</h1><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Built a serverless, deployment, container, or compute-platform product that developers ran production workloads on</p></li><li><p style=\"min-height:1.5em\">Familiarity with autoscaling, cold-start reduction, and multi-region deployment</p></li><li><p style=\"min-height:1.5em\">Familiarity with how teams deploy and operate software in production</p></li><li><p style=\"min-height:1.5em\">Background at a developer tools or infrastructure company</p></li><li><p style=\"min-height:1.5em\">Familiarity with voice AI, real-time communication, or telephony</p></li><li><p style=\"min-height:1.5em\">Experience with usage-based pricing models</p></li></ul><p style=\"min-height:1.5em\"></p><h1>Our Commitment to You</h1><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">An opportunity to build something truly impactful to the world</p></li><li><p style=\"min-height:1.5em\">Contribute to open source alongside world-class engineers</p></li><li><p style=\"min-height:1.5em\">Competitive salary and equity package</p></li><li><p style=\"min-height:1.5em\">Health, dental, and vision benefits</p></li><li><p style=\"min-height:1.5em\">Flexible vacation policy</p></li></ul><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><em>LiveKit is an equal opportunity employer and does not discriminate on the basis of any characteristic protected by applicable law. If you require a reasonable accommodation during the application or interview process, please contact recruiting@livekit.io.</em></p>",
+  "descriptionPlain": "ABOUT LIVEKIT \n\nLiveKit is building the infrastructure layer for the voice-driven era of computing. Our platform gives developers everything they need to build, test, deploy, scale, and observe agents in production. Founded in 2021, LiveKit powers voice AI applications for OpenAI, xAI, Salesforce, Coursera, Spotify, and thousands of others, collectively facilitating billions of calls each year.\n\n\n\n\nABOUT THIS ROLE\n\nWe're looking for a Product Manager to own LiveKit's Agent Hosting product: how developers deploy, scale, and run agents on LiveKit Cloud.\n\nOur PM team is small and high-leverage, with each PM coming in to establish the foundations in a new area of the business. Agent Hosting is our production agent runtime and a primary revenue engine for the platform. It's how customers take an agent from a working prototype to something running reliably at global scale. Today it needs a dedicated owner, and that would be you.\n\nYou'll set the vision and roadmap for Agent Hosting, including new capabilities, regional coverage, and pricing, and partner directly with the engineering team that builds it. This is infrastructure that some of the largest companies in the world will run mission-critical, voice agents on, at hundreds of millions of minutes a month. The bar is high: deploys should be fast, scale should be automatic, and latency and reliability should be things customers never have to worry about. And the scope is growing: the runtime starts with voice agents but is expanding toward all kinds, so you'll help define what the agent runtime becomes.\n\nThis role can be based remotely or in our SF HQ, where you'll be part of a collaborative in-office culture!\n\n\n\n\nYOU'LL THRIVE HERE IF YOU:\n\n - are obsessed with making the best product for our customers\n\n - are known as the go-to person for tackling tough problems\n\n - work hard and can build and ship fast\n\n - are focused on polish, detail, and quality\n\n - are a fast learner, frequently picking up new tips, tricks, and skills\n\nThe best way to impress us is by trying LiveKit's product, understanding the space, and bringing smart thoughts and opinions to the table.\n\n\n\n\nWHAT YOU'LL DO\n\n - Own the hosting roadmap. Set a clear vision and a sequenced plan for the product, and decide what gets built and when, in partnership with engineering.\n\n - Ship a runtime people rely on. Turn deploys, scaling, and reliability into an experience customers trust with their production workloads, and keep raising the bar.\n\n - Make scale automatic. Drive the work on cold starts, autoscaling, regional coverage, and performance so customers can run at massive volume without thinking about it.\n\n - Get deep with customers and data. Understand how teams actually deploy and operate agents in production, and let that shape priorities.\n\n - Grow it into a business. Drive adoption and revenue so Agent Hosting reflects the real value it delivers as our production runtime.\n\n - Expand what the runtime is. Help take Hosting beyond voice agents to all kinds of agents.\n\n\n\n\nWHO YOU ARE\n\n - 8+ years in product management, at a senior or staff level, ideally having owned a developer-facing infrastructure or platform product.\n\n - Technical depth. You can reason about distributed systems, runtimes, scaling, and latency, and earn the trust of strong engineers. You don't need to write code, but you need to understand systems well enough to make good tradeoffs.\n\n - Infrastructure product sense. You've owned a product where reliability and performance at scale were the core of the job, and you have judgment about the tradeoffs behind deploy speed, autoscaling, and cost.\n\n - Cross-functional influence. LiveKit's engineering teams operate with high autonomy. You influence through clarity, trust, and good judgment, not process or hierarchy.\n\n - Communication as a superpower. You write clearly, present well, and can move between a board-level strategy conversation and a detailed technical discussion with an engineering lead.\n\n - Comfort with ambiguity. We're a small product team at a fast-growing company. You'll figure out what matters, prioritize ruthlessly, and move quickly without perfect information.\n\n\n\n\nNICE TO HAVE\n\n - Built a serverless, deployment, container, or compute-platform product that developers ran production workloads on\n\n - Familiarity with autoscaling, cold-start reduction, and multi-region deployment\n\n - Familiarity with how teams deploy and operate software in production\n\n - Background at a developer tools or infrastructure company\n\n - Familiarity with voice AI, real-time communication, or telephony\n\n - Experience with usage-based pricing models\n\n\n\n\nOUR COMMITMENT TO YOU\n\n - An opportunity to build something truly impactful to the world\n\n - Contribute to open source alongside world-class engineers\n\n - Competitive salary and equity package\n\n - Health, dental, and vision benefits\n\n - Flexible vacation policy\n\n\n\nLiveKit is an equal opportunity employer and does not discriminate on the basis of any characteristic protected by applicable law. If you require a reasonable accommodation during the application or interview process, please contact recruiting@livekit.io.",
+  "compensation": {
+    "compensationTierSummary": "$225K – $265K • Offers Equity",
+    "scrapeableCompensationSalarySummary": "$225K - $265K",
+    "compensationTiers": [
+      {
+        "id": "d761307f-d481-4767-9b5e-40520e81dffd",
+        "tierSummary": "$225K – $265K • Offers Equity",
+        "title": null,
+        "additionalInformation": null,
+        "components": [
+          {
+            "id": "473a677c-28b5-4051-901f-4120190f5872",
+            "summary": "$225K – $265K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 225000,
+            "maxValue": 265000
+          },
+          {
+            "id": "dcf4757c-4004-4a13-8824-8792b064b1a1",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
+          }
+        ]
+      }
+    ],
+    "summaryComponents": [
+      {
+        "compensationType": "Salary",
+        "interval": "1 YEAR",
+        "currencyCode": "USD",
+        "minValue": 225000,
+        "maxValue": 265000
+      },
+      {
+        "compensationType": "EquityPercentage",
+        "interval": "NONE",
+        "currencyCode": null,
+        "minValue": null,
+        "maxValue": null
+      }
+    ]
+  }
+}

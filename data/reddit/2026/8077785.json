@@ -1,0 +1,159 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/reddit/jobs/8077785",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3499702,
+  "location": {
+    "name": "Chicago, IL; Los Angeles, CA; New York City, NY; San Francisco, CA"
+  },
+  "metadata": [
+    {
+      "id": 944668,
+      "name": "Position ID",
+      "value": "P-400020",
+      "value_type": "short_text"
+    },
+    {
+      "id": 956352,
+      "name": "Recruiting Start Date",
+      "value": "2026-09-04",
+      "value_type": "date"
+    },
+    {
+      "id": 944671,
+      "name": "Target Hire Date",
+      "value": "2026-11-30",
+      "value_type": "date"
+    },
+    {
+      "id": 944672,
+      "name": "Target Hire End Date",
+      "value": "",
+      "value_type": "date"
+    },
+    {
+      "id": 944673,
+      "name": "Job Profile",
+      "value": "Data Informatics Analyst 5",
+      "value_type": "single_select"
+    },
+    {
+      "id": 956351,
+      "name": "Management Level",
+      "value": "IC5",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944675,
+      "name": "Job Family",
+      "value": "Data Informatics",
+      "value_type": "single_select"
+    },
+    {
+      "id": 53341,
+      "name": "Worker Sub-Type",
+      "value": "Regular",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944676,
+      "name": "Time Type",
+      "value": "Full time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944682,
+      "name": "Pay Rate Type",
+      "value": "Salary",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944681,
+      "name": "Scheduled Weekly Hours",
+      "value": "40.0",
+      "value_type": "number"
+    },
+    {
+      "id": 944667,
+      "name": "Company",
+      "value": "Reddit, Inc.",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944677,
+      "name": "Cost Center",
+      "value": "Support-GTM",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944669,
+      "name": "Worker Type",
+      "value": "Employee",
+      "value_type": "single_select"
+    },
+    {
+      "id": 957961,
+      "name": "Department",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8077785,
+  "updated_at": "2026-09-11T20:15:56-04:00",
+  "requisition_id": "R-105713",
+  "title": "Senior GTM Insights Automation Manager",
+  "company_name": "Reddit",
+  "first_published": "2026-09-08T14:01:20-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;div class=&quot;c-message_kit__blocks c-message_kit__blocks--rich_text&quot;&gt;\n&lt;div class=&quot;c-message__message_blocks c-message__message_blocks--rich_text&quot; data-qa=&quot;message-text&quot;&gt;\n&lt;div class=&quot;p-block_kit_renderer&quot; data-qa=&quot;block-kit-renderer&quot;&gt;\n&lt;div class=&quot;p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--first&quot;&gt;\n&lt;div class=&quot;p-rich_text_block&quot;&gt;\n&lt;div class=&quot;p-rich_text_section&quot;&gt;Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit &lt;a class=&quot;c-link&quot; href=&quot;http://www.redditinc.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;http://redditinc.com&quot; data-sk=&quot;tooltip_parent&quot;&gt;www.redditinc.com&lt;/a&gt;.&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;&lt;/div&gt;&lt;p&gt;Reddit is looking for a solution builder focused on &lt;strong&gt;Go-to-market Insights and Automation&lt;/strong&gt; to join our Central Operations team. In this role, you will be the technical engine behind our data-driven Go-To-Market (GTM) strategy. You will design and implement workflows that automate our reporting ecosystem, ensuring that our sales teams have the insights they need to succeed without the manual overhead.&lt;/p&gt;\n&lt;p&gt;As a member of Central Ops, you will bridge the gap between high-level strategy and technical execution, working across a sophisticated tool stack to solve real-world operational challenges.&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Location: Must be based within a commutable distance of one of our hub offices in Los Angeles, San Francisco, Chicago, or New York&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Responsibilities:&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Execute Technical Builds:&lt;/strong&gt; Perform the technical work required to build within and across our core tools (such as BigQuery, Matik, Clay, Gong, and others) to achieve automated reporting objectives.&amp;nbsp; Lead the design and development of data models and robust pipelines.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Collaborate: &lt;/strong&gt;Work with sales and business stakeholders to understand their data requirements and deliver actionable insights.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Align with Business Metrics:&lt;/strong&gt; Act as a technical partner to ensure all reporting builds align with measurable business objectives, such as &quot;saving Account Managers time&quot;.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Establish Governance:&amp;nbsp; &lt;/strong&gt;Work with Product Owners to define and implement best practice &quot;recipes&quot; for tool usage and reporting consistency across the organization.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Drive Technical innovation &lt;/strong&gt;Proactively identify and resolve data quality issues, ensuring the integrity and reliability of our data foundations and advocate for new technologies and processes that enhance our data platform.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Required Qualifications:&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;5+ years of experience in analytics, data science, data engineering, or a related field.&lt;/li&gt;\n&lt;li&gt;Experience with SQL and relational databases.&amp;nbsp; You should be able to write complex, performant queries and understand query optimization.&lt;/li&gt;\n&lt;li&gt;Strong programming skills: Proficiency in at least one scripting language (e.g., Python, Go) for building data pipelines and automation.&lt;/li&gt;\n&lt;li&gt;Strong strategic thinking and analytical problem-solving skills, with the ability to diagnose root causes and evaluate tradeoffs.&lt;/li&gt;\n&lt;li&gt;Proven ability to operate in ambiguity and independently structure complex problems into clear recommendations and data driven solutions that are understood by both technical builders and business stakeholders.&lt;/li&gt;\n&lt;li&gt;Ability to balance strategic thinking with hands-on execution; this role requires an owner, not a coordinator.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Preferred Qualifications:&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience in digital advertising.&lt;/li&gt;\n&lt;li&gt;Experience working in fast-moving, resource-constrained environments where judgment, prioritization, and initiative are critical.&lt;/li&gt;\n&lt;li&gt;Familiarity with sales tools and technology that improve seller efficiency and productivity, including workflow automation and AI-enabled ways of working.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Benefits:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Comprehensive Healthcare Benefits and Income Replacement Programs&lt;/li&gt;\n&lt;li&gt;401k with Employer Match&lt;/li&gt;\n&lt;li&gt;Global Benefit programs that fit your lifestyle, from workspace to professional development to caregiving support&lt;/li&gt;\n&lt;li&gt;Family Planning Support&lt;/li&gt;\n&lt;li&gt;Gender-Affirming Care&lt;/li&gt;\n&lt;li&gt;Mental Health &amp;amp; Coaching Benefits&lt;/li&gt;\n&lt;li&gt;Flexible Vacation &amp;amp; Paid Volunteer Time Off&lt;/li&gt;\n&lt;li&gt;Generous Paid Parental Leave&amp;nbsp;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&lt;strong&gt;Pay Transparency:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;This job posting may span more than one career level.&lt;/p&gt;\n&lt;p&gt;In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit &lt;a href=&quot;https://www.redditinc.com/careers/&quot; target=&quot;_blank&quot;&gt;https://www.redditinc.com/careers/&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;To provide greater transparency to candidates, we share base salary ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;The base salary range for this position is:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$167,500&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$234,500 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;In select roles and locations, the interviews will be recorded, transcribed and summarized by artificial intelligence (AI). You will have the opportunity to opt out of recording, transcription and summarization prior to any scheduled interviews.&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;During the interview, we will collect the following categories of personal information: Identifiers, Professional and Employment-Related Information, Sensory Information (audio/video recording), and any other categories of personal information you choose to share with us. We will use this information to evaluate your application for employment or an independent contractor role, as applicable.&amp;nbsp; We will not sell your personal information or disclose it to any third party for their marketing purposes.&amp;nbsp; We will delete any recording of your interview promptly after making a hiring decision.&amp;nbsp; For more information about how we will handle your personal information, including our retention of it, please refer to our &lt;a href=&quot;https://redditinc.com/policies/candidate-privacy-policy&quot;&gt;Candidate Privacy Policy for Potential Employees and Contractors&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Reddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.&amp;nbsp; Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If, due to a disability, you need an accommodation during the interview process, please let your recruiter know.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 70583,
+      "name": "Sales Strategy & Operations",
+      "child_ids": [],
+      "parent_id": 15691
+    }
+  ],
+  "offices": [
+    {
+      "id": 48028,
+      "name": "Chicago",
+      "location": "Chicago",
+      "child_ids": [],
+      "parent_id": null
+    },
+    {
+      "id": 10769,
+      "name": "Los Angeles",
+      "location": "Los Angeles, CA, United States",
+      "child_ids": [],
+      "parent_id": null
+    },
+    {
+      "id": 10168,
+      "name": "New York",
+      "location": "New York, NY, United States",
+      "child_ids": [],
+      "parent_id": null
+    },
+    {
+      "id": 10167,
+      "name": "San Francisco",
+      "location": "San Francisco, CA, United States",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

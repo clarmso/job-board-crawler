@@ -1,0 +1,96 @@
+{
+  "absolute_url": "https://www.okta.com/company/careers/opportunity/8103088?gh_jid=8103088",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 3510476,
+  "location": {
+    "name": "Toronto, Ontario, Canada"
+  },
+  "metadata": [
+    {
+      "id": 58735330,
+      "name": "Naukri Job URL",
+      "value": null,
+      "value_type": "long_text"
+    },
+    {
+      "id": 58735350,
+      "name": "Naukri Job Error",
+      "value": null,
+      "value_type": "long_text"
+    },
+    {
+      "id": 58735367,
+      "name": "Minimum Salary",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735368,
+      "name": "Maximum Salary",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735369,
+      "name": "Minimum Work Experience",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735370,
+      "name": "Maximum Work Experience",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735384,
+      "name": "City",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 58735385,
+      "name": "Job Description",
+      "value": null,
+      "value_type": "long_text"
+    }
+  ],
+  "id": 8103088,
+  "updated_at": "2026-09-11T11:24:18-04:00",
+  "requisition_id": "P16976_3510476",
+  "title": "Software Engineer II, Developer Tooling (Auth0)",
+  "company_name": "Okta",
+  "first_published": "2026-08-03T15:09:00-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Secure Every Identity, from AI to Human&lt;br&gt;&lt;br&gt;&lt;/strong&gt;Identity is the key to unlocking the potential of AI. Okta secures AI by building the trusted, neutral infrastructure that enables organizations to safely embrace this new era. This work requires a relentless drive to solve complex challenges with real-world stakes. We are looking for builders and owners who operate with speed and urgency and execute with excellence.&lt;br&gt;&lt;br&gt;This is an opportunity to do career-defining work. We&#39;re all in on this mission. If you are too, let&#39;s talk.&lt;/p&gt;&lt;/div&gt;&lt;h3&gt;The Team&lt;/h3&gt;\n&lt;p&gt;The Auth0 Platform Tools team owns the incident management tooling, Slack-based tooling, StatusPage, and local development environments that Auth0 engineers rely on every day. That includes incident.io and the services we have built around it, Statuspage, custom Slack bot applications that automate our incident response and engineering operations workflows, the customer-facing web application behind status.auth0.com, Vivaldi, and Tilt - the tools engineers use to run Auth0 locally.&lt;/p&gt;\n&lt;p&gt;We are seeking an engineer to help build new features across all of these tools. Our stack is primarily TypeScript and Node.js, with a React and Next.js front end, backed by Postgres and Redis, and deployed on Kubernetes on AWS. A significant portion of our incident and engineering operations automation is built on Tines, a no-code automation platform. Prior no-code experience is welcome, but we expect you to learn Tines here and become effective with it. Current initiatives include extending our incident tooling to meet FedRAMP requirements, taking full ownership of the status page, and improving how we communicate incident status to customers. There is real room to improve along the way, from test coverage to resilience to inherited technical debt.&lt;/p&gt;\n&lt;p&gt;We build for two audiences: Auth0 engineers, who depend on our tooling every day, and Auth0&#39;s customers, who rely on the status page during incidents. We are looking for an engineer who cares about both and enjoys working with other teams to ensure we deliver the best possible solution. We want someone who likes learning new things, automating away repetitive work, and truly making people&#39;s day-to-day work easier.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Skills:&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;At least 3 years of professional software engineering experience&lt;/li&gt;\n&lt;li&gt;Proficiency with TypeScript and Node.js&lt;/li&gt;\n&lt;li&gt;Experience with at least one additional programming language, such as Golang or Python&lt;/li&gt;\n&lt;li&gt;Experience building and operating production web applications with React and a framework such as Next.js, including server-side rendering and API routes&lt;/li&gt;\n&lt;li&gt;Experience with cloud infrastructure such as AWS, Google Cloud, or Azure.&lt;/li&gt;\n&lt;li&gt;Experience building and consuming REST APIs, including integrating with third-party SaaS platforms and working within their rate limits.&lt;/li&gt;\n&lt;li&gt;Experience with relational and NoSQL databases, such as Postgres and DynamoDB&lt;/li&gt;\n&lt;li&gt;Experience managing infrastructure as code with Terraform.&lt;/li&gt;\n&lt;li&gt;Experience with Statuspage, or with comparable customer-facing status and incident communication tooling.&lt;/li&gt;\n&lt;li&gt;Experience operating and supporting services in production environments.&lt;/li&gt;\n&lt;li&gt;Experience contributing to the design of high-availability services.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Preferred:&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience with Redis and designing caching layers, including TTL strategy and serving cached data as a fallback when an upstream dependency fails.&lt;/li&gt;\n&lt;li&gt;Experience with no-code automation platforms such as Tines or Zapier, or a demonstrated ability to pick up new platforms quickly.&lt;/li&gt;\n&lt;li&gt;Experience building Slack applications, bots, or slash commands.&lt;/li&gt;\n&lt;li&gt;Experience with incident management processes or tooling such as incident.io or Datadog Incident Management.&lt;/li&gt;\n&lt;li&gt;Experience writing automated tests, including end-to-end coverage.&lt;/li&gt;\n&lt;li&gt;Experience with data warehouses such as Snowflake.&lt;/li&gt;\n&lt;li&gt;Experience with ETL tools such as Apache Airflow.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Nice to have:&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience with Kubernetes and workflow orchestration, such as Argo Workflows.&lt;/li&gt;\n&lt;li&gt;Experience with local development environment tooling such as Docker, devcontainers, or Tilt.&lt;/li&gt;\n&lt;li&gt;Experience with data visualization tools such as Tableau.&lt;/li&gt;\n&lt;li&gt;Experience with FedRAMP.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;P-16976&lt;/p&gt;\n&lt;p&gt;#LI-Hybrid&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Below is the annual salary range for candidates located in Canada. Your actual salary will depend on factors such as your skills, qualifications, and experience. In addition, Okta offers equity (where applicable), bonus, and benefits, including health, dental, and vision insurance, RRSP with a match, healthcare spending, telemedicine, and paid leave (including PTO and parental leave) in accordance with our applicable plans and policies. To learn more about our Total Rewards program, please visit:&amp;nbsp;&lt;a href=&quot;https://rewards.okta.com/can&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://rewards.okta.com/can&amp;amp;source=gmail&amp;amp;ust=1705181614985000&amp;amp;usg=AOvVaw29oi6BOXve4rhySFpzzvao&quot;&gt;https://rewards.okta.com/can&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;The annual base salary range for this position for candidates located in Canada is between:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$110,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$151,800 CAD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;The Okta Experience&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;a href=&quot;http://rewards.okta.com&quot;&gt;Supporting Your Well-Being&lt;/a&gt;&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;&lt;a href=&quot;https://www.okta.com/company/okta-for-good/&quot;&gt;Driving Social Impact&amp;nbsp;&lt;/a&gt;&lt;/li&gt;\n&lt;li&gt;&lt;a href=&quot;https://www.okta.com/company/talent-connection-community/&quot;&gt;Developing Talent and Fostering Connection + Community&lt;/a&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;We are intentional about connection. Our global community, spanning over 20 offices worldwide, is united by a drive to innovate. Your journey begins with an immersive, in-person onboarding experience designed to accelerate your impact and connect you to our mission and team from day one.&lt;br&gt;&lt;br&gt;Okta is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, marital status, age, physical or mental disability, or status as a protected veteran. We also consider for employment qualified applicants with arrest and convictions records, consistent with applicable laws.&lt;br&gt;&lt;br&gt;If reasonable accommodation is needed to complete any part of the job application, interview process, or onboarding please&amp;nbsp;&lt;a href=&quot;https://docs.google.com/forms/d/1EfiEYZrIyhA2X4Fijk0R3RKYOzNoS3wtvyM4nhbZnXE/edit&quot;&gt;use this Form&lt;/a&gt; to request an accommodation.&lt;br&gt;&lt;br&gt;Notice for New York City Applicants &amp;amp; Employees: Okta may use Automated Employment Decision Tools (AEDT), as defined by New York City Local Law 144, that use artificial intelligence, machine learning, or other automated processes to assist in our recruitment and hiring process. In accordance with NYC Local Law 144, if you are an applicant or employee residing in New York City, please&amp;nbsp;&lt;a href=&quot;https://talent.okta.com/new-york-city-aedt-notice.html&quot;&gt;click here&lt;/a&gt; to view our full NYC AEDT Notice.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 44027,
+      "name": "SW Eng - Infrastructure-672",
+      "child_ids": [],
+      "parent_id": 396304
+    }
+  ],
+  "offices": [
+    {
+      "id": 19614,
+      "name": "Toronto",
+      "location": "Toronto, ON, Canada",
+      "child_ids": [],
+      "parent_id": 67251
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

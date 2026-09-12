@@ -7,7 +7,7 @@
       "requires_processing_consent": false,
       "requires_retention_consent": false,
       "retention_period": null,
-      "demographic_data_consent_applies": false
+      "demographic_data_consent_applies": true
     }
   ],
   "internal_job_id": 3501184,
@@ -65,7 +65,7 @@
     }
   ],
   "id": 8081537,
-  "updated_at": "2026-09-08T16:47:13-04:00",
+  "updated_at": "2026-09-10T10:53:42-04:00",
   "requisition_id": "R20113",
   "title": "Staff Developer Advocate - Asia Pacific & Japan Lead",
   "company_name": "Datadog",

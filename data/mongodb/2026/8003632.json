@@ -43,7 +43,7 @@
       "id": 4137836,
       "name": "Working Model Eligibility",
       "value": [
-        "2-Flexible"
+        "3-Fully Remote"
       ],
       "value_type": "multi_select"
     },
@@ -125,7 +125,7 @@
     }
   ],
   "id": 8003632,
-  "updated_at": "2026-09-05T00:32:31-04:00",
+  "updated_at": "2026-09-11T15:37:10-04:00",
   "requisition_id": "2273470262",
   "title": "Senior Manager, EMEA Payroll",
   "company_name": "MongoDB",
@@ -143,9 +143,9 @@
   ],
   "offices": [
     {
-      "id": 3962,
-      "name": "Dublin",
-      "location": "Dublin, Ireland",
+      "id": 95769,
+      "name": "Remote Ireland",
+      "location": "Ireland",
       "child_ids": [],
       "parent_id": 23658
     }

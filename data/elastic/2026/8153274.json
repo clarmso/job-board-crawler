@@ -1,0 +1,92 @@
+{
+  "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=8153274&gh_jid=8153274",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "education": "education_optional",
+  "internal_job_id": 3528305,
+  "location": {
+    "name": "Germany"
+  },
+  "metadata": [
+    {
+      "id": 32131013,
+      "name": "Requisition open date",
+      "value": "2026-08-24",
+      "value_type": "date"
+    },
+    {
+      "id": 168141,
+      "name": "Target Remote Countries / States Locations [For Job Wrapping]",
+      "value": [
+        "France",
+        "The Netherlands",
+        "United Kingdom"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 33574685,
+      "name": "Types of Hiring",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 20164553,
+      "name": "FADV_Account",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 20164588,
+      "name": "FADV_Package",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 30595384,
+      "name": "Seniority",
+      "value": "Mid-Senior Level",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8153274,
+  "updated_at": "2026-09-10T20:07:01-04:00",
+  "requisition_id": "R12255",
+  "title": "Consulting Architect - Security (EMEA / Public Sector eligible ) ",
+  "company_name": "Elastic",
+  "first_published": "2026-09-02T06:11:35-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Elastic, the Search AI Company, enables everyone to find the answers they need in real time, using all their data, at scale — unleashing the potential of businesses and people. The Elastic Search AI Platform, used by more than 50% of the Fortune 500, brings together the precision of search and the intelligence of AI to enable everyone to accelerate the results that matter. By taking advantage of all structured and unstructured data — securing and protecting private information more effectively — Elastic’s complete, cloud-based solutions for search, security, and observability help organizations deliver on the promise of AI.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;strong&gt;What is The Role&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Elastic Security is one of the fastest-growing parts of our business, and our customers (including government and public sector organisations) rely on our Security Solution to modernise their SOC, threat detection, and response capabilities.&lt;/p&gt;\n&lt;p&gt;You will lead the hands-on delivery of Elastic Security projects (new implementations, migrations, and use-case expansions) from discovery through architecture design and build. Along the way, you&#39;ll develop trusted relationships with senior stakeholders and work closely with our Services, Engineering and Sales teams.&lt;/p&gt;\n&lt;p&gt;Elastic is a remote-first company, but many of the projects you&#39;ll deliver might require onsite availability, making the role hybrid in practice, varying by project, with travel of up to 60%.&lt;br&gt;Some of these engagements, given the organisations involved, also require national security screening or clearance; eligibility to obtain one in your country of employment is a strong advantage, and Elastic will sponsor the process where required.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;What You Will Be Doing&lt;/strong&gt;&lt;/h2&gt;\n&lt;h3&gt;&lt;strong&gt;Assess and Design&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Analyse customer goals, pain points, existing architecture, and threat landscape, translating them into technical requirements&lt;/li&gt;\n&lt;li&gt;Design Elastic Security solution architectures (SIEM, endpoint, cloud security) that integrate with the customer&#39;s wider security ecosystem&lt;/li&gt;\n&lt;li&gt;Advise on the customer&#39;s security strategy and own the Elastic side of it, aligning recommendations through regular sessions with senior and key stakeholders&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Implement and Deliver&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Lead hands-on delivery of Elastic Security projects end-to-end, including greenfield deployments and migrations from legacy SIEM/EDR platforms in mission-critical environments&lt;/li&gt;\n&lt;li&gt;Deploy and secure the Elastic platform: cluster architecture, RBAC and role mapping, single sign-on, private connectivity (private links, VPC peering), and hardening for enterprise and government environments&lt;/li&gt;\n&lt;li&gt;Architect and build large-scale data ingestion with Elastic Agent, Beats, and Logstash, normalising data to ECS and integrating sources such as Kafka, Azure Event Hub, and AWS S3&lt;/li&gt;\n&lt;li&gt;Develop security content aligned to the customer&#39;s threat landscape: detection rules, dashboards, and alerting workflows&lt;/li&gt;\n&lt;li&gt;Drive security migrations from competing platforms, applying deep knowledge of Elastic&#39;s capabilities to translate each use case into its best form, whether through feature parity mapping or full redesign&lt;/li&gt;\n&lt;li&gt;Establish detection-as-code practices for customers managing detections programmatically: developing, testing, versioning, and deploying detection content with Python, Git, and CI/CD pipelines&lt;/li&gt;\n&lt;li&gt;Apply and enable Elastic&#39;s Agentic AI capabilities (AI Assistant, Attack Discovery, agent-driven workflows) to accelerate customers&#39; detection and response&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Grow and Collaborate&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Identify and deliver new security use cases as customers mature their cyber defence journey with Elastic&lt;/li&gt;\n&lt;li&gt;Deliver engagements on time and within the agreed Statement of Work (SOW) scope, surfacing opportunities for follow-on work&lt;/li&gt;\n&lt;li&gt;Communicate confidently with stakeholders from SOC engineers up to CISO / C-suite level&lt;/li&gt;\n&lt;li&gt;Partner with Elastic Sales and pre-sales to assess technical risks and shape opportunities&lt;/li&gt;\n&lt;li&gt;Feed field insight back to Elastic Engineering, Product Management, and Support to drive feature enhancements&lt;/li&gt;\n&lt;li&gt;Mentor and share knowledge with fellow Elastic consultants across a highly distributed team&lt;/li&gt;\n&lt;li&gt;Lead or assist with demos and proof-of-concepts that showcase the value of the Elastic Stack, and deliver enablement sessions and hands-on workshops that make customer teams self-sufficient&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;What You Bring Along&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Minimum of 5 years&#39; experience as a Consulting Architect, Senior Consultant, or in a senior IT technical leadership role, delivering and executing professional services engagements, ideally in the security domain&lt;/li&gt;\n&lt;li&gt;Solid experience deploying Elastic Security or comparable SIEM platforms (e.g., Splunk, MS Sentinel, QRadar, ArcSight) and/or EDR platforms (e.g., CrowdStrike, MS Defender), or at least 2 years as a Security Analyst / Detection Engineer in a threat detection and response role&lt;/li&gt;\n&lt;li&gt;An architect&#39;s view of the security ecosystem across varied customer environments: SOAR, vulnerability management, penetration testing, ticketing, and security policies, and how they connect in a SOC&lt;/li&gt;\n&lt;li&gt;Scripting skills, ideally in Python, and exposure to modern delivery practices such as Infrastructure-as-Code and CI/CD are strongly preferred&lt;/li&gt;\n&lt;li&gt;Hands-on experience with Linux and Windows operating systems, and on-prem and/or public cloud platforms (AWS, Azure, GCP)&lt;/li&gt;\n&lt;li&gt;Strong customer advocacy, relationship-building, and communication skills, with the ability to pivot easily between delivery and strategic engagements&lt;/li&gt;\n&lt;li&gt;Eligibility to obtain national security clearance in your country of employment (screening sponsored by Elastic where required)&lt;/li&gt;\n&lt;li&gt;Willingness to travel and work onsite with customers (up to 60% of the time), combined with comfort working remotely in a highly distributed team&lt;/li&gt;\n&lt;li&gt;Strong proficiency in both English (our company-wide operating language) and the local market language.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;Bonus Points&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience with advanced Elasticsearch operations: cluster architecture, shard management, data ingestion, and data tiering at scale&lt;/li&gt;\n&lt;li&gt;Experience with detection-as-code: authoring, testing, and versioning detection content managed in Git&lt;/li&gt;\n&lt;li&gt;Experience automating deployments and lifecycle management with Python, Terraform, and CI/CD tooling (e.g., GitLab pipelines)&lt;/li&gt;\n&lt;li&gt;Experience deploying and operating containerised workloads on Kubernetes, cloud-managed or self-hosted (EKS, AKS, GKE, OpenShift)&lt;/li&gt;\n&lt;li&gt;Experience with Agentic AI and LLM-based security workflows: AI assistants, automated triage, and agent-driven investigation&lt;/li&gt;\n&lt;li&gt;Experience as a Tier-2/Tier-3 SOC Analyst, Threat Hunter, or DevSecOps Engineer&lt;/li&gt;\n&lt;li&gt;Experience in large distributed environments or MSSPs, from architecture through deployment&lt;/li&gt;\n&lt;li&gt;Experience delivering enablement sessions, technical workshops, or product training to technical audiences&lt;/li&gt;\n&lt;li&gt;Elastic Certified Engineer certification, or security certifications such as GIAC or CISSP&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;#LI-PF1&lt;/span&gt;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;Additional Information - We Take Care of Our People&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;As a distributed company, diversity drives our identity. Whether you’re looking to launch a new career or grow an existing one, Elastic is the type of company where you can balance great work with great life. Your age is only a number. It doesn’t matter if you’re just out of college or your children are; we need you for what you can do.&lt;/p&gt;\n&lt;p&gt;We strive to have parity of benefits across regions and while regulations differ from place to place, we believe taking care of our people is the right thing to do.&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Competitive pay based on the work you do here and not your previous salary&lt;/li&gt;\n&lt;li&gt;Health coverage for you and your family in many locations&lt;/li&gt;\n&lt;li&gt;Ability to craft your calendar with flexible locations and schedules for many roles&lt;/li&gt;\n&lt;li&gt;Generous number of vacation days each year&lt;/li&gt;\n&lt;li&gt;Increase your impact - We match up to $2000 (or local currency equivalent) for financial donations and service&lt;/li&gt;\n&lt;li&gt;Up to 40 hours each year to use toward volunteer projects you love&lt;/li&gt;\n&lt;li&gt;Embracing parenthood with minimum of 16 weeks of parental leave&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Different people approach problems differently. We need that. Elastic is an equal opportunity employer and is committed to creating an inclusive culture that celebrates different perspectives, experiences, and backgrounds. Qualified applicants will receive consideration for employment without regard to race, ethnicity, color, religion, sex, pregnancy, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, disability status, or any other basis protected by federal, state or local law, ordinance or regulation.&lt;/p&gt;\n&lt;p&gt;We welcome individuals with disabilities and strive to create an accessible and inclusive experience for all individuals. To request an accommodation during the application or the recruiting process, please email &lt;a href=&quot;mailto:candidate_accessibility@elastic.co&quot; target=&quot;_blank&quot;&gt;candidate_accessibility@elastic.co&lt;/a&gt;&lt;span class=&quot;gmail_default&quot;&gt;.&lt;/span&gt;&amp;nbsp;We will reply to your request within 24 business hours of submission.&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Applicants have rights under Federal Employment Laws, view posters linked below:&lt;/span&gt; &lt;a href=&quot;https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/fmlaen.pdf&quot; target=&quot;_blank&quot;&gt;Family and Medical Leave Act (FMLA)&lt;/a&gt; &lt;span style=&quot;color: #000000;&quot;&gt;Poster;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&amp;nbsp;&lt;a href=&quot;https://www.dol.gov/sites/dolgov/files/ofccp/pdf/pay-transp_%20English_formattedESQA508c.pdf&quot; target=&quot;_blank&quot;&gt;Pay Transparency Nondiscrimination Provision&lt;/a&gt; Poster; &lt;/span&gt;&lt;a href=&quot;https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/eppabw.pdf&quot; target=&quot;_blank&quot;&gt;Employee Polygraph Protection Act (EPPA)&lt;/a&gt; &lt;span style=&quot;color: #000000;&quot;&gt;Poster and &lt;a href=&quot;https://www.dol.gov/sites/dolgov/files/OFCCP/regs/compliance/posters/pdf/22-088_EEOC_KnowYourRights.pdf&quot; target=&quot;_blank&quot;&gt;Know Your Rights&lt;/a&gt; (Poster)&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Elasticsearch develops and distributes technology and information that is subject to U.S. and other countries’ export controls and licensing requirements for individuals who are located in or are nationals of the following sanctioned countries and regions: Belarus, Cuba, Iran, North Korea, Syria, or Russia, including the Ukrainian territories annexed by Russia (The Crimea region of Ukraine, The Donetsk People&#39;s Republic (DNR), The Luhansk People&#39;s Republic (LNR), Kherson or Zaporizhzhia). If you are located in or are a national of one of the listed countries or regions, an export license may be required as a condition of your employment in this role. Please note that national origin and/or nationality do not affect eligibility for employment with Elastic.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;Please see&amp;nbsp;&lt;a href=&quot;https://www.elastic.co/legal/applicant-privacy-statement&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://www.elastic.co/legal/applicant-privacy-statement&amp;amp;source=gmail&amp;amp;ust=1611068262479000&amp;amp;usg=AFQjCNG3orAPk5sJIr9WVm0ZDxYw82c5DA&quot;&gt;here&lt;/a&gt;&amp;nbsp;for our Privacy Statement.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 220400,
+      "name": "Consulting - EMEA",
+      "child_ids": [],
+      "parent_id": 69110
+    }
+  ],
+  "offices": [
+    {
+      "id": 80194,
+      "name": "Germany",
+      "location": null,
+      "child_ids": [
+        44932,
+        22400
+      ],
+      "parent_id": 80176
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

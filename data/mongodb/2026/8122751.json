@@ -1,0 +1,148 @@
+{
+  "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=8122751",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3518097,
+  "location": {
+    "name": "Gurugram"
+  },
+  "metadata": [
+    {
+      "id": 22194060,
+      "name": "Position ID",
+      "value": "10015542",
+      "value_type": "short_text"
+    },
+    {
+      "id": 24918,
+      "name": "Department ID",
+      "value": "D85021-GTM Tech",
+      "value_type": "single_select"
+    },
+    {
+      "id": 22194061,
+      "name": "Team",
+      "value": "387-GTM Tech",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4914027,
+      "name": "Region",
+      "value": "APAC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4137836,
+      "name": "Working Model Eligibility",
+      "value": [
+        "2-Flexible"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 4914029,
+      "name": "Job Level",
+      "value": "Professional - IC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24109,
+      "name": "Employment Type",
+      "value": "Full-time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 1073551,
+      "name": "Job Type",
+      "value": "Standard",
+      "value_type": "single_select"
+    },
+    {
+      "id": 988684,
+      "name": "JD Link",
+      "value": "https://docs.google.com/document/d/1gVA07ZzU4SQ-piudVDIggu6zNu_F187_ca-iNdxecO4/edit?tab=t.0#heading=h.8sf6gf4lz4yl",
+      "value_type": "url"
+    },
+    {
+      "id": 5525802,
+      "name": "Baseline Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 5525816,
+      "name": "Other Large Market Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 13324394,
+      "name": "Job Post Range (United States)",
+      "value": {
+        "unit": "INR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 40497768,
+      "name": "Job Post Range (Canada)",
+      "value": {
+        "unit": "INR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 57694516,
+      "name": "Job Post Range (Poland)",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 64002488,
+      "name": "Job Post Range (Italy)",
+      "value": null,
+      "value_type": "currency_range"
+    }
+  ],
+  "id": 8122751,
+  "updated_at": "2026-09-11T15:37:10-04:00",
+  "requisition_id": "3273518097",
+  "title": "Engineer 3 - Business Systems",
+  "company_name": "MongoDB",
+  "first_published": "2026-09-10T10:42:45-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;The CRM Technologies team builds, scales, and operates Salesforce-based solutions that power MongoDB’s customer lifecycle, from marketing engagement and lead management through sales execution, account management, renewals, reporting, and downstream operational workflows.&lt;/p&gt;\n&lt;p&gt;The team partners closely with Marketing, Sales Operations, Revenue Operations, Finance, Customer Success, Data, and Engineering to deliver secure, scalable, and reliable business systems. The team continuously evolves the CRM and marketing technology ecosystem through automation, integrations, data quality improvements, and platform operations.&lt;/p&gt;\n&lt;h3&gt;Role Overview&lt;/h3&gt;\n&lt;p&gt;We are looking for an Engineer III, Business Systems&lt;strong&gt; &lt;/strong&gt;to design, build, and support the systems and integrations that enable MongoDB’s top-of-funnel and lead-to-revenue processes.&lt;/p&gt;\n&lt;p&gt;This individual contributor role will focus on marketing technology, lead lifecycle management, enrichment, campaign operations, account and territory management, activity management, outreach, annual planning, and inbound and outbound integrations. You will translate business requirements into scalable technical solutions using Salesforce, marketing automation platforms, integration tools, APIs, and data services.&lt;/p&gt;\n&lt;p&gt;You will own delivery across the full solution lifecycle, including requirements analysis, solution design, development, testing, deployment, documentation, monitoring, and production support. You will also contribute to engineering standards, platform governance, data quality, and continuous improvement across the GTM Technology ecosystem.&lt;/p&gt;\n&lt;p&gt;We are looking to speak to candidates who are based in Gurugram for our hybrid working model.&lt;/p&gt;\n&lt;h3&gt;What You’ll Do&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Design, build, and support solutions for top-of-funnel and marketing operations processes&lt;/li&gt;\n&lt;li&gt;Develop and enhance lead capture, lead conversion, routing, qualification, scoring, and lifecycle management capabilities&lt;/li&gt;\n&lt;li&gt;Administer and integrate marketing and enrichment platforms such as FCI, LeanData, Ortoo, and related GTM applications&lt;/li&gt;\n&lt;li&gt;Build and maintain integrations between Salesforce, marketing automation, enrichment, outreach, analytics, data, and downstream business systems&lt;/li&gt;\n&lt;li&gt;Support campaign management, campaign attribution, audience segmentation, campaign member management, and marketing performance workflows&lt;/li&gt;\n&lt;li&gt;Develop scalable solutions for account management, territory planning, account assignment, ownership changes, and coverage models&lt;/li&gt;\n&lt;li&gt;Design and support partner management capabilities, including partner onboarding, partner data management, partner lifecycle workflows, referral and lead registration processes, partner attribution, and partner communications&lt;/li&gt;\n&lt;li&gt;Build and enhance partner portal experiences that provide secure access to leads, opportunities, campaign resources, enablement content, deal registration, performance insights, and relevant account information&lt;/li&gt;\n&lt;li&gt;Enable activity management and Outreach workflows across marketing, business development, sales, and partner teams&lt;/li&gt;\n&lt;li&gt;Design and support inbound integrations that create, enrich, qualify, and route leads and accounts into Salesforce&lt;/li&gt;\n&lt;li&gt;Partner with Marketing Operations, Sales Development, Sales Operations, Revenue&amp;nbsp;Operations, Data, and Engineering to understand requirements and identify process gaps&lt;/li&gt;\n&lt;li&gt;Contribute to documentation, UAT, regression testing, runbooks, monitoring, and user enablement&lt;/li&gt;\n&lt;li&gt;Leverage AI-powered engineering tools such as Cursor, Claude Code, Agentforce, and GitHub Copilot to improve productivity, analysis, troubleshooting, and documentation while applying sound judgment around security, privacy, and accuracy&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Responsibilities&lt;/h3&gt;\n&lt;p&gt;Technical Delivery&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Translate business requirements into scalable marketing technology and Salesforce solutions using declarative configuration, custom development, APIs, and integration platforms.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Marketing Technology Engineering&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Own and enhance capabilities across:\n&lt;ul&gt;\n&lt;li&gt;Lead capture, conversion, qualification, and routing&lt;/li&gt;\n&lt;li&gt;Marketing enrichment and data normalization&lt;/li&gt;\n&lt;li&gt;Campaign and campaign member management&lt;/li&gt;\n&lt;li&gt;Account identification, matching, and hierarchy management&lt;/li&gt;\n&lt;li&gt;Territory planning and account assignment&lt;/li&gt;\n&lt;li&gt;Activity and engagement management&lt;/li&gt;\n&lt;li&gt;Outreach and business development workflows&lt;/li&gt;\n&lt;li&gt;Marketing attribution and lifecycle reporting&lt;/li&gt;\n&lt;li&gt;Annual planning and operational planning processes&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Integration and System Design&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Design and support secure, reliable, and observable inbound and outbound integrations across Salesforce, marketing automation, enrichment, outreach, analytics, and enterprise platforms.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Data Quality and Governance&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Establish reliable data flows and controls that improve completeness, accuracy, consistency, deduplication, consent handling, and governance across lead, contact, account, campaign, and activity data.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Engineering Excellence&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Maintain high standards for modular design, test coverage, documentation, deployment processes, monitoring, CI/CD, and adherence to shared integration and Salesforce engineering patterns.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Platform Optimization&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Proactively identify and resolve performance bottlenecks, integration risks, manual processes, technical debt, and opportunities to simplify the marketing technology architecture.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Minimum Requirements&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Bachelor’s or Master’s degree in Computer Science, Information Systems, Engineering, or equivalent practical experience&lt;/li&gt;\n&lt;li&gt;6+ years of hands-on Salesforce development or enterprise business systems engineering experience&lt;/li&gt;\n&lt;li&gt;Strong experience with Apex, Lightning Web Components, Flows, SOQL, Salesforce APIs, and platform automation&lt;/li&gt;\n&lt;li&gt;Proficiency in scripting and programming languages such as Python and JavaScript, with experience building reusable automation, data transformation, and integration services&lt;/li&gt;\n&lt;li&gt;Experience with React or comparable modern front-end frameworks&lt;/li&gt;\n&lt;li&gt;Experience with full-stack development, including front-end applications, back-end services, APIs, data models, authentication, testing, deployment, and operational support&lt;/li&gt;\n&lt;li&gt;Experience designing and supporting marketing technology, CRM, lead management, or revenue operations solutions&lt;/li&gt;\n&lt;li&gt;Experience building and supporting REST or SOAP API integrations and data synchronization processes&lt;/li&gt;\n&lt;li&gt;Strong understanding of Salesforce security, data governance, data quality, and scalable implementation practices&lt;/li&gt;\n&lt;li&gt;Strong analytical, troubleshooting, communication, and collaboration skills&lt;/li&gt;\n&lt;li&gt;Salesforce Platform Developer I or II certification required&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Success Measures&lt;/h3&gt;\n&lt;p&gt;In 3 Months&lt;/p&gt;\n&lt;p&gt;Develop a strong understanding of MongoDB’s marketing technology and Salesforce architecture, top-of-funnel processes, lead lifecycle, campaign operations, integration landscape, and stakeholder environment.&lt;/p&gt;\n&lt;p&gt;In 6 Months&lt;/p&gt;\n&lt;p&gt;Deliver meaningful enhancements across lead management, marketing integrations, enrichment, campaign management, routing, account management, or related GTM Technology initiatives. Establish yourself as a dependable technical contributor and trusted partner to Marketing Operations and Revenue Operations.&lt;/p&gt;\n&lt;p&gt;In 12 Months&lt;/p&gt;\n&lt;p&gt;Become a trusted subject matter expert for marketing technology and top-of-funnel business systems. Drive scalable improvements across lead conversion, enrichment, campaign operations, territory planning, outreach, data quality, and inbound and outbound integrations while influencing engineering standards and platform strategy.&lt;/p&gt;\n&lt;h3&gt;About MongoDB&lt;/h3&gt;\n&lt;p&gt;MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure.&lt;/p&gt;\n&lt;p&gt;With offices worldwide and over 67,000 customers, including AI-native startups and approximately 75% of the Fortune 100, relying on MongoDB for their most important applications, we’re powering the next era of software.&lt;/p&gt;\n&lt;p&gt;Our compass at MongoDB is our &lt;a href=&quot;https://www.mongodb.com/company&quot;&gt;Leadership Commitment,&lt;/a&gt; guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. &lt;a href=&quot;https://www.mongodb.com/company/blog/culture/employee-benefits-that-make-a-difference-at-mongodb&quot;&gt;From employee affinity groups, to fertility assistance and a generous parental leave policy&lt;/a&gt;, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys.&lt;a href=&quot;https://www.mongodb.com/blog/channel/culture&quot;&gt; Learn more about what it’s like to work at MongoDB&lt;/a&gt;, and help us make an impact on the world!&lt;/p&gt;\n&lt;p&gt;MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.&lt;/p&gt;\n&lt;p&gt;MongoDB is an equal opportunities employer.&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Requisition ID- 3273518097&lt;/em&gt;&lt;/p&gt;",
+  "departments": [
+    {
+      "id": 289352,
+      "name": "GTM Tech",
+      "child_ids": [],
+      "parent_id": 298006
+    }
+  ],
+  "offices": [
+    {
+      "id": 65909,
+      "name": "Gurugram",
+      "location": "Gurugram, Haryana, India",
+      "child_ids": [],
+      "parent_id": 23659
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": null
+}

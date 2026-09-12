@@ -1,0 +1,56 @@
+{
+  "absolute_url": "https://fingerprint.com/careers/jobs/apply/?gh_jid=6140406004",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 5198568004,
+  "location": {
+    "name": "Remote"
+  },
+  "metadata": [
+    {
+      "id": 4248909004,
+      "name": "Employment Type",
+      "value": "Full-time",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 6140406004,
+  "updated_at": "2026-09-10T12:03:01-04:00",
+  "requisition_id": "PROD27-01",
+  "title": "Technical Product Manager, Data Insights",
+  "company_name": "Fingerprint",
+  "first_published": "2026-08-10T18:03:28-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Fingerprint&lt;/strong&gt; empowers enterprises to detect and stop online fraud with the world’s most accurate device intelligence.&amp;nbsp; We lead our industry with bleeding-edge identification capabilities and work on turning new ideas and discoveries in the fraud detection space into reality. Our customers range from innovative startups to leading enterprise companies, including Plaid, Dropbox, and Booking.com.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Fingerprint is a globally dispersed, 100% remote company.&lt;/strong&gt; We were named on on the 2026 Forbes Best Startup Employers list and ranked #803 on the 2026 Inc. 5000 list of America’s fastest-growing private companies.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;a href=&quot;https://www.crunchbase.com/organization/fingerprintjs&quot;&gt;We have raised $77M &lt;/a&gt;and are backed by Craft Ventures (&lt;a href=&quot;https://www.tesla.com/&quot;&gt;Tesla, &lt;/a&gt;&lt;a href=&quot;https://facebook.com/&quot;&gt;Facebook, &lt;/a&gt;&lt;a href=&quot;https://www.airbnb.com/&quot;&gt;Airbnb &lt;/a&gt;), Nexus Venture Partners ( &lt;a href=&quot;https://www.postman.com/&quot;&gt;Postman&lt;/a&gt;, &lt;a href=&quot;https://www.apollo.io/&quot;&gt;Apollo.io,&lt;/a&gt; &lt;a href=&quot;https://min.io/&quot;&gt;MinIO&lt;/a&gt;, Druva) and Uncorrelated Ventures ( &lt;a href=&quot;https://redis.io/&quot;&gt;Redis, &lt;/a&gt;&lt;a href=&quot;https://rollbar.com/&quot;&gt;Rollbar, &lt;/a&gt;&lt;a href=&quot;https://gradle.org/&quot;&gt;&amp;nbsp;Gradle&lt;/a&gt;).&lt;/p&gt;\n&lt;hr&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;h3&gt;&lt;strong&gt;About the role:&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;We&#39;re looking for a Technical Product Manager to own the end-to-end data lifecycle for our device intelligence platform — from how signals are collected in the field, through storage and processing, to the query and reporting experiences our customers and internal teams rely on every day.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Responsibilities:&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;Analytics Dashboard, Server APIs, &amp;amp; MCP Query Experiences&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Partner with product and design to define what users can see and do with their device data.&lt;/li&gt;\n&lt;li&gt;Translate customer feedback and internal needs into a prioritized roadmap for our Analytics Dashboard, Server APIs, and MCP experiences — covering query UX, report templates, data freshness SLAs, and export flows.&lt;/li&gt;\n&lt;li&gt;Responsible for the smooth completion of our customer migration between major Server API versions.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Roadmap &amp;amp; prioritization&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Maintain a clear, well-reasoned roadmap across four interconnected surfaces (JS Agent, Server APIs, Dashboard, MCP Server).&lt;/li&gt;\n&lt;li&gt;Run quarterly planning, write crisp PRDs, manage dependencies across teams, and communicate trade-offs to stakeholders at all levels.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Launch &amp;amp; customer enablement&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Coordinate with product marketing to plan and execute launches — from go-to-market timing and messaging alignment to post-launch enablement.&lt;/li&gt;\n&lt;li&gt;Own documentation updates and help drive internal- and customer-facing training materials and best practices content, ensuring customers can actually adopt what we ship.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Work across engineering, PMM, and customer success to keep education artifacts current and sequenced with the release calendar.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Qualifications:&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Big data pipelines:&lt;/strong&gt; You have a deep understanding of big data pipelines and the collection, storage, and query requirements that shape product decisions at scale&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Data analytics products:&lt;/strong&gt; You have experience as a PM on data analytics products. Experience with identity, anti-fraud, or data intelligence platforms is a strong plus&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Experience with event-level data APIs:&lt;/strong&gt; you understand APIs as a query and retrieval layer over high-volume behavioral or identity event streams, including filtering by visitor, time range, and metadata flags&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;API-as-data-product thinking:&lt;/strong&gt; you can reason about what query capabilities and payload fields matter to enterprise customers, how downstream analytics pipelines consume structured event data, and where API design decisions create long-term friction or stickiness&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Server-side API fluency at scale:&lt;/strong&gt; you are familiar with rate limiting, regional data residency, authentication patterns, and pagination as product constraints, not just engineering concerns&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Education:&lt;/strong&gt; You have a Bachelor&#39;s Degree in any discipline, or equivalent work experience. MBA or other advanced degree a plus.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Product experience:&lt;/strong&gt; You have 3+ years of product management experience, ideally on an existing product through a growth or scaling phase&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Technical fluency:&lt;/strong&gt; You have enough technical depth to have credible conversations with engineers about APIs, architecture, and system constraints without needing everything translated&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Stakeholder navigation:&lt;/strong&gt; You have experience managing competing priorities across multiple audiences — individual contributors, managers, and executives — and can drive alignment without direct authority&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Customer focus:&lt;/strong&gt; You have a demonstrated track record of translating customer needs into shipped product, through direct research, sales partnership, or usage data&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Data fluency:&lt;/strong&gt; You have experience defining and tracking product metrics, and using data to prioritize roadmap decisions and separate signal from noise&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Roadmap ownership:&lt;/strong&gt; You have experience making and defending tradeoff decisions under real resource constraints and competing stakeholder demands&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Go-to-market partnership:&lt;/strong&gt; You have experience working with sales and marketing on launches, pricing inputs, or positioning, and understand how product decisions affect the commercial motion&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;hr&gt;\n&lt;h3&gt;&lt;strong&gt;Compensation &amp;amp; Transparency:&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;&lt;em&gt;At Fingerprint, we believe in pay transparency — it&#39;s part of how we operate as a distributed, remote-first team.&amp;nbsp; Salaries are based on function, level, and geographic location, benchmarked against similar stage growth companies.&amp;nbsp;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Because this role is open across the United States and can be based anywhere our team members work from, the salary range reflects that geographic breadth: $126k - $170k&lt;/em&gt;&lt;em&gt;&lt;br&gt;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Some example salaries for specific locations are below:&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;NYC: $148k - $170k&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Chicago: $126k - $145k&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Final offer amounts are determined by multiple factors, including the successful candidate&#39;s location, experience, and expertise, and may vary from the amounts listed above.&lt;/em&gt;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;Due to regulatory and security reasons, there’s a small number of countries where we cannot have Fingerprint teammates based. Additionally, because Fingerprint is an all-remote company and people can join our workforce from almost any country, we do not sponsor visas. Fingerprint teammates need to be authorized to work from their home location.&lt;/p&gt;\n&lt;p&gt;We are dedicated to creating an inclusive work environment for everyone. We embrace and celebrate the unique experiences, perspectives and cultural backgrounds that each employee brings to our workplace. Fingerprint strives to foster an environment where our employees feel respected, valued and empowered, and our team members are at the forefront in helping us promote and sustain an inclusive workplace. We highly encourage people from underrepresented groups in tech to apply.&lt;/p&gt;\n&lt;p&gt;If you are applying as a resident of California, please read our CCPA notice &lt;a href=&quot;https://dev.fingerprint.com/docs/dpa-ccpa&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;If you are applying as a resident of the EU, please read our GDPR notice &lt;a href=&quot;https://dev.fingerprint.com/docs/dpa-gdpr&quot;&gt;here.&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;**We have noticed a rise in recruiting impersonations across the industry, where scammers attempt to access candidates&#39; personal and financial information through fake interviews and offers. All Fingerprint recruiting email communications will always come from the @fingerprint.com domain. Any outreach claiming to be from Fingerprint via other sources should be ignored.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4043902004,
+      "name": "Product",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 4012422004,
+      "name": "Remote",
+      "location": "Remote",
+      "child_ids": [
+        4022054004
+      ],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": "http://app4.greenhouse.io/ai_opt_out_request/job_post/6140406004/ai_opt_out"
+}

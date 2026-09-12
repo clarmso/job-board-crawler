@@ -1,0 +1,138 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/reddit/jobs/8029120",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3480680,
+  "location": {
+    "name": "Remote - United States"
+  },
+  "metadata": [
+    {
+      "id": 944668,
+      "name": "Position ID",
+      "value": "P-108316",
+      "value_type": "short_text"
+    },
+    {
+      "id": 956352,
+      "name": "Recruiting Start Date",
+      "value": "2026-06-25",
+      "value_type": "date"
+    },
+    {
+      "id": 944671,
+      "name": "Target Hire Date",
+      "value": "2026-09-25",
+      "value_type": "date"
+    },
+    {
+      "id": 944672,
+      "name": "Target Hire End Date",
+      "value": "",
+      "value_type": "date"
+    },
+    {
+      "id": 944673,
+      "name": "Job Profile",
+      "value": "Machine Learning Engineer 4",
+      "value_type": "single_select"
+    },
+    {
+      "id": 956351,
+      "name": "Management Level",
+      "value": "IC4",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944675,
+      "name": "Job Family",
+      "value": "Machine Learning",
+      "value_type": "single_select"
+    },
+    {
+      "id": 53341,
+      "name": "Worker Sub-Type",
+      "value": "Regular",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944676,
+      "name": "Time Type",
+      "value": "Full time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944682,
+      "name": "Pay Rate Type",
+      "value": "Salary",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944681,
+      "name": "Scheduled Weekly Hours",
+      "value": "40.0",
+      "value_type": "number"
+    },
+    {
+      "id": 944667,
+      "name": "Company",
+      "value": "Reddit, Inc.",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944677,
+      "name": "Cost Center",
+      "value": "Tech-Ads Engineering",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944669,
+      "name": "Worker Type",
+      "value": "Employee",
+      "value_type": "single_select"
+    },
+    {
+      "id": 957961,
+      "name": "Department",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8029120,
+  "updated_at": "2026-09-11T20:15:56-04:00",
+  "requisition_id": "R-105629",
+  "title": "Senior Machine Learning Engineer, Ads Optimization",
+  "company_name": "Reddit",
+  "first_published": "2026-06-26T15:47:57-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;div class=&quot;c-message_kit__blocks c-message_kit__blocks--rich_text&quot;&gt;\n&lt;div class=&quot;c-message__message_blocks c-message__message_blocks--rich_text&quot; data-qa=&quot;message-text&quot;&gt;\n&lt;div class=&quot;p-block_kit_renderer&quot; data-qa=&quot;block-kit-renderer&quot;&gt;\n&lt;div class=&quot;p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--first&quot;&gt;\n&lt;div class=&quot;p-rich_text_block&quot;&gt;\n&lt;div class=&quot;p-rich_text_section&quot;&gt;Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit &lt;a class=&quot;c-link&quot; href=&quot;http://www.redditinc.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;http://redditinc.com&quot; data-sk=&quot;tooltip_parent&quot;&gt;www.redditinc.com&lt;/a&gt;.&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;&lt;/div&gt;&lt;h2&gt;Team Description&lt;/h2&gt;\n&lt;p&gt;This role sits in the &lt;strong&gt;Ads Optimization &lt;/strong&gt;organizations, which are responsible for the health and performance of Reddit’s ads marketplace. We focus on:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Designing the &lt;strong&gt;auction and bidding mechanisms&lt;/strong&gt; that decide which ads show to which users and at what price.&lt;/li&gt;\n&lt;li&gt;Building &lt;strong&gt;optimization systems&lt;/strong&gt; that help advertisers achieve their goals (e.g., conversions, ROAS) under budget and delivery constraints.&lt;/li&gt;\n&lt;li&gt;Ensuring &lt;strong&gt;marketplace quality&lt;/strong&gt; by improving user experience with ads, fighting ad blindness, and increasing valuable ad opportunities on the platform.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;You’ll join a set of tight-knit engineers working on high-impact, internet-scale problems at the core of Reddit’s revenue engine, collaborating closely with Product, Data Science, and Infra partners across Reddit Ads.&lt;br&gt;&lt;br&gt;&lt;/p&gt;\n&lt;h2&gt;Role Description&lt;/h2&gt;\n&lt;p&gt;We are hiring &lt;strong&gt;Machine Learning Engineers (IC4)&lt;/strong&gt; to build and evolve the &lt;strong&gt;auction, bidding and budgeting&lt;/strong&gt; systems that power Reddit Ads.&lt;/p&gt;\n&lt;p&gt;In this role, you will:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Design and implement &lt;strong&gt;optimization algorithms&lt;/strong&gt; for auctions, bidding strategies, and pacing that balance advertiser performance, user experience, and marketplace efficiency.&lt;/li&gt;\n&lt;li&gt;Own systems end-to-end: from problem formulation and algorithm design to experimentation, production deployment, and ongoing iteration.&lt;/li&gt;\n&lt;li&gt;Work across &lt;strong&gt;Ads Optimization&lt;/strong&gt; (bid strategies, budget optimization, pacing) to deliver measurable wins for advertisers and Redditors.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;We are hiring a Senior (IC4)&amp;nbsp; level:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;IC4&lt;/strong&gt; MLEs lead more complex or multi-quarter initiatives, set technical direction for key parts of the bidding/auction/pacing stack, and mentor other engineers while remaining hands-on.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;Responsibilities&lt;/h2&gt;\n&lt;h3&gt;Auction, Bidding, and Pacing Systems&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Design and implement models and policies that:&lt;/li&gt;\n&lt;ul&gt;\n&lt;li&gt;Compute bids for different optimization objectives (e.g., CPC, CPA, ROAS-based strategies).&lt;/li&gt;\n&lt;li&gt;Pace budgets smoothly over time across accounts, campaigns, and ad groups while preventing overspend or underspend.&lt;/li&gt;\n&lt;li&gt;Allocate spend and auction participation intelligently across segments, surfaces, and time zones.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;li&gt;Translate product and marketplace goals into concrete optimization problems and constraints (e.g., ROI, revenue, delivery smoothness, fairness, and user experience).&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;Required Qualifications&lt;/h2&gt;\n&lt;p&gt;&lt;em&gt;(Level will be determined during the interview process; IC4 expectations assume deeper experience and broader scope.)&lt;/em&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;3–5+ years&lt;/strong&gt; of experience building, deploying, and operating machine learning systems in production (for IC4, typically 5+ years).&lt;/li&gt;\n&lt;li&gt;Strong programming skills in &lt;strong&gt;Python&lt;/strong&gt;, &lt;strong&gt;Java&lt;/strong&gt;, &lt;strong&gt;Go&lt;/strong&gt;, or similar languages, with solid software engineering fundamentals.&lt;/li&gt;\n&lt;li&gt;Experience designing scalable data processing systems (e.g., Spark, Kafka, Airflow, BigQuery, Redis).&lt;/li&gt;\n&lt;li&gt;Demonstrated ability to translate ambiguous product or business problems into solutions and to improve measurable metrics.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;&amp;nbsp;&lt;/h4&gt;\n&lt;p&gt;&lt;strong&gt;Additional expectations for strong bidding/auction candidates:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Evidence of stronger &lt;strong&gt;math and optimization skills&lt;/strong&gt; than a generic MLE, such as:&lt;/li&gt;\n&lt;ul&gt;\n&lt;li&gt;Degree or equivalent background in a quantitative field (math, physics, quantitative finance, economics, operations research, or similar).&lt;/li&gt;\n&lt;li&gt;Work experience in optimization-heavy domains (e.g., bidding/auctions, pacing, pricing, logistics optimization, quantitative finance).&lt;/li&gt;\n&lt;/ul&gt;\n&lt;li&gt;Comfort reasoning about and implementing custom optimization logic (e.g., gradient-based methods, constraint handling), not just applying black-box tooling.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;Preferred Qualifications&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience with &lt;strong&gt;advertising/auction systems&lt;/strong&gt;, online marketplaces, or search/ranking systems at scale, particularly in:&lt;/li&gt;\n&lt;ul&gt;\n&lt;li&gt;Bidding, pacing, or budget optimization&lt;/li&gt;\n&lt;li&gt;Auction design, mechanism design, or marketplace quality&lt;/li&gt;\n&lt;li&gt;Campaign performance optimization (e.g., CTR/CVR, CPA, ROAS)&lt;/li&gt;\n&lt;/ul&gt;\n&lt;li&gt;Familiarity with large-scale, &lt;strong&gt;real-time decision systems&lt;/strong&gt; and low-latency production environments.&lt;/li&gt;\n&lt;li&gt;Background in feature engineering, model optimization, and production monitoring for ML systems.&lt;/li&gt;\n&lt;li&gt;Experience collaborating with cross-functional partners (Product, DS, Eng) in Ads or marketplace contexts and leading projects from design through rollout.&lt;/li&gt;\n&lt;li&gt;Advanced degree (MS or PhD) in Computer Science, Machine Learning, Operations Research, Applied Math, or a related quantitative field.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;Potential Teams&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Ads Optimization&lt;/strong&gt; (bid strategies, conversion/ROAS optimization, pacing and budget allocation)&lt;br&gt;&lt;br&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;Benefits:&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Comprehensive Healthcare Benefits and Income Replacement Programs&lt;/li&gt;\n&lt;li&gt;401k with Employer Match&lt;/li&gt;\n&lt;li&gt;Global Benefit programs that fit your lifestyle, from workspace to professional development to caregiving support&lt;/li&gt;\n&lt;li&gt;Family Planning Support&lt;/li&gt;\n&lt;li&gt;Gender-Affirming Care&lt;/li&gt;\n&lt;li&gt;Mental Health &amp;amp; Coaching Benefits&lt;/li&gt;\n&lt;li&gt;Flexible Vacation &amp;amp; Paid Volunteer Time Off&lt;/li&gt;\n&lt;li&gt;Generous Paid Parental Leave&amp;nbsp;&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&lt;strong&gt;Pay Transparency:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;This job posting may span more than one career level.&lt;/p&gt;\n&lt;p&gt;In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit &lt;a href=&quot;https://www.redditinc.com/careers/&quot; target=&quot;_blank&quot;&gt;https://www.redditinc.com/careers/&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;To provide greater transparency to candidates, we share base salary ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;The base salary range for this position is:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$216,700&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$303,400 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;In select roles and locations, the interviews will be recorded, transcribed and summarized by artificial intelligence (AI). You will have the opportunity to opt out of recording, transcription and summarization prior to any scheduled interviews.&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;During the interview, we will collect the following categories of personal information: Identifiers, Professional and Employment-Related Information, Sensory Information (audio/video recording), and any other categories of personal information you choose to share with us. We will use this information to evaluate your application for employment or an independent contractor role, as applicable.&amp;nbsp; We will not sell your personal information or disclose it to any third party for their marketing purposes.&amp;nbsp; We will delete any recording of your interview promptly after making a hiring decision.&amp;nbsp; For more information about how we will handle your personal information, including our retention of it, please refer to our &lt;a href=&quot;https://redditinc.com/policies/candidate-privacy-policy&quot;&gt;Candidate Privacy Policy for Potential Employees and Contractors&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Reddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.&amp;nbsp; Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If, due to a disability, you need an accommodation during the interview process, please let your recruiter know.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 70548,
+      "name": "Ads Engineering",
+      "child_ids": [],
+      "parent_id": 16253
+    }
+  ],
+  "offices": [
+    {
+      "id": 88237,
+      "name": "Remote - United States",
+      "location": null,
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

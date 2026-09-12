@@ -1,0 +1,138 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/reddit/jobs/6960831",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3165802,
+  "location": {
+    "name": "Remote - United States"
+  },
+  "metadata": [
+    {
+      "id": 944668,
+      "name": "Position ID",
+      "value": null,
+      "value_type": "short_text"
+    },
+    {
+      "id": 956352,
+      "name": "Recruiting Start Date",
+      "value": "2025-06-09",
+      "value_type": "date"
+    },
+    {
+      "id": 944671,
+      "name": "Target Hire Date",
+      "value": "2025-09-01",
+      "value_type": "date"
+    },
+    {
+      "id": 944672,
+      "name": "Target Hire End Date",
+      "value": "",
+      "value_type": "date"
+    },
+    {
+      "id": 944673,
+      "name": "Job Profile",
+      "value": "Machine Learning Engineer 4",
+      "value_type": "single_select"
+    },
+    {
+      "id": 956351,
+      "name": "Management Level",
+      "value": "IC4",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944675,
+      "name": "Job Family",
+      "value": "Machine Learning",
+      "value_type": "single_select"
+    },
+    {
+      "id": 53341,
+      "name": "Worker Sub-Type",
+      "value": "Regular",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944676,
+      "name": "Time Type",
+      "value": "Full time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944682,
+      "name": "Pay Rate Type",
+      "value": "Salary",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944681,
+      "name": "Scheduled Weekly Hours",
+      "value": "40.0",
+      "value_type": "number"
+    },
+    {
+      "id": 944667,
+      "name": "Company",
+      "value": "Reddit, Inc.",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944677,
+      "name": "Cost Center",
+      "value": "Tech-Ads Engineering",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944669,
+      "name": "Worker Type",
+      "value": "Employee",
+      "value_type": "single_select"
+    },
+    {
+      "id": 957961,
+      "name": "Department",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 6960831,
+  "updated_at": "2026-08-13T10:49:38-04:00",
+  "requisition_id": null,
+  "title": "Senior Machine Learning Engineer",
+  "company_name": "Reddit",
+  "first_published": "2025-08-14T15:50:35-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;div class=&quot;c-message_kit__blocks c-message_kit__blocks--rich_text&quot;&gt;\n&lt;div class=&quot;c-message__message_blocks c-message__message_blocks--rich_text&quot; data-qa=&quot;message-text&quot;&gt;\n&lt;div class=&quot;p-block_kit_renderer&quot; data-qa=&quot;block-kit-renderer&quot;&gt;\n&lt;div class=&quot;p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--first&quot;&gt;\n&lt;div class=&quot;p-rich_text_block&quot;&gt;\n&lt;div class=&quot;p-rich_text_section&quot;&gt;Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit &lt;a class=&quot;c-link&quot; href=&quot;http://www.redditinc.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;http://redditinc.com&quot; data-sk=&quot;tooltip_parent&quot;&gt;www.redditinc.com&lt;/a&gt;.&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;&lt;/div&gt;&lt;p&gt;At Reddit, machine learning sits at the heart of how millions of people discover, connect, and engage with the world’s largest collection of human conversations. From powering personalized recommendations and search to optimizing advertising systems and marketplace dynamics, our ML engineers tackle some of the most interesting and impactful problems in large-scale applied machine learning.&lt;/p&gt;\n&lt;p&gt;We hire Machine Learning Engineers across both our Consumer and Ads organizations, giving you the opportunity to work on a wide range of high-impact problems across the Reddit ecosystem.&lt;/p&gt;\n&lt;p&gt;We are looking for Machine Learning Engineers who are excited to build systems end-to-end, from research and modeling to production deployment, — and who want to help shape the future of discovery, relevance, and monetization at Reddit.&lt;/p&gt;\n&lt;p&gt;If you love working on complex, real-world ML problems at massive scale, this role is for you.&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;What You’ll Work On&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;As a Machine Learning Engineer at Reddit, you will design and build production ML systems that power core experiences across the platform, including:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Personalized recommendations, search, and ranking systems that help users discover the most relevant content and communities&lt;/li&gt;\n&lt;li&gt;Intelligent advertising systems including ranking, bidding, measurement, and optimization&lt;/li&gt;\n&lt;li&gt;Content, Advertisers, and User understanding, from building foundational content/user representations to deriving insightful signals&lt;/li&gt;\n&lt;li&gt;Large-scale machine learning pipelines, model serving infrastructure, and real-time decision systems&lt;/li&gt;\n&lt;li&gt;Applied AI and LLM-driven experiences that improve relevance, discovery, and user engagement&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;You’ll work on high-impact systems that operate at internet scale and directly influence user experience, advertiser value, and business outcomes.&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;What You’ll Do&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Design, build, and deploy production-grade machine learning models and systems at scale&lt;/li&gt;\n&lt;li&gt;Own the full ML lifecycle: from problem definition and feature engineering to training, evaluation, deployment, and monitoring&lt;/li&gt;\n&lt;li&gt;Build scalable data and model pipelines with strong reliability, observability, and automated retraining&lt;/li&gt;\n&lt;li&gt;Work with large-scale datasets to improve ranking, recommendations, search relevance, prediction, content/user understanding, and optimization systems.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Partner cross-functionally with Product, Data Science, Infrastructure, and Engineering teams to translate complex problems into ML solutions&lt;/li&gt;\n&lt;li&gt;Improve system performance across latency, throughput, and model quality metrics&lt;/li&gt;\n&lt;li&gt;Research and apply state-of-the-art machine learning and AI techniques, including deep learning, graph &amp;amp; transformers based, and LLM evaluation/alignment&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Contribute to technical strategy, architecture, and long-term ML roadmap&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Basic Qualifications&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;3-5+ years of experience building, deploying, and operating machine learning systems in production&lt;/li&gt;\n&lt;li&gt;Strong programming skills in Python, Java, Go, or similar languages, with solid software engineering fundamentals&lt;/li&gt;\n&lt;li&gt;ML Fundamentals: a strong grasp of algorithms, from classic statistical learning (XGBoost, Random Forests, regressions) to DL architectures (Transformers, CNNs, GNNs)&lt;/li&gt;\n&lt;li&gt;Hands-on experience with modern ML frameworks (e.g., PyTorch, TensorFlow)&lt;/li&gt;\n&lt;li&gt;Experience designing scalable ML pipelines, data processing systems, and model serving infrastructure&lt;/li&gt;\n&lt;li&gt;Ability to work cross-functionally and translate ambiguous product or business problems into technical solutions&lt;/li&gt;\n&lt;li&gt;Experience improving measurable metrics through applied machine learning&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Preferred Qualifications&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience with recommender systems, search/ranking systems, advertising/auction systems, large-scale representation learning, or multimodal embedding systems&lt;/li&gt;\n&lt;li&gt;Familiarity with distributed systems and large-scale data processing (Spark, Kafka, Ray, Airflow, BigQuery, Redis, etc.)&lt;/li&gt;\n&lt;li&gt;Experience working with real-time systems and low-latency production environments&lt;/li&gt;\n&lt;li&gt;Background in feature engineering, model optimization, and production monitoring&lt;/li&gt;\n&lt;li&gt;Experience with LLM/Gen AI techniques, including but not limited to LLM evaluation, alignment, fine-tuning, knowledge distillation, RAG/agentic systems and productionizing LLM-powered products at scale&lt;/li&gt;\n&lt;li&gt;Advanced degree in Computer Science, Machine Learning, or related quantitative field&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Potential Teams&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Ads Measurement Modeling&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Ads Targeting and Retrieval&lt;/li&gt;\n&lt;li&gt;Advertiser Optimization&lt;/li&gt;\n&lt;li&gt;Ads Marketplace Quality&lt;/li&gt;\n&lt;li&gt;Ads Creative Effectiveness&lt;/li&gt;\n&lt;li&gt;Ads Foundational Representations&lt;/li&gt;\n&lt;li&gt;Ads Content Understanding&lt;/li&gt;\n&lt;li&gt;Ads Ranking&lt;/li&gt;\n&lt;li&gt;Feed Relevance&lt;/li&gt;\n&lt;li&gt;Search and Answers Relevance&lt;/li&gt;\n&lt;li&gt;ML Understanding&lt;/li&gt;\n&lt;li&gt;Notifications Relevance&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Benefits&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Comprehensive Healthcare Benefits and Income Replacement Programs&lt;/li&gt;\n&lt;li&gt;401k with Employer Match&lt;/li&gt;\n&lt;li&gt;Global Benefit programs that fit your lifestyle, from workspace to professional development to caregiving support&lt;/li&gt;\n&lt;li&gt;Family Planning Support&lt;/li&gt;\n&lt;li&gt;Gender-Affirming Care&lt;/li&gt;\n&lt;li&gt;Mental Health &amp;amp; Coaching Benefits&lt;/li&gt;\n&lt;li&gt;Flexible Vacation &amp;amp; Paid Volunteer Time Off&lt;/li&gt;\n&lt;li&gt;Generous Paid Parental Leave&amp;nbsp;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;div id=&quot;te-floating-button-container&quot;&gt;&lt;/div&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&lt;strong&gt;Pay Transparency:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;This job posting may span more than one career level.&lt;/p&gt;\n&lt;p&gt;In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit &lt;a href=&quot;https://www.redditinc.com/careers/&quot; target=&quot;_blank&quot;&gt;https://www.redditinc.com/careers/&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;To provide greater transparency to candidates, we share base salary ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;The base salary range for this position is:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$216,700&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$303,400 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;In select roles and locations, the interviews will be recorded, transcribed and summarized by artificial intelligence (AI). You will have the opportunity to opt out of recording, transcription and summarization prior to any scheduled interviews.&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;During the interview, we will collect the following categories of personal information: Identifiers, Professional and Employment-Related Information, Sensory Information (audio/video recording), and any other categories of personal information you choose to share with us. We will use this information to evaluate your application for employment or an independent contractor role, as applicable.&amp;nbsp; We will not sell your personal information or disclose it to any third party for their marketing purposes.&amp;nbsp; We will delete any recording of your interview promptly after making a hiring decision.&amp;nbsp; For more information about how we will handle your personal information, including our retention of it, please refer to our &lt;a href=&quot;https://redditinc.com/policies/candidate-privacy-policy&quot;&gt;Candidate Privacy Policy for Potential Employees and Contractors&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Reddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.&amp;nbsp; Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If, due to a disability, you need an accommodation during the interview process, please let your recruiter know.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 79647,
+      "name": "Machine Learning",
+      "child_ids": [],
+      "parent_id": 16253
+    }
+  ],
+  "offices": [
+    {
+      "id": 88237,
+      "name": "Remote - United States",
+      "location": null,
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

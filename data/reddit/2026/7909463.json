@@ -1,0 +1,138 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/reddit/jobs/7909463",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3437844,
+  "location": {
+    "name": "San Francisco, CA"
+  },
+  "metadata": [
+    {
+      "id": 944668,
+      "name": "Position ID",
+      "value": "P-102076",
+      "value_type": "short_text"
+    },
+    {
+      "id": 956352,
+      "name": "Recruiting Start Date",
+      "value": "2026-08-17",
+      "value_type": "date"
+    },
+    {
+      "id": 944671,
+      "name": "Target Hire Date",
+      "value": "2026-09-17",
+      "value_type": "date"
+    },
+    {
+      "id": 944672,
+      "name": "Target Hire End Date",
+      "value": "",
+      "value_type": "date"
+    },
+    {
+      "id": 944673,
+      "name": "Job Profile",
+      "value": "Specialized Software Development Engineer 5",
+      "value_type": "single_select"
+    },
+    {
+      "id": 956351,
+      "name": "Management Level",
+      "value": "IC5",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944675,
+      "name": "Job Family",
+      "value": "Specialized Software Engineering",
+      "value_type": "single_select"
+    },
+    {
+      "id": 53341,
+      "name": "Worker Sub-Type",
+      "value": "Regular",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944676,
+      "name": "Time Type",
+      "value": "Full time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944682,
+      "name": "Pay Rate Type",
+      "value": "Salary",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944681,
+      "name": "Scheduled Weekly Hours",
+      "value": "40.0",
+      "value_type": "number"
+    },
+    {
+      "id": 944667,
+      "name": "Company",
+      "value": "Reddit, Inc.",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944677,
+      "name": "Cost Center",
+      "value": "Tech-Infrastructure",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944669,
+      "name": "Worker Type",
+      "value": "Employee",
+      "value_type": "single_select"
+    },
+    {
+      "id": 957961,
+      "name": "Department",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 7909463,
+  "updated_at": "2026-09-01T15:30:38-04:00",
+  "requisition_id": "R-105427",
+  "title": "Staff Site Reliability Engineer, Ads",
+  "company_name": "Reddit",
+  "first_published": "2026-05-08T16:42:42-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;div class=&quot;c-message_kit__blocks c-message_kit__blocks--rich_text&quot;&gt;\n&lt;div class=&quot;c-message__message_blocks c-message__message_blocks--rich_text&quot; data-qa=&quot;message-text&quot;&gt;\n&lt;div class=&quot;p-block_kit_renderer&quot; data-qa=&quot;block-kit-renderer&quot;&gt;\n&lt;div class=&quot;p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--first&quot;&gt;\n&lt;div class=&quot;p-rich_text_block&quot;&gt;\n&lt;div class=&quot;p-rich_text_section&quot;&gt;Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit &lt;a class=&quot;c-link&quot; href=&quot;http://www.redditinc.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;http://redditinc.com&quot; data-sk=&quot;tooltip_parent&quot;&gt;www.redditinc.com&lt;/a&gt;.&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;&lt;/div&gt;&lt;p&gt;As Reddit continues to scale globally, reliability and performance are more critical than ever. The Site Experience SRE team sits at the intersection of infrastructure, product engineering, and user experience - ensuring that every interaction across web, mobile, APIs, feeds, media delivery, and real time systems is fast, reliable, and resilient.&lt;/p&gt;\n&lt;p&gt;We are looking for a Staff Site Reliability Engineer to lead reliability engineering initiatives for critical user facing systems at internet scale. In this role, you will partner closely with product and infrastructure teams to improve availability, latency, scalability, and operational excellence across Reddit’s most business critical experiences.&lt;/p&gt;\n&lt;p&gt;This is a highly technical leadership role for someone who thrives in large-scale distributed systems, enjoys solving complex reliability challenges, and can influence engineering culture across the organization.&lt;/p&gt;\n&lt;h4&gt;&lt;strong&gt;What you’ll do:&lt;/strong&gt;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Lead Reliability Engineering for User Experience&lt;/strong&gt;\n&lt;ul&gt;\n&lt;li&gt;Drive reliability, scalability, and operational excellence for critical user facing systems and services. Improve performance and resiliency across APIs, content delivery, feed generation, search, messaging, and real-time experiences.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Architect for Scale&lt;/strong&gt;\n&lt;ul&gt;\n&lt;li&gt;Partner with product and infrastructure engineering teams to design systems that remain highly available and performant under massive global load. Guide architectural decisions around failover, redundancy, graceful degradation, traffic management, and capacity planning.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Reduce Operational Risk&lt;/strong&gt;\n&lt;ul&gt;\n&lt;li&gt;Identify systemic risks and reliability bottlenecks across services, dependencies, deployments, and infrastructure. Build proactive mitigation strategies and drive engineering improvements that reduce incidents and improve service health.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Drive Automation&lt;/strong&gt;\n&lt;ul&gt;\n&lt;li&gt;Eliminate repetitive operational work through automation and tooling. Build systems that improve deployment safety, incident response, remediation workflows, and reliability guardrails&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Incident Management&lt;/strong&gt;\n&lt;ul&gt;\n&lt;li&gt;Lead complex incident response efforts across engineering teams. Drive blameless postmortems, identify root causes, and ensure sustainable long-term fixes are implemented.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Influence Engineering Standards&lt;/strong&gt;\n&lt;ul&gt;\n&lt;li&gt;Define and champion best practices around reliability engineering, SLIs/SLOs, capacity management, release engineering, and operational maturity across the company.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Mentor and Multiply Impact&lt;/strong&gt;\n&lt;ul&gt;\n&lt;li&gt;Provide technical leadership and mentorship to engineers across SRE and software engineering teams. Help shape reliability culture and raise the operational excellence bar across the organization.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;&lt;strong&gt;What We’re Looking For&lt;/strong&gt;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;8+ years of experience in Site Reliability Engineering, Infrastructure Engineering, or related roles operating large scale distributed systems.&lt;/li&gt;\n&lt;li&gt;Strong collaboration and communication skills with the ability to influence technical direction across teams.&lt;/li&gt;\n&lt;li&gt;Strong experience supporting high traffic, user facing production environments.&lt;/li&gt;\n&lt;li&gt;Deep understanding of one or more: distributed systems, networking, Linux systems, cloud native architectures.&lt;/li&gt;\n&lt;li&gt;Experience designing highly available systems with strong operational and reliability practices.&lt;/li&gt;\n&lt;li&gt;Strong programming skills in languages such as Go, Python, or similar.&lt;/li&gt;\n&lt;li&gt;Strong understanding of observability systems including metrics, logging, tracing, and alerting.&lt;/li&gt;\n&lt;li&gt;Experience improving reliability through SLOs, automation, incident management, and performance optimization.&lt;/li&gt;\n&lt;li&gt;Demonstrated ability to troubleshoot complex issues across applications, infrastructure, networking, and services.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Nice to Have&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience operating systems at internet scale traffic volumes.&lt;/li&gt;\n&lt;li&gt;Experience with Kubernetes, containers, cloud infrastructure, and modern deployment platforms.&lt;/li&gt;\n&lt;li&gt;Familiarity with technologies such as Prometheus, Grafana, OpenTelemetry, Envoy, Kafka, ClickHouse, Cassandra, Redis, or similar distributed infrastructure technologies.&lt;/li&gt;\n&lt;li&gt;Experience with CDN optimization, edge reliability, traffic engineering, or global infrastructure.&lt;/li&gt;\n&lt;li&gt;Contributions to open source software or participation in technical communities.&lt;/li&gt;\n&lt;li&gt;Experience leading large scale incident response and operational transformation initiatives.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Why Join Reddit?&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;You’ll help shape the reliability and performance of one of the internet’s largest platforms, influencing experiences used by millions of people every day. This is an opportunity to solve deeply complex engineering problems at massive scale while helping define the future of reliability engineering for a modern consumer platform.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Benefits&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Global Benefit programs that fit your lifestyle, from workspace to professional development to caregiving support&lt;/li&gt;\n&lt;li&gt;Family Planning Support&lt;/li&gt;\n&lt;li&gt;Gender-Affirming Care&lt;/li&gt;\n&lt;li&gt;Mental Health &amp;amp; Coaching Benefits&lt;/li&gt;\n&lt;li&gt;Private Medical, Dental, and Vision Benefits&lt;/li&gt;\n&lt;li&gt;Personal Retirement Savings Account with matching contribution&lt;/li&gt;\n&lt;li&gt;Cycle to Work and Tax Saver schemes&lt;/li&gt;\n&lt;li&gt;Flexible Vacation &amp;amp; Paid Volunteer Time Off&lt;/li&gt;\n&lt;li&gt;Generous Paid Parental Leave&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&lt;strong&gt;Pay Transparency:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;This job posting may span more than one career level.&lt;/p&gt;\n&lt;p&gt;In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit &lt;a href=&quot;https://www.redditinc.com/careers/&quot; target=&quot;_blank&quot;&gt;https://www.redditinc.com/careers/&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;To provide greater transparency to candidates, we share base salary ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;The base salary range for this position is:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$217,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$303,900 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;In select roles and locations, the interviews will be recorded, transcribed and summarized by artificial intelligence (AI). You will have the opportunity to opt out of recording, transcription and summarization prior to any scheduled interviews.&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;During the interview, we will collect the following categories of personal information: Identifiers, Professional and Employment-Related Information, Sensory Information (audio/video recording), and any other categories of personal information you choose to share with us. We will use this information to evaluate your application for employment or an independent contractor role, as applicable.&amp;nbsp; We will not sell your personal information or disclose it to any third party for their marketing purposes.&amp;nbsp; We will delete any recording of your interview promptly after making a hiring decision.&amp;nbsp; For more information about how we will handle your personal information, including our retention of it, please refer to our &lt;a href=&quot;https://redditinc.com/policies/candidate-privacy-policy&quot;&gt;Candidate Privacy Policy for Potential Employees and Contractors&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Reddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.&amp;nbsp; Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If, due to a disability, you need an accommodation during the interview process, please let your recruiter know.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 81522,
+      "name": "Site Reliability",
+      "child_ids": [],
+      "parent_id": 16253
+    }
+  ],
+  "offices": [
+    {
+      "id": 88237,
+      "name": "Remote - United States",
+      "location": null,
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

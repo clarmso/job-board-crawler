@@ -1,0 +1,96 @@
+{
+  "absolute_url": "https://www.okta.com/company/careers/opportunity/7744555?gh_jid=7744555",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 3396643,
+  "location": {
+    "name": "Bengaluru, India"
+  },
+  "metadata": [
+    {
+      "id": 58735330,
+      "name": "Naukri Job URL",
+      "value": null,
+      "value_type": "long_text"
+    },
+    {
+      "id": 58735350,
+      "name": "Naukri Job Error",
+      "value": null,
+      "value_type": "long_text"
+    },
+    {
+      "id": 58735367,
+      "name": "Minimum Salary",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735368,
+      "name": "Maximum Salary",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735369,
+      "name": "Minimum Work Experience",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735370,
+      "name": "Maximum Work Experience",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735384,
+      "name": "City",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 58735385,
+      "name": "Job Description",
+      "value": null,
+      "value_type": "long_text"
+    }
+  ],
+  "id": 7744555,
+  "updated_at": "2026-09-11T11:24:18-04:00",
+  "requisition_id": "P24814_3396643",
+  "title": " Senior Software Engineer in Test",
+  "company_name": "Okta",
+  "first_published": "2026-09-11T00:35:43-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Secure Every Identity, from AI to Human&lt;br&gt;&lt;br&gt;&lt;/strong&gt;Identity is the key to unlocking the potential of AI. Okta secures AI by building the trusted, neutral infrastructure that enables organizations to safely embrace this new era. This work requires a relentless drive to solve complex challenges with real-world stakes. We are looking for builders and owners who operate with speed and urgency and execute with excellence.&lt;br&gt;&lt;br&gt;This is an opportunity to do career-defining work. We&#39;re all in on this mission. If you are too, let&#39;s talk.&lt;/p&gt;&lt;/div&gt;&lt;div&gt;We are looking for a high-impact Senior Software Engineer in Test (Sr. SET) to join our QA Core Team. In this role, you will partner closely with Infrastructure, Release Engineering, and Development teams to drive high availability, build scalable test automation, and optimize CI/CD release pipelines. You will take ownership of release-based testing, system observability, and automation services to ensure that weekly software releases are delivered seamlessly and with high quality across mission-critical systems.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Key ResponsibilitiesTest Automation &amp;amp; System Quality&lt;/strong&gt;&lt;/div&gt;\n&lt;ul&gt;\n&lt;li&gt;Design, implement, and maintain scalable test automation frameworks for both server- and client-side systems using Java, TestNG, JUnit, and Selenium.&lt;/li&gt;\n&lt;li&gt;Develop and execute comprehensive end-to-end and system test plans to validate new software changes against existing customer deployment patterns.&lt;/li&gt;\n&lt;li&gt;Set up and manage automated test configurations, lab environments, and containerized test setups using Docker.&lt;/li&gt;\n&lt;li&gt;Perform release-based validation, ensuring full compatibility, high availability, and uptime across weekly deployment cycles.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;div&gt;&lt;strong&gt;CI/CD Pipeline Maintenance &amp;amp; Optimization&lt;/strong&gt;&lt;/div&gt;\n&lt;ul&gt;\n&lt;li&gt;Troubleshoot, debug, and optimize CI/CD pipelines (Jenkins, GitHub Actions, CircleCI, Buildkite) to reduce test execution times and eliminate flaky builds.&lt;/li&gt;\n&lt;li&gt;Manage and optimize Maven-based build structures, dependency management, and automated release workflows.&lt;/li&gt;\n&lt;li&gt;Write operational automation scripts using Python, Bash, or Groovy to automate internal infrastructure and test maintenance tasks.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;div&gt;&lt;strong&gt;Observability, Monitoring &amp;amp; Infrastructure&lt;/strong&gt;&lt;/div&gt;\n&lt;ul&gt;\n&lt;li&gt;Analyze application logs and system observability metrics using tools like Splunk, Sumologic, Kibana, or ELK to identify, isolate, and debug failures.&lt;/li&gt;\n&lt;li&gt;Utilize SQL to query databases and validate complex, integrated backend scenarios.&lt;/li&gt;\n&lt;li&gt;Provide occasional on-call support and debug assistance to partner teams in North America to ensure smooth global engineering alignment.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;div&gt;&lt;strong&gt;Key Requirements&lt;/strong&gt;&lt;/div&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience: 5 years of hands-on experience as a Quality Engineer or Software Engineer with a focus on SaaS products and release-based testing.&lt;/li&gt;\n&lt;li&gt;Automation &amp;amp; Coding: 4+ years of Java-based test development (Selenium, TestNG, JUnit) and scripting proficiency in Python, Bash, or Groovy.&lt;/li&gt;\n&lt;li&gt;CI/CD &amp;amp; DevOps: Demonstrated expertise in maintaining and debugging CI/CD pipelines, dependency management (Maven), and containerization platforms (Docker).&lt;/li&gt;\n&lt;li&gt;Database &amp;amp; Data Querying: 4+ years of experience writing SQL queries to perform data verification and system integration testing.&lt;/li&gt;\n&lt;li&gt;Observability: Strong experience leveraging monitoring tools (Splunk, Kibana, SumoLogic) to parse logs and trace test failures.&lt;/li&gt;\n&lt;li&gt;Education: B.S. or M.S. in Computer Science, Computer Engineering, Software Engineering, or a closely related technical field.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;div&gt;&lt;strong&gt;Preferred Qualifications&lt;/strong&gt;&lt;/div&gt;\n&lt;ul&gt;\n&lt;li&gt;Hands-on experience with cloud platforms (AWS, GCP, Azure) and Infrastructure as Code (Terraform, Ansible).&lt;/li&gt;\n&lt;li&gt;Familiarity with Kubernetes, mobile testing platforms (e.g., Bitbar, Appium), or machine learning-driven test tools.&lt;/li&gt;\n&lt;li&gt;Exposure to performance or security testing within CI pipelines.&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;The Okta Experience&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;a href=&quot;http://rewards.okta.com&quot;&gt;Supporting Your Well-Being&lt;/a&gt;&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;&lt;a href=&quot;https://www.okta.com/company/okta-for-good/&quot;&gt;Driving Social Impact&amp;nbsp;&lt;/a&gt;&lt;/li&gt;\n&lt;li&gt;&lt;a href=&quot;https://www.okta.com/company/talent-connection-community/&quot;&gt;Developing Talent and Fostering Connection + Community&lt;/a&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;We are intentional about connection. Our global community, spanning over 20 offices worldwide, is united by a drive to innovate. Your journey begins with an immersive, in-person onboarding experience designed to accelerate your impact and connect you to our mission and team from day one.&lt;br&gt;&lt;br&gt;Okta is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, marital status, age, physical or mental disability, or status as a protected veteran. We also consider for employment qualified applicants with arrest and convictions records, consistent with applicable laws.&lt;br&gt;&lt;br&gt;If reasonable accommodation is needed to complete any part of the job application, interview process, or onboarding please&amp;nbsp;&lt;a href=&quot;https://docs.google.com/forms/d/1EfiEYZrIyhA2X4Fijk0R3RKYOzNoS3wtvyM4nhbZnXE/edit&quot;&gt;use this Form&lt;/a&gt; to request an accommodation.&lt;br&gt;&lt;br&gt;Notice for New York City Applicants &amp;amp; Employees: Okta may use Automated Employment Decision Tools (AEDT), as defined by New York City Local Law 144, that use artificial intelligence, machine learning, or other automated processes to assist in our recruitment and hiring process. In accordance with NYC Local Law 144, if you are an applicant or employee residing in New York City, please&amp;nbsp;&lt;a href=&quot;https://talent.okta.com/new-york-city-aedt-notice.html&quot;&gt;click here&lt;/a&gt; to view our full NYC AEDT Notice.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 30139,
+      "name": "Engineering Quality-630",
+      "child_ids": [],
+      "parent_id": 396304
+    }
+  ],
+  "offices": [
+    {
+      "id": 89126,
+      "name": "Bengaluru ",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 89122
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

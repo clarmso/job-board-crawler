@@ -1,0 +1,117 @@
+{
+  "absolute_url": "https://jobs.dropbox.com/listing/7958409?gh_jid=7958409",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "education": "education_required",
+  "employment": "employment_required",
+  "internal_job_id": 3455298,
+  "location": {
+    "name": "Remote - Poland"
+  },
+  "metadata": [
+    {
+      "id": 397108,
+      "name": "Recruiting Team Responsible",
+      "value": "International EPD",
+      "value_type": "single_select"
+    },
+    {
+      "id": 1993612,
+      "name": "Weighted Value",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 397072,
+      "name": "Parent Job ID",
+      "value": "Eng - 2225683",
+      "value_type": "single_select"
+    },
+    {
+      "id": 397073,
+      "name": "Active Until Date",
+      "value": "",
+      "value_type": "date"
+    },
+    {
+      "id": 31703,
+      "name": "Employment Type",
+      "value": "Regular",
+      "value_type": "single_select"
+    },
+    {
+      "id": 29942941,
+      "name": "Time Type",
+      "value": "Full Time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 3465818,
+      "name": "Location Cost Tier",
+      "value": "Low",
+      "value_type": "single_select"
+    },
+    {
+      "id": 696737,
+      "name": "Skillset",
+      "value": "Infra SWE",
+      "value_type": "single_select"
+    },
+    {
+      "id": 113830,
+      "name": "Dropboxer Level",
+      "value": "IC3",
+      "value_type": "single_select"
+    },
+    {
+      "id": 54678,
+      "name": "Career Page Allocation",
+      "value": "Engineering",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 7958409,
+  "updated_at": "2026-09-03T09:40:01-04:00",
+  "requisition_id": "R11613",
+  "title": "Infrastructure Software Engineer, Metadata Core",
+  "company_name": "Dropbox",
+  "first_published": "2026-08-05T06:31:33-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;h2&gt;Role Description&lt;/h2&gt;\n&lt;div&gt;\n&lt;p&gt;As a Software Engineer on the Metadata team, you’ll build and operate the large-scale distributed databases that every Dropbox service depends on. Metadata systems are mission-critical, in the live path for all user operations and must meet stringent requirements for latency, durability, and transactional consistency.&lt;/p&gt;\n&lt;p&gt;You’ll design and evolve the core infrastructure that manages Dropbox’s databases at scale, enabling fast, reliable access to data for millions of users and hundreds of internal services. This work spans distributed systems, replication, caching, and transactional database systems.&lt;/p&gt;\n&lt;p&gt;You’ll collaborate closely with engineers across Infrastructure and Product teams to ensure the metadata layer meets business needs and continues to scale with Dropbox’s growth. This is an opportunity to leverage your expertise in distributed systems and grow into broader technical leadership.&lt;/p&gt;\n&lt;p&gt;&lt;span class=&quot; author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95lz89zy6z71zz79zz84zz68zyz69zupz72zz79zcz69zz76zkz79zp1z66ztz67zxz71zz89zz86zz71z&quot;&gt;Our Engineering Career Framework is &lt;/span&gt;&lt;span class=&quot;attrlink url author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95lz89zy6z71zz79zz84zz68zyz69zupz72zz79zcz69zz76zkz79zp1z66ztz67zxz71zz89zz86zz71z&quot;&gt;&lt;a class=&quot;attrlink&quot; href=&quot;https://dropbox.github.io/dbx-career-framework/&quot; target=&quot;_blank&quot; data-target-href=&quot;https://dropbox.github.io/dbx-career-framework/&quot;&gt;&lt;u&gt;viewable by anyone outside the company&lt;/u&gt;&lt;/a&gt;&lt;/span&gt;&lt;span class=&quot; author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95lz89zy6z71zz79zz84zz68zyz69zupz72zz79zcz69zz76zkz79zp1z66ztz67zxz71zz89zz86zz71z&quot;&gt; and describes what’s expected for our engineers at each of our career levels. Check out our blog post on this topic and more &lt;/span&gt;&lt;span class=&quot;attrlink url author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95lz89zy6z71zz79zz84zz68zyz69zupz72zz79zcz69zz76zkz79zp1z66ztz67zxz71zz89zz86zz71z&quot;&gt;&lt;a class=&quot;attrlink&quot; href=&quot;https://dropbox.tech/culture/sharing-our-engineering-career-framework-with-the-world&quot; target=&quot;_blank&quot; data-target-href=&quot;https://dropbox.tech/culture/sharing-our-engineering-career-framework-with-the-world&quot;&gt;here&lt;/a&gt;&lt;/span&gt;&lt;span class=&quot; author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95lz89zy6z71zz79zz84zz68zyz69zupz72zz79zcz69zz76zkz79zp1z66ztz67zxz71zz89zz86zz71z&quot;&gt;.&lt;/span&gt;&lt;/p&gt;\n&lt;/div&gt;\n&lt;h2&gt;Responsibilities&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Design and maintain distributed database systems providing low-latency, strongly consistent data access&lt;/li&gt;\n&lt;li&gt;Implement and optimize replication, consensus, and caching mechanisms to meet availability and performance goals&lt;/li&gt;\n&lt;li&gt;Operate production systems, including participating in the on-call rotation, ensuring high availability and data durability&lt;/li&gt;\n&lt;li&gt;Collaborate with infrastructure and product teams to assess current and future use cases and requirements, supporting the development of a mid- to long-term roadmap that reflects these needs&lt;/li&gt;\n&lt;li&gt;Contribute to system design reviews, postmortems, and reliability improvements&lt;/li&gt;\n&lt;li&gt;Write high-quality, efficient code in Go and Rust for performance-critical systems&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;span class=&quot;thread-348589118974529206372994 attrcomment attrcommentfirst thread-348589118974529206372994-first author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95lz89zy6z71zz79zz84zz68zyz69zupz72zz79zcz69zz76zkz79zp1z66ztz67zxz71zz89zz86zz71z&quot;&gt;On-call work may be necessary occasionally to help address bugs, outages, or other operational issues, with the goal of maintaining a stable and high-quality experience for our customers.&lt;/span&gt;&lt;/p&gt;\n&lt;h2&gt;Requirements&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;5+ years of professional software engineering experience, with strong expertise in distributed systems fundamentals including replication, consistency, partitioning, and fault tolerance&lt;/li&gt;\n&lt;li&gt;Experience building database platforms, distributed databases, storage systems, or large-scale database infrastructure&lt;/li&gt;\n&lt;li&gt;Proficiency in Go, Rust, C++ or similar systems languages&lt;/li&gt;\n&lt;li&gt;Familiarity with consensus and coordination systems &lt;span class=&quot; h-lparen&quot;&gt;(e.g.&lt;/span&gt; Raft, Paxos, ZooKeeper, etcd)&lt;/li&gt;\n&lt;li&gt;Experience operating production services and participating in on-call rotations&lt;/li&gt;\n&lt;li&gt;Strong debugging and performance analysis skills&lt;/li&gt;\n&lt;li&gt;Excellent collaboration and communication abilities across teams&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;Preferred Qualifications&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience building distributed databases or storage systems&lt;/li&gt;\n&lt;li&gt;Practical experience with and deep understanding of data structures used in storage systems &lt;span class=&quot; h-lparen&quot;&gt;(e.g.&lt;/span&gt; LSM trees, B-trees, Hash Indexes)&lt;/li&gt;\n&lt;li&gt;Experience operating database systems &lt;span class=&quot; h-lparen&quot;&gt;(e.g.&lt;/span&gt; MySQL, Postgres, Cassandra)&lt;/li&gt;\n&lt;li&gt;Experience with distributed caching, either custom built or operating open source options such as Memcached or Redis&lt;/li&gt;\n&lt;li&gt;Experience improving reliability and performance in high-scale data systems&lt;/li&gt;\n&lt;li&gt;Experience working with cross-functional teams to understand their current use cases, identify future needs and requirements, and incorporate them into the team’s roadmap.&lt;/li&gt;\n&lt;li&gt;Interest in deepening distributed systems expertise and expanding technical leadership&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2 data-usually-unique-id=&quot;044234883370604133046166&quot;&gt;&lt;span class=&quot; author-d-1gg9uz65z1iz85zgdz68zmqkz84zo2qowz81zqz90zkz74zz76zeez80zz68zz89zz88zvqz86zuxlz73zexxz80zz73z6d6z72zz79zsz77z&quot;&gt;Compensation&lt;/span&gt;&lt;/h2&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;title&quot;&gt;Poland Pay Range&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;272 000 zł&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;368 000 zł PLN&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 81552,
+      "name": "Cloud Platform (Sub Team)",
+      "child_ids": [],
+      "parent_id": 71459
+    }
+  ],
+  "offices": [
+    {
+      "id": 264578,
+      "name": "Mexico",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 43633
+    },
+    {
+      "id": 86219,
+      "name": "Poland",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 43643
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

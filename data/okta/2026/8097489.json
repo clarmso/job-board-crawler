@@ -1,0 +1,96 @@
+{
+  "absolute_url": "https://www.okta.com/company/careers/opportunity/8097489?gh_jid=8097489",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 3507955,
+  "location": {
+    "name": "Washington, DC"
+  },
+  "metadata": [
+    {
+      "id": 58735330,
+      "name": "Naukri Job URL",
+      "value": null,
+      "value_type": "long_text"
+    },
+    {
+      "id": 58735350,
+      "name": "Naukri Job Error",
+      "value": null,
+      "value_type": "long_text"
+    },
+    {
+      "id": 58735367,
+      "name": "Minimum Salary",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735368,
+      "name": "Maximum Salary",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735369,
+      "name": "Minimum Work Experience",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735370,
+      "name": "Maximum Work Experience",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735384,
+      "name": "City",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 58735385,
+      "name": "Job Description",
+      "value": null,
+      "value_type": "long_text"
+    }
+  ],
+  "id": 8097489,
+  "updated_at": "2026-09-11T11:24:18-04:00",
+  "requisition_id": "P24515_3507955",
+  "title": "Staff Site Reliability Engineer, Federal (TS/SCI)",
+  "company_name": "Okta",
+  "first_published": "2026-07-31T13:49:24-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Secure Every Identity, from AI to Human&lt;br&gt;&lt;br&gt;&lt;/strong&gt;Identity is the key to unlocking the potential of AI. Okta secures AI by building the trusted, neutral infrastructure that enables organizations to safely embrace this new era. This work requires a relentless drive to solve complex challenges with real-world stakes. We are looking for builders and owners who operate with speed and urgency and execute with excellence.&lt;br&gt;&lt;br&gt;This is an opportunity to do career-defining work. We&#39;re all in on this mission. If you are too, let&#39;s talk.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;SingleJob-content&quot;&gt;\n&lt;p&gt;&lt;strong&gt;The Federal SRE Team&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We are looking for an experienced Staff Site Reliability Engineer to join Okta&#39;s Federal SRE team for the Emerging Products Group (EPG). Our mission is to build highly reliable, scalable, and secure cloud services that our customers can trust. We embrace an automation-first mindset and continuously invest in platform engineering, observability, and operational excellence to enable our engineering teams to move quickly and safely.&lt;/p&gt;\n&lt;h4&gt;&lt;strong&gt;The Staff SRE, Classified Opportunity&lt;/strong&gt;&lt;/h4&gt;\n&lt;p&gt;This role is ideal for an engineer who enjoys solving complex technical challenges at scale, building automation, and improving the reliability of production systems. You will serve as a technical leader within the EPG SRE organization, partnering closely with software engineers, architects, and product teams to design, build, and operate world-class cloud services.&lt;/p&gt;\n&lt;p&gt;The ideal candidate exemplifies the philosophy of &quot;if you have to do it more than once, automate it&quot; and possesses a strong passion for continuous improvement, operational excellence, and software engineering.&lt;/p&gt;\n&lt;h4&gt;&lt;strong&gt;Security Clearance: Active U.S. TS/SCI clearance with Full Scope Poly&amp;nbsp;&lt;/strong&gt;&lt;strong&gt;Compliance Expertise: Proven experience navigating Federal and DoD compliance frameworks, specifically FedRAMP and Impact Level 6 (IL6)&lt;/strong&gt;&amp;nbsp;&lt;/h4&gt;\n&lt;h4&gt;&lt;strong&gt;What you’ll be doing:&amp;nbsp;&lt;/strong&gt;&lt;/h4&gt;\n&lt;h4&gt;&lt;strong&gt;Reliability &amp;amp; Operations&lt;/strong&gt;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Design, build, and operate large-scale cloud infrastructure and production services.&lt;/li&gt;\n&lt;li&gt;Participate in an on-call rotation supporting highly available customer-facing systems.&lt;/li&gt;\n&lt;li&gt;Lead incident response efforts and drive post-incident reviews focused on systemic improvements.&lt;/li&gt;\n&lt;li&gt;Define, measure, and improve Service Level Indicators (SLIs), Service Level Objectives (SLOs), and error budgets.&lt;/li&gt;\n&lt;li&gt;Partner with engineering teams to improve service availability, scalability, performance, and resilience.&lt;/li&gt;\n&lt;li&gt;Continuously improve observability through metrics, logging, tracing, dashboards, and alerting.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;&lt;strong&gt;Engineering &amp;amp; Automation&lt;/strong&gt;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Develop software, automation, and infrastructure using Go, Python, Terraform, and related technologies.&lt;/li&gt;\n&lt;li&gt;Eliminate operational toil through automation, tooling, and platform engineering.&lt;/li&gt;\n&lt;li&gt;Improve deployment safety and operational workflows through CI/CD and GitOps practices.&lt;/li&gt;\n&lt;li&gt;Collaborate on modernizing existing workloads and aligning them with evolving platform capabilities.&lt;/li&gt;\n&lt;li&gt;Build self-service platforms, operational guardrails, and automation that improve developer velocity while maintaining reliability and security.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;&lt;strong&gt;Technical Leadership&lt;/strong&gt;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Lead complex reliability initiatives spanning multiple engineering teams.&lt;/li&gt;\n&lt;li&gt;Guide engineers in adopting operational best practices and reliability engineering principles.&lt;/li&gt;\n&lt;li&gt;Mentor engineers through technical collaboration, design reviews, incident analysis, and knowledge sharing.&lt;/li&gt;\n&lt;li&gt;Influence architecture and operational decisions through data-driven recommendations and engineering expertise.&lt;/li&gt;\n&lt;li&gt;Drive projects from conception through production rollout and long-term operational ownership.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;&lt;strong&gt;Innovation&lt;/strong&gt;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Explore and apply AI-assisted engineering techniques to improve operational efficiency, incident response, troubleshooting, and automation.&lt;/li&gt;\n&lt;li&gt;Identify opportunities to leverage emerging technologies to reduce toil and improve engineering productivity.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;&lt;strong&gt;What you’ll bring to the role&lt;/strong&gt;&lt;/h4&gt;\n&lt;h4&gt;&lt;strong&gt;Technical Excellence&lt;/strong&gt;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Strong experience operating large-scale production services in AWS and/or GCP.&lt;/li&gt;\n&lt;li&gt;Deep expertise with Kubernetes in production environments.&lt;/li&gt;\n&lt;li&gt;Experience troubleshooting Kubernetes networking, storage, scheduling, scaling, and workload lifecycle issues.&lt;/li&gt;\n&lt;li&gt;Extensive experience with Infrastructure as Code technologies such as Terraform and Helm.&lt;/li&gt;\n&lt;li&gt;Strong software engineering skills in Golang and/or Python.&lt;/li&gt;\n&lt;li&gt;Experience building automation and internal engineering platforms.&lt;/li&gt;\n&lt;li&gt;Experience operating and troubleshooting distributed data platforms such as PostgreSQL, Redis, OpenSearch, MySQL, Cassandra, or similar technologies.&lt;/li&gt;\n&lt;li&gt;Strong understanding of cloud networking fundamentals including DNS, load balancing, ingress, TLS, service networking, and traffic management.&lt;/li&gt;\n&lt;li&gt;Experience with observability platforms, monitoring strategies, and production telemetry.&lt;/li&gt;\n&lt;li&gt;Experience with or strong interest in AI-assisted engineering and operational automation.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;&lt;strong&gt;Operational Excellence&lt;/strong&gt;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Strong expertise operating customer-facing production systems.&lt;/li&gt;\n&lt;li&gt;Experience leading incident response and driving operational improvements.&lt;/li&gt;\n&lt;li&gt;Deep understanding of reliability engineering concepts including SLIs, SLOs, error budgets, and capacity planning.&lt;/li&gt;\n&lt;li&gt;Strong understanding of CI/CD pipelines, deployment strategies, and automation-first operational practices.&lt;/li&gt;\n&lt;li&gt;Proven ability to balance reliability, scalability, security, and engineering velocity.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;&lt;strong&gt;Security &amp;amp; Compliance&lt;/strong&gt;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Understanding of cloud security fundamentals, IAM, secrets management, and secure infrastructure design.&lt;/li&gt;\n&lt;li&gt;Experience implementing operational controls and best practices in regulated or security-sensitive environments is a plus.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;&lt;strong&gt;Leadership&lt;/strong&gt;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Demonstrated success leading complex engineering initiatives across multiple teams.&lt;/li&gt;\n&lt;li&gt;Strong collaboration and communication skills.&lt;/li&gt;\n&lt;li&gt;Experience working effectively within globally distributed engineering organizations spanning multiple timezones and cultures.&lt;/li&gt;\n&lt;li&gt;Experience mentoring engineers and elevating technical capabilities within an organization.&lt;/li&gt;\n&lt;li&gt;Ability to influence technical direction through expertise, partnership, and execution.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;&lt;strong&gt;Preferred Qualifications&lt;/strong&gt;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience operating SaaS platforms serving large-scale customer workloads.&lt;/li&gt;\n&lt;li&gt;Experience working within Kubernetes-based microservices environments.&lt;/li&gt;\n&lt;li&gt;Experience supporting globally distributed production environments.&lt;/li&gt;\n&lt;li&gt;Experience with GitOps and ArgoCD.&lt;/li&gt;\n&lt;li&gt;Experience implementing AI-assisted operational tooling or automation workflows.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Additional requirements:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;U.S. soil status - the employee must be on U.S. soil, which means the 50 states, the District of Columbia, or outlying areas of the United States, as defined in Federal Acquisition Regulation (FAR) 2.101&lt;/li&gt;\n&lt;li&gt;U.S. Security Clearance status - the employee must be able to obtain and maintain a U.S. security clearance (Secret or Top Secret) to the extent required by U.S. Government contracts.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;#LI-hybird&lt;/p&gt;\n&lt;p&gt;#LI-BB1&lt;/p&gt;\n&lt;p&gt;(P24515_3507955)&lt;/p&gt;\n&lt;/div&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Below is the annual base salary range for candidates located in California (excluding San Francisco Bay Area), Colorado, Illinois, New York and Washington. Your actual base salary will depend on factors such as your skills, qualifications, experience, and work location. In addition, Okta offers equity (where applicable), bonus, and benefits, including health, dental and vision insurance, 401(k), flexible spending account, and paid leave (including PTO and parental leave) in accordance with our applicable plans and policies. To learn more about our Total Rewards program please visit:&lt;a href=&quot;https://rewards.okta.com/us&quot;&gt; https://rewards.okta.com/us&lt;/a&gt;.&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;The annual base salary range for this position for candidates located in California (excluding San Francisco Bay Area), Colorado, Illinois, New York, and Washington is between:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$174,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$238,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;The Okta Experience&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;a href=&quot;http://rewards.okta.com&quot;&gt;Supporting Your Well-Being&lt;/a&gt;&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;&lt;a href=&quot;https://www.okta.com/company/okta-for-good/&quot;&gt;Driving Social Impact&amp;nbsp;&lt;/a&gt;&lt;/li&gt;\n&lt;li&gt;&lt;a href=&quot;https://www.okta.com/company/talent-connection-community/&quot;&gt;Developing Talent and Fostering Connection + Community&lt;/a&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;We are intentional about connection. Our global community, spanning over 20 offices worldwide, is united by a drive to innovate. Your journey begins with an immersive, in-person onboarding experience designed to accelerate your impact and connect you to our mission and team from day one.&lt;br&gt;&lt;br&gt;Okta is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, marital status, age, physical or mental disability, or status as a protected veteran. We also consider for employment qualified applicants with arrest and convictions records, consistent with applicable laws.&lt;br&gt;&lt;br&gt;If reasonable accommodation is needed to complete any part of the job application, interview process, or onboarding please&amp;nbsp;&lt;a href=&quot;https://docs.google.com/forms/d/1EfiEYZrIyhA2X4Fijk0R3RKYOzNoS3wtvyM4nhbZnXE/edit&quot;&gt;use this Form&lt;/a&gt; to request an accommodation.&lt;br&gt;&lt;br&gt;Notice for New York City Applicants &amp;amp; Employees: Okta may use Automated Employment Decision Tools (AEDT), as defined by New York City Local Law 144, that use artificial intelligence, machine learning, or other automated processes to assist in our recruitment and hiring process. In accordance with NYC Local Law 144, if you are an applicant or employee residing in New York City, please&amp;nbsp;&lt;a href=&quot;https://talent.okta.com/new-york-city-aedt-notice.html&quot;&gt;click here&lt;/a&gt; to view our full NYC AEDT Notice.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 44027,
+      "name": "SW Eng - Infrastructure-672",
+      "child_ids": [],
+      "parent_id": 396304
+    }
+  ],
+  "offices": [
+    {
+      "id": 22604,
+      "name": "Washington DC",
+      "location": "Washington, District of Columbia, United States",
+      "child_ids": [],
+      "parent_id": 67252
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

@@ -1,0 +1,86 @@
+{
+  "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=8138661&gh_jid=8138661",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 3516803,
+  "location": {
+    "name": "Canada"
+  },
+  "metadata": [
+    {
+      "id": 32131013,
+      "name": "Requisition open date",
+      "value": "2026-08-10",
+      "value_type": "date"
+    },
+    {
+      "id": 168141,
+      "name": "Target Remote Countries / States Locations [For Job Wrapping]",
+      "value": [],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 33574685,
+      "name": "Types of Hiring",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 20164553,
+      "name": "FADV_Account",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 20164588,
+      "name": "FADV_Package",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 30595384,
+      "name": "Seniority",
+      "value": "Mid-Senior Level",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8138661,
+  "updated_at": "2026-09-10T20:07:01-04:00",
+  "requisition_id": "R12159",
+  "title": "Principal Software Developer - Performance Tuning - Elasticsearch",
+  "company_name": "Elastic",
+  "first_published": "2026-08-18T06:19:46-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Elastic, the Search AI Company, enables everyone to find the answers they need in real time, using all their data, at scale — unleashing the potential of businesses and people. The Elastic Search AI Platform, used by more than 50% of the Fortune 500, brings together the precision of search and the intelligence of AI to enable everyone to accelerate the results that matter. By taking advantage of all structured and unstructured data — securing and protecting private information more effectively — Elastic’s complete, cloud-based solutions for search, security, and observability help organizations deliver on the promise of AI.&lt;/p&gt;&lt;/div&gt;&lt;h3&gt;&lt;strong&gt;What is The Role&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Elasticsearch powers search, observability, and AI retrieval (RAG) for the world&#39;s largest organizations. We are seeking a Principal Software Engineer to join the Elasticsearch Performance team. In this role, you will lead architectural and code-level performance engineering initiatives. Your goal is to drive the continuous optimization and predictability of Elasticsearch performance, partnering with area-specific teams to unlock the full potential of our software.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;What You Will Be Doing&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Owning core performance engineering initiatives from architecture to production, focusing on the delivery of high-impact optimizations. Leading the technical design, plan, and execution for major architectural and code-level performance improvements.&lt;/li&gt;\n&lt;li&gt;Developing foundational performance models and methodologies for complex, distributed systems.&lt;/li&gt;\n&lt;li&gt;Driving optimization strategies to ensure Elasticsearch remains performant, predictable, and scalable in diverse environments.&lt;/li&gt;\n&lt;li&gt;Profiling and analyzing system behavior to identify bottlenecks in logging, metrics, vector search, and ES|QL.&lt;/li&gt;\n&lt;li&gt;Ensuring robust performance benchmarks and regression detection for both stateful and stateless (Serverless) architectures.&lt;/li&gt;\n&lt;li&gt;Collaborating across the company to embed performance-first thinking into new features from the outset.&lt;/li&gt;\n&lt;li&gt;Drive automation efforts by designing and building AI-assisted optimization harnesses that streamline profiling, hypothesis testing, and benchmarking.&lt;/li&gt;\n&lt;li&gt;Mentoring and coaching other engineers, fostering a culture of technical excellence and performance-aware development.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;What You Bring&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;You have deep knowledge of Java internals and JVM memory management. You understand how concurrency models work. You can write code that is high-performance, thread-safe, and lock-free. This experience includes working with large open-source and enterprise codebases.&lt;/li&gt;\n&lt;li&gt;You have proven experience in profiling and optimizing distributed systems. This includes deep experience with benchmarking tools (e.g.,flamegraphs, JMH, Rally), identifying performance regressions, and implementing algorithmic or hardware-aware optimizations.&lt;/li&gt;\n&lt;li&gt;You have a solid comprehension of distributed systems architecture, including partition tolerance, cluster state propagation, and scaling challenges in large-scale data stores.&lt;/li&gt;\n&lt;li&gt;You have a proven track record of using AI or advanced tooling to accelerate optimization, debug complex performance issues, and automate benchmarking workflows.&lt;/li&gt;\n&lt;li&gt;You possess the ability to collaborate across functions and teams, acting as a force multiplier for performance engineering across the organization.&lt;/li&gt;\n&lt;li&gt;You possess the ability to collaborate across functions and teams and seamlessly transition between different projects, codebases, or teams based on business priorities&lt;/li&gt;\n&lt;li&gt;You can work autonomously, drive decisions and result in a distributed team by leveraging asynchronous, direct, and transparent communication.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Bonus Points&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience integrating high-performance native libraries (e.g., C++, Rust, SIMD-accelerated code) into Java applications.&lt;/li&gt;\n&lt;li&gt;Deep knowledge of modern storage engine performance, index modes, or vector search optimizations.&lt;/li&gt;\n&lt;li&gt;Experience defining and managing Performance SLAs and success criteria for distributed systems.&lt;/li&gt;\n&lt;li&gt;Experience working on the internals of a large-scale data store or search engine.&lt;/li&gt;\n&lt;li&gt;Experience working on the internals of a data store or search engine.&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Compensation for this role is in the form of base salary.&amp;nbsp; This role does not have a variable compensation component.&amp;nbsp; The typical starting salary range for new hires in this role is listed below.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;These ranges represent the lowest to highest salary we reasonably and in good faith believe we would pay for this role at the time of this posting.&amp;nbsp; We may ultimately pay more or less than the posted range, and the ranges may be modified in the future.&amp;nbsp;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;An employee&#39;s position within the salary range will be based on several factors including, but not limited to, relevant education, qualifications, certifications, experience, skills, geographic location, performance, and business or organizational needs.&lt;/p&gt;\n&lt;p&gt;Elastic believes that employees should have the opportunity to share in the value that we create together for our shareholders. Therefore, in addition to cash compensation, this role is currently eligible to participate in Elastic&#39;s stock program.&amp;nbsp; Our total rewards package also includes a company-matched Registered Retirement Savings Plan (RRSP) with dollar-for-dollar matching up to 6% of eligible earnings, along with a range of other benefits offered with a holistic emphasis on employee well-being.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;The typical starting salary range for this role is:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$154,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$243,600 CAD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;Additional Information - We Take Care of Our People&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;As a distributed company, diversity drives our identity. Whether you’re looking to launch a new career or grow an existing one, Elastic is the type of company where you can balance great work with great life. Your age is only a number. It doesn’t matter if you’re just out of college or your children are; we need you for what you can do.&lt;/p&gt;\n&lt;p&gt;We strive to have parity of benefits across regions and while regulations differ from place to place, we believe taking care of our people is the right thing to do.&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Competitive pay based on the work you do here and not your previous salary&lt;/li&gt;\n&lt;li&gt;Health coverage for you and your family in many locations&lt;/li&gt;\n&lt;li&gt;Ability to craft your calendar with flexible locations and schedules for many roles&lt;/li&gt;\n&lt;li&gt;Generous number of vacation days each year&lt;/li&gt;\n&lt;li&gt;Increase your impact - We match up to $2000 (or local currency equivalent) for financial donations and service&lt;/li&gt;\n&lt;li&gt;Up to 40 hours each year to use toward volunteer projects you love&lt;/li&gt;\n&lt;li&gt;Embracing parenthood with minimum of 16 weeks of parental leave&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Different people approach problems differently. We need that. Elastic is an equal opportunity employer and is committed to creating an inclusive culture that celebrates different perspectives, experiences, and backgrounds. Qualified applicants will receive consideration for employment without regard to race, ethnicity, color, religion, sex, pregnancy, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, disability status, or any other basis protected by federal, state or local law, ordinance or regulation.&lt;/p&gt;\n&lt;p&gt;We welcome individuals with disabilities and strive to create an accessible and inclusive experience for all individuals. To request an accommodation during the application or the recruiting process, please email &lt;a href=&quot;mailto:candidate_accessibility@elastic.co&quot; target=&quot;_blank&quot;&gt;candidate_accessibility@elastic.co&lt;/a&gt;&lt;span class=&quot;gmail_default&quot;&gt;.&lt;/span&gt;&amp;nbsp;We will reply to your request within 24 business hours of submission.&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Applicants have rights under Federal Employment Laws, view posters linked below:&lt;/span&gt; &lt;a href=&quot;https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/fmlaen.pdf&quot; target=&quot;_blank&quot;&gt;Family and Medical Leave Act (FMLA)&lt;/a&gt; &lt;span style=&quot;color: #000000;&quot;&gt;Poster;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&amp;nbsp;&lt;a href=&quot;https://www.dol.gov/sites/dolgov/files/ofccp/pdf/pay-transp_%20English_formattedESQA508c.pdf&quot; target=&quot;_blank&quot;&gt;Pay Transparency Nondiscrimination Provision&lt;/a&gt; Poster; &lt;/span&gt;&lt;a href=&quot;https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/eppabw.pdf&quot; target=&quot;_blank&quot;&gt;Employee Polygraph Protection Act (EPPA)&lt;/a&gt; &lt;span style=&quot;color: #000000;&quot;&gt;Poster and &lt;a href=&quot;https://www.dol.gov/sites/dolgov/files/OFCCP/regs/compliance/posters/pdf/22-088_EEOC_KnowYourRights.pdf&quot; target=&quot;_blank&quot;&gt;Know Your Rights&lt;/a&gt; (Poster)&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Elasticsearch develops and distributes technology and information that is subject to U.S. and other countries’ export controls and licensing requirements for individuals who are located in or are nationals of the following sanctioned countries and regions: Belarus, Cuba, Iran, North Korea, Syria, or Russia, including the Ukrainian territories annexed by Russia (The Crimea region of Ukraine, The Donetsk People&#39;s Republic (DNR), The Luhansk People&#39;s Republic (LNR), Kherson or Zaporizhzhia). If you are located in or are a national of one of the listed countries or regions, an export license may be required as a condition of your employment in this role. Please note that national origin and/or nationality do not affect eligibility for employment with Elastic.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;Please see&amp;nbsp;&lt;a href=&quot;https://www.elastic.co/legal/applicant-privacy-statement&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://www.elastic.co/legal/applicant-privacy-statement&amp;amp;source=gmail&amp;amp;ust=1611068262479000&amp;amp;usg=AFQjCNG3orAPk5sJIr9WVm0ZDxYw82c5DA&quot;&gt;here&lt;/a&gt;&amp;nbsp;for our Privacy Statement.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 53798,
+      "name": "Platform - Elasticsearch",
+      "child_ids": [],
+      "parent_id": 83407
+    }
+  ],
+  "offices": [
+    {
+      "id": 79985,
+      "name": "Canada",
+      "location": null,
+      "child_ids": [
+        57134
+      ],
+      "parent_id": 79984
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

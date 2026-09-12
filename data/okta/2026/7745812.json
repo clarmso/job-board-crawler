@@ -1,0 +1,96 @@
+{
+  "absolute_url": "https://www.okta.com/company/careers/opportunity/7745812?gh_jid=7745812",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 3396786,
+  "location": {
+    "name": "San Francisco, California"
+  },
+  "metadata": [
+    {
+      "id": 58735330,
+      "name": "Naukri Job URL",
+      "value": null,
+      "value_type": "long_text"
+    },
+    {
+      "id": 58735350,
+      "name": "Naukri Job Error",
+      "value": null,
+      "value_type": "long_text"
+    },
+    {
+      "id": 58735367,
+      "name": "Minimum Salary",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735368,
+      "name": "Maximum Salary",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735369,
+      "name": "Minimum Work Experience",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735370,
+      "name": "Maximum Work Experience",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735384,
+      "name": "City",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 58735385,
+      "name": "Job Description",
+      "value": null,
+      "value_type": "long_text"
+    }
+  ],
+  "id": 7745812,
+  "updated_at": "2026-09-11T11:24:18-04:00",
+  "requisition_id": "P24485_3396786",
+  "title": "Staff Software Engineer, Resiliency (Federal)",
+  "company_name": "Okta",
+  "first_published": "2026-06-30T11:54:30-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Secure Every Identity, from AI to Human&lt;br&gt;&lt;br&gt;&lt;/strong&gt;Identity is the key to unlocking the potential of AI. Okta secures AI by building the trusted, neutral infrastructure that enables organizations to safely embrace this new era. This work requires a relentless drive to solve complex challenges with real-world stakes. We are looking for builders and owners who operate with speed and urgency and execute with excellence.&lt;br&gt;&lt;br&gt;This is an opportunity to do career-defining work. We&#39;re all in on this mission. If you are too, let&#39;s talk.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Okta is The World’s Identity Company.&lt;/strong&gt; We free everyone to safely use any technology - anywhere, on any device or app. Our Identity as a Service solution enables secure yet flexible access, authentication, and automation that transforms how people move through the digital world, putting Identity at the heart of business security and growth.&lt;/p&gt;\n&lt;p&gt;At Okta, we celebrate a variety of perspectives and experiences. We are not looking for someone who checks every single box - we’re looking for lifelong learners and people who can make us better with their unique experiences.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;The Engineering Opportunity&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Okta&#39;s Workforce Identity Cloud (WIC) secures billions of global logins every day. The &lt;strong&gt;Resilience Team&lt;/strong&gt; within WIC maximizes service availability by building foundational, high-scale systems. Our engineers solve complex distributed-systems challenges - from database proxies to traffic shaping - to ensure the platform remains trustworthy and reliable for every customer.&lt;/p&gt;\n&lt;p&gt;We are seeking a &lt;strong&gt;Staff Back-End Software Engineer&lt;/strong&gt; to lead technical initiatives and own the reliability of our expanding Identity as a Service platform.&lt;/p&gt;\n&lt;p&gt;In this role, you will develop microservices, build innovative frameworks, and optimize our cloud-native environment. You will champion reliability during design phases and collaborate across teams to address technical gaps.&lt;/p&gt;\n&lt;p&gt;We value iterative development, automated testing, and individual ownership. Join our creative, fast-paced team to work on impactful projects that are redefining the cloud computing landscape.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;Job Duties and Responsibilities&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Partner with engineering teams to design, develop, and deliver cloud-based infrastructure projects that solve complex reliability issues and help Okta’s service scale.&lt;/li&gt;\n&lt;li&gt;Design and implement robust backend frameworks, tools, microservices, and library components for the entire engineering organization to use at scale.&lt;/li&gt;\n&lt;li&gt;Champion innovative, scalable, and resilient solutions across the engineering organization, advising other teams on fault-tolerant system design.&lt;/li&gt;\n&lt;li&gt;Actively explore and integrate modern AI-driven developer tooling, automated diagnostics, and predictive monitoring capabilities to streamline performance testing, accelerate debugging, and optimize service reliability.&lt;/li&gt;\n&lt;li&gt;Conduct rigorous design and code reviews. Raise the engineering bar by implementing high-quality unit and functional tests to ensure robust programming standards.&lt;/li&gt;\n&lt;li&gt;Participate in and lead incident Root Cause Analysis (RCA) processes to continuously improve reliability, identify systemic weaknesses, and build long-term mitigation strategies.&lt;/li&gt;\n&lt;li&gt;Collaborate closely with Architects, QA, Product Owners, Engineering Services, and Tech Ops to deliver highly secure and dependable software.&lt;/li&gt;\n&lt;li&gt;Help with mentoring new engineering hires and interns.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;Minimum Required Knowledge, Skills, and Abilities&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;8+ years of experience as a software developer with deep, expert-level knowledge of Java (Golang experience is a strong plus).&lt;/li&gt;\n&lt;li&gt;Demonstrated history of architecting, implementing, tuning, and debugging global cloud software. Deep understanding of microservices, cloud infrastructure (AWS preferred, Azure, or GCP), and modern container ecosystems (Docker, Kubernetes).&lt;/li&gt;\n&lt;li&gt;Proven track record of addressing scaling, redundancy, and performance bottlenecks in high-availability, multi-tenant SaaS environments.&lt;/li&gt;\n&lt;li&gt;Practical experience or strong interest in leveraging generative AI utilities and developer assistance tools (e.g., AI coding assistants, automated code-generation, intelligent log analytics, or predictive profiling tools) to drive development productivity and system optimization.&lt;/li&gt;\n&lt;li&gt;Outstanding communication and leadership skills with a proven ability to coordinate high-impact technical projects, manage stakeholder alignment, and influence technical direction.&lt;/li&gt;\n&lt;li&gt;Previous experience in a dedicated platform reliability, resilience, or core infrastructure role is highly valued.\n&lt;p&gt;&lt;span data-markdown-start-index=&quot;1627&quot;&gt;***The employee must be either a U.S. citizen as defined in 42 U.S. Code § 9102; a natural person who is a lawful permanent resident as defined in 8 U.S.C. &lt;/span&gt;&lt;span data-markdown-start-index=&quot;1813&quot;&gt;1101(a)(20) or who is a protected individual &lt;span data-markdown-start-index=&quot;100&quot;&gt;as defined by 8 U.S.C. 1324b(a)(3); or a U.S. national (i.e. includes citizens and non-citizens born in outlying possessions such as American Samoa and Swains Island), green card holders, refugees, and asylees.&amp;nbsp;&lt;/span&gt;&lt;strong&gt;&lt;span data-markdown-start-index=&quot;541&quot;&gt;Working on a U.S. visa does NOT qualify as a U.S. person.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;Education and Training&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;B.S. or M.S. in Computer Science, a related field, or equivalent industry experience.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;#LI-Hybrid&lt;br&gt;#LI-MA1&lt;/p&gt;\n&lt;p&gt;&lt;small&gt;(P24485_3396786)&lt;/small&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Below is the annual base salary range for candidates located in San Francisco Bay Area. Your actual base salary will depend on factors such as your skills, qualifications, experience, and work location. In addition, Okta offers equity (where applicable), bonus, and benefits, including health, dental and vision insurance, 401(k), flexible spending account, and paid leave (including PTO and parental leave) in accordance with our applicable plans and policies. To learn more about our Total Rewards program please visit:&lt;a href=&quot;https://rewards.okta.com/us&quot;&gt; https://rewards.okta.com/us&lt;/a&gt;.&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt; The annual base salary range for this position for candidates located in the San Francisco Bay area is between: &lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$194,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$243,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;The Okta Experience&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;a href=&quot;http://rewards.okta.com&quot;&gt;Supporting Your Well-Being&lt;/a&gt;&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;&lt;a href=&quot;https://www.okta.com/company/okta-for-good/&quot;&gt;Driving Social Impact&amp;nbsp;&lt;/a&gt;&lt;/li&gt;\n&lt;li&gt;&lt;a href=&quot;https://www.okta.com/company/talent-connection-community/&quot;&gt;Developing Talent and Fostering Connection + Community&lt;/a&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;We are intentional about connection. Our global community, spanning over 20 offices worldwide, is united by a drive to innovate. Your journey begins with an immersive, in-person onboarding experience designed to accelerate your impact and connect you to our mission and team from day one.&lt;br&gt;&lt;br&gt;Okta is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, marital status, age, physical or mental disability, or status as a protected veteran. We also consider for employment qualified applicants with arrest and convictions records, consistent with applicable laws.&lt;br&gt;&lt;br&gt;If reasonable accommodation is needed to complete any part of the job application, interview process, or onboarding please&amp;nbsp;&lt;a href=&quot;https://docs.google.com/forms/d/1EfiEYZrIyhA2X4Fijk0R3RKYOzNoS3wtvyM4nhbZnXE/edit&quot;&gt;use this Form&lt;/a&gt; to request an accommodation.&lt;br&gt;&lt;br&gt;Notice for New York City Applicants &amp;amp; Employees: Okta may use Automated Employment Decision Tools (AEDT), as defined by New York City Local Law 144, that use artificial intelligence, machine learning, or other automated processes to assist in our recruitment and hiring process. In accordance with NYC Local Law 144, if you are an applicant or employee residing in New York City, please&amp;nbsp;&lt;a href=&quot;https://talent.okta.com/new-york-city-aedt-notice.html&quot;&gt;click here&lt;/a&gt; to view our full NYC AEDT Notice.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 44027,
+      "name": "SW Eng - Infrastructure-672",
+      "child_ids": [],
+      "parent_id": 396304
+    }
+  ],
+  "offices": [
+    {
+      "id": 19611,
+      "name": "San Francisco",
+      "location": "San Francisco, CA, United States",
+      "child_ids": [],
+      "parent_id": 67252
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

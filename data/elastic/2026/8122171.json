@@ -1,0 +1,97 @@
+{
+  "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=8122171&gh_jid=8122171",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "education": "education_optional",
+  "internal_job_id": 3510411,
+  "location": {
+    "name": "Spain"
+  },
+  "metadata": [
+    {
+      "id": 32131013,
+      "name": "Requisition open date",
+      "value": "2026-08-03",
+      "value_type": "date"
+    },
+    {
+      "id": 168141,
+      "name": "Target Remote Countries / States Locations [For Job Wrapping]",
+      "value": [],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 33574685,
+      "name": "Types of Hiring",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 20164553,
+      "name": "FADV_Account",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 20164588,
+      "name": "FADV_Package",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 30595384,
+      "name": "Seniority",
+      "value": "Mid-Senior Level",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8122171,
+  "updated_at": "2026-09-10T20:07:01-04:00",
+  "requisition_id": "R12121",
+  "title": "Principal Product Manager - Identity Threat Detection & Response",
+  "company_name": "Elastic",
+  "first_published": "2026-08-11T13:38:48-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Elastic, the Search AI Company, enables everyone to find the answers they need in real time, using all their data, at scale — unleashing the potential of businesses and people. The Elastic Search AI Platform, used by more than 50% of the Fortune 500, brings together the precision of search and the intelligence of AI to enable everyone to accelerate the results that matter. By taking advantage of all structured and unstructured data — securing and protecting private information more effectively — Elastic’s complete, cloud-based solutions for search, security, and observability help organizations deliver on the promise of AI.&lt;/p&gt;&lt;/div&gt;&lt;h3&gt;&lt;strong&gt;What is The Role&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;We’re looking for a Principal Product Manager to guide the vision, strategy, and execution for Identity Threat Detection and Response (ITDR) within Elastic Security. Attackers not only break in - they log in. Identity is now a major target for attacks. These attacks can happen in on-premises setups, cloud environments, or with self-directed agents. Detecting and responding to identity-based attacks is essential for any modern Security Operations Center (SOC).&lt;/p&gt;\n&lt;p&gt;In this high-impact role, you will define how Elastic detects, investigates, and responds to identity-based threats, building on our Entity Analytics and Entity Store foundation to deliver a credible, differentiated ITDR function. You will also own the roadmap for securing non-human and AI agent identities within Elastic Security, one of the fastest-growing and least-governed attack surfaces in the enterprise. You will work at the intersection of identity, detection engineering, and AI, partnering with threat researchers, data scientists, and engineers, and evangelizing our approach to a global community of security practitioners.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;What You Will Be Doing&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Define and own the vision, strategy, and roadmap for a credible ITDR function within Elastic Security, evolving our Entity Analytics and Entity Store foundation from behavioral analytics into an identity-defense outcome.&lt;/li&gt;\n&lt;li&gt;Manage the plan for non-human and AI agent identities in Elastic Security. This involves modeling service accounts, workloads, secrets, and self-directed agents as important identities. Each identity will have its own behavior standards, ownership, and lifecycle. You will also establish how to detect identities that operate continuously and at machine scale.&lt;/li&gt;\n&lt;li&gt;Work with threat research and detection engineering. Focus on identity-specific threats. These threats include credential access, privilege escalation, and identity-based lateral movement. They also involve the abuse of identity providers and tokens. Ensure that these threats relate to real-world adversary tactics.&lt;/li&gt;\n&lt;li&gt;Drive the response and containment strategy. This is the &#39;R&#39; in ITDR. Turn detections into action. Use identity-system integrations and automated responses. Make sure there is human oversight for important actions.&lt;/li&gt;\n&lt;li&gt;Work closely with our enterprise customers. Collaborate with security operations teams, sales, and solution architects. Your goal is to understand the requirements for identity attacks. You will also discuss priorities and clarify product needs.&lt;/li&gt;\n&lt;li&gt;Work with the design team to develop investigation and response experiences. These experiences will emphasize identity in the analyst workflow. Integrate identity signals with endpoint, cloud, and network data in the SIEM and XDR functions of our security operations platform.&lt;/li&gt;\n&lt;li&gt;Gain deep knowledge of the identity-security market. Know its major trends and the changing threat landscape. Use this information to develop a unique strategy and engage with analysts.&lt;/li&gt;\n&lt;li&gt;Be the product expert and evangelize Elastic&#39;s identity capabilities through content such as blog posts, talks, and open community interaction.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;What You Bring&amp;nbsp;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Extensive Experience:&lt;/strong&gt; 10+ years of experience in product management or solution delivery for security products such as SIEM, XDR, EDR, identity security, or detection and response. A consistent record of leading sophisticated, data-intensive products from inception through launch and iterative growth.&lt;/li&gt;\n&lt;li&gt;Identity Security Depth: A solid knowledge of identity-based attack techniques and the identity fabric. This includes Active Directory, cloud identity providers, SSO, OAuth, and privileged access. It also involves knowing how identity threats can occur in both on-premises and cloud environments. Knowledge of ITDR as a discipline and with entity behavioral analytics (UEBA).&lt;/li&gt;\n&lt;li&gt;You need to be fluent in non-human identities. This includes service accounts, workloads, secrets, and AI agents. You should also understand why traditional human-identity rules don&#39;t apply to identities that act independently and continuously.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;AI and ML Fluency:&lt;/strong&gt; Deep technical comprehension of the AI/ML landscape, including behavioral analytics, anomaly detection, LLMs, and agentic systems. You are comfortable working closely with data scientists and engineers, and you treat AI agents both as a subject to be secured and as a tool that consumes identity context.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Bias to action:&lt;/strong&gt; You are able to advance fast and quickly learn from experiments and tests. You utilize AI tools to help accelerate your processes and bring clarity to your decisions.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Management and Influence:&lt;/strong&gt; Demonstrated ability to lead across a matrixed organization, align multiple stakeholders toward a common vision, and drive execution in a dynamic, remote-first environment. You operate with the autonomy and judgment expected of a principal-level product leader.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Communication Excellence: &lt;/strong&gt;Outstanding spoken and written communication skills and practices. You can distill complex detection engineering and identity concepts into compelling narratives for both technical and non-technical audiences, including executive leadership.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Customer Obsession: &lt;/strong&gt;An interest for industry trends and a commitment to solving real-world customer problems. You are an advocate for the security analyst and detection engineer, and you are focused on building products that help defenders stay ahead of identity-based threats.&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Compensation for this role is in the form of base salary.&amp;nbsp; This role does not have a variable compensation component.&amp;nbsp;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;At Elastic, our compensation philosophy aims to provide fair, competitive and transparent remuneration. Salary ranges are established based on a combination of external market benchmarks, internal pay equity considerations, and the responsibilities and complexity associated with each role. This approach helps ensure consistency across comparable roles while remaining competitive within the relevant labour markets.&lt;/p&gt;\n&lt;p&gt;The final compensation offered within the applicable range will be determined based on several objective factors, including relevant professional experience, level of skills and expertise, alignment with the role requirements, and the overall scope and complexity of the position.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;The typical starting salary range for this role is:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;€80.400&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;€127.200 EUR&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;Additional Information - We Take Care of Our People&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;As a distributed company, diversity drives our identity. Whether you’re looking to launch a new career or grow an existing one, Elastic is the type of company where you can balance great work with great life. Your age is only a number. It doesn’t matter if you’re just out of college or your children are; we need you for what you can do.&lt;/p&gt;\n&lt;p&gt;We strive to have parity of benefits across regions and while regulations differ from place to place, we believe taking care of our people is the right thing to do.&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Competitive pay based on the work you do here and not your previous salary&lt;/li&gt;\n&lt;li&gt;Health coverage for you and your family in many locations&lt;/li&gt;\n&lt;li&gt;Ability to craft your calendar with flexible locations and schedules for many roles&lt;/li&gt;\n&lt;li&gt;Generous number of vacation days each year&lt;/li&gt;\n&lt;li&gt;Increase your impact - We match up to $2000 (or local currency equivalent) for financial donations and service&lt;/li&gt;\n&lt;li&gt;Up to 40 hours each year to use toward volunteer projects you love&lt;/li&gt;\n&lt;li&gt;Embracing parenthood with minimum of 16 weeks of parental leave&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Different people approach problems differently. We need that. Elastic is an equal opportunity employer and is committed to creating an inclusive culture that celebrates different perspectives, experiences, and backgrounds. Qualified applicants will receive consideration for employment without regard to race, ethnicity, color, religion, sex, pregnancy, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, disability status, or any other basis protected by federal, state or local law, ordinance or regulation.&lt;/p&gt;\n&lt;p&gt;We welcome individuals with disabilities and strive to create an accessible and inclusive experience for all individuals. To request an accommodation during the application or the recruiting process, please email &lt;a href=&quot;mailto:candidate_accessibility@elastic.co&quot; target=&quot;_blank&quot;&gt;candidate_accessibility@elastic.co&lt;/a&gt;&lt;span class=&quot;gmail_default&quot;&gt;.&lt;/span&gt;&amp;nbsp;We will reply to your request within 24 business hours of submission.&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Applicants have rights under Federal Employment Laws, view posters linked below:&lt;/span&gt; &lt;a href=&quot;https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/fmlaen.pdf&quot; target=&quot;_blank&quot;&gt;Family and Medical Leave Act (FMLA)&lt;/a&gt; &lt;span style=&quot;color: #000000;&quot;&gt;Poster;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&amp;nbsp;&lt;a href=&quot;https://www.dol.gov/sites/dolgov/files/ofccp/pdf/pay-transp_%20English_formattedESQA508c.pdf&quot; target=&quot;_blank&quot;&gt;Pay Transparency Nondiscrimination Provision&lt;/a&gt; Poster; &lt;/span&gt;&lt;a href=&quot;https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/eppabw.pdf&quot; target=&quot;_blank&quot;&gt;Employee Polygraph Protection Act (EPPA)&lt;/a&gt; &lt;span style=&quot;color: #000000;&quot;&gt;Poster and &lt;a href=&quot;https://www.dol.gov/sites/dolgov/files/OFCCP/regs/compliance/posters/pdf/22-088_EEOC_KnowYourRights.pdf&quot; target=&quot;_blank&quot;&gt;Know Your Rights&lt;/a&gt; (Poster)&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Elasticsearch develops and distributes technology and information that is subject to U.S. and other countries’ export controls and licensing requirements for individuals who are located in or are nationals of the following sanctioned countries and regions: Belarus, Cuba, Iran, North Korea, Syria, or Russia, including the Ukrainian territories annexed by Russia (The Crimea region of Ukraine, The Donetsk People&#39;s Republic (DNR), The Luhansk People&#39;s Republic (LNR), Kherson or Zaporizhzhia). If you are located in or are a national of one of the listed countries or regions, an export license may be required as a condition of your employment in this role. Please note that national origin and/or nationality do not affect eligibility for employment with Elastic.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;Please see&amp;nbsp;&lt;a href=&quot;https://www.elastic.co/legal/applicant-privacy-statement&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://www.elastic.co/legal/applicant-privacy-statement&amp;amp;source=gmail&amp;amp;ust=1611068262479000&amp;amp;usg=AFQjCNG3orAPk5sJIr9WVm0ZDxYw82c5DA&quot;&gt;here&lt;/a&gt;&amp;nbsp;for our Privacy Statement.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 76334,
+      "name": "Security - Cross Team",
+      "child_ids": [],
+      "parent_id": 69101
+    }
+  ],
+  "offices": [
+    {
+      "id": 73204,
+      "name": "United States",
+      "location": null,
+      "child_ids": [
+        51927,
+        69277,
+        85933,
+        87403,
+        20729,
+        20746,
+        20743,
+        44935,
+        44931,
+        44937,
+        44936
+      ],
+      "parent_id": 79984
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

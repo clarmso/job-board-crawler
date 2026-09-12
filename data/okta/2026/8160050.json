@@ -1,0 +1,107 @@
+{
+  "absolute_url": "https://www.okta.com/company/careers/opportunity/8160050?gh_jid=8160050",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 3531674,
+  "location": {
+    "name": "Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Washington, DC"
+  },
+  "metadata": [
+    {
+      "id": 58735330,
+      "name": "Naukri Job URL",
+      "value": null,
+      "value_type": "long_text"
+    },
+    {
+      "id": 58735350,
+      "name": "Naukri Job Error",
+      "value": null,
+      "value_type": "long_text"
+    },
+    {
+      "id": 58735367,
+      "name": "Minimum Salary",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735368,
+      "name": "Maximum Salary",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735369,
+      "name": "Minimum Work Experience",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735370,
+      "name": "Maximum Work Experience",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735384,
+      "name": "City",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 58735385,
+      "name": "Job Description",
+      "value": null,
+      "value_type": "long_text"
+    }
+  ],
+  "id": 8160050,
+  "updated_at": "2026-09-11T11:24:18-04:00",
+  "requisition_id": "P25727_3531674",
+  "title": "Staff Site Reliability Engineer - Kubernetes",
+  "company_name": "Okta",
+  "first_published": "2026-08-27T13:25:56-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Secure Every Identity, from AI to Human&lt;br&gt;&lt;br&gt;&lt;/strong&gt;Identity is the key to unlocking the potential of AI. Okta secures AI by building the trusted, neutral infrastructure that enables organizations to safely embrace this new era. This work requires a relentless drive to solve complex challenges with real-world stakes. We are looking for builders and owners who operate with speed and urgency and execute with excellence.&lt;br&gt;&lt;br&gt;This is an opportunity to do career-defining work. We&#39;re all in on this mission. If you are too, let&#39;s talk.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;SingleJob-content&quot;&gt;\n&lt;div class=&quot;SingleJob-content&quot;&gt;\n&lt;p&gt;Workforce Identity Cloud&lt;/p&gt;\n&lt;p&gt;Okta Workforce Identity Cloud (WIC) provides easy, secure access for your workforce so you can focus on other strategic priorities—like reducing costs, and doing more for your customers.&lt;/p&gt;\n&lt;p&gt;If you like to be challenged and have a passion for solving large-scale automation, testing, and tuning problems, we would love to hear from you. The ideal candidate is someone who exemplifies the ethics of, “If you have to do something more than once, automate it” and who can rapidly self-educate on new concepts and tools.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Position Overview:&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;The Site Reliability Engineer (SRE) will play a key role in building and managing Kubernetes platforms that support cloud-native applications and services. This position focuses on architecting and managing reliable, scalable, and secure Kubernetes-based platforms on AWS, ensuring high availability and performance while optimizing costs and automation. The ideal candidate will have hands-on experience with AWS infrastructure, Kubernetes platform creation, Helm charts, Karpenter scaling, and Istio service mesh.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Key Responsibilities:&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Kubernetes Platform Creation: Design, implement, and maintain highly available, scalable, and fault-tolerant Kubernetes platforms. Ensure clusters are optimized for production workloads, providing high resilience and operational efficiency.&lt;/li&gt;\n&lt;li&gt;AWS Infrastructure Management: Build, manage, and optimize AWS cloud infrastructure, including EKS,ECS, S3, VPCs, RDS, IAM, and more. Implement best practices for cost management, scaling, and security within AWS.&lt;/li&gt;\n&lt;li&gt;Helm Management: Utilize Helm to automate and streamline the deployment of applications and services to Kubernetes clusters. Create, maintain, and manage Helm charts for production-ready deployments.&lt;/li&gt;\n&lt;li&gt;Karpenter Implementation: Implement and manage Karpenter to dynamically scale Kubernetes clusters in response to workload demands.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Istio Service Mesh Management: Configure and manage Istio to provide service-to-service communication, security, and observability within the Kubernetes clusters. Enable fine-grained traffic management, service discovery, and policy enforcement.&lt;/li&gt;\n&lt;li&gt;Platform Automation &amp;amp; Scaling: Automate the deployment, scaling, and management of infrastructure and applications. Work with CI/CD pipelines to ensure a seamless flow from development to production with minimal downtime.&lt;/li&gt;\n&lt;li&gt;Incident Management &amp;amp; Troubleshooting: Respond to incidents, troubleshoot, and resolve system issues related to performance, availability, and security in a timely and effective manner.&lt;/li&gt;\n&lt;li&gt;Security &amp;amp; Compliance: Design and implement secure cloud infrastructure with appropriate access controls, network security, and compliance frameworks.&lt;/li&gt;\n&lt;li&gt;Documentation &amp;amp; Knowledge Sharing: Create and maintain detailed documentation for Kubernetes platform setup, operational procedures, and best practices. Promote knowledge sharing across teams.&lt;br&gt;&lt;br&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Required Qualifications:&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;4+ years of experience with Kubernetes/Helm;&lt;/li&gt;\n&lt;li&gt;4+ years of Experience with Terraform.&lt;/li&gt;\n&lt;li&gt;5+ years of Experience with AWS&lt;/li&gt;\n&lt;li&gt;Experience with multi-region cloud environments.&lt;/li&gt;\n&lt;li&gt;Proven experience with AWS (EC2, RDS, S3, CloudFormation, IAM, etc.) and solid understanding of cloud-native architectures.&lt;/li&gt;\n&lt;li&gt;Strong expertise in Kubernetes platform creation, management, and optimisation (e.g., setting up highly available clusters, networking, and storage).&lt;/li&gt;\n&lt;li&gt;Hands-on experience with Helm for Kubernetes application deployment and management.&lt;/li&gt;\n&lt;li&gt;Practical experience with Karpenter for dynamic scaling of Kubernetes clusters and optimising resource usage.&lt;br&gt;Expertise in managing and securing Istio for service mesh, including traffic management, security, and observability features.&lt;/li&gt;\n&lt;li&gt;Proficiency in CI/CD pipelines and automation tools (e.g., Jenkins, GitLab, CircleCI, Terraform, Ansible, Spinnaker).&lt;br&gt;Strong scripting and automation skills in Python, Bash, or Go for infrastructure management and platform automation.&lt;/li&gt;\n&lt;li&gt;Experience with monitoring, logging, and alerting tools such as Prometheus, Grafana, CloudWatch, and ELK Stack.&lt;br&gt;&lt;br&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Preferred Qualifications:&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Understanding of security best practices for cloud platforms and Kubernetes (e.g., role-based access control (RBAC), encryption, and compliance frameworks).&lt;/li&gt;\n&lt;li&gt;Familiarity with Docker and containerization principles.&lt;/li&gt;\n&lt;li&gt;Bachelor’s degree in Computer Science, Engineering, or related field (or equivalent professional experience).&lt;/li&gt;\n&lt;li&gt;Certifications (Preferred): CKA (Certified Kubernetes Administrator), CKAD (Certified Kubernetes Application Developer), or AWS Certified DevOps Engineer are highly desirable.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Additional requirements:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;This position requires the ability to access federal environments and/or have access to protected federal data.&amp;nbsp; As a condition of employment for this position, the successful candidate must be able to submit documentation establishing U.S. Person status (e.g. a U.S. Citizen, National, Lawful Permanent Resident, Refugee, or Asylee. 22 CFR 120.15) upon hire.&lt;/li&gt;\n&lt;li&gt;Requires in-person onboarding and travel to our San Francisco, CA HQ office or our Chicago office during the first week of employment.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;#LI-Hybrid&lt;/p&gt;\n&lt;p&gt;P25727_3531674&lt;/p&gt;\n&lt;/div&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;/div&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;title&quot;&gt;The annual base salary range for this position for candidates located in the San Francisco Bay area is between:  &lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$194,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$267,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Below is the annual base salary range for candidates located in California (excluding San Francisco Bay Area), Colorado, Illinois, New York and Washington. Your actual base salary will depend on factors such as your skills, qualifications, experience, and work location. In addition, Okta offers equity (where applicable), bonus, and benefits, including health, dental and vision insurance, 401(k), flexible spending account, and paid leave (including PTO and parental leave) in accordance with our applicable plans and policies. To learn more about our Total Rewards program please visit: &lt;/span&gt;&lt;a href=&quot;https://rewards.okta.com/us&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;https://rewards.okta.com/us&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;.&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;The annual base salary range for this position for candidates located in California (excluding San Francisco Bay Area), Colorado, Illinois, New York, and Washington is between:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$174,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$239,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;The Okta Experience&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;a href=&quot;http://rewards.okta.com&quot;&gt;Supporting Your Well-Being&lt;/a&gt;&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;&lt;a href=&quot;https://www.okta.com/company/okta-for-good/&quot;&gt;Driving Social Impact&amp;nbsp;&lt;/a&gt;&lt;/li&gt;\n&lt;li&gt;&lt;a href=&quot;https://www.okta.com/company/talent-connection-community/&quot;&gt;Developing Talent and Fostering Connection + Community&lt;/a&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;We are intentional about connection. Our global community, spanning over 20 offices worldwide, is united by a drive to innovate. Your journey begins with an immersive, in-person onboarding experience designed to accelerate your impact and connect you to our mission and team from day one.&lt;br&gt;&lt;br&gt;Okta is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, marital status, age, physical or mental disability, or status as a protected veteran. We also consider for employment qualified applicants with arrest and convictions records, consistent with applicable laws.&lt;br&gt;&lt;br&gt;If reasonable accommodation is needed to complete any part of the job application, interview process, or onboarding please&amp;nbsp;&lt;a href=&quot;https://docs.google.com/forms/d/1EfiEYZrIyhA2X4Fijk0R3RKYOzNoS3wtvyM4nhbZnXE/edit&quot;&gt;use this Form&lt;/a&gt; to request an accommodation.&lt;br&gt;&lt;br&gt;Notice for New York City Applicants &amp;amp; Employees: Okta may use Automated Employment Decision Tools (AEDT), as defined by New York City Local Law 144, that use artificial intelligence, machine learning, or other automated processes to assist in our recruitment and hiring process. In accordance with NYC Local Law 144, if you are an applicant or employee residing in New York City, please&amp;nbsp;&lt;a href=&quot;https://talent.okta.com/new-york-city-aedt-notice.html&quot;&gt;click here&lt;/a&gt; to view our full NYC AEDT Notice.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 30138,
+      "name": "Tech Ops-610",
+      "child_ids": [],
+      "parent_id": 396313
+    }
+  ],
+  "offices": [
+    {
+      "id": 67252,
+      "name": "United States",
+      "location": null,
+      "child_ids": [
+        85788,
+        73666,
+        19613,
+        61722,
+        19611,
+        22604,
+        21495,
+        19612,
+        21497,
+        21496
+      ],
+      "parent_id": 67248
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

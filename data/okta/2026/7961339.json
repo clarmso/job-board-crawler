@@ -1,0 +1,107 @@
+{
+  "absolute_url": "https://www.okta.com/company/careers/opportunity/7961339?gh_jid=7961339",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 3456692,
+  "location": {
+    "name": "Bellevue, Washington; Chicago, Illinois; San Francisco, California; Toronto, Ontario, Canada"
+  },
+  "metadata": [
+    {
+      "id": 58735330,
+      "name": "Naukri Job URL",
+      "value": null,
+      "value_type": "long_text"
+    },
+    {
+      "id": 58735350,
+      "name": "Naukri Job Error",
+      "value": null,
+      "value_type": "long_text"
+    },
+    {
+      "id": 58735367,
+      "name": "Minimum Salary",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735368,
+      "name": "Maximum Salary",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735369,
+      "name": "Minimum Work Experience",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735370,
+      "name": "Maximum Work Experience",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735384,
+      "name": "City",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 58735385,
+      "name": "Job Description",
+      "value": null,
+      "value_type": "long_text"
+    }
+  ],
+  "id": 7961339,
+  "updated_at": "2026-09-11T11:24:18-04:00",
+  "requisition_id": "P25253_3456692",
+  "title": "Principal Forward Deployed Engineer - Okta for AI Agents",
+  "company_name": "Okta",
+  "first_published": "2026-06-01T11:20:08-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Secure Every Identity, from AI to Human&lt;br&gt;&lt;br&gt;&lt;/strong&gt;Identity is the key to unlocking the potential of AI. Okta secures AI by building the trusted, neutral infrastructure that enables organizations to safely embrace this new era. This work requires a relentless drive to solve complex challenges with real-world stakes. We are looking for builders and owners who operate with speed and urgency and execute with excellence.&lt;br&gt;&lt;br&gt;This is an opportunity to do career-defining work. We&#39;re all in on this mission. If you are too, let&#39;s talk.&lt;/p&gt;&lt;/div&gt;&lt;h1&gt;&lt;strong&gt;About Okta for AI Agents&lt;/strong&gt;&lt;/h1&gt;\n&lt;p&gt;Okta secures access for 20,000 organizations and billions of users. Okta for AI Agents extends that work to the agentic shift. Deploying an AI agent is not like deploying traditional software. You are putting professional work output into production, and it needs deep integration, continuous tuning, and change management. Every agent needs an identity, a scope, an audit trail, and a way to be shut down when it goes wrong. Most enterprises have not built this yet. We are.&lt;/p&gt;\n&lt;p&gt;We hire builders who see the cracks in enterprise agent identity that everyone else has learned to live with.&lt;/p&gt;\n&lt;h1&gt;&lt;strong&gt;The Role&lt;/strong&gt;&lt;/h1&gt;\n&lt;p&gt;You are the most senior technical field authority for agent identity at Okta. Where a Senior FDE owns the outcome inside one account, you own the patterns that every account and every FDE inherits. You take the hardest and most strategic deployments yourself, set the reference architecture the team builds from, and turn what the field learns into the direction the product takes.&lt;/p&gt;\n&lt;p&gt;You still write code. You also multiply the people around you, and you are the person product and engineering leadership call when an agent identity problem has no precedent.&lt;/p&gt;\n&lt;h1&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/h1&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Own the reference architecture. &lt;/strong&gt;Define the canonical agent identity, delegation, audit, and kill-switch patterns that Senior FDEs deploy across the portfolio, and keep them current as the standards and the product move.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Lead the hardest accounts. &lt;/strong&gt;Personally own the most strategic, regulated, or technically novel deployments, the ones where there is no playbook yet.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Raise the technical bar. &lt;/strong&gt;Review other FDEs’ architectures, coach senior customer engineers and your own team, and set the standard for what good looks like in the field.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Shape the roadmap. &lt;/strong&gt;Synthesize patterns across every account into a clear point of view, and work directly with product and engineering leadership to prioritize what ships next.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Represent Okta as a technical authority. &lt;/strong&gt;Brief CISO, CIO, and Chief AI Officer audiences, contribute to the standards and frameworks shaping agent identity, and carry the external technical voice.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Resolve what others cannot. &lt;/strong&gt;Step into the hardest technical and political situations across accounts and find the path forward.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Set the standard for evals and observability. &lt;/strong&gt;Define how the team measures authorization latency, scope sprawl, delegation anomalies, audit completeness, and kill-switch verification, so it scales beyond any single customer.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Build the team’s leverage. &lt;/strong&gt;Turn recurring field work into reusable modules, internal tooling, and enablement so the whole FDE function moves faster.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h1&gt;&lt;strong&gt;Requirements&lt;/strong&gt;&lt;/h1&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Engineering depth. &lt;/strong&gt;10+ years shipping production software, with deep distributed systems and identity experience and a track record of staying hands-on while setting direction.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Authority-level identity protocols. &lt;/strong&gt;OAuth 2.0, OIDC, SAML, SCIM, RFC 8693 token exchange, act claims, CIMD and DCR, DPoP. Contribution to standards or open source is a plus.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Deep agent security fluency. &lt;/strong&gt;OWASP Top 10 for Agentic Applications, NIST AI RMF, MITRE ATLAS, plus MCP, A2A, ISO/IEC 42001, and the EU AI Act, with the judgment to apply them in HIPAA, FedRAMP, and SOC 2 environments.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Expert fine-grained authorization. &lt;/strong&gt;ReBAC and ABAC with policy engines (OPA, Cedar, OpenFGA, or equivalent), and command of the design tradeoffs at scale.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Proven AI hands-on. &lt;/strong&gt;Production integrations across the major agent platforms and MCP, and daily AI-native development.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Force multiplier. &lt;/strong&gt;A record of setting technical direction across multiple teams or accounts, and of mentoring senior engineers.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Customer-facing authority. &lt;/strong&gt;Credible from the IDE to the boardroom, trusted by CISOs and principal engineers alike, and steady when account politics get sharp.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;High agency, founder’s mindset. &lt;/strong&gt;Applied to building a function, not just an account.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Ability to travel (&lt;/strong&gt;on occasion internationally) up to 35%&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;#LI-Remote&lt;/p&gt;\n&lt;p&gt;&lt;small&gt;(P25253_3456692)&lt;/small&gt;&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;title&quot;&gt;The OTE range for this position for candidates located in the San Francisco Bay area is between:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$269,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$369,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Below is the annual On Target Compensation (OTE) range for candidates located in California (excluding San Francisco Bay Area), Colorado, Illinois, New York and Washington. Your actual OTE, which is inclusive of base salary and incentive compensation, will depend on factors such as your skills, qualifications, experience, and work location. In addition, Okta offers equity (where applicable) and benefits, including health, dental and vision insurance, 401(k), flexible spending account, and paid leave (including PTO and parental leave) in accordance with our applicable plans and policies. To learn more about our Total Rewards program please visit: &lt;/span&gt;&lt;a href=&quot;https://rewards.okta.com/us&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;https://rewards.okta.com/us&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;.&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;The annual OTE range for this position for candidates located in California (excluding San Francisco Bay Area), Colorado, Illinois, New York, and Washington is between:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$240,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$360,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;The Okta Experience&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;a href=&quot;http://rewards.okta.com&quot;&gt;Supporting Your Well-Being&lt;/a&gt;&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;&lt;a href=&quot;https://www.okta.com/company/okta-for-good/&quot;&gt;Driving Social Impact&amp;nbsp;&lt;/a&gt;&lt;/li&gt;\n&lt;li&gt;&lt;a href=&quot;https://www.okta.com/company/talent-connection-community/&quot;&gt;Developing Talent and Fostering Connection + Community&lt;/a&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;We are intentional about connection. Our global community, spanning over 20 offices worldwide, is united by a drive to innovate. Your journey begins with an immersive, in-person onboarding experience designed to accelerate your impact and connect you to our mission and team from day one.&lt;br&gt;&lt;br&gt;Okta is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, marital status, age, physical or mental disability, or status as a protected veteran. We also consider for employment qualified applicants with arrest and convictions records, consistent with applicable laws.&lt;br&gt;&lt;br&gt;If reasonable accommodation is needed to complete any part of the job application, interview process, or onboarding please&amp;nbsp;&lt;a href=&quot;https://docs.google.com/forms/d/1EfiEYZrIyhA2X4Fijk0R3RKYOzNoS3wtvyM4nhbZnXE/edit&quot;&gt;use this Form&lt;/a&gt; to request an accommodation.&lt;br&gt;&lt;br&gt;Notice for New York City Applicants &amp;amp; Employees: Okta may use Automated Employment Decision Tools (AEDT), as defined by New York City Local Law 144, that use artificial intelligence, machine learning, or other automated processes to assist in our recruitment and hiring process. In accordance with NYC Local Law 144, if you are an applicant or employee residing in New York City, please&amp;nbsp;&lt;a href=&quot;https://talent.okta.com/new-york-city-aedt-notice.html&quot;&gt;click here&lt;/a&gt; to view our full NYC AEDT Notice.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 335628,
+      "name": "Okta for AI Agents-764",
+      "child_ids": [],
+      "parent_id": 396309
+    }
+  ],
+  "offices": [
+    {
+      "id": 67252,
+      "name": "United States",
+      "location": null,
+      "child_ids": [
+        85788,
+        73666,
+        19613,
+        61722,
+        19611,
+        22604,
+        21495,
+        19612,
+        21497,
+        21496
+      ],
+      "parent_id": 67248
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

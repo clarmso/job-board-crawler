@@ -1,0 +1,96 @@
+{
+  "absolute_url": "https://www.okta.com/company/careers/opportunity/7591606?gh_jid=7591606",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 3355591,
+  "location": {
+    "name": "Bellevue, Washington"
+  },
+  "metadata": [
+    {
+      "id": 58735330,
+      "name": "Naukri Job URL",
+      "value": null,
+      "value_type": "long_text"
+    },
+    {
+      "id": 58735350,
+      "name": "Naukri Job Error",
+      "value": null,
+      "value_type": "long_text"
+    },
+    {
+      "id": 58735367,
+      "name": "Minimum Salary",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735368,
+      "name": "Maximum Salary",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735369,
+      "name": "Minimum Work Experience",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735370,
+      "name": "Maximum Work Experience",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735384,
+      "name": "City",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 58735385,
+      "name": "Job Description",
+      "value": null,
+      "value_type": "long_text"
+    }
+  ],
+  "id": 7591606,
+  "updated_at": "2026-09-11T11:24:18-04:00",
+  "requisition_id": "P18058_3355591",
+  "title": "Senior Site Reliability Engineer - Security and Data Systems (Federal)",
+  "company_name": "Okta",
+  "first_published": "2026-02-12T11:03:57-05:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Secure Every Identity, from AI to Human&lt;br&gt;&lt;br&gt;&lt;/strong&gt;Identity is the key to unlocking the potential of AI. Okta secures AI by building the trusted, neutral infrastructure that enables organizations to safely embrace this new era. This work requires a relentless drive to solve complex challenges with real-world stakes. We are looking for builders and owners who operate with speed and urgency and execute with excellence.&lt;br&gt;&lt;br&gt;This is an opportunity to do career-defining work. We&#39;re all in on this mission. If you are too, let&#39;s talk.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&amp;nbsp;&lt;/h2&gt;\n&lt;p&gt;Our company is seeking a highly skilled Senior Site Reliability Engineer to join our team. We are a SaaS company specializing in securing large-scale systems. This role is a blend of software engineering and systems administration, where you&#39;ll be responsible for building and maintaining highly reliable, scalable, and secure infrastructure. You will be a key contributor, applying your expertise to automate manual processes and proactively solve complex problems before they become incidents, handling incidents, and includes on-call shifts.&lt;/p&gt;\n&lt;p&gt;*&lt;strong&gt;This position requires the ability to access U.S. National Security information. As a condition of employment for this position, the successful candidate must be able to submit documentation establishing U.S. Person status (e.g. a U.S. Citizen, National, Lawful Permanent Resident, Refugee, or Asylee. &lt;a class=&quot;ng-star-inserted&quot; href=&quot;https://www.google.com/search?q=https://www.ecfr.gov/current/title-22/chapter-I/subchapter-M/part-120/subpart-C/section-120.15&quot; target=&quot;_blank&quot;&gt;22 CFR 120.15&lt;/a&gt;) upon hire.&lt;/strong&gt;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Platform &amp;amp; Reliability:&lt;/strong&gt; Design, build, and maintain the core infrastructure that underpins our security SaaS offerings, ensuring high availability, performance, and scalability. This includes building and operating the tooling for our Snowflake data systems.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Automation:&lt;/strong&gt; Develop robust automation using code to eliminate toil and ensure consistency across our environments. You&#39;ll be a key driver in automating everything from infrastructure provisioning to application deployment and incident response.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Security &amp;amp; Compliance:&lt;/strong&gt; Work closely with our security teams to embed a security-first mindset into all our processes and infrastructure. You will be responsible for ensuring our systems and data platforms are compliant with industry standards.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Incident Response:&lt;/strong&gt; Participate in on-call rotations and be a primary responder for critical incidents, leading root cause analysis and implementing preventative measures to ensure issues don&#39;t recur.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Collaboration:&lt;/strong&gt; Partner with development, data science, and security teams to provide expert guidance on architectural decisions, best practices, and the implementation of new services.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Key Skills &amp;amp; Qualifications&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;U.S. Person Status (e.g. a U.S. Citizen, National, Lawful Permanent Resident, Refugee, or Asylee)&lt;/strong&gt;&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Strong Coding Skills:&lt;/strong&gt; You are a developer at heart and are comfortable writing production-level code to solve complex operational challenges.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Infrastructure as Code (IaC):&lt;/strong&gt; Deep experience with &lt;strong&gt;Terraform&lt;/strong&gt; for provisioning and managing cloud infrastructure and services.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Continuous Delivery:&lt;/strong&gt; Familiarity with modern CI/CD practices and tools, particularly &lt;strong&gt;Spinnaker&lt;/strong&gt;, to automate and standardize our release pipelines.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Containerization &amp;amp; Orchestration:&lt;/strong&gt; Expertise in container technologies and hands-on experience managing large-scale, production-ready clusters with &lt;strong&gt;Kubernetes&lt;/strong&gt;.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Database Migrations:&lt;/strong&gt; Experience with database schema management tools like &lt;strong&gt;Flyway&lt;/strong&gt; for safely and reliably handling database changes.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Data Systems:&lt;/strong&gt; Direct experience with large-scale data systems, specifically with the &lt;strong&gt;Snowflake&lt;/strong&gt; platform.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;AI/ML Experience (a plus):&lt;/strong&gt; Experience or a strong interest in AI/ML, particularly how these technologies can be applied to improve reliability, security, and operational efficiency (e.g., AIOps, predictive analysis).&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Problem-Solving:&lt;/strong&gt; Excellent analytical and problem-solving skills with a proactive approach to identifying and addressing potential issues.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;&lt;em&gt;This role requires in-person onboarding and travel to our San Francisco Office during the first week of employment.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;#LI-Hybrid&lt;br&gt;#LI-MA&lt;br&gt;&lt;br&gt;(P18058_3355591)&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Below is the annual base salary range for candidates located in California (excluding San Francisco Bay Area), Colorado, Illinois, New York and Washington. Your actual base salary will depend on factors such as your skills, qualifications, experience, and work location. In addition, Okta offers equity (where applicable), bonus, and benefits, including health, dental and vision insurance, 401(k), flexible spending account, and paid leave (including PTO and parental leave) in accordance with our applicable plans and policies. To learn more about our Total Rewards program please visit:&lt;a href=&quot;https://rewards.okta.com/us&quot;&gt; https://rewards.okta.com/us&lt;/a&gt;.&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;The annual base salary range for this position for candidates located in California (excluding San Francisco Bay Area), Colorado, Illinois, New York, and Washington is between:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$147,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$202,400 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;The Okta Experience&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;a href=&quot;http://rewards.okta.com&quot;&gt;Supporting Your Well-Being&lt;/a&gt;&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;&lt;a href=&quot;https://www.okta.com/company/okta-for-good/&quot;&gt;Driving Social Impact&amp;nbsp;&lt;/a&gt;&lt;/li&gt;\n&lt;li&gt;&lt;a href=&quot;https://www.okta.com/company/talent-connection-community/&quot;&gt;Developing Talent and Fostering Connection + Community&lt;/a&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;We are intentional about connection. Our global community, spanning over 20 offices worldwide, is united by a drive to innovate. Your journey begins with an immersive, in-person onboarding experience designed to accelerate your impact and connect you to our mission and team from day one.&lt;br&gt;&lt;br&gt;Okta is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, marital status, age, physical or mental disability, or status as a protected veteran. We also consider for employment qualified applicants with arrest and convictions records, consistent with applicable laws.&lt;br&gt;&lt;br&gt;If reasonable accommodation is needed to complete any part of the job application, interview process, or onboarding please&amp;nbsp;&lt;a href=&quot;https://docs.google.com/forms/d/1EfiEYZrIyhA2X4Fijk0R3RKYOzNoS3wtvyM4nhbZnXE/edit&quot;&gt;use this Form&lt;/a&gt; to request an accommodation.&lt;br&gt;&lt;br&gt;Notice for New York City Applicants &amp;amp; Employees: Okta may use Automated Employment Decision Tools (AEDT), as defined by New York City Local Law 144, that use artificial intelligence, machine learning, or other automated processes to assist in our recruitment and hiring process. In accordance with NYC Local Law 144, if you are an applicant or employee residing in New York City, please&amp;nbsp;&lt;a href=&quot;https://talent.okta.com/new-york-city-aedt-notice.html&quot;&gt;click here&lt;/a&gt; to view our full NYC AEDT Notice.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 44027,
+      "name": "SW Eng - Infrastructure-672",
+      "child_ids": [],
+      "parent_id": 396304
+    }
+  ],
+  "offices": [
+    {
+      "id": 19613,
+      "name": "Bellevue",
+      "location": "Bellevue, WA, United States",
+      "child_ids": [],
+      "parent_id": 67252
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

@@ -1,0 +1,70 @@
+{
+  "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/8159463?gh_jid=8159463",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 3529412,
+  "location": {
+    "name": "Hybrid"
+  },
+  "metadata": [
+    {
+      "id": 825338,
+      "name": "Cost Center",
+      "value": "6710 - Enterprise Applications",
+      "value_type": "single_select"
+    },
+    {
+      "id": 8654220,
+      "name": "Job Posting Location",
+      "value": [
+        "Bengaluru, India"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 46546702,
+      "name": "Career Site Department",
+      "value": [
+        "Information Technology"
+      ],
+      "value_type": "multi_select"
+    }
+  ],
+  "id": 8159463,
+  "updated_at": "2026-09-10T04:50:01-04:00",
+  "requisition_id": "958",
+  "title": "Senior Zip System Specialist(Contract Role)",
+  "company_name": "Cloudflare",
+  "first_published": "2026-09-10T04:50:01-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;About Us&lt;/h3&gt;\n&lt;p&gt;At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.&lt;/p&gt;\n&lt;p&gt;At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a &quot;normalized&quot; problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;Location: Bengaluru, India&lt;/p&gt;\n&lt;p&gt;About the department&lt;br&gt;The Oracle Team, part of Cloudflare&#39;s DIA and Enterprise systems organization, manages the complete end-to-end operation of our S2P processes. This ensures consistent processes across all functional areas, enabling Cloudflare&#39;s internal teams to work efficiently and facilitating business interactions with customers and partners.&lt;/p&gt;\n&lt;p&gt;Position Overview&lt;br&gt;Drive the strategy and execution of our global procurement technology ecosystem. Our architecture leverages Zip (Zip HQ) as the premier intake and orchestration layer, integrated natively with Oracle Fusion Cloud as our financial system of record.The ideal candidate is a Procurement technologist who understands the nuances of the entire Source-to-Pay (S2P) lifecycle. You will bridge the gap between user-centric intake and rigorous financial controls, ensuring that complex business requirements from Legal, Finance, and Global Sourcing are translated into seamless, automated workflows that maintain data integrity&lt;br&gt;across both Zip and Oracle.&lt;/p&gt;\n&lt;p&gt;What You Will Do&lt;br&gt;● End-to-End Process Architecture: Design and optimize the global S2P process,ensuring a frictionless hand-off between upstream sourcing/intake (Zip) and downstream purchasing/payables (Oracle Fusion).&lt;br&gt;● Dual-Platform Configuration: Act as the functional lead for both Zip and Oracle Fusion Procurement. Build complex intake workflows in Zip while simultaneously configuring Requisitioning, Purchasing, and Supplier Portals in Oracle to match.&lt;br&gt;● Integration Ecosystem Management: Own the functional health of the Zip-to-Oracle integration. Monitor data flow for Requisitions, Purchase Orders, and Supplier Master Data, ensuring that &quot;In-Flight&quot; changes in one system are accurately reflected in the other.&lt;br&gt;● Strategic Business Partnership: Lead discovery sessions with Global Procurement, Legal, and Accounting. Translate high-level business policies into precise logic within the tech stack.&lt;br&gt;● Data Governance &amp;amp; Compliance: Ensure that the &quot;System of Record&quot; (Oracle) remains audit-ready. Manage the mapping of Category Codes, Cost Centers, and Tax attributes between the Zip UI and the Oracle GL.&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Release Management: Manage the quarterly update cycles for both Zip and Oracle.Conduct impact assessments on new features to ensure no disruption to the integrated&lt;br&gt;workflow.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Required Qualifications&lt;br&gt;● Platform Proficiency: 3+ years of hands-on experience in Oracle Fusion Procurement (Self-Service Procurement, Purchasing, Supplier Model) and 2+ years of experience with Zip (Zip HQ).&lt;br&gt;● Procurement Subject Matter Expertise: Deep understanding of the Source-to-Pay (S2P) lifecycle, including PR/PO lifecycle, 3-way matching, Encumbrance Accounting,and Contract Lifecycle Management (CLM).&lt;br&gt;● Integration Fluency: Proven experience managing API-based integrations between Intake-to-Procure tools and Tier-1 ERPs. You should understand how a Zip &quot;Approval translates into an Oracle &quot;Approved Requisition.&quot;&lt;br&gt;● Process Engineering: Ability to map complex, cross-functional business processes and identify opportunities for automation or bottleneck removal.&lt;br&gt;● Systems Thinking: You don&#39;t just fix a field; you understand how changing a workflow in Zip impacts the General Ledger and AP downstream in Oracle.&lt;/p&gt;\n&lt;p&gt;The Tech Stack&lt;br&gt;● Orchestration: Zip (Intake, Sourcing, Vendor Management)&lt;br&gt;● Core ERP / Financials: Oracle Fusion Cloud (Procurement, Payables, GL)&lt;br&gt;● Contracts (CLM): Ironclad&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h3&gt;What Makes Cloudflare Special?&lt;/h3&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We’re not just a highly ambitious, large-scale technology company. We’re a highly ambitious, large-scale technology company with a soul. Fundamental to our mission to help build a better Internet is protecting the free and open Internet.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;a href=&quot;https://blog.cloudflare.com/protecting-free-expression-online/&quot;&gt;&lt;strong&gt;Project Galileo&lt;/strong&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;: Since 2014, we&#39;ve equipped more than 2,400 journalism and civil society organizations in 111 countries with powerful tools to defend themselves against attacks that would otherwise censor their work, technology already used by Cloudflare’s enterprise customers--at no cost.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.cloudflare.com/athenian/&quot;&gt;Athenian Project&lt;/a&gt;&lt;/strong&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;: In 2017, we created the Athenian Project to ensure that state and local governments have the highest level of protection and reliability for free, so that their constituents have access to election information and voter registration. Since the project, we&#39;ve provided services to more than 425 local government election websites in 33 states.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;a href=&quot;https://1.1.1.1/&quot;&gt;&lt;strong&gt;1.1.1.1&lt;/strong&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;: We released&lt;/span&gt;&lt;a href=&quot;https://1.1.1.1/&quot;&gt; &lt;span style=&quot;font-weight: 400;&quot;&gt;1.1.1.1&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; to help fix the foundation of the Internet by building a faster, more secure and privacy-centric public DNS resolver. This is available publicly for everyone to use - it is the first consumer-focused service Cloudflare has ever released. Here’s the deal - we don’t store client IP addresses never, ever. We will continue to abide by our&lt;/span&gt;&lt;a href=&quot;https://developers.cloudflare.com/1.1.1.1/privacy/public-dns-resolver&quot;&gt; privacy commitment&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; and ensure that no user data is sold to advertisers or used to target consumers.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Sound like something you’d like to be a part of? We’d love to hear from you!&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Please note that applicants who progress to the offer stage of the interview process may be asked to attend an in-person interview within one of the Cloudflare Offices or Cloudflare Hubs.&amp;nbsp; More details about this will be available at that stage of the interview process.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;This position may require access to information protected under U.S. export control laws, including the U.S. Export Administration Regulations. Please note that any offer of employment may be conditioned on your authorization to receive software or technology controlled under these U.S. export laws without sponsorship for an export license.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Cloudflare is proud to be an equal opportunity employer. &amp;nbsp;We are committed to providing equal employment opportunity for all people and place great value in both diversity and inclusiveness. &amp;nbsp;All qualified applicants will be considered for employment without regard to their, or any other person&#39;s, perceived or actual&lt;/span&gt; &lt;span style=&quot;font-weight: 400;&quot;&gt;race, color, religion, sex, gender, gender identity, gender expression, sexual orientation, national origin, ancestry, citizenship, age, physical or mental disability, medical condition, family care status, or any other basis protected by law. &lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We are an AA/Veterans/Disabled Employer.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Cloudflare provides reasonable accommodations to qualified individuals with disabilities. &amp;nbsp;Please tell us if you require a reasonable accommodation to apply for a job. Examples of reasonable accommodations include, but are not limited to, changing the application process, providing documents in an alternate format, using a sign language interpreter, or using specialized equipment. &amp;nbsp;If you require a reasonable accommodation to apply for a job, please contact us via e-mail at &lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;hr@cloudflare.com&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; or via mail at 101 Townsend St. San Francisco, CA 94107.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 47763,
+      "name": "Information Technology",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 83149,
+      "name": "Remote India",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 74844
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

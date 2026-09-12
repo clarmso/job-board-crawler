@@ -1,0 +1,54 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/mattermost/jobs/5405811008",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "education": "education_optional",
+  "internal_job_id": 4538971008,
+  "location": {
+    "name": "United States"
+  },
+  "metadata": null,
+  "id": 5405811008,
+  "updated_at": "2026-08-26T14:44:39-04:00",
+  "requisition_id": "63",
+  "title": "Staff Full Stack Engineer",
+  "company_name": "Mattermost",
+  "first_published": "2026-08-26T14:39:47-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;div&gt;Mattermost is the leading collaborative workflow platform for defense, intelligence, security, and critical infrastructure. Trusted by the U.S. Department of War and Fortune 500s, our platform runs on-premises and in private clouds, delivering secure messaging, file sharing, workflow automation, audio/screenshare, and project management—all with full data and operational control. Mattermost powers high-stakes workflows across mission planning, real-time, real-world operations, DevSecOps, incident response, and cyber defense—enabling secure collaboration from tactical edge and DDIL environments to enterprise HQ. Teams operate across web, desktop, and mobile, with embedded interoperability for Microsoft Teams, Outlook, and Microsoft 365.&lt;br&gt;&lt;br&gt;&lt;/div&gt;\n&lt;div&gt;To learn more, visit&amp;nbsp;&lt;a href=&quot;http://www.mattermost.com/&quot;&gt;www.mattermost.com&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;p&gt;We are seeking a &lt;strong&gt;Staff Full Stack Engineer&lt;/strong&gt; to set the technical direction for and scale Mattermost’s core web platform for teams operating in defense and critical infrastructure sectors. You’ll drive architecture and technical strategy across our Go backend and React/TypeScript web frontend — partnering across teams to ship features that hold up under strict security, compliance, and reliability requirements&lt;strong&gt;.&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Our engineering culture is AI-forward. We expect engineers to work fluently with AI coding agents such as Claude Code day-to-day — for scaffolding, refactors, code review, and test generation — and treat that as core craft rather than a shortcut. We would rather hire smart people who get stuff done than chase an exact tech-stack match. If you have a track record of shipping and owning complex software end-to-end, we want to hear from you.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What You Will Do&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Define and drive the technical architecture and roadmap for Mattermost’s core web platform across multiple engineering teams, spanning Go, React, TypeScript, PostgreSQL, and Redis&lt;/li&gt;\n&lt;li&gt;Set org-wide standards and best practices for AI-agentic engineering workflows — going beyond personal fluency with tools like Claude Code and Cursor to shape how the broader engineering org adopts them, while retaining accountability for correctness, security, and design decisions&lt;/li&gt;\n&lt;li&gt;Lead the internal tooling and testing infrastructure strategy that speeds up delivery for the broader engineering org, not just your immediate team&lt;/li&gt;\n&lt;li&gt;Own the testing strategy and quality bar across frontend and backend systems, and hold other engineers accountable to it through design reviews and mentorship&lt;/li&gt;\n&lt;li&gt;Drive architectural decisions for REST and WebSocket API design, grounded in deep networking fundamentals&lt;/li&gt;\n&lt;li&gt;Partner directly with security, compliance, and product leadership on strategic technical bets tied to our government and enterprise customer requirements&lt;/li&gt;\n&lt;li&gt;Mentor senior engineers and act as a technical multiplier across the org&lt;/li&gt;\n&lt;li&gt;Contribute to and help shape technical direction for Mattermost’s open-source codebase&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;What We Are Looking For&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Required:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Senior full-stack development experience in Go and React (or a comparable stack), with a track record of owning complex systems end-to-end&lt;/li&gt;\n&lt;li&gt;Proven experience designing and owning distributed systems or high-availability service architecture at scale&lt;/li&gt;\n&lt;li&gt;Experience designing and consuming REST and WebSocket APIs with solid networking fundamentals&lt;/li&gt;\n&lt;li&gt;Relational database experience including PostgreSQL, schema design, and query optimization&lt;/li&gt;\n&lt;li&gt;Hands-on daily fluency directing AI coding agents such as Claude Code, Cursor, or Copilot for scaffolding, refactors, code review, and test generation — with the judgment to know when to trust the output and when to take the wheel yourself&lt;/li&gt;\n&lt;li&gt;Demonstrated ability to influence technical direction across multiple teams without relying on formal authority&lt;/li&gt;\n&lt;li&gt;Experience mentoring senior engineers and raising the technical bar for a broader team&lt;/li&gt;\n&lt;li&gt;Comfortable operating in regulated or high-compliance environments (e.g., enterprise security, government, or critical infrastructure requirements)&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Nice to Have:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Prior experience operating as a staff, principal, or technical lead engineer at another company&lt;/li&gt;\n&lt;li&gt;Experience maintaining (not just contributing to) an open-source project&lt;/li&gt;\n&lt;li&gt;Program-level familiarity with compliance frameworks relevant to defense or government customers (e.g., FedRAMP, ITAR)&lt;/li&gt;\n&lt;li&gt;Experience helping scale engineering practices or standards across a growing organization&lt;/li&gt;\n&lt;li&gt;Background in defense, intelligence, or critical infrastructure products&lt;/li&gt;\n&lt;li&gt;Experience building tools, skills, or workflows on top of AI coding agents including MCP servers, agent skills, or CI-integrated agents&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;How Success Is Measured&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;First 90 Days: Build cross-team credibility by shipping a meaningful full-stack feature on the core platform, while assessing the technical landscape and identifying the highest-leverage architectural or process improvements to pursue.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Why Mattermost&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Mission-driven work: Your contributions directly support the organizations and missions that depend on secure, reliable collaboration including the U.S. Department of War and critical infrastructure operators worldwide&lt;/li&gt;\n&lt;li&gt;Remote-first culture: Work from anywhere with a globally distributed, high-trust team built for autonomy and ownership&lt;/li&gt;\n&lt;li&gt;AI-forward environment: We actively adopt and build AI-enabled workflows. Agentic development is core craft here, not a novelty&lt;/li&gt;\n&lt;li&gt;End-to-end ownership: Ship and own complex software across the full stack with real accountability for what you build&lt;/li&gt;\n&lt;li&gt;Open source at the core: Be part of a vibrant developer community shaping the future of secure collaboration&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Compensation&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Mattermost takes a market-based approach to pay. Actual compensation may vary based on location, skills, experience, qualifications, and market conditions.&lt;/p&gt;\n&lt;p&gt;Target Salary Range: $172,724 – $227,135&lt;br&gt;&lt;br&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;U.S. Eligibility &amp;amp; Compliance&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;This role may require obtaining and maintaining a U.S. government security clearance. Candidates must meet federal eligibility requirements to be considered. For more information visit&lt;a href=&quot;https://www.state.gov/securityclearances&quot;&gt; Security Clearances — United States Department of State&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;Applicants must meet eligibility requirements for access to export-controlled information as defined by U.S. export control laws, including EAR and ITAR. For more information visit the&lt;a href=&quot;https://www.bis.doc.gov&quot;&gt; Bureau of Industry and Security&lt;/a&gt; and the&lt;a href=&quot;https://www.pmddtc.state.gov&quot;&gt; Directorate of Defense Trade Controls&lt;/a&gt;.&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;div&gt;Mattermost is an EEO Employer, we are a remote-first, open-source company.&lt;/div&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;We are continually working to expand our hiring in more countries and regions, ensuring compliance with local laws and regulations, which takes time.&lt;/div&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;Mattermost values your unique perspective—we welcome all applicants. We encourage individuals from all backgrounds to apply and are committed to assessing candidates based on their skills and qualifications. We do not tolerate discrimination against staff or applicants based on race, religion, national origin, age, disability, pregnancy status, veteran status, or other personal characteristics.&lt;/div&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;If you require accommodations during the interview process, please let us know—we’re happy to assist.&lt;/div&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4053102008,
+      "name": "Engineering",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 4044261008,
+      "name": "United States",
+      "location": "United States",
+      "child_ids": [
+        4065569008,
+        4065676008,
+        4065677008,
+        4065678008,
+        4065367008
+      ],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": "<p>We use Greenhouse’s AI-powered Talent Matching tool to compare your application against our job requirements.</p>",
+  "include_ai_disclaimer": true,
+  "ai_opt_out_request_url": "http://app8.greenhouse.io/ai_opt_out_request/job_post/5405811008/ai_opt_out"
+}

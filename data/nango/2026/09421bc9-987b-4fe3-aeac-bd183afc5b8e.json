@@ -1,0 +1,146 @@
+{
+  "id": "09421bc9-987b-4fe3-aeac-bd183afc5b8e",
+  "title": "Staff Engineer, Platform & Infrastructure",
+  "department": "Engineering",
+  "team": "Engineering",
+  "employmentType": "FullTime",
+  "location": "USA",
+  "shouldDisplayCompensationOnJobPostings": true,
+  "secondaryLocations": [
+    {
+      "location": "Chile",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "Chile"
+        }
+      }
+    },
+    {
+      "location": "UK",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "United Kingdom"
+        }
+      }
+    },
+    {
+      "location": "Uruguay",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "Uruguay"
+        }
+      }
+    },
+    {
+      "location": "Switzerland",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "Switzerland"
+        }
+      }
+    },
+    {
+      "location": "Brazil",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "Brazil"
+        }
+      }
+    },
+    {
+      "location": "Canada",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "",
+          "addressCountry": "Canada"
+        }
+      }
+    },
+    {
+      "location": "Mexico",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "Mexico"
+        }
+      }
+    },
+    {
+      "location": "Argentina",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "Argentina"
+        }
+      }
+    },
+    {
+      "location": "Europe",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "European Union"
+        }
+      }
+    }
+  ],
+  "publishedAt": "2026-08-26T11:37:53.017+00:00",
+  "isListed": true,
+  "isRemote": true,
+  "workplaceType": "Remote",
+  "address": {
+    "postalAddress": {
+      "addressRegion": "",
+      "addressCountry": "USA"
+    }
+  },
+  "jobUrl": "https://jobs.ashbyhq.com/nango/09421bc9-987b-4fe3-aeac-bd183afc5b8e",
+  "applyUrl": "https://jobs.ashbyhq.com/nango/09421bc9-987b-4fe3-aeac-bd183afc5b8e/application",
+  "descriptionHtml": "<p style=\"min-height:1.5em\"><em>(Remote - North America, LATAM or Europe)</em></p><p style=\"min-height:1.5em\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://nango.dev\"><u>Nango</u></a> (YC W23) is a developer infrastructure company and the leading provider of API access for agents and apps. It enables AI applications to connect to the real world through integrations.</p><p style=\"min-height:1.5em\">More than 400 paying customers rely on Nango today, including Replit, Ramp, Mercor, Vapi, Instantly, and Exa. We are a YC-backed, multi-million ARR company with a team of 14 from AWS, Snyk, GitHub, Okta, Netlify, Uber, Samsara, and more.</p><p style=\"min-height:1.5em\">We are hiring a Staff Platform Engineer to own the infrastructure Nango runs on - and increasingly, the infrastructure our customers run Nango on. This is a critical role at the heart of the company: as a product-led business selling to developers, our engineers directly drive the product roadmap, specifications, and execution. You will own our cloud platform end-to-end, lead our BYOC and private cloud deployments, and set the standard for how a small, autonomous team ships quickly and reliably at scale. You'll be the first person here whose primary focus is the platform beneath the product.</p><p style=\"min-height:1.5em\"></p><h2><strong>What You'll Do</strong></h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Own and scale the cloud infrastructure behind our open-source platform: compute, networking, and the data layer.</p></li><li><p style=\"min-height:1.5em\">Lead BYOC: turn customer-cloud deployments into a real product, with provisioning, upgrades, and observability that scale past bespoke work per deal.</p></li><li><p style=\"min-height:1.5em\">Operationalize and productize our IaC and GitOps foundations so a small team keeps shipping fast as we grow.</p></li><li><p style=\"min-height:1.5em\">Make reliability a product feature: meaningful SLOs, and an incident process people trust.</p></li><li><p style=\"min-height:1.5em\">Lead our data layer: Postgres, Redis, Elasticsearch, and ClickHouse at growing scale.</p></li><li><p style=\"min-height:1.5em\">Own the infrastructure side of security and compliance: SOC 2, GDPR, HIPAA, enterprise security reviews.</p></li><li><p style=\"min-height:1.5em\">Help shape the roadmap and company strategy with high ownership of key decisions.</p></li></ul><h2><strong>Who you are</strong></h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">10+ years (staff-level) in platform, infrastructure, DevOps, or SRE roles, with proven ability to run high-traffic systems in production.</p></li><li><p style=\"min-height:1.5em\">Deep production Kubernetes experience, and opinions about when it's the wrong tool.</p></li><li><p style=\"min-height:1.5em\">Experience operating software in environments you don't control: BYOC, single-tenant, on-prem, or air-gapped.</p></li><li><p style=\"min-height:1.5em\">Deep AWS fluency, where we run today; exposure to GCP and Azure helps, since our customers don't all pick the same cloud.</p></li><li><p style=\"min-height:1.5em\">Terraform as your native mode of working: modules others can use, safe state management, multi-account topologies.</p></li><li><p style=\"min-height:1.5em\">Databases as a genuine strength, Postgres especially - performance work, migrations under load, replication.</p></li><li><p style=\"min-height:1.5em\">Real compliance exposure: SOC 2 or ISO audits, pen tests, security reviews. You can tell substance from theatre.</p></li><li><p style=\"min-height:1.5em\">Product mindset and developer empathy: you can read a customer issue and go build the fix. Our stack is TypeScript and Node.</p></li><li><p style=\"min-height:1.5em\">Strong communicator, proactive, and reliable in a remote-first environment.</p></li><li><p style=\"min-height:1.5em\">Pragmatic, positive, and low ego: you step up in incidents and unblock teammates.</p></li><li><p style=\"min-height:1.5em\">Startup-ready: autonomous, ownership-driven, and able to navigate ambiguity.</p></li><li><p style=\"min-height:1.5em\">Based in North America, LATAM or Europe.</p></li></ul><p style=\"min-height:1.5em\">If you're a seasoned platform engineer who loves developer infrastructure, thrives on ownership, and wants to shape the future of integrations - we'd love to hear from you.</p>",
+  "descriptionPlain": "(Remote - North America, LATAM or Europe)\n\nNango https://nango.dev (YC W23) is a developer infrastructure company and the leading provider of API access for agents and apps. It enables AI applications to connect to the real world through integrations.\n\nMore than 400 paying customers rely on Nango today, including Replit, Ramp, Mercor, Vapi, Instantly, and Exa. We are a YC-backed, multi-million ARR company with a team of 14 from AWS, Snyk, GitHub, Okta, Netlify, Uber, Samsara, and more.\n\nWe are hiring a Staff Platform Engineer to own the infrastructure Nango runs on - and increasingly, the infrastructure our customers run Nango on. This is a critical role at the heart of the company: as a product-led business selling to developers, our engineers directly drive the product roadmap, specifications, and execution. You will own our cloud platform end-to-end, lead our BYOC and private cloud deployments, and set the standard for how a small, autonomous team ships quickly and reliably at scale. You'll be the first person here whose primary focus is the platform beneath the product.\n\n\n\n\nWHAT YOU'LL DO\n\n - Own and scale the cloud infrastructure behind our open-source platform: compute, networking, and the data layer.\n\n - Lead BYOC: turn customer-cloud deployments into a real product, with provisioning, upgrades, and observability that scale past bespoke work per deal.\n\n - Operationalize and productize our IaC and GitOps foundations so a small team keeps shipping fast as we grow.\n\n - Make reliability a product feature: meaningful SLOs, and an incident process people trust.\n\n - Lead our data layer: Postgres, Redis, Elasticsearch, and ClickHouse at growing scale.\n\n - Own the infrastructure side of security and compliance: SOC 2, GDPR, HIPAA, enterprise security reviews.\n\n - Help shape the roadmap and company strategy with high ownership of key decisions.\n\n\nWHO YOU ARE\n\n - 10+ years (staff-level) in platform, infrastructure, DevOps, or SRE roles, with proven ability to run high-traffic systems in production.\n\n - Deep production Kubernetes experience, and opinions about when it's the wrong tool.\n\n - Experience operating software in environments you don't control: BYOC, single-tenant, on-prem, or air-gapped.\n\n - Deep AWS fluency, where we run today; exposure to GCP and Azure helps, since our customers don't all pick the same cloud.\n\n - Terraform as your native mode of working: modules others can use, safe state management, multi-account topologies.\n\n - Databases as a genuine strength, Postgres especially - performance work, migrations under load, replication.\n\n - Real compliance exposure: SOC 2 or ISO audits, pen tests, security reviews. You can tell substance from theatre.\n\n - Product mindset and developer empathy: you can read a customer issue and go build the fix. Our stack is TypeScript and Node.\n\n - Strong communicator, proactive, and reliable in a remote-first environment.\n\n - Pragmatic, positive, and low ego: you step up in incidents and unblock teammates.\n\n - Startup-ready: autonomous, ownership-driven, and able to navigate ambiguity.\n\n - Based in North America, LATAM or Europe.\n\nIf you're a seasoned platform engineer who loves developer infrastructure, thrives on ownership, and wants to shape the future of integrations - we'd love to hear from you.",
+  "compensation": {
+    "compensationTierSummary": "$140K – $220K • Offers Equity",
+    "scrapeableCompensationSalarySummary": "$140K - $220K",
+    "compensationTiers": [
+      {
+        "id": "394c31d1-f108-4ead-95eb-a13aa2ef9cfc",
+        "tierSummary": "$140K – $220K • Offers Equity",
+        "title": "Staff",
+        "additionalInformation": null,
+        "components": [
+          {
+            "id": "470d2ad9-526c-4a01-bc66-c6c7945640d1",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "8415522c-e7d9-4f1c-8afb-cee10da3896e",
+            "summary": "$140K – $220K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 140000,
+            "maxValue": 220000
+          }
+        ]
+      }
+    ],
+    "summaryComponents": [
+      {
+        "compensationType": "EquityPercentage",
+        "interval": "NONE",
+        "currencyCode": null,
+        "minValue": null,
+        "maxValue": null
+      },
+      {
+        "compensationType": "Salary",
+        "interval": "1 YEAR",
+        "currencyCode": "USD",
+        "minValue": 140000,
+        "maxValue": 220000
+      }
+    ]
+  }
+}

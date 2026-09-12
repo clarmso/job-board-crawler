@@ -1,0 +1,138 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/reddit/jobs/8094985",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3506780,
+  "location": {
+    "name": "Remote - United States"
+  },
+  "metadata": [
+    {
+      "id": 944668,
+      "name": "Position ID",
+      "value": "P-107835",
+      "value_type": "short_text"
+    },
+    {
+      "id": 956352,
+      "name": "Recruiting Start Date",
+      "value": "2026-07-29",
+      "value_type": "date"
+    },
+    {
+      "id": 944671,
+      "name": "Target Hire Date",
+      "value": "2026-08-25",
+      "value_type": "date"
+    },
+    {
+      "id": 944672,
+      "name": "Target Hire End Date",
+      "value": "",
+      "value_type": "date"
+    },
+    {
+      "id": 944673,
+      "name": "Job Profile",
+      "value": "Specialized Machine Learning Mgmt 2",
+      "value_type": "single_select"
+    },
+    {
+      "id": 956351,
+      "name": "Management Level",
+      "value": "M2",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944675,
+      "name": "Job Family",
+      "value": "Specialized Machine Learning",
+      "value_type": "single_select"
+    },
+    {
+      "id": 53341,
+      "name": "Worker Sub-Type",
+      "value": "Regular",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944676,
+      "name": "Time Type",
+      "value": "Full time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944682,
+      "name": "Pay Rate Type",
+      "value": "Salary",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944681,
+      "name": "Scheduled Weekly Hours",
+      "value": "40.0",
+      "value_type": "number"
+    },
+    {
+      "id": 944667,
+      "name": "Company",
+      "value": "Reddit, Inc.",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944677,
+      "name": "Cost Center",
+      "value": "Tech-Home & Search",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944669,
+      "name": "Worker Type",
+      "value": "Employee",
+      "value_type": "single_select"
+    },
+    {
+      "id": 957961,
+      "name": "Department",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8094985,
+  "updated_at": "2026-07-29T18:34:59-04:00",
+  "requisition_id": "R-105750",
+  "title": "Machine Learning Manager, Feed Relevance (Retrieval)",
+  "company_name": "Reddit",
+  "first_published": "2026-07-29T15:24:35-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;div class=&quot;c-message_kit__blocks c-message_kit__blocks--rich_text&quot;&gt;\n&lt;div class=&quot;c-message__message_blocks c-message__message_blocks--rich_text&quot; data-qa=&quot;message-text&quot;&gt;\n&lt;div class=&quot;p-block_kit_renderer&quot; data-qa=&quot;block-kit-renderer&quot;&gt;\n&lt;div class=&quot;p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--first&quot;&gt;\n&lt;div class=&quot;p-rich_text_block&quot;&gt;\n&lt;div class=&quot;p-rich_text_section&quot;&gt;Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit &lt;a class=&quot;c-link&quot; href=&quot;http://www.redditinc.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;http://redditinc.com&quot; data-sk=&quot;tooltip_parent&quot;&gt;www.redditinc.com&lt;/a&gt;.&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;&lt;/div&gt;&lt;p&gt;Reddit is looking for an experienced Engineering Manager to lead our Feed Retrieval team. In this role, you’ll lead a high-impact team of Machine Learning Engineers building the systems that identify, retrieve, and shape the candidate inventory powering Reddit’s personalized feeds. Your team will work at the foundation of Feed Relevance: expanding the set of high-quality content Reddit can recommend, improving personalization and discovery for users across different levels of signal, and building scalable ML systems that directly shape the experiences of over 120M+ daily users.&lt;br&gt;&lt;br&gt;If applying ML / AI in production to improve Reddit Relevance excites you, then you’ve found the right place.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Responsibilities:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Define Technical Vision &amp;amp; Strategy: &lt;/strong&gt;Define the technical vision and long-term roadmap for Feed Retrieval, aligning large-scale recommender-system investments with Reddit’s product, ecosystem, and business objectives.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Roadmap &amp;amp; Prioritization:&lt;/strong&gt; Translate broad Feed Relevance goals into a focused team roadmap, making clear prioritization tradeoffs across model quality, inventory expansion, experimentation velocity, infrastructure cost, and operational reliability.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Team Leadership &amp;amp; Development: &lt;/strong&gt;Coach and support the development of your team, constantly seeking opportunities to grow their skills and impact.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Technical Execution &amp;amp; Delivery: &lt;/strong&gt;Oversee the design, development, and optimization of retrieval systems that source relevant, diverse, fresh, and high-quality candidates for personalized feed experiences.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Measurement &amp;amp; Learning:&lt;/strong&gt; Establish strong measurement, experimentation, and debugging practices so the team can understand retrieval quality, candidate coverage, source incrementality, and downstream impact.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Platform &amp;amp; Infrastructure Collaboration: &lt;/strong&gt;Collaborate with ML platform, infrastructure, ranking, safety, and product teams to build scalable, low-latency retrieval systems that can support the next generation of AI-powered recommendations.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Operational Excellence:&lt;/strong&gt; Maintain high standards for system performance, reliability, latency, cost efficiency, and responsible recommendation practices.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Cross-Functional Partnership: &lt;/strong&gt;Work with cross-functional partners from across the company to identify key areas of opportunity, set expectations, and communicate your team’s work.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Recruiting &amp;amp; Growth:&lt;/strong&gt; Partner with our incredible recruiting team to attract, interview, and hire diverse and talented machine learning engineers, growing a world-class team.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Qualifications:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Experience Leading ML Teams:&lt;/strong&gt; 2+ years of experience building and managing high-performing ML or recommender-systems teams.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Deep ML Expertise:&lt;/strong&gt; Hands-on experience with large-scale production ML systems, ideally including recommender systems, retrieval models, embedding-based systems, sequence models, transformer-based architectures, or LLM-powered recommendation applications.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Technical Domain Knowledge:&lt;/strong&gt; Strong understanding of recommender systems, especially candidate retrieval, embedding/indexing systems, ranking handoffs, feed personalization, exploration, content quality, and measurement strategies.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Strategic Thinking:&lt;/strong&gt; Ability to develop and communicate a clear technical strategy across ambiguous problem spaces, balancing user relevance, ecosystem health, system scalability, and business impact.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Impact-Driven Mindset:&lt;/strong&gt; Passion for developing scalable, well-designed, and responsible AI solutions that drive business value.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Exceptional Communication &amp;amp; Collaboration:&lt;/strong&gt; Strong interpersonal skills and a collaborative mindset, with the ability to effectively communicate complex technical topics to diverse audiences and build strong relationships with cross-functional partners.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Benefits:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Comprehensive Healthcare Benefits and Income Replacement Programs&lt;/li&gt;\n&lt;li&gt;401k with Employer Match&lt;/li&gt;\n&lt;li&gt;Global Benefit programs that fit your lifestyle, from workspace to professional development to caregiving support&lt;/li&gt;\n&lt;li&gt;Family Planning Support&lt;/li&gt;\n&lt;li&gt;Gender-Affirming Care&lt;/li&gt;\n&lt;li&gt;Mental Health &amp;amp; Coaching Benefits&lt;/li&gt;\n&lt;li&gt;Flexible Vacation &amp;amp; Paid Volunteer Time Off&lt;/li&gt;\n&lt;li&gt;Generous Paid Parental Leave&amp;nbsp;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;#LI-remote, #LI-JS5&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&lt;strong&gt;Pay Transparency:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;This job posting may span more than one career level.&lt;/p&gt;\n&lt;p&gt;In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit &lt;a href=&quot;https://www.redditinc.com/careers/&quot; target=&quot;_blank&quot;&gt;https://www.redditinc.com/careers/&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;To provide greater transparency to candidates, we share base salary ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;The base salary range for this position is:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$253,300&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$354,600 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;In select roles and locations, the interviews will be recorded, transcribed and summarized by artificial intelligence (AI). You will have the opportunity to opt out of recording, transcription and summarization prior to any scheduled interviews.&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;During the interview, we will collect the following categories of personal information: Identifiers, Professional and Employment-Related Information, Sensory Information (audio/video recording), and any other categories of personal information you choose to share with us. We will use this information to evaluate your application for employment or an independent contractor role, as applicable.&amp;nbsp; We will not sell your personal information or disclose it to any third party for their marketing purposes.&amp;nbsp; We will delete any recording of your interview promptly after making a hiring decision.&amp;nbsp; For more information about how we will handle your personal information, including our retention of it, please refer to our &lt;a href=&quot;https://redditinc.com/policies/candidate-privacy-policy&quot;&gt;Candidate Privacy Policy for Potential Employees and Contractors&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Reddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.&amp;nbsp; Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If, due to a disability, you need an accommodation during the interview process, please let your recruiter know.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 79647,
+      "name": "Machine Learning",
+      "child_ids": [],
+      "parent_id": 16253
+    }
+  ],
+  "offices": [
+    {
+      "id": 88237,
+      "name": "Remote - United States",
+      "location": null,
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

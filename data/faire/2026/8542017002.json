@@ -1,0 +1,68 @@
+{
+  "absolute_url": "https://boards.greenhouse.io/faire/jobs/8542017002?gh_jid=8542017002",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 6321799002,
+  "location": {
+    "name": "Kitchener-Waterloo, ON; Toronto, ON"
+  },
+  "metadata": [
+    {
+      "id": 4008562002,
+      "name": "Employment Type",
+      "value": "Regular",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8542017002,
+  "updated_at": "2026-08-31T14:24:37-04:00",
+  "requisition_id": "1285",
+  "title": "Staff Machine Learning Platform Engineer",
+  "company_name": "Faire",
+  "first_published": "2026-05-08T17:31:12-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;strong&gt;About Faire&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;Faire is a technology wholesale platform built on the belief that the future is local. Independent retailers around the globe collectively represent a multi-hundred-billion-dollar wholesale market that has historically been fragmented and offline. At Faire, we&#39;re using the power of tech, data, and machine learning to connect this thriving community of entrepreneurs across the globe. Picture your favorite boutique in town — we help them discover the best products from around the world to sell in their stores. With the right tools and insights, we believe that we can level the playing field so businesses can grow and local communities can thrive.&lt;/p&gt;\n&lt;p&gt;We’re looking for smart, resourceful and passionate people to join us as we power the shop local movement. If you believe in community, come join ours.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;About this role&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;As a Staff Machine Learning Platform Engineer, you will help design, improve, and operate a scalable ML platform to accelerate model training, deployment, and governance. You are the technical bridge between data science and production engineering.&amp;nbsp; You’ll be joining a small but deeply critical team that scales Faire’s ability to support tens of thousands of local businesses in a constantly narrowing retail landscape.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What You Will Do&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Design and operate ML infrastructure, including workspaces, clusters, jobs, and workflows&lt;/li&gt;\n&lt;li&gt;Productionize ML workloads using Spark, Delta Lake, MLflow, and Databricks Workflows&lt;/li&gt;\n&lt;li&gt;Teach data scientists how to utilize our ML platform to advance development from notebook to production for our most critical models&lt;/li&gt;\n&lt;li&gt;Implement Unity Catalog for data governance, lineage, access control, and secure multi-tenant usage&lt;/li&gt;\n&lt;li&gt;Build CI/CD pipelines for ML using Terraform and Git-based workflows (e.g., GitHub Actions)&lt;/li&gt;\n&lt;li&gt;Optimize performance, reliability, and cost across training and inference workloads&lt;/li&gt;\n&lt;li&gt;Configure Identity and Access Management (IAM) and Role Based Authentication Controls (RBAC) for sensitive data sets&lt;/li&gt;\n&lt;li&gt;Establish observability for data quality, model performance, and platform health&lt;/li&gt;\n&lt;li&gt;Build and maintain ML Platform technical documentation&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;What it takes&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;8+ years of experience building production ML or data platforms&lt;/li&gt;\n&lt;li&gt;A degree (preferably graduate level) in Computer Science, Engineering, Statistics, or a related technical field&lt;/li&gt;\n&lt;li&gt;Strong hands-on expertise with Databricks, Spark, Delta Lake, and MLflow.&lt;/li&gt;\n&lt;li&gt;Proficiency in Python, SQL, and distributed systems concepts&lt;/li&gt;\n&lt;li&gt;Experience with cloud platforms and infrastructure-as-code&lt;/li&gt;\n&lt;li&gt;Solid understanding of MLOps best practices: CI/CD, monitoring, reproducibility, and security&lt;/li&gt;\n&lt;li&gt;Experience supporting multiple ML teams in a shared platform environment&lt;/li&gt;\n&lt;li&gt;Are an active owner of orphaned problems and are willing to assimilate whatever knowledge you’re missing to get the job done&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Tech Stack&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Faire uses a modern cloud based tech stack.&amp;nbsp; For this role, you’ll want to be proficient with the following:&lt;/p&gt;\n&lt;table style=&quot;border-collapse: collapse; width: 100%;&quot; border=&quot;1&quot;&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;td style=&quot;text-align: center;&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Category&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;text-align: center;&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Technologies&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td&gt;\n&lt;p&gt;&lt;strong&gt;Languages&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td&gt;\n&lt;p&gt;Python, SQL, Kotlin&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td&gt;\n&lt;p&gt;&lt;strong&gt;ML Frameworks&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td&gt;\n&lt;p&gt;PyTorch, MLFlow&amp;nbsp;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td&gt;\n&lt;p&gt;&lt;strong&gt;Big Data &amp;amp; Processing&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td&gt;\n&lt;p&gt;Spark, Kafka, Databricks, Snowflake, Fivetran, Iceberg, Unity Catalog, Datadog, Airflow, Cockroach DB, MySQL&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td&gt;\n&lt;p&gt;&lt;strong&gt;Cloud &amp;amp; Infrastructure&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td&gt;\n&lt;p&gt;AWS, S3, SageMaker, Kubernetes, Docker, GitHub Actions, Terraform&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td&gt;\n&lt;p&gt;&lt;strong&gt;Generative AI&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td&gt;\n&lt;p&gt;Claude Sonnet 4.5, ChatGPT 5.2&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;p&gt;&lt;strong&gt;Salary Range&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Canada: the pay range for this role is $216,000 to $297,000 per year.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;This role will also be eligible for equity and benefits. Actual base pay will be determined based on permissible factors such as transferable skills, work experience, market demands, and primary work location. The base pay range provided is subject to change and may be modified in the future.&lt;/p&gt;\n&lt;p&gt;Faire uses Artificial Intelligence (AI) to screen and select applicants for this position.&lt;/p&gt;\n&lt;p&gt;This job posting is for an existing vacancy.&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;Hybrid Faire employees currently go into the office 3 days per week on Tuesdays, Thursdays, and a third flex day of their choosing (Monday, Wednesday, or Friday).&lt;/em&gt; Additionally, hybrid in-office roles will have the flexibility to work remotely up to 4 weeks per year. Specific Workplace and Information Technology positions may require onsite attendance 5 days per week as will be indicated in the job posting.&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Why you’ll love working at Faire&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Move fast:&lt;/strong&gt; You&#39;ll own meaningful problems that serve customers around the globe with the agency to move fast and see your results clearly.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Equipped to scale:&lt;/strong&gt; We invest in what matters, including the latest enterprise AI tools, to help you work smarter and get more out of every day.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Best in class:&lt;/strong&gt; Our team is full of sharp, kind, and generous colleagues who care about their craft and about helping you grow in yours.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Real rewards.&lt;/strong&gt; Competitive pay, equity, and comprehensive benefits designed to support your life inside and outside of work.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Belonging:&lt;/strong&gt; We&#39;re intentional about building an environment where every Faire employee has equal access to opportunities, growth, and success.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Faire was founded in 2017 by a team of early product and engineering leads from Square. We’re backed by some of the top investors in retail and tech including: Y Combinator, Lightspeed Venture Partners, Forerunner Ventures, Khosla Ventures, Sequoia Capital, Founders Fund, and DST Global. We have headquarters in San Francisco and Kitchener-Waterloo, and a global employee presence across offices in Toronto, London, and New York. To learn more about Faire and our customers, you can read more on our &lt;a href=&quot;https://blog.faire.com/&quot;&gt;blog&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;&lt;/p&gt;\n&lt;p&gt;Faire provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability, genetics, sexual orientation, gender identity or gender expression.&lt;/p&gt;\n&lt;p&gt;Faire is committed to providing access, equal opportunity and reasonable accommodation for individuals with disabilities in employment, its services, programs, and activities. Accommodations are available throughout the recruitment process and applicants with a disability may request to be accommodated throughout the recruitment process. We will work with all applicants to accommodate their individual accessibility needs.&amp;nbsp; To request reasonable accommodation, please fill out our &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSczpI9me7nYKhunSC6AlagHKv75LHqfi-Qi2TP_3dpin0Uc9Q/viewform&quot;&gt;Accommodation Request Form&lt;/a&gt; (&lt;a href=&quot;https://bit.ly/faire-form)&quot;&gt;https://bit.ly/faire-form)&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Privacy&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;For information about the type of personal data Faire collects from applicants, as well as your choices regarding the data collected about you, please visit Faire’s &lt;a class=&quot;c-link&quot; href=&quot;https://www.faire.com/privacy&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.faire.com/privacy&quot; data-sk=&quot;tooltip_parent&quot;&gt;Privacy Notice (https://www.faire.com/privacy)&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4002179002,
+      "name": "Algorithms & Data",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 4000905002,
+      "name": "Kitchener-Waterloo, ON",
+      "location": "Waterloo, Ontario, Canada",
+      "child_ids": [],
+      "parent_id": 4049475002
+    },
+    {
+      "id": 4000970002,
+      "name": "San Francisco, CA",
+      "location": "San Francisco, California, United States",
+      "child_ids": [],
+      "parent_id": 4049474002
+    },
+    {
+      "id": 4037984002,
+      "name": "Toronto, ON",
+      "location": "Toronto, Ontario, Canada",
+      "child_ids": [],
+      "parent_id": 4049475002
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": "http://app2.greenhouse.io/ai_opt_out_request/job_post/8542017002/ai_opt_out"
+}

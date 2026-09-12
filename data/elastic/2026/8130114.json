@@ -1,0 +1,95 @@
+{
+  "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=8130114&gh_jid=8130114",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "education": "education_optional",
+  "internal_job_id": 3520515,
+  "location": {
+    "name": "Canada"
+  },
+  "metadata": [
+    {
+      "id": 32131013,
+      "name": "Requisition open date",
+      "value": "2026-08-14",
+      "value_type": "date"
+    },
+    {
+      "id": 168141,
+      "name": "Target Remote Countries / States Locations [For Job Wrapping]",
+      "value": [
+        "Canada",
+        "Ireland",
+        "Norway",
+        "Poland",
+        "Spain",
+        "United Kingdom",
+        "United States"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 33574685,
+      "name": "Types of Hiring",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 20164553,
+      "name": "FADV_Account",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 20164588,
+      "name": "FADV_Package",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 30595384,
+      "name": "Seniority",
+      "value": "Mid-Senior Level",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8130114,
+  "updated_at": "2026-09-10T20:07:01-04:00",
+  "requisition_id": "R12216",
+  "title": "Senior Security Research Engineer, SONAR (Security Operations and Novel Adversary Research)",
+  "company_name": "Elastic",
+  "first_published": "2026-08-26T11:26:12-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Elastic, the Search AI Company, enables everyone to find the answers they need in real time, using all their data, at scale — unleashing the potential of businesses and people. The Elastic Search AI Platform, used by more than 50% of the Fortune 500, brings together the precision of search and the intelligence of AI to enable everyone to accelerate the results that matter. By taking advantage of all structured and unstructured data — securing and protecting private information more effectively — Elastic’s complete, cloud-based solutions for search, security, and observability help organizations deliver on the promise of AI.&lt;/p&gt;&lt;/div&gt;&lt;h3&gt;&lt;strong&gt;What is The Role&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;SONAR is the adversary research team within Elastic Security. We discover novel adversary behavior through malware reverse engineering, threat hunting, and vulnerability research, turn every discovery into protections that ship to customers, and share our work publicly through Elastic Security Labs. We want to make environments hostile to adversaries, and to put rare knowledge and tooling within reach of every defender. We are looking for a Senior Security Research Engineer to take on our hardest analysis work and help set the technical direction of the team. Our geographically dispersed team values positivity and inclusivity in the workplace, clear communication, collaborative learning, and guided mentorship.&lt;/p&gt;\n&lt;p&gt;Our research is public, and much of it is work you may already know: this team identified the supply chain compromise of the axios npm package, uncovered a new Contagious Interview campaign hiding DPRK malware inside SVG images, and published in-depth analyses of the TCLBANKER banking trojan and the PHANTOMPULSE RAT, each one paired with protections that shipped to customers. If you have a passion for taking apart what adversaries build, and would enjoy the challenge of getting that understanding into customers&#39; hands quickly, join our growing team!&lt;/p&gt;\n&lt;h3&gt;What You Will Be Doing&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Reverse engineer malware nobody has documented yet.&lt;/strong&gt; Take apart obfuscated and packed samples across Windows, macOS, and Linux, and recover how they communicate, configure themselves, and stay hidden.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Operate global data systems to identify and mitigate threats.&lt;/strong&gt; Work through data from millions of endpoints to surface the activity worth investigating, build the campaign context that tells customers who is targeting them, and push mitigation back out across the fleet.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Turn every discovery into a shipped protection, and the tooling that scales it.&lt;/strong&gt; Author the signatures that stop what you find, and build the automation and AI-assisted workflows that make the next investigation faster than the last.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Build your public research reputation.&lt;/strong&gt; Publish on Elastic Security Labs, release tools and detection artifacts to our public GitHub repositories, and present at conferences. We encourage a public persona and the relationships in the research community that come with it.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Collaborate across Elastic Security.&lt;/strong&gt; Your discoveries become the rules and models that neighboring teams build and ship, and you will work with those teams directly on shared threat intelligence and detection engineering projects.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Help lead the team&#39;s technical direction.&lt;/strong&gt; Take point on investigations that run for months, raise the bar in review, and mentor researchers earlier in their careers.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;What You Bring&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;6+ years of professional experience&lt;/strong&gt; reverse engineering malware and researching adversary tradecraft, static and dynamic, across multiple executable formats (PE, ELF, Mach-O) and architectures (x86-64, ARM), including obfuscated and packed code that defeats automated tooling.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Python development experience&lt;/strong&gt; for research tooling and automation, plus the ability to read C and C++. Malware arrives in Rust, Go, and NodeJS too, so you are willing to learn a new runtime when a sample demands it.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;YARA authorship and hunting at scale.&lt;/strong&gt; You write signatures that hold up against the next variant, and you can find a weak signal in a very large telemetry dataset.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Working knowledge of the fundamentals&lt;/strong&gt;: Windows and Linux internals, network protocols including HTTP and TLS, and enough applied cryptography to recognize what is protecting a configuration blob.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Technical writing ability.&lt;/strong&gt; You can turn a long investigation into a clear, public analysis that other defenders can act on.&lt;/li&gt;\n&lt;li&gt;You have a proven track record of using AI to accelerate development, debug complex systems, and optimize code, while still owning the final outcomes.&lt;/li&gt;\n&lt;li&gt;Proven ability to seamlessly transition between different projects, codebases, or scrum teams based on dynamic business priorities.&lt;/li&gt;\n&lt;li&gt;A collaborative mentality, an eagerness to learn new skills and emerging technologies, and a &lt;strong&gt;passion for protecting the world&#39;s data from attack!&lt;/strong&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Bonus Points&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Vulnerability research or novel technique discovery, with a track record of responsible disclosure.&lt;/li&gt;\n&lt;li&gt;Participation in CTFs such as FLARE-ON or NetWars.&lt;/li&gt;\n&lt;li&gt;Standing in the community: maintaining an open-source security tool, speaking at conferences (e.g., Black Hat, DEF CON, CODE BLUE, Virus Bulletin), or an established publication record.&lt;/li&gt;\n&lt;li&gt;Attribution tradecraft, including joint investigations with external intelligence partners and platforms such as MISP or OpenCTI.&lt;/li&gt;\n&lt;li&gt;Behavioral detection engineering beyond signatures, or applying machine learning to malware classification.&lt;/li&gt;\n&lt;li&gt;Familiarity with the Elastic Stack (Elasticsearch, Kibana) and Elastic Security.&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Compensation for this role is in the form of base salary.&amp;nbsp; This role does not have a variable compensation component.&amp;nbsp; The typical starting salary range for new hires in this role is listed below.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;These ranges represent the lowest to highest salary we reasonably and in good faith believe we would pay for this role at the time of this posting.&amp;nbsp; We may ultimately pay more or less than the posted range, and the ranges may be modified in the future.&amp;nbsp;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;An employee&#39;s position within the salary range will be based on several factors including, but not limited to, relevant education, qualifications, certifications, experience, skills, geographic location, performance, and business or organizational needs.&lt;/p&gt;\n&lt;p&gt;Elastic believes that employees should have the opportunity to share in the value that we create together for our shareholders. Therefore, in addition to cash compensation, this role is currently eligible to participate in Elastic&#39;s stock program.&amp;nbsp; Our total rewards package also includes a company-matched Registered Retirement Savings Plan (RRSP) with dollar-for-dollar matching up to 6% of eligible earnings, along with a range of other benefits offered with a holistic emphasis on employee well-being.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;The typical starting salary range for this role is:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$128,300&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$203,000 CAD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;Additional Information - We Take Care of Our People&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;As a distributed company, diversity drives our identity. Whether you’re looking to launch a new career or grow an existing one, Elastic is the type of company where you can balance great work with great life. Your age is only a number. It doesn’t matter if you’re just out of college or your children are; we need you for what you can do.&lt;/p&gt;\n&lt;p&gt;We strive to have parity of benefits across regions and while regulations differ from place to place, we believe taking care of our people is the right thing to do.&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Competitive pay based on the work you do here and not your previous salary&lt;/li&gt;\n&lt;li&gt;Health coverage for you and your family in many locations&lt;/li&gt;\n&lt;li&gt;Ability to craft your calendar with flexible locations and schedules for many roles&lt;/li&gt;\n&lt;li&gt;Generous number of vacation days each year&lt;/li&gt;\n&lt;li&gt;Increase your impact - We match up to $2000 (or local currency equivalent) for financial donations and service&lt;/li&gt;\n&lt;li&gt;Up to 40 hours each year to use toward volunteer projects you love&lt;/li&gt;\n&lt;li&gt;Embracing parenthood with minimum of 16 weeks of parental leave&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Different people approach problems differently. We need that. Elastic is an equal opportunity employer and is committed to creating an inclusive culture that celebrates different perspectives, experiences, and backgrounds. Qualified applicants will receive consideration for employment without regard to race, ethnicity, color, religion, sex, pregnancy, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, disability status, or any other basis protected by federal, state or local law, ordinance or regulation.&lt;/p&gt;\n&lt;p&gt;We welcome individuals with disabilities and strive to create an accessible and inclusive experience for all individuals. To request an accommodation during the application or the recruiting process, please email &lt;a href=&quot;mailto:candidate_accessibility@elastic.co&quot; target=&quot;_blank&quot;&gt;candidate_accessibility@elastic.co&lt;/a&gt;&lt;span class=&quot;gmail_default&quot;&gt;.&lt;/span&gt;&amp;nbsp;We will reply to your request within 24 business hours of submission.&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Applicants have rights under Federal Employment Laws, view posters linked below:&lt;/span&gt; &lt;a href=&quot;https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/fmlaen.pdf&quot; target=&quot;_blank&quot;&gt;Family and Medical Leave Act (FMLA)&lt;/a&gt; &lt;span style=&quot;color: #000000;&quot;&gt;Poster;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&amp;nbsp;&lt;a href=&quot;https://www.dol.gov/sites/dolgov/files/ofccp/pdf/pay-transp_%20English_formattedESQA508c.pdf&quot; target=&quot;_blank&quot;&gt;Pay Transparency Nondiscrimination Provision&lt;/a&gt; Poster; &lt;/span&gt;&lt;a href=&quot;https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/eppabw.pdf&quot; target=&quot;_blank&quot;&gt;Employee Polygraph Protection Act (EPPA)&lt;/a&gt; &lt;span style=&quot;color: #000000;&quot;&gt;Poster and &lt;a href=&quot;https://www.dol.gov/sites/dolgov/files/OFCCP/regs/compliance/posters/pdf/22-088_EEOC_KnowYourRights.pdf&quot; target=&quot;_blank&quot;&gt;Know Your Rights&lt;/a&gt; (Poster)&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Elasticsearch develops and distributes technology and information that is subject to U.S. and other countries’ export controls and licensing requirements for individuals who are located in or are nationals of the following sanctioned countries and regions: Belarus, Cuba, Iran, North Korea, Syria, or Russia, including the Ukrainian territories annexed by Russia (The Crimea region of Ukraine, The Donetsk People&#39;s Republic (DNR), The Luhansk People&#39;s Republic (LNR), Kherson or Zaporizhzhia). If you are located in or are a national of one of the listed countries or regions, an export license may be required as a condition of your employment in this role. Please note that national origin and/or nationality do not affect eligibility for employment with Elastic.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;Please see&amp;nbsp;&lt;a href=&quot;https://www.elastic.co/legal/applicant-privacy-statement&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://www.elastic.co/legal/applicant-privacy-statement&amp;amp;source=gmail&amp;amp;ust=1611068262479000&amp;amp;usg=AFQjCNG3orAPk5sJIr9WVm0ZDxYw82c5DA&quot;&gt;here&lt;/a&gt;&amp;nbsp;for our Privacy Statement.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 69092,
+      "name": "Security - Protections",
+      "child_ids": [],
+      "parent_id": 69101
+    }
+  ],
+  "offices": [
+    {
+      "id": 80205,
+      "name": "Spain",
+      "location": null,
+      "child_ids": [
+        212141
+      ],
+      "parent_id": 80176
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

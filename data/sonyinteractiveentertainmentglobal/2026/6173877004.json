@@ -1,0 +1,108 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6173877004",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": true,
+      "requires_processing_consent": false,
+      "requires_retention_consent": true,
+      "retention_period": 1460,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 5208566004,
+  "location": {
+    "name": "United States, San Diego, CA"
+  },
+  "metadata": [
+    {
+      "id": 4367803004,
+      "name": "Cost Center",
+      "value": "GAMES3US70-USU1900710 San Diego Studio",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167524004,
+      "name": "Career Page - Office Location",
+      "value": "United States, San Diego, CA",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167525004,
+      "name": "Career Page - Department",
+      "value": "San Diego Studio",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9377282004,
+      "name": "Career Page - Sub Department",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 20089613004,
+      "name": "Career Page - Studio Project",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 4395289004,
+      "name": "Worker Type",
+      "value": "Employee",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4404049004,
+      "name": "Country",
+      "value": "United States of America",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9262269004,
+      "name": "Job Family",
+      "value": "PD Programming & Eng (PD)",
+      "value_type": "short_text"
+    },
+    {
+      "id": 9262270004,
+      "name": "Job Family Group",
+      "value": "Product Development",
+      "value_type": "short_text"
+    },
+    {
+      "id": 21724118004,
+      "name": "Bungie Geo Pay",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 6173877004,
+  "updated_at": "2026-09-11T12:21:53-04:00",
+  "requisition_id": "R-125270",
+  "title": "Senior Graphics Programmer",
+  "company_name": "PlayStation Global",
+  "first_published": "2026-09-11T12:21:53-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Why Sony Interactive Entertainment?&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Sony Interactive Entertainment isn’t just the Best Place to Play — it’s also the Best Place to Work. Sony Interactive Entertainment (SIE) is the company behind the PlayStation brand. As a subsidiary of Sony Group Corporation, we’re part of a proud legacy of innovation and excellence. SIE is a dynamic technology company, delivering cutting-edge hardware and network services to more than 100 million people and an entertainment leader, home to some of the most beloved and recognizable intellectual properties (IP) in the world. Our role at SIE is to create and nurture the experiences under the PlayStation brand, a name synonymous with entertainment excellence and creativity.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Why PlayStation? Why San Diego Studio? &lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;We are the team behind MLB The Show, a critically acclaimed AAA sports franchise developed for PlayStation, Xbox, and Nintendo platforms. Our focus is on delivering innovative, high-quality gaming experiences – and we’re looking for a Sr Programmer to help build, package, and ship the game on every platform we support.&lt;/p&gt;\n&lt;p&gt;The ideal candidate possesses strong problem-solving abilities, sharp attention to detail, and thrives both independently and in collaborative, cross-functional teams. They are a versatile generalist who is as comfortable owning a build and data-packaging pipeline as they are bringing the engine up on new hardware or diving into low-level systems to track down a crash or reclaim memory. They enjoy the planning side of the work: scoping infrastructure changes, sequencing a platform or SDK migration so the team is never blocked, and modernizing tools and systems that have grown over many years. Not only does this person have a strong understanding of how large codebases are built, shipped, and maintained, they are also comfortable with the system-level aspects of the target hardware they’re working on when transitioning to new platforms.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Key Responsibilities:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;• Develop, optimize, and maintain the cross-platform build and data-packaging pipeline that turns our game into shippable products across all our supported platforms, current and future.&lt;/p&gt;\n&lt;p&gt;• Bring the engine up on new platforms and drive platform SDK upgrades, resolving the low-level and system-level issues that come with them (toolchains, file systems, memory and address-space behavior, boot and packaging requirements).&lt;/p&gt;\n&lt;p&gt;• Identify and resolve crashes, out-of-memory conditions, and stability issues across a broad range of hardware, from high-end consoles to memory-constrained mobile devices.&lt;/p&gt;\n&lt;p&gt;• Build, package, harden, and release our mobile (Android and iOS) products, and keep the associated build automation healthy.&lt;/p&gt;\n&lt;p&gt;• Own and evolve the studio’s internal tools – data packaging, memory tracking, metrics and profiling – that the wider team relies on every day.&lt;/p&gt;\n&lt;p&gt;• Plan and lead the modernization of long-lived build systems, toolchains, and infrastructure.&lt;/p&gt;\n&lt;p&gt;• Manage branch integration and keep builds flowing across mainline, staging, production, and patch branches in collaboration with engineering, QA, and production teams.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Required Qualifications&lt;/strong&gt;:&lt;/p&gt;\n&lt;p&gt;• Bachelor’s degree in computer science, mathematics, or a related technical field or equivalent.&lt;/p&gt;\n&lt;p&gt;• 5+ years of experience programming in C++ with a focus on performance-critical and system level application.&lt;/p&gt;\n&lt;p&gt;• Strong experience with development and release of one or more AAA titles.&lt;/p&gt;\n&lt;p&gt;• Demonstrated ability to work effectively across many unfamiliar systems rather than within a single specialty.&lt;/p&gt;\n&lt;p&gt;• Strong debugging and problem-solving skills on hard, intermittent, and low-level issues (memory management, crashes, toolchain and SDK behavior).&lt;/p&gt;\n&lt;p&gt;• Experience with build systems, packaging and deployment pipelines, and build automation (e.g. Jenkins, MSBuild, gradle, and shell/batch scripting).&lt;/p&gt;\n&lt;p&gt;• Comfort at a low level: memory management, pointers and address spaces, compiler and linker flags, and optimization behavior.&lt;/p&gt;\n&lt;p&gt;• Hands-on experience with Visual Studio, Perforce, and other standard development tools.&lt;/p&gt;\n&lt;p&gt;• Working proficiency in C# for tools and pipeline development.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Preferred Qualifications&lt;/strong&gt;:&lt;/p&gt;\n&lt;p&gt;• Experience developing and shipping on console platforms (PlayStation, Xbox, and/or Nintendo Switch), including platform SDKs and certification/packaging requirements.&lt;/p&gt;\n&lt;p&gt;• Experience shipping mobile titles (Android/iOS): NDK, app-bundle and store submission, code obfuscation and app hardening, and crash reporting.&lt;/p&gt;\n&lt;p&gt;• Experience developing internal developer tools with graphical front-ends (e.g. C#/WinForms).&lt;/p&gt;\n&lt;p&gt;• Familiarity with scripting languages like Python is a plus.&lt;/p&gt;\n&lt;p&gt;• Exposure to graphics/rendering concepts, in particular how rendering features fit within platform memory and performance budgets (desired but not required).&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;At SIE, we consider several factors when setting each role’s base pay range, including the competitive benchmarking data for the market and geographic location.&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;br&gt;Please note that the base pay range may vary in line with our hybrid working policy and individual base pay will be determined based on job-related factors which may include knowledge, skills, experience, and location.&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;br&gt;In addition, this role &lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;is eligible&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; for SIE’s top-tier benefits package that includes medical, dental, vision, matching 401(k), paid time off, wellness program and coveted employee discounts for Sony products. &lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;This role also may be eligible for a bonus package.&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; Click&amp;nbsp;&lt;/span&gt;&lt;a href=&quot;https://careers.playstation.com/benefits&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; to learn more.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;The estimated base pay range for this role is listed below.&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$138,700&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$208,100 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p class=&quot;p1&quot;&gt;Please note, Sony Interactive Entertainment conducts background checks at the offer stage for all new employees (which may include criminal background checks for some roles) and will need to process personal information to support these checks.&lt;/p&gt;\n&lt;p class=&quot;p1&quot;&gt;Please refer to our&amp;nbsp;&lt;a href=&quot;https://www.playstation.com/legal/careers-privacy-notice/&quot; target=&quot;_blank&quot;&gt;Candidate Privacy Notice&lt;/a&gt;&amp;nbsp;for more information about what personal information we collect, how we use it, who we share it with, and your data protection rights.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Equal Opportunity Statement:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Sony is an Equal Opportunity Employer. All persons will receive consideration for employment without regard to gender (including gender identity, gender expression and gender reassignment), race (including colour, nationality, ethnic or national origin), religion or belief, marital or civil partnership status, disability, age, sexual orientation, pregnancy, maternity or parental status, trade union membership or membership in any other legally protected category.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;We strive to create an inclusive environment, empower employees and embrace diversity. We encourage everyone to respond.&amp;nbsp;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Sony Interactive Entertainment is a Fair Chance employer and qualified applicants with arrest and conviction records will be considered for employment.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4037285004,
+      "name": "San Diego Studio",
+      "child_ids": [],
+      "parent_id": 4072506004
+    }
+  ],
+  "offices": [
+    {
+      "id": 4012039004,
+      "name": "USA-CA-San Diego-Scranton Campus",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 4089335004
+    }
+  ],
+  "ai_disclaimer": "<p><strong>Use of AI in Recruiting&nbsp;</strong></p><p><br></p><p>We use artificial intelligence and other automated tools to assist with certain aspects of our recruiting process, including reviewing applications and supporting candidate evaluation. For example, we use Greenhouse's AI-powered Talent Matching tool to compare information in your application against job-related qualifications and criteria established by our recruiting team. More information about <a href=\"https://www.greenhouse.com/\" target=\"_blank\">Greenhouse</a>, including about its features and its Privacy Policy, may be found at its website. These tools assist our recruiting team and do not make hiring decisions.&nbsp;</p><p><br></p>",
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": "http://app4.greenhouse.io/ai_opt_out_request/job_post/6173877004/ai_opt_out"
+}

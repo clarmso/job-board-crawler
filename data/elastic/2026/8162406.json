@@ -1,0 +1,84 @@
+{
+  "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=8162406&gh_jid=8162406",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 3419452,
+  "location": {
+    "name": "Romania"
+  },
+  "metadata": [
+    {
+      "id": 32131013,
+      "name": "Requisition open date",
+      "value": "2026-04-22",
+      "value_type": "date"
+    },
+    {
+      "id": 168141,
+      "name": "Target Remote Countries / States Locations [For Job Wrapping]",
+      "value": [],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 33574685,
+      "name": "Types of Hiring",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 20164553,
+      "name": "FADV_Account",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 20164588,
+      "name": "FADV_Package",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 30595384,
+      "name": "Seniority",
+      "value": "Mid-Senior Level",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8162406,
+  "updated_at": "2026-09-10T20:07:01-04:00",
+  "requisition_id": "R11508",
+  "title": "Principal Software Engineer - Vector Search - Elasticsearch",
+  "company_name": "Elastic",
+  "first_published": "2026-08-27T14:07:33-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Elastic, the Search AI Company, enables everyone to find the answers they need in real time, using all their data, at scale — unleashing the potential of businesses and people. The Elastic Search AI Platform, used by more than 50% of the Fortune 500, brings together the precision of search and the intelligence of AI to enable everyone to accelerate the results that matter. By taking advantage of all structured and unstructured data — securing and protecting private information more effectively — Elastic’s complete, cloud-based solutions for search, security, and observability help organizations deliver on the promise of AI.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;What is the role&lt;/h2&gt;\n&lt;p&gt;We&#39;re looking for a Principal Software Engineer to join the Elasticsearch - Search team. This globally-distributed team of expert engineers focuses on delivering a robust and feature-rich search experience, including contributing to improving the search experience in Lucene. This is a principal software engineering role that focuses on enhancing the vector similarity search functionality within Elasticsearch, covering the design and implementation of new vector search features, enhancements to existing vector search functionality, and resolving bugs.&lt;/p&gt;\n&lt;p&gt;Our company is distributed by intention. We hire the best engineers we can find wherever they are, whoever they are. We collaborate across continents every day over email, GitHub, Zoom, and Slack. At our best, we write fast, scalable and intuitive software. We believe that the best way to do that is to empower individual engineers, code review every change, decide big things by consensus, and strive for incremental improvements.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;What You Will Be Doing&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Lead initiatives within &lt;a href=&quot;https://github.com/elastic/elasticsearch/&quot; target=&quot;_blank&quot;&gt;Elasticsearch&lt;/a&gt; to produce an industry-leading vector database offering, supplying unparalleled speed and relevance in search.&lt;/li&gt;\n&lt;li&gt;Contribute to Elasticsearch full time, building new search features and fixing intriguing bugs, all while making the code easier to understand. Sometimes you&#39;ll need to invent a new algorithm or data structure. Or find one and implement it. Sometimes you&#39;ll need to get close to the operating system and hardware.&lt;/li&gt;\n&lt;li&gt;Work with a globally distributed team of experienced engineers focused on the vector search capabilities of Elasticsearch.&lt;/li&gt;\n&lt;li&gt;Be an expert on how Elasticsearch implements vector similarity in support of search relevance and everyone will turn to you when they have a question about this area. You&#39;ll improve this area based on your questions and your instincts.&lt;/li&gt;\n&lt;li&gt;Work with community members from all over the world on issues and pull requests, sometimes triaging them and handing them off to other experts and sometimes handling them yourself.&lt;/li&gt;\n&lt;li&gt;Write idiomatic modern Java -- Elasticsearch is 99.8% Java!&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;What You Bring Along&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;You have implemented novel techniques in vector similarity on a search platform with a large user base or progressed the field of academic research in vector similarity information retrieval.&lt;/li&gt;\n&lt;li&gt;Professional experience with vector similarity and vector databases, and you used HNSW, IVF, or other relevant algorithms and libraries on search platforms at scale.&lt;/li&gt;\n&lt;li&gt;You have strong skills in core Java and are conversant in the standard library of data structures and concurrency constructs, as well as other features like lambdas.&lt;/li&gt;\n&lt;li&gt;You work with a high level of autonomy, and are able to take on projects and guide them from beginning to end. This covers both technical design and working with other engineers to develop needed components.&lt;/li&gt;\n&lt;li&gt;You&#39;re comfortable developing collaboratively. Giving and receiving feedback on code and approaches and APIs is hard! Bonus points if you&#39;ve collaborated over the internet because that&#39;s harder. Double bonus points for asynchronous collaboration over the internet. That&#39;s even harder, but we do it anyway because it&#39;s the best way we know how to build software.&lt;/li&gt;\n&lt;li&gt;You&#39;ve used several data storage technologies like Elasticsearch, Solr, PostgreSQL, MongoDB, or Cassandra and have some idea how they work and why they work that way.&lt;/li&gt;\n&lt;li&gt;You have excellent verbal and written communication skills. Like we said, collaborating on the internet is hard. We try to be respectful, empathetic, and trusting in all of our interactions. And we&#39;d expect that from you too.&lt;/li&gt;\n&lt;li class=&quot;public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR&quot; data-block=&quot;true&quot; data-editor=&quot;6mqml&quot; data-offset-key=&quot;bvhlp-0-0&quot;&gt;\n&lt;div class=&quot;public-DraftStyleDefault-block public-DraftStyleDefault-ltr&quot; data-offset-key=&quot;bvhlp-0-0&quot;&gt;&lt;span data-offset-key=&quot;bvhlp-0-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt;You have a proven track record of using AI to accelerate development, debug complex systems, and optimize code, while still owning the final outcomes.&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;\n&lt;/li&gt;\n&lt;li class=&quot;public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR&quot; data-block=&quot;true&quot; data-editor=&quot;6mqml&quot; data-offset-key=&quot;9314h-0-0&quot;&gt;\n&lt;div class=&quot;public-DraftStyleDefault-block public-DraftStyleDefault-ltr&quot; data-offset-key=&quot;9314h-0-0&quot;&gt;&lt;span data-offset-key=&quot;9314h-0-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt;You possess the ability to collaborate across functions and teams and seamlessly transition between different projects, codebases, or teams based on business priorities&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;\n&lt;/li&gt;\n&lt;li class=&quot;public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR&quot; data-block=&quot;true&quot; data-editor=&quot;6mqml&quot; data-offset-key=&quot;4i85p-0-0&quot;&gt;\n&lt;div class=&quot;public-DraftStyleDefault-block public-DraftStyleDefault-ltr&quot; data-offset-key=&quot;4i85p-0-0&quot;&gt;&lt;span data-offset-key=&quot;4i85p-0-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt;You work autonomously and can drive decisions and results in a distributed team by leveraging asynchronous, direct, and transparent communication.&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;\n&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;Bonus Points&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;You&#39;ve built things with Elasticsearch before.&lt;/li&gt;\n&lt;li&gt;You&#39;ve worked with open source projects and are familiar with different styles of source control workflow and continuous integration.&lt;/li&gt;\n&lt;li&gt;Experience with data storage technology.&lt;/li&gt;\n&lt;li&gt;You have experience designing, leading and owning cross-functional initiatives&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Compensation for this role is in the form of base salary.&amp;nbsp; This role does not have a variable compensation component.&amp;nbsp;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;At Elastic, our compensation philosophy aims to provide fair, competitive and transparent remuneration. Salary ranges are established based on a combination of external market benchmarks, internal pay equity considerations, and the responsibilities and complexity associated with each role. This approach helps ensure consistency across comparable roles while remaining competitive within the relevant labour markets.&lt;/p&gt;\n&lt;p&gt;The final compensation offered within the applicable range will be determined based on several objective factors, including relevant professional experience, level of skills and expertise, alignment with the role requirements, and the overall scope and complexity of the position.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;The typical starting salary range for this role is:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;326.400 Lei&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;516.400 Lei RON&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;Additional Information - We Take Care of Our People&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;As a distributed company, diversity drives our identity. Whether you’re looking to launch a new career or grow an existing one, Elastic is the type of company where you can balance great work with great life. Your age is only a number. It doesn’t matter if you’re just out of college or your children are; we need you for what you can do.&lt;/p&gt;\n&lt;p&gt;We strive to have parity of benefits across regions and while regulations differ from place to place, we believe taking care of our people is the right thing to do.&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Competitive pay based on the work you do here and not your previous salary&lt;/li&gt;\n&lt;li&gt;Health coverage for you and your family in many locations&lt;/li&gt;\n&lt;li&gt;Ability to craft your calendar with flexible locations and schedules for many roles&lt;/li&gt;\n&lt;li&gt;Generous number of vacation days each year&lt;/li&gt;\n&lt;li&gt;Increase your impact - We match up to $2000 (or local currency equivalent) for financial donations and service&lt;/li&gt;\n&lt;li&gt;Up to 40 hours each year to use toward volunteer projects you love&lt;/li&gt;\n&lt;li&gt;Embracing parenthood with minimum of 16 weeks of parental leave&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Different people approach problems differently. We need that. Elastic is an equal opportunity employer and is committed to creating an inclusive culture that celebrates different perspectives, experiences, and backgrounds. Qualified applicants will receive consideration for employment without regard to race, ethnicity, color, religion, sex, pregnancy, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, disability status, or any other basis protected by federal, state or local law, ordinance or regulation.&lt;/p&gt;\n&lt;p&gt;We welcome individuals with disabilities and strive to create an accessible and inclusive experience for all individuals. To request an accommodation during the application or the recruiting process, please email &lt;a href=&quot;mailto:candidate_accessibility@elastic.co&quot; target=&quot;_blank&quot;&gt;candidate_accessibility@elastic.co&lt;/a&gt;&lt;span class=&quot;gmail_default&quot;&gt;.&lt;/span&gt;&amp;nbsp;We will reply to your request within 24 business hours of submission.&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Applicants have rights under Federal Employment Laws, view posters linked below:&lt;/span&gt; &lt;a href=&quot;https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/fmlaen.pdf&quot; target=&quot;_blank&quot;&gt;Family and Medical Leave Act (FMLA)&lt;/a&gt; &lt;span style=&quot;color: #000000;&quot;&gt;Poster;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&amp;nbsp;&lt;a href=&quot;https://www.dol.gov/sites/dolgov/files/ofccp/pdf/pay-transp_%20English_formattedESQA508c.pdf&quot; target=&quot;_blank&quot;&gt;Pay Transparency Nondiscrimination Provision&lt;/a&gt; Poster; &lt;/span&gt;&lt;a href=&quot;https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/eppabw.pdf&quot; target=&quot;_blank&quot;&gt;Employee Polygraph Protection Act (EPPA)&lt;/a&gt; &lt;span style=&quot;color: #000000;&quot;&gt;Poster and &lt;a href=&quot;https://www.dol.gov/sites/dolgov/files/OFCCP/regs/compliance/posters/pdf/22-088_EEOC_KnowYourRights.pdf&quot; target=&quot;_blank&quot;&gt;Know Your Rights&lt;/a&gt; (Poster)&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Elasticsearch develops and distributes technology and information that is subject to U.S. and other countries’ export controls and licensing requirements for individuals who are located in or are nationals of the following sanctioned countries and regions: Belarus, Cuba, Iran, North Korea, Syria, or Russia, including the Ukrainian territories annexed by Russia (The Crimea region of Ukraine, The Donetsk People&#39;s Republic (DNR), The Luhansk People&#39;s Republic (LNR), Kherson or Zaporizhzhia). If you are located in or are a national of one of the listed countries or regions, an export license may be required as a condition of your employment in this role. Please note that national origin and/or nationality do not affect eligibility for employment with Elastic.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;Please see&amp;nbsp;&lt;a href=&quot;https://www.elastic.co/legal/applicant-privacy-statement&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://www.elastic.co/legal/applicant-privacy-statement&amp;amp;source=gmail&amp;amp;ust=1611068262479000&amp;amp;usg=AFQjCNG3orAPk5sJIr9WVm0ZDxYw82c5DA&quot;&gt;here&lt;/a&gt;&amp;nbsp;for our Privacy Statement.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 53798,
+      "name": "Platform - Elasticsearch",
+      "child_ids": [],
+      "parent_id": 83407
+    }
+  ],
+  "offices": [
+    {
+      "id": 54601,
+      "name": "Distributed, Global",
+      "location": null,
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

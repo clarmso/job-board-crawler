@@ -1,0 +1,345 @@
+{
+  "id": "1767482d-de23-460c-80eb-6d0a3caa72ab",
+  "title": "Staff Backend Engineer, Commerce",
+  "department": "Engineering",
+  "team": "Engineering",
+  "employmentType": "FullTime",
+  "location": "NAMER",
+  "shouldDisplayCompensationOnJobPostings": true,
+  "secondaryLocations": [
+    {
+      "location": "APAC",
+      "address": {
+        "postalAddress": {}
+      }
+    },
+    {
+      "location": "EMEA",
+      "address": {
+        "postalAddress": {}
+      }
+    }
+  ],
+  "publishedAt": "2026-06-30T21:30:07.895+00:00",
+  "isListed": true,
+  "isRemote": true,
+  "workplaceType": "Remote",
+  "address": {
+    "postalAddress": {
+      "addressRegion": "California",
+      "addressCountry": "United States",
+      "addressLocality": "San Francisco"
+    }
+  },
+  "jobUrl": "https://jobs.ashbyhq.com/zapier/1767482d-de23-460c-80eb-6d0a3caa72ab",
+  "applyUrl": "https://jobs.ashbyhq.com/zapier/1767482d-de23-460c-80eb-6d0a3caa72ab/application",
+  "descriptionHtml": "<h2><strong>AI at Zapier</strong></h2><p style=\"min-height:1.5em\">At <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://zapier.com/about\"><u>Zapier</u></a>, we build and use automation every day to make work more efficient, creative, and human. So if you’re using AI tools while applying here - that’s great! We just ask that you use them <strong>responsibly and transparently</strong>.</p><p style=\"min-height:1.5em\">Check out our guidance on <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://zapier.com/l/jobs/ai-at-zapier\"><strong>How to Collaborate with AI During Zapier’s Hiring Process</strong></a><strong>,</strong> including how to use AI tools like ChatGPT, Claude, Gemini, or others during our hiring process - and when not to.</p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\"> </div><p style=\"min-height:1.5em\"><strong>Job Posted: </strong>April 29, 2026</p><p style=\"min-height:1.5em\"><strong>Updated:</strong> June 19, 2026</p><p style=\"min-height:1.5em\"><strong>Location: </strong>Americas - North, Central and South America, EMEA, APAC</p><p style=\"min-height:1.5em\"></p><h2>Hi there!</h2><p style=\"min-height:1.5em\">Zapier's mission is to make automation work for everyone. That mission is funded by revenue — and every dollar of it flows through our Commerce Zone. We build and operate the infrastructure behind billing, subscriptions, payments, pricing, entitlements, and checkout across everything Zapier ships: self-serve plans, enterprise contracts, and ecosystem offerings. When a customer upgrades, renews, changes plans, or pays an invoice, our systems make it happen — correctly, instantly, and at scale.</p><p style=\"min-height:1.5em\">We're hiring a <strong>Staff Engineer</strong> to own the technical vision and long-term architecture for the Commerce Zone. You'll define the pricing primitives, service boundaries, and data models that let Zapier ship pricing and packaging changes in days instead of months — while keeping every dollar accounted for accurately. That means designing the framework and abstractions product teams plug into so they can launch new SKUs without becoming billing experts, building configuration-driven infrastructure for pricing experimentation, and ensuring the platform evolves without foundational rewrites.</p><p style=\"min-height:1.5em\">This is production-critical, finance-grade infrastructure where correctness is non-negotiable. You'll drive alignment across teams in a space defined by high ambiguity and competing constraints, working closely with Product, Engineering, Finance, and Sales. The role is particularly exciting because decisions here ripple across Zapier — shaping how the company monetizes its next phase of growth.</p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://zapier.com/jobs/our-commitment-to-applicants/\">Our Commitment to Applicants</a></p></li><li><p style=\"min-height:1.5em\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://zapier.com/jobs/culture-and-values-at-zapier/\">Culture and Values at Zapier</a></p></li><li><p style=\"min-height:1.5em\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://zapier.com/learn/remote-work/\">Zapier Guide to Remote Work</a></p></li><li><p style=\"min-height:1.5em\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://zapier.com/jobs/zapier-code-of-conduct/\">Zapier Code of Conduct</a></p></li><li><p style=\"min-height:1.5em\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://zapier.com/jobs/working-on-diversity-and-inclusivity/\">Diversity and Inclusivity at Zapier</a></p></li></ul><p style=\"min-height:1.5em\"></p><h2><strong>About You</strong></h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>Proven engineering impact: </strong>You've driven outcomes in complex, production systems at scale — shipping projects that delivered measurable improvements in environments where requirements shifted under you. You separate essential from accidental complexity, make tradeoffs explicit, and use data to inform decisions without becoming paralyzed by it. Many strong candidates have 8+ years of experience, but we hire for impact and capability, not tenure.</p></li><li><p style=\"min-height:1.5em\"><strong>Billing/payments/monetization domain experience:</strong> You bring strong domain knowledge in billing systems, subscription management, payment processing, or financial platforms. You understand metered billing, pricing models, entitlements, revenue recognition, and the operational complexity of supporting enterprise customers. You know that billing isn't just a backend problem — it touches sales, finance, support, and product, and you've navigated that reality.</p></li><li><p style=\"min-height:1.5em\"><strong>API, platform, and performance expertise:</strong> You've designed and built APIs that serve multiple consumers — internal teams, external partners, and user-facing products — and you know how to evolve systems without breaking existing integrations. You have a track record of identifying and resolving performance bottlenecks through profiling, caching, database optimization, and delivering measurable improvements that impact user experience and conversion.</p></li><li><p style=\"min-height:1.5em\"><strong>Outcome-driven and customer-focused:</strong> You care deeply about the problems our customers are trying to solve and define success by the results they achieve — not the elegance of the technical solution. You fall in love with the problem, not your first implementation, and are willing to rethink or pivot when it better serves the customer and the business.</p></li><li><p style=\"min-height:1.5em\"><strong>Cross-team leadership and proactive ownership: </strong>You've led technical initiatives that span multiple teams and operate with end-to-end ownership. You gather requirements, surface risks early, align stakeholders, and drive ambiguous problems through to measurable outcomes. You're a trusted partner to Engineering, Product, and Design leadership — helping shape roadmaps, translating business strategy into technical direction, and amplifying other engineers by raising standards and building durable foundations that create leverage across teams.</p></li><li><p style=\"min-height:1.5em\"><strong>AI fluency:</strong> You use AI coding tools as a regular part of your workflow and have a point of view on where they accelerate delivery and where human judgment is non-negotiable. In a high-correctness domain like payments and billing, you know the difference between automating boilerplate and trusting AI with revenue logic — and you bring that judgment to the engineers you work with.</p></li><li><p style=\"min-height:1.5em\"><strong>Comfort with complexity:</strong> You're at home in large, mature codebases — you know how to navigate a monolith, find the right leverage points, and make meaningful progress without waiting for a clean slate.</p></li></ul><p style=\"min-height:1.5em\"></p><h2><strong>Things You’ll Do</strong></h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>Serve as a technical leader within the Commerce Zone:</strong> You’ll operate as part of the zone’s leadership team, partnering closely with Engineering, Product, and Design to shape strategy and roadmap decisions. You’ll translate business context into technical direction—and ensure engineering tradeoffs are clearly understood at the business level.</p></li><li><p style=\"min-height:1.5em\"><strong>Shape the long-term platform vision:</strong> You’ll define and evolve the architectural direction of the Commerce Zone, balancing near-term delivery with long-term durability, extensibility, and operational excellence.</p></li><li><p style=\"min-height:1.5em\"><strong>Lead high-impact technical initiatives:</strong> You’ll drive the strategic evolution of our monetization platform—decoupling billing from account systems, clarifying system boundaries, and consolidating pricing infrastructure. You’ll build flexible, configurable foundations that enable fast Pricing and Packaging experimentation and seamless launch moments across the customer lifecycle, while supporting clean, reliable data for Finance and Pricing &amp; Packaging.</p></li><li><p style=\"min-height:1.5em\"><strong>Own and strengthen revenue-critical systems:</strong> You’ll be responsible for systems across the Commerce Zone—Billing, Pricing, Payments, Checkout, and Entitlements—ensuring they are resilient, observable, and correct. You’ll raise the bar on proactive detection, safe rollback mechanisms, and revenue accuracy—catching issues before customers do. You’ll systematically reduce structural and technical debt, eliminate recurring operational pain points, and strengthen architectural foundations to prevent revenue-impacting incidents before they emerge.</p></li><li><p style=\"min-height:1.5em\"><strong>Guide high-impact technical decisions:</strong> You’ll influence API design, data modeling, caching strategies, and system architecture—optimizing for scalability, developer experience, and rapid pricing and packaging iteration.</p></li><li><p style=\"min-height:1.5em\"><strong>Partner deeply across Zapier:</strong> You’ll collaborate closely with Pricing &amp; Packaging, Product, and Design teams to drive ARR growth and craft seamless, intuitive, and lovable monetization journeys for self-serve, enterprise, and ecosystem customers. You’ll also work with Support and Operations to ensure robust admin tooling and exceptional customer experiences across upgrades, billing changes, and subscription management.</p></li><li><p style=\"min-height:1.5em\"><strong>Drive measurable improvements:</strong> You’ll identify performance bottlenecks and deliver optimizations that show up in the metrics—reduced latency, improved reliability, stronger customer experiences, and improved conversion and retention.</p></li><li><p style=\"min-height:1.5em\"><strong>Mentor engineers and raise the technical bar:</strong> You’ll share patterns and tooling, conduct thoughtful code reviews, and grow engineering capability across the zone. You’ll be a go-to resource for engineers tackling complex monetization and platform challenges.</p></li><li><p style=\"min-height:1.5em\"><strong>Champion documentation and developer experience:</strong> You’ll ensure our systems are well-documented and easy to adopt, reducing friction and accelerating development across the organization.</p></li></ul><h2><strong>How to Apply</strong></h2><p style=\"min-height:1.5em\">At Zapier, we believe that diverse perspectives and experiences make us better, which is why we have a non-standard application process designed to promote inclusion and equity. We're looking for the best fit for each of our roles, regardless of the type of companies in your background, so we encourage you to apply even if your skills and experiences don’t exactly match the job description. All we ask is that you answer a few in-depth questions in our application that would typically be asked at the start of an interview process. This helps speed things up by letting us get to know you and your skillset a bit better right out of the gate. Please be sure to answer each question; the resume and CV fields are optional.</p><p style=\"min-height:1.5em\">Education is not a requirement for our roles; however, if you receive an offer, you will need to include your most recent educational experience as part of our background check process.</p><p style=\"min-height:1.5em\">After you apply, you are going to hear back from us—even if we don’t see an immediate fit with our team. In fact, throughout the process, we strive to never go more than seven days without letting you know the status of your application. We know we’ll make mistakes from time to time, so if you ever have questions about where you stand or about the process, just ask your recruiter!</p><p style=\"min-height:1.5em\">Zapier is an equal-opportunity employer and we're excited to work with talented and empathetic people of all identities. Zapier does not discriminate based on someone's identity in any aspect of hiring or employment as required by law and in line with our commitment to Diversity, Inclusion, Belonging and Equity. Our <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://zapier.com/jobs/zapier-code-of-conduct\">code of conduct</a> provides a beacon for the kind of company we strive to be, and we celebrate our differences because those differences are what allow us to make a product that serves a global user base. Zapier will consider all qualified applicants, including those with criminal histories, consistent with applicable laws.</p><p style=\"min-height:1.5em\">Zapier prioritizes the security of our customers' information and is dedicated to adhering to all applicable data privacy laws. You can <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://zapier.com/legal/data-privacy\">review our privacy policy here</a>.</p><p style=\"min-height:1.5em\">Zapier is committed to inclusion. As part of this commitment, Zapier welcomes applications from individuals with disabilities and will work to provide reasonable accommodations. If reasonable accommodations are needed to participate in the job application or interview process, please contact <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"mailto:jobs@zapier.com\">jobs@zapier.com</a>.</p><p style=\"min-height:1.5em\"></p><h2><strong>Application Deadline:</strong></h2><p style=\"min-height:1.5em\">The anticipated application window is 30 days from the date job is posted, unless the number of applicants requires it to close sooner or later, or if the position is filled.</p><p style=\"min-height:1.5em\"><em>Even though we’re an all-remote company, we still need to be thoughtful about where we have Zapiens working. Check out</em><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://docs.google.com/spreadsheets/d/1_lXQvKwuU4xXEbye7EW_En8iv1ZIMlQNmT7B2Mzbo24/edit?gid=0#gid=0\"><em> this resource</em></a><em> for a list of countries where we currently cannot have Zapiens permanently working.</em></p>",
+  "descriptionPlain": "AI AT ZAPIER\n\nAt Zapier https://zapier.com/about, we build and use automation every day to make work more efficient, creative, and human. So if you’re using AI tools while applying here - that’s great! We just ask that you use them responsibly and transparently.\n\nCheck out our guidance on How to Collaborate with AI During Zapier’s Hiring Process https://zapier.com/l/jobs/ai-at-zapier, including how to use AI tools like ChatGPT, Claude, Gemini, or others during our hiring process - and when not to.\n\n \n\nJob Posted: April 29, 2026\n\nUpdated: June 19, 2026\n\nLocation: Americas - North, Central and South America, EMEA, APAC\n\n\n\n\nHI THERE!\n\nZapier's mission is to make automation work for everyone. That mission is funded by revenue — and every dollar of it flows through our Commerce Zone. We build and operate the infrastructure behind billing, subscriptions, payments, pricing, entitlements, and checkout across everything Zapier ships: self-serve plans, enterprise contracts, and ecosystem offerings. When a customer upgrades, renews, changes plans, or pays an invoice, our systems make it happen — correctly, instantly, and at scale.\n\nWe're hiring a Staff Engineer to own the technical vision and long-term architecture for the Commerce Zone. You'll define the pricing primitives, service boundaries, and data models that let Zapier ship pricing and packaging changes in days instead of months — while keeping every dollar accounted for accurately. That means designing the framework and abstractions product teams plug into so they can launch new SKUs without becoming billing experts, building configuration-driven infrastructure for pricing experimentation, and ensuring the platform evolves without foundational rewrites.\n\nThis is production-critical, finance-grade infrastructure where correctness is non-negotiable. You'll drive alignment across teams in a space defined by high ambiguity and competing constraints, working closely with Product, Engineering, Finance, and Sales. The role is particularly exciting because decisions here ripple across Zapier — shaping how the company monetizes its next phase of growth.\n\n - Our Commitment to Applicants https://zapier.com/jobs/our-commitment-to-applicants/\n\n - Culture and Values at Zapier https://zapier.com/jobs/culture-and-values-at-zapier/\n\n - Zapier Guide to Remote Work https://zapier.com/learn/remote-work/\n\n - Zapier Code of Conduct https://zapier.com/jobs/zapier-code-of-conduct/\n\n - Diversity and Inclusivity at Zapier https://zapier.com/jobs/working-on-diversity-and-inclusivity/\n\n\n\n\nABOUT YOU\n\n - Proven engineering impact: You've driven outcomes in complex, production systems at scale — shipping projects that delivered measurable improvements in environments where requirements shifted under you. You separate essential from accidental complexity, make tradeoffs explicit, and use data to inform decisions without becoming paralyzed by it. Many strong candidates have 8+ years of experience, but we hire for impact and capability, not tenure.\n\n - Billing/payments/monetization domain experience: You bring strong domain knowledge in billing systems, subscription management, payment processing, or financial platforms. You understand metered billing, pricing models, entitlements, revenue recognition, and the operational complexity of supporting enterprise customers. You know that billing isn't just a backend problem — it touches sales, finance, support, and product, and you've navigated that reality.\n\n - API, platform, and performance expertise: You've designed and built APIs that serve multiple consumers — internal teams, external partners, and user-facing products — and you know how to evolve systems without breaking existing integrations. You have a track record of identifying and resolving performance bottlenecks through profiling, caching, database optimization, and delivering measurable improvements that impact user experience and conversion.\n\n - Outcome-driven and customer-focused: You care deeply about the problems our customers are trying to solve and define success by the results they achieve — not the elegance of the technical solution. You fall in love with the problem, not your first implementation, and are willing to rethink or pivot when it better serves the customer and the business.\n\n - Cross-team leadership and proactive ownership: You've led technical initiatives that span multiple teams and operate with end-to-end ownership. You gather requirements, surface risks early, align stakeholders, and drive ambiguous problems through to measurable outcomes. You're a trusted partner to Engineering, Product, and Design leadership — helping shape roadmaps, translating business strategy into technical direction, and amplifying other engineers by raising standards and building durable foundations that create leverage across teams.\n\n - AI fluency: You use AI coding tools as a regular part of your workflow and have a point of view on where they accelerate delivery and where human judgment is non-negotiable. In a high-correctness domain like payments and billing, you know the difference between automating boilerplate and trusting AI with revenue logic — and you bring that judgment to the engineers you work with.\n\n - Comfort with complexity: You're at home in large, mature codebases — you know how to navigate a monolith, find the right leverage points, and make meaningful progress without waiting for a clean slate.\n\n\n\n\nTHINGS YOU’LL DO\n\n - Serve as a technical leader within the Commerce Zone: You’ll operate as part of the zone’s leadership team, partnering closely with Engineering, Product, and Design to shape strategy and roadmap decisions. You’ll translate business context into technical direction—and ensure engineering tradeoffs are clearly understood at the business level.\n\n - Shape the long-term platform vision: You’ll define and evolve the architectural direction of the Commerce Zone, balancing near-term delivery with long-term durability, extensibility, and operational excellence.\n\n - Lead high-impact technical initiatives: You’ll drive the strategic evolution of our monetization platform—decoupling billing from account systems, clarifying system boundaries, and consolidating pricing infrastructure. You’ll build flexible, configurable foundations that enable fast Pricing and Packaging experimentation and seamless launch moments across the customer lifecycle, while supporting clean, reliable data for Finance and Pricing & Packaging.\n\n - Own and strengthen revenue-critical systems: You’ll be responsible for systems across the Commerce Zone—Billing, Pricing, Payments, Checkout, and Entitlements—ensuring they are resilient, observable, and correct. You’ll raise the bar on proactive detection, safe rollback mechanisms, and revenue accuracy—catching issues before customers do. You’ll systematically reduce structural and technical debt, eliminate recurring operational pain points, and strengthen architectural foundations to prevent revenue-impacting incidents before they emerge.\n\n - Guide high-impact technical decisions: You’ll influence API design, data modeling, caching strategies, and system architecture—optimizing for scalability, developer experience, and rapid pricing and packaging iteration.\n\n - Partner deeply across Zapier: You’ll collaborate closely with Pricing & Packaging, Product, and Design teams to drive ARR growth and craft seamless, intuitive, and lovable monetization journeys for self-serve, enterprise, and ecosystem customers. You’ll also work with Support and Operations to ensure robust admin tooling and exceptional customer experiences across upgrades, billing changes, and subscription management.\n\n - Drive measurable improvements: You’ll identify performance bottlenecks and deliver optimizations that show up in the metrics—reduced latency, improved reliability, stronger customer experiences, and improved conversion and retention.\n\n - Mentor engineers and raise the technical bar: You’ll share patterns and tooling, conduct thoughtful code reviews, and grow engineering capability across the zone. You’ll be a go-to resource for engineers tackling complex monetization and platform challenges.\n\n - Champion documentation and developer experience: You’ll ensure our systems are well-documented and easy to adopt, reducing friction and accelerating development across the organization.\n\n\nHOW TO APPLY\n\nAt Zapier, we believe that diverse perspectives and experiences make us better, which is why we have a non-standard application process designed to promote inclusion and equity. We're looking for the best fit for each of our roles, regardless of the type of companies in your background, so we encourage you to apply even if your skills and experiences don’t exactly match the job description. All we ask is that you answer a few in-depth questions in our application that would typically be asked at the start of an interview process. This helps speed things up by letting us get to know you and your skillset a bit better right out of the gate. Please be sure to answer each question; the resume and CV fields are optional.\n\nEducation is not a requirement for our roles; however, if you receive an offer, you will need to include your most recent educational experience as part of our background check process.\n\nAfter you apply, you are going to hear back from us—even if we don’t see an immediate fit with our team. In fact, throughout the process, we strive to never go more than seven days without letting you know the status of your application. We know we’ll make mistakes from time to time, so if you ever have questions about where you stand or about the process, just ask your recruiter!\n\nZapier is an equal-opportunity employer and we're excited to work with talented and empathetic people of all identities. Zapier does not discriminate based on someone's identity in any aspect of hiring or employment as required by law and in line with our commitment to Diversity, Inclusion, Belonging and Equity. Our code of conduct https://zapier.com/jobs/zapier-code-of-conduct provides a beacon for the kind of company we strive to be, and we celebrate our differences because those differences are what allow us to make a product that serves a global user base. Zapier will consider all qualified applicants, including those with criminal histories, consistent with applicable laws.\n\nZapier prioritizes the security of our customers' information and is dedicated to adhering to all applicable data privacy laws. You can review our privacy policy here https://zapier.com/legal/data-privacy.\n\nZapier is committed to inclusion. As part of this commitment, Zapier welcomes applications from individuals with disabilities and will work to provide reasonable accommodations. If reasonable accommodations are needed to participate in the job application or interview process, please contact jobs@zapier.com.\n\n\n\n\nAPPLICATION DEADLINE:\n\nThe anticipated application window is 30 days from the date job is posted, unless the number of applicants requires it to close sooner or later, or if the position is filled.\n\nEven though we’re an all-remote company, we still need to be thoughtful about where we have Zapiens working. Check out this resource https://docs.google.com/spreadsheets/d/1_lXQvKwuU4xXEbye7EW_En8iv1ZIMlQNmT7B2Mzbo24/edit?gid=0#gid=0 for a list of countries where we currently cannot have Zapiens permanently working.",
+  "compensation": {
+    "compensationTierSummary": "$210.7K – $316.1K • Offers Equity • Offers Bonus • Multiple Ranges",
+    "scrapeableCompensationSalarySummary": "$210,700 - $316,100",
+    "compensationTiers": [
+      {
+        "id": "c3b2f490-b909-4b4b-8fc9-14ef7627d44a",
+        "tierSummary": "Base Salary $210,700 – $316,100 • Offers Equity • Offers Bonus",
+        "title": "USA",
+        "additionalInformation": null,
+        "components": [
+          {
+            "id": "94e2385c-6aeb-470c-8b33-a8bebd6caedc",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "729bb440-fab7-49c6-9ae7-cc15605a63f7",
+            "summary": "Offers Bonus",
+            "compensationType": "Bonus",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "6e49f00a-a8c1-45f5-a0fe-ff7c52392508",
+            "summary": "Base Salary $210,700 – $316,100",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 210700,
+            "maxValue": 316100
+          }
+        ]
+      },
+      {
+        "id": "a36257cb-1a38-434f-885d-494445561daf",
+        "tierSummary": "Base Salary CA$210,700 – CA$316,100 • Offers Equity • Offers Bonus",
+        "title": "Canada",
+        "additionalInformation": null,
+        "components": [
+          {
+            "id": "46504e19-5cb0-4a22-8334-a3b7312dbe4d",
+            "summary": "Offers Bonus",
+            "compensationType": "Bonus",
+            "interval": "1 YEAR",
+            "currencyCode": "CAD",
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "949ae0b5-e815-488f-9970-87400e5ee4d1",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "743b6056-2026-4283-bf27-9d67cd77fa6a",
+            "summary": "Base Salary CA$210,700 – CA$316,100",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "CAD",
+            "minValue": 210700,
+            "maxValue": 316100
+          }
+        ]
+      },
+      {
+        "id": "c115318b-67fc-4215-9a74-6dfa40c9f958",
+        "tierSummary": "Base Salary £132,500 – £198,700 • Offers Equity • Offers Bonus",
+        "title": "United Kingdom",
+        "additionalInformation": null,
+        "components": [
+          {
+            "id": "4d5d1785-258e-407b-ac4f-8839ce80372d",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "d2ff98b9-51ac-4a76-9da2-f3689615a6dd",
+            "summary": "Offers Bonus",
+            "compensationType": "Bonus",
+            "interval": "1 YEAR",
+            "currencyCode": "GBP",
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "85dfd2db-ad27-430c-84d6-5924190fcd11",
+            "summary": "Base Salary £132,500 – £198,700",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "GBP",
+            "minValue": 132500,
+            "maxValue": 198700
+          }
+        ]
+      },
+      {
+        "id": "7b0bd94c-ca15-4fe7-9c12-6f5b174442c3",
+        "tierSummary": "Base Salary €135,800 – €203,800 • Offers Equity • Offers Bonus",
+        "title": "Ireland",
+        "additionalInformation": null,
+        "components": [
+          {
+            "id": "45256c19-2f54-4a41-8c57-51b206f5a7d0",
+            "summary": "Base Salary €135,800 – €203,800",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "EUR",
+            "minValue": 135800,
+            "maxValue": 203800
+          },
+          {
+            "id": "fd134aa1-ebc4-486d-9a0c-dda137eaf3f2",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "1c4d42b6-9b18-472f-a829-f4bae7f805c5",
+            "summary": "Offers Bonus",
+            "compensationType": "Bonus",
+            "interval": "1 YEAR",
+            "currencyCode": "EUR",
+            "minValue": null,
+            "maxValue": null
+          }
+        ]
+      },
+      {
+        "id": "6223c0e8-8c22-4159-ae96-71366e87dbd2",
+        "tierSummary": "Base Salary €135,800 – €203,800 • Offers Equity • Offers Bonus",
+        "title": "Spain",
+        "additionalInformation": null,
+        "components": [
+          {
+            "id": "98f35205-1267-4a44-a942-ec897e502f55",
+            "summary": "Base Salary €135,800 – €203,800",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "EUR",
+            "minValue": 135800,
+            "maxValue": 203800
+          },
+          {
+            "id": "28f8fb8f-3454-4c76-8a05-9da83a35e845",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "db17d1e5-acf4-4e0b-a36c-c2bda33c5e2e",
+            "summary": "Offers Bonus",
+            "compensationType": "Bonus",
+            "interval": "1 YEAR",
+            "currencyCode": "EUR",
+            "minValue": null,
+            "maxValue": null
+          }
+        ]
+      },
+      {
+        "id": "d7460af3-6f73-4ec7-af25-943ec0713fcc",
+        "tierSummary": "Base Salary ₹77,56,200 – ₹1,16,34,400 • Offers Equity • Offers Bonus",
+        "title": "India",
+        "additionalInformation": null,
+        "components": [
+          {
+            "id": "62b432c2-3bf0-4b2a-bf62-600fe128d5a7",
+            "summary": "Offers Bonus",
+            "compensationType": "Bonus",
+            "interval": "1 YEAR",
+            "currencyCode": "INR",
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "6f01718b-1966-4372-9bc6-d7826f7f8ad7",
+            "summary": "Base Salary ₹77,56,200 – ₹1,16,34,400",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "INR",
+            "minValue": 7756200,
+            "maxValue": 11634400
+          },
+          {
+            "id": "c44a087c-dfca-413a-9ba5-f52eab28ac20",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
+          }
+        ]
+      },
+      {
+        "id": "cf73dd2f-fb64-4163-8ed5-6adfd1ba3820",
+        "tierSummary": "Base Salary A$208,600 – A$313,000 • Offers Equity • Offers Bonus",
+        "title": "Australia",
+        "additionalInformation": null,
+        "components": [
+          {
+            "id": "fe729dcf-cdd1-48a5-b5f6-cacb471bb652",
+            "summary": "Offers Bonus",
+            "compensationType": "Bonus",
+            "interval": "1 YEAR",
+            "currencyCode": "AUD",
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "80f62ddf-4cd7-45b9-9ee2-21bc1540bd5b",
+            "summary": "Base Salary A$208,600 – A$313,000",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "AUD",
+            "minValue": 208600,
+            "maxValue": 313000
+          },
+          {
+            "id": "5c5a0fb3-3807-4640-8cd7-136848bf927d",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
+          }
+        ]
+      },
+      {
+        "id": "4cad0597-5bf3-43bf-bb00-2127f25b381a",
+        "tierSummary": "Base Salary NZ$208,600 – NZ$313,000 • Offers Equity • Offers Bonus",
+        "title": "New Zealand",
+        "additionalInformation": null,
+        "components": [
+          {
+            "id": "2d7cabe0-fce6-475e-ac27-b46b21b1ea62",
+            "summary": "Base Salary NZ$208,600 – NZ$313,000",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "NZD",
+            "minValue": 208600,
+            "maxValue": 313000
+          },
+          {
+            "id": "65a30c07-5e50-4d60-830f-847f5b306483",
+            "summary": "Offers Bonus",
+            "compensationType": "Bonus",
+            "interval": "1 YEAR",
+            "currencyCode": "NZD",
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "283b0f0a-c4ba-4203-a67d-310985afe8c1",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
+          }
+        ]
+      }
+    ],
+    "summaryComponents": [
+      {
+        "compensationType": "EquityPercentage",
+        "minValue": null,
+        "maxValue": null,
+        "interval": "1 YEAR"
+      },
+      {
+        "compensationType": "Bonus",
+        "minValue": null,
+        "maxValue": null,
+        "interval": "1 YEAR"
+      },
+      {
+        "compensationType": "Salary",
+        "interval": "1 YEAR",
+        "currencyCode": "USD",
+        "minValue": 210700,
+        "maxValue": 316100
+      }
+    ]
+  }
+}

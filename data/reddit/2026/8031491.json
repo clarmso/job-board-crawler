@@ -1,0 +1,138 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/reddit/jobs/8031491",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3481611,
+  "location": {
+    "name": "Remote - United States"
+  },
+  "metadata": [
+    {
+      "id": 944668,
+      "name": "Position ID",
+      "value": "P-500313",
+      "value_type": "short_text"
+    },
+    {
+      "id": 956352,
+      "name": "Recruiting Start Date",
+      "value": "2026-06-26",
+      "value_type": "date"
+    },
+    {
+      "id": 944671,
+      "name": "Target Hire Date",
+      "value": "2026-07-27",
+      "value_type": "date"
+    },
+    {
+      "id": 944672,
+      "name": "Target Hire End Date",
+      "value": "",
+      "value_type": "date"
+    },
+    {
+      "id": 944673,
+      "name": "Job Profile",
+      "value": "Software Development Engineer 5",
+      "value_type": "single_select"
+    },
+    {
+      "id": 956351,
+      "name": "Management Level",
+      "value": "IC5",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944675,
+      "name": "Job Family",
+      "value": "Software Engineering",
+      "value_type": "single_select"
+    },
+    {
+      "id": 53341,
+      "name": "Worker Sub-Type",
+      "value": "Regular",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944676,
+      "name": "Time Type",
+      "value": "Full time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944682,
+      "name": "Pay Rate Type",
+      "value": "Salary",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944681,
+      "name": "Scheduled Weekly Hours",
+      "value": "40.0",
+      "value_type": "number"
+    },
+    {
+      "id": 944667,
+      "name": "Company",
+      "value": "Reddit, Inc.",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944677,
+      "name": "Cost Center",
+      "value": "Tech-Security",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944669,
+      "name": "Worker Type",
+      "value": "Employee",
+      "value_type": "single_select"
+    },
+    {
+      "id": 957961,
+      "name": "Department",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8031491,
+  "updated_at": "2026-07-08T12:15:27-04:00",
+  "requisition_id": "R-105638",
+  "title": "Staff Software Engineer, Identity & Access Management",
+  "company_name": "Reddit",
+  "first_published": "2026-06-26T18:26:08-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;div class=&quot;c-message_kit__blocks c-message_kit__blocks--rich_text&quot;&gt;\n&lt;div class=&quot;c-message__message_blocks c-message__message_blocks--rich_text&quot; data-qa=&quot;message-text&quot;&gt;\n&lt;div class=&quot;p-block_kit_renderer&quot; data-qa=&quot;block-kit-renderer&quot;&gt;\n&lt;div class=&quot;p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--first&quot;&gt;\n&lt;div class=&quot;p-rich_text_block&quot;&gt;\n&lt;div class=&quot;p-rich_text_section&quot;&gt;Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit &lt;a class=&quot;c-link&quot; href=&quot;http://www.redditinc.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;http://redditinc.com&quot; data-sk=&quot;tooltip_parent&quot;&gt;www.redditinc.com&lt;/a&gt;.&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;&lt;/div&gt;&lt;p&gt;Our mission is to bring community and belonging to everyone in the world. Reddit is a community of communities where people can dive into anything through experiences built around their interests, hobbies, and passions. With more than 50 million people visiting 100,000+ communities daily, it is home to the most open and authentic conversations on the internet. From pets to parenting, skincare to stocks, there’s a community for everybody on Reddit. For more information, visit&lt;a href=&quot;https://www.redditinc.com/&quot;&gt; redditinc.com&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;As a &lt;strong&gt;Staff Software Engineer&lt;/strong&gt; within our &lt;strong&gt;SPACE&lt;/strong&gt; org (Security, Privacy, Assurance, and Corporate Engineering), you will play a critical role on the Identity &amp;amp; Access Management (IAM) team.&lt;/p&gt;\n&lt;p&gt;In this role, you will design, deliver, and support the lifecycle of digital identities, authentication, and access across Reddit. You will partner closely with cross-functional teams to build creative, scalable solutions that align with business priorities and strict regulatory standards. We operate in a dynamic, ambiguous problem space—meaning you’ll work across multiple domains and technology stacks to keep Reddit secure.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Some of our present and future challenges include:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Modernizing our identity infrastructure by replacing legacy systems with a tailored governance platform.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Provide self-service identity management lifecycle and natural language explanation of existing systems in order to improve employee experience with security systems.&lt;/li&gt;\n&lt;li&gt;Integrate Reddit’s corporate identity stack across a variety of protocols like SCIM and SAML, and across a variety of use cases (MCP and Agentic, resource automation that includes identity requirements) and increase Reddit’s maturity with “just-in-time” access and advanced identity constructs.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;What You&#39;ll Do:&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Engineering &amp;amp; Integration: &lt;/strong&gt;Develop, scale and maintain Reddit’s core IAM internal identity capabilities, platforms and&amp;nbsp; infrastructure. Design and deploy high-quality API integrations and custom enterprise IGA connectivity solutions.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Observability &amp;amp; Data Analytics:&lt;/strong&gt; Build proactive monitoring frameworks, executive-friendly dashboards, and advanced alerting. Use synthetic transactions and anomaly detection to measure system availability (aiming for multiple 9s). Utilize identity data to track license utilization, aid in fiscal planning, and drive platform adoption.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Process &amp;amp; Compliance:&lt;/strong&gt; Create and maintain documentation, audit logs, and reports to continuously improve business processes and ensure seamless compliance execution.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Operations &amp;amp; Support: &lt;/strong&gt;Troubleshoot complex production incidents, analyze failure conditions, and perform root-cause analysis to support a 24x7 operation.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Collaboration &amp;amp; Mentorship:&lt;/strong&gt; Guide global, cross-functional partners on IAM best practices while raising the engineering bar through code reviews, technical standards, and optimized workflows.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;Technologies we use&lt;/h2&gt;\n&lt;p&gt;Our teams leverage a diverse and modern technology stack. While specific technologies may vary by team, we generally work with:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Languages: &lt;/strong&gt;Go, Python, Java, TypeScript, SQL&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Datastores:&lt;/strong&gt; Postgres, Directory architectures (e.g., LDAP)&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Tools: &lt;/strong&gt;Docker, Kubernetes, AWS, SailPoint, Okta&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;What We are Looking For:&lt;/h2&gt;\n&lt;p&gt;&lt;strong&gt;Experience and Core Capabilities:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;10+ years of backend development experience across multiple layers of the stack—from databases and networking to efficient computing.&lt;/li&gt;\n&lt;li&gt;In-depth knowledge of corporate IAM experience covering the full workforce identity lifecycle (Joiner, Mover, Leaver, Access Requests, and Certifications).&lt;/li&gt;\n&lt;li&gt;Ability to design and implement complex distributed systems operating under high load.&lt;/li&gt;\n&lt;li&gt;Proficiency in our core stack: Go, Python, Java, or TypeScript, with a strong DevOps mindset and end-to-end code ownership (testing, monitoring, deploying, and maintaining).&lt;/li&gt;\n&lt;li&gt;Deep understanding of modern authentication protocols (OAuth, OIDC, SAML) and secure-by-design principles.&lt;/li&gt;\n&lt;li&gt;Hands-on familiarity with enterprise identity solutions including IGA, MFA, PAM / PIM, JIT and Directory architectures (e.g., Okta, LDAP, SailPoint).&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Governance and Compliance:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Familiarity with governance and compliance frameworks (SOC2, SOX, PCI), including driving audit-related access certification reviews.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Collaboration skills:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Strong collaborative communicator thriving in Agile environments, with a continuous learning mindset and a resourceful, &quot;can-do&quot; approach to complex problem-solving.&lt;/li&gt;\n&lt;li&gt;You embody our company value of Evolve: you view challenges as learning opportunities and continuously seek to improve.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Benefits:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Comprehensive Healthcare Benefits and Income Replacement Programs&lt;/li&gt;\n&lt;li&gt;401k with Employer Match&lt;/li&gt;\n&lt;li&gt;Global Benefit programs that fit your lifestyle, from workspace to professional development to caregiving support&lt;/li&gt;\n&lt;li&gt;Family Planning Support&lt;/li&gt;\n&lt;li&gt;Gender-Affirming Care&lt;/li&gt;\n&lt;li&gt;Mental Health &amp;amp; Coaching Benefits&lt;/li&gt;\n&lt;li&gt;Flexible Vacation &amp;amp; Paid Volunteer Time Off&lt;/li&gt;\n&lt;li&gt;Generous Paid Parental Leave&amp;nbsp;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&lt;strong&gt;Pay Transparency:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;This job posting may span more than one career level.&lt;/p&gt;\n&lt;p&gt;In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit &lt;a href=&quot;https://www.redditinc.com/careers/&quot; target=&quot;_blank&quot;&gt;https://www.redditinc.com/careers/&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;To provide greater transparency to candidates, we share base salary ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;The base salary range for this position is:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$217,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$303,900 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;In select roles and locations, the interviews will be recorded, transcribed and summarized by artificial intelligence (AI). You will have the opportunity to opt out of recording, transcription and summarization prior to any scheduled interviews.&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;During the interview, we will collect the following categories of personal information: Identifiers, Professional and Employment-Related Information, Sensory Information (audio/video recording), and any other categories of personal information you choose to share with us. We will use this information to evaluate your application for employment or an independent contractor role, as applicable.&amp;nbsp; We will not sell your personal information or disclose it to any third party for their marketing purposes.&amp;nbsp; We will delete any recording of your interview promptly after making a hiring decision.&amp;nbsp; For more information about how we will handle your personal information, including our retention of it, please refer to our &lt;a href=&quot;https://redditinc.com/policies/candidate-privacy-policy&quot;&gt;Candidate Privacy Policy for Potential Employees and Contractors&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Reddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.&amp;nbsp; Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If, due to a disability, you need an accommodation during the interview process, please let your recruiter know.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 70584,
+      "name": "Security",
+      "child_ids": [],
+      "parent_id": 82381
+    }
+  ],
+  "offices": [
+    {
+      "id": 88237,
+      "name": "Remote - United States",
+      "location": null,
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

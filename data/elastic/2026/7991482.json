@@ -1,0 +1,97 @@
+{
+  "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=7991482&gh_jid=7991482",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "education": "education_optional",
+  "internal_job_id": 3465939,
+  "location": {
+    "name": "Brazil"
+  },
+  "metadata": [
+    {
+      "id": 32131013,
+      "name": "Requisition open date",
+      "value": "2026-06-05",
+      "value_type": "date"
+    },
+    {
+      "id": 168141,
+      "name": "Target Remote Countries / States Locations [For Job Wrapping]",
+      "value": [],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 33574685,
+      "name": "Types of Hiring",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 20164553,
+      "name": "FADV_Account",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 20164588,
+      "name": "FADV_Package",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 30595384,
+      "name": "Seniority",
+      "value": "Mid-Senior Level",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 7991482,
+  "updated_at": "2026-09-10T20:07:01-04:00",
+  "requisition_id": "R11735",
+  "title": "Principal Search Consulting Architect",
+  "company_name": "Elastic",
+  "first_published": "2026-06-08T17:49:28-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Elastic, the Search AI Company, enables everyone to find the answers they need in real time, using all their data, at scale — unleashing the potential of businesses and people. The Elastic Search AI Platform, used by more than 50% of the Fortune 500, brings together the precision of search and the intelligence of AI to enable everyone to accelerate the results that matter. By taking advantage of all structured and unstructured data — securing and protecting private information more effectively — Elastic’s complete, cloud-based solutions for search, security, and observability help organizations deliver on the promise of AI.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;strong&gt;What is the Role&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;As a &lt;strong&gt;Principal Search Architect&lt;/strong&gt;, you will serve as the elite technical authority and visionary leader helping our largest enterprise customers unlock the full potential of &lt;strong&gt;Elasticsearch&lt;/strong&gt;. Acting as a strategic, trusted advisor to CTOs and Enterprise Architecture teams, you will design, govern, and scale massive, complex Elasticsearch cluster topologies that transform application search performance, data retrieval infrastructure, and AI-powered semantic search capabilities.&lt;/p&gt;\n&lt;p&gt;You will bridge the gap between business strategy and cutting-edge distributed systems engineering, collaborating directly with Elastic’s global Professional Services leadership, Core Engineering, Product Management, and Sales executives. In this high-impact role, you will shape the future of enterprise deployments by driving regional architectural standards, leading critical cluster migrations, and mentoring both Fortune 500 engineering teams and internal Elastic technical staff.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;What You Will Be Doing&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Elasticsearch Core Architecture:&lt;/strong&gt; Translate highly complex business requirements into resilient, next-generation enterprise retrieval architectures built natively on distributed Elasticsearch environments.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Cluster Governance &amp;amp; Design:&lt;/strong&gt; Lead the overarching technical strategy and design authority for high-stakes customer engagements—from initial node blueprinting and capacity planning to custom mappings, shard strategy, Index Lifecycle Management (ILM), and cross-cluster replication (CCR/CCS).&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Advanced Vector Search &amp;amp; AI Engineering:&lt;/strong&gt; Design and operationalize cutting-edge semantic search architectures utilizing Elasticsearch’s native vector database capabilities, including kNN, Approximate Nearest Neighbor (ANN), ELSER (Elastic Learned Sparse Encoder), hybrid retrieval, and Retrieval-Augmented Generation (RAG) pipelines.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Performance Tuning &amp;amp; Optimization:&lt;/strong&gt; Profile, benchmark, and tune distributed search and indexing performance for ultra-high-QPS environments with aggressive sub-second SLAs, optimizing Apache Lucene segment merging, caching layers, and heap/garbage collection configurations.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;High-Throughput Indexing:&lt;/strong&gt; Architect robust distributed ingestion strategies handling petabyte-scale throughput, optimizing cluster state performance, thread pools, and bulk indexing requests for maximum efficiency.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Cross-Functional Influence:&lt;/strong&gt; Collaborate cross-functionally with Elastic Product Management and Core Engineering to influence the Elasticsearch codebase roadmap, surface edge-case bugs, and drive feature enhancement requests based on enterprise field realities.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Community &amp;amp; IP Development:&lt;/strong&gt; Capture, formalize, and publish global best practices, reference architectures, and reusable solution patterns across the broader Elasticsearch and open-source engineering communities.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Culture of Excellence:&lt;/strong&gt; Drive internal enablement initiatives, mentor senior engineers, and cultivate a culture of continuous technical excellence and deep mastery of Elasticsearch internals.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;What You Bring&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;8+ years&lt;/strong&gt; as a Principal Architect, Lead Engineer, or Senior Systems Consultant with recognized, deep technical expertise specifically focused on &lt;strong&gt;Elasticsearch&lt;/strong&gt; at a massive scale.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Elasticsearch Internals Mastery:&lt;/strong&gt; Comprehensive understanding of distributed systems theory as it applies to Elasticsearch, including consensus protocols, internal node roles (master, data, ingest, machine learning), Apache Lucene indexing mechanics, and cluster state management.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;AI-Powered Search Expertise:&lt;/strong&gt; Proven track record of deploying production-grade semantic search solutions using Elasticsearch’s native ML nodes, dense/sparse vector fields, and integrations with modern NLP frameworks and LLM orchestration tools.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Cloud-Native Infrastructure:&lt;/strong&gt; Advanced knowledge of orchestrating massive Elasticsearch workloads across cloud platforms (AWS, Azure, GCP) using cloud-native patterns, Docker, and Terraform.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Polyglot Coding:&lt;/strong&gt; Strong proficiency in multiple programming languages (e.g., Java, Python, Go) with extensive experience utilizing official Elasticsearch client libraries and building custom plugins.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Elite Communication:&lt;/strong&gt; Exceptional presentation and storytelling skills, with verified experience commanding a room of executive stakeholders to align technical Elasticsearch roadmaps with core business strategy.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Education:&lt;/strong&gt; Bachelor’s, Master’s, or PhD in Computer Science, Engineering, or a related quantitative field, or equivalent deep industry experience.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Global Mindset:&lt;/strong&gt; Comfortable working effectively across highly distributed, global teams and traveling to client sites as required for strategic architectural engagements.&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;Additional Information - We Take Care of Our People&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;As a distributed company, diversity drives our identity. Whether you’re looking to launch a new career or grow an existing one, Elastic is the type of company where you can balance great work with great life. Your age is only a number. It doesn’t matter if you’re just out of college or your children are; we need you for what you can do.&lt;/p&gt;\n&lt;p&gt;We strive to have parity of benefits across regions and while regulations differ from place to place, we believe taking care of our people is the right thing to do.&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Competitive pay based on the work you do here and not your previous salary&lt;/li&gt;\n&lt;li&gt;Health coverage for you and your family in many locations&lt;/li&gt;\n&lt;li&gt;Ability to craft your calendar with flexible locations and schedules for many roles&lt;/li&gt;\n&lt;li&gt;Generous number of vacation days each year&lt;/li&gt;\n&lt;li&gt;Increase your impact - We match up to $2000 (or local currency equivalent) for financial donations and service&lt;/li&gt;\n&lt;li&gt;Up to 40 hours each year to use toward volunteer projects you love&lt;/li&gt;\n&lt;li&gt;Embracing parenthood with minimum of 16 weeks of parental leave&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Different people approach problems differently. We need that. Elastic is an equal opportunity employer and is committed to creating an inclusive culture that celebrates different perspectives, experiences, and backgrounds. Qualified applicants will receive consideration for employment without regard to race, ethnicity, color, religion, sex, pregnancy, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, disability status, or any other basis protected by federal, state or local law, ordinance or regulation.&lt;/p&gt;\n&lt;p&gt;We welcome individuals with disabilities and strive to create an accessible and inclusive experience for all individuals. To request an accommodation during the application or the recruiting process, please email &lt;a href=&quot;mailto:candidate_accessibility@elastic.co&quot; target=&quot;_blank&quot;&gt;candidate_accessibility@elastic.co&lt;/a&gt;&lt;span class=&quot;gmail_default&quot;&gt;.&lt;/span&gt;&amp;nbsp;We will reply to your request within 24 business hours of submission.&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Applicants have rights under Federal Employment Laws, view posters linked below:&lt;/span&gt; &lt;a href=&quot;https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/fmlaen.pdf&quot; target=&quot;_blank&quot;&gt;Family and Medical Leave Act (FMLA)&lt;/a&gt; &lt;span style=&quot;color: #000000;&quot;&gt;Poster;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&amp;nbsp;&lt;a href=&quot;https://www.dol.gov/sites/dolgov/files/ofccp/pdf/pay-transp_%20English_formattedESQA508c.pdf&quot; target=&quot;_blank&quot;&gt;Pay Transparency Nondiscrimination Provision&lt;/a&gt; Poster; &lt;/span&gt;&lt;a href=&quot;https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/eppabw.pdf&quot; target=&quot;_blank&quot;&gt;Employee Polygraph Protection Act (EPPA)&lt;/a&gt; &lt;span style=&quot;color: #000000;&quot;&gt;Poster and &lt;a href=&quot;https://www.dol.gov/sites/dolgov/files/OFCCP/regs/compliance/posters/pdf/22-088_EEOC_KnowYourRights.pdf&quot; target=&quot;_blank&quot;&gt;Know Your Rights&lt;/a&gt; (Poster)&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Elasticsearch develops and distributes technology and information that is subject to U.S. and other countries’ export controls and licensing requirements for individuals who are located in or are nationals of the following sanctioned countries and regions: Belarus, Cuba, Iran, North Korea, Syria, or Russia, including the Ukrainian territories annexed by Russia (The Crimea region of Ukraine, The Donetsk People&#39;s Republic (DNR), The Luhansk People&#39;s Republic (LNR), Kherson or Zaporizhzhia). If you are located in or are a national of one of the listed countries or regions, an export license may be required as a condition of your employment in this role. Please note that national origin and/or nationality do not affect eligibility for employment with Elastic.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;Please see&amp;nbsp;&lt;a href=&quot;https://www.elastic.co/legal/applicant-privacy-statement&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://www.elastic.co/legal/applicant-privacy-statement&amp;amp;source=gmail&amp;amp;ust=1611068262479000&amp;amp;usg=AFQjCNG3orAPk5sJIr9WVm0ZDxYw82c5DA&quot;&gt;here&lt;/a&gt;&amp;nbsp;for our Privacy Statement.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 57249,
+      "name": "Consulting - AMER",
+      "child_ids": [],
+      "parent_id": 69110
+    }
+  ],
+  "offices": [
+    {
+      "id": 73204,
+      "name": "United States",
+      "location": null,
+      "child_ids": [
+        51927,
+        69277,
+        85933,
+        87403,
+        20729,
+        20746,
+        20743,
+        44935,
+        44931,
+        44937,
+        44936
+      ],
+      "parent_id": 79984
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

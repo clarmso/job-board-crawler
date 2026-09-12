@@ -1,0 +1,88 @@
+{
+  "id": "1757f49e-7e19-4c45-85f7-e4637dff66fb",
+  "title": "Software Engineer, Agents",
+  "department": "R&D",
+  "team": "Engineering ",
+  "employmentType": "FullTime",
+  "location": "North America",
+  "shouldDisplayCompensationOnJobPostings": true,
+  "secondaryLocations": [
+    {
+      "location": "APJ",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "APJ"
+        }
+      }
+    },
+    {
+      "location": "EMEA",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "EMEA"
+        }
+      }
+    }
+  ],
+  "publishedAt": "2026-08-11T00:18:10.574+00:00",
+  "isListed": true,
+  "isRemote": true,
+  "workplaceType": "Remote",
+  "address": {
+    "postalAddress": {
+      "addressCountry": "NAMER"
+    }
+  },
+  "jobUrl": "https://jobs.ashbyhq.com/livekit/1757f49e-7e19-4c45-85f7-e4637dff66fb",
+  "applyUrl": "https://jobs.ashbyhq.com/livekit/1757f49e-7e19-4c45-85f7-e4637dff66fb/application",
+  "descriptionHtml": "<h2><strong>About LiveKit</strong></h2><p style=\"min-height:1.5em\">LiveKit is building the infrastructure layer for the agentic era of computing. Our platform gives developers everything they need to build, test, deploy, scale, and observe AI agents in production. Founded in 2021, LiveKit powers voice and agentic AI applications for OpenAI, Salesforce, Spotify, Meta, and tens of thousands of other developers, collectively facilitating billions of calls each year.</p><p style=\"min-height:1.5em\"></p><h2><strong>About This Role</strong></h2><p style=\"min-height:1.5em\">We are looking for an exceptional engineer to join the <strong>Agents team</strong> and help shape the future of agentic computing. You'll work on the core abstractions and infrastructure that developers use to build sophisticated AI agents; from real-time voice and text interactions to durable workflows and agent-to-agent communication.</p><p style=\"min-height:1.5em\"></p><h2><strong>What You'll Do</strong></h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Design and develop core functionality for the LiveKit Agents framework</p></li><li><p style=\"min-height:1.5em\"><strong>Help define the text modality of the framework</strong>, enabling agents to interact with users across channels such as SMS</p></li><li><p style=\"min-height:1.5em\"><strong>Design abstractions for stateful and durable agentic workflows</strong>, allowing agents to maintain state and coordinate work across interactions that may span minutes, hours, or longer</p></li><li><p style=\"min-height:1.5em\"><strong>Shape agent-to-agent communication and delegation patterns</strong>, enabling voice agents to hand off tasks, collaborate, and compose into more sophisticated systems</p></li><li><p style=\"min-height:1.5em\">Build simple, powerful developer APIs over complex distributed and real-time systems</p></li><li><p style=\"min-height:1.5em\">Iterate quickly based on feedback from our developer community</p></li><li><p style=\"min-height:1.5em\">Write clear documentation, examples, and reference implementations</p></li><li><p style=\"min-height:1.5em\">Work primarily with Python and TypeScript</p></li></ul><p style=\"min-height:1.5em\"></p><h2><strong>Who You Are</strong></h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Experienced building LLM-based applications and agentic systems</p></li><li><p style=\"min-height:1.5em\">Skilled at navigating complex systems and turning complexity into clean abstractions</p></li><li><p style=\"min-height:1.5em\">Comfortable reasoning about state, concurrency and asynchronous workflows</p></li><li><p style=\"min-height:1.5em\">Product-minded and excited about designing APIs and developer experiences</p></li><li><p style=\"min-height:1.5em\">Experience building developer tools, frameworks, or SDKs is a plus</p></li><li><p style=\"min-height:1.5em\">Interested in exploring emerging patterns in agent architecture rather than simply applying established ones</p></li><li><p style=\"min-height:1.5em\">Comfortable working collaboratively in a remote environment</p></li></ul><h2></h2><h2><strong>Our Commitment to You</strong></h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">An opportunity to build something truly impactful to the world</p></li><li><p style=\"min-height:1.5em\">Contribute to open source alongside world-class engineers</p></li><li><p style=\"min-height:1.5em\">Competitive salary and equity package</p></li><li><p style=\"min-height:1.5em\">Health, dental, and vision benefits</p></li><li><p style=\"min-height:1.5em\">Flexible vacation policy</p></li></ul><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">LiveKit is an equal opportunity employer and does not discriminate on the basis of any characteristic protected by applicable law. If you require a reasonable accommodation during the application or interview process, please contact recruiting@livekit.io.</p><p style=\"min-height:1.5em\"></p>",
+  "descriptionPlain": "ABOUT LIVEKIT\n\nLiveKit is building the infrastructure layer for the agentic era of computing. Our platform gives developers everything they need to build, test, deploy, scale, and observe AI agents in production. Founded in 2021, LiveKit powers voice and agentic AI applications for OpenAI, Salesforce, Spotify, Meta, and tens of thousands of other developers, collectively facilitating billions of calls each year.\n\n\n\n\nABOUT THIS ROLE\n\nWe are looking for an exceptional engineer to join the Agents team and help shape the future of agentic computing. You'll work on the core abstractions and infrastructure that developers use to build sophisticated AI agents; from real-time voice and text interactions to durable workflows and agent-to-agent communication.\n\n\n\n\nWHAT YOU'LL DO\n\n - Design and develop core functionality for the LiveKit Agents framework\n\n - Help define the text modality of the framework, enabling agents to interact with users across channels such as SMS\n\n - Design abstractions for stateful and durable agentic workflows, allowing agents to maintain state and coordinate work across interactions that may span minutes, hours, or longer\n\n - Shape agent-to-agent communication and delegation patterns, enabling voice agents to hand off tasks, collaborate, and compose into more sophisticated systems\n\n - Build simple, powerful developer APIs over complex distributed and real-time systems\n\n - Iterate quickly based on feedback from our developer community\n\n - Write clear documentation, examples, and reference implementations\n\n - Work primarily with Python and TypeScript\n\n\n\n\nWHO YOU ARE\n\n - Experienced building LLM-based applications and agentic systems\n\n - Skilled at navigating complex systems and turning complexity into clean abstractions\n\n - Comfortable reasoning about state, concurrency and asynchronous workflows\n\n - Product-minded and excited about designing APIs and developer experiences\n\n - Experience building developer tools, frameworks, or SDKs is a plus\n\n - Interested in exploring emerging patterns in agent architecture rather than simply applying established ones\n\n - Comfortable working collaboratively in a remote environment\n\n\n\n\n\nOUR COMMITMENT TO YOU\n\n - An opportunity to build something truly impactful to the world\n\n - Contribute to open source alongside world-class engineers\n\n - Competitive salary and equity package\n\n - Health, dental, and vision benefits\n\n - Flexible vacation policy\n\n\n\nLiveKit is an equal opportunity employer and does not discriminate on the basis of any characteristic protected by applicable law. If you require a reasonable accommodation during the application or interview process, please contact recruiting@livekit.io.\n\n",
+  "compensation": {
+    "compensationTierSummary": "$135K – $300K • Offers Equity",
+    "scrapeableCompensationSalarySummary": "$135K - $300K",
+    "compensationTiers": [
+      {
+        "id": "03c75459-456a-45a7-b4f6-8a3caa329275",
+        "tierSummary": "$135K – $300K • Offers Equity",
+        "title": null,
+        "additionalInformation": null,
+        "components": [
+          {
+            "id": "75275700-f138-46e6-a659-eba0736561ab",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "6c6e8015-f828-44e4-8fc6-73bc8413f300",
+            "summary": "$135K – $300K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 135000,
+            "maxValue": 300000
+          }
+        ]
+      }
+    ],
+    "summaryComponents": [
+      {
+        "compensationType": "EquityPercentage",
+        "interval": "NONE",
+        "currencyCode": null,
+        "minValue": null,
+        "maxValue": null
+      },
+      {
+        "compensationType": "Salary",
+        "interval": "1 YEAR",
+        "currencyCode": "USD",
+        "minValue": 135000,
+        "maxValue": 300000
+      }
+    ]
+  }
+}

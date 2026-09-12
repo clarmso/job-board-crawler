@@ -1,0 +1,138 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/reddit/jobs/8090680",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3505249,
+  "location": {
+    "name": "San Francisco, CA"
+  },
+  "metadata": [
+    {
+      "id": 944668,
+      "name": "Position ID",
+      "value": "P-108362",
+      "value_type": "short_text"
+    },
+    {
+      "id": 956352,
+      "name": "Recruiting Start Date",
+      "value": "2026-08-17",
+      "value_type": "date"
+    },
+    {
+      "id": 944671,
+      "name": "Target Hire Date",
+      "value": "2026-09-30",
+      "value_type": "date"
+    },
+    {
+      "id": 944672,
+      "name": "Target Hire End Date",
+      "value": "2027-08-31",
+      "value_type": "date"
+    },
+    {
+      "id": 944673,
+      "name": "Job Profile",
+      "value": "Software Development Engineer 4",
+      "value_type": "single_select"
+    },
+    {
+      "id": 956351,
+      "name": "Management Level",
+      "value": "IC4",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944675,
+      "name": "Job Family",
+      "value": "Software Engineering",
+      "value_type": "single_select"
+    },
+    {
+      "id": 53341,
+      "name": "Worker Sub-Type",
+      "value": "Fixed Term",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944676,
+      "name": "Time Type",
+      "value": "Full time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944682,
+      "name": "Pay Rate Type",
+      "value": "Salary",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944681,
+      "name": "Scheduled Weekly Hours",
+      "value": "40.0",
+      "value_type": "number"
+    },
+    {
+      "id": 944667,
+      "name": "Company",
+      "value": "Reddit, Inc.",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944677,
+      "name": "Cost Center",
+      "value": "Tech-Eng Operations",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944669,
+      "name": "Worker Type",
+      "value": "Employee",
+      "value_type": "single_select"
+    },
+    {
+      "id": 957961,
+      "name": "Department",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8090680,
+  "updated_at": "2026-09-01T17:57:53-04:00",
+  "requisition_id": "R-105732",
+  "title": "Senior Site Reliability Engineer, Ads",
+  "company_name": "Reddit",
+  "first_published": "2026-08-28T20:32:12-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;div class=&quot;c-message_kit__blocks c-message_kit__blocks--rich_text&quot;&gt;\n&lt;div class=&quot;c-message__message_blocks c-message__message_blocks--rich_text&quot; data-qa=&quot;message-text&quot;&gt;\n&lt;div class=&quot;p-block_kit_renderer&quot; data-qa=&quot;block-kit-renderer&quot;&gt;\n&lt;div class=&quot;p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--first&quot;&gt;\n&lt;div class=&quot;p-rich_text_block&quot;&gt;\n&lt;div class=&quot;p-rich_text_section&quot;&gt;Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit &lt;a class=&quot;c-link&quot; href=&quot;http://www.redditinc.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;http://redditinc.com&quot; data-sk=&quot;tooltip_parent&quot;&gt;www.redditinc.com&lt;/a&gt;.&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;&lt;/div&gt;&lt;p&gt;The Ads organization powers Reddit&#39;s advertising platform, enabling advertisers to reach highly engaged communities while helping Reddit grow its business. The reliability of our Ads systems directly impacts advertiser success, revenue generation, and user experience.&lt;/p&gt;\n&lt;p&gt;The Ads Reliability team partners closely with Ads Engineering to improve reliability, scalability, operational excellence, and developer productivity across Reddit’s advertising ecosystem. We help build and operate highly available services that drive revenue and maintain advertiser trust. We’re looking for a Senior Site Reliability Engineer to build, operate, and scale the critical systems behind Reddit Ads.&lt;/p&gt;\n&lt;h4&gt;&lt;strong&gt;What you’ll do:&lt;/strong&gt;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Partner with Ads Engineering teams to improve reliability, scalability, and operational excellence of ad-serving, auction, targeting, measurement, and billing systems.&lt;/li&gt;\n&lt;li&gt;Design, build, and maintain infrastructure, tooling, and automation that improve service reliability and engineering productivity.&lt;/li&gt;\n&lt;li&gt;Improve observability through monitoring, alerting, tracing, logging, and dashboards.&lt;/li&gt;\n&lt;li&gt;Participate in on-call rotations and lead incident response efforts for critical production systems.&lt;/li&gt;\n&lt;li&gt;Run root cause analysis and drive corrective actions following incidents.&lt;/li&gt;\n&lt;li&gt;Collaborate with software engineers throughout the service lifecycle, from design reviews through production operations.&lt;/li&gt;\n&lt;li&gt;Drive adoption of SRE best practices including SLIs, SLOs, error budgets, capacity planning, and operational readiness reviews.&lt;/li&gt;\n&lt;li&gt;Reduce operational toil through automation and self-service tooling.&lt;/li&gt;\n&lt;li&gt;Help define and measure advertiser-critical user journeys such as campaign creation, ad delivery, reporting, and billing.&lt;/li&gt;\n&lt;li&gt;Scale Ads systems to support continued traffic growth, increased advertiser demand, and evolving business requirements.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;&lt;strong&gt;What We’re Looking For&lt;/strong&gt;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;5+ years of experience in Site Reliability Engineering, Infrastructure Engineering, or related roles operating large scale distributed systems.&lt;/li&gt;\n&lt;li&gt;Strong experience supporting high traffic, user facing production environments.&lt;/li&gt;\n&lt;li&gt;Strong cross-functional collaborations skills to lead and influence operational excellence.&lt;/li&gt;\n&lt;li&gt;Good understanding of modern distributed systems, scale engineering, and cloud-native architectures.&lt;/li&gt;\n&lt;li&gt;Strong software engineering skills in languages like general-purpose backend languages like Go.&lt;/li&gt;\n&lt;li&gt;Demonstrated ability to troubleshoot complex issues across applications, infrastructure, networking, and services.&lt;/li&gt;\n&lt;li&gt;Experience with observability platforms, monitoring systems, alerting, and incident response.&lt;/li&gt;\n&lt;li&gt;Experience driving automation and operational improvements.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;br&gt;&lt;strong&gt;Benefits:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Comprehensive Health benefits&lt;/li&gt;\n&lt;li&gt;401k Matching&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Workspace benefits for your home office&lt;/li&gt;\n&lt;li&gt;Personal &amp;amp; Professional development funds&lt;/li&gt;\n&lt;li&gt;Family Planning Support&lt;/li&gt;\n&lt;li&gt;Flexible Vacation &amp;amp; Reddit Global Days Off&lt;/li&gt;\n&lt;li&gt;4+ months paid Parental Leave&amp;nbsp;&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Paid Volunteer time off&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&lt;strong&gt;Pay Transparency:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;This job posting may span more than one career level.&lt;/p&gt;\n&lt;p&gt;In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit &lt;a href=&quot;https://www.redditinc.com/careers/&quot; target=&quot;_blank&quot;&gt;https://www.redditinc.com/careers/&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;To provide greater transparency to candidates, we share base salary ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;The base salary range for this position is:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$190,800&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$267,100 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;In select roles and locations, the interviews will be recorded, transcribed and summarized by artificial intelligence (AI). You will have the opportunity to opt out of recording, transcription and summarization prior to any scheduled interviews.&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;During the interview, we will collect the following categories of personal information: Identifiers, Professional and Employment-Related Information, Sensory Information (audio/video recording), and any other categories of personal information you choose to share with us. We will use this information to evaluate your application for employment or an independent contractor role, as applicable.&amp;nbsp; We will not sell your personal information or disclose it to any third party for their marketing purposes.&amp;nbsp; We will delete any recording of your interview promptly after making a hiring decision.&amp;nbsp; For more information about how we will handle your personal information, including our retention of it, please refer to our &lt;a href=&quot;https://redditinc.com/policies/candidate-privacy-policy&quot;&gt;Candidate Privacy Policy for Potential Employees and Contractors&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Reddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.&amp;nbsp; Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If, due to a disability, you need an accommodation during the interview process, please let your recruiter know.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 70553,
+      "name": "BE Platform",
+      "child_ids": [],
+      "parent_id": 16253
+    }
+  ],
+  "offices": [
+    {
+      "id": 88237,
+      "name": "Remote - United States",
+      "location": null,
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

@@ -74,21 +74,13 @@
     {
       "id": 5525802,
       "name": "Baseline Budgeted Salary",
-      "value": {
-        "unit": "GBP",
-        "max_value": "0.0",
-        "min_value": "0.0"
-      },
+      "value": null,
       "value_type": "currency_range"
     },
     {
       "id": 5525816,
       "name": "Other Large Market Budgeted Salary",
-      "value": {
-        "unit": "GBP",
-        "max_value": "0.0",
-        "min_value": "0.0"
-      },
+      "value": null,
       "value_type": "currency_range"
     },
     {
@@ -120,16 +112,12 @@
     {
       "id": 64002488,
       "name": "Job Post Range (Italy)",
-      "value": {
-        "unit": "EUR",
-        "max_value": "76000.0",
-        "min_value": "50000.0"
-      },
+      "value": null,
       "value_type": "currency_range"
     }
   ],
   "id": 8127859,
-  "updated_at": "2026-09-01T03:40:27-04:00",
+  "updated_at": "2026-09-11T15:37:10-04:00",
   "requisition_id": "3273514642",
   "title": "Senior Consulting Engineer",
   "company_name": "MongoDB",

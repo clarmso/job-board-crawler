@@ -1,0 +1,138 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/reddit/jobs/8018517",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 3476328,
+  "location": {
+    "name": "Remote - The Netherlands"
+  },
+  "metadata": [
+    {
+      "id": 944668,
+      "name": "Position ID",
+      "value": "P-108359",
+      "value_type": "short_text"
+    },
+    {
+      "id": 956352,
+      "name": "Recruiting Start Date",
+      "value": "2026-08-14",
+      "value_type": "date"
+    },
+    {
+      "id": 944671,
+      "name": "Target Hire Date",
+      "value": "2026-09-30",
+      "value_type": "date"
+    },
+    {
+      "id": 944672,
+      "name": "Target Hire End Date",
+      "value": "",
+      "value_type": "date"
+    },
+    {
+      "id": 944673,
+      "name": "Job Profile",
+      "value": "Machine Learning Engineer 5",
+      "value_type": "single_select"
+    },
+    {
+      "id": 956351,
+      "name": "Management Level",
+      "value": "IC5",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944675,
+      "name": "Job Family",
+      "value": "Machine Learning",
+      "value_type": "single_select"
+    },
+    {
+      "id": 53341,
+      "name": "Worker Sub-Type",
+      "value": "Regular",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944676,
+      "name": "Time Type",
+      "value": "Full time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944682,
+      "name": "Pay Rate Type",
+      "value": "Salary",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944681,
+      "name": "Scheduled Weekly Hours",
+      "value": "40.0",
+      "value_type": "number"
+    },
+    {
+      "id": 944667,
+      "name": "Company",
+      "value": "Reddit UK Limited",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944677,
+      "name": "Cost Center",
+      "value": "Tech-Ads Engineering",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944669,
+      "name": "Worker Type",
+      "value": "Employee",
+      "value_type": "single_select"
+    },
+    {
+      "id": 957961,
+      "name": "Department",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8018517,
+  "updated_at": "2026-08-21T09:50:42-04:00",
+  "requisition_id": "R-105593",
+  "title": "Staff Machine Learning Engineer, Ads Foundational Representations",
+  "company_name": "Reddit",
+  "first_published": "2026-06-19T11:02:11-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;div class=&quot;c-message_kit__blocks c-message_kit__blocks--rich_text&quot;&gt;\n&lt;div class=&quot;c-message__message_blocks c-message__message_blocks--rich_text&quot; data-qa=&quot;message-text&quot;&gt;\n&lt;div class=&quot;p-block_kit_renderer&quot; data-qa=&quot;block-kit-renderer&quot;&gt;\n&lt;div class=&quot;p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--first&quot;&gt;\n&lt;div class=&quot;p-rich_text_block&quot;&gt;\n&lt;div class=&quot;p-rich_text_section&quot;&gt;Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit &lt;a class=&quot;c-link&quot; href=&quot;http://www.redditinc.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;http://redditinc.com&quot; data-sk=&quot;tooltip_parent&quot;&gt;www.redditinc.com&lt;/a&gt;.&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Location: &lt;/strong&gt;Reddit has a flexible first workforce. Don&#39;t live near our office? No worries: you can work remotely from anywhere in the UK or the Netherlands.&lt;/p&gt;\n&lt;p&gt;The &lt;strong&gt;Ads Foundational Representations (AFR)&lt;/strong&gt; team develops signals and representations of Reddit’s core entities (ads, posts, users, and so on), capturing the semantic, contextual, and behavioral information that Reddit Ads needs. We work on building embeddings to understand content and users&#39; interests based on the content they engage with.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Our team has the potential to highlight one of Reddit&#39;s biggest differentiators: genuinely curated, high-quality, extremely relevant, and daily updated organic content. We are a Machine Learning/Data heavy team with a focus on the following areas:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Multimodal &amp;amp; Content Embeddings&lt;/strong&gt; - Make sense of organic (posts, comments, subreddits) and promoted (ads, shopping products, their landing pages) text and media content by embedding them into a shared space.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Contextual and Behavioral Relevance &lt;/strong&gt;- Working with Product &amp;amp; Data Science, establishing definitions of what ads are relevant to users and the content we show them next to, building metrics and fine-tuning embeddings to better reflect relevance.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Knowledge Graph Embeddings - &lt;/strong&gt;Building representations for the Knowledge graph entities, e.g., intellectual properties/brands, to be used for high-precision targeting &amp;amp; business insights.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;User Intent Modeling -&lt;/strong&gt; Leveraging various techniques to introduce user representations based on the content they interact with: batch &amp;amp; real-time sequence modeling, LLM summarization, etc.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;LLM-based Representations&lt;/strong&gt; - Leveraging LLMs, VLMs, and foundational models to build complex representations of Reddit entities that improve ranking outcomes&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;The signals and features we create become a key piece in the Ads Delivery funnel, from targeting to the auction, as well as the Business Insights product and other advertiser-facing products such as Creative generation and optimization.&lt;/p&gt;\n&lt;p&gt;As a &lt;strong&gt;Staff ML Engineer&lt;/strong&gt;, you’ll be in charge of setting the technical direction of multiple pillars the team owns. You will lead cross-functional ML projects end to end - from high-level business gap analysis to engineering execution.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Roughly 50% of your time will be spent on technical leadership and mentorship (driving strategy &amp;amp; designs, cross-functional collaboration, raising the quality bar), another 50% being individual hands-on work (data analysis &amp;amp; engineering, modeling &amp;amp; automation).&amp;nbsp;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Providing technical leadership and mentorship to MLEs in the team: driving designs &amp;amp; their review, establishing best practices in analysis, modeling and engineering, keeping the bar high.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Working closely with team/org leadership developing technical strategy for content-based embeddings &amp;amp; relevance for Ads.&lt;/li&gt;\n&lt;li&gt;Developing new or iterating on existing embedding models for advertising use cases, ranging from aggregation pipelines to two-tower architectures and sequence models.&amp;nbsp;&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Working with local and 3rd-party LLMs/VLMs: extract representations, develop evaluation methodologies, prompt tune and fine-tune large models to build state-of-the-art embeddings.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Building data processing and inference pipelines for the models we develop.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Qualitative and quantitative evaluation of the various features we develop, end-to-end experimentation from internal benchmarks to downstream recommender system offline metrics to online experiments.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Ensuring the reliability, scalability, and performance of the ML systems by writing automated tests, monitoring performance, and implementing best practices for model management.&lt;/li&gt;\n&lt;li&gt;Participating in modeling and coding reviews: You will review work by other team members and provide feedback to ensure that it meets the team&#39;s standards for quality and performance.&lt;/li&gt;\n&lt;li&gt;Collaborating with cross-functional teams to understand business requirements and translate them into technical solutions.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Required Qualifications:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;7+ years of hands-on experience with the full lifecycle of designing, training, evaluating, testing, and deploying industry-level models.&lt;/li&gt;\n&lt;li&gt;Demonstrated Staff-level technical leadership: mentoring engineers, driving standards and bar raising, leading complex cross-functional projects: from requirements, design to cross-team/functional alignment and execution without direct people-management authority.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Excellent communication skills, with the ability to translate complex technical concepts to different audiences, both verbally and in writing.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Strong track record of working on content rich NLP/CV problems at scale, and using embeddings as a tool to solve them.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Established data-driven approach for ML system development. Excitement about working with data and readiness to look behind the metric numbers.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Familiarity with the Ads domain and/or Search/Recommender systems.&lt;/li&gt;\n&lt;li&gt;Experience with mainstream DL frameworks: PyTorch or TensorFlow.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Preferred Qualifications:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience with our stack (Python, Pytorch, Airflow, BigQuery, Ray, k8s, kafka, GCP)&lt;/li&gt;\n&lt;li&gt;Tech leadership experience: mentoring junior engineers and leading complex projects.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Hands-on experience with using/fine-tuning/building LLMs.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Benefits:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Global Benefit programs that fit your lifestyle, from workspace to professional development to caregiving support&lt;/li&gt;\n&lt;li&gt;Family Planning Support&lt;/li&gt;\n&lt;li&gt;Gender-Affirming Care&lt;/li&gt;\n&lt;li&gt;Mental Health &amp;amp; Coaching Benefits&lt;/li&gt;\n&lt;li&gt;Private Pension plan with Employer-matching&lt;/li&gt;\n&lt;li&gt;100% employer-sponsored group medical plan &amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Income Replacement Programs&lt;/li&gt;\n&lt;li&gt;Flexible Vacation &amp;amp; Paid Volunteer Time Off&lt;/li&gt;\n&lt;li&gt;Generous Paid Parental Leave&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;In select roles and locations, the interviews will be recorded, transcribed and summarized by artificial intelligence (AI). You will have the opportunity to opt out of recording, transcription and summarization prior to any scheduled interviews.&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;During the interview, we will collect the following categories of personal information: Identifiers, Professional and Employment-Related Information, Sensory Information (audio/video recording), and any other categories of personal information you choose to share with us. We will use this information to evaluate your application for employment or an independent contractor role, as applicable.&amp;nbsp; We will not sell your personal information or disclose it to any third party for their marketing purposes.&amp;nbsp; We will delete any recording of your interview promptly after making a hiring decision.&amp;nbsp; For more information about how we will handle your personal information, including our retention of it, please refer to our &lt;a href=&quot;https://redditinc.com/policies/candidate-privacy-policy&quot;&gt;Candidate Privacy Policy for Potential Employees and Contractors&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Reddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.&amp;nbsp; Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If, due to a disability, you need an accommodation during the interview process, please let your recruiter know.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 70548,
+      "name": "Ads Engineering",
+      "child_ids": [],
+      "parent_id": 16253
+    }
+  ],
+  "offices": [
+    {
+      "id": 74799,
+      "name": "London",
+      "location": "London, England, United Kingdom",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

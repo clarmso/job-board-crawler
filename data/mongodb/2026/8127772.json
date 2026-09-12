@@ -1,0 +1,148 @@
+{
+  "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=8127772",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3519703,
+  "location": {
+    "name": "Gurugram"
+  },
+  "metadata": [
+    {
+      "id": 22194060,
+      "name": "Position ID",
+      "value": "NA",
+      "value_type": "short_text"
+    },
+    {
+      "id": 24918,
+      "name": "Department ID",
+      "value": "D21420-AI Builder Experience",
+      "value_type": "single_select"
+    },
+    {
+      "id": 22194061,
+      "name": "Team",
+      "value": "T10333-AI Builder Experience Eng",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4914027,
+      "name": "Region",
+      "value": "APAC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4137836,
+      "name": "Working Model Eligibility",
+      "value": [
+        "1-In Office"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 4914029,
+      "name": "Job Level",
+      "value": "IC - Professional",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24109,
+      "name": "Employment Type",
+      "value": "Full-time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 1073551,
+      "name": "Job Type",
+      "value": "Pipeline",
+      "value_type": "single_select"
+    },
+    {
+      "id": 988684,
+      "name": "JD Link",
+      "value": null,
+      "value_type": "url"
+    },
+    {
+      "id": 5525802,
+      "name": "Baseline Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 5525816,
+      "name": "Other Large Market Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 13324394,
+      "name": "Job Post Range (United States)",
+      "value": {
+        "unit": "USD",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 40497768,
+      "name": "Job Post Range (Canada)",
+      "value": {
+        "unit": null,
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 57694516,
+      "name": "Job Post Range (Poland)",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 64002488,
+      "name": "Job Post Range (Italy)",
+      "value": null,
+      "value_type": "currency_range"
+    }
+  ],
+  "id": 8127772,
+  "updated_at": "2026-09-11T15:37:10-04:00",
+  "requisition_id": "426377",
+  "title": "Software Engineer 3, AI Framework Integrations",
+  "company_name": "MongoDB",
+  "first_published": "2026-09-11T07:31:43-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;AI frameworks like LangChain, LlamaIndex, and n8n are quickly becoming the default way developers build with AI — and MongoDB wants to be the data platform that shows up everywhere they build. As part of the AI Builders Experience (ABX) org, we&#39;re standing up a brand new engineering team in Gurugram to make that happen, and we&#39;re looking for Software Engineers to be among its founding members.&lt;/p&gt;\n&lt;p&gt;The team owns the connective layer between MongoDB and third-party AI frameworks, platforms, and tools — the integrations that let developers use MongoDB effectively with the AI stack they&#39;ve already chosen. That means shipping into some of the fastest-moving open-source ecosystems in tech, working mostly in Python and TypeScript, and partnering with the Database Experience (DBX) org when an integration needs new driver, platform, or product capability underneath it.&lt;/p&gt;\n&lt;p&gt;This is a strong role for an engineer who wants to grow into the AI space with real ownership. You&#39;ll own well-scoped projects from design through release, work with fast-moving and sometimes unproven technologies, and get a clear view of how the ecosystem is evolving. Priorities shift as frameworks change and customer demand moves, so we&#39;re looking for engineers who are adaptable, ask good questions, and take pride in shipping. Much of your work will happen in public: sending pull requests to upstream repositories, working through external maintainer review cycles, and participating in developer communities as MongoDB.&lt;/p&gt;\n&lt;p&gt;You&#39;ll work closest with the engineers sitting next to you, pairing on hard problems, reviewing each other&#39;s code, and dividing up a broad portfolio, with senior engineers and your manager close at hand as you take on larger pieces of it.&lt;/p&gt;\n&lt;p&gt;MongoDB engineering teams pride themselves on building high-quality software and living our cultural values every day. We value intellectual curiosity, intellectual honesty, customer empathy, and building together in an environment that prioritizes collaboration over competition.&lt;/p&gt;\n&lt;p&gt;We are looking to speak to candidates who are based in Gurugram for our hybrid working model.&lt;/p&gt;\n&lt;h3&gt;Position expectations&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Build, test, and ship MongoDB integrations across a broad AI framework ecosystem that includes technologies like LangChain, LangGraph, LlamaIndex, n8n, and Mastra&lt;/li&gt;\n&lt;li&gt;Own well-scoped projects end to end on weekly-to-quarterly timelines, taking responsibility for the scope, schedule, and quality of your own work and communicating progress and trade-offs clearly&lt;/li&gt;\n&lt;li&gt;Solve day-to-day technical problems with growing independence, using the team&#39;s established patterns and past practice to guide your decisions, and seeking guidance on non-standard problems&lt;/li&gt;\n&lt;li&gt;Contribute to exploratory work on new frameworks: help evaluate an integration&#39;s feasibility, build a first working version of the piece you own, and share what you learn with the team&lt;/li&gt;\n&lt;li&gt;Contribute high-quality code upstream to repositories MongoDB doesn&#39;t own, following the team&#39;s contribution practices and maintaining a high standard of professionalism and courtesy through external maintainer review cycles&lt;/li&gt;\n&lt;li&gt;Work within and improve the team&#39;s engineering practices: CI/CD, automated testing across framework and server versions, version compatibility checks, and release steps. Suggest improvements where you see repeated friction&lt;/li&gt;\n&lt;li&gt;Help keep the integrations you work on healthy: monitor for upstream breaking changes, handle upgrades, triage incoming issues, and follow through after release&lt;/li&gt;\n&lt;li&gt;Coordinate with adjacent teams, including DBX, when your work depends on driver, platform, or product capability, and escalate cross-team dependencies and risks early rather than working around them&lt;/li&gt;\n&lt;li&gt;Collaborate with product management, product design, and other partners to understand what users need from an integration and how your work connects to the team&#39;s objectives&lt;/li&gt;\n&lt;li&gt;Write clear documentation, give useful code reviews, share what you know with teammates, and follow through on your commitments&lt;/li&gt;\n&lt;li&gt;Develop specialized knowledge of the Python or TypeScript AI builder ecosystems — frameworks, agent and retrieval patterns, vector search — and bring interesting developments back to the team&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Qualifications&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;3+ years of experience building backend systems, libraries, or other developer-facing software, with solid proficiency in Python and/or TypeScript&lt;/li&gt;\n&lt;li&gt;Experience designing, writing, testing, and debugging software in a shared, long-lived code base, with an eye for the tests and documentation that make it maintainable&lt;/li&gt;\n&lt;li&gt;Track record of delivering scoped projects reliably and on time, with growing independence and good judgment about when to ask for help&lt;/li&gt;\n&lt;li&gt;Demonstrated ability to work on several projects at once and keep quality and commitments intact as priorities shift&lt;/li&gt;\n&lt;li&gt;Clear interest in modern AI builder workflows and the developer tooling landscape: AI frameworks, agentic patterns, RAG and retrieval, embedding, or vector search&lt;/li&gt;\n&lt;li&gt;Solid verbal and written technical communication, including the ability to write things down clearly for teammates and partners you won&#39;t always overlap with in real time&lt;/li&gt;\n&lt;li&gt;Enjoys collaboration and being part of a close-knit team; is approachable, curious, and intellectually honest&lt;/li&gt;\n&lt;li&gt;Eager to learn, with a strong technical foundation and an interest in deepening it&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Nice to Have&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Open source contributions, especially any work that landed in a repository you don&#39;t own&lt;/li&gt;\n&lt;li&gt;Experience building AI or framework integrations, MCP servers, agent skills, or plugins for agentic applications, professionally or as side projects&lt;/li&gt;\n&lt;li&gt;Familiarity with the agentic AI tooling ecosystem (AI IDEs, CLIs, and assistants) and how developers integrate with it&lt;/li&gt;\n&lt;li&gt;Experience with CI/CD and automated testing for libraries that support multiple versions or platforms&lt;/li&gt;\n&lt;li&gt;Experience working with databases; familiarity with MongoDB query patterns&lt;/li&gt;\n&lt;li&gt;Exposure to vector search, embedding pipelines, or index management&lt;/li&gt;\n&lt;li&gt;Working knowledge of Java, Go, C#, or Rust&lt;/li&gt;\n&lt;li&gt;Experience with containerization tools (e.g. Docker, Kubernetes) and with AI frameworks and libraries&lt;/li&gt;\n&lt;li&gt;Familiarity with Jira and related tools&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Success measures&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;In the first month, you will understand the team&#39;s scope, how our integrations are structured, where the relevant repositories and pipelines live, and how we build, test, and release. You&#39;ll have landed your first code contribution and know who to ask when you&#39;re blocked&lt;/li&gt;\n&lt;li&gt;In three months, you will be delivering scoped work on one or more integrations with growing independence, will have landed an upstream contribution, and will be comfortable running the team&#39;s testing and release process for your own changes&lt;/li&gt;\n&lt;li&gt;In six months, you will own a well-defined area or project end to end, deliver against quarterly objectives with limited oversight, and have made at least one concrete improvement to the quality or efficiency of how the team works&lt;/li&gt;\n&lt;li&gt;In twelve months, you will be a dependable owner of a piece of the portfolio, will have delivered multiple meaningful features or integrations, will be handling upstream and customer issues in your area with confidence, and will be helping teammates get up to speed on what you know best&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;About MongoDB&lt;/h3&gt;\n&lt;p&gt;MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure.&lt;/p&gt;\n&lt;p&gt;With offices worldwide and over 67,000 customers, including 75% of the Fortune 100 and AI-native startups, relying on MongoDB for their most important applications, we’re powering the next era of software.&lt;/p&gt;\n&lt;p&gt;Our compass at MongoDB is our &lt;a href=&quot;https://www.mongodb.com/company&quot;&gt;Leadership Commitment,&lt;/a&gt; guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. &lt;a href=&quot;https://www.mongodb.com/company/blog/culture/employee-benefits-that-make-a-difference-at-mongodb&quot;&gt;From employee affinity groups, to fertility assistance and a generous parental leave policy&lt;/a&gt;, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys.&lt;a href=&quot;https://www.mongodb.com/blog/channel/culture&quot;&gt; Learn more about what it’s like to work at MongoDB&lt;/a&gt;, and help us make an impact on the world!&lt;/p&gt;\n&lt;p&gt;MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.&lt;/p&gt;\n&lt;p&gt;MongoDB is an equal opportunities employer.&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Req ID - 426377&lt;/em&gt;&lt;/p&gt;",
+  "departments": [
+    {
+      "id": 49197,
+      "name": "AI Builder Experience",
+      "child_ids": [],
+      "parent_id": 370707
+    }
+  ],
+  "offices": [
+    {
+      "id": 65909,
+      "name": "Gurugram",
+      "location": "Gurugram, Haryana, India",
+      "child_ids": [],
+      "parent_id": 23659
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": null
+}

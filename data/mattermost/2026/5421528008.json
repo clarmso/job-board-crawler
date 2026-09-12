@@ -1,0 +1,54 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/mattermost/jobs/5421528008",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "education": "education_optional",
+  "internal_job_id": 4546861008,
+  "location": {
+    "name": "United States"
+  },
+  "metadata": null,
+  "id": 5421528008,
+  "updated_at": "2026-09-11T12:22:24-04:00",
+  "requisition_id": "TBH-FY27-RD4",
+  "title": "Senior Mobile Engineer ",
+  "company_name": "Mattermost",
+  "first_published": "2026-09-11T12:22:24-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;div&gt;Mattermost is the leading collaborative workflow platform for defense, intelligence, security, and critical infrastructure. Trusted by the U.S. Department of War and Fortune 500s, our platform runs on-premises and in private clouds, delivering secure messaging, file sharing, workflow automation, audio/screenshare, and project management—all with full data and operational control. Mattermost powers high-stakes workflows across mission planning, real-time, real-world operations, DevSecOps, incident response, and cyber defense—enabling secure collaboration from tactical edge and DDIL environments to enterprise HQ. Teams operate across web, desktop, and mobile, with embedded interoperability for Microsoft Teams, Outlook, and Microsoft 365.&lt;br&gt;&lt;br&gt;&lt;/div&gt;\n&lt;div&gt;To learn more, visit&amp;nbsp;&lt;a href=&quot;http://www.mattermost.com/&quot;&gt;www.mattermost.com&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;p&gt;We are seeking a&amp;nbsp;&lt;strong&gt;Senior Mobile Engineer&lt;/strong&gt; to take ownership of the Mattermost mobile experience for teams working in defense, intelligence, and critical infrastructure. Our users operate in DDIL environments where connectivity may be disconnected, denied, intermittent, or limited, security is non-negotiable, and the software they depend on has to keep working.&lt;/p&gt;\n&lt;p&gt;Our mobile app is primarily React Native and TypeScript today, with native iOS and Android integrations. Your immediate focus will be making that experience more reliable and performant. Over time, you&#39;ll also help shape the next generation of our cross-platform mobile architecture.&lt;/p&gt;\n&lt;p&gt;You&#39;ll work hands-on across application and native layers, partner closely with platform and feature teams, work directly with customer-facing teams on field reports from constrained environments, and help raise the bar for how we observe, diagnose, and build mobile software.&lt;/p&gt;\n&lt;h3&gt;Responsibilities&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;Reliability and Performance&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Architect the app for DDIL and other constrained network environments&lt;/li&gt;\n&lt;li&gt;Improve data and functional reliability across connection lifecycle, synchronization, recovery, and failure scenarios&lt;/li&gt;\n&lt;li&gt;Own crash-free and release-health outcomes, using telemetry to proactively identify regressions and drive them through diagnosis to resolution&lt;/li&gt;\n&lt;li&gt;Profile and improve performance across startup, networking, storage, rendering, memory, and battery usage&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Mobile Platform Ownership&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Own critical iOS and Android integrations and the boundaries between native and cross-platform code&lt;/li&gt;\n&lt;li&gt;Maintain and evolve platform capabilities including push notifications, background execution, secure storage, app lifecycle, and real-time communications&lt;/li&gt;\n&lt;li&gt;Build within mobile distribution and device-management constraints, including App Store, enterprise and MDM deployment, AppConfig, and Intune MAM&lt;/li&gt;\n&lt;li&gt;Diagnose production issues from native traces, telemetry, device profiling, and sparse field logs&lt;/li&gt;\n&lt;li&gt;Make architecture recommendations that balance near-term delivery with the long-term direction of the mobile platform&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Craft and Delivery&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Mentor engineers on mobile architecture, reliability, performance, and platform best practices&lt;/li&gt;\n&lt;li&gt;Uphold security and compliance standards required by government and enterprise customers&lt;/li&gt;\n&lt;li&gt;Contribute to the open-source codebase&lt;/li&gt;\n&lt;li&gt;Use AI coding tools effectively, applying strong engineering judgment to increase output without compromising reliability or quality&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;What We Are Looking For&lt;/h3&gt;\n&lt;p&gt;We care about what you&#39;ve built and the problems you&#39;ve solved — not how long you&#39;ve been building. If you have strong outcomes to speak to in mobile engineering, we want to hear from you.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Required:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Deep expertise in iOS or Android development, with strong working knowledge of the other platform&lt;/li&gt;\n&lt;li&gt;Strong understanding of mobile architecture, platform SDKs, lifecycle constraints, and networking fundamentals&lt;/li&gt;\n&lt;li&gt;Experience building reliable mobile systems that behave predictably through unreliable connectivity, local state changes, synchronization, and recovery&lt;/li&gt;\n&lt;li&gt;Strong mobile performance profiling and production debugging skills on real devices&lt;/li&gt;\n&lt;li&gt;Experience using production data, crash metrics, and release-health signals to drive reliability improvements&lt;/li&gt;\n&lt;li&gt;Experience making architecture recommendations and owning technical outcomes&lt;/li&gt;\n&lt;li&gt;Ability and willingness to work across native and cross-platform codebases&lt;/li&gt;\n&lt;li&gt;AI fluency and experience using coding agents to increase engineering output while applying judgment to ensure reliable outcomes&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Preferred:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience with React Native and TypeScript&lt;/li&gt;\n&lt;li&gt;Experience with mobile persistence, synchronization, or offline-capable systems&lt;/li&gt;\n&lt;li&gt;Experience with real-time communications or platform media frameworks such as WebRTC, CallKit, or Android audio APIs&lt;/li&gt;\n&lt;li&gt;Experience with enterprise mobile distribution, MDM, AppConfig, or Intune MAM&lt;/li&gt;\n&lt;li&gt;Experience building mobile software for security-sensitive, regulated, or operationally constrained environments&lt;/li&gt;\n&lt;li&gt;Open-source contributions&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Why Mattermost&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Mission-driven work:&lt;/strong&gt;&amp;nbsp;Your contributions directly support the organizations and missions that depend on secure, reliable collaboration including the U.S. Department of War and critical infrastructure operators worldwide&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Remote-first culture:&lt;/strong&gt;&amp;nbsp;Work from anywhere with a globally distributed, high-trust team built for autonomy and ownership&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;AI-forward environment:&lt;/strong&gt;&amp;nbsp;We actively adopt and build AI-enabled workflows. Agentic development is core craft here, not a novelty&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;End-to-end ownership:&lt;/strong&gt;&amp;nbsp;Ship and own complex software across the full stack with real accountability for what you build&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Open source at the core:&lt;/strong&gt;&amp;nbsp;Be part of a vibrant developer community shaping the future of secure collaboration&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Compensation&lt;/h3&gt;\n&lt;p&gt;Mattermost takes a market-based approach to pay. Actual compensation may vary based on location, skills, experience, qualifications, and market conditions.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Target Salary Range: $165,000 – $215,000&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;h3&gt;U.S. Eligibility &amp;amp; Compliance&lt;/h3&gt;\n&lt;p&gt;This role may require obtaining and maintaining a U.S. government security clearance. Candidates must meet federal eligibility requirements to be considered.&lt;/p&gt;\n&lt;p&gt;Applicants must meet eligibility requirements for access to export-controlled information as defined by U.S. export control laws, including EAR and ITAR. For more information visit the&amp;nbsp;&lt;a href=&quot;https://www.bis.doc.gov/&quot;&gt;Bureau of Industry and Security&lt;/a&gt;&amp;nbsp;and the&amp;nbsp;&lt;a href=&quot;https://www.pmddtc.state.gov/&quot;&gt;Directorate of Defense Trade Controls&lt;/a&gt;.&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;div&gt;Mattermost is an EEO Employer, we are a remote-first, open-source company.&lt;/div&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;We are continually working to expand our hiring in more countries and regions, ensuring compliance with local laws and regulations, which takes time.&lt;/div&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;Mattermost values your unique perspective—we welcome all applicants. We encourage individuals from all backgrounds to apply and are committed to assessing candidates based on their skills and qualifications. We do not tolerate discrimination against staff or applicants based on race, religion, national origin, age, disability, pregnancy status, veteran status, or other personal characteristics.&lt;/div&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;If you require accommodations during the interview process, please let us know—we’re happy to assist.&lt;/div&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4053102008,
+      "name": "Engineering",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 4044261008,
+      "name": "United States",
+      "location": "United States",
+      "child_ids": [
+        4065569008,
+        4065676008,
+        4065677008,
+        4065678008,
+        4065367008
+      ],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": "<p>We use Greenhouse’s AI-powered Talent Matching tool to compare your application against our job requirements.</p>",
+  "include_ai_disclaimer": true,
+  "ai_opt_out_request_url": "http://app8.greenhouse.io/ai_opt_out_request/job_post/5421528008/ai_opt_out"
+}

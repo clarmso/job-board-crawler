@@ -1,0 +1,96 @@
+{
+  "absolute_url": "https://www.okta.com/company/careers/opportunity/7765038?gh_jid=7765038",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 3401223,
+  "location": {
+    "name": "Bengaluru, India"
+  },
+  "metadata": [
+    {
+      "id": 58735330,
+      "name": "Naukri Job URL",
+      "value": null,
+      "value_type": "long_text"
+    },
+    {
+      "id": 58735350,
+      "name": "Naukri Job Error",
+      "value": null,
+      "value_type": "long_text"
+    },
+    {
+      "id": 58735367,
+      "name": "Minimum Salary",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735368,
+      "name": "Maximum Salary",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735369,
+      "name": "Minimum Work Experience",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735370,
+      "name": "Maximum Work Experience",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735384,
+      "name": "City",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 58735385,
+      "name": "Job Description",
+      "value": null,
+      "value_type": "long_text"
+    }
+  ],
+  "id": 7765038,
+  "updated_at": "2026-09-11T11:24:18-04:00",
+  "requisition_id": "P22372_3401223",
+  "title": "Senior Software Engineer – Tooling & Platform (Terraform)",
+  "company_name": "Okta",
+  "first_published": "2026-03-30T08:29:40-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Secure Every Identity, from AI to Human&lt;br&gt;&lt;br&gt;&lt;/strong&gt;Identity is the key to unlocking the potential of AI. Okta secures AI by building the trusted, neutral infrastructure that enables organizations to safely embrace this new era. This work requires a relentless drive to solve complex challenges with real-world stakes. We are looking for builders and owners who operate with speed and urgency and execute with excellence.&lt;br&gt;&lt;br&gt;This is an opportunity to do career-defining work. We&#39;re all in on this mission. If you are too, let&#39;s talk.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;We are seeking an experienced and technically influential&amp;nbsp;&lt;strong&gt;Senior Software Development Engineer&lt;/strong&gt; to join our Cloud Tooling and Pipelines team. This pivotal team is responsible for the &lt;strong&gt;design, development, and maintenance&lt;/strong&gt; of our core &lt;strong&gt;Continuous Delivery (CD) platform&lt;/strong&gt; (leveraging Spinnaker and custom tooling), &lt;strong&gt;Infrastructure as Code (IaC) execution engines&lt;/strong&gt; (primarily Terraform), and a suite of supporting microservices. These systems are critical for enabling and managing our extensive resource footprint across AWS ECS and EKS.&lt;/p&gt;\n&lt;p&gt;As a Senior Software Development Engineer, you will be a key contributor, driving the implementation of scalable, reliable, and secure software solutions that automate infrastructure provisioning and application deployments. Your deep expertise in &lt;strong&gt;software engineering principles&lt;/strong&gt; and cloud-native development will be essential in building and enhancing our critical tooling for infrastructure provisioning, vulnerability management, and IaC deployments. You will also play a vital role in mentoring other engineers and influencing the team&#39;s technical roadmap. If you have a strong passion for building robust software systems that empower operational efficiency at scale, we encourage you to apply.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Key Responsibilities&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Design and Develop Core Platform Components:&lt;/strong&gt; Lead the design and development of scalable and reliable microservices and tools that form the backbone of Okta&#39;s Continuous Delivery (CD) platform (including components for Spinnaker, Terraform, and custom tooling).&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Build Infrastructure as Code Automation:&lt;/strong&gt; Develop sophisticated software solutions and APIs that empower engineering teams to provision and manage infrastructure, execute production changes, and deploy code with high reliability and efficiency.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Architect and Implement Deployment Workflows:&lt;/strong&gt; Contribute to the architectural design and hands-on implementation of robust CD pipelines and Terraform-based IaC workflows, ensuring scalability, reliability, and security for application deployments.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Develop High-Quality Automation Software:&lt;/strong&gt; Write clean, efficient, and well-tested code (primarily in &lt;strong&gt;Java, Python, or Go&lt;/strong&gt;) for microservices with a strong focus on automation, operational excellence, and self-service capabilities.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Collaborate for Operational Efficiency:&lt;/strong&gt; Partner closely with DevOps, SREs, and Product teams to proactively identify operational bottlenecks and manual processes. Then, lead the software development efforts to create scalable and reliable automation solutions.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Champion Software Engineering Best Practices:&lt;/strong&gt; Advocate for and implement industry best practices in software design, development, testing, and deployment to ensure the highest quality and maintainability of our tooling.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Integrate Security by Design:&lt;/strong&gt; Apply and promote security best practices throughout the software development lifecycle of our tooling and infrastructure automation to ensure a secure and compliant operational environment.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Enable Self-Service Capabilities:&lt;/strong&gt; Proactively identify opportunities to build self-service automation for infrastructure provisioning, application deployments, and other operational tasks, reducing manual effort and improving developer velocity and onboarding.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Provide Technical Guidance and Mentorship:&lt;/strong&gt; Serve as a technical mentor and role model for other engineers on the team, fostering a culture of collaboration, innovation, and technical excellence in software engineering.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Required Qualifications&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;4+ years&lt;/strong&gt; of professional experience in &lt;strong&gt;Software Development&lt;/strong&gt;, with a strong focus on developing and maintaining &lt;strong&gt;automation tools, platforms, or microservices&lt;/strong&gt; for cloud environments (AWS, GCP, or similar).&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;4+ years&lt;/strong&gt; of hands-on experience in &lt;strong&gt;Java, Go, Python&lt;/strong&gt;, or similar backend languages, specifically building scalable and reliable platform components, tooling or automation.&lt;/li&gt;\n&lt;li&gt;Experience working on backend microservices stack and distributed services is a nice-to-have.Strong understanding of &lt;strong&gt;Infrastructure as Code (IaC) principles&lt;/strong&gt; and practical experience with tools such as &lt;strong&gt;Terraform&lt;/strong&gt;.&lt;/li&gt;\n&lt;li&gt;Experience with &lt;strong&gt;Continuous Integration/Continuous Delivery (CI/CD) platform development&lt;/strong&gt;, including familiarity with tools like Spinnaker or similar.&lt;/li&gt;\n&lt;li&gt;Solid understanding of &lt;strong&gt;containerization and orchestration technologies&lt;/strong&gt; such as &lt;strong&gt;Kubernetes and ECS&lt;/strong&gt;, from a software development perspective.&lt;/li&gt;\n&lt;li&gt;Proficient in using &lt;strong&gt;Docker&lt;/strong&gt; and experienced with building applications that interact with underlying &lt;strong&gt;Linux and networking fundamentals&lt;/strong&gt;.&lt;/li&gt;\n&lt;li&gt;Experience with &lt;strong&gt;database technologies&lt;/strong&gt; (MySQL, MongoDB, etc.) in the context of application development and operational management.&lt;/li&gt;\n&lt;li&gt;A strong passion for solving complex operational challenges through innovative software solutions and automation.&lt;/li&gt;\n&lt;li&gt;Excellent communication, collaboration, and leadership skills within a software development context.&lt;/li&gt;\n&lt;li&gt;Bachelor’s degree in Computer Science or a related field, or equivalent professional experience.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;#LI-Hybrid&lt;/p&gt;\n&lt;p&gt;P22372_3401223&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;The Okta Experience&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;a href=&quot;http://rewards.okta.com&quot;&gt;Supporting Your Well-Being&lt;/a&gt;&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;&lt;a href=&quot;https://www.okta.com/company/okta-for-good/&quot;&gt;Driving Social Impact&amp;nbsp;&lt;/a&gt;&lt;/li&gt;\n&lt;li&gt;&lt;a href=&quot;https://www.okta.com/company/talent-connection-community/&quot;&gt;Developing Talent and Fostering Connection + Community&lt;/a&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;We are intentional about connection. Our global community, spanning over 20 offices worldwide, is united by a drive to innovate. Your journey begins with an immersive, in-person onboarding experience designed to accelerate your impact and connect you to our mission and team from day one.&lt;br&gt;&lt;br&gt;Okta is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, marital status, age, physical or mental disability, or status as a protected veteran. We also consider for employment qualified applicants with arrest and convictions records, consistent with applicable laws.&lt;br&gt;&lt;br&gt;If reasonable accommodation is needed to complete any part of the job application, interview process, or onboarding please&amp;nbsp;&lt;a href=&quot;https://docs.google.com/forms/d/1EfiEYZrIyhA2X4Fijk0R3RKYOzNoS3wtvyM4nhbZnXE/edit&quot;&gt;use this Form&lt;/a&gt; to request an accommodation.&lt;br&gt;&lt;br&gt;Notice for New York City Applicants &amp;amp; Employees: Okta may use Automated Employment Decision Tools (AEDT), as defined by New York City Local Law 144, that use artificial intelligence, machine learning, or other automated processes to assist in our recruitment and hiring process. In accordance with NYC Local Law 144, if you are an applicant or employee residing in New York City, please&amp;nbsp;&lt;a href=&quot;https://talent.okta.com/new-york-city-aedt-notice.html&quot;&gt;click here&lt;/a&gt; to view our full NYC AEDT Notice.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 44027,
+      "name": "SW Eng - Infrastructure-672",
+      "child_ids": [],
+      "parent_id": 396304
+    }
+  ],
+  "offices": [
+    {
+      "id": 89126,
+      "name": "Bengaluru ",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 89122
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

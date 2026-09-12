@@ -1,0 +1,88 @@
+{
+  "absolute_url": "https://www.plume.com/career-opportunities/?gh_jid=8693239002",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "education": "education_required",
+  "internal_job_id": 6473380002,
+  "location": {
+    "name": "United States"
+  },
+  "metadata": null,
+  "id": 8693239002,
+  "updated_at": "2026-09-03T14:16:35-04:00",
+  "requisition_id": "1417",
+  "title": "Senior Engineer",
+  "company_name": "Plume",
+  "first_published": "2026-08-12T18:57:28-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Life at Plume&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;At Plume, we believe that technology isn&#39;t about moving faster, it&#39;s about making life’s moments better. Which is why we’ve built the world&#39;s first, and only, open and hardware-independent service delivery platform for smart homes, small businesses, enterprises, and beyond. Our SaaS platform uses WiFi, advanced AI, and machine learning to create the future of connected spaces—and human experiences—at massive scale.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We now deliver services to over 60 million locations globally and have managed over 3 billion devices on our platform. We’re expanding rapidly, pioneering a new category, and we achieved our Series F funding in just four years. Our customers include many of the world&#39;s largest Internet Service Providers (ISPs) who look to Plume to help them evolve their smart home offerings while gleaning insights from their own data.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;With a bias for action and a love for being trailblazers, the team at Plume embodies a combination of relentless curiosity and imaginative innovation. We challenge ourselves to think in ways that other companies don&#39;t, work to do what should be done (rather than what can), and if we can’t do it exceptionally well, we don’t do it. It’s how we&#39;ve assembled a team of world-class builders, thinkers, and doers. And it’s how we’re reinventing what’s possible every day.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;div&gt;\n&lt;div&gt;As part of our Product Engineering organization, you will play a critical role in building scalable, high-performance backend systems that directly power customer-facing products and internal platforms. Product Engineering at our company is responsible for translating product vision into reliable, secure, and production-grade software solutions.&lt;br&gt;This role sits at the intersection of product strategy and technical execution — partnering closely with Product, Design, and cross-functional engineering squads to rapidly ship impactful features while maintaining long-term architectural integrity. You’ll help shape the technical foundation of our products, ensuring they are scalable, resilient, observable, and built with engineering excellence.&lt;/div&gt;\n&lt;div&gt;&lt;br&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/div&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;API Development:&lt;/strong&gt; Design, implement, and maintain RESTful and gRPC APIs powering internal and external applications.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Cloud Microservices:&lt;/strong&gt; Architect and deploy scalable microservices in AWS/GCP/Azure using Kubernetes and modern DevOps practices.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Data Pipelines:&lt;/strong&gt; Build real-time and batch data pipelines, ensuring data accuracy, performance, and observability (EMR on EKS).&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Collaboration:&lt;/strong&gt; Partner with cross-functional squad members to deliver features end-to-end, from concept to production.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;System Reliability:&lt;/strong&gt; Optimize services for scalability, resilience, and high availability.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Engineering Excellence:&lt;/strong&gt; Contribute to architecture discussions, enforce coding standards, and drive best practices in CI/CD, testing, and monitoring.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Security:&lt;/strong&gt; Embed security and compliance into backend systems and data workflows.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;div&gt;&lt;strong&gt;Qualifications&lt;/strong&gt;&lt;/div&gt;\n&lt;ul&gt;\n&lt;li&gt;3-5 years of professional software engineering experience.&lt;/li&gt;\n&lt;li&gt;Strong proficiency in &lt;strong&gt;Scala, Go, or Java and Python&lt;/strong&gt; (experience with multiple is a plus).&lt;/li&gt;\n&lt;li&gt;Proven experience with &lt;strong&gt;distributed systems, microservices, and event-driven architectures&lt;/strong&gt;.&lt;/li&gt;\n&lt;li&gt;Fundamental understanding of &lt;strong&gt;computer networking (including Wi-Fi), operating system&lt;/strong&gt;, &lt;strong&gt;and database&lt;/strong&gt;&lt;/li&gt;\n&lt;li&gt;Hands-on expertise in &lt;strong&gt;cloud platforms&lt;/strong&gt; (AWS, GCP, or Azure) and container orchestration (Kubernetes, Docker).&lt;/li&gt;\n&lt;li&gt;Familiarity with &lt;strong&gt;data engineering&lt;/strong&gt; (ETL pipelines, real-time streaming with Kafka/Pulsar, batch processing frameworks).&lt;/li&gt;\n&lt;li&gt;Experience with &lt;strong&gt;SQL and NoSQL databases&lt;/strong&gt; (e.g., PostgreSQL, MongoDB, Cassandra, DynamoDB).&lt;/li&gt;\n&lt;li&gt;Solid knowledge of &lt;strong&gt;CI/CD pipelines, testing frameworks, &lt;/strong&gt;and&lt;strong&gt; observability tools&lt;/strong&gt; (Grafana, Prometheus, ELK).&lt;/li&gt;\n&lt;li&gt;Strong problem-solving skills and the ability to thrive in an agile, squad-based environment.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;div&gt;&lt;strong&gt;Nice To Have&lt;/strong&gt;&lt;/div&gt;\n&lt;ul&gt;\n&lt;li&gt;Functional programming experience in &lt;strong&gt;Scala&lt;/strong&gt;.&lt;/li&gt;\n&lt;li&gt;Experience with &lt;strong&gt;caching layers, distributed storage, and message queues&lt;/strong&gt;.&lt;/li&gt;\n&lt;li&gt;Familiarity with &lt;strong&gt;AI-powered developer tools&lt;/strong&gt; such as ChatGPT, Cursor, GitHub Copilot, or similar to boost productivity.&lt;/li&gt;\n&lt;li&gt;Contributions to &lt;strong&gt;open-source projects&lt;/strong&gt; or personal projects showcasing backend innovation.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/div&gt;\n&lt;p class=&quot;p5&quot;&gt;We are unable to offer sponsorship at this time. Total Compensation package would include: anticipated base compensation range of $130,000 – $140,000 + up to 15% bonus + equity + benefits. Benefits include a 401k plan with company match, basic life insurance, and unparalleled health, dental, vision and other benefits and perks. Please see&lt;a href=&quot;https://www.plume.com/plume-careers/&quot;&gt; &lt;span class=&quot;s1&quot;&gt;here&lt;/span&gt;&lt;/a&gt; for more details.&lt;/p&gt;\n&lt;p class=&quot;p5&quot;&gt;An employee&#39;s base salary and its position within the range may depend on a number of factors including job related knowledge, education, skills, experience and other business related considerations. Published ranges are provided in good faith at the time of posting.&lt;/p&gt;\n&lt;p class=&quot;p5&quot;&gt;#RemoteWork #LI-Remote #WorkFromHome #RemoteJob #WFH&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;About Plume&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As the creator of the only open, hardware-independent, cloud-controlled experience platform for ISPs and their subscribers, Plume partners with over 400 ISP customers, including some of the world’s largest such as Charter, Liberty Global, and J:COM.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Using OpenSync, the most widely supported open-source, silicon-to-cloud framework for smart spaces, Plume’s software-defined network allows ISPs to decouple their service offerings from hardware and rapidly curate and deliver new services over a multi-vendor, open-platform architecture.&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Plume is an equal opportunity workplace that maintains a continuing policy of nondiscrimination in all employment practices and &lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;decisions, ensuring equal employment opportunities for all qualified individuals without regard to &lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;race, color, creed, religion, sex, national origin, age, physical or mental disability, sexual &lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;orientation, gender identity, marital status, pregnancy, childbirth or related individual conditions, &lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;medical conditions (as defined by state law), military or veteran status, or any other characteristic protected by federal, state or local law. &lt;/span&gt;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4131799002,
+      "name": "Product Engineering",
+      "child_ids": [],
+      "parent_id": 4131811002
+    }
+  ],
+  "offices": [
+    {
+      "id": 4040910002,
+      "name": "United States - Remote",
+      "location": null,
+      "child_ids": [
+        4118884002,
+        4077136002,
+        4077105002,
+        4077106002,
+        4077107002,
+        4077108002,
+        4077109002,
+        4138270002,
+        4077110002,
+        4077111002,
+        4099776002,
+        4081028002,
+        4077112002,
+        4077113002,
+        4077114002,
+        4077115002,
+        4077116002,
+        4077117002,
+        4077118002,
+        4077119002,
+        4077120002,
+        4077121002,
+        4015571002,
+        4077122002,
+        4077123002,
+        4077124002,
+        4077125002,
+        4077126002,
+        4077127002,
+        4077128002,
+        4077129002,
+        4077130002,
+        4077131002,
+        4077132002,
+        4077133002,
+        4077134002,
+        4077135002,
+        4057497002,
+        4057498002
+      ],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": "<p>We use Greenhouse’s AI-powered Talent Matching tool to compare your application against our job requirements.</p>",
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": "http://app2.greenhouse.io/ai_opt_out_request/job_post/8693239002/ai_opt_out"
+}

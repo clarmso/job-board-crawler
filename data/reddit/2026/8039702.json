@@ -1,0 +1,138 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/reddit/jobs/8039702",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3484722,
+  "location": {
+    "name": "Remote - United States"
+  },
+  "metadata": [
+    {
+      "id": 944668,
+      "name": "Position ID",
+      "value": "P-108868",
+      "value_type": "short_text"
+    },
+    {
+      "id": 956352,
+      "name": "Recruiting Start Date",
+      "value": "2026-08-31",
+      "value_type": "date"
+    },
+    {
+      "id": 944671,
+      "name": "Target Hire Date",
+      "value": "2026-10-30",
+      "value_type": "date"
+    },
+    {
+      "id": 944672,
+      "name": "Target Hire End Date",
+      "value": "",
+      "value_type": "date"
+    },
+    {
+      "id": 944673,
+      "name": "Job Profile",
+      "value": "Information Systems Engineer 5",
+      "value_type": "single_select"
+    },
+    {
+      "id": 956351,
+      "name": "Management Level",
+      "value": "IC5",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944675,
+      "name": "Job Family",
+      "value": "Information Systems",
+      "value_type": "single_select"
+    },
+    {
+      "id": 53341,
+      "name": "Worker Sub-Type",
+      "value": "Regular",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944676,
+      "name": "Time Type",
+      "value": "Full time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944682,
+      "name": "Pay Rate Type",
+      "value": "Salary",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944681,
+      "name": "Scheduled Weekly Hours",
+      "value": "40.0",
+      "value_type": "number"
+    },
+    {
+      "id": 944667,
+      "name": "Company",
+      "value": "Reddit, Inc.",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944677,
+      "name": "Cost Center",
+      "value": "Finance Technology",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944669,
+      "name": "Worker Type",
+      "value": "Employee",
+      "value_type": "single_select"
+    },
+    {
+      "id": 957961,
+      "name": "Department",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8039702,
+  "updated_at": "2026-08-31T14:16:36-04:00",
+  "requisition_id": "R-105837",
+  "title": "Enterprise Architect, Finance Technology",
+  "company_name": "Reddit",
+  "first_published": "2026-07-02T16:44:13-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;div class=&quot;c-message_kit__blocks c-message_kit__blocks--rich_text&quot;&gt;\n&lt;div class=&quot;c-message__message_blocks c-message__message_blocks--rich_text&quot; data-qa=&quot;message-text&quot;&gt;\n&lt;div class=&quot;p-block_kit_renderer&quot; data-qa=&quot;block-kit-renderer&quot;&gt;\n&lt;div class=&quot;p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--first&quot;&gt;\n&lt;div class=&quot;p-rich_text_block&quot;&gt;\n&lt;div class=&quot;p-rich_text_section&quot;&gt;Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit &lt;a class=&quot;c-link&quot; href=&quot;http://www.redditinc.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;http://redditinc.com&quot; data-sk=&quot;tooltip_parent&quot;&gt;www.redditinc.com&lt;/a&gt;.&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;&lt;/div&gt;&lt;h3&gt;&lt;strong&gt;About the Role&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Reddit is looking for an Enterprise Architect to own the systems and data architecture underpinning our Finance organization. This is a rare blend of strategic leadership and hands-on technical execution. You&#39;ll set the architectural vision for Finance&#39;s technology stack, manage a small high-impact team, and roll up your sleeves to deliver systems engineering work yourself.&lt;/p&gt;\n&lt;p&gt;You&#39;ll sit at the intersection of Finance, Corporate Engineering, and Data, serving as the primary technical partner to Finance. If you&#39;re energized by translating business complexity into clean, scalable systems, and thrive when the line between &quot;architect&quot; and &quot;engineer&quot; is intentionally blurred, this role is for you.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;What You&#39;ll Do&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;Architecture &amp;amp; Strategy&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Own the end-to-end technical architecture for Finance systems — ERP, close management, planning &amp;amp; consolidation, data pipelines, and adjacent tooling&lt;/li&gt;\n&lt;li&gt;Develop and maintain a Finance systems roadmap aligned to scale Reddit&#39;s growth, M&amp;amp;A activity, and evolving reporting requirements&lt;/li&gt;\n&lt;li&gt;Evaluate build vs. buy decisions, and serve as the technical voice in Finance technology investments&lt;/li&gt;\n&lt;li&gt;Establish and enforce architectural standards, integration patterns, and data governance practices across the Finance tech stack&lt;/li&gt;\n&lt;li&gt;Partner with Corporate Engineering, Data Engineering, and Security to ensure Finance systems are scalable, compliant, and well-integrated&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Hands-On Systems Engineering&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Own delivery of systems engineering work personally&lt;/li&gt;\n&lt;li&gt;Configure, integrate, and maintain Finance platforms (e.g., NetSuite, Workday, Coupa, Zip, Adaptive, or equivalents)&lt;/li&gt;\n&lt;li&gt;Design and build integrations between Finance systems and upstream/downstream data sources&lt;/li&gt;\n&lt;li&gt;Participate in incident response, root cause analysis, and remediation for Finance system issues&lt;/li&gt;\n&lt;li&gt;Support M&amp;amp;A activity including systems due diligence, gap analysis, and integration planning&lt;/li&gt;\n&lt;li&gt;Design and manage scalable data pipelines, leveraging tools like Workato and BigQuery to maintain a robust finance data warehouse&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Stakeholder Partnership&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Act as the primary technical liaison for Finance leadership translating business requirements into architectural decisions and communicating tradeoffs clearly&lt;/li&gt;\n&lt;li&gt;Partner with Finance to understand pain points and proactively surface system improvements&lt;/li&gt;\n&lt;li&gt;Bring a demand management mindset to intake: help Finance stakeholders articulate needs, size effort, and sequence work effectively&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;What We&#39;re Looking For&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;8+ years of experience in enterprise architecture, systems engineering, or a closely related technical discipline&lt;/li&gt;\n&lt;li&gt;Demonstrated experience designing and implementing Finance technology stacks: ERP, P2P, R2R, or similar&lt;/li&gt;\n&lt;li&gt;Familiarity with Reddit&#39;s existing Finance tech stack (NetSuite, Workato, Adaptive, Zip, Coupa, Ramp, Workday, Salesforce or comparable)&lt;/li&gt;\n&lt;li&gt;Hands-on proficiency with systems integration (APIs, ETL/ELT, iPaaS tools) and data modeling in a Finance context&lt;/li&gt;\n&lt;li&gt;Strong ability to operate across abstraction levels; comfortable in both executive architecture discussions and technical implementation details&lt;/li&gt;\n&lt;li&gt;Experience supporting M&amp;amp;A workstreams (due diligence, integration, cutover) is a strong plus&lt;/li&gt;\n&lt;li&gt;Familiarity with analytics engineering practices (Hex, Looker, or similar)&lt;/li&gt;\n&lt;li&gt;Excellent communication skills: you can explain a systems architecture to a CFO and a data engineer in the same afternoon&lt;/li&gt;\n&lt;li&gt;Experience building and managing data pipelines, including familiarity with iPaaS platforms like Workato and data warehousing solutions such as BigQuery&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Bonus Points&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience at a high-growth public technology company&lt;/li&gt;\n&lt;li&gt;Background working with Corporate Engineering or shared services models&lt;/li&gt;\n&lt;li&gt;Exposure to SOX compliance considerations in systems design&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Why This Role, Why Reddit&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Reddit&#39;s Finance organization is scaling rapidly through organic growth, internal investments, and increasing public company rigor. This role offers a unique opportunity to shape how Finance technology evolves at a consequential moment, with direct exposure to senior Finance leadership and meaningful ownership over a domain that touches every corner of the company.&lt;/p&gt;\n&lt;p&gt;You&#39;ll have the autonomy to set direction, the team support to execute, and the organizational access to make architectural decisions that stick.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Benefits:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Comprehensive Healthcare Benefits and Income Replacement Programs&lt;/li&gt;\n&lt;li&gt;401k with Employer Match&lt;/li&gt;\n&lt;li&gt;Global Benefit programs that fit your lifestyle, from workspace to professional development to caregiving support&lt;/li&gt;\n&lt;li&gt;Family Planning Support&lt;/li&gt;\n&lt;li&gt;Gender-Affirming Care&lt;/li&gt;\n&lt;li&gt;Mental Health &amp;amp; Coaching Benefits&lt;/li&gt;\n&lt;li&gt;Flexible Vacation &amp;amp; Paid Volunteer Time Off&lt;/li&gt;\n&lt;li&gt;Generous Paid Parental Leave&amp;nbsp;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&lt;strong&gt;Pay Transparency:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;This job posting may span more than one career level.&lt;/p&gt;\n&lt;p&gt;In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit &lt;a href=&quot;https://www.redditinc.com/careers/&quot; target=&quot;_blank&quot;&gt;https://www.redditinc.com/careers/&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;To provide greater transparency to candidates, we share base salary ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;The base salary range for this position is:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$180,200&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$252,300 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;In select roles and locations, the interviews will be recorded, transcribed and summarized by artificial intelligence (AI). You will have the opportunity to opt out of recording, transcription and summarization prior to any scheduled interviews.&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;During the interview, we will collect the following categories of personal information: Identifiers, Professional and Employment-Related Information, Sensory Information (audio/video recording), and any other categories of personal information you choose to share with us. We will use this information to evaluate your application for employment or an independent contractor role, as applicable.&amp;nbsp; We will not sell your personal information or disclose it to any third party for their marketing purposes.&amp;nbsp; We will delete any recording of your interview promptly after making a hiring decision.&amp;nbsp; For more information about how we will handle your personal information, including our retention of it, please refer to our &lt;a href=&quot;https://redditinc.com/policies/candidate-privacy-policy&quot;&gt;Candidate Privacy Policy for Potential Employees and Contractors&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Reddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.&amp;nbsp; Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If, due to a disability, you need an accommodation during the interview process, please let your recruiter know.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 70564,
+      "name": "Corporate Accounting",
+      "child_ids": [],
+      "parent_id": 49738
+    }
+  ],
+  "offices": [
+    {
+      "id": 88237,
+      "name": "Remote - United States",
+      "location": null,
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

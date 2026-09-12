@@ -1,0 +1,96 @@
+{
+  "absolute_url": "https://www.okta.com/company/careers/opportunity/8109399?gh_jid=8109399",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 3512938,
+  "location": {
+    "name": "Toronto, Ontario, Canada"
+  },
+  "metadata": [
+    {
+      "id": 58735330,
+      "name": "Naukri Job URL",
+      "value": null,
+      "value_type": "long_text"
+    },
+    {
+      "id": 58735350,
+      "name": "Naukri Job Error",
+      "value": null,
+      "value_type": "long_text"
+    },
+    {
+      "id": 58735367,
+      "name": "Minimum Salary",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735368,
+      "name": "Maximum Salary",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735369,
+      "name": "Minimum Work Experience",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735370,
+      "name": "Maximum Work Experience",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735384,
+      "name": "City",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 58735385,
+      "name": "Job Description",
+      "value": null,
+      "value_type": "long_text"
+    }
+  ],
+  "id": 8109399,
+  "updated_at": "2026-09-11T11:24:18-04:00",
+  "requisition_id": "P25592_3512938",
+  "title": "Staff Fullstack Engineer, AI Acceleration Team",
+  "company_name": "Okta",
+  "first_published": "2026-08-27T16:41:56-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Secure Every Identity, from AI to Human&lt;br&gt;&lt;br&gt;&lt;/strong&gt;Identity is the key to unlocking the potential of AI. Okta secures AI by building the trusted, neutral infrastructure that enables organizations to safely embrace this new era. This work requires a relentless drive to solve complex challenges with real-world stakes. We are looking for builders and owners who operate with speed and urgency and execute with excellence.&lt;br&gt;&lt;br&gt;This is an opportunity to do career-defining work. We&#39;re all in on this mission. If you are too, let&#39;s talk.&lt;/p&gt;&lt;/div&gt;&lt;h1&gt;Staff FullStack Engineer, AI Acceleration Team&lt;/h1&gt;\n&lt;h2&gt;The AI Acceleration Team&lt;/h2&gt;\n&lt;p&gt;The AI Acceleration Team builds AI features right where identity and agents meet. Companies are handing real access to AI agents faster than their controls can keep up, and two problems show up first: how do you authorize what an agent is allowed to do on someone&#39;s behalf, and how do you keep both people and agents from being phished? We take those on directly.&lt;/p&gt;\n&lt;p&gt;Our North Star: to get AI right, you have to get identity right. We are a new team, and we shape the problems as much as we solve them. We bring a product mindset to the work: we dig into what customers actually need, define the outcome, and build toward it. We move fast, stay close to the real problem, and are honest about what works.&lt;/p&gt;\n&lt;h2&gt;The Staff FullStack Engineer Opportunity&lt;/h2&gt;\n&lt;p&gt;As a Staff FullStack Engineer on the AI Acceleration Team, you will own the technical build for solving agent authorization and phishing resistance. You see what needs doing and start it. This is 0-to-1 work, meaning you will move on problems before they are fully specified, always keeping customer success as the ultimate bar.&lt;/p&gt;\n&lt;p&gt;You will help shape which problems we take on, make architectural calls that outlive any single project, and set the technical bar for how we work. You will enforce least privilege for what agents can do and make phishing-resistant access the default. We build with Vercel and AWS, and you will likely work heavily in JavaScript/TypeScript and Java.&lt;/p&gt;\n&lt;h2&gt;What you&#39;ll be doing&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Solve core authorization challenges: Define how companies authorize agent actions and enforce least privilege for what an agent can do on a user&#39;s behalf.&lt;/li&gt;\n&lt;li&gt;Design secure access: Build phishing-resistant authentication and authorization for both people and the agents acting for them.&lt;/li&gt;\n&lt;li&gt;Shape the product: Bring a product mindset to dig into what customers need, define the desired outcomes, and build toward them rather than just executing solutions.&lt;/li&gt;\n&lt;li&gt;Own the quality bar: Act as the voice for product and quality judgment in the room, taking ownership of the outcome, not just the code.&lt;/li&gt;\n&lt;li&gt;Drive technical architecture: Make and defend architectural decisions on distributed systems and complex API integrations that will scale as the work grows.&lt;/li&gt;\n&lt;li&gt;Modernize development: Advance how we use AI across our development lifecycle—how we design, review, and ship—and bring the rest of the team along with you.&lt;/li&gt;\n&lt;li&gt;Coach and multiply: Raise the technical bar of the entire team, building judgment in others rather than trying to solve everything yourself.&lt;/li&gt;\n&lt;li&gt;Improve engineering excellence: Spot and prioritize tech debt, driving improvements beyond feature work (CI/CD, observability, documentation, reliability, and support).&lt;/li&gt;\n&lt;li&gt;Stay customer-aware: Build with a clear, direct line to the customer problem and the outcome you&#39;re solving for, even if you aren&#39;t in every customer conversation.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;What you&#39;ll bring to the role&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;A self-starter mentality: The ability to spot what matters, drive work autonomously, and thrive in ambiguity while helping to form a new charter.&lt;/li&gt;\n&lt;li&gt;Advanced AI tool proficiency: The ability to apply AI meaningfully across the software development lifecycle, evaluate new tooling with good judgment, and establish practices for the wider team.&lt;/li&gt;\n&lt;li&gt;Architectural expertise: Proven experience defining scalable backend architectures and integrating complex APIs with modern web technologies, including making decisions with lasting, org-wide impact.&lt;/li&gt;\n&lt;li&gt;Security fundamentals: A solid grasp of web authentication and authorization, including how auth flows work and how to secure sensitive user data.&lt;/li&gt;\n&lt;li&gt;Backend proficiency: Deep expertise in building reliable, secure, enterprise-grade software in Java or another type-safe language.&lt;/li&gt;\n&lt;li&gt;Frontend flexibility: High proficiency in JavaScript/TypeScript with true fullstack range, including the ability to ship robust frontends.&lt;/li&gt;\n&lt;li&gt;Cloud infrastructure knowledge: Strong cloud architecture fundamentals, with experience designing and operating large-scale services on AWS.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;Extra credit&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Background working on a zero-to-one, startup-like team.&lt;/li&gt;\n&lt;li&gt;Track record of leading a team through a real shift in how they work (e.g., AI adoption, new developer tooling, or cultural shifts).&lt;/li&gt;\n&lt;li&gt;Familiarity with developing Identity and Access Management (IAM) tooling.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;P25592&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Below is the annual salary range for candidates located in Canada. Your actual salary will depend on factors such as your skills, qualifications, and experience. In addition, Okta offers equity (where applicable), bonus, and benefits, including health, dental, and vision insurance, RRSP with a match, healthcare spending, telemedicine, and paid leave (including PTO and parental leave) in accordance with our applicable plans and policies. To learn more about our Total Rewards program, please visit:&amp;nbsp;&lt;a href=&quot;https://rewards.okta.com/can&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://rewards.okta.com/can&amp;amp;source=gmail&amp;amp;ust=1705181614985000&amp;amp;usg=AOvVaw29oi6BOXve4rhySFpzzvao&quot;&gt;https://rewards.okta.com/can&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;The annual base salary range for this position for candidates located in Canada is between:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$160,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$220,000 CAD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;The Okta Experience&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;a href=&quot;http://rewards.okta.com&quot;&gt;Supporting Your Well-Being&lt;/a&gt;&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;&lt;a href=&quot;https://www.okta.com/company/okta-for-good/&quot;&gt;Driving Social Impact&amp;nbsp;&lt;/a&gt;&lt;/li&gt;\n&lt;li&gt;&lt;a href=&quot;https://www.okta.com/company/talent-connection-community/&quot;&gt;Developing Talent and Fostering Connection + Community&lt;/a&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;We are intentional about connection. Our global community, spanning over 20 offices worldwide, is united by a drive to innovate. Your journey begins with an immersive, in-person onboarding experience designed to accelerate your impact and connect you to our mission and team from day one.&lt;br&gt;&lt;br&gt;Okta is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, marital status, age, physical or mental disability, or status as a protected veteran. We also consider for employment qualified applicants with arrest and convictions records, consistent with applicable laws.&lt;br&gt;&lt;br&gt;If reasonable accommodation is needed to complete any part of the job application, interview process, or onboarding please&amp;nbsp;&lt;a href=&quot;https://docs.google.com/forms/d/1EfiEYZrIyhA2X4Fijk0R3RKYOzNoS3wtvyM4nhbZnXE/edit&quot;&gt;use this Form&lt;/a&gt; to request an accommodation.&lt;br&gt;&lt;br&gt;Notice for New York City Applicants &amp;amp; Employees: Okta may use Automated Employment Decision Tools (AEDT), as defined by New York City Local Law 144, that use artificial intelligence, machine learning, or other automated processes to assist in our recruitment and hiring process. In accordance with NYC Local Law 144, if you are an applicant or employee residing in New York City, please&amp;nbsp;&lt;a href=&quot;https://talent.okta.com/new-york-city-aedt-notice.html&quot;&gt;click here&lt;/a&gt; to view our full NYC AEDT Notice.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 335628,
+      "name": "Okta for AI Agents-764",
+      "child_ids": [],
+      "parent_id": 396309
+    }
+  ],
+  "offices": [
+    {
+      "id": 19614,
+      "name": "Toronto",
+      "location": "Toronto, ON, Canada",
+      "child_ids": [],
+      "parent_id": 67251
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

@@ -1,0 +1,97 @@
+{
+  "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=8079636&gh_jid=8079636",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "education": "education_optional",
+  "internal_job_id": 3500433,
+  "location": {
+    "name": "United States"
+  },
+  "metadata": [
+    {
+      "id": 32131013,
+      "name": "Requisition open date",
+      "value": "2026-07-22",
+      "value_type": "date"
+    },
+    {
+      "id": 168141,
+      "name": "Target Remote Countries / States Locations [For Job Wrapping]",
+      "value": [],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 33574685,
+      "name": "Types of Hiring",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 20164553,
+      "name": "FADV_Account",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 20164588,
+      "name": "FADV_Package",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 30595384,
+      "name": "Seniority",
+      "value": "Mid-Senior Level",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8079636,
+  "updated_at": "2026-09-10T20:07:01-04:00",
+  "requisition_id": "R12042",
+  "title": "Agentic AI Engineer",
+  "company_name": "Elastic",
+  "first_published": "2026-07-23T10:46:06-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Elastic, the Search AI Company, enables everyone to find the answers they need in real time, using all their data, at scale — unleashing the potential of businesses and people. The Elastic Search AI Platform, used by more than 50% of the Fortune 500, brings together the precision of search and the intelligence of AI to enable everyone to accelerate the results that matter. By taking advantage of all structured and unstructured data — securing and protecting private information more effectively — Elastic’s complete, cloud-based solutions for search, security, and observability help organizations deliver on the promise of AI.&lt;/p&gt;&lt;/div&gt;&lt;h3&gt;&lt;strong&gt;What is The Role&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;The Elastic IT team is moving beyond simple chat to the next frontier: Agentic Workflows. We are looking for an innovative &lt;strong&gt;Agentic AI Engineer &lt;/strong&gt;to join our team to build autonomous, enterprise-grounded agents that don&#39;t just answer questions—they complete complex business tasks to accelerate productivity across the entire organization.&amp;nbsp;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Our ideal candidate is a talented agentic AI developer who has the passion to dive in, learn, and become a verified Elastic Stack expert. In this role, you will leverage the full power of the Elastic Stack (including but not limited to ESRE, Agent Builder and Workflows) to provide the &quot;brain&quot; and &quot;memory&quot; for our agentic ecosystem. Driven by a service-oriented mindset, you will also act as a trusted enabler, helping our internal business partners get started with the stack so they can solve their own unique data problems. By building directly on our own platform, you will empower our global workforce with cutting-edge tools while showcasing the boundary-pushing capabilities of Elastic&#39;s products.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Are you ready to build the agents that supercharge enterprise productivity and prove what’s possible with Elastic? &lt;/strong&gt;Join us to enable agentic workflows that turn collective knowledge into instant action, empowering everyone at Elastic to achieve more.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;What You Will Be Doing&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Agentic Strategy &amp;amp; Design:&lt;/strong&gt; Design and implement sophisticated agentic workflows that use reasoning and tools to execute end-to-end business processes.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Enterprise Grounding:&lt;/strong&gt; Utilize Retrieval Augmented Generation (RAG) and the Elasticsearch Relevance Engine (ESRE) to ensure agents are deeply grounded in enterprise knowledge for high-accuracy task completion.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;AI Model &amp;amp; Tool Integration:&lt;/strong&gt; Develop and fine-tune LLMs and integrate them with internal APIs and third-party SaaS tools to enable autonomous action.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Scalable Infrastructure &amp;amp; IaC:&lt;/strong&gt; Provision and manage robust cloud-based environments (AWS, Azure, GCP) using &lt;strong&gt;Terraform&lt;/strong&gt; to support the high-concurrency demands of enterprise agents.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;DevOps &amp;amp; Lifecycle Management:&lt;/strong&gt; Establish modern &lt;strong&gt;DevOps practices&lt;/strong&gt; (CI/CD pipelines) to oversee the automated deployment, testing, and performance optimization of agents, keeping our agentic pipelines reliable and secure.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Security &amp;amp; Networking:&lt;/strong&gt; Apply strict &lt;strong&gt;security and network fundamentals&lt;/strong&gt; (e.g., VPC configurations, secure API gateways, encryption, and IAM controls) to protect sensitive data and ensure strict compliance.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;AI Observability:&lt;/strong&gt; Implement comprehensive &lt;strong&gt;observability&lt;/strong&gt; and tracing systems to monitor agent behavior, track execution latency, manage token spend, and proactively detect model drift or failure.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Technical Leadership:&lt;/strong&gt; Act as a subject matter expert on the Elastic Stack, making technical recommendations that push the boundaries of AI-driven productivity.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Documentation:&lt;/strong&gt; Maintain comprehensive documentation of AI workflows, cloud infrastructure, and deployment processes.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;What You Bring&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Proven success&lt;/strong&gt; in delivering independent GenAI projects, specifically those involving autonomous task completion or complex workflow automation.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;An Appetite to Master Elastic:&lt;/strong&gt; A strong desire to learn and become an expert in &lt;strong&gt;Elasticsearch Relevance Engine (ESRE)&lt;/strong&gt;, advanced &lt;strong&gt;RAG&lt;/strong&gt; patterns, and the broader Elastic ecosystem (we will help you get there!).&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Agentic Frameworks:&lt;/strong&gt; Familiarity with &lt;strong&gt;LangGraph&lt;/strong&gt;, &lt;strong&gt;LangChain&lt;/strong&gt;, and &lt;strong&gt;LangSmith&lt;/strong&gt; for building and debugging multi-agent systems.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;DevOps &amp;amp; Infrastructure as Code (IaC): &lt;/strong&gt;Hands-on experience with DevOps practices and infrastructure automation, leveraging Terraform as well as containerization and orchestration technologies like Docker and Kubernetes.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Security &amp;amp; Network Fundamentals: &lt;/strong&gt;Strong knowledge of secure cloud architectures, private networking, firewalls, VPC peering, and secure identity management (OAuth, SAML, IAM).&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Observability &amp;amp; Monitoring: &lt;/strong&gt;Experience setting up observability frameworks (logging, distributed tracing, and metrics) to monitor complex, non-deterministic multi-agent workflows and application health.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Understanding of the Enterprise Agentic/Workflow Platform Landscape:&lt;/strong&gt; Familiarity with leading agentic AI and workflow automation platforms (such as Microsoft Copilot Studio, Salesforce Agentforce, ServiceNow AI Agents)&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Market Trend Integration:&lt;/strong&gt; Proven ability to apply emerging market trends—such as &lt;strong&gt;Multi-Agent Orchestration&lt;/strong&gt; and &lt;strong&gt;Model Context Protocol (MCP)&lt;/strong&gt;—to build high-impact, cost-optimized solutions that scale across the enterprise.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Programming:&lt;/strong&gt; Experience with &lt;strong&gt;Python&lt;/strong&gt; or &lt;strong&gt;TypeScript&lt;/strong&gt; for backend logic and agent orchestration.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Model Expertise:&lt;/strong&gt; Hands-on experience with LLM providers.&lt;/li&gt;\n&lt;li&gt;Bachelor’s or Master’s degree in Computer Science or a related engineering field.&lt;/li&gt;\n&lt;li&gt;Strong communication and problem solving skills with the ability to translate business requirements into technical agent architectures.&lt;/li&gt;\n&lt;li&gt;Ability to work and thrive in a dynamic and fast-paced environment.&lt;/li&gt;\n&lt;li&gt;A commitment to &lt;strong&gt;Ethical AI&lt;/strong&gt; and responsible development practices.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;#LI-JM5&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;br&gt;Compensation for this role is in the form of base salary.&amp;nbsp; This role does not have a variable compensation component.&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The typical starting salary range for new hires in this role is listed below.&amp;nbsp; In select locations (including Seattle WA, Los Angeles CA, the San Francisco Bay Area CA, and the New York City Metro Area), an alternate range may apply as specified below.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;These ranges represent &lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;the lowest to highest salary we reasonably and in good faith believe we would pay for this role at the time of this posting.&amp;nbsp; We may ultimately pay more or less than the posted range, and the ranges may be modified in the future.&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;An employee&#39;s position within the salary range will be based on several factors including, but not limited to, relevant education, qualifications, certifications, experience, skills, geographic location, performance, and business or organizational needs.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Elastic believes that employees should have the opportunity to share in the value that we create together for our shareholders. Therefore, in addition to cash compensation, this role is currently eligible to participate in Elastic&#39;s stock program.&amp;nbsp; Our total rewards package also includes a company-matched 401k with dollar-for-dollar matching up to 6% of eligible earnings, along with a range of other benefits offered with a holistic emphasis on employee well-being.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;The typical starting salary range for this role is:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$94,300&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$149,200 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;title&quot;&gt;The typical starting salary range for this role in the select locations listed above is:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$113,300&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$179,200 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;Additional Information - We Take Care of Our People&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;As a distributed company, diversity drives our identity. Whether you’re looking to launch a new career or grow an existing one, Elastic is the type of company where you can balance great work with great life. Your age is only a number. It doesn’t matter if you’re just out of college or your children are; we need you for what you can do.&lt;/p&gt;\n&lt;p&gt;We strive to have parity of benefits across regions and while regulations differ from place to place, we believe taking care of our people is the right thing to do.&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Competitive pay based on the work you do here and not your previous salary&lt;/li&gt;\n&lt;li&gt;Health coverage for you and your family in many locations&lt;/li&gt;\n&lt;li&gt;Ability to craft your calendar with flexible locations and schedules for many roles&lt;/li&gt;\n&lt;li&gt;Generous number of vacation days each year&lt;/li&gt;\n&lt;li&gt;Increase your impact - We match up to $2000 (or local currency equivalent) for financial donations and service&lt;/li&gt;\n&lt;li&gt;Up to 40 hours each year to use toward volunteer projects you love&lt;/li&gt;\n&lt;li&gt;Embracing parenthood with minimum of 16 weeks of parental leave&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Different people approach problems differently. We need that. Elastic is an equal opportunity employer and is committed to creating an inclusive culture that celebrates different perspectives, experiences, and backgrounds. Qualified applicants will receive consideration for employment without regard to race, ethnicity, color, religion, sex, pregnancy, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, disability status, or any other basis protected by federal, state or local law, ordinance or regulation.&lt;/p&gt;\n&lt;p&gt;We welcome individuals with disabilities and strive to create an accessible and inclusive experience for all individuals. To request an accommodation during the application or the recruiting process, please email &lt;a href=&quot;mailto:candidate_accessibility@elastic.co&quot; target=&quot;_blank&quot;&gt;candidate_accessibility@elastic.co&lt;/a&gt;&lt;span class=&quot;gmail_default&quot;&gt;.&lt;/span&gt;&amp;nbsp;We will reply to your request within 24 business hours of submission.&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Applicants have rights under Federal Employment Laws, view posters linked below:&lt;/span&gt; &lt;a href=&quot;https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/fmlaen.pdf&quot; target=&quot;_blank&quot;&gt;Family and Medical Leave Act (FMLA)&lt;/a&gt; &lt;span style=&quot;color: #000000;&quot;&gt;Poster;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&amp;nbsp;&lt;a href=&quot;https://www.dol.gov/sites/dolgov/files/ofccp/pdf/pay-transp_%20English_formattedESQA508c.pdf&quot; target=&quot;_blank&quot;&gt;Pay Transparency Nondiscrimination Provision&lt;/a&gt; Poster; &lt;/span&gt;&lt;a href=&quot;https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/eppabw.pdf&quot; target=&quot;_blank&quot;&gt;Employee Polygraph Protection Act (EPPA)&lt;/a&gt; &lt;span style=&quot;color: #000000;&quot;&gt;Poster and &lt;a href=&quot;https://www.dol.gov/sites/dolgov/files/OFCCP/regs/compliance/posters/pdf/22-088_EEOC_KnowYourRights.pdf&quot; target=&quot;_blank&quot;&gt;Know Your Rights&lt;/a&gt; (Poster)&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Elasticsearch develops and distributes technology and information that is subject to U.S. and other countries’ export controls and licensing requirements for individuals who are located in or are nationals of the following sanctioned countries and regions: Belarus, Cuba, Iran, North Korea, Syria, or Russia, including the Ukrainian territories annexed by Russia (The Crimea region of Ukraine, The Donetsk People&#39;s Republic (DNR), The Luhansk People&#39;s Republic (LNR), Kherson or Zaporizhzhia). If you are located in or are a national of one of the listed countries or regions, an export license may be required as a condition of your employment in this role. Please note that national origin and/or nationality do not affect eligibility for employment with Elastic.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;Please see&amp;nbsp;&lt;a href=&quot;https://www.elastic.co/legal/applicant-privacy-statement&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://www.elastic.co/legal/applicant-privacy-statement&amp;amp;source=gmail&amp;amp;ust=1611068262479000&amp;amp;usg=AFQjCNG3orAPk5sJIr9WVm0ZDxYw82c5DA&quot;&gt;here&lt;/a&gt;&amp;nbsp;for our Privacy Statement.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 33961,
+      "name": "IT",
+      "child_ids": [],
+      "parent_id": 53542
+    }
+  ],
+  "offices": [
+    {
+      "id": 73204,
+      "name": "United States",
+      "location": null,
+      "child_ids": [
+        51927,
+        69277,
+        85933,
+        87403,
+        20729,
+        20746,
+        20743,
+        44935,
+        44931,
+        44937,
+        44936
+      ],
+      "parent_id": 79984
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

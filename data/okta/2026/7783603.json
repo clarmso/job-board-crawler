@@ -1,0 +1,96 @@
+{
+  "absolute_url": "https://www.okta.com/company/careers/opportunity/7783603?gh_jid=7783603",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 3406311,
+  "location": {
+    "name": "Bengaluru, India"
+  },
+  "metadata": [
+    {
+      "id": 58735330,
+      "name": "Naukri Job URL",
+      "value": null,
+      "value_type": "long_text"
+    },
+    {
+      "id": 58735350,
+      "name": "Naukri Job Error",
+      "value": null,
+      "value_type": "long_text"
+    },
+    {
+      "id": 58735367,
+      "name": "Minimum Salary",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735368,
+      "name": "Maximum Salary",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735369,
+      "name": "Minimum Work Experience",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735370,
+      "name": "Maximum Work Experience",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735384,
+      "name": "City",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 58735385,
+      "name": "Job Description",
+      "value": null,
+      "value_type": "long_text"
+    }
+  ],
+  "id": 7783603,
+  "updated_at": "2026-09-11T11:24:18-04:00",
+  "requisition_id": "P24597_3406311",
+  "title": "Engineering Architect  - DX/AX/UX",
+  "company_name": "Okta",
+  "first_published": "2026-05-06T09:51:50-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Secure Every Identity, from AI to Human&lt;br&gt;&lt;br&gt;&lt;/strong&gt;Identity is the key to unlocking the potential of AI. Okta secures AI by building the trusted, neutral infrastructure that enables organizations to safely embrace this new era. This work requires a relentless drive to solve complex challenges with real-world stakes. We are looking for builders and owners who operate with speed and urgency and execute with excellence.&lt;br&gt;&lt;br&gt;This is an opportunity to do career-defining work. We&#39;re all in on this mission. If you are too, let&#39;s talk.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Get to know Okta&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Okta is The World&#39;s Identity Company. We free everyone to safely use any technology, anywhere, on any device or app. Our flexible and neutral products, Okta Platform and Auth0 Platform, provide secure access, authentication, and automation, placing identity at the core of business security and growth.&lt;/p&gt;\n&lt;p&gt;At Okta, we celebrate a variety of perspectives and experiences. We are not looking for someone who checks every single box — we&#39;re looking for lifelong learners and people who can make us better with their unique experiences.&lt;/p&gt;\n&lt;p&gt;Join our team! We&#39;re building a world where Identity belongs to you.&lt;/p&gt;\n&lt;p&gt;Auth0 is an easy-to-implement authentication and authorization platform designed by developers for developers. We make access to applications safe, secure, and seamless for the more than 100 million daily logins around the world. Our modern approach to identity enables this Tier-0 global service to deliver convenience, privacy, and security so customers can focus on innovation.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;The Engineering Architect Team&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;The Architecture team is a small group of very senior engineers reporting to our VP of Engineering Excellence, working broadly across the organization in collaboration with Engineering, Product, and Security. We partner deeply with other Engineering teams for large projects, and provide direction and architectural guidance for smaller initiatives. We have a dual-pronged charter to &quot;level up the tech stack and level up the people stack&quot; via both technical contributions and partnerships and mentoring.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;The Role&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Auth0 is a developer product at its core — and increasingly, the developers building with us aren&#39;t just humans. AI agents are now a first-class consumer of our SDKs, APIs, and documentation.&lt;/p&gt;\n&lt;p&gt;This role owns the architectural vision for how Auth0 is experienced across three dimensions: &lt;strong&gt;DX&lt;/strong&gt; (Developer Experience — how human developers build with Auth0), &lt;strong&gt;UX&lt;/strong&gt; (User Experience — how users experience Auth0 products), and &lt;strong&gt;AX&lt;/strong&gt; (Agentic Experience — how AI agents interact with and build on Auth0).&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;You&#39;ll work across our SDK ecosystem, public APIs, documentation, and product surfaces to ensure that every touchpoint is consistent, delightful, and easy to build on — whether the builder is a human or an agent.&lt;/p&gt;\n&lt;p&gt;You&#39;ll also contribute directly to how we build internally: creating the skills, guardrails, and patterns that our own in-house agents use, ensuring that agent-assisted development at Auth0 produces the same high-quality, consistent output as human-led development.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What you&#39;ll be doing&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Define and drive the architectural vision for DX, UX, and AX across Auth0&#39;s public products, SDKs, and APIs&lt;/li&gt;\n&lt;li&gt;Identify and address inconsistencies across Auth0&#39;s product surfaces, establishing patterns and standards that make the experience feel unified and intentional&lt;/li&gt;\n&lt;li&gt;Architect and contribute to the SDK and API design layer, ensuring our developer-facing interfaces are ergonomic, consistent, and built for both human and agent consumers&lt;/li&gt;\n&lt;li&gt;Design and build agent skills, guardrails, and contextual tooling (MCP servers, SKILL.md, llms.txt, structured documentation) that enable agents to build correctly with Auth0&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Embed within Engineering teams for large initiatives, providing architectural guidance and lighter-touch direction for smaller efforts&lt;/li&gt;\n&lt;li&gt;Partner closely with the Design team as a key stakeholder, ensuring engineering implementation reflects and reinforces the product&#39;s UX direction&lt;/li&gt;\n&lt;li&gt;Contribute to Auth0&#39;s Developer Experience Principles in practice — not just as guidance, but through hands-on implementation that raises the bar&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Lead by doing: reviewing, prototyping, and contributing code across SDKs, tooling, and documentation systems&lt;/li&gt;\n&lt;li&gt;Participate in our Engineering Leadership Team with other architects, directors, and executives&lt;/li&gt;\n&lt;li&gt;Mentor and uplevel engineers across the organization on experience-focused architecture&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;What you&#39;ll bring to the role&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience : 15 to 20 year .&lt;/li&gt;\n&lt;li&gt;Deep experience designing developer-facing products: SDKs, APIs, CLIs, documentation systems, or developer portals&lt;/li&gt;\n&lt;li&gt;A strong point of view on what great DX looks like — and the ability to identify, articulate, and fix where it falls short&lt;/li&gt;\n&lt;li&gt;Familiarity with the emerging AX space: agent-readable documentation formats, MCP servers, agent skills, and how AI agents consume APIs and tooling auth0.com&lt;/li&gt;\n&lt;li&gt;Knowledge of Identity protocols such as OAuth, OIDC, and SAML, and how they surface in developer-facing products&lt;/li&gt;\n&lt;li&gt;Experience working across multiple product surfaces to drive consistency — you&#39;ve seen what fragmentation looks like and know how to fix it&lt;/li&gt;\n&lt;li&gt;Hands-on coding ability: this is not a purely advisory role; you&#39;ll be expected to build, prototype, and contribute directly&lt;/li&gt;\n&lt;li&gt;Very strong written and verbal communication skills, with the ability to influence engineers, product managers, and designers&lt;/li&gt;\n&lt;li&gt;Ability to drive technical decisions to conclusion while balancing quality, velocity, and pragmatism&lt;/li&gt;\n&lt;li&gt;Excellence at creating clarity and alignment across teams without direct authority&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Extra credit:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience contributing to or maintaining open source SDKs or libraries&lt;/li&gt;\n&lt;li&gt;Familiarity with structured content and documentation systems designed for LLM consumption (llms.txt, OpenAPI, structured changelogs)&lt;/li&gt;\n&lt;li&gt;Experience with frontend or full-stack development, particularly in the context of developer tooling or product surfaces like Universal Login&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;#LI-Hybrid&amp;nbsp;&lt;br&gt;#P24597_3406311&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;The Okta Experience&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;a href=&quot;http://rewards.okta.com&quot;&gt;Supporting Your Well-Being&lt;/a&gt;&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;&lt;a href=&quot;https://www.okta.com/company/okta-for-good/&quot;&gt;Driving Social Impact&amp;nbsp;&lt;/a&gt;&lt;/li&gt;\n&lt;li&gt;&lt;a href=&quot;https://www.okta.com/company/talent-connection-community/&quot;&gt;Developing Talent and Fostering Connection + Community&lt;/a&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;We are intentional about connection. Our global community, spanning over 20 offices worldwide, is united by a drive to innovate. Your journey begins with an immersive, in-person onboarding experience designed to accelerate your impact and connect you to our mission and team from day one.&lt;br&gt;&lt;br&gt;Okta is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, marital status, age, physical or mental disability, or status as a protected veteran. We also consider for employment qualified applicants with arrest and convictions records, consistent with applicable laws.&lt;br&gt;&lt;br&gt;If reasonable accommodation is needed to complete any part of the job application, interview process, or onboarding please&amp;nbsp;&lt;a href=&quot;https://docs.google.com/forms/d/1EfiEYZrIyhA2X4Fijk0R3RKYOzNoS3wtvyM4nhbZnXE/edit&quot;&gt;use this Form&lt;/a&gt; to request an accommodation.&lt;br&gt;&lt;br&gt;Notice for New York City Applicants &amp;amp; Employees: Okta may use Automated Employment Decision Tools (AEDT), as defined by New York City Local Law 144, that use artificial intelligence, machine learning, or other automated processes to assist in our recruitment and hiring process. In accordance with NYC Local Law 144, if you are an applicant or employee residing in New York City, please&amp;nbsp;&lt;a href=&quot;https://talent.okta.com/new-york-city-aedt-notice.html&quot;&gt;click here&lt;/a&gt; to view our full NYC AEDT Notice.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 44030,
+      "name": "Software Architecture-678",
+      "child_ids": [],
+      "parent_id": 396304
+    }
+  ],
+  "offices": [
+    {
+      "id": 89126,
+      "name": "Bengaluru ",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 89122
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

@@ -1,0 +1,54 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/beyondtrust/jobs/8191339",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3544687,
+  "location": {
+    "name": "Remote Canada | Remote United States"
+  },
+  "metadata": null,
+  "id": 8191339,
+  "updated_at": "2026-09-11T14:52:29-04:00",
+  "requisition_id": "4147",
+  "title": "Vulnerability Manager",
+  "company_name": "BeyondTrust",
+  "first_published": "2026-09-11T14:52:29-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;BeyondTrust is a place where you can bring your purpose to life through the work that you do, creating a safer world through our cybersecurity SaaS portfolio.&lt;/p&gt;\n&lt;p&gt;Our culture of flexibility, trust, and continual learning means you will be recognized for your growth, and for the impact you make on our success. You will be surrounded by people who challenge, support, and inspire you to be the best version of yourself.&lt;/p&gt;\n&lt;p&gt;&lt;u&gt;The Role&lt;/u&gt;&lt;/p&gt;\n&lt;p&gt;The Vulnerability Manager operates BeyondTrust&#39;s product vulnerability management program end to end. This is an operator role: you design the process, drive the automation that runs it, own the metrics, and are accountable for the answer when leadership asks what our open vulnerability risk is today. The primary focus is vulnerability management for FedRAMP 20x and standing up vulnerability management for new products as they ship. You partner closely with Security Engineering to define the integration requirements, partner with them closely through delivery, and own the operational outcome. The ideal candidate has designed a vulnerability management process inside a regulated environment, uses automation and AI to remove manual work rather than absorbing it, and can hold a remediation conversation with an engineering lead and an evidence conversation with an assessor on the same day. Fully remote, must be North America based.&lt;/p&gt;\n&lt;p&gt;&lt;u&gt;What You’ll Do&lt;/u&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Design and operate the product vulnerability management process end to end: intake, triage, risk assessment, assignment, SLA tracking, exception handling, and closure verification.&lt;/li&gt;\n&lt;li&gt;Own vulnerability management for FedRAMP 20x, including continuous monitoring cadence, machine-readable evidence, Key Security Indicator reporting, and POA&amp;amp;M lifecycle from creation through closure.&lt;/li&gt;\n&lt;li&gt;Stand up vulnerability management for new products and services as they ship: define scan coverage, onboard them into the process, set SLAs, and establish reporting from first release.&lt;/li&gt;\n&lt;li&gt;Assess and rank vulnerability risk using exploitability, exposure, asset criticality, and compensating controls rather than CVSS alone, and defend that ranking to engineers, executives, and assessors.&lt;/li&gt;\n&lt;li&gt;Drive remediation with product engineering teams: assign ownership, agree timelines, escalate overdue Critical and High findings, and record risk acceptances as time-bound decisions with an expiry.&lt;/li&gt;\n&lt;li&gt;Automate the process wherever manual effort scales with finding volume, using scripting, workflow tooling, and AI-assisted analysis for triage, deduplication, enrichment, summarization, and evidence collection.&lt;/li&gt;\n&lt;li&gt;Define the requirements for platform integrations built by Security Engineering, covering scanners, ticketing, asset inventory, and dashboards. Partner with that team through delivery and validate the result against the operational need.&lt;/li&gt;\n&lt;li&gt;Own the program metrics: SLA attainment, mean time to remediate, vulnerability aging, backlog trend, scan and asset coverage, and exception volume. Report them on a fixed cadence to security and engineering leadership.&lt;/li&gt;\n&lt;li&gt;Monitor the vulnerabilities that matter most. Maintain a current view of critical exposure across the product portfolio and serve as the authoritative answer to what is open, what it means, and when it closes.&lt;/li&gt;\n&lt;li&gt;Lead rapid response for actively exploited and zero-day vulnerabilities, including exposure assessment across the product fleet, mitigation tracking, and stakeholder communication.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;u&gt;What You’ll Bring&lt;/u&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;5+ years in vulnerability management, product security, or security operations, with direct ownership of a vulnerability management process rather than participation in one.&lt;/li&gt;\n&lt;li&gt;Demonstrated experience designing and operating vulnerability management process in a regulated or audited environment, and sustaining it through assessment cycles.&lt;/li&gt;\n&lt;li&gt;Working knowledge of FedRAMP and NIST SP 800-53, specifically vulnerability scanning, flaw remediation, continuous monitoring, configuration management, and POA&amp;amp;M management.&lt;/li&gt;\n&lt;li&gt;Hands-on operation of enterprise vulnerability and exposure management platforms, cloud security posture tooling, container scanning, and software composition analysis.&lt;/li&gt;\n&lt;li&gt;Practical automation skill: scripting in Python or equivalent, workflow and reporting tooling, and use of AI assistants to reduce manual triage and reporting effort. This role automates its own process; it does not build platform software.&lt;/li&gt;\n&lt;li&gt;Ability to write clear technical requirements and partner with security engineering through design, delivery, and acceptance.&lt;/li&gt;\n&lt;li&gt;Strong understanding of CVSS, CISA Known Exploited Vulnerabilities (KEV), EPSS, and risk-based prioritization, with the judgment to separate a high score from a real exposure.&lt;/li&gt;\n&lt;li&gt;Working knowledge of cloud services (AWS preferred), containers, Kubernetes, CI/CD, web applications, and APIs, sufficient to assess a finding and evaluate a proposed fix.&lt;/li&gt;\n&lt;li&gt;Ability to drive remediation across engineering teams without direct authority.&lt;/li&gt;\n&lt;li&gt;Clear written and verbal communication with engineers, executives, auditors, and customers.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;u&gt;Nice To Have&lt;/u&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Direct experience supporting FedRAMP Moderate or High authorization and continuous monitoring, or FedRAMP 20x.&lt;/li&gt;\n&lt;li&gt;Experience defining metrics and building reporting or dashboards for executive and audit audiences.&lt;/li&gt;\n&lt;li&gt;Experience with SaaS, identity security, or privileged access management products.&lt;/li&gt;\n&lt;li&gt;Familiarity with agentic or AI-assisted security workflows.&lt;/li&gt;\n&lt;li&gt;Cloud security certifications (AWS, Azure, GCP), GIAC, CISSP, or equivalent.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;u&gt;Better Together&lt;/u&gt;&lt;/p&gt;\n&lt;p&gt;Diversity. Inclusion. They’re more than just words for us. They are the guiding values of how we build our teams, cultivate leaders, and create a culture where people feel connected.&lt;/p&gt;\n&lt;p&gt;We take care of our employees so they can take care of our customers. Customers who&amp;nbsp;come from all walks of life just like us. We hire incredible people from diverse backgrounds because when we are different together, we are stronger together.&lt;/p&gt;\n&lt;p&gt;&lt;u&gt;About Us&lt;/u&gt;&lt;/p&gt;\n&lt;p&gt;BeyondTrust is the global identity security leader protecting Paths to Privilege™. Our identity-centric approach goes beyond securing privileges and access, empowering organizations with the most effective solution to manage the entire identity attack surface and neutralize threats, whether from external attacks or insiders.&lt;/p&gt;\n&lt;p&gt;BeyondTrust is leading the charge in transforming identity security to prevent breaches and limit the blast radius of attacks, while creating a superior customer experience and operational efficiencies. We are trusted by 20,000 customers, including 75 of the Fortune 100, and our global ecosystem of partners.&lt;/p&gt;\n&lt;p&gt;Learn more at &lt;a href=&quot;http://www.beyondtrust.com/&quot;&gt;www.beyondtrust.com&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;#LI-BS1&lt;/p&gt;",
+  "departments": [
+    {
+      "id": 336511,
+      "name": "Product Security",
+      "child_ids": [],
+      "parent_id": 211212
+    }
+  ],
+  "offices": [
+    {
+      "id": 60490,
+      "name": "Remote Canada",
+      "location": "Toronto, Ontario, Canada",
+      "child_ids": [],
+      "parent_id": 44144
+    },
+    {
+      "id": 60813,
+      "name": "Remote United States",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 44144
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}
