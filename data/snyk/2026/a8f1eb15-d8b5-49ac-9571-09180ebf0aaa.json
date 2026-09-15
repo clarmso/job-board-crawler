@@ -1,0 +1,57 @@
+{
+  "id": "a8f1eb15-d8b5-49ac-9571-09180ebf0aaa",
+  "title": "Test Job 2",
+  "department": "Finance",
+  "team": "Finance",
+  "employmentType": "FullTime",
+  "location": "United States - Boston Office",
+  "shouldDisplayCompensationOnJobPostings": true,
+  "secondaryLocations": [],
+  "publishedAt": "2026-09-14T14:17:44.953+00:00",
+  "isListed": true,
+  "isRemote": true,
+  "workplaceType": "Hybrid",
+  "address": {
+    "postalAddress": {
+      "addressRegion": "Massachusetts",
+      "addressCountry": "United States",
+      "addressLocality": "Boston"
+    }
+  },
+  "jobUrl": "https://jobs.ashbyhq.com/snyk/a8f1eb15-d8b5-49ac-9571-09180ebf0aaa",
+  "applyUrl": "https://jobs.ashbyhq.com/snyk/a8f1eb15-d8b5-49ac-9571-09180ebf0aaa/application",
+  "descriptionHtml": "<h2><strong>Unleash AI Innovators, Securely</strong></h2><p style=\"min-height:1.5em\">Software is being rewritten in real time. AI agents are starting to write more code than humans do, at a speed no security team has ever had to match, and that single shift is opening up the biggest opportunity our industry has seen in a decade. We're not bracing for it, we're building the company that owns it.</p><p style=\"min-height:1.5em\">Snyk is building the next generation security platform where security isn't a set of tools people operate.  It's a team of security agents working alongside your engineers, finding, fixing, and governing risk at the speed software is now built. These agents work alongside both the company build and the agents they adopt. Security stops being a queue of work waiting for people, and becomes a coordinated workforce companies direct and trust.</p><p style=\"min-height:1.5em\">Test Job</p><p style=\"min-height:1.5em\"><strong>About Snyk</strong></p><p style=\"min-height:1.5em\">Snyk is committed to creating an inclusive and engaging environment where our employees can thrive as we rally behind our common mission to make the digital world a safer place. From Snyk employee resource groups, to global benefits that help our employees prioritize their health, wellness, financial security, and a work/life blend, we aim to support our employees along their entire journeys here at Snyk.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>Equal Employment Opportunity</strong></p><p style=\"min-height:1.5em\">Snyk is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.</p>",
+  "descriptionPlain": "UNLEASH AI INNOVATORS, SECURELY\n\nSoftware is being rewritten in real time. AI agents are starting to write more code than humans do, at a speed no security team has ever had to match, and that single shift is opening up the biggest opportunity our industry has seen in a decade. We're not bracing for it, we're building the company that owns it.\n\nSnyk is building the next generation security platform where security isn't a set of tools people operate.  It's a team of security agents working alongside your engineers, finding, fixing, and governing risk at the speed software is now built. These agents work alongside both the company build and the agents they adopt. Security stops being a queue of work waiting for people, and becomes a coordinated workforce companies direct and trust.\n\nTest Job\n\nAbout Snyk\n\nSnyk is committed to creating an inclusive and engaging environment where our employees can thrive as we rally behind our common mission to make the digital world a safer place. From Snyk employee resource groups, to global benefits that help our employees prioritize their health, wellness, financial security, and a work/life blend, we aim to support our employees along their entire journeys here at Snyk.\n\n\n\nEqual Employment Opportunity\n\nSnyk is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.",
+  "compensation": {
+    "compensationTierSummary": "$75K – $100K",
+    "scrapeableCompensationSalarySummary": "$75K - $100K",
+    "compensationTiers": [
+      {
+        "id": "b2fcd345-897e-46cd-b1e0-52be89075826",
+        "tierSummary": "$75K – $100K",
+        "title": null,
+        "additionalInformation": null,
+        "components": [
+          {
+            "id": "da7e50d7-de0d-4210-b5c6-7771f5c2e480",
+            "summary": "$75K – $100K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 75000,
+            "maxValue": 100000
+          }
+        ]
+      }
+    ],
+    "summaryComponents": [
+      {
+        "compensationType": "Salary",
+        "interval": "1 YEAR",
+        "currencyCode": "USD",
+        "minValue": 75000,
+        "maxValue": 100000
+      }
+    ]
+  }
+}

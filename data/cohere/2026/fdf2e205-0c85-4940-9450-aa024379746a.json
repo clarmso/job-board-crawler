@@ -1,16 +1,55 @@
 {
   "id": "fdf2e205-0c85-4940-9450-aa024379746a",
-  "title": "Account Executive, SLED (US)",
+  "title": "Account Executive, SLED (West)",
   "department": "Revenue",
   "team": "Revenue",
   "employmentType": "FullTime",
   "location": "United States",
   "shouldDisplayCompensationOnJobPostings": true,
-  "secondaryLocations": [],
+  "secondaryLocations": [
+    {
+      "location": "Phoenix",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "Arizona",
+          "addressCountry": "United States",
+          "addressLocality": "Phoenix"
+        }
+      }
+    },
+    {
+      "location": "Seattle",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "Washington",
+          "addressCountry": "United States",
+          "addressLocality": "Seattle"
+        }
+      }
+    },
+    {
+      "location": "California",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "California"
+        }
+      }
+    },
+    {
+      "location": "Denver",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "Colorado",
+          "addressCountry": "United States",
+          "addressLocality": "Denver"
+        }
+      }
+    }
+  ],
   "publishedAt": "2026-07-27T03:30:34.588+00:00",
   "isListed": true,
-  "isRemote": false,
-  "workplaceType": "OnSite",
+  "isRemote": true,
+  "workplaceType": "Remote",
   "address": {
     "postalAddress": {
       "addressRegion": "California",

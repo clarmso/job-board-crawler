@@ -6,7 +6,18 @@
   "employmentType": "FullTime",
   "location": "Toronto, ON",
   "shouldDisplayCompensationOnJobPostings": false,
-  "secondaryLocations": [],
+  "secondaryLocations": [
+    {
+      "location": "Vancouver, BC",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "British Columbia",
+          "addressCountry": "Canada",
+          "addressLocality": "Vancouver"
+        }
+      }
+    }
+  ],
   "publishedAt": "2026-07-10T18:55:06.854+00:00",
   "isListed": true,
   "isRemote": true,

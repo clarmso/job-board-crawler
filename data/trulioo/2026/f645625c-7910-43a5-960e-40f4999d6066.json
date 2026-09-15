@@ -64,15 +64,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "31aa1e5f-94e2-4dcc-98aa-d174b81887fd",
-            "summary": "CA$195K – CA$235K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "CAD",
-            "minValue": 195000,
-            "maxValue": 235000
-          },
-          {
             "id": "1ca6fada-95fd-42f0-9296-c5148b596d23",
             "summary": "Offers Bonus",
             "compensationType": "Bonus",
@@ -80,6 +71,15 @@
             "currencyCode": "CAD",
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "31aa1e5f-94e2-4dcc-98aa-d174b81887fd",
+            "summary": "CA$195K – CA$235K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "CAD",
+            "minValue": 195000,
+            "maxValue": 235000
           }
         ]
       },
@@ -112,17 +112,17 @@
     ],
     "summaryComponents": [
       {
+        "compensationType": "Bonus",
+        "minValue": null,
+        "maxValue": null,
+        "interval": "1 YEAR"
+      },
+      {
         "minValue": 195000,
         "maxValue": 250000,
         "currencyCode": "CAD",
         "interval": "1 YEAR",
         "compensationType": "Salary"
-      },
-      {
-        "compensationType": "Bonus",
-        "minValue": null,
-        "maxValue": null,
-        "interval": "1 YEAR"
       }
     ]
   }
