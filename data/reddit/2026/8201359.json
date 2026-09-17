@@ -1,0 +1,138 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/reddit/jobs/8201359",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3549532,
+  "location": {
+    "name": "Remote - United States"
+  },
+  "metadata": [
+    {
+      "id": 944668,
+      "name": "Position ID",
+      "value": "P-108345",
+      "value_type": "short_text"
+    },
+    {
+      "id": 956352,
+      "name": "Recruiting Start Date",
+      "value": "2026-09-14",
+      "value_type": "date"
+    },
+    {
+      "id": 944671,
+      "name": "Target Hire Date",
+      "value": "2026-11-30",
+      "value_type": "date"
+    },
+    {
+      "id": 944672,
+      "name": "Target Hire End Date",
+      "value": "",
+      "value_type": "date"
+    },
+    {
+      "id": 944673,
+      "name": "Job Profile",
+      "value": "Specialized Machine Learning Engineer 6",
+      "value_type": "single_select"
+    },
+    {
+      "id": 956351,
+      "name": "Management Level",
+      "value": "IC6",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944675,
+      "name": "Job Family",
+      "value": "Specialized Machine Learning",
+      "value_type": "single_select"
+    },
+    {
+      "id": 53341,
+      "name": "Worker Sub-Type",
+      "value": "Regular",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944676,
+      "name": "Time Type",
+      "value": "Full time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944682,
+      "name": "Pay Rate Type",
+      "value": "Salary",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944681,
+      "name": "Scheduled Weekly Hours",
+      "value": "40.0",
+      "value_type": "number"
+    },
+    {
+      "id": 944667,
+      "name": "Company",
+      "value": "Reddit, Inc.",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944677,
+      "name": "Cost Center",
+      "value": "Tech-Ads Engineering",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944669,
+      "name": "Worker Type",
+      "value": "Employee",
+      "value_type": "single_select"
+    },
+    {
+      "id": 957961,
+      "name": "Department",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8201359,
+  "updated_at": "2026-09-16T20:16:50-04:00",
+  "requisition_id": "R-105869",
+  "title": "Senior Staff Machine Learning Engineer, Ads Ranking ",
+  "company_name": "Reddit",
+  "first_published": "2026-09-15T14:58:04-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;div class=&quot;c-message_kit__blocks c-message_kit__blocks--rich_text&quot;&gt;\n&lt;div class=&quot;c-message__message_blocks c-message__message_blocks--rich_text&quot; data-qa=&quot;message-text&quot;&gt;\n&lt;div class=&quot;p-block_kit_renderer&quot; data-qa=&quot;block-kit-renderer&quot;&gt;\n&lt;div class=&quot;p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--first&quot;&gt;\n&lt;div class=&quot;p-rich_text_block&quot;&gt;\n&lt;div class=&quot;p-rich_text_section&quot;&gt;Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit &lt;a class=&quot;c-link&quot; href=&quot;http://www.redditinc.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;http://redditinc.com&quot; data-sk=&quot;tooltip_parent&quot;&gt;www.redditinc.com&lt;/a&gt;.&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;&lt;/div&gt;&lt;p data-path-to-node=&quot;1&quot;&gt;&lt;strong data-path-to-node=&quot;1&quot; data-index-in-node=&quot;0&quot;&gt;About the Role:&lt;/strong&gt;&lt;/p&gt;\n&lt;p data-path-to-node=&quot;1&quot;&gt;We are seeking a Senior Staff Machine Learning Engineer to define and accelerate how we leverage agentic AI to transform machine learning models and modeling workflows. This high-impact role focuses directly on&amp;nbsp;&lt;strong data-path-to-node=&quot;1&quot; data-index-in-node=&quot;226&quot;&gt;modeling leverage&lt;/strong&gt;—enhancing model quality and velocity—rather than building general infrastructure.&amp;nbsp; As a senior staff engineer, you will operate as a technical leader across the entire modeling loop, utilizing modern AI-assisted development systems (such as Claude, Cursor, and comparable tools) to make model development faster, more rigorous, and significantly more effective across the organization.&lt;/p&gt;\n&lt;p data-path-to-node=&quot;4&quot;&gt;&lt;strong data-path-to-node=&quot;10&quot; data-index-in-node=&quot;0&quot;&gt;Why Join Us?&lt;/strong&gt; This role offers a domain-flexible platform to redefine how ML engineering is done. If you are passionate about combining deep ML fundamentals with the vanguard of agentic AI to multiply team impact, we’d love to talk to you.&lt;/p&gt;\n&lt;h4&gt;&lt;strong&gt;What you’ll do:&lt;/strong&gt;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Develop advanced ML models and the agentic workflows that help teams design, train, evaluate, and improve them.&lt;/li&gt;\n&lt;li&gt;Use tools such as Claude, Cursor, and comparable AI-assisted development systems to investigate model behavior, generate and test hypotheses, automate repetitive analysis, and improve code and experiments.&lt;/li&gt;\n&lt;li&gt;Build reliable loops for data and label analysis, feature and embedding development, architecture comparison, hyperparameter optimization, error analysis, and experiment readouts.&lt;/li&gt;\n&lt;li&gt;Design evaluation harnesses that measure both model outcomes and agent/workflow quality, including correctness, reproducibility, regressions, cost, and latency.&lt;/li&gt;\n&lt;li&gt;Partner with product, data science, ML infrastructure, and engineering teams to connect modeling improvements to user and business outcomes.&lt;/li&gt;\n&lt;li&gt;Set technical direction across teams, mentor engineers, and raise the bar for modeling rigor and AI-assisted engineering.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;&lt;strong&gt;Required Qualifications:&lt;/strong&gt;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;9+ years of experience in ML engineering, applied ML, or a related field, with substantial production impact.&lt;/li&gt;\n&lt;li&gt;Senior Staff-level technical leadership and a record of influencing direction across teams.&lt;/li&gt;\n&lt;li&gt;Deep modeling expertise and strong fundamentals in data, objectives, architectures, optimization, evaluation, and experimentation.&lt;/li&gt;\n&lt;li&gt;Concrete examples of using agentic AI or AI coding tools to produce better ML outcomes—not just faster code generation.&lt;/li&gt;\n&lt;li&gt;Ability to design guardrails and evaluations that make autonomous or semi-autonomous workflows trustworthy.&lt;/li&gt;\n&lt;li&gt;Strong coding ability in Python and fluency with modern ML frameworks and data tooling.&lt;/li&gt;\n&lt;li&gt;Clear, concise communication and a collaborative, low-ego approach to technical leadership.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Perks and Benefits:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;100% remote opportunity (we have 4 office locations for hybrid/onsite work preference in NY, SF, LA and Chicago)&lt;/li&gt;\n&lt;li&gt;Competitive salary and equity options&lt;/li&gt;\n&lt;li&gt;Comprehensive health benefits (medical, dental, vision) &amp;amp; workplace perks (home office set up stipend etc)&lt;/li&gt;\n&lt;li&gt;Generous 401k matching&lt;/li&gt;\n&lt;li&gt;Flexible vacation policy&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Paid parental leave (4+ months)&lt;/li&gt;\n&lt;li&gt;Family planning support&lt;/li&gt;\n&lt;li&gt;Paid volunteer time off&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;#LI-AS1&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&lt;strong&gt;Pay Transparency:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;This job posting may span more than one career level.&lt;/p&gt;\n&lt;p&gt;In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit &lt;a href=&quot;https://www.redditinc.com/careers/&quot; target=&quot;_blank&quot;&gt;https://www.redditinc.com/careers/&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;To provide greater transparency to candidates, we share base salary ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;The base salary range for this position is:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$292,500&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$409,500 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;In select roles and locations, the interviews will be recorded, transcribed and summarized by artificial intelligence (AI). You will have the opportunity to opt out of recording, transcription and summarization prior to any scheduled interviews.&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;During the interview, we will collect the following categories of personal information: Identifiers, Professional and Employment-Related Information, Sensory Information (audio/video recording), and any other categories of personal information you choose to share with us. We will use this information to evaluate your application for employment or an independent contractor role, as applicable.&amp;nbsp; We will not sell your personal information or disclose it to any third party for their marketing purposes.&amp;nbsp; We will delete any recording of your interview promptly after making a hiring decision.&amp;nbsp; For more information about how we will handle your personal information, including our retention of it, please refer to our &lt;a href=&quot;https://redditinc.com/policies/candidate-privacy-policy&quot;&gt;Candidate Privacy Policy for Potential Employees and Contractors&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Reddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.&amp;nbsp; Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If, due to a disability, you need an accommodation during the interview process, please let your recruiter know.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 70548,
+      "name": "Ads Engineering",
+      "child_ids": [],
+      "parent_id": 16253
+    }
+  ],
+  "offices": [
+    {
+      "id": 88237,
+      "name": "Remote - United States",
+      "location": null,
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

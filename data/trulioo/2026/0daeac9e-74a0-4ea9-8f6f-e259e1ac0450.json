@@ -4,13 +4,13 @@
   "department": "Marketing",
   "team": "Marketing",
   "employmentType": "FullTime",
-  "location": "San Diego",
+  "location": "San Diego, CA",
   "shouldDisplayCompensationOnJobPostings": true,
   "secondaryLocations": [],
   "publishedAt": "2026-09-14T20:14:33.244+00:00",
   "isListed": true,
-  "isRemote": null,
-  "workplaceType": null,
+  "isRemote": true,
+  "workplaceType": "Remote",
   "address": {
     "postalAddress": {
       "addressRegion": "California",
@@ -33,15 +33,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "01d38889-2203-4a5f-b56e-d9bbaafd3bca",
-            "summary": "Offers Bonus",
-            "compensationType": "Bonus",
-            "interval": "1 YEAR",
-            "currencyCode": "USD",
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "2df31c9f-f21b-4695-8f02-6ae8cf8c69b6",
             "summary": "$160K – $190K",
             "compensationType": "Salary",
@@ -49,24 +40,33 @@
             "currencyCode": "USD",
             "minValue": 160000,
             "maxValue": 190000
+          },
+          {
+            "id": "01d38889-2203-4a5f-b56e-d9bbaafd3bca",
+            "summary": "Offers Bonus",
+            "compensationType": "Bonus",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": null,
+            "maxValue": null
           }
         ]
       }
     ],
     "summaryComponents": [
       {
-        "compensationType": "Bonus",
-        "interval": "1 YEAR",
-        "currencyCode": "USD",
-        "minValue": null,
-        "maxValue": null
-      },
-      {
         "compensationType": "Salary",
         "interval": "1 YEAR",
         "currencyCode": "USD",
         "minValue": 160000,
         "maxValue": 190000
+      },
+      {
+        "compensationType": "Bonus",
+        "interval": "1 YEAR",
+        "currencyCode": "USD",
+        "minValue": null,
+        "maxValue": null
       }
     ]
   }

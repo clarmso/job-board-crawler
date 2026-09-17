@@ -4,9 +4,40 @@
   "department": "People Operations",
   "team": "Talent Acquisition",
   "employmentType": "FullTime",
-  "location": "United States",
+  "location": "San Francisco",
   "shouldDisplayCompensationOnJobPostings": true,
-  "secondaryLocations": [],
+  "secondaryLocations": [
+    {
+      "location": "Seattle",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "Washington",
+          "addressCountry": "United States",
+          "addressLocality": "Seattle"
+        }
+      }
+    },
+    {
+      "location": "New York",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "New York",
+          "addressCountry": "United States",
+          "addressLocality": "New York"
+        }
+      }
+    },
+    {
+      "location": "Toronto",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "Ontario",
+          "addressCountry": "Canada",
+          "addressLocality": "Toronto"
+        }
+      }
+    }
+  ],
   "publishedAt": "2026-09-02T23:40:53.319+00:00",
   "isListed": true,
   "isRemote": true,
@@ -33,15 +64,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "e7175f77-9a44-4af0-bba3-324effe51a1b",
-            "summary": "$120K – $150K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "USD",
-            "minValue": 120000,
-            "maxValue": 150000
-          },
-          {
             "id": "1cf32700-ad4a-4455-9aed-e1d5a0040e71",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
@@ -49,6 +71,15 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "e7175f77-9a44-4af0-bba3-324effe51a1b",
+            "summary": "$120K – $150K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 120000,
+            "maxValue": 150000
           }
         ]
       },
@@ -59,15 +90,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "afc6162b-f4e4-4830-b586-ab3414a7cd3c",
-            "summary": "$95K – $120K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "USD",
-            "minValue": 95000,
-            "maxValue": 120000
-          },
-          {
             "id": "9b6e6220-4fc0-4662-b33f-ad11e02df23d",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
@@ -75,6 +97,15 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "afc6162b-f4e4-4830-b586-ab3414a7cd3c",
+            "summary": "$95K – $120K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 95000,
+            "maxValue": 120000
           }
         ]
       },
@@ -107,17 +138,17 @@
     ],
     "summaryComponents": [
       {
+        "compensationType": "EquityPercentage",
+        "minValue": null,
+        "maxValue": null,
+        "interval": "1 YEAR"
+      },
+      {
         "minValue": 95000,
         "maxValue": 150000,
         "currencyCode": "USD",
         "interval": "1 YEAR",
         "compensationType": "Salary"
-      },
-      {
-        "compensationType": "EquityPercentage",
-        "minValue": null,
-        "maxValue": null,
-        "interval": "1 YEAR"
       }
     ]
   }

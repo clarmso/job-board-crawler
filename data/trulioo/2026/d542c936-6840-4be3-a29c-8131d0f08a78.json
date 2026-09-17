@@ -4,11 +4,11 @@
   "department": "Engineering",
   "team": "Engineering",
   "employmentType": "FullTime",
-  "location": "Vancouver",
+  "location": "Vancouver, BC",
   "shouldDisplayCompensationOnJobPostings": false,
   "secondaryLocations": [
     {
-      "location": "Toronto",
+      "location": "Toronto, ON",
       "address": {
         "postalAddress": {
           "addressRegion": "Ontario",
@@ -20,8 +20,8 @@
   ],
   "publishedAt": "2026-09-10T19:30:09.963+00:00",
   "isListed": true,
-  "isRemote": null,
-  "workplaceType": null,
+  "isRemote": true,
+  "workplaceType": "Hybrid",
   "address": {
     "postalAddress": {
       "addressRegion": "British Columbia",

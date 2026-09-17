@@ -23,7 +23,7 @@
     }
   ],
   "id": 8648992002,
-  "updated_at": "2026-08-17T16:59:00-04:00",
+  "updated_at": "2026-09-16T14:07:14-04:00",
   "requisition_id": "1429",
   "title": "Senior Manager, Global Equity",
   "company_name": "Faire",
@@ -40,6 +40,13 @@
     }
   ],
   "offices": [
+    {
+      "id": 4000970002,
+      "name": "San Francisco, CA",
+      "location": "San Francisco, California, United States",
+      "child_ids": [],
+      "parent_id": 4049474002
+    },
     {
       "id": 4049474002,
       "name": "USA",

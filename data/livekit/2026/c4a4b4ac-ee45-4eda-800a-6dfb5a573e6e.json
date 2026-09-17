@@ -1,0 +1,88 @@
+{
+  "id": "c4a4b4ac-ee45-4eda-800a-6dfb5a573e6e",
+  "title": "Backend Engineer, Real-Time Media",
+  "department": "R&D",
+  "team": "Engineering ",
+  "employmentType": "FullTime",
+  "location": "North America",
+  "shouldDisplayCompensationOnJobPostings": true,
+  "secondaryLocations": [
+    {
+      "location": "APJ",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "APJ"
+        }
+      }
+    },
+    {
+      "location": "EMEA",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "EMEA"
+        }
+      }
+    }
+  ],
+  "publishedAt": "2026-09-16T23:26:47.411+00:00",
+  "isListed": true,
+  "isRemote": true,
+  "workplaceType": "Remote",
+  "address": {
+    "postalAddress": {
+      "addressCountry": "NAMER"
+    }
+  },
+  "jobUrl": "https://jobs.ashbyhq.com/livekit/c4a4b4ac-ee45-4eda-800a-6dfb5a573e6e",
+  "applyUrl": "https://jobs.ashbyhq.com/livekit/c4a4b4ac-ee45-4eda-800a-6dfb5a573e6e/application",
+  "descriptionHtml": "<h2>About LiveKit</h2><p style=\"min-height:1.5em\">LiveKit is building the infrastructure layer for the agentic era of computing. Our platform gives developers everything they need to build, test, deploy, scale, and observe AI agents in production. Founded in 2021, LiveKit powers voice and agentic AI applications for OpenAI, Salesforce, Spotify, Meta, and tens of thousands of other developers, collectively facilitating billions of calls each year.</p><p style=\"min-height:1.5em\"></p><h2>About This Role</h2><p style=\"min-height:1.5em\">Every call, stream, and agent conversation running on LiveKit passes through our real-time media backend. It is the layer that ingests, transforms, and delivers audio and video at a scale of billions of calls a year — and it is the foundation the rest of the product is built on.</p><p style=\"min-height:1.5em\">As a Backend Engineer on the real-time media team, you'll own real time media distribution end to end: the interaction with real time clients, the distributed mesh allowing fast and reliable media distribution all over the world, and the new systems that customer-facing features depend on. Today a very small team covers this surface, so the scope is unusually large for one engineer — you'll set direction on reliability, performance, and protocol adoption (including newer transports like MoQ/WARP) rather than picking up tickets.</p><p style=\"min-height:1.5em\">This is a role for someone who has built real time systems real customers relied on, and who wants that work to matter to the whole product rather than sit in a corner of it.</p><p style=\"min-height:1.5em\"></p><h2>You'll Thrive Here If You:</h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">obsess over crafting code that is fast, reliable, and practical for the problem</p></li><li><p style=\"min-height:1.5em\">are known as the go-to person for tackling tough technical problems</p></li><li><p style=\"min-height:1.5em\">work hard and can build <em>and</em> ship fast</p></li><li><p style=\"min-height:1.5em\">can clearly explain complex technical concepts to other engineers</p></li><li><p style=\"min-height:1.5em\">are a fast learner, frequently picking up new languages and tools</p></li></ul><p style=\"min-height:1.5em\">The best way to impress us is with thoughtful Issues and/or PRs on our GitHub repos.</p><p style=\"min-height:1.5em\"></p><h2>What You'll Do</h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Own and operate the LiveKit SFU and real time media distribution mesh — including their reliability and on-call</p></li><li><p style=\"min-height:1.5em\">Build new real time systems to support customer-facing features, from first design through production</p></li><li><p style=\"min-height:1.5em\">Drive down latency and improve call quality across every session on the platform</p></li><li><p style=\"min-height:1.5em\">Assess and adopt modern media and transport protocols, including MoQ/WARP</p></li><li><p style=\"min-height:1.5em\">Partner with client SDK, infrastructure, and product teams on cloud mesh architecture and cross-cutting reliability work, and serve as the internal expert those teams consult</p></li></ul><p style=\"min-height:1.5em\"></p><h2>Who You Are</h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">You've built critical real time media systems and pipelines that real customers depended on — you wrote the code, not just the integration</p></li><li><p style=\"min-height:1.5em\">You know the WebRTC stack from the inside: ICE, DTLS-SRTP, RTP/RTCP, congestion control, SDP negotiation</p></li><li><p style=\"min-height:1.5em\">You're a strong systems programmer in Go, Rust, C/C++, Java, or C# (Go preferred)</p></li><li><p style=\"min-height:1.5em\">You design asynchronous and multi-threaded systems, and can debug them under production load</p></li><li><p style=\"min-height:1.5em\">You communicate clearly and thrive with high individual ownership on a small team</p></li></ul><p style=\"min-height:1.5em\"></p><h2>Nice to Have</h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Contributions to Pion open-source media stack</p></li><li><p style=\"min-height:1.5em\">Built instrumentation for real-time media quality measurement</p></li><li><p style=\"min-height:1.5em\">Distributed systems algorithms, including consensus</p></li><li><p style=\"min-height:1.5em\">Designed public-facing APIs that outside developers built on</p></li></ul><p style=\"min-height:1.5em\"></p><h2>Our Commitment to You</h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">An opportunity to build something truly impactful to the world</p></li><li><p style=\"min-height:1.5em\">Contribute to open source alongside world-class engineers</p></li><li><p style=\"min-height:1.5em\">Competitive salary and equity package</p></li><li><p style=\"min-height:1.5em\">Health, dental, and vision benefits</p></li><li><p style=\"min-height:1.5em\">Flexible vacation policy</p></li></ul><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">LiveKit is an equal opportunity employer and does not discriminate on the basis of any characteristic protected by applicable law. If you require a reasonable accommodation during the application or interview process, please contact recruiting@livekit.io.</p>",
+  "descriptionPlain": "ABOUT LIVEKIT\n\nLiveKit is building the infrastructure layer for the agentic era of computing. Our platform gives developers everything they need to build, test, deploy, scale, and observe AI agents in production. Founded in 2021, LiveKit powers voice and agentic AI applications for OpenAI, Salesforce, Spotify, Meta, and tens of thousands of other developers, collectively facilitating billions of calls each year.\n\n\n\n\nABOUT THIS ROLE\n\nEvery call, stream, and agent conversation running on LiveKit passes through our real-time media backend. It is the layer that ingests, transforms, and delivers audio and video at a scale of billions of calls a year — and it is the foundation the rest of the product is built on.\n\nAs a Backend Engineer on the real-time media team, you'll own real time media distribution end to end: the interaction with real time clients, the distributed mesh allowing fast and reliable media distribution all over the world, and the new systems that customer-facing features depend on. Today a very small team covers this surface, so the scope is unusually large for one engineer — you'll set direction on reliability, performance, and protocol adoption (including newer transports like MoQ/WARP) rather than picking up tickets.\n\nThis is a role for someone who has built real time systems real customers relied on, and who wants that work to matter to the whole product rather than sit in a corner of it.\n\n\n\n\nYOU'LL THRIVE HERE IF YOU:\n\n - obsess over crafting code that is fast, reliable, and practical for the problem\n\n - are known as the go-to person for tackling tough technical problems\n\n - work hard and can build and ship fast\n\n - can clearly explain complex technical concepts to other engineers\n\n - are a fast learner, frequently picking up new languages and tools\n\nThe best way to impress us is with thoughtful Issues and/or PRs on our GitHub repos.\n\n\n\n\nWHAT YOU'LL DO\n\n - Own and operate the LiveKit SFU and real time media distribution mesh — including their reliability and on-call\n\n - Build new real time systems to support customer-facing features, from first design through production\n\n - Drive down latency and improve call quality across every session on the platform\n\n - Assess and adopt modern media and transport protocols, including MoQ/WARP\n\n - Partner with client SDK, infrastructure, and product teams on cloud mesh architecture and cross-cutting reliability work, and serve as the internal expert those teams consult\n\n\n\n\nWHO YOU ARE\n\n - You've built critical real time media systems and pipelines that real customers depended on — you wrote the code, not just the integration\n\n - You know the WebRTC stack from the inside: ICE, DTLS-SRTP, RTP/RTCP, congestion control, SDP negotiation\n\n - You're a strong systems programmer in Go, Rust, C/C++, Java, or C# (Go preferred)\n\n - You design asynchronous and multi-threaded systems, and can debug them under production load\n\n - You communicate clearly and thrive with high individual ownership on a small team\n\n\n\n\nNICE TO HAVE\n\n - Contributions to Pion open-source media stack\n\n - Built instrumentation for real-time media quality measurement\n\n - Distributed systems algorithms, including consensus\n\n - Designed public-facing APIs that outside developers built on\n\n\n\n\nOUR COMMITMENT TO YOU\n\n - An opportunity to build something truly impactful to the world\n\n - Contribute to open source alongside world-class engineers\n\n - Competitive salary and equity package\n\n - Health, dental, and vision benefits\n\n - Flexible vacation policy\n\n\n\nLiveKit is an equal opportunity employer and does not discriminate on the basis of any characteristic protected by applicable law. If you require a reasonable accommodation during the application or interview process, please contact recruiting@livekit.io.",
+  "compensation": {
+    "compensationTierSummary": "$135K – $300K • Offers Equity",
+    "scrapeableCompensationSalarySummary": "$135K - $300K",
+    "compensationTiers": [
+      {
+        "id": "e0a1d4d3-599f-456a-a04a-412a3f61045e",
+        "tierSummary": "$135K – $300K • Offers Equity",
+        "title": null,
+        "additionalInformation": null,
+        "components": [
+          {
+            "id": "264a9b65-a3e0-43df-88b7-199a4a33387c",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "55232319-b169-4799-9804-1ad93144ef54",
+            "summary": "$135K – $300K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 135000,
+            "maxValue": 300000
+          }
+        ]
+      }
+    ],
+    "summaryComponents": [
+      {
+        "compensationType": "EquityPercentage",
+        "interval": "NONE",
+        "currencyCode": null,
+        "minValue": null,
+        "maxValue": null
+      },
+      {
+        "compensationType": "Salary",
+        "interval": "1 YEAR",
+        "currencyCode": "USD",
+        "minValue": 135000,
+        "maxValue": 300000
+      }
+    ]
+  }
+}

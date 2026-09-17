@@ -4,11 +4,11 @@
   "department": "Product",
   "team": "Product",
   "employmentType": "FullTime",
-  "location": "Vancouver",
+  "location": "Vancouver, BC",
   "shouldDisplayCompensationOnJobPostings": true,
   "secondaryLocations": [
     {
-      "location": "San Diego",
+      "location": "San Diego, CA",
       "address": {
         "postalAddress": {
           "addressRegion": "California",
@@ -18,7 +18,7 @@
       }
     },
     {
-      "location": "Toronto",
+      "location": "Toronto, ON",
       "address": {
         "postalAddress": {
           "addressRegion": "Ontario",
@@ -28,7 +28,7 @@
       }
     },
     {
-      "location": "San Francisco",
+      "location": "San Francisco, CA",
       "address": {
         "postalAddress": {
           "addressRegion": "California",

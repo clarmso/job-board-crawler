@@ -1,0 +1,108 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6186536004",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": true,
+      "requires_processing_consent": false,
+      "requires_retention_consent": true,
+      "retention_period": 730,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 5212518004,
+  "location": {
+    "name": "United Kingdom, Bristol"
+  },
+  "metadata": [
+    {
+      "id": 4367803004,
+      "name": "Cost Center",
+      "value": "GAMES4GB62-GBU2100001 SDKQA & Docs GB",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167524004,
+      "name": "Career Page - Office Location",
+      "value": "United Kingdom, Bristol",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167525004,
+      "name": "Career Page - Department",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 9377282004,
+      "name": "Career Page - Sub Department",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 20089613004,
+      "name": "Career Page - Studio Project",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 4395289004,
+      "name": "Worker Type",
+      "value": "Employee",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4404049004,
+      "name": "Country",
+      "value": "United Kingdom",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9262269004,
+      "name": "Job Family",
+      "value": "Software Development Engineering",
+      "value_type": "short_text"
+    },
+    {
+      "id": 9262270004,
+      "name": "Job Family Group",
+      "value": "Engineering",
+      "value_type": "short_text"
+    },
+    {
+      "id": 21724118004,
+      "name": "Bungie Geo Pay",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 6186536004,
+  "updated_at": "2026-09-16T05:28:50-04:00",
+  "requisition_id": "R-125185",
+  "title": "Software Engineer in Test, ToolChain QE",
+  "company_name": "PlayStation Global",
+  "first_published": "2026-09-16T05:28:50-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Why Sony Interactive Entertainment?&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Sony Interactive Entertainment isn’t just the Best Place to Play — it’s also the Best Place to Work. Sony Interactive Entertainment (SIE) is the company behind the PlayStation brand. As a subsidiary of Sony Group Corporation, we’re part of a proud legacy of innovation and excellence. SIE is a dynamic technology company, delivering cutting-edge hardware and network services to more than 100 million people and an entertainment leader, home to some of the most beloved and recognizable intellectual properties (IP) in the world. Our role at SIE is to create and nurture the experiences under the PlayStation brand, a name synonymous with entertainment excellence and creativity.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Join the team responsible for developing the tests, tools, automation, and infrastructure that help ensure the quality of the software toolchain used to build every PlayStation®5 game.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;You’ll collaborate closely with the ToolChain development teams to design tests and testing systems for new features as they are developed. You’ll also help design and implement internal tools, automation, diagnostics, and workflows that improve confidence in the quality, reliability, and maintainability of the product.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;This role sits within Quality Engineering. That means our work goes beyond running tests or finding bugs. We build software that helps teams understand risk, improve feedback loops, diagnose issues faster, and build quality into the development process as early as possible.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Our toolchain is based on a private fork of the open-source LLVM project, continuously updated through an automated merge system. Thanks to our advanced continuous testing, we have a strong track record of identifying and reporting new bugs in the open-source project very quickly.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;This role offers a great opportunity to build a career in Software Engineering in Test and Quality Engineering, working on industry-leading development tools. You’ll receive mentorship from experts in the field and have opportunities for continuous learning.&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;What you’ll be doing&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Collaborating with development teams&lt;/strong&gt; to design and implement tests, tooling, and test systems for new ToolChain features, helping build quality into the development process from the start.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Designing and developing internal tools&lt;/strong&gt; that improve test execution, diagnostics, reporting, workflow efficiency, or developer feedback.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Contributing to testing tools and frameworks&lt;/strong&gt;, improving how we validate the ToolChain and how quickly teams can understand quality risks.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Maintaining and improving test jobs on our Jenkins CI system&lt;/strong&gt;, ensuring reliable execution, useful feedback, and opportunities to improve test performance.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Writing Python-based automation and scripts&lt;/strong&gt; to support testing, analysis, reporting, environment setup, diagnostics, or workflow improvements.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Analysing automated test results&lt;/strong&gt; to identify failures, patterns, trends, and areas where our testing, tooling, or infrastructure could be improved.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Investigating issues across test, build, tooling, and execution environments&lt;/strong&gt;, helping determine whether failures relate to product changes, test issues, infrastructure problems, or environmental factors.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Supporting improvements to testability and diagnostics&lt;/strong&gt;, making it easier for teams to understand failures and act on quality signals.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Participating in code and documentation reviews&lt;/strong&gt;, offering feedback to improve test coverage, code quality, maintainability, clarity, and overall development workflows.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Learning and applying Quality Engineering practices&lt;/strong&gt;, including risk-based thinking, automation design, test effectiveness, tooling quality, and continuous improvement.&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;What we are looking for&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;A BSc in a relevant technical or scientific field&lt;/strong&gt; such as Computer Science, Engineering, or Mathematics, or equivalent practical experience demonstrating appropriate technical skills.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Strong software engineering fundamentals&lt;/strong&gt;, with the ability to design, implement, debug, and maintain code used for testing, tooling, automation, or infrastructure.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Understanding of software testing techniques&lt;/strong&gt;, whether gained through academic coursework, personal projects, internships, or professional experience.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Interest in Quality Engineering&lt;/strong&gt;, including how testing, automation, tooling, diagnostics, and good engineering practices help teams deliver better software.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Ability to write and maintain unit and system tests&lt;/strong&gt; for software applications, ensuring quality and reliability. Experience developing testing frameworks is a plus for more experienced candidates.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Proficiency in scripting languages&lt;/strong&gt;, such as Python, to automate test cases, workflows, analysis, diagnostics, or reporting.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Ability to build practical tools or automation&lt;/strong&gt;, from small scripts that remove repeated effort through to more structured internal tooling used by the team.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;An analytical approach to problem-solving&lt;/strong&gt;, with the ability to investigate failures, understand patterns, and ask good questions when the cause of an issue is unclear.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Strong communication skills&lt;/strong&gt;, with the ability to clearly convey technical information in writing and verbally to team members with varying levels of expertise.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Collaborative mindset&lt;/strong&gt;, capable of building strong working relationships and working effectively across teams, regardless of experience level or reporting line.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;A learning mindset&lt;/strong&gt;, with enthusiasm for developing technical skills, testing knowledge, tooling capability, and quality engineering judgement over time.&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;br&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Nice to have&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Experience in triaging software bugs&lt;/strong&gt; and collaborating with development teams. For more experienced candidates, experience handling complex or ambiguous bug reports is a plus.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Experience testing released software products&lt;/strong&gt;, particularly developer tools, compilers, SDKs, or similar platforms. Experience with more complex testing environments is valued for experienced candidates.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Familiarity with advanced software testing techniques&lt;/strong&gt;, such as coverage-directed fuzzing, property-based testing, static analysis, or using sanitizers. This knowledge can be acquired on the job, so candidates with a learning mindset are encouraged to apply.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Practical knowledge of a system-level language such as C++&lt;/strong&gt; and the ability to navigate, test, or contribute to large codebases, whether gained through coursework, projects, or professional experience.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Experience with CI/CD systems&lt;/strong&gt;, especially Jenkins or similar platforms.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Experience developing internal engineering tools&lt;/strong&gt;, test utilities, dashboards, reporting tools, workflow automation, or diagnostic helpers.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Experience improving test reliability, maintainability, or reporting&lt;/strong&gt;, including reducing flaky tests, improving failure diagnostics, or making automated results easier to act upon.&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p class=&quot;p1&quot;&gt;Please note, Sony Interactive Entertainment conducts background checks at the offer stage for all new employees (which may include criminal background checks for some roles) and will need to process personal information to support these checks.&lt;/p&gt;\n&lt;p class=&quot;p1&quot;&gt;Please refer to our&amp;nbsp;&lt;a href=&quot;https://www.playstation.com/legal/careers-privacy-notice/&quot; target=&quot;_blank&quot;&gt;Candidate Privacy Notice&lt;/a&gt;&amp;nbsp;for more information about what personal information we collect, how we use it, who we share it with, and your data protection rights.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Equal Opportunity Statement:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Sony is an Equal Opportunity Employer. All persons will receive consideration for employment without regard to gender (including gender identity, gender expression and gender reassignment), race (including colour, nationality, ethnic or national origin), religion or belief, marital or civil partnership status, disability, age, sexual orientation, pregnancy, maternity or parental status, trade union membership or membership in any other legally protected category.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;We strive to create an inclusive environment, empower employees and embrace diversity. We encourage everyone to respond.&amp;nbsp;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Sony Interactive Entertainment is a Fair Chance employer and qualified applicants with arrest and conviction records will be considered for employment.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4072503004,
+      "name": "Admin (FSEE)",
+      "child_ids": [],
+      "parent_id": 4072500004
+    }
+  ],
+  "offices": [
+    {
+      "id": 4011929004,
+      "name": "GBR-Bristol-Hartwell House",
+      "location": "Bristol, England, United Kingdom",
+      "child_ids": [],
+      "parent_id": 4011922004
+    }
+  ],
+  "ai_disclaimer": "<p><strong>Use of AI in Recruiting&nbsp;</strong></p><p><br></p><p>We use artificial intelligence and other automated tools to assist with certain aspects of our recruiting process, including reviewing applications and supporting candidate evaluation. For example, we use Greenhouse's AI-powered Talent Matching tool to compare information in your application against job-related qualifications and criteria established by our recruiting team. More information about <a href=\"https://www.greenhouse.com/\" target=\"_blank\">Greenhouse</a>, including about its features and its Privacy Policy, may be found at its website. These tools assist our recruiting team and do not make hiring decisions.&nbsp;</p><p><br></p>",
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": "http://app4.greenhouse.io/ai_opt_out_request/job_post/6186536004/ai_opt_out"
+}

@@ -4,14 +4,16 @@
   "department": "Sales",
   "team": "Sales",
   "employmentType": "FullTime",
-  "location": "Dublin",
+  "location": "Dublin, Ireland",
   "shouldDisplayCompensationOnJobPostings": false,
   "secondaryLocations": [
     {
-      "location": "London",
+      "location": "London, UK",
       "address": {
         "postalAddress": {
-          "addressCountry": "UK"
+          "addressRegion": "Greater London",
+          "addressCountry": "UK",
+          "addressLocality": "London"
         }
       }
     }

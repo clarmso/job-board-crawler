@@ -30,7 +30,7 @@
     {
       "id": 22194061,
       "name": "Team",
-      "value": "458-Cloud Security",
+      "value": "458-Product Security",
       "value_type": "single_select"
     },
     {
@@ -74,13 +74,21 @@
     {
       "id": 5525802,
       "name": "Baseline Budgeted Salary",
-      "value": null,
+      "value": {
+        "unit": "USD",
+        "max_value": "190000.0",
+        "min_value": "133000.0"
+      },
       "value_type": "currency_range"
     },
     {
       "id": 5525816,
       "name": "Other Large Market Budgeted Salary",
-      "value": null,
+      "value": {
+        "unit": "USD",
+        "max_value": "162000.0",
+        "min_value": "113000.0"
+      },
       "value_type": "currency_range"
     },
     {
@@ -117,7 +125,7 @@
     }
   ],
   "id": 8098695,
-  "updated_at": "2026-09-11T15:37:10-04:00",
+  "updated_at": "2026-09-16T13:28:52-04:00",
   "requisition_id": "2273508540",
   "title": "Product Security Engineer, Server",
   "company_name": "MongoDB",
@@ -135,9 +143,9 @@
   ],
   "offices": [
     {
-      "id": 95842,
-      "name": "Tysons",
-      "location": "Tysons, Virginia, United States",
+      "id": 4041,
+      "name": "Salt Lake City",
+      "location": "Salt Lake City, UT, United States",
       "child_ids": [],
       "parent_id": 23657
     }

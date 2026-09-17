@@ -1,0 +1,112 @@
+{
+  "id": "744000149661881",
+  "name": "Senior Staff AI-Native Software Engineer – Agentic Systems",
+  "uuid": "33101b7d-3c7b-4ebc-bf45-a16bc163059f",
+  "jobAdId": "60a92df4-33d4-47b8-9ee5-3877e2ff9bf0",
+  "defaultJobAd": true,
+  "refNumber": "JB0075385",
+  "company": {
+    "identifier": "ServiceNow",
+    "name": "ServiceNow"
+  },
+  "releasedDate": "2026-09-15T16:05:24.279Z",
+  "location": {
+    "city": "San Francisco",
+    "region": "CALIFORNIA",
+    "country": "us",
+    "address": "101 Green Street Floor 5",
+    "postalCode": "94111",
+    "remote": false,
+    "hybrid": false,
+    "fullLocation": "San Francisco, CALIFORNIA, United States"
+  },
+  "industry": {
+    "id": "it_and_services",
+    "label": "Information Technology And Services"
+  },
+  "department": {
+    "id": "2294038",
+    "label": "Engineering, Infrastructure and Operations"
+  },
+  "function": {
+    "id": "engineering",
+    "label": "Engineering"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "not_applicable",
+    "label": "Not Applicable"
+  },
+  "customField": [
+    {
+      "fieldId": "60345fa28b4ba8595bef1863",
+      "fieldLabel": "Recruiting Team",
+      "valueId": "professional",
+      "valueLabel": "Professional"
+    },
+    {
+      "fieldId": "60345d5c5165a31b17288279",
+      "fieldLabel": "Region",
+      "valueId": "722a833b93e4437798309f43c0d25990",
+      "valueLabel": "AMS - North America and Canada"
+    },
+    {
+      "fieldId": "6034601b43915a29a4b3389b",
+      "fieldLabel": "Job Location",
+      "valueId": "L_SFO003",
+      "valueLabel": "101 Green Street, San Francisco, California, 94111(L_SFO003)"
+    },
+    {
+      "fieldId": "60345e1a0b24a127cbdfa148",
+      "fieldLabel": "Employee Type",
+      "valueId": "0082f6cbe6154da19322cbab1f6aa5af",
+      "valueLabel": "Regular"
+    },
+    {
+      "fieldId": "5f63a78f1dae5c5c4e54ba2b",
+      "fieldLabel": "Department",
+      "valueId": "2294038",
+      "valueLabel": "Engineering, Infrastructure and Operations"
+    },
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "us",
+      "valueLabel": "United States"
+    },
+    {
+      "fieldId": "5f63a78f1dae5c5c4e54ba2a",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "ServiceNow"
+    },
+    {
+      "fieldId": "603462175165a31b1728827d",
+      "fieldLabel": "Cost Center",
+      "valueId": "CC6290",
+      "valueLabel": "6290 Risk Engineering"
+    },
+    {
+      "fieldId": "618ed92b8f5e5f110e5bfb95",
+      "fieldLabel": "Work Persona",
+      "valueId": "bf7551c6-9b06-4e7c-8217-3baf43edd060",
+      "valueLabel": "Flexible"
+    },
+    {
+      "fieldId": "690cc0e8c682c3dbadaa7d73",
+      "fieldLabel": "Job Posting Type",
+      "valueId": "professional",
+      "valueLabel": "Professional"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/ServiceNow/postings/744000149661881",
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

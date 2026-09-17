@@ -1,0 +1,138 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/reddit/jobs/8205402",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3551296,
+  "location": {
+    "name": "Remote - United States"
+  },
+  "metadata": [
+    {
+      "id": 944668,
+      "name": "Position ID",
+      "value": "P-500194",
+      "value_type": "short_text"
+    },
+    {
+      "id": 956352,
+      "name": "Recruiting Start Date",
+      "value": "2026-09-15",
+      "value_type": "date"
+    },
+    {
+      "id": 944671,
+      "name": "Target Hire Date",
+      "value": "2026-11-17",
+      "value_type": "date"
+    },
+    {
+      "id": 944672,
+      "name": "Target Hire End Date",
+      "value": "",
+      "value_type": "date"
+    },
+    {
+      "id": 944673,
+      "name": "Job Profile",
+      "value": "Software Development Engineer 5",
+      "value_type": "single_select"
+    },
+    {
+      "id": 956351,
+      "name": "Management Level",
+      "value": "IC5",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944675,
+      "name": "Job Family",
+      "value": "Software Engineering",
+      "value_type": "single_select"
+    },
+    {
+      "id": 53341,
+      "name": "Worker Sub-Type",
+      "value": "Regular",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944676,
+      "name": "Time Type",
+      "value": "Full time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944682,
+      "name": "Pay Rate Type",
+      "value": "Salary",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944681,
+      "name": "Scheduled Weekly Hours",
+      "value": "40.0",
+      "value_type": "number"
+    },
+    {
+      "id": 944667,
+      "name": "Company",
+      "value": "Reddit, Inc.",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944677,
+      "name": "Cost Center",
+      "value": "Tech-Core Platforms & Productivity",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944669,
+      "name": "Worker Type",
+      "value": "Employee",
+      "value_type": "single_select"
+    },
+    {
+      "id": 957961,
+      "name": "Department",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8205402,
+  "updated_at": "2026-09-15T17:38:14-04:00",
+  "requisition_id": "281",
+  "title": "Staff Software Engineer - Ingestion Platform ",
+  "company_name": "Reddit",
+  "first_published": "2026-09-15T17:38:14-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;div class=&quot;c-message_kit__blocks c-message_kit__blocks--rich_text&quot;&gt;\n&lt;div class=&quot;c-message__message_blocks c-message__message_blocks--rich_text&quot; data-qa=&quot;message-text&quot;&gt;\n&lt;div class=&quot;p-block_kit_renderer&quot; data-qa=&quot;block-kit-renderer&quot;&gt;\n&lt;div class=&quot;p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--first&quot;&gt;\n&lt;div class=&quot;p-rich_text_block&quot;&gt;\n&lt;div class=&quot;p-rich_text_section&quot;&gt;Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit &lt;a class=&quot;c-link&quot; href=&quot;http://www.redditinc.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;http://redditinc.com&quot; data-sk=&quot;tooltip_parent&quot;&gt;www.redditinc.com&lt;/a&gt;.&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Who We Are: &lt;/strong&gt;&lt;br&gt;The Infrastructure organization enables Reddit to deliver Reliability, Performance and Efficiency, with a single opinionated technology stack. The Content Platform team within Infrastructure additionally focuses on empowering product teams to build the best possible Content-related experiences, easily and reliably. This is a high-impact team that owns the Tier-0 services and core data models that power some of the most visible aspects of our product - viewing a feed, posting, commenting, upvoting - and we work closely with teams like Consumer, Ads, Feeds, Storage and Ranking. This team is also responsible for running and maintaining R2 – Reddit’s monolith legacy stack that is pretty much in the critical path for every Critical User Journey at Reddit.&lt;/p&gt;\n&lt;p&gt;We are looking to hire a Staff Software Engineer to help us in this mission. This is a high impact role where your unique insights into improving our operational posture as well as harmonizing feedback from customers will shape the future direction of our platform.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What You’ll Do:&lt;/strong&gt;&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;As a Staff Engineer, you will lead the development and evolution of Reddit’s Ingestion Platform.&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Design, write, and deliver reliable software for distributed data movement across streaming and batch workloads, with a focus on availability, scalability, latency, correctness, and cost efficiency.&lt;/li&gt;\n&lt;li&gt;Own the architecture and evolution of the platform’s control plane and data plane, including pipeline APIs, controllers, connectors, target managers, schemas, and sink integrations.&lt;/li&gt;\n&lt;li&gt;Expand the platform beyond Kafka-to-BigQuery by helping deliver production-ready paths to S3/GCS and Apache Iceberg, as well as transformations, deduplication, dead-letter queues, and other reusable capabilities.&lt;/li&gt;\n&lt;li&gt;Build high-quality connectors and abstractions for systems such as Kafka, BigQuery, S3, GCS, Iceberg, Flink, and other data stores, while keeping the platform modular and easy to extend.&lt;/li&gt;\n&lt;li&gt;Improve the self-service experience for platform users through clear APIs, safe defaults, automated provisioning, documentation, onboarding workflows, and actionable observability and alerting.&lt;/li&gt;\n&lt;li&gt;Lead migrations from bespoke and legacy ingestion systems to the Ingestion Platform, partnering with teams such as Ads Data Platform and ML Indexing to make migrations safe, incremental, and low-touch.&lt;/li&gt;\n&lt;li&gt;Establish strong reliability, security, and operational practices for pipelines running across Kubernetes clusters, including schema evolution, workload identity, permissions, deployment safety, monitoring, and incident response.&lt;/li&gt;\n&lt;li&gt;Identify gaps in the platform’s architecture and product experience, and lead redesigns that improve developer velocity and enable Reddit’s continued growth.&lt;/li&gt;\n&lt;li&gt;Work collaboratively with engineers and stakeholders across Infrastructure, Data Platform, Product, Ads, ML, Storage, and partner teams to align roadmaps and deliver durable solutions.&lt;/li&gt;\n&lt;li&gt;Mentor and guide backend and data infrastructure engineers across the company, raising the bar for technical design, operational excellence, and customer focus.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Who You Might Be:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;10+ years of hands-on experience building internet-scale distributed systems, data infrastructure, or platforms used by other developers.&lt;/li&gt;\n&lt;li&gt;BS, MS, PhD in Computer Science, a related field, or equivalent practical experience.&lt;/li&gt;\n&lt;li&gt;Strong software development experience in one or more general-purpose languages such as Go, Python, Java, or Scala.&lt;/li&gt;\n&lt;li&gt;Deep experience designing and operating high-throughput, fault-tolerant data pipelines or platform services, including streaming and batch processing.&lt;/li&gt;\n&lt;li&gt;Experience with data movement patterns and systems such as Kafka, BigQuery, S3, GCS, Apache Iceberg, Flink, or comparable technologies.&lt;/li&gt;\n&lt;li&gt;Experience designing APIs and platform abstractions, including schema evolution, serialization formats such as Protocol Buffers, and service-to-service communication such as gRPC.&lt;/li&gt;\n&lt;li&gt;Familiarity with Kubernetes and cloud-native platform concepts, including controllers, custom resources, workload identity, infrastructure automation, and multi-cluster deployments.&lt;/li&gt;\n&lt;li&gt;A strong understanding of observability and operational excellence: metrics, logging, alerting, SLOs, incident response, data quality, and safe migration practices.&lt;/li&gt;\n&lt;li&gt;A product-minded engineer who advocates for platform users and can turn ambiguous customer and partner needs into simple, reliable, and scalable solutions.&lt;/li&gt;\n&lt;li&gt;Demonstrated technical leadership and a history of guiding teams through complex, cross-functional initiatives with meaningful impact.&lt;/li&gt;\n&lt;li&gt;Exceptional written and verbal communication skills, with the ability to collaborate effectively across engineering teams and stakeholders.&lt;/li&gt;\n&lt;li&gt;Experience building low-code or self-service developer platforms, or curiosity to learn, is a strong plus.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&lt;strong&gt;Pay Transparency:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;This job posting may span more than one career level.&lt;/p&gt;\n&lt;p&gt;In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit &lt;a href=&quot;https://www.redditinc.com/careers/&quot; target=&quot;_blank&quot;&gt;https://www.redditinc.com/careers/&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;To provide greater transparency to candidates, we share base salary ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;The base salary range for this position is:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$217,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$303,900 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;In select roles and locations, the interviews will be recorded, transcribed and summarized by artificial intelligence (AI). You will have the opportunity to opt out of recording, transcription and summarization prior to any scheduled interviews.&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;During the interview, we will collect the following categories of personal information: Identifiers, Professional and Employment-Related Information, Sensory Information (audio/video recording), and any other categories of personal information you choose to share with us. We will use this information to evaluate your application for employment or an independent contractor role, as applicable.&amp;nbsp; We will not sell your personal information or disclose it to any third party for their marketing purposes.&amp;nbsp; We will delete any recording of your interview promptly after making a hiring decision.&amp;nbsp; For more information about how we will handle your personal information, including our retention of it, please refer to our &lt;a href=&quot;https://redditinc.com/policies/candidate-privacy-policy&quot;&gt;Candidate Privacy Policy for Potential Employees and Contractors&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Reddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.&amp;nbsp; Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If, due to a disability, you need an accommodation during the interview process, please let your recruiter know.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 70576,
+      "name": "Platform and Apps",
+      "child_ids": [],
+      "parent_id": 16253
+    }
+  ],
+  "offices": [
+    {
+      "id": 88237,
+      "name": "Remote - United States",
+      "location": null,
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

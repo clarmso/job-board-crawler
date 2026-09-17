@@ -4,9 +4,40 @@
   "department": "People Operations",
   "team": "Talent Acquisition",
   "employmentType": "FullTime",
-  "location": "United States",
+  "location": "San Francisco",
   "shouldDisplayCompensationOnJobPostings": true,
-  "secondaryLocations": [],
+  "secondaryLocations": [
+    {
+      "location": "Seattle",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "Washington",
+          "addressCountry": "United States",
+          "addressLocality": "Seattle"
+        }
+      }
+    },
+    {
+      "location": "New York",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "New York",
+          "addressCountry": "United States",
+          "addressLocality": "New York"
+        }
+      }
+    },
+    {
+      "location": "Toronto",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "Ontario",
+          "addressCountry": "Canada",
+          "addressLocality": "Toronto"
+        }
+      }
+    }
+  ],
   "publishedAt": "2026-09-02T23:50:47.030+00:00",
   "isListed": true,
   "isRemote": true,

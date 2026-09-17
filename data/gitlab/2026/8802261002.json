@@ -1,0 +1,54 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/gitlab/jobs/8802261002",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 6522143002,
+  "location": {
+    "name": "Remote, Canada"
+  },
+  "metadata": [
+    {
+      "id": 4595831002,
+      "name": "Quota Coverage Type",
+      "value": "n/a",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8802261002,
+  "updated_at": "2026-09-15T12:56:33-04:00",
+  "requisition_id": "6967",
+  "title": "Senior Distribution Engineer, Gitlab: Build",
+  "company_name": "GitLab",
+  "first_published": "2026-09-15T12:29:41-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt;\n&lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt;\n&lt;p&gt;*&lt;em&gt;Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;An overview of this role&lt;/h2&gt;\n&lt;p&gt;As a Senior Distribution Engineer on the GitLab Build team, you&#39;ll manage build pipelines, evaluate support needs for new services, platforms, and architectures, and maintain existing ones. You&#39;ll keep the components that make up GitLab up to date and license-compliant, and make them available for users&#39; platforms and architectures.&lt;/p&gt;\n&lt;p&gt;You&#39;ll work with development teams as they support new features and contribute to projects that include community packaging efforts.&lt;/p&gt;\n&lt;h2&gt;What you’ll do&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li value=&quot;1&quot;&gt;Build and maintain packages for supported Linux distributions and architectures, including release activities.&lt;/li&gt;\n&lt;li value=&quot;2&quot;&gt;Develop and maintain official GitLab container images and tooling that enables efficient component building.&lt;/li&gt;\n&lt;li value=&quot;3&quot;&gt;Enable development teams to integrate their components into GitLab packages by providing guides and infrastructure that support self-service.&lt;/li&gt;\n&lt;li value=&quot;4&quot;&gt;Collaborate with security teams to identify and mitigate vulnerabilities and maintain secure, up-to-date dependencies.&lt;/li&gt;\n&lt;li value=&quot;5&quot;&gt;Manage cloud marketplace listings and integrations with major cloud providers.&lt;/li&gt;\n&lt;li value=&quot;6&quot;&gt;Maintain and test installation, update, and upgrade documentation and processes before release.&lt;/li&gt;\n&lt;li value=&quot;7&quot;&gt;Ensure license compliance across bundled dependencies.&lt;/li&gt;\n&lt;li value=&quot;8&quot;&gt;Submit components and packages to partners for validation and certification.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;What you’ll bring&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li value=&quot;1&quot;&gt;Have used Linux build toolchains such as autotools, make, CMake, and Nix.&lt;/li&gt;\n&lt;li value=&quot;2&quot;&gt;Have built container images and used container build tooling in production.&lt;/li&gt;\n&lt;li value=&quot;3&quot;&gt;Have worked with Debian- and Red Hat Enterprise Linux-based systems to build &lt;code&gt;&lt;span class=&quot;textCode&quot;&gt;.deb&lt;/span&gt;&lt;/code&gt; and &lt;code&gt;&lt;span class=&quot;textCode&quot;&gt;.rpm&lt;/span&gt;&lt;/code&gt; packages and package cloud native applications.&lt;/li&gt;\n&lt;li value=&quot;4&quot;&gt;Have used continuous integration systems, including GitLab&#39;s continuous integration feature, GitHub Actions, Jenkins, or Travis CI.&lt;/li&gt;\n&lt;li value=&quot;5&quot;&gt;Have written and maintained complex shell scripts in production environments.&lt;/li&gt;\n&lt;li value=&quot;6&quot;&gt;Have communicated in written and spoken English in a remote, largely asynchronous work environment.&lt;/li&gt;\n&lt;li value=&quot;7&quot;&gt;Have worked with major cloud providers such as Google Cloud Platform, Amazon Web Services, or Microsoft Azure.&lt;/li&gt;\n&lt;li value=&quot;8&quot;&gt;Additional experience with Ruby, Go, Python, or Rust, or observability tools such as Prometheus and Grafana, would be helpful.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;About the team&lt;/h2&gt;\n&lt;p&gt;We produce system packages, container images, related components such as marketplace listings, and the tooling that creates and maintains them. We bridge development teams and end users by providing tooling and expertise that enable efficient component building and deliver simple, secure, dependable installation experiences. We also review a large number of merge requests from outside our team, including dependency and security updates for bundled components such as PostgreSQL, Consul, and Patroni.&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h4&gt;&lt;strong&gt;How GitLab Supports Full-Time Employees&lt;/strong&gt;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;a href=&quot;https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/&quot;&gt;Benefits to support your health, finances, and well-being&lt;/a&gt;&lt;/li&gt;\n&lt;li&gt;&lt;a href=&quot;https://handbook.gitlab.com/handbook/people-group/time-off-and-absence/time-off-types/#flexible-paid-time-off-pto&quot;&gt;Flexible Paid Time Off&amp;nbsp;&lt;/a&gt;&lt;/li&gt;\n&lt;li&gt;&lt;a href=&quot;https://handbook.gitlab.com/handbook/company/culture/inclusion/tmrg-tmag/&quot;&gt;Team Member Resource Groups&lt;/a&gt;&lt;/li&gt;\n&lt;li&gt;&lt;a href=&quot;https://handbook.gitlab.com/handbook/total-rewards/stock-options/&quot;&gt;Equity Compensation &amp;amp; Employee Stock Purchase Plan&lt;/a&gt;&lt;/li&gt;\n&lt;li&gt;&lt;a href=&quot;https://handbook.gitlab.com/handbook/people-group/learning-and-development/growth-and-development/&quot;&gt;Growth and Development Fund&lt;/a&gt;&lt;/li&gt;\n&lt;li&gt;&lt;a href=&quot;https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave&quot;&gt;Parental Leave&lt;/a&gt;&amp;nbsp;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Please note that we welcome interest from candidates with varying levels of experience; many successful candidates do not meet every single requirement. Additionally, studies have shown that people from &lt;a href=&quot;https://about.gitlab.com/company/culture/inclusion/#examples-of-select-underrepresented-groups&quot;&gt;underrepresented groups&lt;/a&gt; are less likely to apply to a job unless they meet every single qualification. If you&#39;re excited about this role, please apply and allow our recruiters to assess your application.&lt;/p&gt;\n&lt;hr&gt;\n&lt;p&gt;&lt;strong&gt;Country Hiring Guidelines: &lt;/strong&gt;GitLab hires new team members in countries around the world. All of our roles are remote, however some roles may carry specific location-based eligibility requirements. Our Talent Acquisition team can help answer any questions about location after starting the recruiting process.&amp;nbsp;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Privacy Policy: &lt;/strong&gt;Please review our &lt;a href=&quot;https://handbook.gitlab.com/handbook/hiring/candidate-faq/recruitment-privacy-policy/&quot; target=&quot;_blank&quot;&gt;Recruitment Privacy Policy.&lt;/a&gt; Your privacy is important to us.&lt;/p&gt;\n&lt;p&gt;GitLab is proud to be an equal opportunity workplace and is an affirmative action employer. GitLab’s policies and practices relating to recruitment, employment, career development and advancement, promotion, and retirement are based solely on merit, regardless of race, color, religion, ancestry, sex (including pregnancy, lactation, sexual orientation, gender identity, or gender expression), national origin, age, citizenship, marital status, mental or physical disability, genetic information (including family medical history), discharge status from the military, protected veteran status (which includes disabled veterans, recently separated veterans, active duty wartime or campaign badge veterans, and Armed Forces service medal veterans), or any other basis protected by law. GitLab will not tolerate discrimination or harassment based on any of these characteristics. See also&amp;nbsp;&lt;a href=&quot;https://about.gitlab.com/handbook/people-policies/inc-usa/#equal-employment-opportunity-policy&quot; target=&quot;_blank&quot;&gt;GitLab’s EEO Policy&lt;/a&gt;&amp;nbsp;and&amp;nbsp;&lt;a href=&quot;https://about.gitlab.com/handbook/labor-and-employment-notices/#eeoc-us-equal-employment-opportunity-commission-notices&quot; target=&quot;_blank&quot;&gt;EEO is the Law&lt;/a&gt;. If you have a disability or special need that requires&amp;nbsp;&lt;a href=&quot;https://about.gitlab.com/handbook/people-policies/inc-usa/#reasonable-accommodation&quot; target=&quot;_blank&quot;&gt;accommodation&lt;/a&gt;, please let us know during the&amp;nbsp;&lt;a href=&quot;https://about.gitlab.com/handbook/hiring/interviewing/#adjustments-to-our-interview-process&quot; target=&quot;_blank&quot;&gt;recruiting process&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4016843002,
+      "name": "Platforms Engineering",
+      "child_ids": [],
+      "parent_id": 4011044002
+    }
+  ],
+  "offices": [
+    {
+      "id": 4040901002,
+      "name": "Canada",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 4019551002
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

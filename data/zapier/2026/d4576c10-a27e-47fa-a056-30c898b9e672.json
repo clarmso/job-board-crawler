@@ -68,13 +68,13 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "67fb7a99-b172-43e8-958a-c93f97015cec",
-            "summary": "Offers Commission",
-            "compensationType": "Commission",
+            "id": "db92bace-c7cb-491b-9afc-fcb284c29124",
+            "summary": "OTE CA$140K – CA$170K",
+            "compensationType": "Salary",
             "interval": "1 YEAR",
             "currencyCode": "CAD",
-            "minValue": null,
-            "maxValue": null
+            "minValue": 140000,
+            "maxValue": 170000
           },
           {
             "id": "4465888b-9fb6-4d73-a2bc-b01562df8fb9",
@@ -86,13 +86,13 @@
             "maxValue": null
           },
           {
-            "id": "db92bace-c7cb-491b-9afc-fcb284c29124",
-            "summary": "OTE CA$140K – CA$170K",
-            "compensationType": "Salary",
+            "id": "67fb7a99-b172-43e8-958a-c93f97015cec",
+            "summary": "Offers Commission",
+            "compensationType": "Commission",
             "interval": "1 YEAR",
             "currencyCode": "CAD",
-            "minValue": 140000,
-            "maxValue": 170000
+            "minValue": null,
+            "maxValue": null
           }
         ]
       }

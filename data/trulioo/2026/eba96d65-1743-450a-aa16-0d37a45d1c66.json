@@ -4,7 +4,7 @@
   "department": "Sales",
   "team": "Sales",
   "employmentType": "FullTime",
-  "location": "London",
+  "location": "London, UK",
   "shouldDisplayCompensationOnJobPostings": false,
   "secondaryLocations": [],
   "publishedAt": "2026-09-09T18:23:26.707+00:00",
@@ -13,7 +13,9 @@
   "workplaceType": "Remote",
   "address": {
     "postalAddress": {
-      "addressCountry": "UK"
+      "addressRegion": "Greater London",
+      "addressCountry": "UK",
+      "addressLocality": "London"
     }
   },
   "jobUrl": "https://jobs.ashbyhq.com/trulioo/eba96d65-1743-450a-aa16-0d37a45d1c66",

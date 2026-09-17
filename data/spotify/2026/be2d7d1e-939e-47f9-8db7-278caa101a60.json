@@ -1,0 +1,40 @@
+{
+  "additionalPlain": "Spotify is an equal opportunity employer. You are welcome at Spotify for who you are, no matter where you come from, what you look like, or what’s playing in your headphones. Our platform is for everyone, and so is our workplace. The more voices we have represented and amplified in our business, the more we will all thrive, contribute, and be forward-thinking! So bring us your personal experience, your perspectives, and your background. It’s in our differences that we will find the power to keep revolutionizing the way the world listens.\n \nAt Spotify, we are passionate about inclusivity and making sure our entire recruitment process is accessible to everyone. We have ways to request reasonable accommodations during the interview process and help assist in what you need. If you need accommodations at any stage of the application or interview process, please let us know - we’re here to support you in any way we can.\n \n",
+  "additional": "<div><span style=\"font-size: 11pt;\">Spotify is an equal opportunity employer. You are welcome at Spotify for who you are, no matter where you come from, what you look like, or what’s playing in your headphones. Our platform is for everyone, and so is our workplace. The more voices we have represented and amplified in our business, the more we will all thrive, contribute, and be forward-thinking! So bring us your personal experience, your perspectives, and your background. It’s in our differences that we will find the power to keep revolutionizing the way the world listens.</span></div>\n<div>&nbsp;</div>\n<div><span style=\"font-size: 11pt;\">At Spotify, we are passionate about inclusivity and making sure our entire recruitment process is accessible to everyone. We have ways to request reasonable accommodations during the interview process and help assist in what you need. If you need accommodations at any stage of the application or interview process, please let us know - we’re here to support you in any way we can.</span></div>\n<div>&nbsp;</div>",
+  "categories": {
+    "department": "Engineering",
+    "location": "London",
+    "team": "Experience",
+    "allLocations": [
+      "London",
+      "Stockholm"
+    ]
+  },
+  "createdAt": 1789545941933,
+  "descriptionPlain": "",
+  "description": "<div>Content Platform is responsible for ingesting, processing, storing, and delivering every piece of content on Spotify — from music and podcasts to audiobooks. Within Content Platform, the Media domain owns the end-to-end media pipeline, from the moment content arrives through to seamless playback for listeners around the world. We're looking for a Staff Engineer to provide architectural leadership across this media platform. You’ll help shape and drive the technical direction from ingestion through transcoding, packaging, storage, delivery, and playback. This is a role for someone who thinks in systems, understands the trade-offs between codec choices and infrastructure costs, and can drive technical strategy across multiple teams at scale.</div>",
+  "id": "be2d7d1e-939e-47f9-8db7-278caa101a60",
+  "lists": [
+    {
+      "text": "What You'll Do",
+      "content": "<div>\n\n<li>Define and drive the long-term architectural direction for Spotify's media pipeline across Content Platform.</li>\n<li>Lead large-scale technical initiatives that span multiple squads and organizations, including projects such as media delivery, codec rollouts, and future playback capabilities.</li>\n<li>Partner closely with engineering managers, product managers, and senior engineers to align technical strategy with product priorities, reliability goals, and cost efficiency, acting as a key technical counterpart for media architecture.</li>\n<li>Guide architectural decisions across media ingestion, transcoding, packaging, storage, content delivery, and playback.</li>\n<li>Author and review RFCs, architecture decision records, and technical design documents that guide engineering teams and leadership.</li>\n<li>Mentor senior engineers across the organization, helping raise technical quality, architectural thinking, and engineering excellence.</li>\n<li>Bring a cost-aware engineering mindset by understanding how media architecture decisions impact compute, storage, CDN utilization, and long-term platform sustainability.</li>\n\n</div>"
+    },
+    {
+      "text": "Who You Are",
+      "content": "<div>\n\n<li>You have deep expertise building large-scale media platforms spanning audio, video, encoding, transcoding, packaging, delivery, and playback technologies.</li>\n<li>You have successfully led architecture across multiple engineering teams and influenced technical direction beyond your immediate organization.</li>\n<li>You have significant experience designing and operating distributed systems at internet scale, including high-throughput media processing, large-scale storage, and globally distributed delivery infrastructure.</li>\n<li>You understand the architectural trade-offs between codecs, packaging formats, playback technologies, storage, networking, and infrastructure costs.</li>\n<li>You have a strong track record of leading multi-quarter technical initiatives from initial proposal through implementation and organization-wide adoption.</li>\n<li>You communicate technical ideas clearly through well-structured RFCs, design documents, and architectural decision records.</li>\n<li>You build trust through collaboration and technical credibility, bringing together teams with different priorities to deliver shared outcomes.</li>\n<li>You enjoy mentoring experienced engineers and helping organizations grow their technical capability.</li>\n<li>Experience working with cloud infrastructure providers, CDN vendors, and large-scale media delivery ecosystems is highly valued.</li>\n\n</div>"
+    },
+    {
+      "text": "Where You'll Be",
+      "content": "<div>\n\n<li>This role is based in London or Stockholm</li>\n<li>We offer you the flexibility to work where you work best! There will be some in person meetings, but still allows for flexibility to work from home.</li>\n\n</div>"
+    }
+  ],
+  "text": "Staff Engineer - Content Platform",
+  "country": "GB",
+  "workplaceType": "hybrid",
+  "opening": "",
+  "openingPlain": "",
+  "descriptionBody": "<div>Content Platform is responsible for ingesting, processing, storing, and delivering every piece of content on Spotify &mdash; from music and podcasts to audiobooks. Within Content Platform, the Media domain owns the end-to-end media pipeline, from the moment content arrives through to seamless playback for listeners around the world. We're looking for a Staff Engineer to provide architectural leadership across this media platform. You&rsquo;ll help shape and drive the technical direction from ingestion through transcoding, packaging, storage, delivery, and playback. This is a role for someone who thinks in systems, understands the trade-offs between codec choices and infrastructure costs, and can drive technical strategy across multiple teams at scale.</div>",
+  "descriptionBodyPlain": "",
+  "hostedUrl": "https://jobs.lever.co/spotify/be2d7d1e-939e-47f9-8db7-278caa101a60",
+  "applyUrl": "https://jobs.lever.co/spotify/be2d7d1e-939e-47f9-8db7-278caa101a60/apply"
+}

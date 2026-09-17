@@ -116,13 +116,13 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "4d5d1785-258e-407b-ac4f-8839ce80372d",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
+            "id": "85dfd2db-ad27-430c-84d6-5924190fcd11",
+            "summary": "Base Salary £132,500 – £198,700",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "GBP",
+            "minValue": 132500,
+            "maxValue": 198700
           },
           {
             "id": "d2ff98b9-51ac-4a76-9da2-f3689615a6dd",
@@ -134,13 +134,13 @@
             "maxValue": null
           },
           {
-            "id": "85dfd2db-ad27-430c-84d6-5924190fcd11",
-            "summary": "Base Salary £132,500 – £198,700",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "GBP",
-            "minValue": 132500,
-            "maxValue": 198700
+            "id": "4d5d1785-258e-407b-ac4f-8839ce80372d",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           }
         ]
       },
@@ -150,6 +150,15 @@
         "title": "Ireland",
         "additionalInformation": null,
         "components": [
+          {
+            "id": "1c4d42b6-9b18-472f-a829-f4bae7f805c5",
+            "summary": "Offers Bonus",
+            "compensationType": "Bonus",
+            "interval": "1 YEAR",
+            "currencyCode": "EUR",
+            "minValue": null,
+            "maxValue": null
+          },
           {
             "id": "45256c19-2f54-4a41-8c57-51b206f5a7d0",
             "summary": "Base Salary €135,800 – €203,800",
@@ -165,15 +174,6 @@
             "compensationType": "EquityPercentage",
             "interval": "NONE",
             "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
-          {
-            "id": "1c4d42b6-9b18-472f-a829-f4bae7f805c5",
-            "summary": "Offers Bonus",
-            "compensationType": "Bonus",
-            "interval": "1 YEAR",
-            "currencyCode": "EUR",
             "minValue": null,
             "maxValue": null
           }
@@ -195,20 +195,20 @@
             "maxValue": 203800
           },
           {
-            "id": "28f8fb8f-3454-4c76-8a05-9da83a35e845",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "db17d1e5-acf4-4e0b-a36c-c2bda33c5e2e",
             "summary": "Offers Bonus",
             "compensationType": "Bonus",
             "interval": "1 YEAR",
             "currencyCode": "EUR",
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "28f8fb8f-3454-4c76-8a05-9da83a35e845",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
             "minValue": null,
             "maxValue": null
           }
@@ -221,15 +221,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "62b432c2-3bf0-4b2a-bf62-600fe128d5a7",
-            "summary": "Offers Bonus",
-            "compensationType": "Bonus",
-            "interval": "1 YEAR",
-            "currencyCode": "INR",
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "6f01718b-1966-4372-9bc6-d7826f7f8ad7",
             "summary": "Base Salary ₹77,56,200 – ₹1,16,34,400",
             "compensationType": "Salary",
@@ -237,6 +228,15 @@
             "currencyCode": "INR",
             "minValue": 7756200,
             "maxValue": 11634400
+          },
+          {
+            "id": "62b432c2-3bf0-4b2a-bf62-600fe128d5a7",
+            "summary": "Offers Bonus",
+            "compensationType": "Bonus",
+            "interval": "1 YEAR",
+            "currencyCode": "INR",
+            "minValue": null,
+            "maxValue": null
           },
           {
             "id": "c44a087c-dfca-413a-9ba5-f52eab28ac20",
@@ -291,13 +291,13 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "2d7cabe0-fce6-475e-ac27-b46b21b1ea62",
-            "summary": "Base Salary NZ$208,600 – NZ$313,000",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "NZD",
-            "minValue": 208600,
-            "maxValue": 313000
+            "id": "283b0f0a-c4ba-4203-a67d-310985afe8c1",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           },
           {
             "id": "65a30c07-5e50-4d60-830f-847f5b306483",
@@ -309,13 +309,13 @@
             "maxValue": null
           },
           {
-            "id": "283b0f0a-c4ba-4203-a67d-310985afe8c1",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
+            "id": "2d7cabe0-fce6-475e-ac27-b46b21b1ea62",
+            "summary": "Base Salary NZ$208,600 – NZ$313,000",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "NZD",
+            "minValue": 208600,
+            "maxValue": 313000
           }
         ]
       }

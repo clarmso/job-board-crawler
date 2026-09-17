@@ -8,15 +8,17 @@
   "shouldDisplayCompensationOnJobPostings": false,
   "secondaryLocations": [
     {
-      "location": "London",
+      "location": "London, UK",
       "address": {
         "postalAddress": {
-          "addressCountry": "UK"
+          "addressRegion": "Greater London",
+          "addressCountry": "UK",
+          "addressLocality": "London"
         }
       }
     },
     {
-      "location": "Dublin",
+      "location": "Dublin, Ireland",
       "address": {
         "postalAddress": {
           "addressRegion": "County Dublin ",

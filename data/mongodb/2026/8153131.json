@@ -1,0 +1,148 @@
+{
+  "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=8153131",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3528252,
+  "location": {
+    "name": "Gurugram"
+  },
+  "metadata": [
+    {
+      "id": 22194060,
+      "name": "Position ID",
+      "value": "10015573",
+      "value_type": "short_text"
+    },
+    {
+      "id": 24918,
+      "name": "Department ID",
+      "value": "D43220-Industry Solutions",
+      "value_type": "single_select"
+    },
+    {
+      "id": 22194061,
+      "name": "Team",
+      "value": "T10051-Industry Solutions",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4914027,
+      "name": "Region",
+      "value": "APAC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4137836,
+      "name": "Working Model Eligibility",
+      "value": [
+        "2-Flexible"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 4914029,
+      "name": "Job Level",
+      "value": "Professional - IC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24109,
+      "name": "Employment Type",
+      "value": "Full-time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 1073551,
+      "name": "Job Type",
+      "value": "Standard",
+      "value_type": "single_select"
+    },
+    {
+      "id": 988684,
+      "name": "JD Link",
+      "value": "https://docs.google.com/document/d/1FQuFUWh-1h72XvSBn1Mas-3nZ7UfzL9F87eHkNREh4w/edit?tab=t.0#heading=h.ngba89fdcpdh",
+      "value_type": "url"
+    },
+    {
+      "id": 5525802,
+      "name": "Baseline Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 5525816,
+      "name": "Other Large Market Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 13324394,
+      "name": "Job Post Range (United States)",
+      "value": {
+        "unit": "INR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 40497768,
+      "name": "Job Post Range (Canada)",
+      "value": {
+        "unit": "INR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 57694516,
+      "name": "Job Post Range (Poland)",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 64002488,
+      "name": "Job Post Range (Italy)",
+      "value": null,
+      "value_type": "currency_range"
+    }
+  ],
+  "id": 8153131,
+  "updated_at": "2026-09-16T13:28:52-04:00",
+  "requisition_id": "3273528252",
+  "title": "Forward Deployed Architect, Industry Solutions",
+  "company_name": "MongoDB",
+  "first_published": "2026-09-15T16:05:51-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;MongoDB is the modern database platform and consistently voted the&amp;nbsp;&lt;a href=&quot;https://www.mongodb.com/blog/post/stack-overflow-research-most-wanted-database&quot;&gt;#1 most wanted database&lt;/a&gt;, preferred by developers. MongoDB continues to attract the most demanding and innovative companies and development teams in enterprise software.&lt;/p&gt;\n&lt;p&gt;To support this growth, we are expanding our &lt;a href=&quot;https://www.mongodb.com/blog/post/transitioning-teacher-mongodbs-new-enterprise-modernization-team-meet-gabriela-preiss&quot;&gt;Industry Solutions Team&lt;/a&gt; (IST), a flexible, globally distributed organization that helps customers and partners modernize applications and data platforms with MongoDB.&lt;/p&gt;\n&lt;p&gt;As a Forward Deployed Architect in our ISV Practice, you will be the technical design lead for engagements with independent software vendors (ISVs). You will work with ISV development leaders, senior engineers, and Forward Deployed Engineers to design how MongoDB integrates with and extends the partner’s product.&lt;/p&gt;\n&lt;p&gt;This is an application architecture role, not a database administration or database consulting role. You will ensure that the designs implemented by the team are practical, production-ready, and reusable across future partner engagements.&lt;/p&gt;\n&lt;p&gt;Learn more about #LifeAtMongoDB &lt;a href=&quot;https://www.mongodb.com/blog/channel/culture&quot;&gt;here&lt;/a&gt;!&lt;/p&gt;\n&lt;p&gt;We are looking to speak to candidates who are based in Gurugram for our hybrid working model.&lt;/p&gt;\n&lt;h3&gt;What you’ll do at MongoDB&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Lead technical design for ISV engagements by understanding partner architecture and delivery models, then defining MongoDB data models, access patterns, indexing, and integration approaches for products serving different industries&lt;/li&gt;\n&lt;li&gt;Design MongoDB as a supported platform option alongside Oracle, PostgreSQL, or SQL Server, including persistence abstractions, feature parity, backend-specific behavior, and certification requirements&lt;/li&gt;\n&lt;li&gt;Design coexistence architectures and migration paths, including data flows, synchronization, consistency, application refactoring, dual-run strategies, validation, and controlled cutover&lt;/li&gt;\n&lt;li&gt;Lead design reviews, provide technical direction, and review schemas, queries, indexes, MongoDB-related code, and performance against realistic partner workloads&lt;/li&gt;\n&lt;li&gt;Design solutions across MongoDB Atlas, Enterprise Advanced, Kubernetes-based private clouds, and self-managed or air-gapped on-premises environments&lt;/li&gt;\n&lt;li&gt;Build reusable architecture patterns, migration playbooks, code templates, decision frameworks, and other assets that make future partner engagements faster and more consistent&lt;/li&gt;\n&lt;li&gt;Stay hands-on by reading partner code and prototyping critical paths, act as the technical escalation point for Forward Deployed Engineers, and share recurring technical gaps and patterns with MongoDB Product and Engineering teams&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;As an ideal candidate, you will have&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;8+ years of experience in backend engineering and application architecture, delivering production software products&lt;/li&gt;\n&lt;li&gt;Strong application-side MongoDB expertise, including access-pattern-driven data modeling, aggregation, indexing, transactions, change streams, replication, sharding, and sizing&lt;/li&gt;\n&lt;li&gt;Application-level experience with at least one major relational database and integrating a new database into a large production codebase, including persistence abstraction, data synchronization, dual-write or CDC patterns, transactional boundaries, and incremental rollout&lt;/li&gt;\n&lt;li&gt;Experience designing migrations of production workloads between relational databases and MongoDB&lt;/li&gt;\n&lt;li&gt;Strong SaaS and product-engineering knowledge, including multi-tenancy, tenant isolation, versioned schemas, backward compatibility, and managed-cloud, Kubernetes-based private-cloud, or self-managed on-premises deployments&lt;/li&gt;\n&lt;li&gt;The ability to influence engineers and stakeholders without formal authority through technically sound, practical designs; explain trade-offs clearly; identify risks early; and balance delivery speed, quality, and long-term maintainability&lt;/li&gt;\n&lt;li&gt;Willingness to travel regularly to ISV partner locations&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;As an ideal candidate, you may also have&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience working inside an ISV or product company, including in a forward-deployed, resident-architect, embedded-architect, or similar technical delivery role&lt;/li&gt;\n&lt;li&gt;Familiarity with event-driven architectures and technologies such as Kafka or Debezium&lt;/li&gt;\n&lt;li&gt;Experience with regulated or data-intensive industries and their security, compliance, and data-governance requirements&lt;/li&gt;\n&lt;li&gt;MongoDB certification, MongoDB Atlas experience, or experience with MongoDB’s broader product portfolio&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;What you will learn&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Deepen your expertise across MongoDB Atlas, Enterprise Advanced, application development, data modeling, search, vector workloads, and the broader MongoDB ecosystem&lt;/li&gt;\n&lt;li&gt;Develop advanced experience in multi-database application architecture, database coexistence, migrations, cloud-native deployment, and the operational considerations of partner products&lt;/li&gt;\n&lt;li&gt;Work across ISV products, technology stacks, industries, and deployment environments while building reusable architecture patterns and developing your technical influence and leadership&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;About MongoDB&lt;/h3&gt;\n&lt;p&gt;MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure.&lt;/p&gt;\n&lt;p&gt;With offices worldwide and over 67,000 customers, including AI-native startups and approximately 75% of the Fortune 100, relying on MongoDB for their most important applications, we’re powering the next era of software.&lt;/p&gt;\n&lt;p&gt;Our compass at MongoDB is our &lt;a href=&quot;https://www.mongodb.com/company&quot;&gt;Leadership Commitment,&lt;/a&gt; guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. &lt;a href=&quot;https://www.mongodb.com/company/blog/culture/employee-benefits-that-make-a-difference-at-mongodb&quot;&gt;From employee affinity groups, to fertility assistance and a generous parental leave policy&lt;/a&gt;, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys.&lt;a href=&quot;https://www.mongodb.com/blog/channel/culture&quot;&gt; Learn more about what it’s like to work at MongoDB&lt;/a&gt;, and help us make an impact on the world!&lt;/p&gt;\n&lt;p&gt;MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.&lt;/p&gt;\n&lt;p&gt;MongoDB is an equal opportunities employer.&lt;/p&gt;\n&lt;table class=&quot;fields&quot;&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;td&gt;Requisition ID&lt;/td&gt;\n&lt;td data-provides=&quot;requisition_id&quot;&gt;3273528252&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;",
+  "departments": [
+    {
+      "id": 85960,
+      "name": "Industry Solutions",
+      "child_ids": [],
+      "parent_id": 370707
+    }
+  ],
+  "offices": [
+    {
+      "id": 65909,
+      "name": "Gurugram",
+      "location": "Gurugram, Haryana, India",
+      "child_ids": [],
+      "parent_id": 23659
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": null
+}

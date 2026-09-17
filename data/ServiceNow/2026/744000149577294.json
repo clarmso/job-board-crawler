@@ -1,0 +1,111 @@
+{
+  "id": "744000149577294",
+  "name": "Enterprise Account Exec, Hong Kong",
+  "uuid": "58c2d8d3-8a1f-46be-90c3-5d0563eb82eb",
+  "jobAdId": "6cb74123-f48f-431a-8be2-d780994c9e24",
+  "defaultJobAd": true,
+  "refNumber": "JB0075402",
+  "company": {
+    "identifier": "ServiceNow",
+    "name": "ServiceNow"
+  },
+  "releasedDate": "2026-09-15T11:35:40.808Z",
+  "location": {
+    "city": "Causeway Bay",
+    "country": "hk",
+    "address": "500 Hennessy Road",
+    "postalCode": "00000",
+    "remote": false,
+    "hybrid": true,
+    "fullLocation": "Causeway Bay, , Hong Kong"
+  },
+  "industry": {
+    "id": "it_and_services",
+    "label": "Information Technology And Services"
+  },
+  "department": {
+    "id": "2294208",
+    "label": "Sales"
+  },
+  "function": {
+    "id": "sales",
+    "label": "Sales"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "customField": [
+    {
+      "fieldId": "60345fa28b4ba8595bef1863",
+      "fieldLabel": "Recruiting Team",
+      "valueId": "professional",
+      "valueLabel": "Professional"
+    },
+    {
+      "fieldId": "60345d5c5165a31b17288279",
+      "fieldLabel": "Region",
+      "valueId": "858884996eea4a49baa6231279f39054",
+      "valueLabel": "APAC - Asia Pacific"
+    },
+    {
+      "fieldId": "6034601b43915a29a4b3389b",
+      "fieldLabel": "Job Location",
+      "valueId": "L_CSB001",
+      "valueLabel": "500 Hennessy Road, Causeway Bay, 00000, China, Hong Kong SAR(L_CSB001)"
+    },
+    {
+      "fieldId": "60345e1a0b24a127cbdfa148",
+      "fieldLabel": "Employee Type",
+      "valueId": "0082f6cbe6154da19322cbab1f6aa5af",
+      "valueLabel": "Regular"
+    },
+    {
+      "fieldId": "5f63a78f1dae5c5c4e54ba2b",
+      "fieldLabel": "Department",
+      "valueId": "2294208",
+      "valueLabel": "Sales"
+    },
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "hk",
+      "valueLabel": "Hong Kong"
+    },
+    {
+      "fieldId": "5f63a78f1dae5c5c4e54ba2a",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "ServiceNow"
+    },
+    {
+      "fieldId": "603462175165a31b1728827d",
+      "fieldLabel": "Cost Center",
+      "valueId": "CC3000",
+      "valueLabel": "3000 Sales Reps"
+    },
+    {
+      "fieldId": "618ed92b8f5e5f110e5bfb95",
+      "fieldLabel": "Work Persona",
+      "valueId": "bf7551c6-9b06-4e7c-8217-3baf43edd060",
+      "valueLabel": "Flexible"
+    },
+    {
+      "fieldId": "690cc0e8c682c3dbadaa7d73",
+      "fieldLabel": "Job Posting Type",
+      "valueId": "professional",
+      "valueLabel": "Professional"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/ServiceNow/postings/744000149577294",
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

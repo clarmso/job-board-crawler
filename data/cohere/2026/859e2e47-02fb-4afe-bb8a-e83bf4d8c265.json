@@ -109,15 +109,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "860bc7ea-55d6-4dce-9ec8-0f35106654d3",
-            "summary": "Base Salary CA$250K – CA$460K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "CAD",
-            "minValue": 250000,
-            "maxValue": 460000
-          },
-          {
             "id": "c4b9660f-ef6f-440e-97a2-658a09c1cf0e",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
@@ -125,6 +116,15 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "860bc7ea-55d6-4dce-9ec8-0f35106654d3",
+            "summary": "Base Salary CA$250K – CA$460K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "CAD",
+            "minValue": 250000,
+            "maxValue": 460000
           }
         ]
       },
@@ -161,15 +161,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "0c10ae33-c467-4bce-b943-f98aec48fefb",
-            "summary": "Base Salary $175K – $325K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "USD",
-            "minValue": 175000,
-            "maxValue": 325000
-          },
-          {
             "id": "e2381238-571b-4349-9a41-2b413d8aa15b",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
@@ -177,6 +168,15 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "0c10ae33-c467-4bce-b943-f98aec48fefb",
+            "summary": "Base Salary $175K – $325K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 175000,
+            "maxValue": 325000
           }
         ]
       }

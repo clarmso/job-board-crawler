@@ -1,0 +1,87 @@
+{
+  "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=8207677&gh_jid=8207677",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "education": "education_optional",
+  "internal_job_id": 3534734,
+  "location": {
+    "name": "Greece"
+  },
+  "metadata": [
+    {
+      "id": 32131013,
+      "name": "Requisition open date",
+      "value": "2026-08-31",
+      "value_type": "date"
+    },
+    {
+      "id": 168141,
+      "name": "Target Remote Countries / States Locations [For Job Wrapping]",
+      "value": [],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 33574685,
+      "name": "Types of Hiring",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 20164553,
+      "name": "FADV_Account",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 20164588,
+      "name": "FADV_Package",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 30595384,
+      "name": "Seniority",
+      "value": "Mid-Senior Level",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8207677,
+  "updated_at": "2026-09-16T09:12:09-04:00",
+  "requisition_id": "R12300",
+  "title": "Senior Software Engineer -Observability, Managed Inputs ",
+  "company_name": "Elastic",
+  "first_published": "2026-09-16T09:07:36-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Elastic, the Search AI Company, enables everyone to find the answers they need in real time, using all their data, at scale — unleashing the potential of businesses and people. The Elastic Search AI Platform, used by more than 50% of the Fortune 500, brings together the precision of search and the intelligence of AI to enable everyone to accelerate the results that matter. By taking advantage of all structured and unstructured data — securing and protecting private information more effectively — Elastic’s complete, cloud-based solutions for search, security, and observability help organizations deliver on the promise of AI.&lt;/p&gt;&lt;/div&gt;&lt;h3&gt;&lt;strong&gt;What is The Role&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;As part of the Observability organization and inside the Streams program, the Managed Inputs team builds high-performing backend ingestion pipelines. We collect telemetry across diverse environments—including Elastic Agents, agentless setups, OpenTelemetry collectors, and cloud sources via Elastic Cloud Forwarders—then process and store this information to power seamless, intuitive user experiences within Kibana.&lt;/p&gt;\n&lt;p&gt;Elastic&#39;s Streams program is the unified platform for getting data into Elasticsearch from edge collection all the way through cloud processing. We accept any type of data generated at the edge (Elastic Agent, Elastic Classic APM Agents, Beats, any OTel SDK…) and we process and route the data to several destinations.&lt;/p&gt;\n&lt;p&gt;We are building strong backend solutions for ingesting observability data. Our core focus is on building a performant, reliable, scalable, secure and maintainable backend that fulfills product requirements. We take responsibility for what we build, and therefore are also responsible for keeping the system running, and ensuring reliable quality gates and safe deployment mechanisms, as well as assisting in support cases.&amp;nbsp;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;What You Will Be Doing&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Design, implement, deploy and maintain high-performing, scalable features within the different products we own, being the most critical ones Managed Inputs (mOTLP endpoints) and Managed Integrations (Agentless architecture) across the three main cloud providers.&lt;/li&gt;\n&lt;li&gt;Take ownership of projects and features, leading them from concept to delivery.&lt;/li&gt;\n&lt;li&gt;Provide engineering level support to escalated customer cases, on a rotation basis.&lt;/li&gt;\n&lt;li&gt;Provide mentorship and feedback to peers through pull request reviews, ensuring code quality and promoting best practices within the team.&lt;/li&gt;\n&lt;li&gt;Monitor alerts, build SLIs and SLOs and ensure system stability.&lt;/li&gt;\n&lt;li&gt;Cultivate a positive, inclusive, and collaborative team culture across timezones.&lt;/li&gt;\n&lt;li&gt;You will be on call for services we own (current rotation is 12h/day/week every 8-10 weeks)&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;What You Bring&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Intermediate to Expert Go skills with strong analytical, debugging, and troubleshooting skills.&lt;/li&gt;\n&lt;li&gt;Hands-on experience with Kubernetes, IaC (Terraform) and Kafka&lt;/li&gt;\n&lt;li&gt;At least Intermediate experience with Observability (tracing, metrics, logs, profiling)&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Strong understanding of microservice architecture and distributed systems, ability to understand tradeoffs between different solutions and familiarity with several parts and challenges for designing such systems.&lt;/li&gt;\n&lt;li&gt;A positive attitude and a curious mindset with commitment to learning and self-enablement&lt;/li&gt;\n&lt;li&gt;Ability to conduct root cause analysis and investigating to find the bottom of issues rather than accepting unexpected system behavior&lt;/li&gt;\n&lt;li&gt;Ability to work independently in a globally distributed team, while ensuring to collaborate and share knowledge with colleagues.&lt;/li&gt;\n&lt;li&gt;Experience with or interest in OpenTelemetry&lt;/li&gt;\n&lt;li&gt;You work autonomously and can drive decisions and results in a distributed team by leveraging asynchronous, direct, and transparent communication.&lt;/li&gt;\n&lt;li&gt;Demonstrated experience leveraging AI-assisted development tools to accelerate feature development, debug complex systems, and optimize existing codebases.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Bonus Points&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience in designing scalable, high-availability services and applications ingesting terabytes per day.&lt;/li&gt;\n&lt;li&gt;Experience with operational stability as responder or incident commander&lt;/li&gt;\n&lt;li&gt;Experience with Elasticsearch and/or Kibana&lt;/li&gt;\n&lt;li&gt;Passion for open-source development and contributions to community projects (doesn’t have to be ours).&lt;/li&gt;\n&lt;li&gt;Experience in full remote teams&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Compensation for this role is in the form of base salary.&amp;nbsp; This role does not have a variable compensation component.&amp;nbsp;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;At Elastic, our compensation philosophy aims to provide fair, competitive and transparent remuneration. Salary ranges are established based on a combination of external market benchmarks, internal pay equity considerations, and the responsibilities and complexity associated with each role. This approach helps ensure consistency across comparable roles while remaining competitive within the relevant labour markets.&lt;/p&gt;\n&lt;p&gt;The final compensation offered within the applicable range will be determined based on several objective factors, including relevant professional experience, level of skills and expertise, alignment with the role requirements, and the overall scope and complexity of the position.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;The typical starting salary range for this role is:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;€61.100&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;€96.600 EUR&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;Additional Information - We Take Care of Our People&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;As a distributed company, diversity drives our identity. Whether you’re looking to launch a new career or grow an existing one, Elastic is the type of company where you can balance great work with great life. Your age is only a number. It doesn’t matter if you’re just out of college or your children are; we need you for what you can do.&lt;/p&gt;\n&lt;p&gt;We strive to have parity of benefits across regions and while regulations differ from place to place, we believe taking care of our people is the right thing to do.&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Competitive pay based on the work you do here and not your previous salary&lt;/li&gt;\n&lt;li&gt;Health coverage for you and your family in many locations&lt;/li&gt;\n&lt;li&gt;Ability to craft your calendar with flexible locations and schedules for many roles&lt;/li&gt;\n&lt;li&gt;Generous number of vacation days each year&lt;/li&gt;\n&lt;li&gt;Increase your impact - We match up to $2000 (or local currency equivalent) for financial donations and service&lt;/li&gt;\n&lt;li&gt;Up to 40 hours each year to use toward volunteer projects you love&lt;/li&gt;\n&lt;li&gt;Embracing parenthood with minimum of 16 weeks of parental leave&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Different people approach problems differently. We need that. Elastic is an equal opportunity employer and is committed to creating an inclusive culture that celebrates different perspectives, experiences, and backgrounds. Qualified applicants will receive consideration for employment without regard to race, ethnicity, color, religion, sex, pregnancy, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, disability status, or any other basis protected by federal, state or local law, ordinance or regulation.&lt;/p&gt;\n&lt;p&gt;We welcome individuals with disabilities and strive to create an accessible and inclusive experience for all individuals. To request an accommodation during the application or the recruiting process, please email &lt;a href=&quot;mailto:candidate_accessibility@elastic.co&quot; target=&quot;_blank&quot;&gt;candidate_accessibility@elastic.co&lt;/a&gt;&lt;span class=&quot;gmail_default&quot;&gt;.&lt;/span&gt;&amp;nbsp;We will reply to your request within 24 business hours of submission.&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Applicants have rights under Federal Employment Laws, view posters linked below:&lt;/span&gt; &lt;a href=&quot;https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/fmlaen.pdf&quot; target=&quot;_blank&quot;&gt;Family and Medical Leave Act (FMLA)&lt;/a&gt; &lt;span style=&quot;color: #000000;&quot;&gt;Poster;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&amp;nbsp;&lt;a href=&quot;https://www.dol.gov/sites/dolgov/files/ofccp/pdf/pay-transp_%20English_formattedESQA508c.pdf&quot; target=&quot;_blank&quot;&gt;Pay Transparency Nondiscrimination Provision&lt;/a&gt; Poster; &lt;/span&gt;&lt;a href=&quot;https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/eppabw.pdf&quot; target=&quot;_blank&quot;&gt;Employee Polygraph Protection Act (EPPA)&lt;/a&gt; &lt;span style=&quot;color: #000000;&quot;&gt;Poster and &lt;a href=&quot;https://www.dol.gov/sites/dolgov/files/OFCCP/regs/compliance/posters/pdf/22-088_EEOC_KnowYourRights.pdf&quot; target=&quot;_blank&quot;&gt;Know Your Rights&lt;/a&gt; (Poster)&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Elasticsearch develops and distributes technology and information that is subject to U.S. and other countries’ export controls and licensing requirements for individuals who are located in or are nationals of the following sanctioned countries and regions: Belarus, Cuba, Iran, North Korea, Syria, or Russia, including the Ukrainian territories annexed by Russia (The Crimea region of Ukraine, The Donetsk People&#39;s Republic (DNR), The Luhansk People&#39;s Republic (LNR), Kherson or Zaporizhzhia). If you are located in or are a national of one of the listed countries or regions, an export license may be required as a condition of your employment in this role. Please note that national origin and/or nationality do not affect eligibility for employment with Elastic.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;Please see&amp;nbsp;&lt;a href=&quot;https://www.elastic.co/legal/applicant-privacy-statement&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://www.elastic.co/legal/applicant-privacy-statement&amp;amp;source=gmail&amp;amp;ust=1611068262479000&amp;amp;usg=AFQjCNG3orAPk5sJIr9WVm0ZDxYw82c5DA&quot;&gt;here&lt;/a&gt;&amp;nbsp;for our Privacy Statement.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 69103,
+      "name": "Obs - Application Observability",
+      "child_ids": [],
+      "parent_id": 69102
+    }
+  ],
+  "offices": [
+    {
+      "id": 80205,
+      "name": "Spain",
+      "location": null,
+      "child_ids": [
+        212141
+      ],
+      "parent_id": 80176
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

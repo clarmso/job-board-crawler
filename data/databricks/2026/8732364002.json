@@ -45,7 +45,10 @@
     {
       "id": 4001023002,
       "name": "University Recruiting",
-      "child_ids": [],
+      "child_ids": [
+        4143128002,
+        4143129002
+      ],
       "parent_id": null
     }
   ],

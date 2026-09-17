@@ -1,0 +1,97 @@
+{
+  "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=8207941&gh_jid=8207941",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "education": "education_optional",
+  "internal_job_id": 3552453,
+  "location": {
+    "name": "United States"
+  },
+  "metadata": [
+    {
+      "id": 32131013,
+      "name": "Requisition open date",
+      "value": "2026-09-16",
+      "value_type": "date"
+    },
+    {
+      "id": 168141,
+      "name": "Target Remote Countries / States Locations [For Job Wrapping]",
+      "value": [],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 33574685,
+      "name": "Types of Hiring",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 20164553,
+      "name": "FADV_Account",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 20164588,
+      "name": "FADV_Package",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 30595384,
+      "name": "Seniority",
+      "value": "Director",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8207941,
+  "updated_at": "2026-09-16T13:53:36-04:00",
+  "requisition_id": "R12364",
+  "title": "Sr. Director, Enterprise Data",
+  "company_name": "Elastic",
+  "first_published": "2026-09-16T13:43:31-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Elastic, the Search AI Company, enables everyone to find the answers they need in real time, using all their data, at scale — unleashing the potential of businesses and people. The Elastic Search AI Platform, used by more than 50% of the Fortune 500, brings together the precision of search and the intelligence of AI to enable everyone to accelerate the results that matter. By taking advantage of all structured and unstructured data — securing and protecting private information more effectively — Elastic’s complete, cloud-based solutions for search, security, and observability help organizations deliver on the promise of AI.&lt;/p&gt;&lt;/div&gt;&lt;h3&gt;&lt;strong&gt;What is The Role&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;We are seeking a visionary and execution-focused &lt;strong&gt;Senior Director of Enterprise Data&lt;/strong&gt; to lead the transformation and maturity of our data ecosystem. Having recently scaled to &lt;strong&gt;$2 billion in annual revenue&lt;/strong&gt;, we are actively building the infrastructure, governance, and operational models required to sustain our trajectory to &lt;strong&gt;$4 billion and beyond&lt;/strong&gt;.&lt;/p&gt;\n&lt;p&gt;In this role, reporting to the CIO, you will own the end-to-end data strategy, evolving our data platform architecture, scaling our Master Data Management (MDM) systems into an active operational hub, and institutionalizing federated data governance. You will bridge the gap between complex engineering and business execution, transforming data from a utility into a high-octane product that powers real-time decision-making, predictive analytics, agentic AI and operational efficiency across the global enterprise.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;What You Will Be Doing&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;Data Strategy &amp;amp; Platform Evolution&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Architect the Future:&lt;/strong&gt; Design, execute, and evolve a scalable data platform roadmap capable of handling a multi-billion dollar enterprise’s volume, velocity, and variety of data.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;De-bottleneck Legacy Infrastructure:&lt;/strong&gt; Transition our centralized pipelines into a modern, decoupled data architecture.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Data as a Product:&lt;/strong&gt; Implement a &quot;Data as a Product&quot; mindset across engineering teams, ensuring datasets have strict Service Level Objectives (SLOs), rigorous uptime, and high catalog discoverability.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Streaming &amp;amp; Real-Time Analytics:&lt;/strong&gt; Drive the evolution from purely batch-oriented processing to real-time event streaming for critical business domains like Engineering, Finance, and Customer Experience.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Enterprise Master Data Management (MDM)&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Build the Golden Record:&lt;/strong&gt; Evolve our current cross-referenced registry into a highly integrated, multi-domain operational MDM hub (Customer, Product, Vendor/Supplier).&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Operational Syncing:&lt;/strong&gt; Ensure mastered data seamlessly flows bidirectionally between analytic environments and core operational execution systems (ERP, CRM, eCommerce).&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;M&amp;amp;A Readiness:&lt;/strong&gt; Standardize ingestion frameworks to quickly harmonize data from future acquisitions or new business units without interrupting daily operations.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Data Governance, Quality, &amp;amp; Compliance&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Federated Governance:&lt;/strong&gt; Establish an enterprise-wide data governance council. Move governance away from gatekeeping and toward a collaborative data stewardship model owned by business units.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Automated Observability:&lt;/strong&gt; Implement modern, automated data lineage, cataloging, and quality testing tools to monitor data health and proactively catch pipeline degradation before it hits business dashboards.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Security &amp;amp; Compliance:&lt;/strong&gt; Partner with Security and Legal teams to ensure the enterprise data platform natively adheres to global regulatory frameworks (GDPR, CCPA, SOX) through robust RBAC/ABAC and automated data masking.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Team Leadership &amp;amp; Operating Model&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Scale the Organization:&lt;/strong&gt; Restructure and grow a high-performing data team consisting of data engineers, MDM specialists, platform architects, and data governance managers.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Centralized Infrastructure, Embedded Analytics:&lt;/strong&gt; Champion a hub-and-spoke operating model, providing a central platform layer while enabling embedded data analysts within business units to move fast safely.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Cultivate Data Ops:&lt;/strong&gt; Instill software engineering rigor into data workflows, including CI/CD deployment pipelines, infrastructure-as-code, and comprehensive automated test suites.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;What You Bring&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Proven Scale Experience:&lt;/strong&gt; Minimum of &lt;strong&gt;12+ years&lt;/strong&gt; of progressive leadership in data engineering, data architecture, or enterprise data management, with explicit experience inside an organization operating in a &lt;strong&gt;B2B environment&lt;/strong&gt; at a &lt;strong&gt;$1B to $5B+ revenue scale&lt;/strong&gt;.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Architectural Fluency:&lt;/strong&gt; Deep hands-on and strategic familiarity with modern cloud data stacks (e.g., Snowflake, Databricks, BigQuery, AWS/Azure data suites) and enterprise MDM platforms (e.g., Informatica, Reltio, Semarchy, Profisee).&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Change Management Mastery:&lt;/strong&gt; Documented success in leading complex corporate data migrations or massive MDM implementations across multi-business-unit enterprises.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Business Acumen:&lt;/strong&gt; Ability to translate complex technical jargon into clear business value, financial ROI, and strategic alignment for C-suite executives.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;People Leadership:&lt;/strong&gt; Minimum of 5 years managing manager-level and architect-level direct reports, with a track record of hiring, mentoring, and retaining top-tier engineering talent.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Bonus Points&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience navigating fast-paced, high-growth environments characterized by rapid organizational restructuring or frequent Mergers &amp;amp; Acquisitions (M&amp;amp;A).&lt;/li&gt;\n&lt;li&gt;Expertise in setting up a Data Mesh or federated data architecture in a hybrid or multi-cloud environment.&lt;/li&gt;\n&lt;li&gt;Active engagement or understanding of integrating AI/ML infrastructure readiness into core enterprise data platforms.&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;br&gt;Compensation for this role is in the form of base salary.&amp;nbsp; This role does not have a variable compensation component.&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The typical starting salary range for new hires in this role is listed below.&amp;nbsp; In select locations (including Seattle WA, Los Angeles CA, the San Francisco Bay Area CA, and the New York City Metro Area), an alternate range may apply as specified below.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;These ranges represent &lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;the lowest to highest salary we reasonably and in good faith believe we would pay for this role at the time of this posting.&amp;nbsp; We may ultimately pay more or less than the posted range, and the ranges may be modified in the future.&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;An employee&#39;s position within the salary range will be based on several factors including, but not limited to, relevant education, qualifications, certifications, experience, skills, geographic location, performance, and business or organizational needs.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Elastic believes that employees should have the opportunity to share in the value that we create together for our shareholders. Therefore, in addition to cash compensation, this role is currently eligible to participate in Elastic&#39;s stock program.&amp;nbsp; Our total rewards package also includes a company-matched 401k with dollar-for-dollar matching up to 6% of eligible earnings, along with a range of other benefits offered with a holistic emphasis on employee well-being.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;The typical starting salary range for this role is:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$212,100&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$335,600 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;title&quot;&gt;The typical starting salary range for this role in the select locations listed above is:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$254,900&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$403,200 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;Additional Information - We Take Care of Our People&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;As a distributed company, diversity drives our identity. Whether you’re looking to launch a new career or grow an existing one, Elastic is the type of company where you can balance great work with great life. Your age is only a number. It doesn’t matter if you’re just out of college or your children are; we need you for what you can do.&lt;/p&gt;\n&lt;p&gt;We strive to have parity of benefits across regions and while regulations differ from place to place, we believe taking care of our people is the right thing to do.&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Competitive pay based on the work you do here and not your previous salary&lt;/li&gt;\n&lt;li&gt;Health coverage for you and your family in many locations&lt;/li&gt;\n&lt;li&gt;Ability to craft your calendar with flexible locations and schedules for many roles&lt;/li&gt;\n&lt;li&gt;Generous number of vacation days each year&lt;/li&gt;\n&lt;li&gt;Increase your impact - We match up to $2000 (or local currency equivalent) for financial donations and service&lt;/li&gt;\n&lt;li&gt;Up to 40 hours each year to use toward volunteer projects you love&lt;/li&gt;\n&lt;li&gt;Embracing parenthood with minimum of 16 weeks of parental leave&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Different people approach problems differently. We need that. Elastic is an equal opportunity employer and is committed to creating an inclusive culture that celebrates different perspectives, experiences, and backgrounds. Qualified applicants will receive consideration for employment without regard to race, ethnicity, color, religion, sex, pregnancy, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, disability status, or any other basis protected by federal, state or local law, ordinance or regulation.&lt;/p&gt;\n&lt;p&gt;We welcome individuals with disabilities and strive to create an accessible and inclusive experience for all individuals. To request an accommodation during the application or the recruiting process, please email &lt;a href=&quot;mailto:candidate_accessibility@elastic.co&quot; target=&quot;_blank&quot;&gt;candidate_accessibility@elastic.co&lt;/a&gt;&lt;span class=&quot;gmail_default&quot;&gt;.&lt;/span&gt;&amp;nbsp;We will reply to your request within 24 business hours of submission.&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Applicants have rights under Federal Employment Laws, view posters linked below:&lt;/span&gt; &lt;a href=&quot;https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/fmlaen.pdf&quot; target=&quot;_blank&quot;&gt;Family and Medical Leave Act (FMLA)&lt;/a&gt; &lt;span style=&quot;color: #000000;&quot;&gt;Poster;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&amp;nbsp;&lt;a href=&quot;https://www.dol.gov/sites/dolgov/files/ofccp/pdf/pay-transp_%20English_formattedESQA508c.pdf&quot; target=&quot;_blank&quot;&gt;Pay Transparency Nondiscrimination Provision&lt;/a&gt; Poster; &lt;/span&gt;&lt;a href=&quot;https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/eppabw.pdf&quot; target=&quot;_blank&quot;&gt;Employee Polygraph Protection Act (EPPA)&lt;/a&gt; &lt;span style=&quot;color: #000000;&quot;&gt;Poster and &lt;a href=&quot;https://www.dol.gov/sites/dolgov/files/OFCCP/regs/compliance/posters/pdf/22-088_EEOC_KnowYourRights.pdf&quot; target=&quot;_blank&quot;&gt;Know Your Rights&lt;/a&gt; (Poster)&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Elasticsearch develops and distributes technology and information that is subject to U.S. and other countries’ export controls and licensing requirements for individuals who are located in or are nationals of the following sanctioned countries and regions: Belarus, Cuba, Iran, North Korea, Syria, or Russia, including the Ukrainian territories annexed by Russia (The Crimea region of Ukraine, The Donetsk People&#39;s Republic (DNR), The Luhansk People&#39;s Republic (LNR), Kherson or Zaporizhzhia). If you are located in or are a national of one of the listed countries or regions, an export license may be required as a condition of your employment in this role. Please note that national origin and/or nationality do not affect eligibility for employment with Elastic.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;Please see&amp;nbsp;&lt;a href=&quot;https://www.elastic.co/legal/applicant-privacy-statement&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://www.elastic.co/legal/applicant-privacy-statement&amp;amp;source=gmail&amp;amp;ust=1611068262479000&amp;amp;usg=AFQjCNG3orAPk5sJIr9WVm0ZDxYw82c5DA&quot;&gt;here&lt;/a&gt;&amp;nbsp;for our Privacy Statement.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 33961,
+      "name": "IT",
+      "child_ids": [],
+      "parent_id": 53542
+    }
+  ],
+  "offices": [
+    {
+      "id": 73204,
+      "name": "United States",
+      "location": null,
+      "child_ids": [
+        51927,
+        69277,
+        85933,
+        87403,
+        20729,
+        20746,
+        20743,
+        44935,
+        44931,
+        44937,
+        44936
+      ],
+      "parent_id": 79984
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

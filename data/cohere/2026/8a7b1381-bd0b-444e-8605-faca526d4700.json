@@ -1,6 +1,6 @@
 {
   "id": "8a7b1381-bd0b-444e-8605-faca526d4700",
-  "title": "People Systems and Automation Manager",
+  "title": "Manager, People Systems and Automation",
   "department": "People Operations",
   "team": "People Operations",
   "employmentType": "FullTime",
@@ -54,15 +54,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "3bb1faa4-9198-43f5-bfa3-bc261f5f2bc0",
-            "summary": "$120K – $195K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "USD",
-            "minValue": 120000,
-            "maxValue": 195000
-          },
-          {
             "id": "3869067d-df3f-4250-a9e0-c3683ace1602",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
@@ -70,6 +61,15 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "3bb1faa4-9198-43f5-bfa3-bc261f5f2bc0",
+            "summary": "$120K – $195K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 120000,
+            "maxValue": 195000
           }
         ]
       },
@@ -80,15 +80,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "150c25df-7c6e-4848-b707-0ab5bb2ffd36",
-            "summary": "$95K – $155K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "USD",
-            "minValue": 95000,
-            "maxValue": 155000
-          },
-          {
             "id": "ab758f65-34e6-4f17-bdf4-21e227ae87df",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
@@ -96,6 +87,15 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "150c25df-7c6e-4848-b707-0ab5bb2ffd36",
+            "summary": "$95K – $155K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 95000,
+            "maxValue": 155000
           }
         ]
       },
@@ -128,17 +128,17 @@
     ],
     "summaryComponents": [
       {
+        "compensationType": "EquityPercentage",
+        "minValue": null,
+        "maxValue": null,
+        "interval": "1 YEAR"
+      },
+      {
         "minValue": 95000,
         "maxValue": 195000,
         "currencyCode": "USD",
         "interval": "1 YEAR",
         "compensationType": "Salary"
-      },
-      {
-        "compensationType": "EquityPercentage",
-        "minValue": null,
-        "maxValue": null,
-        "interval": "1 YEAR"
       }
     ]
   }

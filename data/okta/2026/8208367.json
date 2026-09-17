@@ -1,0 +1,96 @@
+{
+  "absolute_url": "https://www.okta.com/company/careers/opportunity/8208367?gh_jid=8208367",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 3552620,
+  "location": {
+    "name": "Toronto, Ontario, Canada"
+  },
+  "metadata": [
+    {
+      "id": 58735330,
+      "name": "Naukri Job URL",
+      "value": null,
+      "value_type": "long_text"
+    },
+    {
+      "id": 58735350,
+      "name": "Naukri Job Error",
+      "value": null,
+      "value_type": "long_text"
+    },
+    {
+      "id": 58735367,
+      "name": "Minimum Salary",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735368,
+      "name": "Maximum Salary",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735369,
+      "name": "Minimum Work Experience",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735370,
+      "name": "Maximum Work Experience",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735384,
+      "name": "City",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 58735385,
+      "name": "Job Description",
+      "value": null,
+      "value_type": "long_text"
+    }
+  ],
+  "id": 8208367,
+  "updated_at": "2026-09-16T18:34:27-04:00",
+  "requisition_id": "P25831_3552620",
+  "title": "Staff Fullstack Engineer, SecureAI",
+  "company_name": "Okta",
+  "first_published": "2026-09-16T18:34:27-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Secure Every Identity, from AI to Human&lt;br&gt;&lt;br&gt;&lt;/strong&gt;Identity is the key to unlocking the potential of AI. Okta secures AI by building the trusted, neutral infrastructure that enables organizations to safely embrace this new era. This work requires a relentless drive to solve complex challenges with real-world stakes. We are looking for builders and owners who operate with speed and urgency and execute with excellence.&lt;br&gt;&lt;br&gt;This is an opportunity to do career-defining work. We&#39;re all in on this mission. If you are too, let&#39;s talk.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;About Okta Secures AI Team&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;The Okta for AI Agents Team is building the future of digital identity management. The way companies are using agents and allowing them access is undergoing a fundamental shift, enabling teams to move fast while staying secure.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Our North Star is clear: To get AI right, you have to get identity right. We are not just managing identities; we are building the industry&#39;s first Identity Security Fabric for the agentic era. As organizations rapidly deploy AI, these non-human entities are acting with access to critical tools, often bypassing traditional perimeters and creating a &#39;Shadow AI&#39; crisis. Our mission is to move identity from a reactive gatekeeper to a unified control plane, transforming AI risk into business ROI.&lt;/p&gt;\n&lt;p&gt;We are tackling this by implementing a comprehensive four-pillar maturity model: Discover, Onboard, Protect, and Govern. We are driving innovation by defining the standards for Agentic Identity—including pioneer work with securing AI Agents and support for protocols like MCP. You will be helping us build the infrastructure that allows enterprises to scale AI safely, ensuring every access decision—whether made by a human or an automated agent—is authenticated, authorized, and audited at scale.&lt;/p&gt;\n&lt;p&gt;We are a diverse team of engineers, product managers, and designers who are bringing Okta’s expertise in identity to define the future of Agent Identity management, focusing on enablement while staying secure.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;About the role&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;As a Staff Fullstack Engineer on the Okta Secures AI team, your mission is to build the industry&#39;s first Identity Security Fabric for the agentic era. You will be working on the designs and driving of our unified control plane features, ensuring that we operationalize our North Star: &quot;To get AI right, you have to get identity right.&quot;&lt;/p&gt;\n&lt;p&gt;As a true full-stack role, you will actively design, build, and maintain both robust backend services and intuitive frontend interfaces. This role requires deep expertise in distributed systems and a commitment to AI-native engineering as our standard. You will rethink backend design, validation, and delivery through AI-augmented workflows, ensuring our platform provides secure, interoperable, and scalable access—enforcing the principle of least privilege for every agent action.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What you’ll be doing&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Proactively shape the technical strategy of the Identity Security Fabric, partnering with leadership to prioritize the work streams for securing AI Agents.&lt;/li&gt;\n&lt;li&gt;Build the Runtime Policy Decision Point (PDP). Implement the request-time authorization engine at the Agent Gateway and at the agent to resource connection level to intercept and evaluate every agent request against per-agent, per-tool, and per-resource rules.&lt;/li&gt;\n&lt;li&gt;Design and support authoring from a policy engine like Cedar, schema validation, and evaluation—connecting the admin console&#39;s no-code UI builder output with direct API-published policies.&lt;/li&gt;\n&lt;li&gt;Develop the logic to validate which employees a delegated agent is permitted to represent and securely forward the acting user&#39;s identity to downstream resources.&lt;/li&gt;\n&lt;li&gt;Develop Comprehensive Audit Logging. Build secure logging mechanisms to record the outcome of every request (allow or deny) along with the specific rule or reason behind the decision.&lt;/li&gt;\n&lt;li&gt;Drive continual evolution in the adoption of AI-native development practices, helping the team rethink how we design, review, and ship software with AI as a core part of the workflow.&lt;/li&gt;\n&lt;li&gt;Proactively identify and prioritize tech debt; drive improvements in areas beyond feature work - CI/CD, observability, documentation, reliability, and support processes.&lt;/li&gt;\n&lt;li&gt;Partner with Product and Design to understand and own the desired customer outcome, not just the technical deliverable.&lt;/li&gt;\n&lt;li&gt;Actively invest in the growth of peer engineers, taking responsibility for raising the technical bar of the team as a whole.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;What you’ll bring to the role&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Operates well beyond basic AI tool usage - understands how to apply AI meaningfully across the full software development lifecycle, can evaluate and adopt new AI tooling with good judgment, and is able to establish practices and bring a team along.&lt;/li&gt;\n&lt;li&gt;Proven experience defining scalable backend architectures and integrating complex APIs with modern web technologies - including the ability to make and defend architectural decisions with lasting org-wide impact.&lt;/li&gt;\n&lt;li&gt;Solid understanding of web authentication and authorization fundamentals - how auth flows work, and best practices for securing sensitive user data.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Architectural expertise: Proven experience defining scalable backend architectures and integrating complex APIs with modern web technologies, including making decisions with lasting, org-wide impact.&lt;/li&gt;\n&lt;li&gt;Backend proficiency: Deep expertise in building reliable, secure, enterprise-grade software in Java or another type-safe language.&lt;/li&gt;\n&lt;li&gt;Frontend flexibility: High proficiency in JavaScript/TypeScript with true fullstack range, including the ability to ship robust frontends.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Prior experience leading a team of engineers through a meaningful shift in ways of working - whether around AI adoption, developer tooling, or engineering culture change is a strong plus.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Extra credit&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience with identity, authorization, or IAM protocols&amp;nbsp; (e.g., OAuth, OIDC, SAML)&lt;/li&gt;\n&lt;li&gt;Work with agent frameworks, AI-facing APIs, or developer toolchains in the LLM space&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Education and Experience:Bachelor’s or Master&#39;s degree in Computer Science or related fieldAt least 8 years of experience in full-stack software engineering, spanning both backend and frontend development.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;small&gt;(P25831_3552620)&lt;/small&gt;&lt;/p&gt;\n&lt;p&gt;#LI-Hybrid&lt;/p&gt;\n&lt;p&gt;#Li-BB1&lt;/p&gt;\n&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Below is the annual salary range for candidates located in Canada. Your actual salary will depend on factors such as your skills, qualifications, and experience. In addition, Okta offers equity (where applicable), bonus, and benefits, including health, dental, and vision insurance, RRSP with a match, healthcare spending, telemedicine, and paid leave (including PTO and parental leave) in accordance with our applicable plans and policies. To learn more about our Total Rewards program, please visit:&amp;nbsp;&lt;a href=&quot;https://rewards.okta.com/can&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://rewards.okta.com/can&amp;amp;source=gmail&amp;amp;ust=1705181614985000&amp;amp;usg=AOvVaw29oi6BOXve4rhySFpzzvao&quot;&gt;https://rewards.okta.com/can&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;The annual base salary range for this position for candidates located in Canada is between:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$160,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$220,000 CAD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;The Okta Experience&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;a href=&quot;http://rewards.okta.com&quot;&gt;Supporting Your Well-Being&lt;/a&gt;&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;&lt;a href=&quot;https://www.okta.com/company/okta-for-good/&quot;&gt;Driving Social Impact&amp;nbsp;&lt;/a&gt;&lt;/li&gt;\n&lt;li&gt;&lt;a href=&quot;https://www.okta.com/company/talent-connection-community/&quot;&gt;Developing Talent and Fostering Connection + Community&lt;/a&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;We are intentional about connection. Our global community, spanning over 20 offices worldwide, is united by a drive to innovate. Your journey begins with an immersive, in-person onboarding experience designed to accelerate your impact and connect you to our mission and team from day one.&lt;br&gt;&lt;br&gt;Okta is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, marital status, age, physical or mental disability, or status as a protected veteran. We also consider for employment qualified applicants with arrest and convictions records, consistent with applicable laws.&lt;br&gt;&lt;br&gt;If reasonable accommodation is needed to complete any part of the job application, interview process, or onboarding please&amp;nbsp;&lt;a href=&quot;https://docs.google.com/forms/d/1EfiEYZrIyhA2X4Fijk0R3RKYOzNoS3wtvyM4nhbZnXE/edit&quot;&gt;use this Form&lt;/a&gt; to request an accommodation.&lt;br&gt;&lt;br&gt;Notice for New York City Applicants &amp;amp; Employees: Okta may use Automated Employment Decision Tools (AEDT), as defined by New York City Local Law 144, that use artificial intelligence, machine learning, or other automated processes to assist in our recruitment and hiring process. In accordance with NYC Local Law 144, if you are an applicant or employee residing in New York City, please&amp;nbsp;&lt;a href=&quot;https://talent.okta.com/new-york-city-aedt-notice.html&quot;&gt;click here&lt;/a&gt; to view our full NYC AEDT Notice.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 44028,
+      "name": "SW Eng - Applications-674",
+      "child_ids": [],
+      "parent_id": 396304
+    }
+  ],
+  "offices": [
+    {
+      "id": 19614,
+      "name": "Toronto",
+      "location": "Toronto, ON, Canada",
+      "child_ids": [],
+      "parent_id": 67251
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

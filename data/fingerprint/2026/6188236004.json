@@ -1,0 +1,56 @@
+{
+  "absolute_url": "https://fingerprint.com/careers/jobs/apply/?gh_jid=6188236004",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 5213052004,
+  "location": {
+    "name": "Remote"
+  },
+  "metadata": [
+    {
+      "id": 4248909004,
+      "name": "Employment Type",
+      "value": "Full-time",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 6188236004,
+  "updated_at": "2026-09-16T15:52:04-04:00",
+  "requisition_id": "ENG27-07",
+  "title": "Senior Data Warehouse Engineer",
+  "company_name": "Fingerprint",
+  "first_published": "2026-09-16T15:52:03-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Fingerprint&lt;/strong&gt; empowers enterprises to detect and stop online fraud with the world’s most accurate device intelligence.&amp;nbsp; We lead our industry with bleeding-edge identification capabilities and work on turning new ideas and discoveries in the fraud detection space into reality. Our customers range from innovative startups to leading enterprise companies, including Plaid, Dropbox, and Booking.com.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Fingerprint is a globally dispersed, 100% remote company.&lt;/strong&gt; We were named on on the 2026 Forbes Best Startup Employers list and ranked #803 on the 2026 Inc. 5000 list of America’s fastest-growing private companies.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;a href=&quot;https://www.crunchbase.com/organization/fingerprintjs&quot;&gt;We have raised $77M &lt;/a&gt;and are backed by Craft Ventures (&lt;a href=&quot;https://www.tesla.com/&quot;&gt;Tesla, &lt;/a&gt;&lt;a href=&quot;https://facebook.com/&quot;&gt;Facebook, &lt;/a&gt;&lt;a href=&quot;https://www.airbnb.com/&quot;&gt;Airbnb &lt;/a&gt;), Nexus Venture Partners ( &lt;a href=&quot;https://www.postman.com/&quot;&gt;Postman&lt;/a&gt;, &lt;a href=&quot;https://www.apollo.io/&quot;&gt;Apollo.io,&lt;/a&gt; &lt;a href=&quot;https://min.io/&quot;&gt;MinIO&lt;/a&gt;, Druva) and Uncorrelated Ventures ( &lt;a href=&quot;https://redis.io/&quot;&gt;Redis, &lt;/a&gt;&lt;a href=&quot;https://rollbar.com/&quot;&gt;Rollbar, &lt;/a&gt;&lt;a href=&quot;https://gradle.org/&quot;&gt;&amp;nbsp;Gradle&lt;/a&gt;).&lt;/p&gt;\n&lt;hr&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;At Fingerprint, we’re redefining online security and identity verification through cutting-edge technology and data-driven insights. As a&lt;strong&gt; Senior Data Warehouse Engineer&lt;/strong&gt;, you’ll play a key role in shaping the data backbone that powers our industry-leading platform.&lt;/p&gt;\n&lt;p&gt;We’re looking for a collaborative, self-starter with a passion for data engineering and a knack for building efficient, scalable data pipelines and warehouses. In this role, you’ll work closely with data scientists, analysts, and engineers to design and implement robust solutions that drive smarter decision-making and fuel innovation.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Responsibilities:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Architect and build scalable, high-performance data warehouse solutions that empower analytics and operational excellence across our platform.&lt;/li&gt;\n&lt;li&gt;Develop and maintain reliable, well-documented data pipelines and ELT processes, ensuring data quality and consistency.&lt;/li&gt;\n&lt;li&gt;Continuously tune and optimize data warehouse performance—partitioning, indexing, and query optimization are your bread and butter.&lt;/li&gt;\n&lt;li&gt;Partner with data analysts and scientists to transform raw data into insightful, actionable analytics and machine learning models.&lt;/li&gt;\n&lt;li&gt;Troubleshoot, monitor, and refine our data warehouse infrastructure, balancing speed and cost efficiency.&lt;/li&gt;\n&lt;li&gt;Foster a data-driven culture by sharing best practices and championing clean, well-structured data.&lt;/li&gt;\n&lt;li&gt;Work with modern cloud-based data warehouses like ClickHouse and ensure seamless integration with our services.&lt;/li&gt;\n&lt;li&gt;Contribute to the development of new developer-facing data tools that empower teams across the company.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Qualifications:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;A team player who loves collaborating in a tight-knit, cross-functional team.&lt;/li&gt;\n&lt;li&gt;A high degree of ownership and autonomy, with a proven ability to thrive in ambiguous environments.&lt;/li&gt;\n&lt;li&gt;Strong communication skills in English to navigate our global, remote team.&lt;/li&gt;\n&lt;li&gt;Extensive experience designing, implementing, and optimizing data warehouses in cloud environments (AWS, GCP, etc.).&lt;/li&gt;\n&lt;li&gt;Hands-on expertise with data modeling and transformation tools like dbt.&lt;/li&gt;\n&lt;li&gt;Excellent SQL skills and familiarity with modern columnar storage data warehouses (e.g., ClickHouse, Databricks, BigQuery, or Snowflake).&lt;/li&gt;\n&lt;li&gt;Experience with data pipeline orchestration tools like Prefect or Airflow.&lt;/li&gt;\n&lt;li&gt;Familiarity with BI tools (e.g., Apache Superset, Sigma, Tableau, Looker) is a plus.&lt;/li&gt;\n&lt;li&gt;A solid foundation in software engineering best practices: version control, code reviews, testing, and automation.&lt;/li&gt;\n&lt;li&gt;Exposure to infrastructure-as-code tools (like Terraform) and a DevOps mindset is a bonus.&lt;/li&gt;\n&lt;li&gt;Bonus points for scripting/automation experience in Bash, Python, or Go.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Technologies You’ll Work With:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Data Warehouses:&lt;/strong&gt; ClickHouse, Redshift&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Data Streaming:&lt;/strong&gt; Confluent Kafka&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Data Transformation:&lt;/strong&gt; dbt, SQL&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Data Orchestration:&lt;/strong&gt; Prefect&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Infrastructure:&lt;/strong&gt; AWS, Terraform&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Visualization:&lt;/strong&gt; Apache Superset, Sigma&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;em&gt;&lt;strong&gt;Compensation &amp;amp; Transparency&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;For US-based employees, the cash compensation range for this role is $152,000 – $205,000. We set standard ranges for all US roles based on function, level, and geographic location, benchmarked against similar stage growth companies. To comply with local legislation and provide greater transparency, we share salary ranges on all job postings. However, these ranges are specific to the hiring location and may differ within or outside the US. Offers vary depending on, but not limited to, relevant experience, education, certifications/licenses, skills, training, and market conditions.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;Due to regulatory and security reasons, there&#39;s a small number of countries where we cannot have Fingerprint teammates based. Additionally, because Fingerprint is an all-remote company and people can join our workforce from almost any country, we do not sponsor visas. Fingerprint teammates need to be authorized to work from their home location.&lt;/p&gt;\n&lt;p&gt;We are dedicated to creating an inclusive work environment for everyone. We embrace and celebrate the unique experiences, perspectives and cultural backgrounds that each employee brings to our workplace. Fingerprint strives to foster an environment where our employees feel respected, valued and empowered, and our team members are at the forefront in helping us promote and sustain an inclusive workplace. We highly encourage people from underrepresented groups in tech to apply.&lt;/p&gt;\n&lt;p&gt;If you are applying as a resident of California, please read our CCPA notice &lt;a href=&quot;https://dev.fingerprint.com/docs/dpa-ccpa&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;If you are applying as a resident of the EU, please read our GDPR notice &lt;a href=&quot;https://dev.fingerprint.com/docs/dpa-gdpr&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;We have noticed a rise in recruiting impersonations across the industry, where scammers attempt to access candidates&#39; personal and financial information through fake interviews and offers. All Fingerprint recruiting email communications will always come from the @&lt;a href=&quot;http://fingerprint.com&quot;&gt;fingerprint.com&lt;/a&gt; domain. Any outreach claiming to be from Fingerprint via other sources should be ignored.*&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;Due to regulatory and security reasons, there’s a small number of countries where we cannot have Fingerprint teammates based. Additionally, because Fingerprint is an all-remote company and people can join our workforce from almost any country, we do not sponsor visas. Fingerprint teammates need to be authorized to work from their home location.&lt;/p&gt;\n&lt;p&gt;We are dedicated to creating an inclusive work environment for everyone. We embrace and celebrate the unique experiences, perspectives and cultural backgrounds that each employee brings to our workplace. Fingerprint strives to foster an environment where our employees feel respected, valued and empowered, and our team members are at the forefront in helping us promote and sustain an inclusive workplace. We highly encourage people from underrepresented groups in tech to apply.&lt;/p&gt;\n&lt;p&gt;If you are applying as a resident of California, please read our CCPA notice &lt;a href=&quot;https://dev.fingerprint.com/docs/dpa-ccpa&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;If you are applying as a resident of the EU, please read our GDPR notice &lt;a href=&quot;https://dev.fingerprint.com/docs/dpa-gdpr&quot;&gt;here.&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;**We have noticed a rise in recruiting impersonations across the industry, where scammers attempt to access candidates&#39; personal and financial information through fake interviews and offers. All Fingerprint recruiting email communications will always come from the @fingerprint.com domain. Any outreach claiming to be from Fingerprint via other sources should be ignored.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4025884004,
+      "name": "Engineering",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 4012422004,
+      "name": "Remote",
+      "location": "Remote",
+      "child_ids": [
+        4022054004
+      ],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": "http://app4.greenhouse.io/ai_opt_out_request/job_post/6188236004/ai_opt_out"
+}
