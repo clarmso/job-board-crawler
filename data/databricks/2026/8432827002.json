@@ -31,7 +31,7 @@
     }
   ],
   "id": 8432827002,
-  "updated_at": "2026-09-02T01:46:21-04:00",
+  "updated_at": "2026-09-17T03:58:49-04:00",
   "requisition_id": "CSQ227R36",
   "title": "Forward Deployed Engineer",
   "company_name": "Databricks",
@@ -49,10 +49,12 @@
   ],
   "offices": [
     {
-      "id": 4056344002,
-      "name": "Remote - India",
-      "location": "Remote - India",
-      "child_ids": [],
+      "id": 4056341002,
+      "name": "Karnataka, India",
+      "location": "Karnataka, India",
+      "child_ids": [
+        4007112002
+      ],
       "parent_id": 4033855002
     }
   ],
