@@ -84,26 +84,78 @@ def _added_data_files():
     return sorted(path for path in added if os.path.exists(path))
 
 
+def _mode_from_text(text):
+    """Best-effort guess of workplace mode from a free-text location string."""
+    if not text:
+        return ""
+    lowered = text.lower()
+    if "remote" in lowered:
+        return "Remote"
+    if "hybrid" in lowered:
+        return "Hybrid"
+    return "On-site"
+
+
+def _normalize_mode(raw):
+    """Normalize an ATS-provided workplace-type value to Remote/Hybrid/On-site."""
+    if not raw:
+        return ""
+    lowered = str(raw).lower()
+    if "remote" in lowered:
+        return "Remote"
+    if "hybrid" in lowered:
+        return "Hybrid"
+    if lowered in ("onsite", "on-site", "office"):
+        return "On-site"
+    return str(raw).title()
+
+
 def _extract(platform, job):
-    """Return (title, url, company_name) normalized across ATS platforms."""
+    """Return (title, url, company_name, location, mode) normalized across ATS platforms.
+
+    `location` is a human-readable string and `mode` is one of
+    "Remote" / "Hybrid" / "On-site" (or "" when unknown).
+    """
     if platform == "greenhouse":
-        return job.get("title"), job.get("absolute_url"), job.get("company_name")
+        location = (job.get("location") or {}).get("name", "")
+        return (
+            job.get("title"), job.get("absolute_url"), job.get("company_name"),
+            location, _mode_from_text(location),
+        )
     if platform == "lever":
-        return job.get("text"), job.get("hostedUrl"), None
+        categories = job.get("categories") or {}
+        location = categories.get("location") or ", ".join(categories.get("allLocations") or [])
+        mode = _normalize_mode(job.get("workplaceType")) or _mode_from_text(location)
+        return job.get("text"), job.get("hostedUrl"), None, location, mode
     if platform == "ashby":
-        return job.get("title"), job.get("jobUrl"), None
+        location = job.get("location", "")
+        mode = _normalize_mode(job.get("workplaceType")) or _mode_from_text(location)
+        return job.get("title"), job.get("jobUrl"), None, location, mode
     if platform == "workable":
-        return job.get("title"), job.get("url"), None
+        location = ", ".join(part for part in (job.get("city"), job.get("state"), job.get("country")) if part)
+        mode = "Remote" if job.get("telecommuting") else _mode_from_text(location) or "On-site"
+        return job.get("title"), job.get("url"), None, location, mode
     if platform == "smartrecruiters":
         company = job.get("company", {})
         identifier = company.get("identifier")
         url = f"https://jobs.smartrecruiters.com/{identifier}/{job.get('id')}" if identifier else None
-        return job.get("name"), url, company.get("name")
+        loc = job.get("location") or {}
+        location = loc.get("fullLocation") or loc.get("city", "")
+        if loc.get("remote"):
+            mode = "Remote"
+        elif loc.get("hybrid"):
+            mode = "Hybrid"
+        else:
+            mode = "On-site"
+        return job.get("name"), url, company.get("name"), location, mode
     if platform == "gem":
-        return job.get("title"), job.get("absolute_url"), None
+        location = (job.get("location") or {}).get("name", "")
+        mode = _normalize_mode(job.get("location_type")) or _mode_from_text(location)
+        return job.get("title"), job.get("absolute_url"), None, location, mode
     if platform == "rippling":
-        return job.get("name"), job.get("url"), job.get("companyName")
-    return None, None, None
+        location = ", ".join(job.get("workLocations") or [])
+        return job.get("name"), job.get("url"), job.get("companyName"), location, _mode_from_text(location)
+    return None, None, None, "", ""
 
 
 def _display_name(slug, extracted_name):
@@ -133,12 +185,12 @@ def _build_manifest():
         except (OSError, json.JSONDecodeError):
             continue
 
-        title, url, name = _extract(platform, job)
+        title, url, name, location, mode = _extract(platform, job)
         if not title or not url:
             continue
 
         entry = companies.setdefault(slug, {"name": _display_name(slug, name), "jobs": []})
-        entry["jobs"].append({"title": title, "url": url})
+        entry["jobs"].append({"title": title, "url": url, "location": location, "mode": mode})
 
     return {
         "generated_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
@@ -239,6 +291,23 @@ HTML_TEMPLATE = """<!DOCTYPE html>
     text-decoration: none;
   }}
   .company a:hover {{ color: var(--accent); text-decoration: underline; }}
+  .job-meta {{
+    color: var(--muted);
+    font-size: 0.85rem;
+    margin-left: 0.5rem;
+    white-space: nowrap;
+  }}
+  .job-mode {{
+    display: inline-block;
+    margin-left: 0.4rem;
+    padding: 0.05rem 0.5rem;
+    border-radius: 999px;
+    border: 1px solid var(--border);
+    font-size: 0.75rem;
+  }}
+  .job-mode.remote {{ color: #047857; border-color: #a7f3d0; background: #ecfdf5; }}
+  .job-mode.hybrid {{ color: #b45309; border-color: #fde68a; background: #fffbeb; }}
+  .job-mode.on-site {{ color: #4338ca; border-color: #c7d2fe; background: #eef2ff; }}
   #empty {{
     color: var(--muted);
     padding: 2rem 0;
@@ -274,6 +343,25 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 """
 
 
+def _render_job_item(job):
+    title = html.escape(job["title"])
+    url = html.escape(job["url"])
+    location = job.get("location") or ""
+    mode = job.get("mode") or ""
+
+    meta_parts = []
+    if location:
+        meta_parts.append(html.escape(location))
+    if mode:
+        mode_class = mode.lower().replace(" ", "-")
+        meta_parts.append(f'<span class="job-mode {mode_class}">{html.escape(mode)}</span>')
+    meta = f'<span class="job-meta">{" &middot; ".join(meta_parts)}</span>' if meta_parts else ""
+
+    return (
+        f'        <li><a href="{url}" target="_blank" rel="noopener noreferrer">{title}</a>{meta}</li>'
+    )
+
+
 def _render_html(manifest):
     generated = datetime.strptime(manifest["generated_at"], "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)
     total = manifest["total_new_jobs"]
@@ -302,10 +390,7 @@ def _render_html(manifest):
 
         sections = []
         for c in companies:
-            job_items = "\n".join(
-                f'        <li><a href="{html.escape(j["url"])}" target="_blank" rel="noopener noreferrer">{html.escape(j["title"])}</a></li>'
-                for j in c["jobs"]
-            )
+            job_items = "\n".join(_render_job_item(j) for j in c["jobs"])
             sections.append(
                 f'    <section class="company" id="company-{html.escape(c["slug"])}">\n'
                 f'      <h2>{html.escape(c["name"])} <span class="count">({len(c["jobs"])})</span></h2>\n'
