@@ -12,11 +12,11 @@
   ],
   "internal_job_id": 5206203004,
   "location": {
-    "name": "Remote - Americas"
+    "name": "Remote - Americas, EMEA"
   },
   "metadata": null,
   "id": 6167250004,
-  "updated_at": "2026-09-03T16:24:28-04:00",
+  "updated_at": "2026-09-18T07:01:10-04:00",
   "requisition_id": "N260236 tibor",
   "title": "Senior DevOps Engineer",
   "company_name": "Alpaca ",
@@ -38,6 +38,13 @@
     }
   ],
   "offices": [
+    {
+      "id": 4031050004,
+      "name": "Remote - EMEA",
+      "location": "Remote - EMEA",
+      "child_ids": [],
+      "parent_id": null
+    },
     {
       "id": 4031051004,
       "name": "Remote - United States",
