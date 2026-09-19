@@ -74,13 +74,21 @@
     {
       "id": 5525802,
       "name": "Baseline Budgeted Salary",
-      "value": null,
+      "value": {
+        "unit": "USD",
+        "max_value": "165000.0",
+        "min_value": "115000.0"
+      },
       "value_type": "currency_range"
     },
     {
       "id": 5525816,
       "name": "Other Large Market Budgeted Salary",
-      "value": null,
+      "value": {
+        "unit": "USD",
+        "max_value": "140000.0",
+        "min_value": "98000.0"
+      },
       "value_type": "currency_range"
     },
     {
@@ -88,7 +96,7 @@
       "name": "Job Post Range (United States)",
       "value": {
         "unit": "USD",
-        "max_value": "165000.0",
+        "max_value": "182000.0",
         "min_value": "92000.0"
       },
       "value_type": "currency_range"
@@ -117,7 +125,7 @@
     }
   ],
   "id": 8121597,
-  "updated_at": "2026-09-16T13:28:52-04:00",
+  "updated_at": "2026-09-18T15:10:23-04:00",
   "requisition_id": "3273517679",
   "title": "Growth Marketing Senior Manager",
   "company_name": "MongoDB",
@@ -135,9 +143,9 @@
   ],
   "offices": [
     {
-      "id": 95842,
-      "name": "Tysons",
-      "location": "Tysons, Virginia, United States",
+      "id": 4306,
+      "name": "Dallas",
+      "location": "Dallas, TX, United States",
       "child_ids": [],
       "parent_id": 23657
     }

@@ -4,16 +4,37 @@
   "department": "R&D",
   "team": "Design",
   "employmentType": "FullTime",
-  "location": "United States (Remote)",
+  "location": "Austin, TX (Remote)",
   "shouldDisplayCompensationOnJobPostings": true,
-  "secondaryLocations": [],
+  "secondaryLocations": [
+    {
+      "location": "San Francisco, CA (Remote)",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "California ",
+          "addressCountry": "United States",
+          "addressLocality": "San Francisco "
+        }
+      }
+    },
+    {
+      "location": "United States (Remote)",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "United States"
+        }
+      }
+    }
+  ],
   "publishedAt": "2026-09-15T20:34:15.266+00:00",
   "isListed": true,
   "isRemote": true,
   "workplaceType": "Remote",
   "address": {
     "postalAddress": {
-      "addressCountry": "United States"
+      "addressRegion": "Texas",
+      "addressCountry": "United States",
+      "addressLocality": "Austin"
     }
   },
   "jobUrl": "https://jobs.ashbyhq.com/livekit/062acaf8-aa08-43dc-8230-ca2d2bf64293",

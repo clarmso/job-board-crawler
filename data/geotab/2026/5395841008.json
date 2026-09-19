@@ -36,7 +36,7 @@
     }
   ],
   "id": 5395841008,
-  "updated_at": "2026-09-16T12:48:39-04:00",
+  "updated_at": "2026-09-18T16:41:03-04:00",
   "requisition_id": "2806",
   "title": "Senior Segment Product Marketing Manager (Field Service)",
   "company_name": "Geotab",
@@ -48,7 +48,10 @@
     {
       "id": 4008480008,
       "name": "Product Marketing",
-      "child_ids": [],
+      "child_ids": [
+        4093504008,
+        4093505008
+      ],
       "parent_id": 4007956008
     }
   ],

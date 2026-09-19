@@ -29,6 +29,15 @@
         "additionalInformation": null,
         "components": [
           {
+            "id": "28f01b45-2ed7-4111-a68d-ca0cc12bac7b",
+            "summary": "OTE ₹35,75,300 – ₹49,96,800",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "INR",
+            "minValue": 3575300,
+            "maxValue": 4996800
+          },
+          {
             "id": "5ec07661-7f70-4fb2-b3bc-4c37774455aa",
             "summary": "Offers Commission",
             "compensationType": "Commission",
@@ -45,20 +54,18 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
-          },
-          {
-            "id": "28f01b45-2ed7-4111-a68d-ca0cc12bac7b",
-            "summary": "OTE ₹35,75,300 – ₹49,96,800",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "INR",
-            "minValue": 3575300,
-            "maxValue": 4996800
           }
         ]
       }
     ],
     "summaryComponents": [
+      {
+        "compensationType": "Salary",
+        "interval": "1 YEAR",
+        "currencyCode": "INR",
+        "minValue": 3575300,
+        "maxValue": 4996800
+      },
       {
         "compensationType": "Commission",
         "interval": "1 YEAR",
@@ -72,13 +79,6 @@
         "currencyCode": null,
         "minValue": null,
         "maxValue": null
-      },
-      {
-        "compensationType": "Salary",
-        "interval": "1 YEAR",
-        "currencyCode": "INR",
-        "minValue": 3575300,
-        "maxValue": 4996800
       }
     ]
   }

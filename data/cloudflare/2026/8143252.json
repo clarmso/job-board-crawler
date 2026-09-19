@@ -39,7 +39,7 @@
     }
   ],
   "id": 8143252,
-  "updated_at": "2026-09-04T10:59:17-04:00",
+  "updated_at": "2026-09-18T02:30:33-04:00",
   "requisition_id": null,
   "title": "Business Development Representative (Cantonese Speaking)",
   "company_name": "Cloudflare",
@@ -60,6 +60,13 @@
       "id": 48755,
       "name": "Beijing, China",
       "location": "Beijing Shi, China",
+      "child_ids": [],
+      "parent_id": 74844
+    },
+    {
+      "id": 19992,
+      "name": "Singapore",
+      "location": "Singapore",
       "child_ids": [],
       "parent_id": 74844
     }

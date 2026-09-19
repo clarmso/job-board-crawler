@@ -2,7 +2,7 @@
   "id": "1b909aeb-1221-476f-88fe-8300a2065975",
   "title": "Software Engineer, Security Agents",
   "department": "Engineering & Infra",
-  "team": "Delivery Engineering - Agentic Platform ",
+  "team": "Product Security",
   "employmentType": "FullTime",
   "location": "United States",
   "shouldDisplayCompensationOnJobPostings": true,
@@ -68,15 +68,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "1d562659-77dd-439e-b3ef-f1135a0526b9",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "6fdb724f-adcb-4021-9ab4-eeb321e35be6",
             "summary": "Base Salary $180K – $275K",
             "compensationType": "Salary",
@@ -84,6 +75,15 @@
             "currencyCode": "USD",
             "minValue": 180000,
             "maxValue": 275000
+          },
+          {
+            "id": "1d562659-77dd-439e-b3ef-f1135a0526b9",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           }
         ]
       },

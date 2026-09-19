@@ -74,13 +74,21 @@
     {
       "id": 5525802,
       "name": "Baseline Budgeted Salary",
-      "value": null,
+      "value": {
+        "unit": "USD",
+        "max_value": "150000.0",
+        "min_value": "105000.0"
+      },
       "value_type": "currency_range"
     },
     {
       "id": 5525816,
       "name": "Other Large Market Budgeted Salary",
-      "value": null,
+      "value": {
+        "unit": "USD",
+        "max_value": "128000.0",
+        "min_value": "90000.0"
+      },
       "value_type": "currency_range"
     },
     {
@@ -117,7 +125,7 @@
     }
   ],
   "id": 8035641,
-  "updated_at": "2026-09-16T13:28:52-04:00",
+  "updated_at": "2026-09-17T07:50:13-04:00",
   "requisition_id": "2273483351",
   "title": "Senior Marketing Manager, U.S. Public Sector",
   "company_name": "MongoDB",
@@ -135,9 +143,9 @@
   ],
   "offices": [
     {
-      "id": 57165,
-      "name": "Raleigh",
-      "location": "Raleigh, North Carolina, United States",
+      "id": 95842,
+      "name": "Tysons",
+      "location": "Tysons, Virginia, United States",
       "child_ids": [],
       "parent_id": 23657
     }

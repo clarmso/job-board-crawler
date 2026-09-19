@@ -12,7 +12,7 @@
   ],
   "internal_job_id": 3478522,
   "location": {
-    "name": "New York, New York, USA"
+    "name": "Boston, Massachusetts, USA; New York, New York, USA"
   },
   "metadata": [
     {
@@ -69,7 +69,7 @@
     }
   ],
   "id": 8023763,
-  "updated_at": "2026-09-15T13:24:16-04:00",
+  "updated_at": "2026-09-18T14:57:30-04:00",
   "requisition_id": "R19634",
   "title": "Group Product Manager - Code Security",
   "company_name": "Datadog",
@@ -86,6 +86,13 @@
     }
   ],
   "offices": [
+    {
+      "id": 5455,
+      "name": "Boston",
+      "location": "Boston, MA, United States",
+      "child_ids": [],
+      "parent_id": 78117
+    },
     {
       "id": 5664,
       "name": "New York",

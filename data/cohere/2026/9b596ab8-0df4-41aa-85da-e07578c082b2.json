@@ -2,7 +2,7 @@
   "id": "9b596ab8-0df4-41aa-85da-e07578c082b2",
   "title": "Product Security Engineer, North Security",
   "department": "Engineering & Infra",
-  "team": "Delivery Engineering - Agentic Platform ",
+  "team": "Product Security",
   "employmentType": "FullTime",
   "location": "Canada",
   "shouldDisplayCompensationOnJobPostings": true,
@@ -31,15 +31,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "4baf596b-4b6e-4aca-bc8f-aad5c4a38bdb",
-            "summary": "Base Salary $215K – $325K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "USD",
-            "minValue": 215000,
-            "maxValue": 325000
-          },
-          {
             "id": "e141099a-1b73-43ba-96f3-424525601627",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
@@ -47,6 +38,15 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "4baf596b-4b6e-4aca-bc8f-aad5c4a38bdb",
+            "summary": "Base Salary $215K – $325K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 215000,
+            "maxValue": 325000
           }
         ]
       },
@@ -83,15 +83,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "ae26fecb-d50b-4261-850c-a0b5ee2ae973",
-            "summary": "Base Salary $260K – $385K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "USD",
-            "minValue": 260000,
-            "maxValue": 385000
-          },
-          {
             "id": "3545b602-146b-474b-a09b-b77e84882b25",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
@@ -99,23 +90,32 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "ae26fecb-d50b-4261-850c-a0b5ee2ae973",
+            "summary": "Base Salary $260K – $385K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 260000,
+            "maxValue": 385000
           }
         ]
       }
     ],
     "summaryComponents": [
       {
+        "compensationType": "EquityPercentage",
+        "minValue": null,
+        "maxValue": null,
+        "interval": "1 YEAR"
+      },
+      {
         "minValue": 180000,
         "maxValue": 385000,
         "currencyCode": "USD",
         "interval": "1 YEAR",
         "compensationType": "Salary"
-      },
-      {
-        "compensationType": "EquityPercentage",
-        "minValue": null,
-        "maxValue": null,
-        "interval": "1 YEAR"
       }
     ]
   }

@@ -84,7 +84,11 @@
     {
       "id": 5525816,
       "name": "Other Large Market Budgeted Salary",
-      "value": null,
+      "value": {
+        "unit": "USD",
+        "max_value": "157000.0",
+        "min_value": "110000.0"
+      },
       "value_type": "currency_range"
     },
     {
@@ -121,7 +125,7 @@
     }
   ],
   "id": 8072861,
-  "updated_at": "2026-09-16T13:28:52-04:00",
+  "updated_at": "2026-09-17T14:30:21-04:00",
   "requisition_id": "2273497734",
   "title": "Staff Product Marketing Manager",
   "company_name": "MongoDB",
@@ -139,9 +143,9 @@
   ],
   "offices": [
     {
-      "id": 3960,
-      "name": "New York City",
-      "location": "New York, NY, United States",
+      "id": 95839,
+      "name": "Tampa",
+      "location": "Tampa, Florida, United States",
       "child_ids": [],
       "parent_id": 23657
     }

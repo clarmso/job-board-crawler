@@ -74,13 +74,21 @@
     {
       "id": 5525802,
       "name": "Baseline Budgeted Salary",
-      "value": null,
+      "value": {
+        "unit": "USD",
+        "max_value": "271000.0",
+        "min_value": "190000.0"
+      },
       "value_type": "currency_range"
     },
     {
       "id": 5525816,
       "name": "Other Large Market Budgeted Salary",
-      "value": null,
+      "value": {
+        "unit": "USD",
+        "max_value": "230000.0",
+        "min_value": "161000.0"
+      },
       "value_type": "currency_range"
     },
     {
@@ -117,8 +125,8 @@
     }
   ],
   "id": 8205340,
-  "updated_at": "2026-09-16T13:28:52-04:00",
-  "requisition_id": "3273551278",
+  "updated_at": "2026-09-18T17:20:28-04:00",
+  "requisition_id": "4269876543",
   "title": "Vice President, Global Communications",
   "company_name": "MongoDB",
   "first_published": "2026-09-16T11:47:46-04:00",

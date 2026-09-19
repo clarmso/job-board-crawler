@@ -25,7 +25,8 @@
       "id": 8654220,
       "name": "Job Posting Location",
       "value": [
-        "Austin, US"
+        "Austin, US",
+        "Denver, CO"
       ],
       "value_type": "multi_select"
     },
@@ -39,7 +40,7 @@
     }
   ],
   "id": 8106415,
-  "updated_at": "2026-09-04T10:59:17-04:00",
+  "updated_at": "2026-09-17T13:42:00-04:00",
   "requisition_id": null,
   "title": "Principal, GTM Strategic Initiatives Program Manager ",
   "company_name": "Cloudflare",
@@ -60,6 +61,13 @@
       "id": 19983,
       "name": "Austin, TX",
       "location": "Austin, TX, United States",
+      "child_ids": [],
+      "parent_id": 48752
+    },
+    {
+      "id": 65527,
+      "name": "Denver, CO",
+      "location": "Denver, Colorado, United States",
       "child_ids": [],
       "parent_id": 48752
     }

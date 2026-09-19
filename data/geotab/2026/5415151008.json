@@ -36,7 +36,7 @@
     }
   ],
   "id": 5415151008,
-  "updated_at": "2026-09-16T12:48:39-04:00",
+  "updated_at": "2026-09-18T16:41:03-04:00",
   "requisition_id": "2807",
   "title": "Marketing Support Intern, UK & Ireland",
   "company_name": "Geotab",
@@ -48,7 +48,11 @@
     {
       "id": 4008484008,
       "name": "Regional Marketing",
-      "child_ids": [],
+      "child_ids": [
+        4093501008,
+        4093502008,
+        4093503008
+      ],
       "parent_id": 4007956008
     }
   ],

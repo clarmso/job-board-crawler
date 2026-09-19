@@ -74,13 +74,21 @@
     {
       "id": 5525802,
       "name": "Baseline Budgeted Salary",
-      "value": null,
+      "value": {
+        "unit": "INR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
       "value_type": "currency_range"
     },
     {
       "id": 5525816,
       "name": "Other Large Market Budgeted Salary",
-      "value": null,
+      "value": {
+        "unit": "INR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
       "value_type": "currency_range"
     },
     {
@@ -117,7 +125,7 @@
     }
   ],
   "id": 8051387,
-  "updated_at": "2026-09-16T13:28:52-04:00",
+  "updated_at": "2026-09-18T07:32:38-04:00",
   "requisition_id": "2273489539",
   "title": "Staff Site Reliability Engineer",
   "company_name": "MongoDB",
@@ -135,9 +143,9 @@
   ],
   "offices": [
     {
-      "id": 26756,
-      "name": "Bengaluru",
-      "location": "Bengaluru, Karnataka, India",
+      "id": 65909,
+      "name": "Gurugram",
+      "location": "Gurugram, Haryana, India",
       "child_ids": [],
       "parent_id": 23659
     }
