@@ -87,7 +87,7 @@
     text-decoration: none;
   }
   .company a:hover { color: var(--accent); text-decoration: underline; }
-  #empty, #error {
+  #empty {
     color: var(--muted);
     padding: 2rem 0;
   }
@@ -108,88 +108,14 @@
 <body>
   <header id="top">
     <h1>New Jobs</h1>
-    <div id="meta">Loading…</div>
+    <div id="meta">Jobs posted in the last 24 hours (as of 2026-09-19 23:06 UTC) &middot; 0 new jobs across 0 companies</div>
   </header>
 
-  <nav id="toc" hidden>
-    <h2>Jump to company</h2>
-    <ul id="toc-list"></ul>
-  </nav>
 
-  <main id="results"></main>
+  <main id="results">
+    <p id="empty">No new jobs in the most recent crawl. Check back soon!</p>
+  </main>
 
   <a class="top" href="#top">↑ Top</a>
-
-<script>
-async function loadJobs() {
-  const meta = document.getElementById("meta");
-  const results = document.getElementById("results");
-  const toc = document.getElementById("toc");
-  const tocList = document.getElementById("toc-list");
-
-  try {
-    const res = await fetch("new_jobs.json", { cache: "no-store" });
-    if (!res.ok) throw new Error(`HTTP ${res.status}`);
-    const data = await res.json();
-
-    const generated = new Date(data.generated_at);
-    meta.textContent = `Jobs posted in the last 24 hours (as of ${generated.toLocaleString()}) · ${data.total_new_jobs} new job${data.total_new_jobs === 1 ? "" : "s"} across ${data.companies.length} compan${data.companies.length === 1 ? "y" : "ies"}`;
-
-    if (!data.companies.length) {
-      results.innerHTML = '<p id="empty">No new jobs in the most recent crawl. Check back soon!</p>';
-      return;
-    }
-
-    toc.hidden = false;
-    const tocFrag = document.createDocumentFragment();
-    const resultsFrag = document.createDocumentFragment();
-
-    for (const company of data.companies) {
-      const anchorId = `company-${company.slug}`;
-
-      const tocItem = document.createElement("li");
-      const tocLink = document.createElement("a");
-      tocLink.href = `#${anchorId}`;
-      tocLink.textContent = `${company.name} (${company.jobs.length})`;
-      tocItem.appendChild(tocLink);
-      tocFrag.appendChild(tocItem);
-
-      const section = document.createElement("section");
-      section.className = "company";
-      section.id = anchorId;
-
-      const heading = document.createElement("h2");
-      heading.textContent = company.name + " ";
-      const count = document.createElement("span");
-      count.className = "count";
-      count.textContent = `(${company.jobs.length})`;
-      heading.appendChild(count);
-      section.appendChild(heading);
-
-      const list = document.createElement("ul");
-      for (const job of company.jobs) {
-        const li = document.createElement("li");
-        const a = document.createElement("a");
-        a.href = job.url;
-        a.target = "_blank";
-        a.rel = "noopener noreferrer";
-        a.textContent = job.title;
-        li.appendChild(a);
-        list.appendChild(li);
-      }
-      section.appendChild(list);
-      resultsFrag.appendChild(section);
-    }
-
-    tocList.appendChild(tocFrag);
-    results.appendChild(resultsFrag);
-  } catch (err) {
-    meta.textContent = "";
-    results.innerHTML = `<p id="error">Couldn't load job data: ${err.message}</p>`;
-  }
-}
-
-loadJobs();
-</script>
 </body>
 </html>

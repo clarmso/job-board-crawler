@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """
-Generate docs/new_jobs.json — a manifest of jobs newly added within the past
-LOOKBACK_HOURS, grouped by company, for display on the GitHub Pages site.
+Generate docs/index.html — a fully static page listing jobs newly added
+within the past LOOKBACK_HOURS, grouped by company, for the GitHub Pages
+site. Also writes docs/new_jobs.json as a raw data snapshot.
 
 crawl.yml can run more than once a day, so "new" is computed as a rolling
 time window over git history (every commit that first created a data/*.json
@@ -15,6 +16,7 @@ additions.
 """
 
 import csv
+import html
 import json
 import os
 import subprocess
@@ -22,7 +24,8 @@ import sys
 from datetime import datetime, timezone
 
 DATA_DIR = "data"
-OUTPUT_PATH = os.path.join("docs", "new_jobs.json")
+JSON_OUTPUT_PATH = os.path.join("docs", "new_jobs.json")
+HTML_OUTPUT_PATH = os.path.join("docs", "index.html")
 LOOKBACK_HOURS = 24
 
 
@@ -109,7 +112,7 @@ def _display_name(slug, extracted_name):
     return slug.replace("-", " ").replace("_", " ").title()
 
 
-def main():
+def _build_manifest():
     ats_by_slug = _load_ats_by_slug()
     added_files = _added_data_files()
 
@@ -137,7 +140,7 @@ def main():
         entry = companies.setdefault(slug, {"name": _display_name(slug, name), "jobs": []})
         entry["jobs"].append({"title": title, "url": url})
 
-    manifest = {
+    return {
         "generated_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "total_new_jobs": sum(len(c["jobs"]) for c in companies.values()),
         "companies": [
@@ -146,12 +149,187 @@ def main():
         ],
     }
 
+
+HTML_TEMPLATE = """<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>New Jobs — Job Board Crawler</title>
+<style>
+  :root {{
+    --border: #e2e2e2;
+    --muted: #6b7280;
+    --accent: #2563eb;
+    --bg: #ffffff;
+  }}
+  * {{ box-sizing: border-box; }}
+  body {{
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    max-width: 860px;
+    margin: 0 auto;
+    padding: 2rem 1.25rem 4rem;
+    color: #111827;
+    background: var(--bg);
+  }}
+  header h1 {{
+    margin: 0 0 0.25rem;
+    font-size: 1.75rem;
+  }}
+  #meta {{
+    color: var(--muted);
+    font-size: 0.9rem;
+    margin-bottom: 1.5rem;
+  }}
+  #toc {{
+    background: #f9fafb;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 1rem 1.25rem;
+    margin-bottom: 2rem;
+  }}
+  #toc h2 {{
+    font-size: 0.95rem;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    color: var(--muted);
+    margin: 0 0 0.5rem;
+  }}
+  #toc ul {{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem 0.75rem;
+  }}
+  #toc a {{
+    color: var(--accent);
+    text-decoration: none;
+    font-size: 0.95rem;
+  }}
+  #toc a:hover {{ text-decoration: underline; }}
+  .company {{
+    margin-bottom: 2rem;
+    scroll-margin-top: 1rem;
+  }}
+  .company h2 {{
+    font-size: 1.2rem;
+    border-bottom: 1px solid var(--border);
+    padding-bottom: 0.4rem;
+    margin-bottom: 0.6rem;
+  }}
+  .company h2 .count {{
+    color: var(--muted);
+    font-weight: normal;
+    font-size: 0.9rem;
+  }}
+  .company ul {{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }}
+  .company li {{
+    padding: 0.4rem 0;
+    border-bottom: 1px dashed var(--border);
+  }}
+  .company li:last-child {{ border-bottom: none; }}
+  .company a {{
+    color: #111827;
+    text-decoration: none;
+  }}
+  .company a:hover {{ color: var(--accent); text-decoration: underline; }}
+  #empty {{
+    color: var(--muted);
+    padding: 2rem 0;
+  }}
+  a.top {{
+    position: fixed;
+    bottom: 1.5rem;
+    right: 1.5rem;
+    background: var(--accent);
+    color: #fff;
+    padding: 0.5rem 0.9rem;
+    border-radius: 999px;
+    text-decoration: none;
+    font-size: 0.85rem;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+  }}
+</style>
+</head>
+<body>
+  <header id="top">
+    <h1>New Jobs</h1>
+    <div id="meta">{meta}</div>
+  </header>
+
+{toc}
+  <main id="results">
+{results}
+  </main>
+
+  <a class="top" href="#top">↑ Top</a>
+</body>
+</html>
+"""
+
+
+def _render_html(manifest):
+    generated = datetime.strptime(manifest["generated_at"], "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)
+    total = manifest["total_new_jobs"]
+    companies = manifest["companies"]
+    meta = (
+        f"Jobs posted in the last 24 hours (as of {generated.strftime('%Y-%m-%d %H:%M UTC')}) "
+        f"&middot; {total} new job{'' if total == 1 else 's'} across "
+        f"{len(companies)} compan{'y' if len(companies) == 1 else 'ies'}"
+    )
+
+    if not companies:
+        toc = ""
+        results = '    <p id="empty">No new jobs in the most recent crawl. Check back soon!</p>'
+    else:
+        toc_items = "\n".join(
+            f'      <li><a href="#company-{html.escape(c["slug"])}">{html.escape(c["name"])} ({len(c["jobs"])})</a></li>'
+            for c in companies
+        )
+        toc = f"""  <nav id="toc">
+    <h2>Jump to company</h2>
+    <ul id="toc-list">
+{toc_items}
+    </ul>
+  </nav>
+"""
+
+        sections = []
+        for c in companies:
+            job_items = "\n".join(
+                f'        <li><a href="{html.escape(j["url"])}" target="_blank" rel="noopener noreferrer">{html.escape(j["title"])}</a></li>'
+                for j in c["jobs"]
+            )
+            sections.append(
+                f'    <section class="company" id="company-{html.escape(c["slug"])}">\n'
+                f'      <h2>{html.escape(c["name"])} <span class="count">({len(c["jobs"])})</span></h2>\n'
+                f"      <ul>\n{job_items}\n      </ul>\n"
+                f"    </section>"
+            )
+        results = "\n".join(sections)
+
+    return HTML_TEMPLATE.format(meta=meta, toc=toc, results=results)
+
+
+def main():
+    manifest = _build_manifest()
+
     os.makedirs("docs", exist_ok=True)
-    with open(OUTPUT_PATH, "w") as f:
+    with open(JSON_OUTPUT_PATH, "w") as f:
         json.dump(manifest, f, indent=2, ensure_ascii=False)
         f.write("\n")
 
-    print(f"Wrote {OUTPUT_PATH}: {manifest['total_new_jobs']} new jobs across {len(manifest['companies'])} companies")
+    with open(HTML_OUTPUT_PATH, "w") as f:
+        f.write(_render_html(manifest))
+
+    print(f"Wrote {HTML_OUTPUT_PATH} and {JSON_OUTPUT_PATH}: "
+          f"{manifest['total_new_jobs']} new jobs across {len(manifest['companies'])} companies")
 
 
 if __name__ == "__main__":
