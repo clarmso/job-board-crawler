@@ -36,7 +36,7 @@ CAREERS_URL_BY_PLATFORM = {
     "ashby": "https://jobs.ashbyhq.com/{slug}",
     "workable": "https://apply.workable.com/{slug}/",
     "recruitee": "https://{slug}.recruitee.com/",
-    "smartrecruiters": "https://jobs.smartrecruiters.com/{slug}",
+    "smartrecruiters": "https://careers.smartrecruiters.com/{slug}/",
     "gem": "https://jobs.gem.com/{slug}",
     "rippling": "https://ats.rippling.com/{slug}/jobs",
 }
