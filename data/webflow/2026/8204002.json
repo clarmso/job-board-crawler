@@ -16,7 +16,7 @@
   },
   "metadata": null,
   "id": 8204002,
-  "updated_at": "2026-09-18T19:39:26-04:00",
+  "updated_at": "2026-09-20T12:22:49-04:00",
   "requisition_id": "R-101414",
   "title": "Senior Developer Educator",
   "company_name": "Webflow",
@@ -36,6 +36,13 @@
     {
       "id": 353028,
       "name": "San Francisco, CA (Hybrid)",
+      "location": null,
+      "child_ids": [],
+      "parent_id": null
+    },
+    {
+      "id": 63426,
+      "name": "U.S. Remote",
       "location": null,
       "child_ids": [],
       "parent_id": null
