@@ -58,15 +58,12 @@ _CA_PROVINCE_RE = re.compile(
 )
 
 
-def _mentions_canada(*texts):
-    """Keyword match for locations that plausibly cover Canada.
+def _mentions_canada_explicit(*texts):
+    """Keyword match for locations that explicitly reference Canada.
 
-    Matches "Canada" itself plus broader regions a Canada-based candidate
-    could reasonably apply under ("Global", "North America", "Americas"),
-    plus the "CA Remote" / "Remote - CA" shorthand some companies use
-    (e.g. "CA Remote (BC & ON only); U.S. Remote"), plus a Canadian
-    province/territory abbreviation following a city name (e.g.
-    "Kitchener-Waterloo, ON; Toronto, ON").
+    Matches "Canada" itself, a Canadian province/territory abbreviation
+    following a city name (e.g. "Kitchener-Waterloo, ON; Toronto, ON"), and
+    the "CA Remote" / "Remote - CA" shorthand some companies use.
 
     A bare "CA" token on its own is deliberately NOT treated as Canada:
     that's ambiguous with the US postal abbreviation for California, which
@@ -80,10 +77,30 @@ def _mentions_canada(*texts):
         return False
     if _CA_PROVINCE_RE.search(raw):
         return True
-    combined = raw.lower()
-    if any(keyword in combined for keyword in ("canada", "global", "north america", "americas")):
+    if "canada" in raw.lower():
         return True
-    return bool(_CA_REMOTE_RE.search(combined))
+    return bool(_CA_REMOTE_RE.search(raw.lower()))
+
+
+def _mentions_canada_broad(*texts):
+    """Keyword match for broader regions a Canada-based candidate could
+    reasonably apply under ("Global", "North America", "Americas"), but
+    which aren't themselves an explicit Canada reference. When a posting
+    with one of these is *also* remote, it's remote worldwide/regionally —
+    not Canada-specific — so callers should not tag it as Canada in that
+    case (see _is_canada_job).
+    """
+    raw = " ".join(str(t) for t in texts if t)
+    if not raw:
+        return False
+    combined = raw.lower()
+    return any(keyword in combined for keyword in ("global", "north america", "americas"))
+
+
+def _mentions_canada(*texts):
+    """Combined explicit-or-broad match, for callers that don't need to
+    distinguish the two tiers."""
+    return _mentions_canada_explicit(*texts) or _mentions_canada_broad(*texts)
 
 
 def _mode_from_text(text):
@@ -166,31 +183,40 @@ def _is_remote_job(platform, job):
 
 
 def _is_canada_job(platform, job):
-    """Best-effort: can this specific opening be based in Canada?
+    """Best-effort: should this specific opening be tagged Canada?
 
-    Uses structured country fields where the ATS provides them, falling back
-    to keyword matching on free-text location fields.
+    An explicit Canada reference (city, province, "Canada", "Canada Remote")
+    always counts. A broader regional reference ("Global", "North America",
+    "Americas") only counts when the posting is *not* remote — once it's
+    also remote, it reads as remote-worldwide/regional rather than
+    Canada-specific, so it should get the Remote tag instead, not Canada.
     """
+    is_remote = _is_remote_job(platform, job)
+
     if platform == "greenhouse":
-        return _mentions_canada((job.get("location") or {}).get("name"))
+        texts = [(job.get("location") or {}).get("name")]
+        return _mentions_canada_explicit(*texts) or (
+            _mentions_canada_broad(*texts) and not is_remote
+        )
 
     if platform == "lever":
         if str(job.get("country") or "").strip().lower() == "ca":
             return True
         categories = job.get("categories") or {}
-        return _mentions_canada(categories.get("location"), *(categories.get("allLocations") or []))
+        texts = [categories.get("location"), *(categories.get("allLocations") or [])]
+        return _mentions_canada_explicit(*texts) or (
+            _mentions_canada_broad(*texts) and not is_remote
+        )
 
     if platform == "ashby":
         address = ((job.get("address") or {}).get("postalAddress") or {})
-        if _mentions_canada(address.get("addressCountry")):
-            return True
-        if _mentions_canada(job.get("location")):
-            return True
+        texts = [address.get("addressCountry"), job.get("location")]
         for secondary in job.get("secondaryLocations") or []:
             secondary_address = ((secondary.get("address") or {}).get("postalAddress") or {})
-            if _mentions_canada(secondary.get("location"), secondary_address.get("addressCountry")):
-                return True
-        return False
+            texts.extend([secondary.get("location"), secondary_address.get("addressCountry")])
+        return _mentions_canada_explicit(*texts) or (
+            _mentions_canada_broad(*texts) and not is_remote
+        )
 
     if platform == "workable":
         if str(job.get("country") or "").strip().lower() == "canada":
@@ -203,19 +229,30 @@ def _is_canada_job(platform, job):
         location_texts = [job.get("country"), job.get("city"), job.get("state")]
         for loc in job.get("locations") or []:
             location_texts.extend([loc.get("country"), loc.get("city"), loc.get("region")])
-        return _mentions_canada(*location_texts)
+        return _mentions_canada_explicit(*location_texts) or (
+            _mentions_canada_broad(*location_texts) and not is_remote
+        )
 
     if platform == "smartrecruiters":
         loc = job.get("location") or {}
         if str(loc.get("country") or "").strip().lower() == "ca":
             return True
-        return _mentions_canada(loc.get("fullLocation"), loc.get("city"))
+        texts = [loc.get("fullLocation"), loc.get("city")]
+        return _mentions_canada_explicit(*texts) or (
+            _mentions_canada_broad(*texts) and not is_remote
+        )
 
     if platform == "gem":
-        return _mentions_canada((job.get("location") or {}).get("name"))
+        texts = [(job.get("location") or {}).get("name")]
+        return _mentions_canada_explicit(*texts) or (
+            _mentions_canada_broad(*texts) and not is_remote
+        )
 
     if platform == "rippling":
-        return _mentions_canada(*(job.get("workLocations") or []))
+        texts = list(job.get("workLocations") or [])
+        return _mentions_canada_explicit(*texts) or (
+            _mentions_canada_broad(*texts) and not is_remote
+        )
 
     return False
 
