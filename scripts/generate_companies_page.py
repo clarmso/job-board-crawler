@@ -1,0 +1,305 @@
+#!/usr/bin/env python3
+"""
+Generate docs/companies.html — a static page listing every company tracked
+in companies.csv, its ATS platform, HQ location, current open-role count,
+and a link to its live careers page. Also writes docs/companies.json as a
+raw data snapshot.
+
+Unlike generate_new_jobs.py this isn't time-windowed: it reflects whatever
+is currently in data/ (typically after `crawl.py` has just run), so it's
+safe to run any time after (or independently of) a crawl.
+"""
+
+import csv
+import glob
+import html
+import json
+import os
+import sys
+from datetime import datetime, timezone
+
+DATA_DIR = "data"
+COMPANIES_CSV = "companies.csv"
+JSON_OUTPUT_PATH = os.path.join("docs", "companies.json")
+HTML_OUTPUT_PATH = os.path.join("docs", "companies.html")
+
+# Platforms crawl.py knows how to fetch (kept in sync with src/crawl.PLATFORMS).
+SUPPORTED_PLATFORMS = {
+    "greenhouse", "lever", "ashby", "workable", "recruitee",
+    "smartrecruiters", "gem", "rippling",
+}
+
+CAREERS_URL_BY_PLATFORM = {
+    "greenhouse": "https://job-boards.greenhouse.io/{slug}",
+    "lever": "https://jobs.lever.co/{slug}",
+    "ashby": "https://jobs.ashbyhq.com/{slug}",
+    "workable": "https://apply.workable.com/{slug}/",
+    "recruitee": "https://{slug}.recruitee.com/",
+    "smartrecruiters": "https://jobs.smartrecruiters.com/{slug}",
+    "gem": "https://jobs.gem.com/{slug}",
+    "rippling": "https://ats.rippling.com/{slug}/jobs",
+}
+
+
+def _careers_url(slug, platform):
+    template = CAREERS_URL_BY_PLATFORM.get(platform)
+    return template.format(slug=slug) if template else None
+
+
+def _job_count(slug):
+    path = os.path.join(DATA_DIR, slug)
+    if not os.path.isdir(path):
+        return 0
+    return len(glob.glob(os.path.join(path, "**", "*.json"), recursive=True))
+
+
+def _sample_company_name(slug):
+    """Peek at one crawled job file to recover the ATS-reported company name."""
+    path = os.path.join(DATA_DIR, slug)
+    if not os.path.isdir(path):
+        return None
+    for match in glob.glob(os.path.join(path, "**", "*.json"), recursive=True):
+        try:
+            with open(match) as f:
+                job = json.load(f)
+        except (OSError, json.JSONDecodeError):
+            continue
+        name = (
+            job.get("company_name")
+            or job.get("companyName")
+            or (job.get("company") or {}).get("name")
+        )
+        if name:
+            return name
+    return None
+
+
+def _display_name(slug, sample_name):
+    if sample_name:
+        return sample_name
+    return slug.replace("-", " ").replace("_", " ").title()
+
+
+def _build_manifest():
+    with open(COMPANIES_CSV, newline="") as f:
+        rows = [row for row in csv.DictReader(f) if row.get("slug") and row.get("ats")]
+
+    companies = []
+    for row in rows:
+        slug = row["slug"]
+        platform = row["ats"]
+        supported = platform in SUPPORTED_PLATFORMS
+        companies.append({
+            "slug": slug,
+            "name": _display_name(slug, _sample_company_name(slug)),
+            "ats": platform,
+            "hq_country": row.get("hq_country") or "",
+            "job_count": _job_count(slug) if supported else 0,
+            "careers_url": _careers_url(slug, platform),
+            "supported": supported,
+        })
+
+    companies.sort(key=lambda c: c["name"].lower())
+
+    return {
+        "generated_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "total_companies": len(companies),
+        "total_open_jobs": sum(c["job_count"] for c in companies),
+        "companies": companies,
+    }
+
+
+HTML_TEMPLATE = """<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Companies — Job Board Crawler</title>
+<style>
+  :root {{
+    --border: #e2e2e2;
+    --muted: #6b7280;
+    --accent: #2563eb;
+    --bg: #ffffff;
+  }}
+  * {{ box-sizing: border-box; }}
+  body {{
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 2rem 1.25rem 4rem;
+    color: #111827;
+    background: var(--bg);
+  }}
+  header h1 {{
+    margin: 0 0 0.25rem;
+    font-size: 1.75rem;
+  }}
+  #meta {{
+    color: var(--muted);
+    font-size: 0.9rem;
+    margin-bottom: 0.75rem;
+  }}
+  #nav {{
+    margin-bottom: 1.5rem;
+    font-size: 0.9rem;
+  }}
+  #nav a {{
+    color: var(--accent);
+    text-decoration: none;
+  }}
+  #nav a:hover {{ text-decoration: underline; }}
+  #search {{
+    width: 100%;
+    padding: 0.6rem 0.8rem;
+    font-size: 0.95rem;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    margin-bottom: 1.25rem;
+  }}
+  table {{
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.92rem;
+  }}
+  thead th {{
+    text-align: left;
+    color: var(--muted);
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 0.75rem;
+    letter-spacing: 0.03em;
+    border-bottom: 1px solid var(--border);
+    padding: 0.5rem 0.6rem;
+  }}
+  tbody td {{
+    padding: 0.55rem 0.6rem;
+    border-bottom: 1px dashed var(--border);
+    vertical-align: middle;
+  }}
+  tbody tr:last-child td {{ border-bottom: none; }}
+  tbody tr:hover {{ background: #f9fafb; }}
+  td.jobs, th.jobs {{ text-align: right; }}
+  a.company-link {{
+    color: #111827;
+    text-decoration: none;
+    font-weight: 500;
+  }}
+  a.company-link:hover {{ color: var(--accent); text-decoration: underline; }}
+  .badge {{
+    display: inline-block;
+    padding: 0.05rem 0.5rem;
+    border-radius: 999px;
+    border: 1px solid var(--border);
+    font-size: 0.75rem;
+    color: var(--muted);
+  }}
+  .badge.unsupported {{ color: #b91c1c; border-color: #fecaca; background: #fef2f2; }}
+  #empty-filter {{
+    display: none;
+    color: var(--muted);
+    padding: 1.5rem 0;
+  }}
+</style>
+</head>
+<body>
+  <header id="top">
+    <h1>Companies</h1>
+    <div id="meta">{meta}</div>
+    <nav id="nav"><a href="index.html">&larr; New Jobs</a></nav>
+  </header>
+
+  <input id="search" type="search" placeholder="Filter by company or ATS..." autocomplete="off" />
+
+  <table id="companies-table">
+    <thead>
+      <tr>
+        <th>Company</th>
+        <th>ATS</th>
+        <th>HQ</th>
+        <th class="jobs">Open jobs</th>
+      </tr>
+    </thead>
+    <tbody>
+{rows}
+    </tbody>
+  </table>
+  <p id="empty-filter">No companies match your filter.</p>
+
+  <script>
+    const input = document.getElementById("search");
+    const rows = Array.from(document.querySelectorAll("#companies-table tbody tr"));
+    const emptyMsg = document.getElementById("empty-filter");
+    input.addEventListener("input", () => {{
+      const q = input.value.trim().toLowerCase();
+      let visible = 0;
+      rows.forEach((row) => {{
+        const match = row.dataset.search.includes(q);
+        row.style.display = match ? "" : "none";
+        if (match) visible++;
+      }});
+      emptyMsg.style.display = visible === 0 ? "block" : "none";
+    }});
+  </script>
+</body>
+</html>
+"""
+
+
+def _render_row(c):
+    name = html.escape(c["name"])
+    ats = html.escape(c["ats"])
+    hq = html.escape(c["hq_country"]) if c["hq_country"] else "&mdash;"
+    search_key = html.escape(f"{c['name']} {c['ats']} {c['hq_country']}".lower())
+
+    if c["careers_url"]:
+        name_cell = (
+            f'<a class="company-link" href="{html.escape(c["careers_url"])}" '
+            f'target="_blank" rel="noopener noreferrer">{name}</a>'
+        )
+    else:
+        name_cell = name
+
+    if c["supported"]:
+        jobs_cell = str(c["job_count"])
+    else:
+        jobs_cell = '<span class="badge unsupported">not yet supported</span>'
+
+    return (
+        f'      <tr data-search="{search_key}">\n'
+        f"        <td>{name_cell}</td>\n"
+        f"        <td>{ats}</td>\n"
+        f"        <td>{hq}</td>\n"
+        f'        <td class="jobs">{jobs_cell}</td>\n'
+        f"      </tr>"
+    )
+
+
+def _render_html(manifest):
+    generated = datetime.strptime(manifest["generated_at"], "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)
+    meta = (
+        f"{manifest['total_companies']} companies tracked &middot; "
+        f"{manifest['total_open_jobs']} open jobs &middot; "
+        f"as of {generated.strftime('%Y-%m-%d %H:%M UTC')}"
+    )
+    rows = "\n".join(_render_row(c) for c in manifest["companies"])
+    return HTML_TEMPLATE.format(meta=meta, rows=rows)
+
+
+def main():
+    manifest = _build_manifest()
+
+    os.makedirs("docs", exist_ok=True)
+    with open(JSON_OUTPUT_PATH, "w") as f:
+        json.dump(manifest, f, indent=2, ensure_ascii=False)
+        f.write("\n")
+
+    with open(HTML_OUTPUT_PATH, "w") as f:
+        f.write(_render_html(manifest))
+
+    print(f"Wrote {HTML_OUTPUT_PATH} and {JSON_OUTPUT_PATH}: "
+          f"{manifest['total_companies']} companies, {manifest['total_open_jobs']} open jobs")
+
+
+if __name__ == "__main__":
+    sys.exit(main())
