@@ -10,6 +10,7 @@ is currently in data/ (typically after `crawl.py` has just run), so it's
 safe to run any time after (or independently of) a crawl.
 """
 
+import argparse
 import csv
 import glob
 import html
@@ -21,8 +22,6 @@ from datetime import datetime, timezone
 
 DATA_DIR = "data"
 COMPANIES_CSV = "companies.csv"
-JSON_OUTPUT_PATH = os.path.join("docs", "companies.json")
-HTML_OUTPUT_PATH = os.path.join("docs", "companies.html")
 
 # Platforms crawl.py knows how to fetch (kept in sync with src/crawl.PLATFORMS).
 SUPPORTED_PLATFORMS = {
@@ -514,17 +513,28 @@ def _render_html(manifest):
 
 
 def main():
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument(
+        "--out-dir", default="docs",
+        help="Directory to write companies.html/companies.json into "
+             "(default: docs). Use e.g. docs/staging for a preview build.",
+    )
+    args = parser.parse_args()
+
+    json_output_path = os.path.join(args.out_dir, "companies.json")
+    html_output_path = os.path.join(args.out_dir, "companies.html")
+
     manifest = _build_manifest()
 
-    os.makedirs("docs", exist_ok=True)
-    with open(JSON_OUTPUT_PATH, "w") as f:
+    os.makedirs(args.out_dir, exist_ok=True)
+    with open(json_output_path, "w") as f:
         json.dump(manifest, f, indent=2, ensure_ascii=False)
         f.write("\n")
 
-    with open(HTML_OUTPUT_PATH, "w") as f:
+    with open(html_output_path, "w") as f:
         f.write(_render_html(manifest))
 
-    print(f"Wrote {HTML_OUTPUT_PATH} and {JSON_OUTPUT_PATH}: "
+    print(f"Wrote {html_output_path} and {json_output_path}: "
           f"{manifest['total_companies']} companies, {manifest['total_open_jobs']} open jobs")
 
 

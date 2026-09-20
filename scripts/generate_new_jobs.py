@@ -15,6 +15,7 @@ also inspects the working tree for the current run's not-yet-committed
 additions.
 """
 
+import argparse
 import csv
 import html
 import json
@@ -24,8 +25,6 @@ import sys
 from datetime import datetime, timezone
 
 DATA_DIR = "data"
-JSON_OUTPUT_PATH = os.path.join("docs", "new_jobs.json")
-HTML_OUTPUT_PATH = os.path.join("docs", "index.html")
 LOOKBACK_HOURS = 24
 
 
@@ -413,17 +412,28 @@ def _render_html(manifest):
 
 
 def main():
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument(
+        "--out-dir", default="docs",
+        help="Directory to write index.html/new_jobs.json into "
+             "(default: docs). Use e.g. docs/staging for a preview build.",
+    )
+    args = parser.parse_args()
+
+    json_output_path = os.path.join(args.out_dir, "new_jobs.json")
+    html_output_path = os.path.join(args.out_dir, "index.html")
+
     manifest = _build_manifest()
 
-    os.makedirs("docs", exist_ok=True)
-    with open(JSON_OUTPUT_PATH, "w") as f:
+    os.makedirs(args.out_dir, exist_ok=True)
+    with open(json_output_path, "w") as f:
         json.dump(manifest, f, indent=2, ensure_ascii=False)
         f.write("\n")
 
-    with open(HTML_OUTPUT_PATH, "w") as f:
+    with open(html_output_path, "w") as f:
         f.write(_render_html(manifest))
 
-    print(f"Wrote {HTML_OUTPUT_PATH} and {JSON_OUTPUT_PATH}: "
+    print(f"Wrote {html_output_path} and {json_output_path}: "
           f"{manifest['total_new_jobs']} new jobs across {len(manifest['companies'])} companies")
 
 
