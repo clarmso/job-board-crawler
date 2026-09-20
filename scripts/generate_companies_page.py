@@ -118,6 +118,12 @@ def _is_remote_job(platform, job):
     Mirrors the workplace-mode inference used by generate_new_jobs.py, using
     structured fields where the ATS provides them and falling back to
     keyword matching on free-text location fields.
+
+    Note: this only signals "remote work mode" (vs. hybrid/on-site); it says
+    nothing about geographic eligibility. Callers should treat a posting
+    that's both remote *and* Canada-eligible (e.g. "Canada Remote") as
+    Canada, not worldwide Remote — see _scan_company_jobs, which only counts
+    a job as Remote when it is not already counted as Canada.
     """
     if platform == "greenhouse":
         location = (job.get("location") or {}).get("name", "")
@@ -235,9 +241,14 @@ def _scan_company_jobs(slug, platform):
             continue
 
         job_count += 1
-        if _is_canada_job(platform, job):
+        is_canada = _is_canada_job(platform, job)
+        if is_canada:
             canada_job_count += 1
-        if _is_remote_job(platform, job):
+        # "Remote" here specifically means remote *worldwide* (no location
+        # restriction) — a posting explicitly scoped to Canada (e.g. "Canada
+        # Remote", "Toronto, ON") is tagged Canada only, not double-counted
+        # as Remote too.
+        if not is_canada and _is_remote_job(platform, job):
             remote_job_count += 1
 
         if sample_name is None:
@@ -408,7 +419,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
     <input type="checkbox" id="canada-only" /> Only show companies with openings based in Canada
   </label>
   <label id="remote-toggle">
-    <input type="checkbox" id="remote-only" /> Only show companies with fully remote openings
+    <input type="checkbox" id="remote-only" /> Only show companies with worldwide-remote openings
   </label>
 
   <table id="companies-table">
