@@ -520,7 +520,7 @@ def _render_job_item(job):
         meta_parts.append(html.escape(location))
     if badges_html:
         meta_parts.append(badges_html)
-    meta = f'<span class="job-meta">{" &middot; ".join(meta_parts)}</span>' if meta_parts else ""
+    meta = f'<span class="job-meta">{" ".join(meta_parts)}</span>' if meta_parts else ""
 
     return (
         f'        <li><a href="{url}" target="_blank" rel="noopener noreferrer">{title}</a>{meta}</li>'
