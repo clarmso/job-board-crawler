@@ -86,6 +86,79 @@ def _mentions_canada(*texts):
     return bool(_CA_REMOTE_RE.search(combined))
 
 
+def _mode_from_text(text):
+    """Best-effort guess of workplace mode from a free-text location string."""
+    if not text:
+        return ""
+    lowered = str(text).lower()
+    if "remote" in lowered:
+        return "Remote"
+    if "hybrid" in lowered:
+        return "Hybrid"
+    return "On-site"
+
+
+def _normalize_mode(raw):
+    """Normalize an ATS-provided workplace-type value to Remote/Hybrid/On-site."""
+    if not raw:
+        return ""
+    lowered = str(raw).lower()
+    if "remote" in lowered:
+        return "Remote"
+    if "hybrid" in lowered:
+        return "Hybrid"
+    if lowered in ("onsite", "on-site", "office"):
+        return "On-site"
+    return ""
+
+
+def _is_remote_job(platform, job):
+    """Best-effort: is this specific opening fully remote?
+
+    Mirrors the workplace-mode inference used by generate_new_jobs.py, using
+    structured fields where the ATS provides them and falling back to
+    keyword matching on free-text location fields.
+    """
+    if platform == "greenhouse":
+        location = (job.get("location") or {}).get("name", "")
+        return _mode_from_text(location) == "Remote"
+
+    if platform == "lever":
+        categories = job.get("categories") or {}
+        location = categories.get("location") or ", ".join(categories.get("allLocations") or [])
+        mode = _normalize_mode(job.get("workplaceType")) or _mode_from_text(location)
+        return mode == "Remote"
+
+    if platform == "ashby":
+        location = job.get("location", "")
+        mode = _normalize_mode(job.get("workplaceType")) or _mode_from_text(location)
+        return mode == "Remote"
+
+    if platform == "workable":
+        if job.get("telecommuting"):
+            return True
+        location = ", ".join(part for part in (job.get("city"), job.get("state"), job.get("country")) if part)
+        return _mode_from_text(location) == "Remote"
+
+    if platform == "smartrecruiters":
+        loc = job.get("location") or {}
+        if loc.get("remote"):
+            return True
+        location = loc.get("fullLocation") or loc.get("city", "")
+        return _mode_from_text(location) == "Remote"
+
+    if platform == "gem":
+        location = (job.get("location") or {}).get("name", "")
+        mode = _normalize_mode(job.get("location_type")) or _mode_from_text(location)
+        return mode == "Remote"
+
+    if platform == "rippling":
+        location = ", ".join(job.get("workLocations") or [])
+        return _mode_from_text(location) == "Remote"
+
+    return False
+
+
 def _is_canada_job(platform, job):
     """Best-effort: can this specific opening be based in Canada?
 
@@ -144,15 +217,16 @@ def _is_canada_job(platform, job):
 def _scan_company_jobs(slug, platform):
     """Single pass over a company's crawled job files.
 
-    Returns (sample_company_name, job_count, canada_job_count).
+    Returns (sample_company_name, job_count, canada_job_count, remote_job_count).
     """
     path = os.path.join(DATA_DIR, slug)
     if not os.path.isdir(path):
-        return None, 0, 0
+        return None, 0, 0, 0
 
     sample_name = None
     job_count = 0
     canada_job_count = 0
+    remote_job_count = 0
     for match in glob.glob(os.path.join(path, "**", "*.json"), recursive=True):
         try:
             with open(match) as f:
@@ -163,6 +237,8 @@ def _scan_company_jobs(slug, platform):
         job_count += 1
         if _is_canada_job(platform, job):
             canada_job_count += 1
+        if _is_remote_job(platform, job):
+            remote_job_count += 1
 
         if sample_name is None:
             sample_name = (
@@ -171,7 +247,7 @@ def _scan_company_jobs(slug, platform):
                 or (job.get("company") or {}).get("name")
             )
 
-    return sample_name, job_count, canada_job_count
+    return sample_name, job_count, canada_job_count, remote_job_count
 
 
 def _display_name(slug, sample_name):
@@ -189,8 +265,8 @@ def _build_manifest():
         slug = row["slug"]
         platform = row["ats"]
         supported = platform in SUPPORTED_PLATFORMS
-        sample_name, job_count, canada_job_count = (
-            _scan_company_jobs(slug, platform) if supported else (None, 0, 0)
+        sample_name, job_count, canada_job_count, remote_job_count = (
+            _scan_company_jobs(slug, platform) if supported else (None, 0, 0, 0)
         )
         companies.append({
             "slug": slug,
@@ -199,6 +275,7 @@ def _build_manifest():
             "hq_country": row.get("hq_country") or "",
             "job_count": job_count,
             "canada_job_count": canada_job_count,
+            "remote_job_count": remote_job_count,
             "careers_url": _careers_url(slug, platform),
             "supported": supported,
         })
@@ -261,16 +338,17 @@ HTML_TEMPLATE = """<!DOCTYPE html>
     border-radius: 8px;
     margin-bottom: 0.75rem;
   }}
-  #canada-toggle {{
+  #canada-toggle, #remote-toggle {{
     display: inline-flex;
     align-items: center;
     gap: 0.4rem;
     font-size: 0.9rem;
     color: #374151;
     margin-bottom: 1.25rem;
+    margin-right: 1.25rem;
     cursor: pointer;
   }}
-  #canada-toggle input {{ cursor: pointer; }}
+  #canada-toggle input, #remote-toggle input {{ cursor: pointer; }}
   table {{
     width: 100%;
     border-collapse: collapse;
@@ -310,6 +388,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
   }}
   .badge.unsupported {{ color: #b91c1c; border-color: #fecaca; background: #fef2f2; }}
   .badge.canada {{ color: #047857; border-color: #a7f3d0; background: #ecfdf5; }}
+  .badge.remote {{ color: #4338ca; border-color: #c7d2fe; background: #eef2ff; }}
   #empty-filter {{
     display: none;
     color: var(--muted);
@@ -327,6 +406,9 @@ HTML_TEMPLATE = """<!DOCTYPE html>
   <input id="search" type="search" placeholder="Filter by company or ATS..." autocomplete="off" />
   <label id="canada-toggle">
     <input type="checkbox" id="canada-only" /> Only show companies with openings based in Canada
+  </label>
+  <label id="remote-toggle">
+    <input type="checkbox" id="remote-only" /> Only show companies with fully remote openings
   </label>
 
   <table id="companies-table">
@@ -347,6 +429,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
   <script>
     const input = document.getElementById("search");
     const canadaOnly = document.getElementById("canada-only");
+    const remoteOnly = document.getElementById("remote-only");
     const rows = Array.from(document.querySelectorAll("#companies-table tbody tr"));
     const emptyMsg = document.getElementById("empty-filter");
 
@@ -356,7 +439,8 @@ HTML_TEMPLATE = """<!DOCTYPE html>
       rows.forEach((row) => {{
         const matchesSearch = row.dataset.search.includes(q);
         const matchesCanada = !canadaOnly.checked || row.dataset.canada === "true";
-        const match = matchesSearch && matchesCanada;
+        const matchesRemote = !remoteOnly.checked || row.dataset.remote === "true";
+        const match = matchesSearch && matchesCanada && matchesRemote;
         row.style.display = match ? "" : "none";
         if (match) visible++;
       }});
@@ -365,6 +449,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 
     input.addEventListener("input", applyFilters);
     canadaOnly.addEventListener("change", applyFilters);
+    remoteOnly.addEventListener("change", applyFilters);
   </script>
 </body>
 </html>
@@ -377,6 +462,7 @@ def _render_row(c):
     hq = html.escape(c["hq_country"]) if c["hq_country"] else "&mdash;"
     search_key = html.escape(f"{c['name']} {c['ats']} {c['hq_country']}".lower())
     is_canada = "true" if c["canada_job_count"] > 0 else "false"
+    is_remote = "true" if c["remote_job_count"] > 0 else "false"
 
     if c["careers_url"]:
         name_cell = (
@@ -390,11 +476,13 @@ def _render_row(c):
         jobs_cell = str(c["job_count"])
         if c["canada_job_count"] > 0:
             jobs_cell += f' <span class="badge canada">{c["canada_job_count"]} in Canada</span>'
+        if c["remote_job_count"] > 0:
+            jobs_cell += f' <span class="badge remote">{c["remote_job_count"]} Remote</span>'
     else:
         jobs_cell = '<span class="badge unsupported">not yet supported</span>'
 
     return (
-        f'      <tr data-search="{search_key}" data-canada="{is_canada}">\n'
+        f'      <tr data-search="{search_key}" data-canada="{is_canada}" data-remote="{is_remote}">\n'
         f"        <td>{name_cell}</td>\n"
         f"        <td>{ats}</td>\n"
         f"        <td>{hq}</td>\n"
