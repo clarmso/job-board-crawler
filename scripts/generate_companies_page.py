@@ -49,6 +49,14 @@ def _careers_url(slug, platform):
 
 _CA_REMOTE_RE = re.compile(r"\bca\s*[-\u2013\u2014]?\s*remote\b|\bremote\s*[-\u2013\u2014]?\s*ca\b")
 
+# Canadian province/territory postal abbreviations, as they appear after a
+# city name in free-text location strings (e.g. "Kitchener-Waterloo, ON").
+# Deliberately case-sensitive and requires a preceding comma: matching case-
+# insensitively would false-positive on the common English word "on".
+_CA_PROVINCE_RE = re.compile(
+    r",\s*(ON|BC|QC|AB|MB|SK|NS|NB|PE|NL|YT|NT|NU)\b"
+)
+
 
 def _mentions_canada(*texts):
     """Keyword match for locations that plausibly cover Canada.
@@ -56,7 +64,9 @@ def _mentions_canada(*texts):
     Matches "Canada" itself plus broader regions a Canada-based candidate
     could reasonably apply under ("Global", "North America", "Americas"),
     plus the "CA Remote" / "Remote - CA" shorthand some companies use
-    (e.g. "CA Remote (BC & ON only); U.S. Remote").
+    (e.g. "CA Remote (BC & ON only); U.S. Remote"), plus a Canadian
+    province/territory abbreviation following a city name (e.g.
+    "Kitchener-Waterloo, ON; Toronto, ON").
 
     A bare "CA" token on its own is deliberately NOT treated as Canada:
     that's ambiguous with the US postal abbreviation for California, which
@@ -65,9 +75,12 @@ def _mentions_canada(*texts):
     since that combination is how some ATS postings abbreviate
     "Canada Remote".
     """
-    combined = " ".join(str(t) for t in texts if t).lower()
-    if not combined:
+    raw = " ".join(str(t) for t in texts if t)
+    if not raw:
         return False
+    if _CA_PROVINCE_RE.search(raw):
+        return True
+    combined = raw.lower()
     if any(keyword in combined for keyword in ("canada", "global", "north america", "americas")):
         return True
     return bool(_CA_REMOTE_RE.search(combined))
