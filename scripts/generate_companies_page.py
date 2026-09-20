@@ -155,8 +155,18 @@ HTML_TEMPLATE = """<!DOCTYPE html>
     font-size: 0.95rem;
     border: 1px solid var(--border);
     border-radius: 8px;
-    margin-bottom: 1.25rem;
+    margin-bottom: 0.75rem;
   }}
+  #canada-toggle {{
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    font-size: 0.9rem;
+    color: #374151;
+    margin-bottom: 1.25rem;
+    cursor: pointer;
+  }}
+  #canada-toggle input {{ cursor: pointer; }}
   table {{
     width: 100%;
     border-collapse: collapse;
@@ -210,6 +220,9 @@ HTML_TEMPLATE = """<!DOCTYPE html>
   </header>
 
   <input id="search" type="search" placeholder="Filter by company or ATS..." autocomplete="off" />
+  <label id="canada-toggle">
+    <input type="checkbox" id="canada-only" /> Canada-based only
+  </label>
 
   <table id="companies-table">
     <thead>
@@ -228,18 +241,25 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 
   <script>
     const input = document.getElementById("search");
+    const canadaOnly = document.getElementById("canada-only");
     const rows = Array.from(document.querySelectorAll("#companies-table tbody tr"));
     const emptyMsg = document.getElementById("empty-filter");
-    input.addEventListener("input", () => {{
+
+    function applyFilters() {{
       const q = input.value.trim().toLowerCase();
       let visible = 0;
       rows.forEach((row) => {{
-        const match = row.dataset.search.includes(q);
+        const matchesSearch = row.dataset.search.includes(q);
+        const matchesCanada = !canadaOnly.checked || row.dataset.canada === "true";
+        const match = matchesSearch && matchesCanada;
         row.style.display = match ? "" : "none";
         if (match) visible++;
       }});
       emptyMsg.style.display = visible === 0 ? "block" : "none";
-    }});
+    }}
+
+    input.addEventListener("input", applyFilters);
+    canadaOnly.addEventListener("change", applyFilters);
   </script>
 </body>
 </html>
@@ -251,6 +271,7 @@ def _render_row(c):
     ats = html.escape(c["ats"])
     hq = html.escape(c["hq_country"]) if c["hq_country"] else "&mdash;"
     search_key = html.escape(f"{c['name']} {c['ats']} {c['hq_country']}".lower())
+    is_canada = "true" if c["hq_country"].strip().lower() == "canada" else "false"
 
     if c["careers_url"]:
         name_cell = (
@@ -266,7 +287,7 @@ def _render_row(c):
         jobs_cell = '<span class="badge unsupported">not yet supported</span>'
 
     return (
-        f'      <tr data-search="{search_key}">\n'
+        f'      <tr data-search="{search_key}" data-canada="{is_canada}">\n'
         f"        <td>{name_cell}</td>\n"
         f"        <td>{ats}</td>\n"
         f"        <td>{hq}</td>\n"

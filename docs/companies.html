@@ -44,8 +44,18 @@
     font-size: 0.95rem;
     border: 1px solid var(--border);
     border-radius: 8px;
-    margin-bottom: 1.25rem;
+    margin-bottom: 0.75rem;
   }
+  #canada-toggle {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    font-size: 0.9rem;
+    color: #374151;
+    margin-bottom: 1.25rem;
+    cursor: pointer;
+  }
+  #canada-toggle input { cursor: pointer; }
   table {
     width: 100%;
     border-collapse: collapse;
@@ -94,11 +104,14 @@
 <body>
   <header id="top">
     <h1>Companies</h1>
-    <div id="meta">110 companies tracked &middot; 10529 open jobs &middot; as of 2026-09-20 00:07 UTC</div>
+    <div id="meta">110 companies tracked &middot; 10529 open jobs &middot; as of 2026-09-20 00:45 UTC</div>
     <nav id="nav"><a href="index.html">&larr; New Jobs</a></nav>
   </header>
 
   <input id="search" type="search" placeholder="Filter by company or ATS..." autocomplete="off" />
+  <label id="canada-toggle">
+    <input type="checkbox" id="canada-only" /> Canada-based only
+  </label>
 
   <table id="companies-table">
     <thead>
@@ -110,661 +123,661 @@
       </tr>
     </thead>
     <tbody>
-      <tr data-search="1password ashby canada">
+      <tr data-search="1password ashby canada" data-canada="true">
         <td><a class="company-link" href="https://jobs.ashbyhq.com/1password" target="_blank" rel="noopener noreferrer">1Password</a></td>
         <td>ashby</td>
         <td>Canada</td>
         <td class="jobs">131</td>
       </tr>
-      <tr data-search="air workable us">
+      <tr data-search="air workable us" data-canada="false">
         <td><a class="company-link" href="https://apply.workable.com/air/" target="_blank" rel="noopener noreferrer">Air</a></td>
         <td>workable</td>
         <td>US</td>
         <td class="jobs">0</td>
       </tr>
-      <tr data-search="airops ashby us">
+      <tr data-search="airops ashby us" data-canada="false">
         <td><a class="company-link" href="https://jobs.ashbyhq.com/airops" target="_blank" rel="noopener noreferrer">Airops</a></td>
         <td>ashby</td>
         <td>US</td>
         <td class="jobs">24</td>
       </tr>
-      <tr data-search="alpaca  greenhouse us">
+      <tr data-search="alpaca  greenhouse us" data-canada="false">
         <td><a class="company-link" href="https://job-boards.greenhouse.io/alpaca" target="_blank" rel="noopener noreferrer">Alpaca </a></td>
         <td>greenhouse</td>
         <td>US</td>
         <td class="jobs">115</td>
       </tr>
-      <tr data-search="arista smartrecruiters us">
+      <tr data-search="arista smartrecruiters us" data-canada="false">
         <td><a class="company-link" href="https://jobs.smartrecruiters.com/Arista" target="_blank" rel="noopener noreferrer">Arista</a></td>
         <td>smartrecruiters</td>
         <td>US</td>
         <td class="jobs">0</td>
       </tr>
-      <tr data-search="array greenhouse us">
+      <tr data-search="array greenhouse us" data-canada="false">
         <td><a class="company-link" href="https://job-boards.greenhouse.io/array" target="_blank" rel="noopener noreferrer">Array</a></td>
         <td>greenhouse</td>
         <td>US</td>
         <td class="jobs">19</td>
       </tr>
-      <tr data-search="benchsci lever canada">
+      <tr data-search="benchsci lever canada" data-canada="true">
         <td><a class="company-link" href="https://jobs.lever.co/benchsci" target="_blank" rel="noopener noreferrer">Benchsci</a></td>
         <td>lever</td>
         <td>Canada</td>
         <td class="jobs">1</td>
       </tr>
-      <tr data-search="benevity ashby canada">
+      <tr data-search="benevity ashby canada" data-canada="true">
         <td><a class="company-link" href="https://jobs.ashbyhq.com/benevity" target="_blank" rel="noopener noreferrer">Benevity</a></td>
         <td>ashby</td>
         <td>Canada</td>
         <td class="jobs">16</td>
       </tr>
-      <tr data-search="beyondtrust greenhouse us">
+      <tr data-search="beyondtrust greenhouse us" data-canada="false">
         <td><a class="company-link" href="https://job-boards.greenhouse.io/beyondtrust" target="_blank" rel="noopener noreferrer">BeyondTrust</a></td>
         <td>greenhouse</td>
         <td>US</td>
         <td class="jobs">99</td>
       </tr>
-      <tr data-search="binsentry bamboohr canada">
+      <tr data-search="binsentry bamboohr canada" data-canada="true">
         <td>Binsentry</td>
         <td>bamboohr</td>
         <td>Canada</td>
         <td class="jobs"><span class="badge unsupported">not yet supported</span></td>
       </tr>
-      <tr data-search="biorender gem canada">
+      <tr data-search="biorender gem canada" data-canada="true">
         <td><a class="company-link" href="https://jobs.gem.com/biorender" target="_blank" rel="noopener noreferrer">Biorender</a></td>
         <td>gem</td>
         <td>Canada</td>
         <td class="jobs">41</td>
       </tr>
-      <tr data-search="borrowell workable canada">
+      <tr data-search="borrowell workable canada" data-canada="true">
         <td><a class="company-link" href="https://apply.workable.com/borrowell/" target="_blank" rel="noopener noreferrer">Borrowell</a></td>
         <td>workable</td>
         <td>Canada</td>
         <td class="jobs">10</td>
       </tr>
-      <tr data-search="bosonai lever canada">
+      <tr data-search="bosonai lever canada" data-canada="true">
         <td><a class="company-link" href="https://jobs.lever.co/bosonai" target="_blank" rel="noopener noreferrer">Bosonai</a></td>
         <td>lever</td>
         <td>Canada</td>
         <td class="jobs">7</td>
       </tr>
-      <tr data-search="brave greenhouse us">
+      <tr data-search="brave greenhouse us" data-canada="false">
         <td><a class="company-link" href="https://job-boards.greenhouse.io/brave" target="_blank" rel="noopener noreferrer">Brave</a></td>
         <td>greenhouse</td>
         <td>US</td>
         <td class="jobs">17</td>
       </tr>
-      <tr data-search="carta greenhouse us">
+      <tr data-search="carta greenhouse us" data-canada="false">
         <td><a class="company-link" href="https://job-boards.greenhouse.io/carta" target="_blank" rel="noopener noreferrer">Carta</a></td>
         <td>greenhouse</td>
         <td>US</td>
         <td class="jobs">111</td>
       </tr>
-      <tr data-search="chilipiper ashby us">
+      <tr data-search="chilipiper ashby us" data-canada="false">
         <td><a class="company-link" href="https://jobs.ashbyhq.com/chilipiper" target="_blank" rel="noopener noreferrer">Chilipiper</a></td>
         <td>ashby</td>
         <td>US</td>
         <td class="jobs">5</td>
       </tr>
-      <tr data-search="clearco ashby canada">
+      <tr data-search="clearco ashby canada" data-canada="true">
         <td><a class="company-link" href="https://jobs.ashbyhq.com/clearco" target="_blank" rel="noopener noreferrer">Clearco</a></td>
         <td>ashby</td>
         <td>Canada</td>
         <td class="jobs">5</td>
       </tr>
-      <tr data-search="cloudflare greenhouse us">
+      <tr data-search="cloudflare greenhouse us" data-canada="false">
         <td><a class="company-link" href="https://job-boards.greenhouse.io/cloudflare" target="_blank" rel="noopener noreferrer">Cloudflare</a></td>
         <td>greenhouse</td>
         <td>US</td>
         <td class="jobs">403</td>
       </tr>
-      <tr data-search="cohere ashby canada">
+      <tr data-search="cohere ashby canada" data-canada="true">
         <td><a class="company-link" href="https://jobs.ashbyhq.com/cohere" target="_blank" rel="noopener noreferrer">Cohere</a></td>
         <td>ashby</td>
         <td>Canada</td>
         <td class="jobs">208</td>
       </tr>
-      <tr data-search="coursera greenhouse us">
+      <tr data-search="coursera greenhouse us" data-canada="false">
         <td><a class="company-link" href="https://job-boards.greenhouse.io/coursera" target="_blank" rel="noopener noreferrer">Coursera</a></td>
         <td>greenhouse</td>
         <td>US</td>
         <td class="jobs">29</td>
       </tr>
-      <tr data-search="crowdstrike smartrecruiters us">
+      <tr data-search="crowdstrike smartrecruiters us" data-canada="false">
         <td><a class="company-link" href="https://jobs.smartrecruiters.com/CrowdStrike" target="_blank" rel="noopener noreferrer">Crowdstrike</a></td>
         <td>smartrecruiters</td>
         <td>US</td>
         <td class="jobs">0</td>
       </tr>
-      <tr data-search="cube ashby us">
+      <tr data-search="cube ashby us" data-canada="false">
         <td><a class="company-link" href="https://jobs.ashbyhq.com/cube" target="_blank" rel="noopener noreferrer">Cube</a></td>
         <td>ashby</td>
         <td>US</td>
         <td class="jobs">27</td>
       </tr>
-      <tr data-search="databricks greenhouse us">
+      <tr data-search="databricks greenhouse us" data-canada="false">
         <td><a class="company-link" href="https://job-boards.greenhouse.io/databricks" target="_blank" rel="noopener noreferrer">Databricks</a></td>
         <td>greenhouse</td>
         <td>US</td>
         <td class="jobs">1235</td>
       </tr>
-      <tr data-search="datadog greenhouse us">
+      <tr data-search="datadog greenhouse us" data-canada="false">
         <td><a class="company-link" href="https://job-boards.greenhouse.io/datadog" target="_blank" rel="noopener noreferrer">Datadog</a></td>
         <td>greenhouse</td>
         <td>US</td>
         <td class="jobs">659</td>
       </tr>
-      <tr data-search="docker ashby us">
+      <tr data-search="docker ashby us" data-canada="false">
         <td><a class="company-link" href="https://jobs.ashbyhq.com/docker" target="_blank" rel="noopener noreferrer">Docker</a></td>
         <td>ashby</td>
         <td>US</td>
         <td class="jobs">96</td>
       </tr>
-      <tr data-search="dropbox greenhouse us">
+      <tr data-search="dropbox greenhouse us" data-canada="false">
         <td><a class="company-link" href="https://job-boards.greenhouse.io/dropbox" target="_blank" rel="noopener noreferrer">Dropbox</a></td>
         <td>greenhouse</td>
         <td>US</td>
         <td class="jobs">52</td>
       </tr>
-      <tr data-search="duck duck go ashby us">
+      <tr data-search="duck duck go ashby us" data-canada="false">
         <td><a class="company-link" href="https://jobs.ashbyhq.com/duck-duck-go" target="_blank" rel="noopener noreferrer">Duck Duck Go</a></td>
         <td>ashby</td>
         <td>US</td>
         <td class="jobs">16</td>
       </tr>
-      <tr data-search="elastic greenhouse us">
+      <tr data-search="elastic greenhouse us" data-canada="false">
         <td><a class="company-link" href="https://job-boards.greenhouse.io/elastic" target="_blank" rel="noopener noreferrer">Elastic</a></td>
         <td>greenhouse</td>
         <td>US</td>
         <td class="jobs">391</td>
       </tr>
-      <tr data-search="element451 ashby us">
+      <tr data-search="element451 ashby us" data-canada="false">
         <td><a class="company-link" href="https://jobs.ashbyhq.com/element451" target="_blank" rel="noopener noreferrer">Element451</a></td>
         <td>ashby</td>
         <td>US</td>
         <td class="jobs">16</td>
       </tr>
-      <tr data-search="faire greenhouse us">
+      <tr data-search="faire greenhouse us" data-canada="false">
         <td><a class="company-link" href="https://job-boards.greenhouse.io/faire" target="_blank" rel="noopener noreferrer">Faire</a></td>
         <td>greenhouse</td>
         <td>US</td>
         <td class="jobs">78</td>
       </tr>
-      <tr data-search="fingerprint greenhouse us">
+      <tr data-search="fingerprint greenhouse us" data-canada="false">
         <td><a class="company-link" href="https://job-boards.greenhouse.io/fingerprint" target="_blank" rel="noopener noreferrer">Fingerprint</a></td>
         <td>greenhouse</td>
         <td>US</td>
         <td class="jobs">30</td>
       </tr>
-      <tr data-search="flipp greenhouse canada">
+      <tr data-search="flipp greenhouse canada" data-canada="true">
         <td><a class="company-link" href="https://job-boards.greenhouse.io/flipp" target="_blank" rel="noopener noreferrer">Flipp</a></td>
         <td>greenhouse</td>
         <td>Canada</td>
         <td class="jobs">21</td>
       </tr>
-      <tr data-search="float ashby canada">
+      <tr data-search="float ashby canada" data-canada="true">
         <td><a class="company-link" href="https://jobs.ashbyhq.com/float" target="_blank" rel="noopener noreferrer">Float</a></td>
         <td>ashby</td>
         <td>Canada</td>
         <td class="jobs">20</td>
       </tr>
-      <tr data-search="gatik smartrecruiters us">
+      <tr data-search="gatik smartrecruiters us" data-canada="false">
         <td><a class="company-link" href="https://jobs.smartrecruiters.com/Gatik" target="_blank" rel="noopener noreferrer">Gatik</a></td>
         <td>smartrecruiters</td>
         <td>US</td>
         <td class="jobs">0</td>
       </tr>
-      <tr data-search="geotab greenhouse canada">
+      <tr data-search="geotab greenhouse canada" data-canada="true">
         <td><a class="company-link" href="https://job-boards.greenhouse.io/geotab" target="_blank" rel="noopener noreferrer">Geotab</a></td>
         <td>greenhouse</td>
         <td>Canada</td>
         <td class="jobs">214</td>
       </tr>
-      <tr data-search="gitlab greenhouse us">
+      <tr data-search="gitlab greenhouse us" data-canada="false">
         <td><a class="company-link" href="https://job-boards.greenhouse.io/gitlab" target="_blank" rel="noopener noreferrer">GitLab</a></td>
         <td>greenhouse</td>
         <td>US</td>
         <td class="jobs">247</td>
       </tr>
-      <tr data-search="grammarly workable us">
+      <tr data-search="grammarly workable us" data-canada="false">
         <td><a class="company-link" href="https://apply.workable.com/grammarly/" target="_blank" rel="noopener noreferrer">Grammarly</a></td>
         <td>workable</td>
         <td>US</td>
         <td class="jobs">0</td>
       </tr>
-      <tr data-search="harness workable us">
+      <tr data-search="harness workable us" data-canada="false">
         <td><a class="company-link" href="https://apply.workable.com/harness/" target="_blank" rel="noopener noreferrer">Harness</a></td>
         <td>workable</td>
         <td>US</td>
         <td class="jobs">0</td>
       </tr>
-      <tr data-search="hashicorp workable us">
+      <tr data-search="hashicorp workable us" data-canada="false">
         <td><a class="company-link" href="https://apply.workable.com/hashicorp/" target="_blank" rel="noopener noreferrer">Hashicorp</a></td>
         <td>workable</td>
         <td>US</td>
         <td class="jobs">0</td>
       </tr>
-      <tr data-search="highlightta ashby canada">
+      <tr data-search="highlightta ashby canada" data-canada="true">
         <td><a class="company-link" href="https://jobs.ashbyhq.com/HighlightTA" target="_blank" rel="noopener noreferrer">Highlightta</a></td>
         <td>ashby</td>
         <td>Canada</td>
         <td class="jobs">57</td>
       </tr>
-      <tr data-search="hootsuite greenhouse canada">
+      <tr data-search="hootsuite greenhouse canada" data-canada="true">
         <td><a class="company-link" href="https://job-boards.greenhouse.io/hootsuite" target="_blank" rel="noopener noreferrer">Hootsuite</a></td>
         <td>greenhouse</td>
         <td>Canada</td>
         <td class="jobs">38</td>
       </tr>
-      <tr data-search="hopper ashby canada">
+      <tr data-search="hopper ashby canada" data-canada="true">
         <td><a class="company-link" href="https://jobs.ashbyhq.com/hopper" target="_blank" rel="noopener noreferrer">Hopper</a></td>
         <td>ashby</td>
         <td>Canada</td>
         <td class="jobs">36</td>
       </tr>
-      <tr data-search="index exchange gem canada">
+      <tr data-search="index exchange gem canada" data-canada="true">
         <td><a class="company-link" href="https://jobs.gem.com/index-exchange" target="_blank" rel="noopener noreferrer">Index Exchange</a></td>
         <td>gem</td>
         <td>Canada</td>
         <td class="jobs">45</td>
       </tr>
-      <tr data-search="industrious ashby us">
+      <tr data-search="industrious ashby us" data-canada="false">
         <td><a class="company-link" href="https://jobs.ashbyhq.com/industrious" target="_blank" rel="noopener noreferrer">Industrious</a></td>
         <td>ashby</td>
         <td>US</td>
         <td class="jobs">64</td>
       </tr>
-      <tr data-search="jane ashby canada">
+      <tr data-search="jane ashby canada" data-canada="true">
         <td><a class="company-link" href="https://jobs.ashbyhq.com/jane" target="_blank" rel="noopener noreferrer">Jane</a></td>
         <td>ashby</td>
         <td>Canada</td>
         <td class="jobs">31</td>
       </tr>
-      <tr data-search="kano greenhouse canada">
+      <tr data-search="kano greenhouse canada" data-canada="true">
         <td><a class="company-link" href="https://job-boards.greenhouse.io/kano" target="_blank" rel="noopener noreferrer">Kano</a></td>
         <td>greenhouse</td>
         <td>Canada</td>
         <td class="jobs">2</td>
       </tr>
-      <tr data-search="kepler lever canada">
+      <tr data-search="kepler lever canada" data-canada="true">
         <td><a class="company-link" href="https://jobs.lever.co/kepler" target="_blank" rel="noopener noreferrer">Kepler</a></td>
         <td>lever</td>
         <td>Canada</td>
         <td class="jobs">25</td>
       </tr>
-      <tr data-search="koho ashby canada">
+      <tr data-search="koho ashby canada" data-canada="true">
         <td><a class="company-link" href="https://jobs.ashbyhq.com/koho" target="_blank" rel="noopener noreferrer">Koho</a></td>
         <td>ashby</td>
         <td>Canada</td>
         <td class="jobs">17</td>
       </tr>
-      <tr data-search="league inc. greenhouse canada">
+      <tr data-search="league inc. greenhouse canada" data-canada="true">
         <td><a class="company-link" href="https://job-boards.greenhouse.io/leagueinc" target="_blank" rel="noopener noreferrer">League Inc.</a></td>
         <td>greenhouse</td>
         <td>Canada</td>
         <td class="jobs">30</td>
       </tr>
-      <tr data-search="lime smartrecruiters us">
+      <tr data-search="lime smartrecruiters us" data-canada="false">
         <td><a class="company-link" href="https://jobs.smartrecruiters.com/Lime" target="_blank" rel="noopener noreferrer">Lime</a></td>
         <td>smartrecruiters</td>
         <td>US</td>
         <td class="jobs">0</td>
       </tr>
-      <tr data-search="linus health rippling us">
+      <tr data-search="linus health rippling us" data-canada="false">
         <td><a class="company-link" href="https://ats.rippling.com/linus-health/jobs" target="_blank" rel="noopener noreferrer">Linus Health</a></td>
         <td>rippling</td>
         <td>US</td>
         <td class="jobs">12</td>
       </tr>
-      <tr data-search="litmus ashby canada">
+      <tr data-search="litmus ashby canada" data-canada="true">
         <td><a class="company-link" href="https://jobs.ashbyhq.com/litmus" target="_blank" rel="noopener noreferrer">Litmus</a></td>
         <td>ashby</td>
         <td>Canada</td>
         <td class="jobs">29</td>
       </tr>
-      <tr data-search="livekit ashby us">
+      <tr data-search="livekit ashby us" data-canada="false">
         <td><a class="company-link" href="https://jobs.ashbyhq.com/livekit" target="_blank" rel="noopener noreferrer">Livekit</a></td>
         <td>ashby</td>
         <td>US</td>
         <td class="jobs">35</td>
       </tr>
-      <tr data-search="loopio ashby canada">
+      <tr data-search="loopio ashby canada" data-canada="true">
         <td><a class="company-link" href="https://jobs.ashbyhq.com/loopio" target="_blank" rel="noopener noreferrer">Loopio</a></td>
         <td>ashby</td>
         <td>Canada</td>
         <td class="jobs">14</td>
       </tr>
-      <tr data-search="magical ashby us">
+      <tr data-search="magical ashby us" data-canada="false">
         <td><a class="company-link" href="https://jobs.ashbyhq.com/magical" target="_blank" rel="noopener noreferrer">Magical</a></td>
         <td>ashby</td>
         <td>US</td>
         <td class="jobs">8</td>
       </tr>
-      <tr data-search="magnetforensics lever canada">
+      <tr data-search="magnetforensics lever canada" data-canada="true">
         <td><a class="company-link" href="https://jobs.lever.co/magnetforensics" target="_blank" rel="noopener noreferrer">Magnetforensics</a></td>
         <td>lever</td>
         <td>Canada</td>
         <td class="jobs">47</td>
       </tr>
-      <tr data-search="maple workable canada">
+      <tr data-search="maple workable canada" data-canada="true">
         <td><a class="company-link" href="https://apply.workable.com/maple/" target="_blank" rel="noopener noreferrer">Maple</a></td>
         <td>workable</td>
         <td>Canada</td>
         <td class="jobs">0</td>
       </tr>
-      <tr data-search="mattermost greenhouse us">
+      <tr data-search="mattermost greenhouse us" data-canada="false">
         <td><a class="company-link" href="https://job-boards.greenhouse.io/mattermost" target="_blank" rel="noopener noreferrer">Mattermost</a></td>
         <td>greenhouse</td>
         <td>US</td>
         <td class="jobs">15</td>
       </tr>
-      <tr data-search="mejuri greenhouse canada">
+      <tr data-search="mejuri greenhouse canada" data-canada="true">
         <td><a class="company-link" href="https://job-boards.greenhouse.io/mejuri" target="_blank" rel="noopener noreferrer">Mejuri</a></td>
         <td>greenhouse</td>
         <td>Canada</td>
         <td class="jobs">153</td>
       </tr>
-      <tr data-search="miovision ashby canada">
+      <tr data-search="miovision ashby canada" data-canada="true">
         <td><a class="company-link" href="https://jobs.ashbyhq.com/miovision" target="_blank" rel="noopener noreferrer">Miovision</a></td>
         <td>ashby</td>
         <td>Canada</td>
         <td class="jobs">27</td>
       </tr>
-      <tr data-search="mongodb greenhouse us">
+      <tr data-search="mongodb greenhouse us" data-canada="false">
         <td><a class="company-link" href="https://job-boards.greenhouse.io/mongodb" target="_blank" rel="noopener noreferrer">MongoDB</a></td>
         <td>greenhouse</td>
         <td>US</td>
         <td class="jobs">670</td>
       </tr>
-      <tr data-search="mozilla greenhouse us">
+      <tr data-search="mozilla greenhouse us" data-canada="false">
         <td><a class="company-link" href="https://job-boards.greenhouse.io/mozilla" target="_blank" rel="noopener noreferrer">Mozilla</a></td>
         <td>greenhouse</td>
         <td>US</td>
         <td class="jobs">206</td>
       </tr>
-      <tr data-search="nango ashby us">
+      <tr data-search="nango ashby us" data-canada="false">
         <td><a class="company-link" href="https://jobs.ashbyhq.com/nango" target="_blank" rel="noopener noreferrer">Nango</a></td>
         <td>ashby</td>
         <td>US</td>
         <td class="jobs">11</td>
       </tr>
-      <tr data-search="neofinancial ashby canada">
+      <tr data-search="neofinancial ashby canada" data-canada="true">
         <td><a class="company-link" href="https://jobs.ashbyhq.com/neofinancial" target="_blank" rel="noopener noreferrer">Neofinancial</a></td>
         <td>ashby</td>
         <td>Canada</td>
         <td class="jobs">82</td>
       </tr>
-      <tr data-search="nexxa ashby canada">
+      <tr data-search="nexxa ashby canada" data-canada="true">
         <td><a class="company-link" href="https://jobs.ashbyhq.com/nexxa" target="_blank" rel="noopener noreferrer">Nexxa</a></td>
         <td>ashby</td>
         <td>Canada</td>
         <td class="jobs">18</td>
       </tr>
-      <tr data-search="okta greenhouse us">
+      <tr data-search="okta greenhouse us" data-canada="false">
         <td><a class="company-link" href="https://job-boards.greenhouse.io/okta" target="_blank" rel="noopener noreferrer">Okta</a></td>
         <td>greenhouse</td>
         <td>US</td>
         <td class="jobs">380</td>
       </tr>
-      <tr data-search="outreach lever us">
+      <tr data-search="outreach lever us" data-canada="false">
         <td><a class="company-link" href="https://jobs.lever.co/outreach" target="_blank" rel="noopener noreferrer">Outreach</a></td>
         <td>lever</td>
         <td>US</td>
         <td class="jobs">34</td>
       </tr>
-      <tr data-search="oyster ashby uk">
+      <tr data-search="oyster ashby uk" data-canada="false">
         <td><a class="company-link" href="https://jobs.ashbyhq.com/oyster" target="_blank" rel="noopener noreferrer">Oyster</a></td>
         <td>ashby</td>
         <td>UK</td>
         <td class="jobs">34</td>
       </tr>
-      <tr data-search="palantir lever us">
+      <tr data-search="palantir lever us" data-canada="false">
         <td><a class="company-link" href="https://jobs.lever.co/palantir" target="_blank" rel="noopener noreferrer">Palantir</a></td>
         <td>lever</td>
         <td>US</td>
         <td class="jobs">344</td>
       </tr>
-      <tr data-search="pantheon systems, inc greenhouse us">
+      <tr data-search="pantheon systems, inc greenhouse us" data-canada="false">
         <td><a class="company-link" href="https://job-boards.greenhouse.io/pantheon" target="_blank" rel="noopener noreferrer">Pantheon Systems, Inc</a></td>
         <td>greenhouse</td>
         <td>US</td>
         <td class="jobs">26</td>
       </tr>
-      <tr data-search="plane ashby india">
+      <tr data-search="plane ashby india" data-canada="false">
         <td><a class="company-link" href="https://jobs.ashbyhq.com/plane" target="_blank" rel="noopener noreferrer">Plane</a></td>
         <td>ashby</td>
         <td>India</td>
         <td class="jobs">33</td>
       </tr>
-      <tr data-search="playstation global greenhouse us">
+      <tr data-search="playstation global greenhouse us" data-canada="false">
         <td><a class="company-link" href="https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal" target="_blank" rel="noopener noreferrer">PlayStation Global</a></td>
         <td>greenhouse</td>
         <td>US</td>
         <td class="jobs">363</td>
       </tr>
-      <tr data-search="plotly ashby canada">
+      <tr data-search="plotly ashby canada" data-canada="true">
         <td><a class="company-link" href="https://jobs.ashbyhq.com/plotly" target="_blank" rel="noopener noreferrer">Plotly</a></td>
         <td>ashby</td>
         <td>Canada</td>
         <td class="jobs">1</td>
       </tr>
-      <tr data-search="plume greenhouse us">
+      <tr data-search="plume greenhouse us" data-canada="false">
         <td><a class="company-link" href="https://job-boards.greenhouse.io/plume" target="_blank" rel="noopener noreferrer">Plume</a></td>
         <td>greenhouse</td>
         <td>US</td>
         <td class="jobs">23</td>
       </tr>
-      <tr data-search="plusgrade lever canada">
+      <tr data-search="plusgrade lever canada" data-canada="true">
         <td><a class="company-link" href="https://jobs.lever.co/plusgrade" target="_blank" rel="noopener noreferrer">Plusgrade</a></td>
         <td>lever</td>
         <td>Canada</td>
         <td class="jobs">0</td>
       </tr>
-      <tr data-search="prenuvo greenhouse canada">
+      <tr data-search="prenuvo greenhouse canada" data-canada="true">
         <td><a class="company-link" href="https://job-boards.greenhouse.io/prenuvo" target="_blank" rel="noopener noreferrer">Prenuvo</a></td>
         <td>greenhouse</td>
         <td>Canada</td>
         <td class="jobs">55</td>
       </tr>
-      <tr data-search="procurify ashby canada">
+      <tr data-search="procurify ashby canada" data-canada="true">
         <td><a class="company-link" href="https://jobs.ashbyhq.com/procurify" target="_blank" rel="noopener noreferrer">Procurify</a></td>
         <td>ashby</td>
         <td>Canada</td>
         <td class="jobs">9</td>
       </tr>
-      <tr data-search="proofpoint smartrecruiters us">
+      <tr data-search="proofpoint smartrecruiters us" data-canada="false">
         <td><a class="company-link" href="https://jobs.smartrecruiters.com/Proofpoint" target="_blank" rel="noopener noreferrer">Proofpoint</a></td>
         <td>smartrecruiters</td>
         <td>US</td>
         <td class="jobs">0</td>
       </tr>
-      <tr data-search="q4inc smartrecruiters canada">
+      <tr data-search="q4inc smartrecruiters canada" data-canada="true">
         <td><a class="company-link" href="https://jobs.smartrecruiters.com/Q4Inc" target="_blank" rel="noopener noreferrer">Q4Inc</a></td>
         <td>smartrecruiters</td>
         <td>Canada</td>
         <td class="jobs">0</td>
       </tr>
-      <tr data-search="reddit greenhouse us">
+      <tr data-search="reddit greenhouse us" data-canada="false">
         <td><a class="company-link" href="https://job-boards.greenhouse.io/reddit" target="_blank" rel="noopener noreferrer">Reddit</a></td>
         <td>greenhouse</td>
         <td>US</td>
         <td class="jobs">167</td>
       </tr>
-      <tr data-search="redpanda workable us">
+      <tr data-search="redpanda workable us" data-canada="false">
         <td><a class="company-link" href="https://apply.workable.com/redpanda/" target="_blank" rel="noopener noreferrer">Redpanda</a></td>
         <td>workable</td>
         <td>US</td>
         <td class="jobs">0</td>
       </tr>
-      <tr data-search="relayfi ashby canada">
+      <tr data-search="relayfi ashby canada" data-canada="true">
         <td><a class="company-link" href="https://jobs.ashbyhq.com/relayfi" target="_blank" rel="noopener noreferrer">Relayfi</a></td>
         <td>ashby</td>
         <td>Canada</td>
         <td class="jobs">55</td>
       </tr>
-      <tr data-search="ritual greenhouse canada">
+      <tr data-search="ritual greenhouse canada" data-canada="true">
         <td><a class="company-link" href="https://job-boards.greenhouse.io/ritual" target="_blank" rel="noopener noreferrer">Ritual</a></td>
         <td>greenhouse</td>
         <td>Canada</td>
         <td class="jobs">15</td>
       </tr>
-      <tr data-search="routethis lever canada">
+      <tr data-search="routethis lever canada" data-canada="true">
         <td><a class="company-link" href="https://jobs.lever.co/RouteThis" target="_blank" rel="noopener noreferrer">Routethis</a></td>
         <td>lever</td>
         <td>Canada</td>
         <td class="jobs">3</td>
       </tr>
-      <tr data-search="servicenow smartrecruiters us">
+      <tr data-search="servicenow smartrecruiters us" data-canada="false">
         <td><a class="company-link" href="https://jobs.smartrecruiters.com/ServiceNow" target="_blank" rel="noopener noreferrer">ServiceNow</a></td>
         <td>smartrecruiters</td>
         <td>US</td>
         <td class="jobs">1684</td>
       </tr>
-      <tr data-search="shakepay greenhouse canada">
+      <tr data-search="shakepay greenhouse canada" data-canada="true">
         <td><a class="company-link" href="https://job-boards.greenhouse.io/shakepay" target="_blank" rel="noopener noreferrer">Shakepay</a></td>
         <td>greenhouse</td>
         <td>Canada</td>
         <td class="jobs">11</td>
       </tr>
-      <tr data-search="snowflake smartrecruiters us">
+      <tr data-search="snowflake smartrecruiters us" data-canada="false">
         <td><a class="company-link" href="https://jobs.smartrecruiters.com/Snowflake" target="_blank" rel="noopener noreferrer">Snowflake</a></td>
         <td>smartrecruiters</td>
         <td>US</td>
         <td class="jobs">0</td>
       </tr>
-      <tr data-search="spotify lever sweden">
+      <tr data-search="spotify lever sweden" data-canada="false">
         <td><a class="company-link" href="https://jobs.lever.co/spotify" target="_blank" rel="noopener noreferrer">Spotify</a></td>
         <td>lever</td>
         <td>Sweden</td>
         <td class="jobs">81</td>
       </tr>
-      <tr data-search="stackadapt greenhouse canada">
+      <tr data-search="stackadapt greenhouse canada" data-canada="true">
         <td><a class="company-link" href="https://job-boards.greenhouse.io/stackadapt" target="_blank" rel="noopener noreferrer">StackAdapt</a></td>
         <td>greenhouse</td>
         <td>Canada</td>
         <td class="jobs">140</td>
       </tr>
-      <tr data-search="sumersports llc rippling us">
+      <tr data-search="sumersports llc rippling us" data-canada="false">
         <td><a class="company-link" href="https://ats.rippling.com/sumersports/jobs" target="_blank" rel="noopener noreferrer">SumerSports LLC</a></td>
         <td>rippling</td>
         <td>US</td>
         <td class="jobs">3</td>
       </tr>
-      <tr data-search="supabase ashby us">
+      <tr data-search="supabase ashby us" data-canada="false">
         <td><a class="company-link" href="https://jobs.ashbyhq.com/supabase" target="_blank" rel="noopener noreferrer">Supabase</a></td>
         <td>ashby</td>
         <td>US</td>
         <td class="jobs">62</td>
       </tr>
-      <tr data-search="tailscale greenhouse canada">
+      <tr data-search="tailscale greenhouse canada" data-canada="true">
         <td><a class="company-link" href="https://job-boards.greenhouse.io/tailscale" target="_blank" rel="noopener noreferrer">Tailscale</a></td>
         <td>greenhouse</td>
         <td>Canada</td>
         <td class="jobs">127</td>
       </tr>
-      <tr data-search="teamlfg greenhouse us">
+      <tr data-search="teamlfg greenhouse us" data-canada="false">
         <td><a class="company-link" href="https://job-boards.greenhouse.io/teamlfg" target="_blank" rel="noopener noreferrer">teamLFG</a></td>
         <td>greenhouse</td>
         <td>US</td>
         <td class="jobs">15</td>
       </tr>
-      <tr data-search="tempo io ashby canada">
+      <tr data-search="tempo io ashby canada" data-canada="true">
         <td><a class="company-link" href="https://jobs.ashbyhq.com/tempo-io" target="_blank" rel="noopener noreferrer">Tempo Io</a></td>
         <td>ashby</td>
         <td>Canada</td>
         <td class="jobs">37</td>
       </tr>
-      <tr data-search="thinkific ashby canada">
+      <tr data-search="thinkific ashby canada" data-canada="true">
         <td><a class="company-link" href="https://jobs.ashbyhq.com/thinkific" target="_blank" rel="noopener noreferrer">Thinkific</a></td>
         <td>ashby</td>
         <td>Canada</td>
         <td class="jobs">7</td>
       </tr>
-      <tr data-search="third wave automation greenhouse us">
+      <tr data-search="third wave automation greenhouse us" data-canada="false">
         <td><a class="company-link" href="https://job-boards.greenhouse.io/thirdwaveautomation" target="_blank" rel="noopener noreferrer">Third Wave Automation</a></td>
         <td>greenhouse</td>
         <td>US</td>
         <td class="jobs">5</td>
       </tr>
-      <tr data-search="top hat ashby canada">
+      <tr data-search="top hat ashby canada" data-canada="true">
         <td><a class="company-link" href="https://jobs.ashbyhq.com/top-hat" target="_blank" rel="noopener noreferrer">Top Hat</a></td>
         <td>ashby</td>
         <td>Canada</td>
         <td class="jobs">7</td>
       </tr>
-      <tr data-search="touchbistro greenhouse canada">
+      <tr data-search="touchbistro greenhouse canada" data-canada="true">
         <td><a class="company-link" href="https://job-boards.greenhouse.io/touchbistro" target="_blank" rel="noopener noreferrer">Touchbistro</a></td>
         <td>greenhouse</td>
         <td>Canada</td>
         <td class="jobs">0</td>
       </tr>
-      <tr data-search="trulioo ashby canada">
+      <tr data-search="trulioo ashby canada" data-canada="true">
         <td><a class="company-link" href="https://jobs.ashbyhq.com/trulioo" target="_blank" rel="noopener noreferrer">Trulioo</a></td>
         <td>ashby</td>
         <td>Canada</td>
         <td class="jobs">57</td>
       </tr>
-      <tr data-search="turbopuffer ashby us">
+      <tr data-search="turbopuffer ashby us" data-canada="false">
         <td><a class="company-link" href="https://jobs.ashbyhq.com/turbopuffer" target="_blank" rel="noopener noreferrer">Turbopuffer</a></td>
         <td>ashby</td>
         <td>US</td>
         <td class="jobs">7</td>
       </tr>
-      <tr data-search="twilio greenhouse us">
+      <tr data-search="twilio greenhouse us" data-canada="false">
         <td><a class="company-link" href="https://job-boards.greenhouse.io/twilio" target="_blank" rel="noopener noreferrer">Twilio</a></td>
         <td>greenhouse</td>
         <td>US</td>
         <td class="jobs">325</td>
       </tr>
-      <tr data-search="twitch greenhouse us">
+      <tr data-search="twitch greenhouse us" data-canada="false">
         <td><a class="company-link" href="https://job-boards.greenhouse.io/twitch" target="_blank" rel="noopener noreferrer">Twitch</a></td>
         <td>greenhouse</td>
         <td>US</td>
         <td class="jobs">63</td>
       </tr>
-      <tr data-search="voltera bamboohr canada">
+      <tr data-search="voltera bamboohr canada" data-canada="true">
         <td>Voltera</td>
         <td>bamboohr</td>
         <td>Canada</td>
         <td class="jobs"><span class="badge unsupported">not yet supported</span></td>
       </tr>
-      <tr data-search="voltus lever us">
+      <tr data-search="voltus lever us" data-canada="false">
         <td><a class="company-link" href="https://jobs.lever.co/voltus" target="_blank" rel="noopener noreferrer">Voltus</a></td>
         <td>lever</td>
         <td>US</td>
         <td class="jobs">23</td>
       </tr>
-      <tr data-search="waabi lever canada">
+      <tr data-search="waabi lever canada" data-canada="true">
         <td><a class="company-link" href="https://jobs.lever.co/waabi" target="_blank" rel="noopener noreferrer">Waabi</a></td>
         <td>lever</td>
         <td>Canada</td>
         <td class="jobs">99</td>
       </tr>
-      <tr data-search="wattpad lever canada">
+      <tr data-search="wattpad lever canada" data-canada="true">
         <td><a class="company-link" href="https://jobs.lever.co/wattpad" target="_blank" rel="noopener noreferrer">Wattpad</a></td>
         <td>lever</td>
         <td>Canada</td>
         <td class="jobs">47</td>
       </tr>
-      <tr data-search="wealthsimple ashby canada">
+      <tr data-search="wealthsimple ashby canada" data-canada="true">
         <td><a class="company-link" href="https://jobs.ashbyhq.com/wealthsimple" target="_blank" rel="noopener noreferrer">Wealthsimple</a></td>
         <td>ashby</td>
         <td>Canada</td>
         <td class="jobs">100</td>
       </tr>
-      <tr data-search="webflow greenhouse us">
+      <tr data-search="webflow greenhouse us" data-canada="false">
         <td><a class="company-link" href="https://job-boards.greenhouse.io/webflow" target="_blank" rel="noopener noreferrer">Webflow</a></td>
         <td>greenhouse</td>
         <td>US</td>
         <td class="jobs">64</td>
       </tr>
-      <tr data-search="zapier ashby us">
+      <tr data-search="zapier ashby us" data-canada="false">
         <td><a class="company-link" href="https://jobs.ashbyhq.com/zapier" target="_blank" rel="noopener noreferrer">Zapier</a></td>
         <td>ashby</td>
         <td>US</td>
         <td class="jobs">8</td>
       </tr>
-      <tr data-search="zoom workable us">
+      <tr data-search="zoom workable us" data-canada="false">
         <td><a class="company-link" href="https://apply.workable.com/zoom/" target="_blank" rel="noopener noreferrer">Zoom</a></td>
         <td>workable</td>
         <td>US</td>
@@ -776,18 +789,25 @@
 
   <script>
     const input = document.getElementById("search");
+    const canadaOnly = document.getElementById("canada-only");
     const rows = Array.from(document.querySelectorAll("#companies-table tbody tr"));
     const emptyMsg = document.getElementById("empty-filter");
-    input.addEventListener("input", () => {
+
+    function applyFilters() {
       const q = input.value.trim().toLowerCase();
       let visible = 0;
       rows.forEach((row) => {
-        const match = row.dataset.search.includes(q);
+        const matchesSearch = row.dataset.search.includes(q);
+        const matchesCanada = !canadaOnly.checked || row.dataset.canada === "true";
+        const match = matchesSearch && matchesCanada;
         row.style.display = match ? "" : "none";
         if (match) visible++;
       });
       emptyMsg.style.display = visible === 0 ? "block" : "none";
-    });
+    }
+
+    input.addEventListener("input", applyFilters);
+    canadaOnly.addEventListener("change", applyFilters);
   </script>
 </body>
 </html>
