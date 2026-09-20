@@ -2,8 +2,8 @@
 """
 Generate docs/companies.html — a static page listing every company tracked
 in companies.csv, its ATS platform, HQ location, current open-role count,
-and a link to its live careers page. Also writes docs/companies.json as a
-raw data snapshot.
+how many of those openings can be based in Canada, and a link to its live
+careers page. Also writes docs/companies.json as a raw data snapshot.
 
 Unlike generate_new_jobs.py this isn't time-windowed: it reflects whatever
 is currently in data/ (typically after `crawl.py` has just run), so it's
@@ -46,32 +46,98 @@ def _careers_url(slug, platform):
     return template.format(slug=slug) if template else None
 
 
-def _job_count(slug):
-    path = os.path.join(DATA_DIR, slug)
-    if not os.path.isdir(path):
-        return 0
-    return len(glob.glob(os.path.join(path, "**", "*.json"), recursive=True))
+def _mentions_canada(*texts):
+    """Keyword match for "Canada" in free-text location fields.
+
+    Deliberately does NOT match a bare "CA" token: that's ambiguous with the
+    US postal abbreviation for California, which shows up constantly in
+    greenhouse/gem/rippling location strings (e.g. "San Mateo, CA").
+    """
+    combined = " ".join(str(t) for t in texts if t).lower()
+    return "canada" in combined
 
 
-def _sample_company_name(slug):
-    """Peek at one crawled job file to recover the ATS-reported company name."""
+def _is_canada_job(platform, job):
+    """Best-effort: can this specific opening be based in Canada?
+
+    Uses structured country fields where the ATS provides them, falling back
+    to keyword matching on free-text location fields.
+    """
+    if platform == "greenhouse":
+        return _mentions_canada((job.get("location") or {}).get("name"))
+
+    if platform == "lever":
+        if str(job.get("country") or "").strip().lower() == "ca":
+            return True
+        categories = job.get("categories") or {}
+        return _mentions_canada(categories.get("location"), *(categories.get("allLocations") or []))
+
+    if platform == "ashby":
+        address = ((job.get("address") or {}).get("postalAddress") or {})
+        if _mentions_canada(address.get("addressCountry")):
+            return True
+        if _mentions_canada(job.get("location")):
+            return True
+        for secondary in job.get("secondaryLocations") or []:
+            secondary_address = ((secondary.get("address") or {}).get("postalAddress") or {})
+            if _mentions_canada(secondary.get("location"), secondary_address.get("addressCountry")):
+                return True
+        return False
+
+    if platform == "workable":
+        if str(job.get("country") or "").strip().lower() == "canada":
+            return True
+        for loc in job.get("locations") or []:
+            if str(loc.get("country") or "").strip().lower() == "canada" or str(loc.get("countryCode") or "").strip().lower() == "ca":
+                return True
+        return False
+
+    if platform == "smartrecruiters":
+        loc = job.get("location") or {}
+        if str(loc.get("country") or "").strip().lower() == "ca":
+            return True
+        return _mentions_canada(loc.get("fullLocation"))
+
+    if platform == "gem":
+        return _mentions_canada((job.get("location") or {}).get("name"))
+
+    if platform == "rippling":
+        return _mentions_canada(*(job.get("workLocations") or []))
+
+    return False
+
+
+def _scan_company_jobs(slug, platform):
+    """Single pass over a company's crawled job files.
+
+    Returns (sample_company_name, job_count, canada_job_count).
+    """
     path = os.path.join(DATA_DIR, slug)
     if not os.path.isdir(path):
-        return None
+        return None, 0, 0
+
+    sample_name = None
+    job_count = 0
+    canada_job_count = 0
     for match in glob.glob(os.path.join(path, "**", "*.json"), recursive=True):
         try:
             with open(match) as f:
                 job = json.load(f)
         except (OSError, json.JSONDecodeError):
             continue
-        name = (
-            job.get("company_name")
-            or job.get("companyName")
-            or (job.get("company") or {}).get("name")
-        )
-        if name:
-            return name
-    return None
+
+        job_count += 1
+        if _is_canada_job(platform, job):
+            canada_job_count += 1
+
+        if sample_name is None:
+            sample_name = (
+                job.get("company_name")
+                or job.get("companyName")
+                or (job.get("company") or {}).get("name")
+            )
+
+    return sample_name, job_count, canada_job_count
 
 
 def _display_name(slug, sample_name):
@@ -89,12 +155,16 @@ def _build_manifest():
         slug = row["slug"]
         platform = row["ats"]
         supported = platform in SUPPORTED_PLATFORMS
+        sample_name, job_count, canada_job_count = (
+            _scan_company_jobs(slug, platform) if supported else (None, 0, 0)
+        )
         companies.append({
             "slug": slug,
-            "name": _display_name(slug, _sample_company_name(slug)),
+            "name": _display_name(slug, sample_name),
             "ats": platform,
             "hq_country": row.get("hq_country") or "",
-            "job_count": _job_count(slug) if supported else 0,
+            "job_count": job_count,
+            "canada_job_count": canada_job_count,
             "careers_url": _careers_url(slug, platform),
             "supported": supported,
         })
@@ -205,6 +275,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
     color: var(--muted);
   }}
   .badge.unsupported {{ color: #b91c1c; border-color: #fecaca; background: #fef2f2; }}
+  .badge.canada {{ color: #047857; border-color: #a7f3d0; background: #ecfdf5; }}
   #empty-filter {{
     display: none;
     color: var(--muted);
@@ -221,7 +292,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 
   <input id="search" type="search" placeholder="Filter by company or ATS..." autocomplete="off" />
   <label id="canada-toggle">
-    <input type="checkbox" id="canada-only" /> Canada-based only
+    <input type="checkbox" id="canada-only" /> Only show companies with openings based in Canada
   </label>
 
   <table id="companies-table">
@@ -271,7 +342,7 @@ def _render_row(c):
     ats = html.escape(c["ats"])
     hq = html.escape(c["hq_country"]) if c["hq_country"] else "&mdash;"
     search_key = html.escape(f"{c['name']} {c['ats']} {c['hq_country']}".lower())
-    is_canada = "true" if c["hq_country"].strip().lower() == "canada" else "false"
+    is_canada = "true" if c["canada_job_count"] > 0 else "false"
 
     if c["careers_url"]:
         name_cell = (
@@ -283,6 +354,8 @@ def _render_row(c):
 
     if c["supported"]:
         jobs_cell = str(c["job_count"])
+        if c["canada_job_count"] > 0:
+            jobs_cell += f' <span class="badge canada">{c["canada_job_count"]} in Canada</span>'
     else:
         jobs_cell = '<span class="badge unsupported">not yet supported</span>'
 
