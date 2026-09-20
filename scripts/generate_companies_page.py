@@ -18,6 +18,7 @@ import json
 import os
 import re
 import sys
+import urllib.parse
 from datetime import datetime, timezone
 
 DATA_DIR = "data"
@@ -263,7 +264,8 @@ def _scan_company_jobs(slug, platform):
 def _display_name(slug, sample_name):
     if sample_name:
         return sample_name
-    return slug.replace("-", " ").replace("_", " ").title()
+    decoded = urllib.parse.unquote(slug)
+    return decoded.replace("-", " ").replace("_", " ").title()
 
 
 def _build_manifest():

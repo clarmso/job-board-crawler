@@ -20,12 +20,93 @@ import csv
 import html
 import json
 import os
+import re
 import subprocess
 import sys
+import urllib.parse
 from datetime import datetime, timezone
 
 DATA_DIR = "data"
 LOOKBACK_HOURS = 24
+
+_CA_REMOTE_RE = re.compile(r"\bca\s*[-\u2013\u2014]?\s*remote\b|\bremote\s*[-\u2013\u2014]?\s*ca\b")
+
+# Canadian province/territory postal abbreviations, as they appear after a
+# city name in free-text location strings (e.g. "Kitchener-Waterloo, ON").
+# Deliberately case-sensitive and requires a preceding comma: matching case-
+# insensitively would false-positive on the common English word "on".
+_CA_PROVINCE_RE = re.compile(
+    r",\s*(ON|BC|QC|AB|MB|SK|NS|NB|PE|NL|YT|NT|NU)\b"
+)
+
+
+def _mentions_canada(*texts):
+    """Keyword match for locations that plausibly cover Canada.
+
+    Kept in sync with generate_companies_page.py's _mentions_canada (see
+    that docstring for full rationale).
+    """
+    raw = " ".join(str(t) for t in texts if t)
+    if not raw:
+        return False
+    if _CA_PROVINCE_RE.search(raw):
+        return True
+    combined = raw.lower()
+    if any(keyword in combined for keyword in ("canada", "global", "north america", "americas")):
+        return True
+    return bool(_CA_REMOTE_RE.search(combined))
+
+
+def _is_canada_job(platform, job):
+    """Best-effort: can this specific opening be based in Canada?
+
+    Kept in sync with generate_companies_page.py's _is_canada_job.
+    """
+    if platform == "greenhouse":
+        return _mentions_canada((job.get("location") or {}).get("name"))
+
+    if platform == "lever":
+        if str(job.get("country") or "").strip().lower() == "ca":
+            return True
+        categories = job.get("categories") or {}
+        return _mentions_canada(categories.get("location"), *(categories.get("allLocations") or []))
+
+    if platform == "ashby":
+        address = ((job.get("address") or {}).get("postalAddress") or {})
+        if _mentions_canada(address.get("addressCountry")):
+            return True
+        if _mentions_canada(job.get("location")):
+            return True
+        for secondary in job.get("secondaryLocations") or []:
+            secondary_address = ((secondary.get("address") or {}).get("postalAddress") or {})
+            if _mentions_canada(secondary.get("location"), secondary_address.get("addressCountry")):
+                return True
+        return False
+
+    if platform == "workable":
+        if str(job.get("country") or "").strip().lower() == "canada":
+            return True
+        for loc in job.get("locations") or []:
+            if str(loc.get("country") or "").strip().lower() == "canada" or str(loc.get("countryCode") or "").strip().lower() == "ca":
+                return True
+        location_texts = [job.get("country"), job.get("city"), job.get("state")]
+        for loc in job.get("locations") or []:
+            location_texts.extend([loc.get("country"), loc.get("city"), loc.get("region")])
+        return _mentions_canada(*location_texts)
+
+    if platform == "smartrecruiters":
+        loc = job.get("location") or {}
+        if str(loc.get("country") or "").strip().lower() == "ca":
+            return True
+        return _mentions_canada(loc.get("fullLocation"), loc.get("city"))
+
+    if platform == "gem":
+        return _mentions_canada((job.get("location") or {}).get("name"))
+
+    if platform == "rippling":
+        return _mentions_canada(*(job.get("workLocations") or []))
+
+    return False
 
 
 def _load_ats_by_slug(companies_csv="companies.csv"):
@@ -160,7 +241,11 @@ def _extract(platform, job):
 def _display_name(slug, extracted_name):
     if extracted_name:
         return extracted_name
-    return slug.replace("-", " ").replace("_", " ").title()
+    # Slugs can be URL-encoded (e.g. Ashby org names with spaces, stored as
+    # "Superhuman%20Platform%20Inc" so the crawler builds a valid URL);
+    # decode for display purposes until real job data supplies a sample_name.
+    decoded = urllib.parse.unquote(slug)
+    return decoded.replace("-", " ").replace("_", " ").title()
 
 
 def _build_manifest():
@@ -189,7 +274,10 @@ def _build_manifest():
             continue
 
         entry = companies.setdefault(slug, {"name": _display_name(slug, name), "jobs": []})
-        entry["jobs"].append({"title": title, "url": url, "location": location, "mode": mode})
+        entry["jobs"].append({
+            "title": title, "url": url, "location": location, "mode": mode,
+            "canada": _is_canada_job(platform, job),
+        })
 
     return {
         "generated_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
@@ -316,6 +404,16 @@ HTML_TEMPLATE = """<!DOCTYPE html>
   .job-mode.remote {{ color: #047857; border-color: #a7f3d0; background: #ecfdf5; }}
   .job-mode.hybrid {{ color: #b45309; border-color: #fde68a; background: #fffbeb; }}
   .job-mode.on-site {{ color: #4338ca; border-color: #c7d2fe; background: #eef2ff; }}
+  .job-canada {{
+    display: inline-block;
+    margin-left: 0.4rem;
+    padding: 0.05rem 0.5rem;
+    border-radius: 999px;
+    border: 1px solid #fecaca;
+    background: #fef2f2;
+    color: #b91c1c;
+    font-size: 0.75rem;
+  }}
   #empty {{
     color: var(--muted);
     padding: 2rem 0;
@@ -357,10 +455,13 @@ def _render_job_item(job):
     url = html.escape(job["url"])
     location = job.get("location") or ""
     mode = job.get("mode") or ""
+    is_canada = job.get("canada")
 
     meta_parts = []
     if location:
         meta_parts.append(html.escape(location))
+    if is_canada:
+        meta_parts.append('<span class="job-canada">🇨🇦 Canada</span>')
     if mode:
         mode_class = mode.lower().replace(" ", "-")
         meta_parts.append(f'<span class="job-mode {mode_class}">{html.escape(mode)}</span>')
