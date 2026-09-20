@@ -47,14 +47,21 @@ def _careers_url(slug, platform):
 
 
 def _mentions_canada(*texts):
-    """Keyword match for "Canada" in free-text location fields.
+    """Keyword match for locations that plausibly cover Canada.
 
+    Matches "Canada" itself plus broader regions a Canada-based candidate
+    could reasonably apply under ("Global", "North America", "Americas").
     Deliberately does NOT match a bare "CA" token: that's ambiguous with the
     US postal abbreviation for California, which shows up constantly in
     greenhouse/gem/rippling location strings (e.g. "San Mateo, CA").
     """
     combined = " ".join(str(t) for t in texts if t).lower()
-    return "canada" in combined
+    if not combined:
+        return False
+    return any(
+        keyword in combined
+        for keyword in ("canada", "global", "north america", "americas")
+    )
 
 
 def _is_canada_job(platform, job):
@@ -90,13 +97,18 @@ def _is_canada_job(platform, job):
         for loc in job.get("locations") or []:
             if str(loc.get("country") or "").strip().lower() == "canada" or str(loc.get("countryCode") or "").strip().lower() == "ca":
                 return True
-        return False
+        # Fall back to free text for regional postings ("Global", "Americas", ...)
+        # that don't map to a single ISO country field.
+        location_texts = [job.get("country"), job.get("city"), job.get("state")]
+        for loc in job.get("locations") or []:
+            location_texts.extend([loc.get("country"), loc.get("city"), loc.get("region")])
+        return _mentions_canada(*location_texts)
 
     if platform == "smartrecruiters":
         loc = job.get("location") or {}
         if str(loc.get("country") or "").strip().lower() == "ca":
             return True
-        return _mentions_canada(loc.get("fullLocation"))
+        return _mentions_canada(loc.get("fullLocation"), loc.get("city"))
 
     if platform == "gem":
         return _mentions_canada((job.get("location") or {}).get("name"))
