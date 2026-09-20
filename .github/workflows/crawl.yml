@@ -21,12 +21,20 @@ jobs:
       - name: Run crawler
         run: python crawl.py
 
+      - name: Generate new jobs manifest
+        if: always()
+        run: python scripts/generate_new_jobs.py
+
+      - name: Generate companies page
+        if: always()
+        run: python scripts/generate_companies_page.py
+
       - name: Commit changes
         if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/
+          git add data/ docs/new_jobs.json docs/index.html docs/companies.json docs/companies.html
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
