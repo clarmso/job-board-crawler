@@ -486,7 +486,7 @@ def _render_row(c):
     if c["supported"]:
         jobs_cell = str(c["job_count"])
         if c["canada_job_count"] > 0:
-            jobs_cell += ' <span class="badge canada">Canada</span>'
+            jobs_cell += ' <span class="badge canada">🇨🇦 Canada</span>'
         if c["remote_job_count"] > 0:
             jobs_cell += ' <span class="badge remote">Remote</span>'
     else:
