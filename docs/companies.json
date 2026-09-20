@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-20T05:11:28Z",
-  "total_companies": 105,
+  "generated_at": "2026-09-20T05:16:09Z",
+  "total_companies": 102,
   "total_open_jobs": 11185,
   "companies": [
     {
@@ -334,6 +334,16 @@
       "supported": true
     },
     {
+      "slug": "getmaple",
+      "name": "Getmaple",
+      "ats": "lever",
+      "hq_country": "Canada",
+      "job_count": 0,
+      "canada_job_count": 0,
+      "careers_url": "https://jobs.lever.co/getmaple",
+      "supported": true
+    },
+    {
       "slug": "gitlab",
       "name": "GitLab",
       "ats": "greenhouse",
@@ -344,16 +354,6 @@
       "supported": true
     },
     {
-      "slug": "grammarly",
-      "name": "Grammarly",
-      "ats": "workable",
-      "hq_country": "US",
-      "job_count": 0,
-      "canada_job_count": 0,
-      "careers_url": "https://apply.workable.com/grammarly/",
-      "supported": true
-    },
-    {
       "slug": "harnessinc",
       "name": "Harnessinc",
       "ats": "greenhouse",
@@ -361,16 +361,6 @@
       "job_count": 0,
       "canada_job_count": 0,
       "careers_url": "https://job-boards.greenhouse.io/harnessinc",
-      "supported": true
-    },
-    {
-      "slug": "hashicorp",
-      "name": "Hashicorp",
-      "ats": "workable",
-      "hq_country": "US",
-      "job_count": 0,
-      "canada_job_count": 0,
-      "careers_url": "https://apply.workable.com/hashicorp/",
       "supported": true
     },
     {
@@ -531,16 +521,6 @@
       "job_count": 47,
       "canada_job_count": 21,
       "careers_url": "https://jobs.lever.co/magnetforensics",
-      "supported": true
-    },
-    {
-      "slug": "maple",
-      "name": "Maple",
-      "ats": "workable",
-      "hq_country": "Canada",
-      "job_count": 0,
-      "canada_job_count": 0,
-      "careers_url": "https://apply.workable.com/maple/",
       "supported": true
     },
     {
@@ -714,16 +694,6 @@
       "supported": true
     },
     {
-      "slug": "plusgrade",
-      "name": "Plusgrade",
-      "ats": "lever",
-      "hq_country": "Canada",
-      "job_count": 0,
-      "canada_job_count": 0,
-      "careers_url": "https://jobs.lever.co/plusgrade",
-      "supported": true
-    },
-    {
       "slug": "prenuvo",
       "name": "Prenuvo",
       "ats": "greenhouse",
@@ -764,13 +734,13 @@
       "supported": true
     },
     {
-      "slug": "redpanda",
-      "name": "Redpanda",
-      "ats": "workable",
+      "slug": "redpanda-data",
+      "name": "Redpanda Data",
+      "ats": "ashby",
       "hq_country": "US",
       "job_count": 0,
       "canada_job_count": 0,
-      "careers_url": "https://apply.workable.com/redpanda/",
+      "careers_url": "https://jobs.ashbyhq.com/redpanda-data",
       "supported": true
     },
     {
