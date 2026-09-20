@@ -231,8 +231,17 @@ HTML_TEMPLATE = """<!DOCTYPE html>
   #meta {{
     color: var(--muted);
     font-size: 0.9rem;
-    margin-bottom: 1.5rem;
+    margin-bottom: 0.5rem;
   }}
+  #nav {{
+    margin-bottom: 1.5rem;
+    font-size: 0.9rem;
+  }}
+  #nav a {{
+    color: var(--accent);
+    text-decoration: none;
+  }}
+  #nav a:hover {{ text-decoration: underline; }}
   #toc {{
     background: #f9fafb;
     border: 1px solid var(--border);
@@ -330,6 +339,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
   <header id="top">
     <h1>New Jobs</h1>
     <div id="meta">{meta}</div>
+    <nav id="nav"><a href="companies.html">Companies crawled &rarr;</a></nav>
   </header>
 
 {toc}
