@@ -1,18 +1,14 @@
 #!/usr/bin/env python3
 """
-Generate docs/index.html — a fully static page listing jobs newly added
-within the past LOOKBACK_HOURS, grouped by company, for the GitHub Pages
+Generate docs/index.html — a fully static page listing jobs actually posted
+within the past LOOKBACK_HOURS (per the ATS's own posting timestamp, not
+when we happened to crawl them), grouped by company, for the GitHub Pages
 site. Also writes docs/new_jobs.json as a raw data snapshot.
 
-crawl.yml can run more than once a day, so "new" is computed as a rolling
-time window over git history (every commit that first created a data/*.json
-file within the window), merged with any not-yet-committed additions from
-the current run. This avoids missing jobs from earlier same-day runs and
-avoids double-counting a job across multiple runs.
-
-Must run AFTER `crawl.py` but BEFORE the crawl output is committed, since it
-also inspects the working tree for the current run's not-yet-committed
-additions.
+Scans every job file currently under data/ and keeps only those whose
+ATS-reported posting/publish timestamp falls within the lookback window, so
+it doesn't matter how many times crawl.yml ran or when — "new" always
+reflects the job's real posting date.
 """
 
 import argparse
@@ -21,13 +17,12 @@ import html
 import json
 import os
 import re
-import subprocess
 import sys
 import urllib.parse
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 
 DATA_DIR = "data"
-LOOKBACK_HOURS = 24
+LOOKBACK_HOURS = 48
 
 _CA_REMOTE_RE = re.compile(r"\bca\s*[-\u2013\u2014]?\s*remote\b|\bremote\s*[-\u2013\u2014]?\s*ca\b")
 
@@ -159,6 +154,23 @@ def _is_canada_job(platform, job, is_remote=False):
     return False
 
 
+CAREERS_URL_BY_PLATFORM = {
+    "greenhouse": "https://job-boards.greenhouse.io/{slug}",
+    "lever": "https://jobs.lever.co/{slug}",
+    "ashby": "https://jobs.ashbyhq.com/{slug}",
+    "workable": "https://apply.workable.com/{slug}/",
+    "recruitee": "https://{slug}.recruitee.com/",
+    "smartrecruiters": "https://careers.smartrecruiters.com/{slug}/",
+    "gem": "https://jobs.gem.com/{slug}",
+    "rippling": "https://ats.rippling.com/{slug}/jobs",
+}
+
+
+def _careers_url(slug, platform):
+    template = CAREERS_URL_BY_PLATFORM.get(platform)
+    return template.format(slug=slug) if template else None
+
+
 def _load_ats_by_slug(companies_csv="companies.csv"):
     ats_by_slug = {}
     with open(companies_csv, newline="") as f:
@@ -169,49 +181,83 @@ def _load_ats_by_slug(companies_csv="companies.csv"):
     return ats_by_slug
 
 
-def _commits_since(hours):
-    result = subprocess.run(
-        ["git", "log", f"--since={hours}.hours.ago", "--pretty=format:%H", "--", DATA_DIR],
-        capture_output=True, text=True, check=True,
-    )
-    return [line for line in result.stdout.splitlines() if line.strip()]
+def _parse_timestamp(raw):
+    """Best-effort parse of an ATS-provided timestamp into an aware UTC datetime.
+
+    Handles ISO-8601 strings (with or without timezone, with or without
+    fractional seconds), epoch milliseconds (int/numeric string), and plain
+    "YYYY-MM-DD" date strings.
+    """
+    if raw is None:
+        return None
+    if isinstance(raw, (int, float)):
+        # Epoch milliseconds (lever, ashby-style numeric timestamps).
+        try:
+            return datetime.fromtimestamp(raw / 1000.0, tz=timezone.utc)
+        except (OSError, OverflowError, ValueError):
+            return None
+
+    text = str(raw).strip()
+    if not text:
+        return None
+
+    if text.isdigit():
+        try:
+            return datetime.fromtimestamp(int(text) / 1000.0, tz=timezone.utc)
+        except (OSError, OverflowError, ValueError):
+            return None
+
+    # datetime.fromisoformat doesn't accept a trailing "Z" before 3.11.
+    normalized = text.replace("Z", "+00:00")
+    try:
+        parsed = datetime.fromisoformat(normalized)
+    except ValueError:
+        try:
+            parsed = datetime.strptime(text, "%Y-%m-%d")
+        except ValueError:
+            return None
+
+    if parsed.tzinfo is None:
+        parsed = parsed.replace(tzinfo=timezone.utc)
+    return parsed.astimezone(timezone.utc)
 
 
-def _files_added_in_commit(commit):
-    result = subprocess.run(
-        ["git", "diff-tree", "--no-commit-id", "--name-only", "-r",
-         "--diff-filter=A", commit, "--", DATA_DIR],
-        capture_output=True, text=True, check=True,
-    )
-    return [line for line in result.stdout.splitlines() if line.endswith(".json")]
+def _posted_at(platform, job):
+    """Best-effort: when was this specific opening actually posted/published,
+    according to the ATS itself (not when we happened to crawl it)?
+
+    Returns an aware UTC datetime, or None if no usable timestamp field is
+    present (in which case the job is treated as not-new, to avoid
+    incorrectly surfacing stale postings).
+    """
+    if platform == "greenhouse":
+        return _parse_timestamp(job.get("first_published") or job.get("updated_at"))
+    if platform == "lever":
+        return _parse_timestamp(job.get("createdAt"))
+    if platform == "ashby":
+        return _parse_timestamp(job.get("publishedAt"))
+    if platform == "workable":
+        return _parse_timestamp(job.get("published_on") or job.get("created_at"))
+    if platform == "smartrecruiters":
+        return _parse_timestamp(job.get("releasedDate"))
+    if platform == "gem":
+        return _parse_timestamp(job.get("first_published_at") or job.get("created_at"))
+    if platform == "rippling":
+        return _parse_timestamp(job.get("createdOn"))
+    return None
 
 
-def _added_data_files():
-    """Return paths (relative to repo root) of files under data/ that were
-    first created within the past LOOKBACK_HOURS, across however many crawl
-    runs/commits happened in that window, plus any not-yet-committed
-    additions from the run currently in progress."""
-    added = set()
-
-    for commit in _commits_since(LOOKBACK_HOURS):
-        added.update(_files_added_in_commit(commit))
-
-    # Not-yet-committed additions from this run (working tree vs last commit).
-    result = subprocess.run(
-        ["git", "diff", "--diff-filter=A", "--name-only", "--", DATA_DIR],
-        capture_output=True, text=True, check=True,
-    )
-    added.update(line for line in result.stdout.splitlines() if line.endswith(".json"))
-
-    untracked = subprocess.run(
-        ["git", "ls-files", "--others", "--exclude-standard", "--", DATA_DIR],
-        capture_output=True, text=True, check=True,
-    )
-    added.update(line for line in untracked.stdout.splitlines() if line.endswith(".json"))
-
-    # Only keep files that still exist (job postings that have since been
-    # removed shouldn't be advertised as "new").
-    return sorted(path for path in added if os.path.exists(path))
+def _all_data_files():
+    """Return paths (relative to repo root) of every job file currently
+    under data/. Filtering to "new" happens later, based on each job's own
+    ATS-reported posting timestamp rather than when the file landed in
+    data/."""
+    matches = []
+    for root, _dirs, files in os.walk(DATA_DIR):
+        for name in files:
+            if name.endswith(".json"):
+                matches.append(os.path.join(root, name))
+    return sorted(matches)
 
 
 def _mode_from_text(text):
@@ -300,11 +346,12 @@ def _display_name(slug, extracted_name):
 
 def _build_manifest():
     ats_by_slug = _load_ats_by_slug()
-    added_files = _added_data_files()
+    all_files = _all_data_files()
+    cutoff = datetime.now(timezone.utc) - timedelta(hours=LOOKBACK_HOURS)
 
     companies = {}  # slug -> {"name": str, "jobs": [...]}
 
-    for path in added_files:
+    for path in all_files:
         parts = path.split(os.sep)
         if len(parts) < 3 or parts[0] != DATA_DIR:
             continue
@@ -319,11 +366,17 @@ def _build_manifest():
         except (OSError, json.JSONDecodeError):
             continue
 
+        posted_at = _posted_at(platform, job)
+        if not posted_at or posted_at < cutoff:
+            continue
+
         title, url, name, location, mode = _extract(platform, job)
         if not title or not url:
             continue
 
-        entry = companies.setdefault(slug, {"name": _display_name(slug, name), "jobs": []})
+        entry = companies.setdefault(
+            slug, {"name": _display_name(slug, name), "careers_url": _careers_url(slug, platform), "jobs": []}
+        )
         entry["jobs"].append({
             "title": title, "url": url, "location": location, "mode": mode,
             "canada": _is_canada_job(platform, job, is_remote=(mode == "Remote")),
@@ -333,7 +386,10 @@ def _build_manifest():
         "generated_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "total_new_jobs": sum(len(c["jobs"]) for c in companies.values()),
         "companies": [
-            {"slug": slug, "name": data["name"], "jobs": sorted(data["jobs"], key=lambda j: j["title"])}
+            {
+                "slug": slug, "name": data["name"], "careers_url": data["careers_url"],
+                "jobs": sorted(data["jobs"], key=lambda j: j["title"]),
+            }
             for slug, data in sorted(companies.items(), key=lambda kv: kv[1]["name"].lower())
         ],
     }
@@ -422,6 +478,11 @@ HTML_TEMPLATE = """<!DOCTYPE html>
     font-weight: normal;
     font-size: 0.9rem;
   }}
+  .company h2 a.company-link {{
+    color: inherit;
+    text-decoration: none;
+  }}
+  .company h2 a.company-link:hover {{ color: var(--accent); text-decoration: underline; }}
   .company ul {{
     list-style: none;
     padding: 0;
@@ -532,7 +593,7 @@ def _render_html(manifest):
     total = manifest["total_new_jobs"]
     companies = manifest["companies"]
     meta = (
-        f"Jobs posted in the last 24 hours (as of {generated.strftime('%Y-%m-%d %H:%M UTC')}) "
+        f"Jobs posted in the last {LOOKBACK_HOURS} hours (as of {generated.strftime('%Y-%m-%d %H:%M UTC')}) "
         f"&middot; {total} new job{'' if total == 1 else 's'} across "
         f"{len(companies)} compan{'y' if len(companies) == 1 else 'ies'}"
     )
@@ -556,9 +617,15 @@ def _render_html(manifest):
         sections = []
         for c in companies:
             job_items = "\n".join(_render_job_item(j) for j in c["jobs"])
+            name_html = html.escape(c["name"])
+            if c.get("careers_url"):
+                name_html = (
+                    f'<a class="company-link" href="{html.escape(c["careers_url"])}" '
+                    f'target="_blank" rel="noopener noreferrer">{name_html}</a>'
+                )
             sections.append(
                 f'    <section class="company" id="company-{html.escape(c["slug"])}">\n'
-                f'      <h2>{html.escape(c["name"])} <span class="count">({len(c["jobs"])})</span></h2>\n'
+                f'      <h2>{name_html} <span class="count">({len(c["jobs"])})</span></h2>\n'
                 f"      <ul>\n{job_items}\n      </ul>\n"
                 f"    </section>"
             )
