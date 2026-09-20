@@ -1562,3 +1562,4 @@ Proofpoint,workday,,Uses Workday (unsupported ATS),US
 binsentry,bamboohr,,,Canada
 lime,ashby,,Ashby-hosted job board (jobs.ashbyhq.com/lime) works but public posting-api returns 404 (API access disabled),US
 plusgrade,workday,https://plusgrade.wd10.myworkdayjobs.com/Plusgrade_External_Site,Uses Workday (unsupported ATS),Canada
+zoom,workday,https://careers.zoom.us/jobs/search,Careers site is Clinch-branded but applications go through Workday (unsupported ATS),US
