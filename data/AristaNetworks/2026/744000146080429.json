@@ -1,0 +1,79 @@
+{
+  "id": "744000146080429",
+  "name": "Senior Manager, IT Infrastructure & Multi-Cloud Systems",
+  "uuid": "d0e6d336-83fc-483d-9f72-53f8f60ec43c",
+  "jobAdId": "c4af15c9-d031-4d32-8848-fcc58652ceb3",
+  "defaultJobAd": true,
+  "refNumber": "REF3671W",
+  "company": {
+    "identifier": "AristaNetworks",
+    "name": "Arista Networks"
+  },
+  "releasedDate": "2026-08-27T23:47:51.562Z",
+  "location": {
+    "city": "Austin",
+    "region": "TX",
+    "country": "us",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "30.267153",
+    "longitude": "-97.7430608",
+    "fullLocation": "Austin, TX, United States"
+  },
+  "industry": {
+    "id": "computer_networking",
+    "label": "Computer Networking"
+  },
+  "department": {
+    "id": "1650384",
+    "label": "Information Technology"
+  },
+  "function": {
+    "id": "engineering",
+    "label": "Engineering"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "us",
+      "valueLabel": "United States"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e1",
+      "fieldLabel": "Department",
+      "valueId": "1650384",
+      "valueLabel": "Information Technology"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e0",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Arista Networks"
+    },
+    {
+      "fieldId": "62a7845974fe2c08874d5452",
+      "fieldLabel": "Role",
+      "valueId": "4e150511-63af-4e42-850a-47ad805607cc",
+      "valueLabel": "Senior"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000146080429",
+  "creator": {
+    "name": "Purva Arora"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

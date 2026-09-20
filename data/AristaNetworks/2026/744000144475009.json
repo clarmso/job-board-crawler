@@ -1,0 +1,78 @@
+{
+  "id": "744000144475009",
+  "name": "Software Engineer - Platform Team - Greece",
+  "uuid": "45b34f72-516a-45a9-8e65-67c530dfcf30",
+  "jobAdId": "b62bd011-17a3-4c3c-a488-cdb61b869a42",
+  "defaultJobAd": true,
+  "refNumber": "REF1639Q",
+  "company": {
+    "identifier": "AristaNetworks",
+    "name": "Arista Networks"
+  },
+  "releasedDate": "2026-08-20T07:27:07.767Z",
+  "location": {
+    "city": "Athens",
+    "country": "gr",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "37.9838096",
+    "longitude": "23.7275388",
+    "fullLocation": "Athens, , Greece"
+  },
+  "industry": {
+    "id": "computer_networking",
+    "label": "Computer Networking"
+  },
+  "department": {
+    "id": "1455224",
+    "label": "Software Engineering"
+  },
+  "function": {
+    "id": "engineering",
+    "label": "Engineering"
+  },
+  "typeOfEmployment": {
+    "id": "contract",
+    "label": "Contract"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "gr",
+      "valueLabel": "Greece"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e1",
+      "fieldLabel": "Department",
+      "valueId": "1455224",
+      "valueLabel": "Software Engineering"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e0",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Arista Networks"
+    },
+    {
+      "fieldId": "62a7845974fe2c08874d5452",
+      "fieldLabel": "Role",
+      "valueId": "4e150511-63af-4e42-850a-47ad805607cc",
+      "valueLabel": "Senior"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000144475009",
+  "creator": {
+    "name": "Emer OKelly"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

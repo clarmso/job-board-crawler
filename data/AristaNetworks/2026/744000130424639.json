@@ -1,0 +1,72 @@
+{
+  "id": "744000130424639",
+  "name": "AI Pursuit Strategic Account Manager",
+  "uuid": "03124545-3538-4074-b6b1-dbfd7ff97234",
+  "jobAdId": "e12eb750-fcb6-49d2-ae1c-0a77b9e91259",
+  "defaultJobAd": true,
+  "refNumber": "REF3364D",
+  "company": {
+    "identifier": "AristaNetworks",
+    "name": "Arista Networks"
+  },
+  "releasedDate": "2026-06-05T11:02:24.604Z",
+  "location": {
+    "city": "Singapore",
+    "country": "sg",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "1.2811866",
+    "longitude": "103.8503404",
+    "fullLocation": "Singapore, , Singapore"
+  },
+  "industry": {
+    "id": "computer_networking",
+    "label": "Computer Networking"
+  },
+  "department": {
+    "id": "1392052",
+    "label": "Sales"
+  },
+  "function": {
+    "id": "information_technology",
+    "label": "Information Technology"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "sg",
+      "valueLabel": "Singapore"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e1",
+      "fieldLabel": "Department",
+      "valueId": "1392052",
+      "valueLabel": "Sales"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e0",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Arista Networks"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000130424639",
+  "creator": {
+    "name": "Albee Nyein"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

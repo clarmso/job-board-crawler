@@ -1,0 +1,79 @@
+{
+  "id": "744000136348879",
+  "name": "Senior Hardware Design Engineer, Ethernet Switching",
+  "uuid": "2673c0d7-94a5-4425-b7e8-b40a146ad937",
+  "jobAdId": "053c9ca6-ee34-4b94-8aff-c8540f6ff4bd",
+  "defaultJobAd": true,
+  "refNumber": "REF3539Q",
+  "company": {
+    "identifier": "AristaNetworks",
+    "name": "Arista Networks"
+  },
+  "releasedDate": "2026-07-08T00:27:24.556Z",
+  "location": {
+    "city": "Roseville",
+    "region": "CA",
+    "country": "us",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "38.7482609",
+    "longitude": "-121.2832193",
+    "fullLocation": "Roseville, CA, United States"
+  },
+  "industry": {
+    "id": "computer_networking",
+    "label": "Computer Networking"
+  },
+  "department": {
+    "id": "1650435",
+    "label": "Hardware Engineering"
+  },
+  "function": {
+    "id": "engineering",
+    "label": "Engineering"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "us",
+      "valueLabel": "United States"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e1",
+      "fieldLabel": "Department",
+      "valueId": "1650435",
+      "valueLabel": "Hardware Engineering"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e0",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Arista Networks"
+    },
+    {
+      "fieldId": "62a7845974fe2c08874d5452",
+      "fieldLabel": "Role",
+      "valueId": "4e150511-63af-4e42-850a-47ad805607cc",
+      "valueLabel": "Senior"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000136348879",
+  "creator": {
+    "name": "manju upadhyay"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

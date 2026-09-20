@@ -1,0 +1,73 @@
+{
+  "id": "744000143933451",
+  "name": "Major Account Manager",
+  "uuid": "881d6bc7-a2e4-473e-a6ff-2e6d1bd7f71b",
+  "jobAdId": "b1ac07b4-c821-4c66-b6ce-e743a63593e3",
+  "defaultJobAd": true,
+  "refNumber": "REF3315X",
+  "company": {
+    "identifier": "AristaNetworks",
+    "name": "Arista Networks"
+  },
+  "releasedDate": "2026-08-17T21:57:57.632Z",
+  "location": {
+    "city": "San Francisco",
+    "region": "CA",
+    "country": "us",
+    "remote": true,
+    "hybrid": false,
+    "latitude": "37.7749295",
+    "longitude": "-122.4194155",
+    "fullLocation": "San Francisco, CA, United States"
+  },
+  "industry": {
+    "id": "computer_networking",
+    "label": "Computer Networking"
+  },
+  "department": {
+    "id": "1392052",
+    "label": "Sales"
+  },
+  "function": {
+    "id": "sales",
+    "label": "Sales"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "us",
+      "valueLabel": "United States"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e1",
+      "fieldLabel": "Department",
+      "valueId": "1392052",
+      "valueLabel": "Sales"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e0",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Arista Networks"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000143933451",
+  "creator": {
+    "name": "Tommy Houran"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

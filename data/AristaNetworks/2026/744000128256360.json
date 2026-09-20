@@ -1,0 +1,76 @@
+{
+  "id": "744000128256360",
+  "name": "Internal Auditor",
+  "uuid": "4ef31d32-6550-41ce-819a-23b8668e260c",
+  "jobAdId": "735fe2e8-a184-4cdd-a0ab-7216be0d13e5",
+  "defaultJobAd": true,
+  "refNumber": "REF3406S",
+  "company": {
+    "identifier": "AristaNetworks",
+    "name": "Arista Networks"
+  },
+  "releasedDate": "2026-05-25T19:31:55.054Z",
+  "location": {
+    "city": "Poland - Remote",
+    "country": "pl",
+    "remote": true,
+    "hybrid": false,
+    "fullLocation": "Poland - Remote, , Poland"
+  },
+  "industry": {
+    "id": "computer_networking",
+    "label": "Computer Networking"
+  },
+  "department": {
+    "id": "1650367",
+    "label": "Finance"
+  },
+  "function": {
+    "id": "information_technology",
+    "label": "Information Technology"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "pl",
+      "valueLabel": "Poland"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e1",
+      "fieldLabel": "Department",
+      "valueId": "1650367",
+      "valueLabel": "Finance"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e0",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Arista Networks"
+    },
+    {
+      "fieldId": "62a7845974fe2c08874d5452",
+      "fieldLabel": "Role",
+      "valueId": "4e150511-63af-4e42-850a-47ad805607cc",
+      "valueLabel": "Senior"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000128256360",
+  "creator": {
+    "name": "Sadiya Hussain"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "744000132441840",
+  "name": "Application Support Engineer",
+  "uuid": "ad293722-9ce5-4bad-87b8-700c9fb06687",
+  "jobAdId": "4d6cd92f-a414-496d-9c22-8db32477620c",
+  "defaultJobAd": true,
+  "refNumber": "REF3519F",
+  "company": {
+    "identifier": "AristaNetworks",
+    "name": "Arista Networks"
+  },
+  "releasedDate": "2026-06-16T14:52:59.618Z",
+  "location": {
+    "city": "Denver Metropolitan Area",
+    "region": "Colorado",
+    "country": "us",
+    "remote": false,
+    "hybrid": true,
+    "fullLocation": "Denver Metropolitan Area, Colorado, United States"
+  },
+  "industry": {
+    "id": "computer_networking",
+    "label": "Computer Networking"
+  },
+  "department": {
+    "id": "1504864",
+    "label": "Customer Support"
+  },
+  "function": {
+    "id": "information_technology",
+    "label": "Information Technology"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "entry_level",
+    "label": "Entry Level"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "us",
+      "valueLabel": "United States"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e1",
+      "fieldLabel": "Department",
+      "valueId": "1504864",
+      "valueLabel": "Customer Support"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e0",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Arista Networks"
+    },
+    {
+      "fieldId": "62a7845974fe2c08874d5452",
+      "fieldLabel": "Role",
+      "valueId": "4e150511-63af-4e42-850a-47ad805607cc",
+      "valueLabel": "Senior"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000132441840",
+  "creator": {
+    "name": "Sushma Purushotham"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

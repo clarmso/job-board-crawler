@@ -1,0 +1,79 @@
+{
+  "id": "744000064630444",
+  "name": "Senior/Lead Software Engineer, Layer1 ",
+  "uuid": "b6b3a589-0919-42ed-9119-de9a7cebaae9",
+  "jobAdId": "e996e0d5-4f51-449f-8c8c-d4967dc3f31c",
+  "defaultJobAd": true,
+  "refNumber": "REF2710V",
+  "company": {
+    "identifier": "AristaNetworks",
+    "name": "Arista Networks"
+  },
+  "releasedDate": "2025-06-11T23:39:22.923Z",
+  "location": {
+    "city": "Santa Clara",
+    "region": "CA",
+    "country": "us",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "37.3541079",
+    "longitude": "-121.9552356",
+    "fullLocation": "Santa Clara, CA, United States"
+  },
+  "industry": {
+    "id": "computer_networking",
+    "label": "Computer Networking"
+  },
+  "department": {
+    "id": "1455224",
+    "label": "Software Engineering"
+  },
+  "function": {
+    "id": "information_technology",
+    "label": "Information Technology"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "us",
+      "valueLabel": "United States"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e1",
+      "fieldLabel": "Department",
+      "valueId": "1455224",
+      "valueLabel": "Software Engineering"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e0",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Arista Networks"
+    },
+    {
+      "fieldId": "62a7845974fe2c08874d5452",
+      "fieldLabel": "Role",
+      "valueId": "4e150511-63af-4e42-850a-47ad805607cc",
+      "valueLabel": "Senior"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000064630444",
+  "creator": {
+    "name": "Sushma Purushotham"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

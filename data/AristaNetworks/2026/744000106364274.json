@@ -1,0 +1,70 @@
+{
+  "id": "744000106364274",
+  "name": "Solutions Architect (ERP/NetSuite)",
+  "uuid": "c92c968a-eb14-47bc-9194-40af6afe922d",
+  "jobAdId": "d53c8bd2-d267-4a17-bc8c-c10092e10ad2",
+  "defaultJobAd": true,
+  "refNumber": "REF2844L",
+  "company": {
+    "identifier": "AristaNetworks",
+    "name": "Arista Networks"
+  },
+  "releasedDate": "2026-01-29T18:38:13.189Z",
+  "location": {
+    "city": "Santa Clara",
+    "country": "us",
+    "remote": true,
+    "hybrid": false,
+    "fullLocation": "Santa Clara, , United States"
+  },
+  "industry": {
+    "id": "computer_networking",
+    "label": "Computer Networking"
+  },
+  "department": {
+    "id": "1650384",
+    "label": "Information Technology"
+  },
+  "function": {
+    "id": "engineering",
+    "label": "Engineering"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "us",
+      "valueLabel": "United States"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e1",
+      "fieldLabel": "Department",
+      "valueId": "1650384",
+      "valueLabel": "Information Technology"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e0",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Arista Networks"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000106364274",
+  "creator": {
+    "name": "Sadiya Hussain"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

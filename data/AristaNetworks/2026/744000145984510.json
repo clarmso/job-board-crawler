@@ -1,0 +1,79 @@
+{
+  "id": "744000145984510",
+  "name": "Regional Sales Manager - Florida ",
+  "uuid": "4c41a910-5fc2-487a-bc08-5960c6e6cfa9",
+  "jobAdId": "2bfb810c-93f8-4a83-a16e-1e843b7946e6",
+  "defaultJobAd": true,
+  "refNumber": "REF3655M",
+  "company": {
+    "identifier": "AristaNetworks",
+    "name": "Arista Networks"
+  },
+  "releasedDate": "2026-08-27T13:17:49.655Z",
+  "location": {
+    "city": "Orlando",
+    "region": "FL",
+    "country": "us",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "28.5383832",
+    "longitude": "-81.3789269",
+    "fullLocation": "Orlando, FL, United States"
+  },
+  "industry": {
+    "id": "computer_networking",
+    "label": "Computer Networking"
+  },
+  "department": {
+    "id": "1392052",
+    "label": "Sales"
+  },
+  "function": {
+    "id": "sales",
+    "label": "Sales"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "director",
+    "label": "Director"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "us",
+      "valueLabel": "United States"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e1",
+      "fieldLabel": "Department",
+      "valueId": "1392052",
+      "valueLabel": "Sales"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e0",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Arista Networks"
+    },
+    {
+      "fieldId": "62a7845974fe2c08874d5452",
+      "fieldLabel": "Role",
+      "valueId": "4e150511-63af-4e42-850a-47ad805607cc",
+      "valueLabel": "Senior"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000145984510",
+  "creator": {
+    "name": "Todd Cich"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

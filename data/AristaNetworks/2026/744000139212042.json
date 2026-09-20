@@ -1,0 +1,78 @@
+{
+  "id": "744000139212042",
+  "name": "NPI Engineer - Product Operations Manager",
+  "uuid": "c05a2aa5-729e-4234-9e56-052623dbe0ca",
+  "jobAdId": "ea10baea-556f-4231-a5b7-75a0b9f06f34",
+  "defaultJobAd": true,
+  "refNumber": "REF3565B",
+  "company": {
+    "identifier": "AristaNetworks",
+    "name": "Arista Networks"
+  },
+  "releasedDate": "2026-07-23T06:44:23.123Z",
+  "location": {
+    "city": "Taipei",
+    "country": "tw",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "25.0329694",
+    "longitude": "121.5654177",
+    "fullLocation": "Taipei, , Taiwan"
+  },
+  "industry": {
+    "id": "computer_networking",
+    "label": "Computer Networking"
+  },
+  "department": {
+    "id": "1650452",
+    "label": "NPI Engineering"
+  },
+  "function": {
+    "id": "engineering",
+    "label": "Engineering"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "associate",
+    "label": "Associate"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "tw",
+      "valueLabel": "Taiwan"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e1",
+      "fieldLabel": "Department",
+      "valueId": "1650452",
+      "valueLabel": "NPI Engineering"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e0",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Arista Networks"
+    },
+    {
+      "fieldId": "62a7845974fe2c08874d5452",
+      "fieldLabel": "Role",
+      "valueId": "4e150511-63af-4e42-850a-47ad805607cc",
+      "valueLabel": "Senior"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000139212042",
+  "creator": {
+    "name": "Albee Nyein"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "744000127477474",
+  "name": "Failure Analysis Engineer",
+  "uuid": "3d1d40ab-41ca-4641-bd03-f0730d400a4e",
+  "jobAdId": "333c0ff1-feab-4520-9244-91be46e080d7",
+  "defaultJobAd": true,
+  "refNumber": "REF3476G",
+  "company": {
+    "identifier": "AristaNetworks",
+    "name": "Arista Networks"
+  },
+  "releasedDate": "2026-05-20T16:08:52.404Z",
+  "location": {
+    "city": "Guadalajara",
+    "region": "Jal.",
+    "country": "mx",
+    "remote": true,
+    "hybrid": false,
+    "latitude": "20.6751707",
+    "longitude": "-103.3473385",
+    "fullLocation": "Guadalajara, Jal., Mexico"
+  },
+  "industry": {
+    "id": "computer_networking",
+    "label": "Computer Networking"
+  },
+  "department": {
+    "id": "1650520",
+    "label": "Service Logistics & Repairs"
+  },
+  "function": {
+    "id": "information_technology",
+    "label": "Information Technology"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "mx",
+      "valueLabel": "Mexico"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e1",
+      "fieldLabel": "Department",
+      "valueId": "1650520",
+      "valueLabel": "Service Logistics & Repairs"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e0",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Arista Networks"
+    },
+    {
+      "fieldId": "62a7845974fe2c08874d5452",
+      "fieldLabel": "Role",
+      "valueId": "4e150511-63af-4e42-850a-47ad805607cc",
+      "valueLabel": "Senior"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000127477474",
+  "creator": {
+    "name": "Sadiya Hussain"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": "e4c75616-b76c-414a-9b59-af7bacb0d0c6",
+  "title": "Implementation Engineer, Observe",
+  "department": "Global Support",
+  "team": "Global Support",
+  "employmentType": "FullTime",
+  "location": "US-NY-New York",
+  "shouldDisplayCompensationOnJobPostings": true,
+  "secondaryLocations": [
+    {
+      "location": "US-NJ Metro-Remote",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "New Jersey",
+          "addressCountry": "United States",
+          "addressLocality": "Remote"
+        }
+      }
+    },
+    {
+      "location": "US-NY-Remote",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "New York",
+          "addressCountry": "United States",
+          "addressLocality": "Remote"
+        }
+      }
+    }
+  ],
+  "publishedAt": "2026-08-20T19:43:36.983+00:00",
+  "isListed": true,
+  "isRemote": null,
+  "workplaceType": null,
+  "address": {
+    "postalAddress": {
+      "addressRegion": "New York",
+      "addressCountry": "United States",
+      "addressLocality": "New York"
+    }
+  },
+  "jobUrl": "https://jobs.ashbyhq.com/Snowflake/e4c75616-b76c-414a-9b59-af7bacb0d0c6",
+  "applyUrl": "https://jobs.ashbyhq.com/Snowflake/e4c75616-b76c-414a-9b59-af7bacb0d0c6/application",
+  "descriptionHtml": "<p style=\"min-height:1.5em\">At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don’t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset — who rapidly test emerging capabilities to discover simpler, more powerful ways to deliver results. At Snowflake, your role isn't just to execute a function, but to help redefine the future of how work gets done.</p><p style=\"min-height:1.5em\"><strong>Observe by Snowflake</strong> is a high-growth SaaS observability platform built on the Snowflake AI Data Cloud, enabling businesses to troubleshoot modern distributed applications 10x faster. Now, as a core part of Snowflake, we’ve reached a major milestone in the evolution of the Snowflake platform. By bringing AI-powered observability directly into the Snowflake ecosystem, we’ve created the first truly unified platform for telemetry and business data.</p><p style=\"min-height:1.5em\">We’re looking for an Implementation Engineer to help enterprise customers successfully deploy, configure, and operationalize Observe.</p><p style=\"min-height:1.5em\">This is a hands-on, post-sales technical role focused on delivering strong first outcomes, accelerating time-to-value, and establishing a solid foundation for long-term customer success. Implementation Engineers are deeply technical, customer-facing practitioners who work closely with customer platform, SRE, DevOps, and application teams during onboarding and early adoption.</p><p style=\"min-height:1.5em\">In this role, you’ll translate existing observability architectures (including OpenTelemetry-based pipelines, Splunk, ELK, and other monitoring solutions) into scalable, production-ready implementations on Observe—using best practices while balancing speed, quality, and customer enablement.</p><p style=\"min-height:1.5em\">Implementation Engineers focus on <strong>initial deployments and time-to-value</strong>. They set the technical foundation and tone for the customer relationship by ensuring early success, sound architecture, and a clear path forward. Once customers are live and operational, Observability Engineers and Architects build on this foundation—driving deeper adoption, new use cases, and long-term value.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>What You’ll Do</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Lead structured implementations for enterprise customers, from kickoff through initial production readiness</p></li><li><p style=\"min-height:1.5em\">Design and configure telemetry ingestion pipelines across logs, metrics, and traces, including parsing, enrichment, normalization, and routing</p></li><li><p style=\"min-height:1.5em\">Work hands-on with OpenTelemetry instrumentation and collectors, helping customers adopt modern, vendor-neutral observability standards</p></li><li><p style=\"min-height:1.5em\">Migrate and modernize existing observability environments (e.g., Splunk, ELK, cloud-native monitoring tools) into Observe</p></li><li><p style=\"min-height:1.5em\">Configure datasets, dashboards, alerts, and core observability assets aligned to customer use cases</p></li><li><p style=\"min-height:1.5em\">Establish implementation plans, milestones, and success criteria in partnership with customers</p></li><li><p style=\"min-height:1.5em\">Deliver practical, hands-on guidance that enables customers to become self-sufficient on the platform</p></li><li><p style=\"min-height:1.5em\">Identify technical risks, data quality issues, or architectural gaps early and proactively address them</p></li><li><p style=\"min-height:1.5em\">Capture implementation patterns, best practices, and reusable assets to improve consistency and scalability across the team</p></li><li><p style=\"min-height:1.5em\">Collaborate closely with Observability Engineers, Architects, Support, Product, and Engineering to ensure smooth transitions and ongoing success</p></li></ul><p style=\"min-height:1.5em\"><strong>What You’ll Bring</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">5+ years of experience in customer-facing technical roles such as implementation engineer, solutions architect, technical consultant, or SRE</p></li><li><p style=\"min-height:1.5em\">Strong hands-on experience with observability platforms and telemetry pipelines</p></li><li><p style=\"min-height:1.5em\">Practical experience with OpenTelemetry (instrumentation, collectors, exporters, pipelines)</p></li><li><p style=\"min-height:1.5em\">Experience working with one or more commercial or open-source observability solutions (e.g., Splunk, ELK/Elastic, Datadog, New Relic, Dynatrace, Grafana)</p></li><li><p style=\"min-height:1.5em\">Solid understanding of logs, metrics, and traces, including data modeling and tradeoffs at scale</p></li><li><p style=\"min-height:1.5em\">Experience working in cloud environments (AWS, GCP, Azure) and modern application architectures</p></li><li><p style=\"min-height:1.5em\">Ability to work directly with technical customer teams and communicate clearly at multiple levels</p></li><li><p style=\"min-height:1.5em\">Strong problem-solving skills and comfort working through ambiguity in fast-moving environments</p></li></ul><p style=\"min-height:1.5em\"><strong>Nice to Have</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Experience migrating customers from Splunk or ELK to modern observability platforms</p></li><li><p style=\"min-height:1.5em\">Background in SRE, DevOps, or platform engineering roles</p></li><li><p style=\"min-height:1.5em\">Familiarity with Kubernetes, containerized workloads, and cloud-native tooling</p></li><li><p style=\"min-height:1.5em\">Experience creating implementation templates, runbooks, or enablement content</p></li><li><p style=\"min-height:1.5em\">Exposure to multiple observability vendors or hybrid observability environments</p></li></ul><p style=\"min-height:1.5em\">This role is ideal for a technically strong practitioner who enjoys building real solutions with customers, delivering early wins, and helping shape repeatable, scalable post-sales practices.</p><p style=\"min-height:1.5em\">Snowflake is growing fast, and we’re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake.</p><p style=\"min-height:1.5em\">How do you want to make your impact?</p><p style=\"min-height:1.5em\">For jobs located in the United States, please visit the job posting on the Snowflake Careers Site for salary and benefits information: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://careers.snowflake.com\">careers.snowflake.com</a></p>",
+  "descriptionPlain": "At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don’t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset — who rapidly test emerging capabilities to discover simpler, more powerful ways to deliver results. At Snowflake, your role isn't just to execute a function, but to help redefine the future of how work gets done.\n\nObserve by Snowflake is a high-growth SaaS observability platform built on the Snowflake AI Data Cloud, enabling businesses to troubleshoot modern distributed applications 10x faster. Now, as a core part of Snowflake, we’ve reached a major milestone in the evolution of the Snowflake platform. By bringing AI-powered observability directly into the Snowflake ecosystem, we’ve created the first truly unified platform for telemetry and business data.\n\nWe’re looking for an Implementation Engineer to help enterprise customers successfully deploy, configure, and operationalize Observe.\n\nThis is a hands-on, post-sales technical role focused on delivering strong first outcomes, accelerating time-to-value, and establishing a solid foundation for long-term customer success. Implementation Engineers are deeply technical, customer-facing practitioners who work closely with customer platform, SRE, DevOps, and application teams during onboarding and early adoption.\n\nIn this role, you’ll translate existing observability architectures (including OpenTelemetry-based pipelines, Splunk, ELK, and other monitoring solutions) into scalable, production-ready implementations on Observe—using best practices while balancing speed, quality, and customer enablement.\n\nImplementation Engineers focus on initial deployments and time-to-value. They set the technical foundation and tone for the customer relationship by ensuring early success, sound architecture, and a clear path forward. Once customers are live and operational, Observability Engineers and Architects build on this foundation—driving deeper adoption, new use cases, and long-term value.\n\n\n\nWhat You’ll Do\n\n - Lead structured implementations for enterprise customers, from kickoff through initial production readiness\n\n - Design and configure telemetry ingestion pipelines across logs, metrics, and traces, including parsing, enrichment, normalization, and routing\n\n - Work hands-on with OpenTelemetry instrumentation and collectors, helping customers adopt modern, vendor-neutral observability standards\n\n - Migrate and modernize existing observability environments (e.g., Splunk, ELK, cloud-native monitoring tools) into Observe\n\n - Configure datasets, dashboards, alerts, and core observability assets aligned to customer use cases\n\n - Establish implementation plans, milestones, and success criteria in partnership with customers\n\n - Deliver practical, hands-on guidance that enables customers to become self-sufficient on the platform\n\n - Identify technical risks, data quality issues, or architectural gaps early and proactively address them\n\n - Capture implementation patterns, best practices, and reusable assets to improve consistency and scalability across the team\n\n - Collaborate closely with Observability Engineers, Architects, Support, Product, and Engineering to ensure smooth transitions and ongoing success\n\nWhat You’ll Bring\n\n - 5+ years of experience in customer-facing technical roles such as implementation engineer, solutions architect, technical consultant, or SRE\n\n - Strong hands-on experience with observability platforms and telemetry pipelines\n\n - Practical experience with OpenTelemetry (instrumentation, collectors, exporters, pipelines)\n\n - Experience working with one or more commercial or open-source observability solutions (e.g., Splunk, ELK/Elastic, Datadog, New Relic, Dynatrace, Grafana)\n\n - Solid understanding of logs, metrics, and traces, including data modeling and tradeoffs at scale\n\n - Experience working in cloud environments (AWS, GCP, Azure) and modern application architectures\n\n - Ability to work directly with technical customer teams and communicate clearly at multiple levels\n\n - Strong problem-solving skills and comfort working through ambiguity in fast-moving environments\n\nNice to Have\n\n - Experience migrating customers from Splunk or ELK to modern observability platforms\n\n - Background in SRE, DevOps, or platform engineering roles\n\n - Familiarity with Kubernetes, containerized workloads, and cloud-native tooling\n\n - Experience creating implementation templates, runbooks, or enablement content\n\n - Exposure to multiple observability vendors or hybrid observability environments\n\nThis role is ideal for a technically strong practitioner who enjoys building real solutions with customers, delivering early wins, and helping shape repeatable, scalable post-sales practices.\n\nSnowflake is growing fast, and we’re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake.\n\nHow do you want to make your impact?\n\nFor jobs located in the United States, please visit the job posting on the Snowflake Careers Site for salary and benefits information: careers.snowflake.com http://careers.snowflake.com",
+  "compensation": {
+    "compensationTierSummary": "$160K – $210K",
+    "scrapeableCompensationSalarySummary": "$160K - $210K",
+    "compensationTiers": [
+      {
+        "id": "5f12b404-f44f-4568-a6cc-e65803021d7a",
+        "tierSummary": "$160K – $210K",
+        "title": null,
+        "additionalInformation": null,
+        "components": [
+          {
+            "id": "a9446362-9825-4521-8e1e-dd1a08486628",
+            "summary": "$160K – $210K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 160000,
+            "maxValue": 210000
+          }
+        ]
+      }
+    ],
+    "summaryComponents": [
+      {
+        "compensationType": "Salary",
+        "interval": "1 YEAR",
+        "currencyCode": "USD",
+        "minValue": 160000,
+        "maxValue": 210000
+      }
+    ]
+  }
+}

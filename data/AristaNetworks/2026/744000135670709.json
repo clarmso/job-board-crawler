@@ -1,0 +1,79 @@
+{
+  "id": "744000135670709",
+  "name": "Software Engineer, EOS (Early-career/Mid-level) - Sydney",
+  "uuid": "75d3379e-4590-457a-9611-b9645c82322f",
+  "jobAdId": "00a4ae48-708d-47b0-b3a2-aa84cd8a0393",
+  "defaultJobAd": true,
+  "refNumber": "REF3549V",
+  "company": {
+    "identifier": "AristaNetworks",
+    "name": "Arista Networks"
+  },
+  "releasedDate": "2026-07-03T08:26:01.017Z",
+  "location": {
+    "city": "Sydney",
+    "region": "NSW",
+    "country": "au",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "-33.8622503",
+    "longitude": "151.207684",
+    "fullLocation": "Sydney, NSW, Australia"
+  },
+  "industry": {
+    "id": "computer_networking",
+    "label": "Computer Networking"
+  },
+  "department": {
+    "id": "1455224",
+    "label": "Software Engineering"
+  },
+  "function": {
+    "id": "engineering",
+    "label": "Engineering"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "associate",
+    "label": "Associate"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "au",
+      "valueLabel": "Australia"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e1",
+      "fieldLabel": "Department",
+      "valueId": "1455224",
+      "valueLabel": "Software Engineering"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e0",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Arista Networks"
+    },
+    {
+      "fieldId": "62a7845974fe2c08874d5452",
+      "fieldLabel": "Role",
+      "valueId": "4e150511-63af-4e42-850a-47ad805607cc",
+      "valueLabel": "Senior"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000135670709",
+  "creator": {
+    "name": "Albee Nyein"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "744000130265609",
+  "name": "PCIe Senior/Lead Software Engineer",
+  "uuid": "95c9d5c9-5d39-4d9c-b022-f9e43a96fd41",
+  "jobAdId": "d52dcc4d-fec6-428e-a8ae-4e8e989bd496",
+  "defaultJobAd": true,
+  "refNumber": "REF3428U",
+  "company": {
+    "identifier": "AristaNetworks",
+    "name": "Arista Networks"
+  },
+  "releasedDate": "2026-06-04T17:05:05.402Z",
+  "location": {
+    "city": "Austin",
+    "region": "TX",
+    "country": "us",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "30.267153",
+    "longitude": "-97.7430608",
+    "fullLocation": "Austin, TX, United States"
+  },
+  "industry": {
+    "id": "computer_networking",
+    "label": "Computer Networking"
+  },
+  "department": {
+    "id": "1455224",
+    "label": "Software Engineering"
+  },
+  "function": {
+    "id": "information_technology",
+    "label": "Information Technology"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "us",
+      "valueLabel": "United States"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e1",
+      "fieldLabel": "Department",
+      "valueId": "1455224",
+      "valueLabel": "Software Engineering"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e0",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Arista Networks"
+    },
+    {
+      "fieldId": "62a7845974fe2c08874d5452",
+      "fieldLabel": "Role",
+      "valueId": "4e150511-63af-4e42-850a-47ad805607cc",
+      "valueLabel": "Senior"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000130265609",
+  "creator": {
+    "name": "Tommy Houran"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

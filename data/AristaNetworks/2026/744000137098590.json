@@ -1,0 +1,79 @@
+{
+  "id": "744000137098590",
+  "name": "Software Product Manager, CloudVision",
+  "uuid": "493ce15e-3d32-47aa-a7fb-d2bbe0ed9945",
+  "jobAdId": "ad577043-271d-4cb0-bb00-b3a862d54424",
+  "defaultJobAd": true,
+  "refNumber": "REF3570T",
+  "company": {
+    "identifier": "AristaNetworks",
+    "name": "Arista Networks"
+  },
+  "releasedDate": "2026-07-10T10:32:38.563Z",
+  "location": {
+    "city": "Santa Clara",
+    "region": "CA",
+    "country": "us",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "37.3541079",
+    "longitude": "-121.9552356",
+    "fullLocation": "Santa Clara, CA, United States"
+  },
+  "industry": {
+    "id": "computer_networking",
+    "label": "Computer Networking"
+  },
+  "department": {
+    "id": "1392018",
+    "label": "Customer Engineering"
+  },
+  "function": {
+    "id": "engineering",
+    "label": "Engineering"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "us",
+      "valueLabel": "United States"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e1",
+      "fieldLabel": "Department",
+      "valueId": "1392018",
+      "valueLabel": "Customer Engineering"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e0",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Arista Networks"
+    },
+    {
+      "fieldId": "62a7845974fe2c08874d5452",
+      "fieldLabel": "Role",
+      "valueId": "4e150511-63af-4e42-850a-47ad805607cc",
+      "valueLabel": "Senior"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000137098590",
+  "creator": {
+    "name": "Sadiya Hussain"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

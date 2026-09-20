@@ -1,0 +1,70 @@
+{
+  "id": "744000050199285",
+  "name": "Software Engineer Cloud EOS Team (Poland/Romania/Hungary/Greece)",
+  "uuid": "b79f3f13-c886-46c6-9ee7-00b09ca2afb8",
+  "jobAdId": "ffda1e99-14b7-4997-9574-5321b7818b36",
+  "defaultJobAd": true,
+  "refNumber": "REF985C",
+  "company": {
+    "identifier": "AristaNetworks",
+    "name": "Arista Networks"
+  },
+  "releasedDate": "2025-03-27T07:33:51.396Z",
+  "location": {
+    "city": "Remote",
+    "country": "ie",
+    "remote": true,
+    "hybrid": false,
+    "fullLocation": "Remote, , Ireland"
+  },
+  "industry": {
+    "id": "computer_hardware",
+    "label": "Computer Hardware"
+  },
+  "department": {
+    "id": "1455224",
+    "label": "Software Engineering"
+  },
+  "function": {
+    "id": "engineering",
+    "label": "Engineering"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "ie",
+      "valueLabel": "Ireland"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e1",
+      "fieldLabel": "Department",
+      "valueId": "1455224",
+      "valueLabel": "Software Engineering"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e0",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Arista Networks"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000050199285",
+  "creator": {
+    "name": "Emer OKelly"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "744000150408250",
+  "name": "Technical Solutions Engineer",
+  "uuid": "66cc40df-03f8-4759-9539-f440ab608e72",
+  "jobAdId": "83de7990-2e16-4be8-966a-d983d5179ccd",
+  "defaultJobAd": true,
+  "refNumber": "REF313V",
+  "company": {
+    "identifier": "AristaNetworks",
+    "name": "Arista Networks"
+  },
+  "releasedDate": "2026-09-18T15:31:35.038Z",
+  "location": {
+    "city": "Shannon",
+    "region": "CE",
+    "country": "ie",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "52.7124708",
+    "longitude": "-8.873067599999999",
+    "fullLocation": "Shannon, CE, Ireland"
+  },
+  "industry": {
+    "id": "computer_networking",
+    "label": "Computer Networking"
+  },
+  "department": {
+    "id": "1504864",
+    "label": "Customer Support"
+  },
+  "function": {
+    "id": "engineering",
+    "label": "Engineering"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "ie",
+      "valueLabel": "Ireland"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e1",
+      "fieldLabel": "Department",
+      "valueId": "1504864",
+      "valueLabel": "Customer Support"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e0",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Arista Networks"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000150408250",
+  "creator": {
+    "name": "Emer OKelly"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

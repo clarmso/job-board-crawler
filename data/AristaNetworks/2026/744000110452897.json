@@ -1,0 +1,71 @@
+{
+  "id": "744000110452897",
+  "name": "Technical Solutions Engineer",
+  "uuid": "5ea07c6c-f437-4fb7-8822-7285148672bc",
+  "jobAdId": "61d4b4a1-4364-4620-b3a5-0e491386c968",
+  "defaultJobAd": true,
+  "refNumber": "REF3300L",
+  "company": {
+    "identifier": "AristaNetworks",
+    "name": "Arista Networks"
+  },
+  "releasedDate": "2026-02-20T19:04:59.181Z",
+  "location": {
+    "city": "Austin / Dallas",
+    "region": "Texas",
+    "country": "us",
+    "remote": false,
+    "hybrid": false,
+    "fullLocation": "Austin / Dallas, Texas, United States"
+  },
+  "industry": {
+    "id": "computer_networking",
+    "label": "Computer Networking"
+  },
+  "department": {
+    "id": "1504864",
+    "label": "Customer Support"
+  },
+  "function": {
+    "id": "information_technology",
+    "label": "Information Technology"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "us",
+      "valueLabel": "United States"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e1",
+      "fieldLabel": "Department",
+      "valueId": "1504864",
+      "valueLabel": "Customer Support"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e0",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Arista Networks"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000110452897",
+  "creator": {
+    "name": "Sushma Purushotham"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

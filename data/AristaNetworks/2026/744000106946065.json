@@ -1,0 +1,71 @@
+{
+  "id": "744000106946065",
+  "name": "NetSuite Support Manager",
+  "uuid": "1fe3a54b-c401-42cd-868a-c77bf0d33491",
+  "jobAdId": "971c30bb-5972-4539-8d16-e09d2c53ec8a",
+  "defaultJobAd": true,
+  "refNumber": "REF3123L",
+  "company": {
+    "identifier": "AristaNetworks",
+    "name": "Arista Networks"
+  },
+  "releasedDate": "2026-02-02T23:21:08.473Z",
+  "location": {
+    "city": "Remote",
+    "region": "US",
+    "country": "us",
+    "remote": true,
+    "hybrid": false,
+    "fullLocation": "Remote, US, United States"
+  },
+  "industry": {
+    "id": "computer_networking",
+    "label": "Computer Networking"
+  },
+  "department": {
+    "id": "1650384",
+    "label": "Information Technology"
+  },
+  "function": {
+    "id": "information_technology",
+    "label": "Information Technology"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "us",
+      "valueLabel": "United States"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e1",
+      "fieldLabel": "Department",
+      "valueId": "1650384",
+      "valueLabel": "Information Technology"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e0",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Arista Networks"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000106946065",
+  "creator": {
+    "name": "Sadiya Hussain"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

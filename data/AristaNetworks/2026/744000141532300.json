@@ -1,0 +1,79 @@
+{
+  "id": "744000141532300",
+  "name": "Account Manager",
+  "uuid": "90df7ae9-3968-4cc7-9b24-5185d154a115",
+  "jobAdId": "13f77111-a6e7-4422-a863-df1a3979e4e7",
+  "defaultJobAd": true,
+  "refNumber": "REF2678X",
+  "company": {
+    "identifier": "AristaNetworks",
+    "name": "Arista Networks"
+  },
+  "releasedDate": "2026-08-04T15:47:14.356Z",
+  "location": {
+    "city": "Oslo",
+    "region": "Oslo",
+    "country": "no",
+    "remote": true,
+    "hybrid": false,
+    "latitude": "59.9138688",
+    "longitude": "10.7522454",
+    "fullLocation": "Oslo, Oslo, Norway"
+  },
+  "industry": {
+    "id": "computer_networking",
+    "label": "Computer Networking"
+  },
+  "department": {
+    "id": "1392052",
+    "label": "Sales"
+  },
+  "function": {
+    "id": "sales",
+    "label": "Sales"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "no",
+      "valueLabel": "Norway"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e1",
+      "fieldLabel": "Department",
+      "valueId": "1392052",
+      "valueLabel": "Sales"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e0",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Arista Networks"
+    },
+    {
+      "fieldId": "62a7845974fe2c08874d5452",
+      "fieldLabel": "Role",
+      "valueId": "4e150511-63af-4e42-850a-47ad805607cc",
+      "valueLabel": "Senior"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000141532300",
+  "creator": {
+    "name": "Edward Sheppard"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

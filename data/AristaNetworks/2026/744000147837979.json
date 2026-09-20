@@ -1,0 +1,79 @@
+{
+  "id": "744000147837979",
+  "name": "Senior Systems Engineer (Pre Sales)",
+  "uuid": "2c0db28a-1193-4220-82c7-6cfb37954e29",
+  "jobAdId": "1c4adf68-6e8b-476a-9b91-537045f9f132",
+  "defaultJobAd": true,
+  "refNumber": "REF3695Q",
+  "company": {
+    "identifier": "AristaNetworks",
+    "name": "Arista Networks"
+  },
+  "releasedDate": "2026-09-07T05:46:52.563Z",
+  "location": {
+    "city": "Delhi",
+    "region": "DL",
+    "country": "in",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "28.6814551",
+    "longitude": "77.22279",
+    "fullLocation": "Delhi, DL, India"
+  },
+  "industry": {
+    "id": "computer_networking",
+    "label": "Computer Networking"
+  },
+  "department": {
+    "id": "1392052",
+    "label": "Sales"
+  },
+  "function": {
+    "id": "sales",
+    "label": "Sales"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "in",
+      "valueLabel": "India"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e1",
+      "fieldLabel": "Department",
+      "valueId": "1392052",
+      "valueLabel": "Sales"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e0",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Arista Networks"
+    },
+    {
+      "fieldId": "62a7845974fe2c08874d5452",
+      "fieldLabel": "Role",
+      "valueId": "4e150511-63af-4e42-850a-47ad805607cc",
+      "valueLabel": "Senior"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000147837979",
+  "creator": {
+    "name": "Isha Anand"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

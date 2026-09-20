@@ -1,0 +1,73 @@
+{
+  "id": "744000090879985",
+  "name": "Federal Technical Solutions Engineer",
+  "uuid": "86dc1f2d-5de5-4f75-b074-9544b51c9cfa",
+  "jobAdId": "ace4be08-7ea4-4b68-b729-8b62217ae6bd",
+  "defaultJobAd": true,
+  "refNumber": "REF3063K",
+  "company": {
+    "identifier": "AristaNetworks",
+    "name": "Arista Networks"
+  },
+  "releasedDate": "2025-10-30T15:29:58.939Z",
+  "location": {
+    "city": "Austin",
+    "region": "TX",
+    "country": "us",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "30.267153",
+    "longitude": "-97.7430608",
+    "fullLocation": "Austin, TX, United States"
+  },
+  "industry": {
+    "id": "computer_networking",
+    "label": "Computer Networking"
+  },
+  "department": {
+    "id": "1504864",
+    "label": "Customer Support"
+  },
+  "function": {
+    "id": "information_technology",
+    "label": "Information Technology"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "us",
+      "valueLabel": "United States"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e1",
+      "fieldLabel": "Department",
+      "valueId": "1504864",
+      "valueLabel": "Customer Support"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e0",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Arista Networks"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000090879985",
+  "creator": {
+    "name": "Sushma Purushotham"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

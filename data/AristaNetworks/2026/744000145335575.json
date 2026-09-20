@@ -1,0 +1,79 @@
+{
+  "id": "744000145335575",
+  "name": "Senior/Lead Software Engineer",
+  "uuid": "b80f6195-4579-4e23-aa41-1c0cac25053e",
+  "jobAdId": "43c10b95-4412-41b3-b358-caf9833a2491",
+  "defaultJobAd": true,
+  "refNumber": "REF2456D",
+  "company": {
+    "identifier": "AristaNetworks",
+    "name": "Arista Networks"
+  },
+  "releasedDate": "2026-08-24T17:37:37.695Z",
+  "location": {
+    "city": "Vancouver",
+    "region": "BC",
+    "country": "ca",
+    "remote": true,
+    "hybrid": false,
+    "latitude": "49.2827291",
+    "longitude": "-123.1207375",
+    "fullLocation": "Vancouver, BC, Canada"
+  },
+  "industry": {
+    "id": "computer_networking",
+    "label": "Computer Networking"
+  },
+  "department": {
+    "id": "1455224",
+    "label": "Software Engineering"
+  },
+  "function": {
+    "id": "engineering",
+    "label": "Engineering"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "ca",
+      "valueLabel": "Canada"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e1",
+      "fieldLabel": "Department",
+      "valueId": "1455224",
+      "valueLabel": "Software Engineering"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e0",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Arista Networks"
+    },
+    {
+      "fieldId": "62a7845974fe2c08874d5452",
+      "fieldLabel": "Role",
+      "valueId": "4e150511-63af-4e42-850a-47ad805607cc",
+      "valueLabel": "Senior"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000145335575",
+  "creator": {
+    "name": "Purva Arora"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

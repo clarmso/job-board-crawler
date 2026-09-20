@@ -1,0 +1,79 @@
+{
+  "id": "744000143754022",
+  "name": "Strategic Account Manager – North India (Enterprise & Mid-Market Customers)",
+  "uuid": "d9def757-9157-44a4-a151-474a60c6da79",
+  "jobAdId": "0838542c-d837-4692-a88f-02a7196c18ff",
+  "defaultJobAd": true,
+  "refNumber": "REF2759H",
+  "company": {
+    "identifier": "AristaNetworks",
+    "name": "Arista Networks"
+  },
+  "releasedDate": "2026-08-17T06:55:25.757Z",
+  "location": {
+    "city": "Delhi",
+    "region": "DL",
+    "country": "in",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "28.6814551",
+    "longitude": "77.22279",
+    "fullLocation": "Delhi, DL, India"
+  },
+  "industry": {
+    "id": "computer_networking",
+    "label": "Computer Networking"
+  },
+  "department": {
+    "id": "1392052",
+    "label": "Sales"
+  },
+  "function": {
+    "id": "sales",
+    "label": "Sales"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "in",
+      "valueLabel": "India"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e1",
+      "fieldLabel": "Department",
+      "valueId": "1392052",
+      "valueLabel": "Sales"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e0",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Arista Networks"
+    },
+    {
+      "fieldId": "62a7845974fe2c08874d5452",
+      "fieldLabel": "Role",
+      "valueId": "4e150511-63af-4e42-850a-47ad805607cc",
+      "valueLabel": "Senior"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000143754022",
+  "creator": {
+    "name": "Ashok Singh"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

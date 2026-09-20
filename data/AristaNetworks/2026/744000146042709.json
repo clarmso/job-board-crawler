@@ -1,0 +1,79 @@
+{
+  "id": "744000146042709",
+  "name": "Major Account Manager - SLED",
+  "uuid": "c9b8bef8-a193-4df9-ab7a-6d6add735700",
+  "jobAdId": "53fe405e-0f8d-4465-ad4e-a8756e2bd662",
+  "defaultJobAd": true,
+  "refNumber": "REF3670J",
+  "company": {
+    "identifier": "AristaNetworks",
+    "name": "Arista Networks"
+  },
+  "releasedDate": "2026-08-27T17:47:30.494Z",
+  "location": {
+    "city": "Boston",
+    "region": "MA",
+    "country": "us",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "42.3555076",
+    "longitude": "-71.0565364",
+    "fullLocation": "Boston, MA, United States"
+  },
+  "industry": {
+    "id": "computer_software",
+    "label": "Computer Software"
+  },
+  "department": {
+    "id": "1392052",
+    "label": "Sales"
+  },
+  "function": {
+    "id": "sales",
+    "label": "Sales"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "us",
+      "valueLabel": "United States"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e1",
+      "fieldLabel": "Department",
+      "valueId": "1392052",
+      "valueLabel": "Sales"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e0",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Arista Networks"
+    },
+    {
+      "fieldId": "62a7845974fe2c08874d5452",
+      "fieldLabel": "Role",
+      "valueId": "4e150511-63af-4e42-850a-47ad805607cc",
+      "valueLabel": "Senior"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000146042709",
+  "creator": {
+    "name": "Todd Cich"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

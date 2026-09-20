@@ -1,0 +1,73 @@
+{
+  "id": "744000147058909",
+  "name": "Electrical Manufacturing NPI Engineer",
+  "uuid": "7539f14c-0931-4374-8a23-1b002728a273",
+  "jobAdId": "25d3a76b-096e-48a1-8584-0e365e66068f",
+  "defaultJobAd": true,
+  "refNumber": "REF3390M",
+  "company": {
+    "identifier": "AristaNetworks",
+    "name": "Arista Networks"
+  },
+  "releasedDate": "2026-09-02T18:18:00.246Z",
+  "location": {
+    "city": "Santa Clara",
+    "region": "CA",
+    "country": "us",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "37.3541079",
+    "longitude": "-121.9552356",
+    "fullLocation": "Santa Clara, CA, United States"
+  },
+  "industry": {
+    "id": "computer_networking",
+    "label": "Computer Networking"
+  },
+  "department": {
+    "id": "1650452",
+    "label": "NPI Engineering"
+  },
+  "function": {
+    "id": "engineering",
+    "label": "Engineering"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "us",
+      "valueLabel": "United States"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e1",
+      "fieldLabel": "Department",
+      "valueId": "1650452",
+      "valueLabel": "NPI Engineering"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e0",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Arista Networks"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000147058909",
+  "creator": {
+    "name": "Purva Arora"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

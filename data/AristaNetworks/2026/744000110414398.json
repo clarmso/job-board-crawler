@@ -1,0 +1,71 @@
+{
+  "id": "744000110414398",
+  "name": "Federal Technical Solutions Engineer",
+  "uuid": "b82fbafc-775e-4ef4-93a1-54ff624d60f9",
+  "jobAdId": "dbb7f7e1-9b45-40af-8694-55608fd26860",
+  "defaultJobAd": true,
+  "refNumber": "REF3075I",
+  "company": {
+    "identifier": "AristaNetworks",
+    "name": "Arista Networks"
+  },
+  "releasedDate": "2026-02-20T15:44:51.142Z",
+  "location": {
+    "city": "Denver Metropolitan Area",
+    "region": "CO",
+    "country": "us",
+    "remote": false,
+    "hybrid": true,
+    "fullLocation": "Denver Metropolitan Area, CO, United States"
+  },
+  "industry": {
+    "id": "computer_networking",
+    "label": "Computer Networking"
+  },
+  "department": {
+    "id": "1504864",
+    "label": "Customer Support"
+  },
+  "function": {
+    "id": "information_technology",
+    "label": "Information Technology"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "us",
+      "valueLabel": "United States"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e1",
+      "fieldLabel": "Department",
+      "valueId": "1504864",
+      "valueLabel": "Customer Support"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e0",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Arista Networks"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000110414398",
+  "creator": {
+    "name": "Sushma Purushotham"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

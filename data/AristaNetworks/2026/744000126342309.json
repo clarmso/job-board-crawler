@@ -1,0 +1,73 @@
+{
+  "id": "744000126342309",
+  "name": "Senior Hardware Systems Engineer – AI Rack & Cluster Infrastructure",
+  "uuid": "d1fac35c-2353-40ba-a88e-9a98cd4a43ba",
+  "jobAdId": "cae83397-ea68-4a54-9965-b8e7f68e66fb",
+  "defaultJobAd": true,
+  "refNumber": "REF3240T",
+  "company": {
+    "identifier": "AristaNetworks",
+    "name": "Arista Networks"
+  },
+  "releasedDate": "2026-05-13T15:07:45.403Z",
+  "location": {
+    "city": "Santa Clara",
+    "region": "CA",
+    "country": "us",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "37.3541079",
+    "longitude": "-121.9552356",
+    "fullLocation": "Santa Clara, CA, United States"
+  },
+  "industry": {
+    "id": "computer_software",
+    "label": "Computer Software"
+  },
+  "department": {
+    "id": "1392018",
+    "label": "Customer Engineering"
+  },
+  "function": {
+    "id": "product_management",
+    "label": "Product Management"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "us",
+      "valueLabel": "United States"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e1",
+      "fieldLabel": "Department",
+      "valueId": "1392018",
+      "valueLabel": "Customer Engineering"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e0",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Arista Networks"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000126342309",
+  "creator": {
+    "name": "Tommy Houran"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

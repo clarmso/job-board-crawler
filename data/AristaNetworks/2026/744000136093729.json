@@ -1,0 +1,80 @@
+{
+  "id": "744000136093729",
+  "name": "Senior Manager -  IT Security",
+  "uuid": "bea85e9d-ae0c-432f-aab7-ce9a5b5f3566",
+  "jobAdId": "486d1a42-1a5a-4e4f-a2eb-b6e007e145d5",
+  "defaultJobAd": true,
+  "refNumber": "REF3551I",
+  "company": {
+    "identifier": "AristaNetworks",
+    "name": "Arista Networks"
+  },
+  "releasedDate": "2026-07-06T20:16:13.329Z",
+  "location": {
+    "city": "Raleigh",
+    "region": "NC",
+    "country": "us",
+    "remote": false,
+    "hybrid": true,
+    "hybridDescription": "Flexible hybrid working arrangement",
+    "latitude": "35.7795897",
+    "longitude": "-78.6381787",
+    "fullLocation": "Raleigh, NC, United States"
+  },
+  "industry": {
+    "id": "computer_networking",
+    "label": "Computer Networking"
+  },
+  "department": {
+    "id": "1650384",
+    "label": "Information Technology"
+  },
+  "function": {
+    "id": "information_technology",
+    "label": "Information Technology"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "us",
+      "valueLabel": "United States"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e1",
+      "fieldLabel": "Department",
+      "valueId": "1650384",
+      "valueLabel": "Information Technology"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e0",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Arista Networks"
+    },
+    {
+      "fieldId": "62a7845974fe2c08874d5452",
+      "fieldLabel": "Role",
+      "valueId": "4e150511-63af-4e42-850a-47ad805607cc",
+      "valueLabel": "Senior"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000136093729",
+  "creator": {
+    "name": "Sadiya Hussain"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

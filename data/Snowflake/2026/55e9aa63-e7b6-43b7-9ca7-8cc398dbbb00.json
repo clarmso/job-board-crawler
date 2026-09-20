@@ -1,0 +1,57 @@
+{
+  "id": "55e9aa63-e7b6-43b7-9ca7-8cc398dbbb00",
+  "title": "Intermediate/ Senior Software Engineer - Cortex LLM Training Platform",
+  "department": "Engineering",
+  "team": "Engineering",
+  "employmentType": "FullTime",
+  "location": "US-WA-Bellevue",
+  "shouldDisplayCompensationOnJobPostings": true,
+  "secondaryLocations": [],
+  "publishedAt": "2026-09-17T18:50:39.530+00:00",
+  "isListed": true,
+  "isRemote": true,
+  "workplaceType": "Hybrid",
+  "address": {
+    "postalAddress": {
+      "addressRegion": "Washington",
+      "addressCountry": "United States",
+      "addressLocality": "Bellevue"
+    }
+  },
+  "jobUrl": "https://jobs.ashbyhq.com/Snowflake/55e9aa63-e7b6-43b7-9ca7-8cc398dbbb00",
+  "applyUrl": "https://jobs.ashbyhq.com/Snowflake/55e9aa63-e7b6-43b7-9ca7-8cc398dbbb00/application",
+  "descriptionHtml": "<p style=\"min-height:1.5em\">At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don’t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset — who rapidly test emerging capabilities to discover simpler, more powerful ways to deliver results. At Snowflake, your role isn't just to execute a function, but to help redefine the future of how work gets done.</p><h1>Senior Software Engineer — Cortex Training</h1><p style=\"min-height:1.5em\">The Snowflake ML Platform team's mission is to let customers run their most demanding ML/AI workloads inside Snowflake. Cortex Training is our LLM post-training platform: it turns scarce, expensive GPU capacity into a simple, composable service, so customers can adapt open-weight foundation models to their own business problems while we handle the hard distributed-systems parts, including scheduling, orchestration, multi-node training and inference, fault tolerance, and throughput.</p><p style=\"min-height:1.5em\">The platform already runs post-training at scale. Under the hood, it decouples GPU computation from the training loop and exposes it as primitive APIs that compose into everything from SFT to full RL workflows. You'll work alongside a team that ships fast &amp; sweats reliability and the researchers behind DeepSpeed. We're looking for an engineer who thrives in the ML infrastructure layer and brings a solid understanding of LLMs and post-training to help us scale and grow it.</p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\"> </div><h2>YOU WILL:</h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Design and build across the full stack — from the public training APIs and SDK through the control plane to the GPU data plane.</p></li><li><p style=\"min-height:1.5em\">Scale the distributed systems that make GPU compute serverless — multi-tenant scheduling, placement, and capacity-aware routing across regional GPU pools, with fault tolerance built in.</p></li><li><p style=\"min-height:1.5em\">Drive end-to-end performance at scale — keep the training, inference, and RL loops fast and the data plane responsive under heavy concurrent load, with GPUs kept saturated.</p></li><li><p style=\"min-height:1.5em\">Productionize research building blocks — partner with Snowflake Research to turn state-of-the-art training and inference techniques into reliable, composable components customers can run at enterprise scale.</p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\"> </div></li></ul><h2>QUALIFICATIONS:</h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">3 + years (Intermediate) |  6+ years (Senior)  building and shipping production ML systems</p></li><li><p style=\"min-height:1.5em\">Strong distributed systems and infrastructure foundation — designing scalable, fault-tolerant services and operating them on Kubernetes in production.</p></li><li><p style=\"min-height:1.5em\">Familiarity with GPU and LLM infrastructure — e.g., PyTorch, DeepSpeed/FSDP, Ray, CUDA/NCCL, vLLM; able to debug across the data, infrastructure, and GPU layers.</p></li><li><p style=\"min-height:1.5em\">Demonstrated ability to harden complex systems for reliability, throughput, and cost efficiency.</p></li><li><p style=\"min-height:1.5em\">BS in Computer Science or a related field (MS/PhD a plus).</p></li><li><p style=\"min-height:1.5em\">(Bonus) Hands-on LLM post-training / modeling experience — the strongest candidates pair deep infra skills with real post-training intuition.</p></li></ul><p style=\"min-height:1.5em\">Snowflake is growing fast, and we’re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake.</p><p style=\"min-height:1.5em\">How do you want to make your impact?</p><p style=\"min-height:1.5em\">For jobs located in the United States, please visit the job posting on the Snowflake Careers Site for salary and benefits information: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://careers.snowflake.com\">careers.snowflake.com</a></p>",
+  "descriptionPlain": "At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don’t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset — who rapidly test emerging capabilities to discover simpler, more powerful ways to deliver results. At Snowflake, your role isn't just to execute a function, but to help redefine the future of how work gets done.\n\n\nSENIOR SOFTWARE ENGINEER — CORTEX TRAINING\n\nThe Snowflake ML Platform team's mission is to let customers run their most demanding ML/AI workloads inside Snowflake. Cortex Training is our LLM post-training platform: it turns scarce, expensive GPU capacity into a simple, composable service, so customers can adapt open-weight foundation models to their own business problems while we handle the hard distributed-systems parts, including scheduling, orchestration, multi-node training and inference, fault tolerance, and throughput.\n\nThe platform already runs post-training at scale. Under the hood, it decouples GPU computation from the training loop and exposes it as primitive APIs that compose into everything from SFT to full RL workflows. You'll work alongside a team that ships fast & sweats reliability and the researchers behind DeepSpeed. We're looking for an engineer who thrives in the ML infrastructure layer and brings a solid understanding of LLMs and post-training to help us scale and grow it.\n\n \n\n\nYOU WILL:\n\n - Design and build across the full stack — from the public training APIs and SDK through the control plane to the GPU data plane.\n\n - Scale the distributed systems that make GPU compute serverless — multi-tenant scheduling, placement, and capacity-aware routing across regional GPU pools, with fault tolerance built in.\n\n - Drive end-to-end performance at scale — keep the training, inference, and RL loops fast and the data plane responsive under heavy concurrent load, with GPUs kept saturated.\n\n - Productionize research building blocks — partner with Snowflake Research to turn state-of-the-art training and inference techniques into reliable, composable components customers can run at enterprise scale.\n   \n    \n\n\nQUALIFICATIONS:\n\n - 3 + years (Intermediate) |  6+ years (Senior)  building and shipping production ML systems\n\n - Strong distributed systems and infrastructure foundation — designing scalable, fault-tolerant services and operating them on Kubernetes in production.\n\n - Familiarity with GPU and LLM infrastructure — e.g., PyTorch, DeepSpeed/FSDP, Ray, CUDA/NCCL, vLLM; able to debug across the data, infrastructure, and GPU layers.\n\n - Demonstrated ability to harden complex systems for reliability, throughput, and cost efficiency.\n\n - BS in Computer Science or a related field (MS/PhD a plus).\n\n - (Bonus) Hands-on LLM post-training / modeling experience — the strongest candidates pair deep infra skills with real post-training intuition.\n\nSnowflake is growing fast, and we’re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake.\n\nHow do you want to make your impact?\n\nFor jobs located in the United States, please visit the job posting on the Snowflake Careers Site for salary and benefits information: careers.snowflake.com http://careers.snowflake.com",
+  "compensation": {
+    "compensationTierSummary": "$200K – $287.5K",
+    "scrapeableCompensationSalarySummary": "$200K - $287.5K",
+    "compensationTiers": [
+      {
+        "id": "03f982a5-0eb7-42fd-917f-2e9225a5cf71",
+        "tierSummary": "$200K – $287.5K",
+        "title": null,
+        "additionalInformation": null,
+        "components": [
+          {
+            "id": "9f4eb8ed-c494-4a02-bec2-701ad941d3b6",
+            "summary": "$200K – $287.5K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 200000,
+            "maxValue": 287500
+          }
+        ]
+      }
+    ],
+    "summaryComponents": [
+      {
+        "compensationType": "Salary",
+        "interval": "1 YEAR",
+        "currencyCode": "USD",
+        "minValue": 200000,
+        "maxValue": 287500
+      }
+    ]
+  }
+}

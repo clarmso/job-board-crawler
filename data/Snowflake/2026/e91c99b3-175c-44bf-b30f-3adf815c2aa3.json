@@ -1,0 +1,78 @@
+{
+  "id": "e91c99b3-175c-44bf-b30f-3adf815c2aa3",
+  "title": "Technical Account Manager, Observe",
+  "department": "Global Support",
+  "team": "Global Support",
+  "employmentType": "FullTime",
+  "location": "US-NY-New York",
+  "shouldDisplayCompensationOnJobPostings": true,
+  "secondaryLocations": [
+    {
+      "location": "US-NJ Metro-Remote",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "New Jersey",
+          "addressCountry": "United States",
+          "addressLocality": "Remote"
+        }
+      }
+    },
+    {
+      "location": "US-NY-Remote",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "New York",
+          "addressCountry": "United States",
+          "addressLocality": "Remote"
+        }
+      }
+    }
+  ],
+  "publishedAt": "2026-08-20T17:19:44.801+00:00",
+  "isListed": true,
+  "isRemote": null,
+  "workplaceType": null,
+  "address": {
+    "postalAddress": {
+      "addressRegion": "New York",
+      "addressCountry": "United States",
+      "addressLocality": "New York"
+    }
+  },
+  "jobUrl": "https://jobs.ashbyhq.com/Snowflake/e91c99b3-175c-44bf-b30f-3adf815c2aa3",
+  "applyUrl": "https://jobs.ashbyhq.com/Snowflake/e91c99b3-175c-44bf-b30f-3adf815c2aa3/application",
+  "descriptionHtml": "<p style=\"min-height:1.5em\">At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don’t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset — who rapidly test emerging capabilities to discover simpler, more powerful ways to deliver results. At Snowflake, your role isn't just to execute a function, but to help redefine the future of how work gets done.</p><p style=\"min-height:1.5em\"><strong>Observe by Snowflake</strong> is a high-growth SaaS observability platform built on the Snowflake AI Data Cloud, enabling businesses to troubleshoot modern distributed applications 10x faster. Now, as a core part of Snowflake, we’ve reached a major milestone in the evolution of the Snowflake platform. By bringing AI-powered observability directly into the Snowflake ecosystem, we’ve created the first truly unified platform for telemetry and business data.</p><p style=\"min-height:1.5em\">We’re looking for a Technical Account Manager to partner with our most strategic enterprise customers and ensure they derive sustained operational value from Observe.</p><p style=\"min-height:1.5em\">This is a hands-on, post-sales technical role focused on long-term platform adoption, optimization, and technical partnership. You will work directly with SRE, DevOps, platform, and engineering teams to embed Observe into daily workflows, evolve telemetry strategy over time, and continuously improve reliability, performance, and cost efficiency.</p><p style=\"min-height:1.5em\">This role is ideal for an experienced observability practitioner who enjoys being deeply embedded with customer teams, solving real production challenges, and acting as a trusted technical advisor in complex enterprise environments.</p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\"> </div><h2><strong>What You’ll Do</strong></h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Serve as the primary technical owner and trusted advisor for assigned strategic accounts</p></li><li><p style=\"min-height:1.5em\">Build deep familiarity with customer architectures, datasets, use cases, and operational goals</p></li><li><p style=\"min-height:1.5em\">Partner with SRE, DevOps, and platform teams to integrate Observe into day-to-day operational workflows</p></li><li><p style=\"min-height:1.5em\">Optimize datasets, queries, dashboards, and alerts for reliability, signal quality, performance, and cost</p></li><li><p style=\"min-height:1.5em\">Lead regular health checks, architecture reviews, and proactive improvement initiatives</p></li><li><p style=\"min-height:1.5em\">Identify new use cases and expansion opportunities aligned to customer outcomes</p></li><li><p style=\"min-height:1.5em\">Coordinate technical escalations and advocate across Support, Engineering, and Product when needed</p></li><li><p style=\"min-height:1.5em\">Provide clear technical guidance during change events, scaling initiatives, and complex operational scenarios</p></li></ul><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\"> </div><h2><strong>What You’ll Bring</strong></h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">7+ years of experience in SRE, DevOps, platform engineering, observability engineering, or customer-facing technical advisory roles</p></li><li><p style=\"min-height:1.5em\">Strong hands-on experience operating production observability platforms</p></li><li><p style=\"min-height:1.5em\">Direct experience with leading observability solutions such as Datadog, Dynatrace, Splunk, New Relic, Grafana, Elastic (ELK), or similar platforms</p></li><li><p style=\"min-height:1.5em\">Practical experience with OpenTelemetry, including signals (logs, metrics, traces), instrumentation strategies, collectors, and telemetry pipelines</p></li><li><p style=\"min-height:1.5em\">Strong understanding of distributed systems, cloud-native architectures, and modern DevOps practices</p></li><li><p style=\"min-height:1.5em\">Experience improving operational outcomes (incident response, alert quality, troubleshooting speed, telemetry governance, or cost optimization)</p></li><li><p style=\"min-height:1.5em\">Ability to lead complex technical conversations with practitioners and engineering leadership</p></li><li><p style=\"min-height:1.5em\">Strong written communication skills for architecture summaries, optimization plans, and executive-ready updates</p></li><li><p style=\"min-height:1.5em\">A pragmatic, consultative mindset focused on solving real-world production problems</p></li></ul><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\"> </div><h2><strong>Nice to Have</strong></h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Experience helping organizations standardize or evolve telemetry strategies using OpenTelemetry</p></li><li><p style=\"min-height:1.5em\">Experience modernizing from legacy logging or monitoring tools to modern observability platforms</p></li><li><p style=\"min-height:1.5em\">Familiarity with cloud-native services (AWS, GCP, Azure) and Kubernetes-based environments</p></li><li><p style=\"min-height:1.5em\">Experience influencing architecture or platform decisions in enterprise environments</p></li><li><p style=\"min-height:1.5em\">Exposure to incident management platforms such as PagerDuty, Opsgenie, or VictorOps</p></li><li><p style=\"min-height:1.5em\">Experience mentoring or guiding other engineers in observability best practices</p></li></ul><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\"> </div><h2><strong>How This Role Fits</strong></h2><p style=\"min-height:1.5em\">Technical Account Managers ensure Observe becomes a durable, high-impact part of how customers operate and improve their systems. They translate platform capabilities into measurable operational value and deepen long-term technical trust with strategic customers.</p><p style=\"min-height:1.5em\">Snowflake is growing fast, and we’re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake.</p><p style=\"min-height:1.5em\">How do you want to make your impact?</p><p style=\"min-height:1.5em\">For jobs located in the United States, please visit the job posting on the Snowflake Careers Site for salary and benefits information: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://careers.snowflake.com\">careers.snowflake.com</a></p>",
+  "descriptionPlain": "At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don’t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset — who rapidly test emerging capabilities to discover simpler, more powerful ways to deliver results. At Snowflake, your role isn't just to execute a function, but to help redefine the future of how work gets done.\n\nObserve by Snowflake is a high-growth SaaS observability platform built on the Snowflake AI Data Cloud, enabling businesses to troubleshoot modern distributed applications 10x faster. Now, as a core part of Snowflake, we’ve reached a major milestone in the evolution of the Snowflake platform. By bringing AI-powered observability directly into the Snowflake ecosystem, we’ve created the first truly unified platform for telemetry and business data.\n\nWe’re looking for a Technical Account Manager to partner with our most strategic enterprise customers and ensure they derive sustained operational value from Observe.\n\nThis is a hands-on, post-sales technical role focused on long-term platform adoption, optimization, and technical partnership. You will work directly with SRE, DevOps, platform, and engineering teams to embed Observe into daily workflows, evolve telemetry strategy over time, and continuously improve reliability, performance, and cost efficiency.\n\nThis role is ideal for an experienced observability practitioner who enjoys being deeply embedded with customer teams, solving real production challenges, and acting as a trusted technical advisor in complex enterprise environments.\n\n \n\n\nWHAT YOU’LL DO\n\n - Serve as the primary technical owner and trusted advisor for assigned strategic accounts\n\n - Build deep familiarity with customer architectures, datasets, use cases, and operational goals\n\n - Partner with SRE, DevOps, and platform teams to integrate Observe into day-to-day operational workflows\n\n - Optimize datasets, queries, dashboards, and alerts for reliability, signal quality, performance, and cost\n\n - Lead regular health checks, architecture reviews, and proactive improvement initiatives\n\n - Identify new use cases and expansion opportunities aligned to customer outcomes\n\n - Coordinate technical escalations and advocate across Support, Engineering, and Product when needed\n\n - Provide clear technical guidance during change events, scaling initiatives, and complex operational scenarios\n\n \n\n\nWHAT YOU’LL BRING\n\n - 7+ years of experience in SRE, DevOps, platform engineering, observability engineering, or customer-facing technical advisory roles\n\n - Strong hands-on experience operating production observability platforms\n\n - Direct experience with leading observability solutions such as Datadog, Dynatrace, Splunk, New Relic, Grafana, Elastic (ELK), or similar platforms\n\n - Practical experience with OpenTelemetry, including signals (logs, metrics, traces), instrumentation strategies, collectors, and telemetry pipelines\n\n - Strong understanding of distributed systems, cloud-native architectures, and modern DevOps practices\n\n - Experience improving operational outcomes (incident response, alert quality, troubleshooting speed, telemetry governance, or cost optimization)\n\n - Ability to lead complex technical conversations with practitioners and engineering leadership\n\n - Strong written communication skills for architecture summaries, optimization plans, and executive-ready updates\n\n - A pragmatic, consultative mindset focused on solving real-world production problems\n\n \n\n\nNICE TO HAVE\n\n - Experience helping organizations standardize or evolve telemetry strategies using OpenTelemetry\n\n - Experience modernizing from legacy logging or monitoring tools to modern observability platforms\n\n - Familiarity with cloud-native services (AWS, GCP, Azure) and Kubernetes-based environments\n\n - Experience influencing architecture or platform decisions in enterprise environments\n\n - Exposure to incident management platforms such as PagerDuty, Opsgenie, or VictorOps\n\n - Experience mentoring or guiding other engineers in observability best practices\n\n \n\n\nHOW THIS ROLE FITS\n\nTechnical Account Managers ensure Observe becomes a durable, high-impact part of how customers operate and improve their systems. They translate platform capabilities into measurable operational value and deepen long-term technical trust with strategic customers.\n\nSnowflake is growing fast, and we’re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake.\n\nHow do you want to make your impact?\n\nFor jobs located in the United States, please visit the job posting on the Snowflake Careers Site for salary and benefits information: careers.snowflake.com http://careers.snowflake.com",
+  "compensation": {
+    "compensationTierSummary": "$148K – $194.2K",
+    "scrapeableCompensationSalarySummary": "$148K - $194.2K",
+    "compensationTiers": [
+      {
+        "id": "e6a3b1d4-e5b6-4bab-b2ff-6d370b0030e4",
+        "tierSummary": "$148K – $194.2K",
+        "title": null,
+        "additionalInformation": null,
+        "components": [
+          {
+            "id": "81879e89-80db-4b48-b46e-69bd06d04e81",
+            "summary": "$148K – $194.2K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 148000,
+            "maxValue": 194200
+          }
+        ]
+      }
+    ],
+    "summaryComponents": [
+      {
+        "compensationType": "Salary",
+        "interval": "1 YEAR",
+        "currencyCode": "USD",
+        "minValue": 148000,
+        "maxValue": 194200
+      }
+    ]
+  }
+}

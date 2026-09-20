@@ -1,0 +1,73 @@
+{
+  "id": "744000104825642",
+  "name": "POC Engineer",
+  "uuid": "55ebae61-9291-4a65-b64c-b09149f4c6b1",
+  "jobAdId": "4f8e2f7e-8a2a-4213-a67e-36466b4e4995",
+  "defaultJobAd": true,
+  "refNumber": "REF3228O",
+  "company": {
+    "identifier": "AristaNetworks",
+    "name": "Arista Networks"
+  },
+  "releasedDate": "2026-01-22T01:42:27.789Z",
+  "location": {
+    "city": "Nashua",
+    "region": "NH",
+    "country": "us",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "42.7574953",
+    "longitude": "-71.4654961",
+    "fullLocation": "Nashua, NH, United States"
+  },
+  "industry": {
+    "id": "computer_networking",
+    "label": "Computer Networking"
+  },
+  "department": {
+    "id": "1392018",
+    "label": "Customer Engineering"
+  },
+  "function": {
+    "id": "information_technology",
+    "label": "Information Technology"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "us",
+      "valueLabel": "United States"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e1",
+      "fieldLabel": "Department",
+      "valueId": "1392018",
+      "valueLabel": "Customer Engineering"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e0",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Arista Networks"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000104825642",
+  "creator": {
+    "name": "Sushma Purushotham"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

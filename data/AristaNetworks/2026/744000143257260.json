@@ -1,0 +1,79 @@
+{
+  "id": "744000143257260",
+  "name": "Logistics Coordinator (APAC Service Operations)",
+  "uuid": "b516280b-912b-48f3-8044-009ae8af5889",
+  "jobAdId": "0112418a-ae72-48e2-8967-24b2adaa62ec",
+  "defaultJobAd": true,
+  "refNumber": "REF3623C",
+  "company": {
+    "identifier": "AristaNetworks",
+    "name": "Arista Networks"
+  },
+  "releasedDate": "2026-08-13T08:40:58.116Z",
+  "location": {
+    "city": "George Town",
+    "region": "Penang",
+    "country": "my",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "5.4140975",
+    "longitude": "100.3285271",
+    "fullLocation": "George Town, Penang, Malaysia"
+  },
+  "industry": {
+    "id": "computer_networking",
+    "label": "Computer Networking"
+  },
+  "department": {
+    "id": "1650520",
+    "label": "Service Logistics & Repairs"
+  },
+  "function": {
+    "id": "other",
+    "label": "Other"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "my",
+      "valueLabel": "Malaysia"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e1",
+      "fieldLabel": "Department",
+      "valueId": "1650520",
+      "valueLabel": "Service Logistics & Repairs"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e0",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Arista Networks"
+    },
+    {
+      "fieldId": "62a7845974fe2c08874d5452",
+      "fieldLabel": "Role",
+      "valueId": "4e150511-63af-4e42-850a-47ad805607cc",
+      "valueLabel": "Senior"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000143257260",
+  "creator": {
+    "name": "Albee Nyein"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

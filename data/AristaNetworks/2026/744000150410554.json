@@ -1,0 +1,79 @@
+{
+  "id": "744000150410554",
+  "name": "Senior Software Engineer - Layer1 - C++",
+  "uuid": "688630ac-8e9e-4643-8f20-902228e723a9",
+  "jobAdId": "2b3b9e56-6cb4-4c1f-a819-ab7a6a31f9fd",
+  "defaultJobAd": true,
+  "refNumber": "REF3614X",
+  "company": {
+    "identifier": "AristaNetworks",
+    "name": "Arista Networks"
+  },
+  "releasedDate": "2026-09-18T15:45:30.476Z",
+  "location": {
+    "city": "Dublin",
+    "region": "County Dublin",
+    "country": "ie",
+    "remote": true,
+    "hybrid": false,
+    "latitude": "53.3498053",
+    "longitude": "-6.2603097",
+    "fullLocation": "Dublin, County Dublin, Ireland"
+  },
+  "industry": {
+    "id": "computer_networking",
+    "label": "Computer Networking"
+  },
+  "department": {
+    "id": "1455224",
+    "label": "Software Engineering"
+  },
+  "function": {
+    "id": "information_technology",
+    "label": "Information Technology"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "associate",
+    "label": "Associate"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "ie",
+      "valueLabel": "Ireland"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e1",
+      "fieldLabel": "Department",
+      "valueId": "1455224",
+      "valueLabel": "Software Engineering"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e0",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Arista Networks"
+    },
+    {
+      "fieldId": "62a7845974fe2c08874d5452",
+      "fieldLabel": "Role",
+      "valueId": "4e150511-63af-4e42-850a-47ad805607cc",
+      "valueLabel": "Senior"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000150410554",
+  "creator": {
+    "name": "Emer OKelly"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "744000103470262",
+  "name": "Customer Reliability Engineer (CRE)",
+  "uuid": "994ba649-e107-4012-b76d-5018e737418d",
+  "jobAdId": "26bb42cb-610c-4b02-bd82-a2d7cf322328",
+  "defaultJobAd": true,
+  "refNumber": "REF3208E",
+  "company": {
+    "identifier": "AristaNetworks",
+    "name": "Arista Networks"
+  },
+  "releasedDate": "2026-01-14T09:47:27.286Z",
+  "location": {
+    "city": "Bengaluru",
+    "region": "KA",
+    "country": "in",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "12.9628669",
+    "longitude": "77.57750899999999",
+    "fullLocation": "Bengaluru, KA, India"
+  },
+  "industry": {
+    "id": "computer_hardware",
+    "label": "Computer Hardware"
+  },
+  "department": {
+    "id": "1455224",
+    "label": "Software Engineering"
+  },
+  "function": {
+    "id": "engineering",
+    "label": "Engineering"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "in",
+      "valueLabel": "India"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e1",
+      "fieldLabel": "Department",
+      "valueId": "1455224",
+      "valueLabel": "Software Engineering"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e0",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Arista Networks"
+    },
+    {
+      "fieldId": "62a7845974fe2c08874d5452",
+      "fieldLabel": "Role",
+      "valueId": "4e150511-63af-4e42-850a-47ad805607cc",
+      "valueLabel": "Senior"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000103470262",
+  "creator": {
+    "name": "Tejashwini P M"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

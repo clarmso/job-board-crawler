@@ -1,0 +1,80 @@
+{
+  "id": "744000127479599",
+  "name": "Failure Analysis Engineer",
+  "uuid": "305bf82e-82b5-486a-9103-064769841f9d",
+  "jobAdId": "425bce99-d036-4dad-b89d-4d669038d55e",
+  "defaultJobAd": true,
+  "refNumber": "REF3477B",
+  "company": {
+    "identifier": "AristaNetworks",
+    "name": "Arista Networks"
+  },
+  "releasedDate": "2026-05-20T16:11:24.704Z",
+  "location": {
+    "city": "Jalisco",
+    "region": "Coah.",
+    "country": "mx",
+    "postalCode": "27438",
+    "remote": true,
+    "hybrid": false,
+    "latitude": "25.2169393",
+    "longitude": "-103.4404519",
+    "fullLocation": "Jalisco, Coah., Mexico"
+  },
+  "industry": {
+    "id": "computer_networking",
+    "label": "Computer Networking"
+  },
+  "department": {
+    "id": "1650520",
+    "label": "Service Logistics & Repairs"
+  },
+  "function": {
+    "id": "information_technology",
+    "label": "Information Technology"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "mx",
+      "valueLabel": "Mexico"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e1",
+      "fieldLabel": "Department",
+      "valueId": "1650520",
+      "valueLabel": "Service Logistics & Repairs"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e0",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Arista Networks"
+    },
+    {
+      "fieldId": "62a7845974fe2c08874d5452",
+      "fieldLabel": "Role",
+      "valueId": "4e150511-63af-4e42-850a-47ad805607cc",
+      "valueLabel": "Senior"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000127479599",
+  "creator": {
+    "name": "Sadiya Hussain"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

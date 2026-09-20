@@ -1,0 +1,68 @@
+{
+  "id": "52925922-7cfc-4ee5-bcd2-a52850a7c067",
+  "title": "Staff Research Scientist - Physical AI / Multimodality ",
+  "department": "Engineering",
+  "team": "Engineering",
+  "employmentType": "FullTime",
+  "location": "US-WA-Bellevue",
+  "shouldDisplayCompensationOnJobPostings": true,
+  "secondaryLocations": [
+    {
+      "location": "US-CA-Menlo Park",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "California",
+          "addressCountry": "United States",
+          "addressLocality": "Menlo Park"
+        }
+      }
+    }
+  ],
+  "publishedAt": "2026-08-18T14:34:06.243+00:00",
+  "isListed": true,
+  "isRemote": true,
+  "workplaceType": "Hybrid",
+  "address": {
+    "postalAddress": {
+      "addressRegion": "Washington",
+      "addressCountry": "United States",
+      "addressLocality": "Bellevue"
+    }
+  },
+  "jobUrl": "https://jobs.ashbyhq.com/Snowflake/52925922-7cfc-4ee5-bcd2-a52850a7c067",
+  "applyUrl": "https://jobs.ashbyhq.com/Snowflake/52925922-7cfc-4ee5-bcd2-a52850a7c067/application",
+  "descriptionHtml": "<p style=\"min-height:1.5em\">At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don’t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset — who rapidly test emerging capabilities to discover simpler, more powerful ways to deliver results. At Snowflake, your role isn't just to execute a function, but to help redefine the future of how work gets done.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">We are hiring a <strong>Staff Research Scientist, Physical AI for our AI Research team</strong>. You will build the <em><strong>next-generation training and learning platform for physical AI: models that perceive, reason about, and act within structured environments</strong></em>. This is a greenfield (0 to 1) effort at the intersection of representation learning, world models, and policy optimization. You will help define its technical direction from day one.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>AS A STAFF RESEARCH SCIENTIST YOU WILL:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Design and build scalable training infrastructure for representation models (e.g., contrastive and self-supervised approaches like CLIP/SigLIP, DINO/MAE, and joint-embedding predictive architectures)</p></li><li><p style=\"min-height:1.5em\">Develop latent world models that learn environment dynamics through imagined rollouts, enabling model-based reasoning and planning (Dreamer-style, I-JEPA/V-JEPA families)</p></li><li><p style=\"min-height:1.5em\">Architect and implement action/policy model pipelines, including vision-language-action models and diffusion-based policy learning</p></li><li><p style=\"min-height:1.5em\">Build generative simulator frameworks that produce controllable, physically plausible future states (video world models in the spirit of Cosmos/Genie/Sora)</p></li><li><p style=\"min-height:1.5em\">Develop multimodal generative model capabilities that fuse visual, language, and structured inputs for downstream reasoning and decision-making</p></li><li><p style=\"min-height:1.5em\">Lead cross-team technical decisions on training frameworks, data pipelines, and model evaluation infrastructure</p></li><li><p style=\"min-height:1.5em\">Drive research-to-production pathways, translating prototype systems into reliable, performant platform capabilities</p></li><li><p style=\"min-height:1.5em\">Contribute to the broader research community through publications, open-source releases, and collaboration with academic partners</p></li></ul><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>OUR IDEAL STAFF RESEARCH SCIENTIST, EXOTIC AI WILL HAVE:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">8+ years of relevant experience in machine learning engineering, AI research, or a closely related field (or equivalent experience)</p></li><li><p style=\"min-height:1.5em\">Deep expertise in at least two of the following: representation learning, world models, reinforcement learning, generative modeling, robotics/embodied AI, or scientific ML</p></li><li><p style=\"min-height:1.5em\">Hands-on experience training large-scale models (vision, language, or multimodal) with distributed compute</p></li><li><p style=\"min-height:1.5em\">Strong software engineering fundamentals: system design, performance optimization, and production-quality code</p></li><li><p style=\"min-height:1.5em\">Demonstrated ability to drive cross-team technical initiatives with ambiguity and limited direction</p></li><li><p style=\"min-height:1.5em\">Track record of translating research ideas into working systems at scale</p></li><li><p style=\"min-height:1.5em\"><em><strong>MS or Ph.D. in Computer Science, Machine Learning, Robotics, Physics, or a related field, or equivalent experience</strong></em></p></li></ul><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>BONUS POINTS FOR THE FOLLOWING:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Experience with latent dynamics modeling, model-based RL, or physics-informed neural networks (GraphCast, FourCastNet, AlphaFold-style architectures)</p></li><li><p style=\"min-height:1.5em\">Contributions to open-source ML frameworks or foundation model training codebases</p></li><li><p style=\"min-height:1.5em\">Background in scientific/structured models (molecular modeling, materials science, weather/climate)</p></li><li><p style=\"min-height:1.5em\">Experience building controllable video generation or neural simulation environments</p></li><li><p style=\"min-height:1.5em\">Publications at top venues (NeurIPS, ICML, ICLR, CVPR, CoRL, RSS)</p></li></ul><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>WHY JOIN OUR AI RESEARCH TEAM AT SNOWFLAKE?</strong></p><p style=\"min-height:1.5em\">This is a rare opportunity to define a new research direction from the ground up. You won't be maintaining existing systems or iterating on someone else's roadmap. You'll be building the foundational training platform for physical AI at a company with the infrastructure, data scale, and research ambition to make it real. Our team already ships frontier models (Arctic LLM, Arctic Inference) and production agentic systems (Snowflake Intelligence). You'll have the resources of a platform company with the pace and autonomy of a research lab</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">Snowflake is growing fast, and we’re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake.</p><p style=\"min-height:1.5em\">How do you want to make your impact?</p><p style=\"min-height:1.5em\">For jobs located in the United States, please visit the job posting on the Snowflake Careers Site for salary and benefits information: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://careers.snowflake.com\">careers.snowflake.com</a></p>",
+  "descriptionPlain": "At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don’t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset — who rapidly test emerging capabilities to discover simpler, more powerful ways to deliver results. At Snowflake, your role isn't just to execute a function, but to help redefine the future of how work gets done.\n\n\n\nWe are hiring a Staff Research Scientist, Physical AI for our AI Research team. You will build the next-generation training and learning platform for physical AI: models that perceive, reason about, and act within structured environments. This is a greenfield (0 to 1) effort at the intersection of representation learning, world models, and policy optimization. You will help define its technical direction from day one.\n\n\n\nAS A STAFF RESEARCH SCIENTIST YOU WILL:\n\n - Design and build scalable training infrastructure for representation models (e.g., contrastive and self-supervised approaches like CLIP/SigLIP, DINO/MAE, and joint-embedding predictive architectures)\n\n - Develop latent world models that learn environment dynamics through imagined rollouts, enabling model-based reasoning and planning (Dreamer-style, I-JEPA/V-JEPA families)\n\n - Architect and implement action/policy model pipelines, including vision-language-action models and diffusion-based policy learning\n\n - Build generative simulator frameworks that produce controllable, physically plausible future states (video world models in the spirit of Cosmos/Genie/Sora)\n\n - Develop multimodal generative model capabilities that fuse visual, language, and structured inputs for downstream reasoning and decision-making\n\n - Lead cross-team technical decisions on training frameworks, data pipelines, and model evaluation infrastructure\n\n - Drive research-to-production pathways, translating prototype systems into reliable, performant platform capabilities\n\n - Contribute to the broader research community through publications, open-source releases, and collaboration with academic partners\n\n\n\nOUR IDEAL STAFF RESEARCH SCIENTIST, EXOTIC AI WILL HAVE:\n\n - 8+ years of relevant experience in machine learning engineering, AI research, or a closely related field (or equivalent experience)\n\n - Deep expertise in at least two of the following: representation learning, world models, reinforcement learning, generative modeling, robotics/embodied AI, or scientific ML\n\n - Hands-on experience training large-scale models (vision, language, or multimodal) with distributed compute\n\n - Strong software engineering fundamentals: system design, performance optimization, and production-quality code\n\n - Demonstrated ability to drive cross-team technical initiatives with ambiguity and limited direction\n\n - Track record of translating research ideas into working systems at scale\n\n - MS or Ph.D. in Computer Science, Machine Learning, Robotics, Physics, or a related field, or equivalent experience\n\n\n\nBONUS POINTS FOR THE FOLLOWING:\n\n - Experience with latent dynamics modeling, model-based RL, or physics-informed neural networks (GraphCast, FourCastNet, AlphaFold-style architectures)\n\n - Contributions to open-source ML frameworks or foundation model training codebases\n\n - Background in scientific/structured models (molecular modeling, materials science, weather/climate)\n\n - Experience building controllable video generation or neural simulation environments\n\n - Publications at top venues (NeurIPS, ICML, ICLR, CVPR, CoRL, RSS)\n\n\n\nWHY JOIN OUR AI RESEARCH TEAM AT SNOWFLAKE?\n\nThis is a rare opportunity to define a new research direction from the ground up. You won't be maintaining existing systems or iterating on someone else's roadmap. You'll be building the foundational training platform for physical AI at a company with the infrastructure, data scale, and research ambition to make it real. Our team already ships frontier models (Arctic LLM, Arctic Inference) and production agentic systems (Snowflake Intelligence). You'll have the resources of a platform company with the pace and autonomy of a research lab\n\n\n\nSnowflake is growing fast, and we’re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake.\n\nHow do you want to make your impact?\n\nFor jobs located in the United States, please visit the job posting on the Snowflake Careers Site for salary and benefits information: careers.snowflake.com http://careers.snowflake.com",
+  "compensation": {
+    "compensationTierSummary": "$236K – $339.2K",
+    "scrapeableCompensationSalarySummary": "$236K - $339.2K",
+    "compensationTiers": [
+      {
+        "id": "764de56f-812a-4d14-a063-071212bdbed9",
+        "tierSummary": "$236K – $339.2K",
+        "title": null,
+        "additionalInformation": null,
+        "components": [
+          {
+            "id": "a1c9d604-ce9d-4546-9406-dad7049c8bcb",
+            "summary": "$236K – $339.2K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 236000,
+            "maxValue": 339200
+          }
+        ]
+      }
+    ],
+    "summaryComponents": [
+      {
+        "compensationType": "Salary",
+        "interval": "1 YEAR",
+        "currencyCode": "USD",
+        "minValue": 236000,
+        "maxValue": 339200
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "744000111461585",
+  "name": "System Test Engineer  Intern",
+  "uuid": "276a7c0b-70e6-4b51-aec7-90b0bb1a4148",
+  "jobAdId": "6b39c580-5899-48e0-a6e0-d738fc156b43",
+  "defaultJobAd": true,
+  "refNumber": "REF3247P",
+  "company": {
+    "identifier": "AristaNetworks",
+    "name": "Arista Networks"
+  },
+  "releasedDate": "2026-02-25T20:26:19.856Z",
+  "location": {
+    "city": "Santa Clara",
+    "region": "CA",
+    "country": "us",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "37.3541079",
+    "longitude": "-121.9552356",
+    "fullLocation": "Santa Clara, CA, United States"
+  },
+  "industry": {
+    "id": "computer_networking",
+    "label": "Computer Networking"
+  },
+  "department": {
+    "id": "1455224",
+    "label": "Software Engineering"
+  },
+  "function": {
+    "id": "human_resources",
+    "label": "Human Resources"
+  },
+  "typeOfEmployment": {
+    "id": "intern",
+    "label": "Intern"
+  },
+  "experienceLevel": {
+    "id": "associate",
+    "label": "Associate"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "us",
+      "valueLabel": "United States"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e1",
+      "fieldLabel": "Department",
+      "valueId": "1455224",
+      "valueLabel": "Software Engineering"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e0",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Arista Networks"
+    },
+    {
+      "fieldId": "62a7845974fe2c08874d5452",
+      "fieldLabel": "Role",
+      "valueId": "0c578a2e-9c53-496c-a4c8-57fa86996562",
+      "valueLabel": "Intern"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000111461585",
+  "creator": {
+    "name": "manju upadhyay"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

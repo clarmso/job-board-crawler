@@ -1,0 +1,57 @@
+{
+  "id": "a1f1779b-464c-48f6-a664-56314825c8ac",
+  "title": "Staff Software Engineer, Cortex AI Search Infrastructure",
+  "department": "Engineering",
+  "team": "Engineering",
+  "employmentType": "FullTime",
+  "location": "US-CA-Menlo Park",
+  "shouldDisplayCompensationOnJobPostings": true,
+  "secondaryLocations": [],
+  "publishedAt": "2026-09-17T20:59:57.622+00:00",
+  "isListed": true,
+  "isRemote": true,
+  "workplaceType": "Hybrid",
+  "address": {
+    "postalAddress": {
+      "addressRegion": "California",
+      "addressCountry": "United States",
+      "addressLocality": "Menlo Park"
+    }
+  },
+  "jobUrl": "https://jobs.ashbyhq.com/Snowflake/a1f1779b-464c-48f6-a664-56314825c8ac",
+  "applyUrl": "https://jobs.ashbyhq.com/Snowflake/a1f1779b-464c-48f6-a664-56314825c8ac/application",
+  "descriptionHtml": "<p style=\"min-height:1.5em\">At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don’t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset — who rapidly test emerging capabilities to discover simpler, more powerful ways to deliver results. At Snowflake, your role isn't just to execute a function, but to help redefine the future of how work gets done.</p><p style=\"min-height:1.5em\">The Cortex team is building the future of AI for enterprise data. This role focuses on the <strong>Search infrastructure</strong> that powers our flagship products like  CoWork, Cortex Code &amp; Cortex Agents<strong>  </strong>fast, reliable, scalable and secure at the enterprise level.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">You will be building  high-performance retrieval engines (leveraging vector search, hybrid search, and semantic indexing) that power Snowflake Cortex. This involves optimizing how billions of rows of data are<em><strong> </strong></em>indexed and retrieved in milliseconds.</p><p style=\"min-height:1.5em\"></p><h3><strong>What you will do in this role:</strong></h3><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>Architect Agentic Runtimes:</strong> Build and scale the orchestration engines that execute complex agentic workflows, ensuring low-latency tool execution and robust state management.</p></li><li><p style=\"min-height:1.5em\"><strong>Scale Context Engineering Infra:</strong> Design high-performance systems for RAG (Retrieval-Augmented Generation), including vector database integration, scalable and efficient search indexing, query processing, and result ranking, semantic caching, and automated metadata extraction.</p></li><li><p style=\"min-height:1.5em\"><strong>Build the \"Evals Engine\":</strong> Develop the automated infrastructure required to run massive-scale golden set simulations, error analysis pipelines, and \"hillclimbing\" experiments.</p></li><li><p style=\"min-height:1.5em\"><strong>Productionize AI Workflows:</strong> Collaborate with the modeling team to take raw LLM capabilities and turn them into hardened, multi-tenant microservices with strict guardrails and observability.</p></li><li><p style=\"min-height:1.5em\"><strong>Optimize Performance &amp; Cost:</strong> Direct the infra strategy for model routing, prompt caching, and token optimization to ensure Snowflake’s AI features are the most efficient in the industry.</p></li></ul><p style=\"min-height:1.5em\"></p><h3><strong>Requirements:</strong></h3><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>Education:</strong> Bachelor’s degree in Computer Science or a related technical field.</p></li><li><p style=\"min-height:1.5em\"><strong>Experience:</strong> 9 + years of experience building <strong>distributed systems</strong>, high-throughput APIs, or backend infrastructure for AI/ML products.</p></li><li><p style=\"min-height:1.5em\"><strong>Technical Stack:</strong> Deep proficiency in <strong>Go</strong> or <strong>Java</strong> (for systems) and <strong>Python</strong> (for AI orchestration).</p></li><li><p style=\"min-height:1.5em\"><strong>Systems Thinking:</strong> Strong understanding of database internals, distributed state management, and cloud-native architecture (Kubernetes, FoundationDB, etc.).</p></li><li><p style=\"min-height:1.5em\"><strong>Domain Expertise:</strong> Familiarity with the \"plumbing\" of AI: vector indices, agent platforms, and building scalable data pipelines.</p></li></ul><h3><strong>(Bonus) Experience with:</strong></h3><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Query optimization and SQL engine internals.</p></li><li><p style=\"min-height:1.5em\">Designing multi-tenant systems that handle sensitive enterprise data at scale.</p></li><li><p style=\"min-height:1.5em\">Developing search infrastructure for large-scale applications.</p></li><li><p style=\"min-height:1.5em\">Direct experience with any of the subsystems outlined above.</p></li></ul><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><em>Every Snowflake employee is expected to follow the company’s confidentiality and security standards for handling sensitive data. Snowflake employees must abide by the company’s data security plan as an essential part of their duties. It is every employee’s duty to keep customer information secure and confidential.</em></p><p style=\"min-height:1.5em\">Snowflake is growing fast, and we’re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake.</p><p style=\"min-height:1.5em\">How do you want to make your impact?</p><p style=\"min-height:1.5em\">For jobs located in the United States, please visit the job posting on the Snowflake Careers Site for salary and benefits information: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://careers.snowflake.com\">careers.snowflake.com</a></p>",
+  "descriptionPlain": "At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don’t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset — who rapidly test emerging capabilities to discover simpler, more powerful ways to deliver results. At Snowflake, your role isn't just to execute a function, but to help redefine the future of how work gets done.\n\nThe Cortex team is building the future of AI for enterprise data. This role focuses on the Search infrastructure that powers our flagship products like  CoWork, Cortex Code & Cortex Agents  fast, reliable, scalable and secure at the enterprise level.\n\n\n\nYou will be building  high-performance retrieval engines (leveraging vector search, hybrid search, and semantic indexing) that power Snowflake Cortex. This involves optimizing how billions of rows of data are indexed and retrieved in milliseconds.\n\n\n\n\nWHAT YOU WILL DO IN THIS ROLE:\n\n - Architect Agentic Runtimes: Build and scale the orchestration engines that execute complex agentic workflows, ensuring low-latency tool execution and robust state management.\n\n - Scale Context Engineering Infra: Design high-performance systems for RAG (Retrieval-Augmented Generation), including vector database integration, scalable and efficient search indexing, query processing, and result ranking, semantic caching, and automated metadata extraction.\n\n - Build the \"Evals Engine\": Develop the automated infrastructure required to run massive-scale golden set simulations, error analysis pipelines, and \"hillclimbing\" experiments.\n\n - Productionize AI Workflows: Collaborate with the modeling team to take raw LLM capabilities and turn them into hardened, multi-tenant microservices with strict guardrails and observability.\n\n - Optimize Performance & Cost: Direct the infra strategy for model routing, prompt caching, and token optimization to ensure Snowflake’s AI features are the most efficient in the industry.\n\n\n\n\nREQUIREMENTS:\n\n - Education: Bachelor’s degree in Computer Science or a related technical field.\n\n - Experience: 9 + years of experience building distributed systems, high-throughput APIs, or backend infrastructure for AI/ML products.\n\n - Technical Stack: Deep proficiency in Go or Java (for systems) and Python (for AI orchestration).\n\n - Systems Thinking: Strong understanding of database internals, distributed state management, and cloud-native architecture (Kubernetes, FoundationDB, etc.).\n\n - Domain Expertise: Familiarity with the \"plumbing\" of AI: vector indices, agent platforms, and building scalable data pipelines.\n\n\n(BONUS) EXPERIENCE WITH:\n\n - Query optimization and SQL engine internals.\n\n - Designing multi-tenant systems that handle sensitive enterprise data at scale.\n\n - Developing search infrastructure for large-scale applications.\n\n - Direct experience with any of the subsystems outlined above.\n\n\n\nEvery Snowflake employee is expected to follow the company’s confidentiality and security standards for handling sensitive data. Snowflake employees must abide by the company’s data security plan as an essential part of their duties. It is every employee’s duty to keep customer information secure and confidential.\n\nSnowflake is growing fast, and we’re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake.\n\nHow do you want to make your impact?\n\nFor jobs located in the United States, please visit the job posting on the Snowflake Careers Site for salary and benefits information: careers.snowflake.com http://careers.snowflake.com",
+  "compensation": {
+    "compensationTierSummary": "$236,000 – $339,250",
+    "scrapeableCompensationSalarySummary": "$236,000 - $339,250",
+    "compensationTiers": [
+      {
+        "id": "47844aac-015e-499e-a89f-52ac28abc5dc",
+        "tierSummary": "$236,000 – $339,250",
+        "title": null,
+        "additionalInformation": null,
+        "components": [
+          {
+            "id": "2f7e89c7-3c5b-4aad-bee6-d2f14f02d3fc",
+            "summary": "$236,000 – $339,250",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 236000,
+            "maxValue": 339250
+          }
+        ]
+      }
+    ],
+    "summaryComponents": [
+      {
+        "compensationType": "Salary",
+        "interval": "1 YEAR",
+        "currencyCode": "USD",
+        "minValue": 236000,
+        "maxValue": 339250
+      }
+    ]
+  }
+}

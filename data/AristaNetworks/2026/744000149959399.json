@@ -1,0 +1,79 @@
+{
+  "id": "744000149959399",
+  "name": "Network Engineer - Test (Intern) ",
+  "uuid": "498217ba-4ae6-4ea8-8c82-d6783f399856",
+  "jobAdId": "9e40ffe9-6111-4071-9319-9e457c275bf0",
+  "defaultJobAd": true,
+  "refNumber": "REF2952L",
+  "company": {
+    "identifier": "AristaNetworks",
+    "name": "Arista Networks"
+  },
+  "releasedDate": "2026-09-16T21:35:06.048Z",
+  "location": {
+    "city": "Dublin",
+    "region": "County Dublin",
+    "country": "ie",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "53.3498053",
+    "longitude": "-6.2603097",
+    "fullLocation": "Dublin, County Dublin, Ireland"
+  },
+  "industry": {
+    "id": "computer_networking",
+    "label": "Computer Networking"
+  },
+  "department": {
+    "id": "1455224",
+    "label": "Software Engineering"
+  },
+  "function": {
+    "id": "engineering",
+    "label": "Engineering"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "ie",
+      "valueLabel": "Ireland"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e1",
+      "fieldLabel": "Department",
+      "valueId": "1455224",
+      "valueLabel": "Software Engineering"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e0",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Arista Networks"
+    },
+    {
+      "fieldId": "62a7845974fe2c08874d5452",
+      "fieldLabel": "Role",
+      "valueId": "0c578a2e-9c53-496c-a4c8-57fa86996562",
+      "valueLabel": "Intern"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000149959399",
+  "creator": {
+    "name": "Emer OKelly"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

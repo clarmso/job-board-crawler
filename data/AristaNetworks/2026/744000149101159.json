@@ -1,0 +1,76 @@
+{
+  "id": "744000149101159",
+  "name": "Intern Software Engineer - C/C++",
+  "uuid": "9448573c-8317-4b9c-8edf-854e4e6c603b",
+  "jobAdId": "ab624661-a4ed-4eca-8a27-682c5e78114d",
+  "defaultJobAd": true,
+  "refNumber": "REF902L",
+  "company": {
+    "identifier": "AristaNetworks",
+    "name": "Arista Networks"
+  },
+  "releasedDate": "2026-09-11T20:06:57.121Z",
+  "location": {
+    "city": "Poland - Remote",
+    "country": "pl",
+    "remote": true,
+    "hybrid": false,
+    "fullLocation": "Poland - Remote, , Poland"
+  },
+  "industry": {
+    "id": "computer_networking",
+    "label": "Computer Networking"
+  },
+  "department": {
+    "id": "1455224",
+    "label": "Software Engineering"
+  },
+  "function": {
+    "id": "engineering",
+    "label": "Engineering"
+  },
+  "typeOfEmployment": {
+    "id": "intern",
+    "label": "Intern"
+  },
+  "experienceLevel": {
+    "id": "internship",
+    "label": "Internship"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "pl",
+      "valueLabel": "Poland"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e1",
+      "fieldLabel": "Department",
+      "valueId": "1455224",
+      "valueLabel": "Software Engineering"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e0",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Arista Networks"
+    },
+    {
+      "fieldId": "62a7845974fe2c08874d5452",
+      "fieldLabel": "Role",
+      "valueId": "0c578a2e-9c53-496c-a4c8-57fa86996562",
+      "valueLabel": "Intern"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000149101159",
+  "creator": {
+    "name": "Sadiya Hussain"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

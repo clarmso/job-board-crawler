@@ -1,0 +1,79 @@
+{
+  "id": "744000150079499",
+  "name": "Hardware NPI / Debug Engineer - Malaysia",
+  "uuid": "61994caf-5976-4ecc-bc76-a1a01314539b",
+  "jobAdId": "db8a631c-1882-4141-bc16-0fb542fe2183",
+  "defaultJobAd": true,
+  "refNumber": "REF3727B",
+  "company": {
+    "identifier": "AristaNetworks",
+    "name": "Arista Networks"
+  },
+  "releasedDate": "2026-09-17T11:30:23.423Z",
+  "location": {
+    "city": "George Town",
+    "region": "Penang",
+    "country": "my",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "5.4140975",
+    "longitude": "100.3285271",
+    "fullLocation": "George Town, Penang, Malaysia"
+  },
+  "industry": {
+    "id": "computer_networking",
+    "label": "Computer Networking"
+  },
+  "department": {
+    "id": "1650452",
+    "label": "NPI Engineering"
+  },
+  "function": {
+    "id": "information_technology",
+    "label": "Information Technology"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "my",
+      "valueLabel": "Malaysia"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e1",
+      "fieldLabel": "Department",
+      "valueId": "1650452",
+      "valueLabel": "NPI Engineering"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e0",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Arista Networks"
+    },
+    {
+      "fieldId": "62a7845974fe2c08874d5452",
+      "fieldLabel": "Role",
+      "valueId": "4e150511-63af-4e42-850a-47ad805607cc",
+      "valueLabel": "Senior"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000150079499",
+  "creator": {
+    "name": "Albee Nyein"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "744000149961909",
+  "name": "Technical Solutions Engineer",
+  "uuid": "b0ea6468-0ca8-4303-b3ab-c064f783d84c",
+  "jobAdId": "8239d149-26f3-414b-9531-da5d9c7b03cd",
+  "defaultJobAd": true,
+  "refNumber": "REF128L",
+  "company": {
+    "identifier": "AristaNetworks",
+    "name": "Arista Networks"
+  },
+  "releasedDate": "2026-09-16T22:08:04.406Z",
+  "location": {
+    "city": "Dublin",
+    "region": "County Dublin",
+    "country": "ie",
+    "remote": true,
+    "hybrid": false,
+    "latitude": "53.3498053",
+    "longitude": "-6.2603097",
+    "fullLocation": "Dublin, County Dublin, Ireland"
+  },
+  "industry": {
+    "id": "computer_networking",
+    "label": "Computer Networking"
+  },
+  "department": {
+    "id": "1504864",
+    "label": "Customer Support"
+  },
+  "function": {
+    "id": "engineering",
+    "label": "Engineering"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "ie",
+      "valueLabel": "Ireland"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e1",
+      "fieldLabel": "Department",
+      "valueId": "1504864",
+      "valueLabel": "Customer Support"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e0",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Arista Networks"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000149961909",
+  "creator": {
+    "name": "Emer OKelly"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

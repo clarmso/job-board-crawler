@@ -1,0 +1,76 @@
+{
+  "id": "744000148965409",
+  "name": "Manufacturing Engineer, Vietnam",
+  "uuid": "c6447b36-15d2-44a8-aaee-1e40dd7749aa",
+  "jobAdId": "2231dcb6-2ed7-41fc-91e3-e6a24dab4eb1",
+  "defaultJobAd": true,
+  "refNumber": "REF3715V",
+  "company": {
+    "identifier": "AristaNetworks",
+    "name": "Arista Networks"
+  },
+  "releasedDate": "2026-09-11T09:04:03.392Z",
+  "location": {
+    "city": "Bac Ninh",
+    "country": "vn",
+    "remote": false,
+    "hybrid": false,
+    "fullLocation": "Bac Ninh, , Vietnam"
+  },
+  "industry": {
+    "id": "computer_networking",
+    "label": "Computer Networking"
+  },
+  "department": {
+    "id": "1455207",
+    "label": "Manufacturing"
+  },
+  "function": {
+    "id": "manufacturing",
+    "label": "Manufacturing"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "vn",
+      "valueLabel": "Vietnam"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e1",
+      "fieldLabel": "Department",
+      "valueId": "1455207",
+      "valueLabel": "Manufacturing"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e0",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Arista Networks"
+    },
+    {
+      "fieldId": "62a7845974fe2c08874d5452",
+      "fieldLabel": "Role",
+      "valueId": "4e150511-63af-4e42-850a-47ad805607cc",
+      "valueLabel": "Senior"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000148965409",
+  "creator": {
+    "name": "Albee Nyein"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

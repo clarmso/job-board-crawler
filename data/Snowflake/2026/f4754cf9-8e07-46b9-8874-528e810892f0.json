@@ -1,0 +1,68 @@
+{
+  "id": "f4754cf9-8e07-46b9-8874-528e810892f0",
+  "title": "Senior Software Engineer - Cloud Security",
+  "department": "Engineering",
+  "team": "Engineering",
+  "employmentType": "FullTime",
+  "location": "US-CA-Menlo Park",
+  "shouldDisplayCompensationOnJobPostings": true,
+  "secondaryLocations": [
+    {
+      "location": "US-WA-Bellevue",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "Washington",
+          "addressCountry": "United States",
+          "addressLocality": "Bellevue"
+        }
+      }
+    }
+  ],
+  "publishedAt": "2026-09-02T22:56:39.577+00:00",
+  "isListed": true,
+  "isRemote": true,
+  "workplaceType": "Hybrid",
+  "address": {
+    "postalAddress": {
+      "addressRegion": "California",
+      "addressCountry": "United States",
+      "addressLocality": "Menlo Park"
+    }
+  },
+  "jobUrl": "https://jobs.ashbyhq.com/Snowflake/f4754cf9-8e07-46b9-8874-528e810892f0",
+  "applyUrl": "https://jobs.ashbyhq.com/Snowflake/f4754cf9-8e07-46b9-8874-528e810892f0/application",
+  "descriptionHtml": "<p style=\"min-height:1.5em\">At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don’t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset — who rapidly test emerging capabilities to discover simpler, more powerful ways to deliver results. At Snowflake, your role isn't just to execute a function, but to help redefine the future of how work gets done.</p><p style=\"min-height:1.5em\">We are hiring a Senior Software Engineer for our Cloud Security team. This team reduces risk to Snowflake at scale through software-defined controls rather than one-off fixes, building the platforms and pipelines that make entire classes of problems go away. You won't just find problems; you'll ship the systems that improve and verify the security posture of Snowflake products across 600+ million assets and three cloud providers (AWS, Azure, and GCP), with a growing focus on using AI to reason over posture data at a scale humans can't.</p><p style=\"min-height:1.5em\"></p><h3>AS A SENIOR SOFTWARE ENGINEER AT SNOWFLAKE, YOU WILL:</h3><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Build solutions and services that operate, protect, and govern our security posture across 600+ million assets and three clouds (AWS, Azure, GCP).</p></li><li><p style=\"min-height:1.5em\">Automate security controls across cloud environments, including core primitives: IAM, detection and monitoring, configuration management, and data protection.</p></li><li><p style=\"min-height:1.5em\">Build real-time security monitoring, logging, and alerting, using Snowflake technologies to make Snowflake more secure.</p></li><li><p style=\"min-height:1.5em\">Define and maintain security baselines, policies, and standards for public cloud platforms.</p></li><li><p style=\"min-height:1.5em\">Design and operate continuous, AI-augmented pipelines that ingest posture and telemetry across hundreds of millions of assets, score risk, and automatically surface the highest-impact issues.</p></li><li><p style=\"min-height:1.5em\">Own security workstreams end to end and raise the engineering bar through design reviews, mentorship, and technical guidance for the team.</p></li><li><p style=\"min-height:1.5em\">Bring software engineering best practices to security work: documentation, testing, and observability, because a control you can't test, monitor, or reason about isn't a control.</p></li></ul><p style=\"min-height:1.5em\"></p><h3>OUR IDEAL SENIOR SOFTWARE ENGINEER WILL HAVE:</h3><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">5+ years of software engineering experience preferred, or equivalent experience.</p></li><li><p style=\"min-height:1.5em\">Experience designing and owning secure, large-scale systems, with working knowledge of secure architecture principles and threat modeling.</p></li><li><p style=\"min-height:1.5em\">A passion for developer experience: making security the default rather than a restriction.</p></li><li><p style=\"min-height:1.5em\">Experience building software in one or more languages such as Java, C++, Go, or Python.</p></li><li><p style=\"min-height:1.5em\">Familiarity with distributed architectures and building scalable APIs (e.g., gRPC, REST).</p></li><li><p style=\"min-height:1.5em\">Strong collaboration and communication skills across engineering and cross-functional stakeholders.</p></li><li><p style=\"min-height:1.5em\">A commitment to data-driven, scalable decision-making that holds up over time.</p></li></ul><p style=\"min-height:1.5em\"></p><h3>BONUS POINTS FOR THE FOLLOWING:</h3><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Experience applying AI/ML to security problems (detection, risk scoring, prioritization) and building the data pipelines that feed them.</p></li><li><p style=\"min-height:1.5em\">Proficiency writing, debugging, and optimizing SQL for data-driven security operations, as a supporting capability.</p></li><li><p style=\"min-height:1.5em\">A strong grasp of algorithms and data structures applied to complex problems.</p></li><li><p style=\"min-height:1.5em\">Hands-on experience with Kubernetes and IaC (Terraform, Pulumi).</p></li><li><p style=\"min-height:1.5em\">Experience designing scalable, concurrent, resilient services for high-demand, multi-cloud environments.</p></li></ul><p style=\"min-height:1.5em\"></p><h3>WHY JOIN OUR CLOUD SECURITY TEAM AT SNOWFLAKE?</h3><p style=\"min-height:1.5em\">Our work centers on a platform that makes security easy to deploy and maintain: unifying the developer security experience, increasing developer autonomy, detecting vulnerabilities before they ship, and delivering secure-by-default solutions. A growing part of that is using AI to turn raw posture signal into prioritized action at a scale humans can't match. If you want to build the systems that make entire classes of security problems disappear, and deliver a world-class security experience for developers at Snowflake, this is the team.</p><p style=\"min-height:1.5em\">Snowflake is growing fast, and we’re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake.</p><p style=\"min-height:1.5em\">How do you want to make your impact?</p><p style=\"min-height:1.5em\">For jobs located in the United States, please visit the job posting on the Snowflake Careers Site for salary and benefits information: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://careers.snowflake.com\">careers.snowflake.com</a></p>",
+  "descriptionPlain": "At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don’t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset — who rapidly test emerging capabilities to discover simpler, more powerful ways to deliver results. At Snowflake, your role isn't just to execute a function, but to help redefine the future of how work gets done.\n\nWe are hiring a Senior Software Engineer for our Cloud Security team. This team reduces risk to Snowflake at scale through software-defined controls rather than one-off fixes, building the platforms and pipelines that make entire classes of problems go away. You won't just find problems; you'll ship the systems that improve and verify the security posture of Snowflake products across 600+ million assets and three cloud providers (AWS, Azure, and GCP), with a growing focus on using AI to reason over posture data at a scale humans can't.\n\n\n\n\nAS A SENIOR SOFTWARE ENGINEER AT SNOWFLAKE, YOU WILL:\n\n - Build solutions and services that operate, protect, and govern our security posture across 600+ million assets and three clouds (AWS, Azure, GCP).\n\n - Automate security controls across cloud environments, including core primitives: IAM, detection and monitoring, configuration management, and data protection.\n\n - Build real-time security monitoring, logging, and alerting, using Snowflake technologies to make Snowflake more secure.\n\n - Define and maintain security baselines, policies, and standards for public cloud platforms.\n\n - Design and operate continuous, AI-augmented pipelines that ingest posture and telemetry across hundreds of millions of assets, score risk, and automatically surface the highest-impact issues.\n\n - Own security workstreams end to end and raise the engineering bar through design reviews, mentorship, and technical guidance for the team.\n\n - Bring software engineering best practices to security work: documentation, testing, and observability, because a control you can't test, monitor, or reason about isn't a control.\n\n\n\n\nOUR IDEAL SENIOR SOFTWARE ENGINEER WILL HAVE:\n\n - 5+ years of software engineering experience preferred, or equivalent experience.\n\n - Experience designing and owning secure, large-scale systems, with working knowledge of secure architecture principles and threat modeling.\n\n - A passion for developer experience: making security the default rather than a restriction.\n\n - Experience building software in one or more languages such as Java, C++, Go, or Python.\n\n - Familiarity with distributed architectures and building scalable APIs (e.g., gRPC, REST).\n\n - Strong collaboration and communication skills across engineering and cross-functional stakeholders.\n\n - A commitment to data-driven, scalable decision-making that holds up over time.\n\n\n\n\nBONUS POINTS FOR THE FOLLOWING:\n\n - Experience applying AI/ML to security problems (detection, risk scoring, prioritization) and building the data pipelines that feed them.\n\n - Proficiency writing, debugging, and optimizing SQL for data-driven security operations, as a supporting capability.\n\n - A strong grasp of algorithms and data structures applied to complex problems.\n\n - Hands-on experience with Kubernetes and IaC (Terraform, Pulumi).\n\n - Experience designing scalable, concurrent, resilient services for high-demand, multi-cloud environments.\n\n\n\n\nWHY JOIN OUR CLOUD SECURITY TEAM AT SNOWFLAKE?\n\nOur work centers on a platform that makes security easy to deploy and maintain: unifying the developer security experience, increasing developer autonomy, detecting vulnerabilities before they ship, and delivering secure-by-default solutions. A growing part of that is using AI to turn raw posture signal into prioritized action at a scale humans can't match. If you want to build the systems that make entire classes of security problems disappear, and deliver a world-class security experience for developers at Snowflake, this is the team.\n\nSnowflake is growing fast, and we’re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake.\n\nHow do you want to make your impact?\n\nFor jobs located in the United States, please visit the job posting on the Snowflake Careers Site for salary and benefits information: careers.snowflake.com http://careers.snowflake.com",
+  "compensation": {
+    "compensationTierSummary": "$200K – $287.5K",
+    "scrapeableCompensationSalarySummary": "$200K - $287.5K",
+    "compensationTiers": [
+      {
+        "id": "b270c765-841e-4143-8616-5f51c7ea6c74",
+        "tierSummary": "$200K – $287.5K",
+        "title": null,
+        "additionalInformation": null,
+        "components": [
+          {
+            "id": "0e55c9e4-5291-4030-a7a2-7e105ee62752",
+            "summary": "$200K – $287.5K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 200000,
+            "maxValue": 287500
+          }
+        ]
+      }
+    ],
+    "summaryComponents": [
+      {
+        "compensationType": "Salary",
+        "interval": "1 YEAR",
+        "currencyCode": "USD",
+        "minValue": 200000,
+        "maxValue": 287500
+      }
+    ]
+  }
+}
