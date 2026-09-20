@@ -43,7 +43,6 @@ d2l,lever,,,Canada
 dilitrust,lever,,,Canada
 eqbank,lever,,,Canada
 fullscript,lever,,,Canada
-getmaple,lever,,,Canada
 kabam,lever,,,Canada
 knix,lever,,,Canada
 loblawdigital,lever,,,Canada
@@ -201,7 +200,6 @@ propublica,greenhouse,,,
 protillionbiosciences,greenhouse,,,
 proton,greenhouse,,,
 quince,greenhouse,,,
-redpandadata,greenhouse,,,
 remote,greenhouse,,,
 resortpass,greenhouse,,,
 robinhood,greenhouse,,,
@@ -1559,3 +1557,9 @@ siei,greenhouse,,,Japan
 pdi,greenhouse,,,Japan
 palitronica,,,LinkedIn jobs page only (no dedicated ATS); recruiting@palitronica.com,Canada
 snyk,workday,https://snyk.io/careers/all-jobs/,Migrated off Ashby to Workday (unsupported ATS); unable to locate exact Workday tenant/site,UK
+CrowdStrike,workday,,Uses Workday (unsupported ATS),US
+Proofpoint,workday,,Uses Workday (unsupported ATS),US
+binsentry,bamboohr,,,Canada
+lime,ashby,,Ashby-hosted job board (jobs.ashbyhq.com/lime) works but public posting-api returns 404 (API access disabled),US
+plusgrade,workday,https://plusgrade.wd10.myworkdayjobs.com/Plusgrade_External_Site,Uses Workday (unsupported ATS),Canada
+zoom,workday,https://careers.zoom.us/jobs/search,Careers site is Clinch-branded but applications go through Workday (unsupported ATS),US
