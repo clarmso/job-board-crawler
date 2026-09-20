@@ -15,6 +15,7 @@ import glob
 import html
 import json
 import os
+import re
 import sys
 from datetime import datetime, timezone
 
@@ -46,22 +47,30 @@ def _careers_url(slug, platform):
     return template.format(slug=slug) if template else None
 
 
+_CA_REMOTE_RE = re.compile(r"\bca\s*[-\u2013\u2014]?\s*remote\b|\bremote\s*[-\u2013\u2014]?\s*ca\b")
+
+
 def _mentions_canada(*texts):
     """Keyword match for locations that plausibly cover Canada.
 
     Matches "Canada" itself plus broader regions a Canada-based candidate
-    could reasonably apply under ("Global", "North America", "Americas").
-    Deliberately does NOT match a bare "CA" token: that's ambiguous with the
-    US postal abbreviation for California, which shows up constantly in
-    greenhouse/gem/rippling location strings (e.g. "San Mateo, CA").
+    could reasonably apply under ("Global", "North America", "Americas"),
+    plus the "CA Remote" / "Remote - CA" shorthand some companies use
+    (e.g. "CA Remote (BC & ON only); U.S. Remote").
+
+    A bare "CA" token on its own is deliberately NOT treated as Canada:
+    that's ambiguous with the US postal abbreviation for California, which
+    shows up constantly in greenhouse/gem/rippling location strings (e.g.
+    "San Mateo, CA"). Only "CA" directly adjacent to "Remote" is matched,
+    since that combination is how some ATS postings abbreviate
+    "Canada Remote".
     """
     combined = " ".join(str(t) for t in texts if t).lower()
     if not combined:
         return False
-    return any(
-        keyword in combined
-        for keyword in ("canada", "global", "north america", "americas")
-    )
+    if any(keyword in combined for keyword in ("canada", "global", "north america", "americas")):
+        return True
+    return bool(_CA_REMOTE_RE.search(combined))
 
 
 def _is_canada_job(platform, job):
