@@ -1,0 +1,73 @@
+{
+  "id": "744000130426309",
+  "name": "Senior Mechanical Engineer, Sydney",
+  "uuid": "00e6ec7f-60cb-47e9-ac41-be3f69d4e389",
+  "jobAdId": "9bc53fe7-c762-419a-8fdd-156cff84e1b3",
+  "defaultJobAd": true,
+  "refNumber": "REF2941C",
+  "company": {
+    "identifier": "AristaNetworks",
+    "name": "Arista Networks"
+  },
+  "releasedDate": "2026-06-05T11:09:01.014Z",
+  "location": {
+    "city": "Sydney",
+    "region": "NSW",
+    "country": "au",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "-33.8727409",
+    "longitude": "151.2057136",
+    "fullLocation": "Sydney, NSW, Australia"
+  },
+  "industry": {
+    "id": "computer_networking",
+    "label": "Computer Networking"
+  },
+  "department": {
+    "id": "1650486",
+    "label": "Platform Engineering"
+  },
+  "function": {
+    "id": "engineering",
+    "label": "Engineering"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "au",
+      "valueLabel": "Australia"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e1",
+      "fieldLabel": "Department",
+      "valueId": "1650486",
+      "valueLabel": "Platform Engineering"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e0",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Arista Networks"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000130426309",
+  "creator": {
+    "name": "Albee Nyein"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "744000135170659",
+  "name": "Technical Solutions Engineer- Sydney",
+  "uuid": "89c11a61-4175-4264-9958-e449bc3ea952",
+  "jobAdId": "f81911d7-aa5b-4ccc-ad3a-8c8bdc2beee5",
+  "defaultJobAd": true,
+  "refNumber": "REF2170O",
+  "company": {
+    "identifier": "AristaNetworks",
+    "name": "Arista Networks"
+  },
+  "releasedDate": "2026-07-01T05:47:25.285Z",
+  "location": {
+    "city": "Sydney",
+    "region": "NSW",
+    "country": "au",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "-33.8688197",
+    "longitude": "151.2092955",
+    "fullLocation": "Sydney, NSW, Australia"
+  },
+  "industry": {
+    "id": "computer_networking",
+    "label": "Computer Networking"
+  },
+  "department": {
+    "id": "1504864",
+    "label": "Customer Support"
+  },
+  "function": {
+    "id": "information_technology",
+    "label": "Information Technology"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "au",
+      "valueLabel": "Australia"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e1",
+      "fieldLabel": "Department",
+      "valueId": "1504864",
+      "valueLabel": "Customer Support"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e0",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Arista Networks"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000135170659",
+  "creator": {
+    "name": "Albee Nyein"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

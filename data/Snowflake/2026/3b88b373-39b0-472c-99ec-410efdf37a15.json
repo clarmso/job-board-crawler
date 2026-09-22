@@ -1,0 +1,89 @@
+{
+  "id": "3b88b373-39b0-472c-99ec-410efdf37a15",
+  "title": "Staff Software Engineer - FDB Platform",
+  "department": "Engineering",
+  "team": "Engineering",
+  "employmentType": "FullTime",
+  "location": "US-CA-Menlo Park",
+  "shouldDisplayCompensationOnJobPostings": true,
+  "secondaryLocations": [],
+  "publishedAt": "2026-06-30T22:52:39.869+00:00",
+  "isListed": true,
+  "isRemote": null,
+  "workplaceType": null,
+  "address": {
+    "postalAddress": {
+      "addressRegion": "California",
+      "addressCountry": "United States",
+      "addressLocality": "Menlo Park"
+    }
+  },
+  "jobUrl": "https://jobs.ashbyhq.com/Snowflake/3b88b373-39b0-472c-99ec-410efdf37a15",
+  "applyUrl": "https://jobs.ashbyhq.com/Snowflake/3b88b373-39b0-472c-99ec-410efdf37a15/application",
+  "descriptionHtml": "<p style=\"min-height:1.5em\">At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don’t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset — who rapidly test emerging capabilities to discover simpler, more powerful ways to deliver results. At Snowflake, your role isn't just to execute a function, but to help redefine the future of how work gets done.</p><p style=\"min-height:1.5em\">Snowflake is a high-growth, cloud-native data platform company committed to empowering enterprises to achieve their full potential. With a culture built on impact, innovation, and collaboration, we offer an environment where you can build large-scale systems, move fast, and take your technology career to the next level.</p><p style=\"min-height:1.5em\">We are seeking an outstanding Staff Software Engineer with a passion for large scale databases and distributed systems to help us take the FDB platform to the next level. A massive new market opportunity is being created at the intersection of Cloud and Data, and the Snowflake Data Cloud is leading the way, all powered by the database engine we are building from the ground up.</p><p style=\"min-height:1.5em\">Key to Snowflake’s Database Engine is our large scale distributed transactional Key-Value store - called FDB - which powers all of Snowflake’s products and services and is rapidly evolving to meet Snowflake’s future needs.</p><p style=\"min-height:1.5em\">FDB runs on multiple cloud providers including Amazon Web Services, Microsoft Azure and Google Cloud. The elastic infrastructure FDB runs on is being built from the ground up and is envisioned to be a cloud agnostic, fully automated manageability platform that provides:</p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Autoscaling and auto-balancing of clusters based on utilization, traffic and workloads</p></li><li><p style=\"min-height:1.5em\">Auto-provisioning of new clusters with zero manual intervention</p></li><li><p style=\"min-height:1.5em\">Self-healing capabilities that prevent, mitigate and resolve any production impact</p></li><li><p style=\"min-height:1.5em\">Built-in configuration management that guarantees FDB runs correctly and on the intended topologies</p></li><li><p style=\"min-height:1.5em\">Self-optimizing COGS efficiency, ensuring we run our clusters at optimal utilization</p></li></ul><p style=\"min-height:1.5em\"><strong>AS A STAFF SOFTWARE ENGINEER AT SNOWFLAKE, YOU WILL:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Design and implement scalable distributed system solutions for our cloud agnostic platform.</p></li><li><p style=\"min-height:1.5em\">Analyze fault-tolerance and high availability issues, performance and scale challenges, and solve them.</p></li><li><p style=\"min-height:1.5em\">Own the end to end delivery of your projects, from identifying a solution, to design, implementation, test and safe production rollout</p></li><li><p style=\"min-height:1.5em\">Understand trade-offs between consistency, durability and costs to build solutions which can meet the demands of rapidly growing services.</p></li><li><p style=\"min-height:1.5em\">Build the next generation transaction system, caching, storage engine and multi tenant capabilities</p></li><li><p style=\"min-height:1.5em\">Evangelize best practices in database usage and end-to-end architecture.</p></li><li><p style=\"min-height:1.5em\">Pinpoint problems, instrument relevant components as needed, and ultimately implement solutions.</p></li></ul><p style=\"min-height:1.5em\"><strong>OUR IDEAL STAFF SOFTWARE ENGINEER WILL HAVE:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">8+ years industry experience designing, building and supporting large scale infrastructure in production.</p></li><li><p style=\"min-height:1.5em\">Experience designing, building, and operating large-scale distributed systems infrastructure supporting stateful services</p></li><li><p style=\"min-height:1.5em\">Experience in container orchestration, cluster management, or autoscaling.</p></li><li><p style=\"min-height:1.5em\">Excellent understanding of operating systems concepts including multi-threading, memory management, networking and storage, performance and scale.</p></li><li><p style=\"min-height:1.5em\">Systems programming skills including multi-threading, concurrency, etc. Fluency in Java</p></li><li><p style=\"min-height:1.5em\">Solid understanding of the internals of Kubernetes, Mesos, OpenShift, or other container platforms</p></li><li><p style=\"min-height:1.5em\">Experience with scalable Key-Value stores such as FoundationDB, RocksDB/LevelDB, DynamoDB, Redis, etc. a plus.</p></li><li><p style=\"min-height:1.5em\">Track record of delivering highly complex projects in the distributed systems space</p></li><li><p style=\"min-height:1.5em\">Intense curiosity, willingness to question and passion for making systems better</p></li><li><p style=\"min-height:1.5em\">Experience with one or more of the following highly desired:</p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Big Data storage technologies and their applications (HDFS, Cassandra, Columnar Databases, etc.)</p></li><li><p style=\"min-height:1.5em\">Scalable Key-Value stores such as FoundationDB, RocksDB/LevelDB, DynamoDB, Redis, Cassandra, etc.</p></li></ul></li><li><p style=\"min-height:1.5em\">BS in Computer Science; Masters or PhD Preferred.</p></li></ul><p style=\"min-height:1.5em\">Snowflake is growing fast, and we’re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake.</p><p style=\"min-height:1.5em\">How do you want to make your impact?</p><p style=\"min-height:1.5em\">For jobs located in the United States, please visit the job posting on the Snowflake Careers Site for salary and benefits information: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://careers.snowflake.com\">careers.snowflake.com</a></p>",
+  "descriptionPlain": "At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don’t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset — who rapidly test emerging capabilities to discover simpler, more powerful ways to deliver results. At Snowflake, your role isn't just to execute a function, but to help redefine the future of how work gets done.\n\nSnowflake is a high-growth, cloud-native data platform company committed to empowering enterprises to achieve their full potential. With a culture built on impact, innovation, and collaboration, we offer an environment where you can build large-scale systems, move fast, and take your technology career to the next level.\n\nWe are seeking an outstanding Staff Software Engineer with a passion for large scale databases and distributed systems to help us take the FDB platform to the next level. A massive new market opportunity is being created at the intersection of Cloud and Data, and the Snowflake Data Cloud is leading the way, all powered by the database engine we are building from the ground up.\n\nKey to Snowflake’s Database Engine is our large scale distributed transactional Key-Value store - called FDB - which powers all of Snowflake’s products and services and is rapidly evolving to meet Snowflake’s future needs.\n\nFDB runs on multiple cloud providers including Amazon Web Services, Microsoft Azure and Google Cloud. The elastic infrastructure FDB runs on is being built from the ground up and is envisioned to be a cloud agnostic, fully automated manageability platform that provides:\n\n - Autoscaling and auto-balancing of clusters based on utilization, traffic and workloads\n\n - Auto-provisioning of new clusters with zero manual intervention\n\n - Self-healing capabilities that prevent, mitigate and resolve any production impact\n\n - Built-in configuration management that guarantees FDB runs correctly and on the intended topologies\n\n - Self-optimizing COGS efficiency, ensuring we run our clusters at optimal utilization\n\nAS A STAFF SOFTWARE ENGINEER AT SNOWFLAKE, YOU WILL:\n\n - Design and implement scalable distributed system solutions for our cloud agnostic platform.\n\n - Analyze fault-tolerance and high availability issues, performance and scale challenges, and solve them.\n\n - Own the end to end delivery of your projects, from identifying a solution, to design, implementation, test and safe production rollout\n\n - Understand trade-offs between consistency, durability and costs to build solutions which can meet the demands of rapidly growing services.\n\n - Build the next generation transaction system, caching, storage engine and multi tenant capabilities\n\n - Evangelize best practices in database usage and end-to-end architecture.\n\n - Pinpoint problems, instrument relevant components as needed, and ultimately implement solutions.\n\nOUR IDEAL STAFF SOFTWARE ENGINEER WILL HAVE:\n\n - 8+ years industry experience designing, building and supporting large scale infrastructure in production.\n\n - Experience designing, building, and operating large-scale distributed systems infrastructure supporting stateful services\n\n - Experience in container orchestration, cluster management, or autoscaling.\n\n - Excellent understanding of operating systems concepts including multi-threading, memory management, networking and storage, performance and scale.\n\n - Systems programming skills including multi-threading, concurrency, etc. Fluency in Java\n\n - Solid understanding of the internals of Kubernetes, Mesos, OpenShift, or other container platforms\n\n - Experience with scalable Key-Value stores such as FoundationDB, RocksDB/LevelDB, DynamoDB, Redis, etc. a plus.\n\n - Track record of delivering highly complex projects in the distributed systems space\n\n - Intense curiosity, willingness to question and passion for making systems better\n\n - Experience with one or more of the following highly desired:\n   \n   - Big Data storage technologies and their applications (HDFS, Cassandra, Columnar Databases, etc.)\n   \n   - Scalable Key-Value stores such as FoundationDB, RocksDB/LevelDB, DynamoDB, Redis, Cassandra, etc.\n\n - BS in Computer Science; Masters or PhD Preferred.\n\nSnowflake is growing fast, and we’re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake.\n\nHow do you want to make your impact?\n\nFor jobs located in the United States, please visit the job posting on the Snowflake Careers Site for salary and benefits information: careers.snowflake.com http://careers.snowflake.com",
+  "compensation": {
+    "compensationTierSummary": "$236,000 – $339,250 • Offers Equity • Offers Bonus",
+    "scrapeableCompensationSalarySummary": "$236,000 - $339,250",
+    "compensationTiers": [
+      {
+        "id": "03f3cfd2-c3b3-45d5-91bb-cb37fbeb732d",
+        "tierSummary": "$236,000 – $339,250 • Offers Equity • Offers Bonus",
+        "title": null,
+        "additionalInformation": null,
+        "components": [
+          {
+            "id": "e5709f9a-6d4f-467b-9946-32df69cdf6d8",
+            "summary": "$236,000 – $339,250",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 236000,
+            "maxValue": 339250
+          },
+          {
+            "id": "1c38a8fc-030a-484f-9dac-a5fe05ac16db",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "be736fa4-af32-4561-a5b9-39c827ad2b96",
+            "summary": "Offers Bonus",
+            "compensationType": "Bonus",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": null,
+            "maxValue": null
+          }
+        ]
+      }
+    ],
+    "summaryComponents": [
+      {
+        "compensationType": "Salary",
+        "interval": "1 YEAR",
+        "currencyCode": "USD",
+        "minValue": 236000,
+        "maxValue": 339250
+      },
+      {
+        "compensationType": "EquityPercentage",
+        "interval": "NONE",
+        "currencyCode": null,
+        "minValue": null,
+        "maxValue": null
+      },
+      {
+        "compensationType": "Bonus",
+        "interval": "1 YEAR",
+        "currencyCode": "USD",
+        "minValue": null,
+        "maxValue": null
+      }
+    ]
+  }
+}

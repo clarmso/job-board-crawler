@@ -1,0 +1,79 @@
+{
+  "id": "744000149958449",
+  "name": "Software Engineer Graduate 2026/2027",
+  "uuid": "a71ef793-e36f-41cd-bcc5-dd3d5ade1305",
+  "jobAdId": "12e7e3c8-22e9-478c-a255-59172b77ecbb",
+  "defaultJobAd": true,
+  "refNumber": "REF3637G",
+  "company": {
+    "identifier": "AristaNetworks",
+    "name": "Arista Networks"
+  },
+  "releasedDate": "2026-09-16T21:29:13.676Z",
+  "location": {
+    "city": "Dublin",
+    "region": "County Dublin",
+    "country": "ie",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "53.3498053",
+    "longitude": "-6.2603097",
+    "fullLocation": "Dublin, County Dublin, Ireland"
+  },
+  "industry": {
+    "id": "computer_networking",
+    "label": "Computer Networking"
+  },
+  "department": {
+    "id": "1455224",
+    "label": "Software Engineering"
+  },
+  "function": {
+    "id": "information_technology",
+    "label": "Information Technology"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "entry_level",
+    "label": "Entry Level"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "ie",
+      "valueLabel": "Ireland"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e1",
+      "fieldLabel": "Department",
+      "valueId": "1455224",
+      "valueLabel": "Software Engineering"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e0",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Arista Networks"
+    },
+    {
+      "fieldId": "62a7845974fe2c08874d5452",
+      "fieldLabel": "Role",
+      "valueId": "8429a637-8dcc-4386-beca-069384974393",
+      "valueLabel": "New grad"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000149958449",
+  "creator": {
+    "name": "Emer OKelly"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

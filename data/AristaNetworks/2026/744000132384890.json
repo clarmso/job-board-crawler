@@ -1,0 +1,79 @@
+{
+  "id": "744000132384890",
+  "name": "Software Engineer (Wifi/ Embedded)",
+  "uuid": "0933502f-1fca-4503-9615-e54f3d0649c1",
+  "jobAdId": "5c0a8005-877f-4a43-98b2-cf678e54a2f2",
+  "defaultJobAd": true,
+  "refNumber": "REF3199X",
+  "company": {
+    "identifier": "AristaNetworks",
+    "name": "Arista Networks"
+  },
+  "releasedDate": "2026-06-16T10:32:06.071Z",
+  "location": {
+    "city": "Chennai",
+    "region": "TN",
+    "country": "in",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "13.0843007",
+    "longitude": "80.2704622",
+    "fullLocation": "Chennai, TN, India"
+  },
+  "industry": {
+    "id": "computer_networking",
+    "label": "Computer Networking"
+  },
+  "department": {
+    "id": "1455224",
+    "label": "Software Engineering"
+  },
+  "function": {
+    "id": "information_technology",
+    "label": "Information Technology"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "in",
+      "valueLabel": "India"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e1",
+      "fieldLabel": "Department",
+      "valueId": "1455224",
+      "valueLabel": "Software Engineering"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e0",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Arista Networks"
+    },
+    {
+      "fieldId": "62a7845974fe2c08874d5452",
+      "fieldLabel": "Role",
+      "valueId": "4e150511-63af-4e42-850a-47ad805607cc",
+      "valueLabel": "Senior"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000132384890",
+  "creator": {
+    "name": "Ram Ganesh"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

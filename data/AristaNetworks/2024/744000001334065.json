@@ -1,0 +1,73 @@
+{
+  "id": "744000001334065",
+  "name": "NetOps Engineer - Test",
+  "uuid": "74e2462f-f69c-45ce-8689-5a05ad1038fc",
+  "jobAdId": "614b5914-87ff-4e7e-8f74-a8b9c1819c9f",
+  "defaultJobAd": true,
+  "refNumber": "REF400B",
+  "company": {
+    "identifier": "AristaNetworks",
+    "name": "Arista Networks"
+  },
+  "releasedDate": "2024-07-18T17:42:48.969Z",
+  "location": {
+    "city": "Dublin",
+    "region": "County Dublin",
+    "country": "ie",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "53.3498053",
+    "longitude": "-6.2603097",
+    "fullLocation": "Dublin, County Dublin, Ireland"
+  },
+  "industry": {
+    "id": "computer_networking",
+    "label": "Computer Networking"
+  },
+  "department": {
+    "id": "1650418",
+    "label": "Engineering & Operations"
+  },
+  "function": {
+    "id": "engineering",
+    "label": "Engineering"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "ie",
+      "valueLabel": "Ireland"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e1",
+      "fieldLabel": "Department",
+      "valueId": "1650418",
+      "valueLabel": "Engineering & Operations"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e0",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Arista Networks"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000001334065",
+  "creator": {
+    "name": "Sadiya Hussain"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

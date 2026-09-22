@@ -1,0 +1,68 @@
+{
+  "id": "3df779c8-48f9-4fa0-90e5-b95db80a560d",
+  "title": "Staff Network Engineer",
+  "department": "Enterprise Technology",
+  "team": "Enterprise Technology",
+  "employmentType": "FullTime",
+  "location": "US-CA-Menlo Park",
+  "shouldDisplayCompensationOnJobPostings": true,
+  "secondaryLocations": [
+    {
+      "location": "US-WA-Bellevue",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "Washington",
+          "addressCountry": "United States",
+          "addressLocality": "Bellevue"
+        }
+      }
+    }
+  ],
+  "publishedAt": "2026-08-18T20:01:13.209+00:00",
+  "isListed": true,
+  "isRemote": true,
+  "workplaceType": "Hybrid",
+  "address": {
+    "postalAddress": {
+      "addressRegion": "California",
+      "addressCountry": "United States",
+      "addressLocality": "Menlo Park"
+    }
+  },
+  "jobUrl": "https://jobs.ashbyhq.com/Snowflake/3df779c8-48f9-4fa0-90e5-b95db80a560d",
+  "applyUrl": "https://jobs.ashbyhq.com/Snowflake/3df779c8-48f9-4fa0-90e5-b95db80a560d/application",
+  "descriptionHtml": "<p style=\"min-height:1.5em\">At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don’t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset — who rapidly test emerging capabilities to discover simpler, more powerful ways to deliver results. At Snowflake, your role isn't just to execute a function, but to help redefine the future of how work gets done.</p><p style=\"min-height:1.5em\">Staff Network Engineer </p><p style=\"min-height:1.5em\">Location: MPK/Bellevue/Dublin</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">Snowflake's Enterprise Technology Network Services team is looking for a Senior Network Engineer to lead the design, operation, and optimization of our Zero Trust and secure-access platform. This role is Zscaler-centric — you will own the health, performance, and roadmap of our ZIA/ZPA deployment — while working across a modern, multi-cloud network stack that supports a global workforce of 10,000+ users. You'll be the escalation point for the most complex connectivity issues and a driver of automation and observability across the environment.</p><p style=\"min-height:1.5em\"><strong>What You'll Do</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Own and operate the <strong>Zscaler</strong> platform (ZIA, ZPA, ZDX, ZCC) end-to-end, including policy frameworks, app-segmentation models, PAC/traffic-forwarding standards, App Connector topology, and NSS/log-streaming design.</p></li><li><p style=\"min-height:1.5em\"><strong>Troubleshoot</strong> secure-access incidents like tunnel flapping, broker/connector health, SSL inspection edge cases, DNS/DTLS failures, and lead root-cause analysis for systemic issues.</p></li><li><p style=\"min-height:1.5em\">Manage <strong>Palo Alto</strong> firewalls, <strong>Panorama</strong> and <strong>GlobalProtect</strong> VPN, while planning migration toward Zscaler solutions.</p></li><li><p style=\"min-height:1.5em\">Support <strong>Aruba</strong> (Central) Wireless, <strong>Ekahau</strong> and <strong>Cisco</strong> Catalyst switches globally.</p></li><li><p style=\"min-height:1.5em\">Design, install, and configure network devices and ISP circuits at new offices.</p></li><li><p style=\"min-height:1.5em\">Build <strong>automation</strong> and <strong>observability</strong>: leverage log analytics (we run our network telemetry through Snowflake) to create dashboards, alerting, and proactive detection.</p></li><li><p style=\"min-height:1.5em\">Troubleshoot secure <strong>Network constructs</strong> in <strong>AWS</strong>, <strong>Azure</strong>, and <strong>GCP </strong>such as NVAs, NSG, VPC, UDR, DirectConnect, ExpressRoute.</p></li><li><p style=\"min-height:1.5em\">Author technical runbooks, escalation procedures, and knowledge-base content.</p></li><li><p style=\"min-height:1.5em\">Participate in <strong>on-call rotations</strong> for the changes and lead responses to major network incidents.</p></li><li><p style=\"min-height:1.5em\">Be able to <strong>travel internationally</strong> for short periods of time for site builds.</p></li></ul><p style=\"min-height:1.5em\"><strong>What You'll Bring</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>At least 10 years</strong> of enterprise network infrastructure experience, including <strong>3+ years</strong> of hands-on <strong>Zscaler ZIA/ZPA</strong> design and deployment at scale.</p></li><li><p style=\"min-height:1.5em\">Recognized depth in <strong>Zero Trust / SASE</strong> architecture with expertise in <strong>ZTNA</strong>, proxy/SWG, SSL inspection, and cloud security.</p></li><li><p style=\"min-height:1.5em\">Hands-on <strong>Palo Alto</strong> (PAN-OS, GlobalProtect, Panorama) and enterprise VPN experience.</p></li><li><p style=\"min-height:1.5em\"><strong>Aruba</strong> wireless and <strong>Cisco</strong> LAN/WAN (routing, switching, 802.1x) fundamentals.</p></li><li><p style=\"min-height:1.5em\">Strong TCP/IP, DNS, DHCP, TLS/DTLS, BGP, and QoS troubleshooting skills.</p></li><li><p style=\"min-height:1.5em\">Multi-cloud (<strong>AWS/Azure/GCP)</strong> networking and site-to-cloud connectivity experience.</p></li><li><p style=\"min-height:1.5em\"><strong>Automation</strong> mindset: <strong>Python</strong> scripting, API config, and log observability (SQL/Snowflake a plus).</p></li><li><p style=\"min-height:1.5em\">Strong ITSM management, documentation, and communication skills.</p></li></ul><p style=\"min-height:1.5em\"><strong>Nice to Have</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Certifications: Zscaler (ZCCA-IA/PA, ZDTA), Palo Alto (PCNSE), Aruba (ACMA/ACMP), or Cisco (CCNA/CCNP).</p></li><li><p style=\"min-height:1.5em\">Experience migrating legacy VPNs (GlobalProtect) to ZPA.</p></li><li><p style=\"min-height:1.5em\">Familiarity with SASE and network-as-code/IaC (Terraform).</p></li><li><p style=\"min-height:1.5em\">Experience operating in high-growth SaaS or cloud-native environments.</p></li></ul><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">Snowflake is growing fast, and we’re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake.</p><p style=\"min-height:1.5em\">How do you want to make your impact?</p><p style=\"min-height:1.5em\">For jobs located in the United States, please visit the job posting on the Snowflake Careers Site for salary and benefits information: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://careers.snowflake.com\">careers.snowflake.com</a></p>",
+  "descriptionPlain": "At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don’t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset — who rapidly test emerging capabilities to discover simpler, more powerful ways to deliver results. At Snowflake, your role isn't just to execute a function, but to help redefine the future of how work gets done.\n\nStaff Network Engineer \n\nLocation: MPK/Bellevue/Dublin\n\n\n\nSnowflake's Enterprise Technology Network Services team is looking for a Senior Network Engineer to lead the design, operation, and optimization of our Zero Trust and secure-access platform. This role is Zscaler-centric — you will own the health, performance, and roadmap of our ZIA/ZPA deployment — while working across a modern, multi-cloud network stack that supports a global workforce of 10,000+ users. You'll be the escalation point for the most complex connectivity issues and a driver of automation and observability across the environment.\n\nWhat You'll Do\n\n - Own and operate the Zscaler platform (ZIA, ZPA, ZDX, ZCC) end-to-end, including policy frameworks, app-segmentation models, PAC/traffic-forwarding standards, App Connector topology, and NSS/log-streaming design.\n\n - Troubleshoot secure-access incidents like tunnel flapping, broker/connector health, SSL inspection edge cases, DNS/DTLS failures, and lead root-cause analysis for systemic issues.\n\n - Manage Palo Alto firewalls, Panorama and GlobalProtect VPN, while planning migration toward Zscaler solutions.\n\n - Support Aruba (Central) Wireless, Ekahau and Cisco Catalyst switches globally.\n\n - Design, install, and configure network devices and ISP circuits at new offices.\n\n - Build automation and observability: leverage log analytics (we run our network telemetry through Snowflake) to create dashboards, alerting, and proactive detection.\n\n - Troubleshoot secure Network constructs in AWS, Azure, and GCP such as NVAs, NSG, VPC, UDR, DirectConnect, ExpressRoute.\n\n - Author technical runbooks, escalation procedures, and knowledge-base content.\n\n - Participate in on-call rotations for the changes and lead responses to major network incidents.\n\n - Be able to travel internationally for short periods of time for site builds.\n\nWhat You'll Bring\n\n - At least 10 years of enterprise network infrastructure experience, including 3+ years of hands-on Zscaler ZIA/ZPA design and deployment at scale.\n\n - Recognized depth in Zero Trust / SASE architecture with expertise in ZTNA, proxy/SWG, SSL inspection, and cloud security.\n\n - Hands-on Palo Alto (PAN-OS, GlobalProtect, Panorama) and enterprise VPN experience.\n\n - Aruba wireless and Cisco LAN/WAN (routing, switching, 802.1x) fundamentals.\n\n - Strong TCP/IP, DNS, DHCP, TLS/DTLS, BGP, and QoS troubleshooting skills.\n\n - Multi-cloud (AWS/Azure/GCP) networking and site-to-cloud connectivity experience.\n\n - Automation mindset: Python scripting, API config, and log observability (SQL/Snowflake a plus).\n\n - Strong ITSM management, documentation, and communication skills.\n\nNice to Have\n\n - Certifications: Zscaler (ZCCA-IA/PA, ZDTA), Palo Alto (PCNSE), Aruba (ACMA/ACMP), or Cisco (CCNA/CCNP).\n\n - Experience migrating legacy VPNs (GlobalProtect) to ZPA.\n\n - Familiarity with SASE and network-as-code/IaC (Terraform).\n\n - Experience operating in high-growth SaaS or cloud-native environments.\n\n\n\nSnowflake is growing fast, and we’re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake.\n\nHow do you want to make your impact?\n\nFor jobs located in the United States, please visit the job posting on the Snowflake Careers Site for salary and benefits information: careers.snowflake.com http://careers.snowflake.com",
+  "compensation": {
+    "compensationTierSummary": "$160K – $210K",
+    "scrapeableCompensationSalarySummary": "$160K - $210K",
+    "compensationTiers": [
+      {
+        "id": "b1b0e374-25de-4454-b8e9-6a175845a0d7",
+        "tierSummary": "$160K – $210K",
+        "title": null,
+        "additionalInformation": null,
+        "components": [
+          {
+            "id": "013fca65-0da5-4793-a347-0a1dc33c4c90",
+            "summary": "$160K – $210K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 160000,
+            "maxValue": 210000
+          }
+        ]
+      }
+    ],
+    "summaryComponents": [
+      {
+        "compensationType": "Salary",
+        "interval": "1 YEAR",
+        "currencyCode": "USD",
+        "minValue": 160000,
+        "maxValue": 210000
+      }
+    ]
+  }
+}

@@ -74,7 +74,11 @@
     {
       "id": 5525802,
       "name": "Baseline Budgeted Salary",
-      "value": null,
+      "value": {
+        "unit": "USD",
+        "max_value": "205000.0",
+        "min_value": "143000.0"
+      },
       "value_type": "currency_range"
     },
     {
@@ -121,7 +125,7 @@
     }
   ],
   "id": 8069976,
-  "updated_at": "2026-09-01T03:40:27-04:00",
+  "updated_at": "2026-09-21T10:33:51-04:00",
   "requisition_id": "2273496616",
   "title": "Director, Strategic Events",
   "company_name": "MongoDB",
@@ -139,9 +143,9 @@
   ],
   "offices": [
     {
-      "id": 3964,
-      "name": "Austin",
-      "location": "Austin, TX, United States",
+      "id": 3960,
+      "name": "New York City",
+      "location": "New York, NY, United States",
       "child_ids": [],
       "parent_id": 23657
     }

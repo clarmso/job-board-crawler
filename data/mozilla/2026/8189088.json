@@ -1,0 +1,47 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/mozilla/jobs/8189088",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 3543638,
+  "location": {
+    "name": "Remote Canada; Remote US"
+  },
+  "metadata": null,
+  "id": 8189088,
+  "updated_at": "2026-09-21T12:13:13-04:00",
+  "requisition_id": "178",
+  "title": "Contract Senior Software Engineer - WebGPU-Firefox/Gecko (Rust)",
+  "company_name": "Mozilla",
+  "first_published": "2026-09-21T11:47:36-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;h2&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;The role&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400; font-size: 12pt;&quot;&gt;You will help the Firefox WebGPU team clear its backlog of correctness and security bugs in wgpu, Firefox’s WebGPU implementation, so WebGPU can ship on Linux and Android. You will take on well-defined, prioritized issues, land fixes upstream in the open-source wgpu project and in Gecko, and free the core team to focus on the remaining release-blocking work.&lt;/span&gt;&lt;/p&gt;\n&lt;h2&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-weight: 400; font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-weight: 400; font-size: 12pt;&quot;&gt;Fix prioritized correctness and validation bugs from the wgpu &quot;WebGPU for Firefox&quot; project (the “Current”, “CTS Burndown”, “Linux release” and “Android release” columns), plus security and fuzzer-reported bugs.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400; font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-weight: 400; font-size: 12pt;&quot;&gt;Diagnose and fix application blockers, real apps and demos that do not yet work in Firefox Nightly (the webgpu-apps meta-bug).&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400; font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-weight: 400; font-size: 12pt;&quot;&gt;Work through WebGPU conformance test suite (CTS) failures.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400; font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-weight: 400; font-size: 12pt;&quot;&gt;Write and pass tests, work through code review with wgpu maintainers and Gecko module owners, and land upstream.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400; font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-weight: 400; font-size: 12pt;&quot;&gt;Coordinate with the Firefox WebGPU team on task selection and priority.&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Scope and references&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-weight: 400; font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-weight: 400; font-size: 12pt;&quot;&gt;wgpu &quot;WebGPU for Firefox&quot; GitHub project&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400; font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-weight: 400; font-size: 12pt;&quot;&gt;webgpu-apps meta-bug (Bugzilla) blockers&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400; font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-weight: 400; font-size: 12pt;&quot;&gt;WebGPU conformance test suite (CTS) expected-failure lists&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400; font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-weight: 400; font-size: 12pt;&quot;&gt;Specific issue lists to be provided by the WebGPU team&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Definition of done&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400; font-size: 12pt;&quot;&gt;Reviewed fixes landed upstream in wgpu and in Gecko, with tests, measurably reducing the P2/P3 backlog, app blockers, and CTS failures, contributing to WebGPU riding the trains on Linux and Android.&lt;/span&gt;&lt;/p&gt;\n&lt;h2&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Required qualifications&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-weight: 400; font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-weight: 400; font-size: 12pt;&quot;&gt;Strong Rust.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400; font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-weight: 400; font-size: 12pt;&quot;&gt;Experience in a large systems or graphics codebase, and the ability to ramp on wgpu quickly.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400; font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-weight: 400; font-size: 12pt;&quot;&gt;Comfort working upstream in an open-source project (public issues and code review).&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400; font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-weight: 400; font-size: 12pt;&quot;&gt;Solid debugging skills (validation bugs, corner cases, fuzz findings).&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Preferred&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-weight: 400; font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-weight: 400; font-size: 12pt;&quot;&gt;Prior contributions to wgpu (the team can onboard an existing wgpu contributor fastest).&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400; font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-weight: 400; font-size: 12pt;&quot;&gt;WebGPU / graphics / GPU experience. Modern graphics APIs: Vulkan, DirectX/D3D 11/12, Metal. Shader languages: WGSL, HLSL, MSL, SPIR-V.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400; font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-weight: 400; font-size: 12pt;&quot;&gt;Low-level Android graphics experience&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400; font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-weight: 400; font-size: 12pt;&quot;&gt;Security or fuzzing experience. Web security model.&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;",
+  "departments": [
+    {
+      "id": 128309,
+      "name": "Firefox",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 77552,
+      "name": "Remote US",
+      "location": null,
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

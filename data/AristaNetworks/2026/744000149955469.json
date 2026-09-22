@@ -1,0 +1,79 @@
+{
+  "id": "744000149955469",
+  "name": "Senior Manager, IT Infrastructure & Multi-Cloud Systems",
+  "uuid": "876fccd5-6a28-4b97-ac8e-30b1de6d6805",
+  "jobAdId": "baffa48f-0b63-43e3-a4b2-539a4b382723",
+  "defaultJobAd": true,
+  "refNumber": "REF3672T",
+  "company": {
+    "identifier": "AristaNetworks",
+    "name": "Arista Networks"
+  },
+  "releasedDate": "2026-09-16T20:58:26.867Z",
+  "location": {
+    "city": "Cary",
+    "region": "NC",
+    "country": "us",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "35.7890402",
+    "longitude": "-78.77976439999999",
+    "fullLocation": "Cary, NC, United States"
+  },
+  "industry": {
+    "id": "computer_networking",
+    "label": "Computer Networking"
+  },
+  "department": {
+    "id": "1650384",
+    "label": "Information Technology"
+  },
+  "function": {
+    "id": "engineering",
+    "label": "Engineering"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "us",
+      "valueLabel": "United States"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e1",
+      "fieldLabel": "Department",
+      "valueId": "1650384",
+      "valueLabel": "Information Technology"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e0",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Arista Networks"
+    },
+    {
+      "fieldId": "62a7845974fe2c08874d5452",
+      "fieldLabel": "Role",
+      "valueId": "4e150511-63af-4e42-850a-47ad805607cc",
+      "valueLabel": "Senior"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000149955469",
+  "creator": {
+    "name": "Purva Arora"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

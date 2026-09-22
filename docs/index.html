@@ -1,0 +1,569 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>New Jobs — Job Board Crawler</title>
+<style>
+  :root {
+    --border: #e2e2e2;
+    --muted: #6b7280;
+    --accent: #2563eb;
+    --bg: #ffffff;
+  }
+  * { box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    max-width: 860px;
+    margin: 0 auto;
+    padding: 2rem 1.25rem 4rem;
+    color: #111827;
+    background: var(--bg);
+  }
+  header h1 {
+    margin: 0 0 0.25rem;
+    font-size: 1.75rem;
+  }
+  #meta {
+    color: var(--muted);
+    font-size: 0.9rem;
+    margin-bottom: 0.5rem;
+  }
+  #nav {
+    margin-bottom: 1.5rem;
+    font-size: 0.9rem;
+  }
+  #nav a {
+    color: var(--accent);
+    text-decoration: none;
+  }
+  #nav a:hover { text-decoration: underline; }
+  #toc {
+    background: #f9fafb;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 1rem 1.25rem;
+    margin-bottom: 2rem;
+  }
+  #toc h2 {
+    font-size: 0.95rem;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    color: var(--muted);
+    margin: 0 0 0.5rem;
+  }
+  #toc ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem 0.75rem;
+  }
+  #toc a {
+    color: var(--accent);
+    text-decoration: none;
+    font-size: 0.95rem;
+  }
+  #toc a:hover { text-decoration: underline; }
+  .company {
+    margin-bottom: 2rem;
+    scroll-margin-top: 1rem;
+  }
+  .company h2 {
+    font-size: 1.2rem;
+    border-bottom: 1px solid var(--border);
+    padding-bottom: 0.4rem;
+    margin-bottom: 0.6rem;
+  }
+  .company h2 .count {
+    color: var(--muted);
+    font-weight: normal;
+    font-size: 0.9rem;
+  }
+  .company h2 a.company-link {
+    color: inherit;
+    text-decoration: none;
+  }
+  .company h2 a.company-link:hover { color: var(--accent); text-decoration: underline; }
+  .company ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  .company li {
+    padding: 0.4rem 0;
+    border-bottom: 1px dashed var(--border);
+  }
+  .company li:last-child { border-bottom: none; }
+  .company a {
+    color: #111827;
+    text-decoration: none;
+  }
+  .company a:hover { color: var(--accent); text-decoration: underline; }
+  .job-meta {
+    color: var(--muted);
+    font-size: 0.85rem;
+    margin-left: 0.5rem;
+    white-space: nowrap;
+  }
+  .job-mode {
+    display: inline-block;
+    margin-left: 0.4rem;
+    padding: 0.05rem 0.5rem;
+    border-radius: 999px;
+    border: 1px solid var(--border);
+    font-size: 0.75rem;
+  }
+  .job-mode.remote { color: #047857; border-color: #a7f3d0; background: #ecfdf5; }
+  .job-mode.hybrid { color: #b45309; border-color: #fde68a; background: #fffbeb; }
+  .job-mode.on-site { color: #4338ca; border-color: #c7d2fe; background: #eef2ff; }
+  .job-canada {
+    display: inline-block;
+    margin-left: 0.4rem;
+    padding: 0.05rem 0.5rem;
+    border-radius: 999px;
+    border: 1px solid #fecaca;
+    background: #fef2f2;
+    color: #b91c1c;
+    font-size: 0.75rem;
+  }
+  #empty {
+    color: var(--muted);
+    padding: 2rem 0;
+  }
+  a.top {
+    position: fixed;
+    bottom: 1.5rem;
+    right: 1.5rem;
+    background: var(--accent);
+    color: #fff;
+    padding: 0.5rem 0.9rem;
+    border-radius: 999px;
+    text-decoration: none;
+    font-size: 0.85rem;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+  }
+</style>
+</head>
+<body>
+  <header id="top">
+    <h1>New Jobs</h1>
+    <div id="meta">Jobs posted in the last 48 hours (as of 2026-09-22 01:22 UTC) &middot; 186 new jobs across 36 companies</div>
+    <nav id="nav"><a href="companies.html">Companies crawled &rarr;</a></nav>
+  </header>
+
+  <nav id="toc">
+    <h2>Jump to company</h2>
+    <ul id="toc-list">
+      <li><a href="#company-1password">1Password (3)</a></li>
+      <li><a href="#company-alpaca">Alpaca  (1)</a></li>
+      <li><a href="#company-AristaNetworks">Arista Networks (6)</a></li>
+      <li><a href="#company-benevity">Benevity (1)</a></li>
+      <li><a href="#company-beyondtrust">BeyondTrust (2)</a></li>
+      <li><a href="#company-carta">Carta (1)</a></li>
+      <li><a href="#company-cloudflare">Cloudflare (11)</a></li>
+      <li><a href="#company-cohere">Cohere (2)</a></li>
+      <li><a href="#company-cube">Cube (2)</a></li>
+      <li><a href="#company-databricks">Databricks (11)</a></li>
+      <li><a href="#company-datadog">Datadog (6)</a></li>
+      <li><a href="#company-elastic">Elastic (11)</a></li>
+      <li><a href="#company-faire">Faire (2)</a></li>
+      <li><a href="#company-flipp">Flipp (1)</a></li>
+      <li><a href="#company-gatikaiinc">Gatik AI (4)</a></li>
+      <li><a href="#company-geotab">Geotab (7)</a></li>
+      <li><a href="#company-gitlab">GitLab (2)</a></li>
+      <li><a href="#company-harnessinc">Harness  (4)</a></li>
+      <li><a href="#company-industrious">Industrious (1)</a></li>
+      <li><a href="#company-jane">Jane (1)</a></li>
+      <li><a href="#company-magnetforensics">Magnetforensics (2)</a></li>
+      <li><a href="#company-mongodb">MongoDB (9)</a></li>
+      <li><a href="#company-mozilla">Mozilla (5)</a></li>
+      <li><a href="#company-okta">Okta (5)</a></li>
+      <li><a href="#company-sonyinteractiveentertainmentglobal">PlayStation Global (8)</a></li>
+      <li><a href="#company-prenuvo">Prenuvo (3)</a></li>
+      <li><a href="#company-redpanda-data">Redpanda Data (2)</a></li>
+      <li><a href="#company-ServiceNow">ServiceNow (51)</a></li>
+      <li><a href="#company-Snowflake">Snowflake (14)</a></li>
+      <li><a href="#company-spotify">Spotify (2)</a></li>
+      <li><a href="#company-stackadapt">StackAdapt (1)</a></li>
+      <li><a href="#company-Superhuman%20Platform%20Inc">Superhuman Platform Inc (1)</a></li>
+      <li><a href="#company-tailscale">Tailscale (1)</a></li>
+      <li><a href="#company-trulioo">Trulioo (1)</a></li>
+      <li><a href="#company-twilio">Twilio (1)</a></li>
+      <li><a href="#company-zapier">Zapier (1)</a></li>
+    </ul>
+  </nav>
+
+  <main id="results">
+    <section class="company" id="company-1password">
+      <h2><a class="company-link" href="https://jobs.ashbyhq.com/1password" target="_blank" rel="noopener noreferrer">1Password</a> <span class="count">(3)</span></h2>
+      <ul>
+        <li><a href="https://jobs.ashbyhq.com/1password/8f5bf2e9-1395-4f9a-93b3-f07fc1c95228" target="_blank" rel="noopener noreferrer">Senior Account Executive - Mid Market - NYC-Financial Services</a><span class="job-meta">New York, NY <span class="job-mode remote">Remote</span></span></li>
+        <li><a href="https://jobs.ashbyhq.com/1password/d56a7005-8322-44b7-984a-884c2b5810b3" target="_blank" rel="noopener noreferrer">Senior Account Executive -Mid Market - Washington D.C. area </a><span class="job-meta">Washington D.C. <span class="job-mode remote">Remote</span></span></li>
+        <li><a href="https://jobs.ashbyhq.com/1password/69f58f9d-20c5-48ee-87be-02a8b8291479" target="_blank" rel="noopener noreferrer">Senior Director, Corporate Counsel</a><span class="job-meta">Remote (United States | Canada) <span class="job-canada">🇨🇦 Canada</span> <span class="job-mode remote">Remote</span></span></li>
+      </ul>
+    </section>
+    <section class="company" id="company-alpaca">
+      <h2><a class="company-link" href="https://job-boards.greenhouse.io/alpaca" target="_blank" rel="noopener noreferrer">Alpaca </a> <span class="count">(1)</span></h2>
+      <ul>
+        <li><a href="https://job-boards.greenhouse.io/alpaca/jobs/6195696004" target="_blank" rel="noopener noreferrer">Software Engineer - Crypto</a><span class="job-meta">Remote - EU - LATAM - NA  <span class="job-mode remote">Remote</span></span></li>
+      </ul>
+    </section>
+    <section class="company" id="company-AristaNetworks">
+      <h2><a class="company-link" href="https://careers.smartrecruiters.com/AristaNetworks/" target="_blank" rel="noopener noreferrer">Arista Networks</a> <span class="count">(6)</span></h2>
+      <ul>
+        <li><a href="https://jobs.smartrecruiters.com/AristaNetworks/744000150772619" target="_blank" rel="noopener noreferrer">Hardware NPI / Debug Engineer</a><span class="job-meta">Santa Clara, CA, United States <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://jobs.smartrecruiters.com/AristaNetworks/744000150670309" target="_blank" rel="noopener noreferrer">Senior C++ Engineer - SONiC</a><span class="job-meta">Bucharest, Bucharest, Romania <span class="job-mode remote">Remote</span></span></li>
+        <li><a href="https://jobs.smartrecruiters.com/AristaNetworks/744000150680989" target="_blank" rel="noopener noreferrer">Software Engineer - Platform Team - Greece</a><span class="job-meta">Athens, , Greece <span class="job-mode hybrid">Hybrid</span></span></li>
+        <li><a href="https://jobs.smartrecruiters.com/AristaNetworks/744000150713539" target="_blank" rel="noopener noreferrer">Software Engineer, Kernel and BIOS - Dublin, Ireland</a><span class="job-meta">...., County Dublin, Romania <span class="job-mode remote">Remote</span></span></li>
+        <li><a href="https://jobs.smartrecruiters.com/AristaNetworks/744000150762420" target="_blank" rel="noopener noreferrer">Territory Account Manager</a><span class="job-meta">St. Louis, MO, United States <span class="job-mode remote">Remote</span></span></li>
+        <li><a href="https://jobs.smartrecruiters.com/AristaNetworks/744000150762959" target="_blank" rel="noopener noreferrer">Territory Account Manager</a><span class="job-meta">Kansas City, MO, United States <span class="job-mode remote">Remote</span></span></li>
+      </ul>
+    </section>
+    <section class="company" id="company-benevity">
+      <h2><a class="company-link" href="https://jobs.ashbyhq.com/benevity" target="_blank" rel="noopener noreferrer">Benevity</a> <span class="count">(1)</span></h2>
+      <ul>
+        <li><a href="https://jobs.ashbyhq.com/benevity/a392c740-29e3-4e75-b7fc-a7c711886451" target="_blank" rel="noopener noreferrer">Senior Manager, Product Marketing</a><span class="job-meta">Calgary, Alberta <span class="job-canada">🇨🇦 Canada</span> <span class="job-mode hybrid">Hybrid</span></span></li>
+      </ul>
+    </section>
+    <section class="company" id="company-beyondtrust">
+      <h2><a class="company-link" href="https://job-boards.greenhouse.io/beyondtrust" target="_blank" rel="noopener noreferrer">BeyondTrust</a> <span class="count">(2)</span></h2>
+      <ul>
+        <li><a href="https://job-boards.greenhouse.io/beyondtrust/jobs/8176936" target="_blank" rel="noopener noreferrer">SVP, Revenue Operations</a><span class="job-meta">Remote United States  <span class="job-mode remote">Remote</span></span></li>
+        <li><a href="https://job-boards.greenhouse.io/beyondtrust/jobs/8220336" target="_blank" rel="noopener noreferrer">eLearning Developer</a><span class="job-meta">Remote United States  <span class="job-mode remote">Remote</span></span></li>
+      </ul>
+    </section>
+    <section class="company" id="company-carta">
+      <h2><a class="company-link" href="https://job-boards.greenhouse.io/carta" target="_blank" rel="noopener noreferrer">Carta</a> <span class="count">(1)</span></h2>
+      <ul>
+        <li><a href="https://job-boards.greenhouse.io/carta/jobs/7992629003" target="_blank" rel="noopener noreferrer">Senior AI Engineer, Post-Training </a><span class="job-meta">San Francisco, CA; New York City, NY <span class="job-mode on-site">On-site</span></span></li>
+      </ul>
+    </section>
+    <section class="company" id="company-cloudflare">
+      <h2><a class="company-link" href="https://job-boards.greenhouse.io/cloudflare" target="_blank" rel="noopener noreferrer">Cloudflare</a> <span class="count">(11)</span></h2>
+      <ul>
+        <li><a href="https://boards.greenhouse.io/cloudflare/jobs/8191516?gh_jid=8191516" target="_blank" rel="noopener noreferrer">Developer GTM Strategy Manager</a><span class="job-meta">Hybrid <span class="job-mode hybrid">Hybrid</span></span></li>
+        <li><a href="https://boards.greenhouse.io/cloudflare/jobs/8191453?gh_jid=8191453" target="_blank" rel="noopener noreferrer">Developer GTM Strategy Manager, Technical Programs</a><span class="job-meta">Hybrid <span class="job-mode hybrid">Hybrid</span></span></li>
+        <li><a href="https://boards.greenhouse.io/cloudflare/jobs/8221187?gh_jid=8221187" target="_blank" rel="noopener noreferrer">Manager, Data Center Rack Integration</a><span class="job-meta">Hybrid <span class="job-mode hybrid">Hybrid</span></span></li>
+        <li><a href="https://boards.greenhouse.io/cloudflare/jobs/8206674?gh_jid=8206674" target="_blank" rel="noopener noreferrer">Senior Forward Deployed Engineer</a><span class="job-meta">Hybrid <span class="job-mode hybrid">Hybrid</span></span></li>
+        <li><a href="https://boards.greenhouse.io/cloudflare/jobs/8179405?gh_jid=8179405" target="_blank" rel="noopener noreferrer">Senior Named Account Executive, UAE (Public Sector)</a><span class="job-meta">Hybrid <span class="job-mode hybrid">Hybrid</span></span></li>
+        <li><a href="https://boards.greenhouse.io/cloudflare/jobs/8211796?gh_jid=8211796" target="_blank" rel="noopener noreferrer">Senior Named Account Executive- Phoenix</a><span class="job-meta">Hybrid <span class="job-mode hybrid">Hybrid</span></span></li>
+        <li><a href="https://boards.greenhouse.io/cloudflare/jobs/8204256?gh_jid=8204256" target="_blank" rel="noopener noreferrer">Senior Software Engineer, Zero Trust Client</a><span class="job-meta">Hybrid <span class="job-mode hybrid">Hybrid</span></span></li>
+        <li><a href="https://boards.greenhouse.io/cloudflare/jobs/8202060?gh_jid=8202060" target="_blank" rel="noopener noreferrer">Senior Territory Account Executive (Phoenix)</a><span class="job-meta">Hybrid <span class="job-mode hybrid">Hybrid</span></span></li>
+        <li><a href="https://boards.greenhouse.io/cloudflare/jobs/8211848?gh_jid=8211848" target="_blank" rel="noopener noreferrer">Senior Territory Account Executive - Little Rock, AR</a><span class="job-meta">Hybrid <span class="job-mode hybrid">Hybrid</span></span></li>
+        <li><a href="https://boards.greenhouse.io/cloudflare/jobs/8203752?gh_jid=8203752" target="_blank" rel="noopener noreferrer">Senior Territory Account Executive, Central Eastern Europe - Digital Natives</a><span class="job-meta">Hybrid <span class="job-mode hybrid">Hybrid</span></span></li>
+        <li><a href="https://boards.greenhouse.io/cloudflare/jobs/8157281?gh_jid=8157281" target="_blank" rel="noopener noreferrer">Staff Software Engineer - Integrated Network Strategy</a><span class="job-meta">Hybrid <span class="job-mode hybrid">Hybrid</span></span></li>
+      </ul>
+    </section>
+    <section class="company" id="company-cohere">
+      <h2><a class="company-link" href="https://jobs.ashbyhq.com/cohere" target="_blank" rel="noopener noreferrer">Cohere</a> <span class="count">(2)</span></h2>
+      <ul>
+        <li><a href="https://jobs.ashbyhq.com/cohere/f6100cdd-94fc-4f4b-bac5-7efa5069cdd5" target="_blank" rel="noopener noreferrer">Revenue Enablement Program Manager</a><span class="job-meta">United States <span class="job-canada">🇨🇦 Canada</span> <span class="job-mode remote">Remote</span></span></li>
+        <li><a href="https://jobs.ashbyhq.com/cohere/595a2d50-46a5-4ff9-af1c-d58cea9d8e68" target="_blank" rel="noopener noreferrer">Revenue Enablement Program Manager - EMEA</a><span class="job-meta">Europe <span class="job-mode remote">Remote</span></span></li>
+      </ul>
+    </section>
+    <section class="company" id="company-cube">
+      <h2><a class="company-link" href="https://jobs.ashbyhq.com/cube" target="_blank" rel="noopener noreferrer">Cube</a> <span class="count">(2)</span></h2>
+      <ul>
+        <li><a href="https://jobs.ashbyhq.com/cube/75e1e8f3-2476-40d1-861d-6641cedb865a" target="_blank" rel="noopener noreferrer">Sales Director</a><span class="job-meta">London <span class="job-mode hybrid">Hybrid</span></span></li>
+        <li><a href="https://jobs.ashbyhq.com/cube/aa2e1eea-e006-425c-9bf3-df77e6bcdae3" target="_blank" rel="noopener noreferrer">Sales Director</a><span class="job-meta">London <span class="job-mode hybrid">Hybrid</span></span></li>
+      </ul>
+    </section>
+    <section class="company" id="company-databricks">
+      <h2><a class="company-link" href="https://job-boards.greenhouse.io/databricks" target="_blank" rel="noopener noreferrer">Databricks</a> <span class="count">(11)</span></h2>
+      <ul>
+        <li><a href="https://databricks.com/company/careers/open-positions/job?gh_jid=8826872002" target="_blank" rel="noopener noreferrer">Delivery Solutions Architect</a><span class="job-meta">Munich, Germany <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://databricks.com/company/careers/open-positions/job?gh_jid=8687867002" target="_blank" rel="noopener noreferrer">Sr. Deployment Strategist, FDE - Communications, Media, Entertainment, &amp; Gaming</a><span class="job-meta">United States <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://databricks.com/company/careers/open-positions/job?gh_jid=8687863002" target="_blank" rel="noopener noreferrer">Sr. Deployment Strategist, FDE - Digital Native Business</a><span class="job-meta">San Francisco, California <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://databricks.com/company/careers/open-positions/job?gh_jid=8687869002" target="_blank" rel="noopener noreferrer">Sr. Deployment Strategist, FDE - Financial Services</a><span class="job-meta">Atlanta, Georgia; Boston, Massachusetts; Chicago, Illinois; New York City, New York; Washington, D.C. <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://databricks.com/company/careers/open-positions/job?gh_jid=8687873002" target="_blank" rel="noopener noreferrer">Sr. Deployment Strategist, FDE - Healthcare &amp; Life Sciences</a><span class="job-meta">United States <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://databricks.com/company/careers/open-positions/job?gh_jid=8687861002" target="_blank" rel="noopener noreferrer">Sr. Deployment Strategist, FDE - Manufacturing &amp; High-Tech</a><span class="job-meta">United States <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://databricks.com/company/careers/open-positions/job?gh_jid=8687865002" target="_blank" rel="noopener noreferrer">Sr. Deployment Strategist, FDE - Public Sector</a><span class="job-meta">Washington, D.C. <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://databricks.com/company/careers/open-positions/job?gh_jid=8470847002" target="_blank" rel="noopener noreferrer">Sr. Manager, Security — Continuous Monitoring v 2.0 </a><span class="job-meta">Remote - California <span class="job-mode remote">Remote</span></span></li>
+        <li><a href="https://databricks.com/company/careers/open-positions/job?gh_jid=8828096002" target="_blank" rel="noopener noreferrer">Sr. Solutions Engineer - Games</a><span class="job-meta">California <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://databricks.com/company/careers/open-positions/job?gh_jid=8828100002" target="_blank" rel="noopener noreferrer">Sr. Solutions Engineer - Games</a><span class="job-meta">Southwest - United States <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://databricks.com/company/careers/open-positions/job?gh_jid=8780673002" target="_blank" rel="noopener noreferrer">Sr. Staff Global Customer Enablement Program Lead</a><span class="job-meta">United States <span class="job-mode on-site">On-site</span></span></li>
+      </ul>
+    </section>
+    <section class="company" id="company-datadog">
+      <h2><a class="company-link" href="https://job-boards.greenhouse.io/datadog" target="_blank" rel="noopener noreferrer">Datadog</a> <span class="count">(6)</span></h2>
+      <ul>
+        <li><a href="https://careers.datadoghq.com/detail/8210507/?gh_jid=8210507" target="_blank" rel="noopener noreferrer">Commercial Account Executive (Italy)</a><span class="job-meta">Amsterdam, The Netherlands; Dublin, Ireland <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://careers.datadoghq.com/detail/8220473/?gh_jid=8220473" target="_blank" rel="noopener noreferrer">Developer Advocate - Service Management EMEA</a><span class="job-meta">Portugal, Remote <span class="job-mode remote">Remote</span></span></li>
+        <li><a href="https://careers.datadoghq.com/detail/8202086/?gh_jid=8202086" target="_blank" rel="noopener noreferrer">Legal Operations Analyst</a><span class="job-meta">New York, New York, USA <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://careers.datadoghq.com/detail/8186274/?gh_jid=8186274" target="_blank" rel="noopener noreferrer">Manager, Customer Success (Spanish Speaking)</a><span class="job-meta">Boston, Massachusetts, USA <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://careers.datadoghq.com/detail/8219989/?gh_jid=8219989" target="_blank" rel="noopener noreferrer">Principal GSI Partner Manager - Accenture (EMEA)</a><span class="job-meta">London, United Kingdom <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://careers.datadoghq.com/detail/8197674/?gh_jid=8197674" target="_blank" rel="noopener noreferrer">Senior Deal Desk Analyst</a><span class="job-meta">San Francisco, California, USA <span class="job-mode on-site">On-site</span></span></li>
+      </ul>
+    </section>
+    <section class="company" id="company-elastic">
+      <h2><a class="company-link" href="https://job-boards.greenhouse.io/elastic" target="_blank" rel="noopener noreferrer">Elastic</a> <span class="count">(11)</span></h2>
+      <ul>
+        <li><a href="https://jobs.elastic.co/jobs?gh_jid=8211919&amp;gh_jid=8211919" target="_blank" rel="noopener noreferrer">AWS Partner Development Manager - North America</a><span class="job-meta">United States <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://jobs.elastic.co/jobs?gh_jid=8220114&amp;gh_jid=8220114" target="_blank" rel="noopener noreferrer">Principal Software Developer - Search Infra - Elasticsearch</a><span class="job-meta">Canada <span class="job-canada">🇨🇦 Canada</span> <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://jobs.elastic.co/jobs?gh_jid=8220098&amp;gh_jid=8220098" target="_blank" rel="noopener noreferrer">Principal Software Engineer - Search Infra - Elasticsearch</a><span class="job-meta">Ireland <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://jobs.elastic.co/jobs?gh_jid=8220111&amp;gh_jid=8220111" target="_blank" rel="noopener noreferrer">Principal Software Engineer - Search Infra - Elasticsearch</a><span class="job-meta">Spain <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://jobs.elastic.co/jobs?gh_jid=8220112&amp;gh_jid=8220112" target="_blank" rel="noopener noreferrer">Principal Software Engineer - Search Infra - Elasticsearch</a><span class="job-meta">Switzerland <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://jobs.elastic.co/jobs?gh_jid=8220113&amp;gh_jid=8220113" target="_blank" rel="noopener noreferrer">Principal Software Engineer - Search Infra - Elasticsearch</a><span class="job-meta">Poland <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://jobs.elastic.co/jobs?gh_jid=8220115&amp;gh_jid=8220115" target="_blank" rel="noopener noreferrer">Principal Software Engineer - Search Infra - Elasticsearch</a><span class="job-meta">Norway <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://jobs.elastic.co/jobs?gh_jid=8220127&amp;gh_jid=8220127" target="_blank" rel="noopener noreferrer">Principal Software Engineer - Search Infra - Elasticsearch</a><span class="job-meta">Greece <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://jobs.elastic.co/jobs?gh_jid=8220142&amp;gh_jid=8220142" target="_blank" rel="noopener noreferrer">Principal Software Engineer - Search Infra - Elasticsearch</a><span class="job-meta">Portugal <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://jobs.elastic.co/jobs?gh_jid=8220151&amp;gh_jid=8220151" target="_blank" rel="noopener noreferrer">Principal Software Engineer - Search Infra - Elasticsearch</a><span class="job-meta">Romania <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://jobs.elastic.co/jobs?gh_jid=8209779&amp;gh_jid=8209779" target="_blank" rel="noopener noreferrer">Senior Customer Architect</a><span class="job-meta">United States <span class="job-mode on-site">On-site</span></span></li>
+      </ul>
+    </section>
+    <section class="company" id="company-faire">
+      <h2><a class="company-link" href="https://job-boards.greenhouse.io/faire" target="_blank" rel="noopener noreferrer">Faire</a> <span class="count">(2)</span></h2>
+      <ul>
+        <li><a href="https://boards.greenhouse.io/faire/jobs/8828560002?gh_jid=8828560002" target="_blank" rel="noopener noreferrer">Senior Business Intelligence Analyst</a><span class="job-meta">New York City, NY; San Francisco, CA <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://boards.greenhouse.io/faire/jobs/8829614002?gh_jid=8829614002" target="_blank" rel="noopener noreferrer">Staff Product Manager, Search Algorithms</a><span class="job-meta">New York City, NY; San Francisco, CA <span class="job-mode on-site">On-site</span></span></li>
+      </ul>
+    </section>
+    <section class="company" id="company-flipp">
+      <h2><a class="company-link" href="https://job-boards.greenhouse.io/flipp" target="_blank" rel="noopener noreferrer">Flipp</a> <span class="count">(1)</span></h2>
+      <ul>
+        <li><a href="https://job-boards.greenhouse.io/flipp/jobs/8207487" target="_blank" rel="noopener noreferrer">Account Manager</a><span class="job-meta">Canada <span class="job-canada">🇨🇦 Canada</span> <span class="job-mode on-site">On-site</span></span></li>
+      </ul>
+    </section>
+    <section class="company" id="company-gatikaiinc">
+      <h2><a class="company-link" href="https://job-boards.greenhouse.io/gatikaiinc" target="_blank" rel="noopener noreferrer">Gatik AI</a> <span class="count">(4)</span></h2>
+      <ul>
+        <li><a href="https://boards.greenhouse.io/gatikaiinc/jobs/4715238006?gh_jid=4715238006" target="_blank" rel="noopener noreferrer">Change Management Lead </a><span class="job-meta">Santa Clara, CA <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://boards.greenhouse.io/gatikaiinc/jobs/4715236006?gh_jid=4715236006" target="_blank" rel="noopener noreferrer">Safety Lead </a><span class="job-meta">Santa Clara, CA <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://boards.greenhouse.io/gatikaiinc/jobs/4715201006?gh_jid=4715201006" target="_blank" rel="noopener noreferrer">Sr. Manager, Network Design &amp; Optimization </a><span class="job-meta">Santa Clara, CA <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://boards.greenhouse.io/gatikaiinc/jobs/4715241006?gh_jid=4715241006" target="_blank" rel="noopener noreferrer">Training Lead, Safety &amp; Operations</a><span class="job-meta">Santa Clara, CA <span class="job-mode on-site">On-site</span></span></li>
+      </ul>
+    </section>
+    <section class="company" id="company-geotab">
+      <h2><a class="company-link" href="https://job-boards.greenhouse.io/geotab" target="_blank" rel="noopener noreferrer">Geotab</a> <span class="count">(7)</span></h2>
+      <ul>
+        <li><a href="https://job-boards.greenhouse.io/geotab/jobs/5429813008" target="_blank" rel="noopener noreferrer"> Lead-Inside Sales (12-Month Fixed Term Contract)</a><span class="job-meta">Amsterdam, Netherlands - Netherlands <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://job-boards.greenhouse.io/geotab/jobs/5383177008" target="_blank" rel="noopener noreferrer">Compliance Lead (Remote)</a><span class="job-meta">Remote - Canada <span class="job-canada">🇨🇦 Canada</span> <span class="job-mode remote">Remote</span></span></li>
+        <li><a href="https://job-boards.greenhouse.io/geotab/jobs/5383179008" target="_blank" rel="noopener noreferrer">Compliance Lead (Remote)</a><span class="job-meta">Remote - US <span class="job-mode remote">Remote</span></span></li>
+        <li><a href="https://job-boards.greenhouse.io/geotab/jobs/5423819008" target="_blank" rel="noopener noreferrer">Head of Rental &amp; Leasing</a><span class="job-meta">Oakville, Ontario - Canada <span class="job-canada">🇨🇦 Canada</span> <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://job-boards.greenhouse.io/geotab/jobs/5423821008" target="_blank" rel="noopener noreferrer">Head of Rental &amp; Leasing</a><span class="job-meta">Atlanta, Georgia - USA <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://job-boards.greenhouse.io/geotab/jobs/5423802008" target="_blank" rel="noopener noreferrer">Head of Vocational</a><span class="job-meta">Oakville, Ontario - Canada <span class="job-canada">🇨🇦 Canada</span> <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://job-boards.greenhouse.io/geotab/jobs/5423804008" target="_blank" rel="noopener noreferrer">Head of Vocational</a><span class="job-meta">Atlanta, Georgia - USA <span class="job-mode on-site">On-site</span></span></li>
+      </ul>
+    </section>
+    <section class="company" id="company-gitlab">
+      <h2><a class="company-link" href="https://job-boards.greenhouse.io/gitlab" target="_blank" rel="noopener noreferrer">GitLab</a> <span class="count">(2)</span></h2>
+      <ul>
+        <li><a href="https://job-boards.greenhouse.io/gitlab/jobs/8809512002" target="_blank" rel="noopener noreferrer">Engagement Manager - French Speaking</a><span class="job-meta">Remote, United Kingdom <span class="job-mode remote">Remote</span></span></li>
+        <li><a href="https://job-boards.greenhouse.io/gitlab/jobs/8820804002" target="_blank" rel="noopener noreferrer">Senior Manager, Public Sector Renewals</a><span class="job-meta">Remote, United States <span class="job-mode remote">Remote</span></span></li>
+      </ul>
+    </section>
+    <section class="company" id="company-harnessinc">
+      <h2><a class="company-link" href="https://job-boards.greenhouse.io/harnessinc" target="_blank" rel="noopener noreferrer">Harness </a> <span class="count">(4)</span></h2>
+      <ul>
+        <li><a href="https://www.harness.io/company/jobs/apply?gh_jid=5240138007&amp;gh_jid=5240138007" target="_blank" rel="noopener noreferrer">Senior Enterprise Account Executive </a><span class="job-meta">New York, New York, United States <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://www.harness.io/company/jobs/apply?gh_jid=5240189007&amp;gh_jid=5240189007" target="_blank" rel="noopener noreferrer">Senior Enterprise Account Executive </a><span class="job-meta">Toronto, Ontario, Canada <span class="job-canada">🇨🇦 Canada</span> <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://www.harness.io/company/jobs/apply?gh_jid=5241466007&amp;gh_jid=5241466007" target="_blank" rel="noopener noreferrer">Senior Sales Engineer</a><span class="job-meta">U.S. (Remote) <span class="job-mode remote">Remote</span></span></li>
+        <li><a href="https://www.harness.io/company/jobs/apply?gh_jid=5244440007&amp;gh_jid=5244440007" target="_blank" rel="noopener noreferrer">Staff Security Analyst - GRC</a><span class="job-meta">U.S. (Remote) <span class="job-mode remote">Remote</span></span></li>
+      </ul>
+    </section>
+    <section class="company" id="company-industrious">
+      <h2><a class="company-link" href="https://jobs.ashbyhq.com/industrious" target="_blank" rel="noopener noreferrer">Industrious</a> <span class="count">(1)</span></h2>
+      <ul>
+        <li><a href="https://jobs.ashbyhq.com/industrious/c24719c2-83d6-4fc8-bf68-feb8597ccf2b" target="_blank" rel="noopener noreferrer">Assistant General Manager- San Francisco</a><span class="job-meta">San Francisco - 345 California St (FiDi) <span class="job-mode on-site">On-site</span></span></li>
+      </ul>
+    </section>
+    <section class="company" id="company-jane">
+      <h2><a class="company-link" href="https://jobs.ashbyhq.com/jane" target="_blank" rel="noopener noreferrer">Jane</a> <span class="count">(1)</span></h2>
+      <ul>
+        <li><a href="https://jobs.ashbyhq.com/jane/e70c917f-ceb8-4c3c-aa05-c9db657e7015" target="_blank" rel="noopener noreferrer">Senior Data Engineer - Data Performance and Tooling</a><span class="job-meta">Canada <span class="job-canada">🇨🇦 Canada</span> <span class="job-mode remote">Remote</span></span></li>
+      </ul>
+    </section>
+    <section class="company" id="company-magnetforensics">
+      <h2><a class="company-link" href="https://jobs.lever.co/magnetforensics" target="_blank" rel="noopener noreferrer">Magnetforensics</a> <span class="count">(2)</span></h2>
+      <ul>
+        <li><a href="https://jobs.lever.co/magnetforensics/dd9fcd02-0997-48a4-829f-e4a3eeccfa85" target="_blank" rel="noopener noreferrer">Enterprise Account Executive – North Asia</a><span class="job-meta">Japan <span class="job-mode remote">Remote</span></span></li>
+        <li><a href="https://jobs.lever.co/magnetforensics/a26eecad-3d7e-4441-92dc-7e5dcd6a00e4" target="_blank" rel="noopener noreferrer">Senior Software Engineer</a><span class="job-meta">Canada <span class="job-canada">🇨🇦 Canada</span> <span class="job-mode remote">Remote</span></span></li>
+      </ul>
+    </section>
+    <section class="company" id="company-mongodb">
+      <h2><a class="company-link" href="https://job-boards.greenhouse.io/mongodb" target="_blank" rel="noopener noreferrer">MongoDB</a> <span class="count">(9)</span></h2>
+      <ul>
+        <li><a href="https://www.mongodb.com/careers/job/?gh_jid=8211844" target="_blank" rel="noopener noreferrer">Advisory Solutions Architect</a><span class="job-meta">Paris <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://www.mongodb.com/careers/job/?gh_jid=8212146" target="_blank" rel="noopener noreferrer">Associate Third-Party Risk Management (TPRM) Risk Analyst</a><span class="job-meta">United States <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://www.mongodb.com/careers/job/?gh_jid=8205445" target="_blank" rel="noopener noreferrer">Partner Programs Lead</a><span class="job-meta">Gurugram <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://www.mongodb.com/careers/job/?gh_jid=8201521" target="_blank" rel="noopener noreferrer">Senior Manager, Revenue</a><span class="job-meta">Gurugram <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://www.mongodb.com/careers/job/?gh_jid=8200773" target="_blank" rel="noopener noreferrer">Senior Solutions Architect</a><span class="job-meta">France <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://www.mongodb.com/careers/job/?gh_jid=8210719" target="_blank" rel="noopener noreferrer">Senior Solutions Architect</a><span class="job-meta">Madrid <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://www.mongodb.com/careers/job/?gh_jid=8211464" target="_blank" rel="noopener noreferrer">Sr. Manager, Corporate Development &amp; Ventures</a><span class="job-meta">Austin; New York City; Palo Alto; San Francisco <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://www.mongodb.com/careers/job/?gh_jid=8173735" target="_blank" rel="noopener noreferrer">Staff Software Engineer, Agentic AI </a><span class="job-meta">New York City <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://www.mongodb.com/careers/job/?gh_jid=8212133" target="_blank" rel="noopener noreferrer">Third-Party Risk Management (TPRM) Risk Analyst</a><span class="job-meta">Dublin, Ireland <span class="job-mode on-site">On-site</span></span></li>
+      </ul>
+    </section>
+    <section class="company" id="company-mozilla">
+      <h2><a class="company-link" href="https://job-boards.greenhouse.io/mozilla" target="_blank" rel="noopener noreferrer">Mozilla</a> <span class="count">(5)</span></h2>
+      <ul>
+        <li><a href="https://job-boards.greenhouse.io/mozilla/jobs/8189088" target="_blank" rel="noopener noreferrer">Contract Senior Software Engineer - WebGPU-Firefox/Gecko (Rust)</a><span class="job-meta">Remote Canada; Remote US <span class="job-canada">🇨🇦 Canada</span> <span class="job-mode remote">Remote</span></span></li>
+        <li><a href="https://job-boards.greenhouse.io/mozilla/jobs/8211938" target="_blank" rel="noopener noreferrer">Staff Recruiter</a><span class="job-meta">Remote <span class="job-mode remote">Remote</span></span></li>
+        <li><a href="https://job-boards.greenhouse.io/mozilla/jobs/8212033" target="_blank" rel="noopener noreferrer">Staff Recruiter</a><span class="job-meta">Remote US <span class="job-mode remote">Remote</span></span></li>
+        <li><a href="https://job-boards.greenhouse.io/mozilla/jobs/8177715" target="_blank" rel="noopener noreferrer">Staff Technical Support Manager, Enterprise</a><span class="job-meta">Remote <span class="job-mode remote">Remote</span></span></li>
+        <li><a href="https://job-boards.greenhouse.io/mozilla/jobs/8220780" target="_blank" rel="noopener noreferrer">Staff Technical Support Manager, Enterprise</a><span class="job-meta">Remote Germany <span class="job-mode remote">Remote</span></span></li>
+      </ul>
+    </section>
+    <section class="company" id="company-okta">
+      <h2><a class="company-link" href="https://job-boards.greenhouse.io/okta" target="_blank" rel="noopener noreferrer">Okta</a> <span class="count">(5)</span></h2>
+      <ul>
+        <li><a href="https://www.okta.com/company/careers/opportunity/8220584?gh_jid=8220584" target="_blank" rel="noopener noreferrer">Associate Program Analyst (New Grad)</a><span class="job-meta">Bellevue, Washington; Chicago, Illinois; Toronto, Ontario, Canada <span class="job-canada">🇨🇦 Canada</span> <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://www.okta.com/company/careers/opportunity/8210915?gh_jid=8210915" target="_blank" rel="noopener noreferrer">Senior Software Engineer (Federal)</a><span class="job-meta">San Francisco, California <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://www.okta.com/company/careers/opportunity/8220192?gh_jid=8220192" target="_blank" rel="noopener noreferrer">Solutions Engineering Specialist, Auth0</a><span class="job-meta">Dublin, Ireland <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://www.okta.com/company/careers/opportunity/8212853?gh_jid=8212853" target="_blank" rel="noopener noreferrer">Staff Backend Engineer </a><span class="job-meta">Bengaluru, India <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://www.okta.com/company/careers/opportunity/8220634?gh_jid=8220634" target="_blank" rel="noopener noreferrer">Staff Software Engineer</a><span class="job-meta">Bengaluru, India <span class="job-mode on-site">On-site</span></span></li>
+      </ul>
+    </section>
+    <section class="company" id="company-sonyinteractiveentertainmentglobal">
+      <h2><a class="company-link" href="https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal" target="_blank" rel="noopener noreferrer">PlayStation Global</a> <span class="count">(8)</span></h2>
+      <ul>
+        <li><a href="https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6199059004" target="_blank" rel="noopener noreferrer">Full Stack Software Engineer II (Contract Role)</a><span class="job-meta">United States, Madison, WI <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6204389004" target="_blank" rel="noopener noreferrer">Full Stack Software Engineer II (Contract Role)</a><span class="job-meta">Canada, Waterloo, ON <span class="job-canada">🇨🇦 Canada</span> <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6203038004" target="_blank" rel="noopener noreferrer">Senior Corporate Counsel, Intellectual Property Litigation</a><span class="job-meta">United States, San Mateo, CA <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6203030004" target="_blank" rel="noopener noreferrer">Senior Director, Reporting &amp; Analytics Engineering</a><span class="job-meta">United Kingdom, London <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6179256004" target="_blank" rel="noopener noreferrer">Software Development Engineer in Test</a><span class="job-meta">United States, San Diego, CA <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6191587004" target="_blank" rel="noopener noreferrer">Sr Manager, Influencer Planning</a><span class="job-meta">United States, San Mateo, CA <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6199057004" target="_blank" rel="noopener noreferrer">Sr. Full Stack Software Engineer (Contract Role)</a><span class="job-meta">United States, Madison, WI <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6204001004" target="_blank" rel="noopener noreferrer">Sr. Full Stack Software Engineer (Contract Role)</a><span class="job-meta">Canada, Waterloo, ON <span class="job-canada">🇨🇦 Canada</span> <span class="job-mode on-site">On-site</span></span></li>
+      </ul>
+    </section>
+    <section class="company" id="company-prenuvo">
+      <h2><a class="company-link" href="https://job-boards.greenhouse.io/prenuvo" target="_blank" rel="noopener noreferrer">Prenuvo</a> <span class="count">(3)</span></h2>
+      <ul>
+        <li><a href="https://app.careerpuck.com/job-board/prenuvo/job/4736376005?gh_jid=4736376005" target="_blank" rel="noopener noreferrer">MRI Technologist</a><span class="job-meta">Houston, Texas, United States <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://app.careerpuck.com/job-board/prenuvo/job/4736386005?gh_jid=4736386005" target="_blank" rel="noopener noreferrer">MRI Technologist  </a><span class="job-meta">Dallas, Texas, United States <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://app.careerpuck.com/job-board/prenuvo/job/4736368005?gh_jid=4736368005" target="_blank" rel="noopener noreferrer">Senior AI Applied Scientist II </a><span class="job-meta">Vancouver, British Columbia, Canada <span class="job-canada">🇨🇦 Canada</span> <span class="job-mode on-site">On-site</span></span></li>
+      </ul>
+    </section>
+    <section class="company" id="company-redpanda-data">
+      <h2><a class="company-link" href="https://jobs.ashbyhq.com/redpanda-data" target="_blank" rel="noopener noreferrer">Redpanda Data</a> <span class="count">(2)</span></h2>
+      <ul>
+        <li><a href="https://jobs.ashbyhq.com/redpanda-data/d2a4a1ae-9d4b-4a24-bf01-4d31111272bb" target="_blank" rel="noopener noreferrer">Engineering Manager, Cloud Customer Experience</a><span class="job-meta">Warsaw, Poland - Hybrid <span class="job-mode hybrid">Hybrid</span></span></li>
+        <li><a href="https://jobs.ashbyhq.com/redpanda-data/25df2c2f-f1a6-4c59-bcc6-5ffcf193ad49" target="_blank" rel="noopener noreferrer">Sr. Engineering Manager, AI Platform</a><span class="job-meta">Warsaw, Poland - Hybrid <span class="job-mode hybrid">Hybrid</span></span></li>
+      </ul>
+    </section>
+    <section class="company" id="company-ServiceNow">
+      <h2><a class="company-link" href="https://careers.smartrecruiters.com/ServiceNow/" target="_blank" rel="noopener noreferrer">ServiceNow</a> <span class="count">(51)</span></h2>
+      <ul>
+        <li><a href="https://jobs.smartrecruiters.com/ServiceNow/744000150751114" target="_blank" rel="noopener noreferrer"> Senior Manager, ENT Sales, Manufacturing - Moveworks</a><span class="job-meta">Charlotte, North Carolina, United States <span class="job-mode remote">Remote</span></span></li>
+        <li><a href="https://jobs.smartrecruiters.com/ServiceNow/744000150707419" target="_blank" rel="noopener noreferrer">Advisory Solution Consultant for Federal Government Accounts</a><span class="job-meta">Brasilia, Brasilia, Brazil <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://jobs.smartrecruiters.com/ServiceNow/744000150801049" target="_blank" rel="noopener noreferrer">Customer Success Executive </a><span class="job-meta">Vienna, Virginia, United States <span class="job-mode remote">Remote</span></span></li>
+        <li><a href="https://jobs.smartrecruiters.com/ServiceNow/744000150797379" target="_blank" rel="noopener noreferrer">Director, Pursuit Lead, Elevate </a><span class="job-meta">Chicago, ILLINOIS, United States <span class="job-mode remote">Remote</span></span></li>
+        <li><a href="https://jobs.smartrecruiters.com/ServiceNow/744000150797679" target="_blank" rel="noopener noreferrer">Director, Pursuit Lead, Elevate </a><span class="job-meta">Addison, Texas, United States <span class="job-mode remote">Remote</span></span></li>
+        <li><a href="https://jobs.smartrecruiters.com/ServiceNow/744000150797719" target="_blank" rel="noopener noreferrer">Director, Pursuit Lead, Elevate </a><span class="job-meta">Atlanta, Georgia, United States <span class="job-mode remote">Remote</span></span></li>
+        <li><a href="https://jobs.smartrecruiters.com/ServiceNow/744000150706829" target="_blank" rel="noopener noreferrer">Finance Development Rotation Program (FDRP)</a><span class="job-meta">Santa Clara, CALIFORNIA, United States <span class="job-mode hybrid">Hybrid</span></span></li>
+        <li><a href="https://jobs.smartrecruiters.com/ServiceNow/744000150707379" target="_blank" rel="noopener noreferrer">Finance Development Rotation Program (FDRP)</a><span class="job-meta">West Palm Beach, Florida, United States <span class="job-mode hybrid">Hybrid</span></span></li>
+        <li><a href="https://jobs.smartrecruiters.com/ServiceNow/744000150724920" target="_blank" rel="noopener noreferrer">Global Mobility Manager </a><span class="job-meta">San Diego, California, United States <span class="job-mode hybrid">Hybrid</span></span></li>
+        <li><a href="https://jobs.smartrecruiters.com/ServiceNow/744000150603709" target="_blank" rel="noopener noreferrer">Key Account Director - CRM &amp; Industry Solutions (BFSI)</a><span class="job-meta">Mumbai, Maharashtra, India <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://jobs.smartrecruiters.com/ServiceNow/744000150703364" target="_blank" rel="noopener noreferrer">Manager, Lifecycle Marketing </a><span class="job-meta">New York, NY, United States <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://jobs.smartrecruiters.com/ServiceNow/744000150761409" target="_blank" rel="noopener noreferrer">Monetization Strategy Manager</a><span class="job-meta">San Diego, California, United States <span class="job-mode remote">Remote</span></span></li>
+        <li><a href="https://jobs.smartrecruiters.com/ServiceNow/744000150671169" target="_blank" rel="noopener noreferrer">Partner Development Manager, Business Development - Built On Solutions </a><span class="job-meta">Dublin, , Ireland <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://jobs.smartrecruiters.com/ServiceNow/744000150768479" target="_blank" rel="noopener noreferrer">Partner Manager</a><span class="job-meta">West Palm Beach, Florida, United States <span class="job-mode hybrid">Hybrid</span></span></li>
+        <li><a href="https://jobs.smartrecruiters.com/ServiceNow/744000150741219" target="_blank" rel="noopener noreferrer">Partner Manager - Wipro</a><span class="job-meta">Toronto, Ontario, Canada <span class="job-canada">🇨🇦 Canada</span> <span class="job-mode remote">Remote</span></span></li>
+        <li><a href="https://jobs.smartrecruiters.com/ServiceNow/744000150757450" target="_blank" rel="noopener noreferrer">Partner Marketing Associate</a><span class="job-meta">Santa Clara, California, United States <span class="job-mode hybrid">Hybrid</span></span></li>
+        <li><a href="https://jobs.smartrecruiters.com/ServiceNow/744000150790159" target="_blank" rel="noopener noreferrer">Partner Technical Architect</a><span class="job-meta">Boston, Massachusetts, United States <span class="job-mode remote">Remote</span></span></li>
+        <li><a href="https://jobs.smartrecruiters.com/ServiceNow/744000150790379" target="_blank" rel="noopener noreferrer">Partner Technical Architect</a><span class="job-meta">Austin, Texas, United States <span class="job-mode remote">Remote</span></span></li>
+        <li><a href="https://jobs.smartrecruiters.com/ServiceNow/744000150599979" target="_blank" rel="noopener noreferrer">Partner Technology Architect</a><span class="job-meta">Singapore, , Singapore <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://jobs.smartrecruiters.com/ServiceNow/744000150633759" target="_blank" rel="noopener noreferrer">Presales Solution Consultant - Platform, Data &amp; AI</a><span class="job-meta">Munich, , Germany <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://jobs.smartrecruiters.com/ServiceNow/744000150715459" target="_blank" rel="noopener noreferrer">Principal Inbound Product Manager, CRM Voice AI </a><span class="job-meta">Santa Clara, California, United States <span class="job-mode remote">Remote</span></span></li>
+        <li><a href="https://jobs.smartrecruiters.com/ServiceNow/744000150681529" target="_blank" rel="noopener noreferrer">Principal Platform Architect</a><span class="job-meta">Bangalore, Karnataka, India <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://jobs.smartrecruiters.com/ServiceNow/744000150802510" target="_blank" rel="noopener noreferrer">Principal Platform Architect</a><span class="job-meta">Canberra, ACT, Australia <span class="job-mode hybrid">Hybrid</span></span></li>
+        <li><a href="https://jobs.smartrecruiters.com/ServiceNow/744000150802579" target="_blank" rel="noopener noreferrer">Principal Platform Architect</a><span class="job-meta">Sydney, NSW, Australia <span class="job-mode hybrid">Hybrid</span></span></li>
+        <li><a href="https://jobs.smartrecruiters.com/ServiceNow/744000150800929" target="_blank" rel="noopener noreferrer">Principal Software Engineer - AI Control Tower (AICT)</a><span class="job-meta">Santa Clara, California, United States <span class="job-mode hybrid">Hybrid</span></span></li>
+        <li><a href="https://jobs.smartrecruiters.com/ServiceNow/744000150779259" target="_blank" rel="noopener noreferrer">Senior Customer Success Manager - Federal</a><span class="job-meta">Remote, DC Metro Area, United States <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://jobs.smartrecruiters.com/ServiceNow/744000150690699" target="_blank" rel="noopener noreferrer">Senior Customer Success Manager - Veza</a><span class="job-meta">London, , United Kingdom <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://jobs.smartrecruiters.com/ServiceNow/744000150796779" target="_blank" rel="noopener noreferrer">Senior Director, Content Design</a><span class="job-meta">Santa Clara, CALIFORNIA, United States <span class="job-mode remote">Remote</span></span></li>
+        <li><a href="https://jobs.smartrecruiters.com/ServiceNow/744000150688209" target="_blank" rel="noopener noreferrer">Senior Director, Lifecycle &amp; Customer Excellence Marketing</a><span class="job-meta">New York, NEW YORK, United States <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://jobs.smartrecruiters.com/ServiceNow/744000150740259" target="_blank" rel="noopener noreferrer">Senior Event Marketing Specialist</a><span class="job-meta">Staines, , United Kingdom <span class="job-mode hybrid">Hybrid</span></span></li>
+        <li><a href="https://jobs.smartrecruiters.com/ServiceNow/744000150714661" target="_blank" rel="noopener noreferrer">Senior Inbound Product Manager, CRM Voice AI </a><span class="job-meta">Santa Clara, California, United States <span class="job-mode remote">Remote</span></span></li>
+        <li><a href="https://jobs.smartrecruiters.com/ServiceNow/744000150689709" target="_blank" rel="noopener noreferrer">Senior Manager, Lifecycle Marketing</a><span class="job-meta">New York, New York, United States <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://jobs.smartrecruiters.com/ServiceNow/744000150701679" target="_blank" rel="noopener noreferrer">Senior Manager, Lifecycle Marketing</a><span class="job-meta">New York, NY, United States <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://jobs.smartrecruiters.com/ServiceNow/744000150745664" target="_blank" rel="noopener noreferrer">Senior Manager, Sales, Manufacturing - Moveworks</a><span class="job-meta">New York, New York, United States <span class="job-mode remote">Remote</span></span></li>
+        <li><a href="https://jobs.smartrecruiters.com/ServiceNow/744000150700629" target="_blank" rel="noopener noreferrer">Senior Manager, Software Engineering</a><span class="job-meta">Hyderabad, , India <span class="job-mode hybrid">Hybrid</span></span></li>
+        <li><a href="https://jobs.smartrecruiters.com/ServiceNow/744000150714090" target="_blank" rel="noopener noreferrer">Senior Principal Inbound Product Manager, CRM Voice AI </a><span class="job-meta">Santa Clara, California, United States <span class="job-mode remote">Remote</span></span></li>
+        <li><a href="https://jobs.smartrecruiters.com/ServiceNow/744000150755769" target="_blank" rel="noopener noreferrer">Senior Research Engineer/Scientist</a><span class="job-meta">Montreal, QUEBEC, Canada <span class="job-canada">🇨🇦 Canada</span> <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://jobs.smartrecruiters.com/ServiceNow/744000150791674" target="_blank" rel="noopener noreferrer">Senior Software Engineer, DevOps - Moveworks</a><span class="job-meta">Mountain View, CALIFORNIA, United States <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://jobs.smartrecruiters.com/ServiceNow/744000150736626" target="_blank" rel="noopener noreferrer">Senior Staff Machine Learning Engineer</a><span class="job-meta">Santa Clara, CALIFORNIA, United States <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://jobs.smartrecruiters.com/ServiceNow/744000150776289" target="_blank" rel="noopener noreferrer">Software Engineer - Applicant Tracking Systems</a><span class="job-meta">West Palm Beach, Florida, United States <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://jobs.smartrecruiters.com/ServiceNow/744000150770667" target="_blank" rel="noopener noreferrer">Sr Advisory Solution Consultant- US Public Sector- Moveworks</a><span class="job-meta">Silver Spring, Maryland, United States <span class="job-mode remote">Remote</span></span></li>
+        <li><a href="https://jobs.smartrecruiters.com/ServiceNow/744000150640250" target="_blank" rel="noopener noreferrer">Sr Director, Inspire Value</a><span class="job-meta">Singapore, , Singapore <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://jobs.smartrecruiters.com/ServiceNow/744000150652059" target="_blank" rel="noopener noreferrer">Sr Enterprise Account Exec</a><span class="job-meta">San Diego, CALIFORNIA, United States <span class="job-mode remote">Remote</span></span></li>
+        <li><a href="https://jobs.smartrecruiters.com/ServiceNow/744000150739520" target="_blank" rel="noopener noreferrer">Sr Software Engineer</a><span class="job-meta">San Diego, CALIFORNIA, United States <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://jobs.smartrecruiters.com/ServiceNow/744000150777598" target="_blank" rel="noopener noreferrer">Sr Staff Inbound Product Manager</a><span class="job-meta">Santa Clara, CALIFORNIA, United States <span class="job-mode hybrid">Hybrid</span></span></li>
+        <li><a href="https://jobs.smartrecruiters.com/ServiceNow/744000150737044" target="_blank" rel="noopener noreferrer">Staff Site Reliability Engineer - Federal</a><span class="job-meta">San Diego, CALIFORNIA, United States <span class="job-mode hybrid">Hybrid</span></span></li>
+        <li><a href="https://jobs.smartrecruiters.com/ServiceNow/744000150658079" target="_blank" rel="noopener noreferrer">Staff Software Engineer</a><span class="job-meta">Hyderabad, , India <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://jobs.smartrecruiters.com/ServiceNow/744000150734587" target="_blank" rel="noopener noreferrer">Staff Software Engineer</a><span class="job-meta">Santa Clara, CALIFORNIA, United States <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://jobs.smartrecruiters.com/ServiceNow/744000150794579" target="_blank" rel="noopener noreferrer">Staff Software Engineer, DevOps - Moveworks</a><span class="job-meta">Mountain View, CALIFORNIA, United States <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://jobs.smartrecruiters.com/ServiceNow/744000150778229" target="_blank" rel="noopener noreferrer">Staff Software Engineer, Platform Cryptography </a><span class="job-meta">Santa Clara, CALIFORNIA, United States <span class="job-mode hybrid">Hybrid</span></span></li>
+        <li><a href="https://jobs.smartrecruiters.com/ServiceNow/744000150737589" target="_blank" rel="noopener noreferrer">Technical Consultant</a><span class="job-meta">Chicago, ILLINOIS, United States <span class="job-mode remote">Remote</span></span></li>
+      </ul>
+    </section>
+    <section class="company" id="company-Snowflake">
+      <h2><a class="company-link" href="https://jobs.ashbyhq.com/Snowflake" target="_blank" rel="noopener noreferrer">Snowflake</a> <span class="count">(14)</span></h2>
+      <ul>
+        <li><a href="https://jobs.ashbyhq.com/Snowflake/e285a14e-4c03-4899-b180-f69276b5a8c9" target="_blank" rel="noopener noreferrer">AI Deployment Strategist</a><span class="job-meta">JP-Tokyo <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://jobs.ashbyhq.com/Snowflake/eb4ef48f-7322-481c-984a-a81b2e8460e1" target="_blank" rel="noopener noreferrer">Account Engineer</a><span class="job-meta">US-CA-Menlo Park <span class="job-canada">🇨🇦 Canada</span> <span class="job-mode hybrid">Hybrid</span></span></li>
+        <li><a href="https://jobs.ashbyhq.com/Snowflake/c6b398be-85db-4390-9c41-563185039dfb" target="_blank" rel="noopener noreferrer">Account Executive</a><span class="job-meta">KR-Seoul <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://jobs.ashbyhq.com/Snowflake/70766c82-db27-4196-843a-072c89fb8693" target="_blank" rel="noopener noreferrer">Account Executive, Commercial Acquisition</a><span class="job-meta">CA-Ontario-Toronto <span class="job-canada">🇨🇦 Canada</span> <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://jobs.ashbyhq.com/Snowflake/8a6365f5-454f-4a9e-b72f-29b09c02d55b" target="_blank" rel="noopener noreferrer">Account Executive, Commercial Acquisition</a><span class="job-meta">US-GA-Atlanta <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://jobs.ashbyhq.com/Snowflake/ecd08904-f188-4336-bf8c-f75f97df1a02" target="_blank" rel="noopener noreferrer">Data Engineering Solutions Specialist </a><span class="job-meta">US, Remote <span class="job-mode remote">Remote</span></span></li>
+        <li><a href="https://jobs.ashbyhq.com/Snowflake/2d5b86ac-0566-405b-b97d-b9cd3242ad8b" target="_blank" rel="noopener noreferrer">Director, Assistant General Counsel - Litigation</a><span class="job-meta">US-GA-Atlanta <span class="job-mode hybrid">Hybrid</span></span></li>
+        <li><a href="https://jobs.ashbyhq.com/Snowflake/f607346e-1368-40d1-86bb-994ae0c195f3" target="_blank" rel="noopener noreferrer">Director, Priority Support Engineering EMEA</a><span class="job-meta">GB-London <span class="job-mode hybrid">Hybrid</span></span></li>
+        <li><a href="https://jobs.ashbyhq.com/Snowflake/5268b654-1580-487b-b341-80ccc7376684" target="_blank" rel="noopener noreferrer">Sales Development Representative (German Speaker), Observability </a><span class="job-meta">GB-London <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://jobs.ashbyhq.com/Snowflake/ae7a4ce3-84c6-4b13-b8e2-c960f24e28f0" target="_blank" rel="noopener noreferrer">Senior Global Mobility Partner</a><span class="job-meta">US-CA-Menlo Park <span class="job-mode hybrid">Hybrid</span></span></li>
+        <li><a href="https://jobs.ashbyhq.com/Snowflake/f6a295e5-4651-4d60-81be-0b98adae30f0" target="_blank" rel="noopener noreferrer">Senior Manager, Event Sponsorship Program</a><span class="job-meta">US-CA-Menlo Park <span class="job-mode on-site">On-site</span></span></li>
+        <li><a href="https://jobs.ashbyhq.com/Snowflake/9e0ae021-f264-4efb-bc80-26c04bd06df6" target="_blank" rel="noopener noreferrer">Senior/Staff System Research Engineer – LLM Inference Optimization</a><span class="job-meta">US-WA-Bellevue <span class="job-mode hybrid">Hybrid</span></span></li>
+        <li><a href="https://jobs.ashbyhq.com/Snowflake/4de1b10f-c34c-4d2c-99d1-abcf17541530" target="_blank" rel="noopener noreferrer">Solution Engineer</a><span class="job-meta">Dallas, TX <span class="job-mode remote">Remote</span></span></li>
+        <li><a href="https://jobs.ashbyhq.com/Snowflake/4d18f84f-bff2-40fa-8d44-aa123d9e93a4" target="_blank" rel="noopener noreferrer">Strategic Events Specialist</a><span class="job-meta">US-CA-Menlo Park <span class="job-mode hybrid">Hybrid</span></span></li>
+      </ul>
+    </section>
+    <section class="company" id="company-spotify">
+      <h2><a class="company-link" href="https://jobs.lever.co/spotify" target="_blank" rel="noopener noreferrer">Spotify</a> <span class="count">(2)</span></h2>
+      <ul>
+        <li><a href="https://jobs.lever.co/spotify/9e3bdb48-67eb-49d9-ae0b-a337ba69a05f" target="_blank" rel="noopener noreferrer">Research Scientist - Personalization</a><span class="job-meta">New York, NY <span class="job-mode remote">Remote</span></span></li>
+        <li><a href="https://jobs.lever.co/spotify/a4c49acb-a095-4452-ad9e-69e4b778c256" target="_blank" rel="noopener noreferrer">Senior Applied Research Scientist - Personalization</a><span class="job-meta">London <span class="job-mode remote">Remote</span></span></li>
+      </ul>
+    </section>
+    <section class="company" id="company-stackadapt">
+      <h2><a class="company-link" href="https://job-boards.greenhouse.io/stackadapt" target="_blank" rel="noopener noreferrer">StackAdapt</a> <span class="count">(1)</span></h2>
+      <ul>
+        <li><a href="https://job-boards.greenhouse.io/stackadapt/jobs/4412772009" target="_blank" rel="noopener noreferrer">People Operations Intern - Winter 2027</a><span class="job-meta">Canada <span class="job-canada">🇨🇦 Canada</span> <span class="job-mode on-site">On-site</span></span></li>
+      </ul>
+    </section>
+    <section class="company" id="company-Superhuman%20Platform%20Inc">
+      <h2><a class="company-link" href="https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc" target="_blank" rel="noopener noreferrer">Superhuman Platform Inc</a> <span class="count">(1)</span></h2>
+      <ul>
+        <li><a href="https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/e1161a31-bc9c-414f-a42a-7d41c615f2b4" target="_blank" rel="noopener noreferrer">Senior Technical Recruiter</a><span class="job-meta">Hub - Berlin <span class="job-mode hybrid">Hybrid</span></span></li>
+      </ul>
+    </section>
+    <section class="company" id="company-tailscale">
+      <h2><a class="company-link" href="https://job-boards.greenhouse.io/tailscale" target="_blank" rel="noopener noreferrer">Tailscale</a> <span class="count">(1)</span></h2>
+      <ul>
+        <li><a href="https://job-boards.greenhouse.io/tailscale/jobs/4734570005" target="_blank" rel="noopener noreferrer">Backend Engineer, Control Plane</a><span class="job-meta">Remote (United Kingdom) <span class="job-mode remote">Remote</span></span></li>
+      </ul>
+    </section>
+    <section class="company" id="company-trulioo">
+      <h2><a class="company-link" href="https://jobs.ashbyhq.com/trulioo" target="_blank" rel="noopener noreferrer">Trulioo</a> <span class="count">(1)</span></h2>
+      <ul>
+        <li><a href="https://jobs.ashbyhq.com/trulioo/9c4a24f8-dac7-4095-8daa-84852c325692" target="_blank" rel="noopener noreferrer">Senior Director, Global Privacy &amp; Data Protection</a><span class="job-meta">Dublin, Ireland <span class="job-mode remote">Remote</span></span></li>
+      </ul>
+    </section>
+    <section class="company" id="company-twilio">
+      <h2><a class="company-link" href="https://job-boards.greenhouse.io/twilio" target="_blank" rel="noopener noreferrer">Twilio</a> <span class="count">(1)</span></h2>
+      <ul>
+        <li><a href="https://job-boards.greenhouse.io/twilio/jobs/8213826" target="_blank" rel="noopener noreferrer">Senior Manager, Customer Success</a><span class="job-meta">Remote - Australia <span class="job-mode remote">Remote</span></span></li>
+      </ul>
+    </section>
+    <section class="company" id="company-zapier">
+      <h2><a class="company-link" href="https://jobs.ashbyhq.com/zapier" target="_blank" rel="noopener noreferrer">Zapier</a> <span class="count">(1)</span></h2>
+      <ul>
+        <li><a href="https://jobs.ashbyhq.com/zapier/cb1aec2c-05cd-4598-8117-bd1f7ed9a49f" target="_blank" rel="noopener noreferrer">Finance Manager, Marketing</a><span class="job-meta">NAMER <span class="job-mode remote">Remote</span></span></li>
+      </ul>
+    </section>
+  </main>
+
+  <a class="top" href="#top">↑ Top</a>
+</body>
+</html>

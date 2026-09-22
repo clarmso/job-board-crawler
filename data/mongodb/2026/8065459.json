@@ -43,7 +43,7 @@
       "id": 4137836,
       "name": "Working Model Eligibility",
       "value": [
-        "2-Flexible"
+        "3-Fully Remote"
       ],
       "value_type": "multi_select"
     },
@@ -74,11 +74,7 @@
     {
       "id": 5525802,
       "name": "Baseline Budgeted Salary",
-      "value": {
-        "unit": "USD",
-        "max_value": "225000.0",
-        "min_value": "157000.0"
-      },
+      "value": null,
       "value_type": "currency_range"
     },
     {
@@ -91,9 +87,9 @@
       "id": 13324394,
       "name": "Job Post Range (United States)",
       "value": {
-        "unit": "USD",
-        "max_value": "248000.0",
-        "min_value": "126000.0"
+        "unit": "MXN",
+        "max_value": "0.0",
+        "min_value": "0.0"
       },
       "value_type": "currency_range"
     },
@@ -101,7 +97,7 @@
       "id": 40497768,
       "name": "Job Post Range (Canada)",
       "value": {
-        "unit": "USD",
+        "unit": "MXN",
         "max_value": "0.0",
         "min_value": "0.0"
       },
@@ -121,7 +117,7 @@
     }
   ],
   "id": 8065459,
-  "updated_at": "2026-09-16T13:28:52-04:00",
+  "updated_at": "2026-09-21T12:20:19-04:00",
   "requisition_id": "2273494834",
   "title": "Sr. Technical Program Manager, FDE Engagements",
   "company_name": "MongoDB",
@@ -139,9 +135,9 @@
   ],
   "offices": [
     {
-      "id": 3960,
-      "name": "New York City",
-      "location": "New York, NY, United States",
+      "id": 95814,
+      "name": "Mexico",
+      "location": "Mexico, Mexico",
       "child_ids": [],
       "parent_id": 23657
     }

@@ -1,0 +1,73 @@
+{
+  "id": "744000130221863",
+  "name": "Advisory/ Resident Systems Engineer - (Mandarin required)",
+  "uuid": "c41ea14e-64af-4d68-aa4d-4e79d7185dba",
+  "jobAdId": "8e1f5748-5bc4-46fa-83b1-ef30adb67a0c",
+  "defaultJobAd": true,
+  "refNumber": "REF3374C",
+  "company": {
+    "identifier": "AristaNetworks",
+    "name": "Arista Networks"
+  },
+  "releasedDate": "2026-06-04T13:53:34.400Z",
+  "location": {
+    "city": "San Jose",
+    "region": "CA",
+    "country": "us",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "37.33874",
+    "longitude": "-121.8852525",
+    "fullLocation": "San Jose, CA, United States"
+  },
+  "industry": {
+    "id": "computer_networking",
+    "label": "Computer Networking"
+  },
+  "department": {
+    "id": "1392018",
+    "label": "Customer Engineering"
+  },
+  "function": {
+    "id": "sales",
+    "label": "Sales"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "us",
+      "valueLabel": "United States"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e1",
+      "fieldLabel": "Department",
+      "valueId": "1392018",
+      "valueLabel": "Customer Engineering"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e0",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Arista Networks"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000130221863",
+  "creator": {
+    "name": "Tommy Houran"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

@@ -4,18 +4,29 @@
   "department": "Product",
   "team": "Product",
   "employmentType": "FullTime",
-  "location": "San Diego, CA",
+  "location": "Vancouver, BC",
   "shouldDisplayCompensationOnJobPostings": true,
-  "secondaryLocations": [],
+  "secondaryLocations": [
+    {
+      "location": "Toronto, ON",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "Ontario",
+          "addressCountry": "Canada",
+          "addressLocality": "Toronto"
+        }
+      }
+    }
+  ],
   "publishedAt": "2026-06-08T20:45:13.348+00:00",
   "isListed": true,
   "isRemote": true,
   "workplaceType": "Hybrid",
   "address": {
     "postalAddress": {
-      "addressRegion": "California",
-      "addressCountry": "United States",
-      "addressLocality": "San Diego"
+      "addressRegion": "British Columbia",
+      "addressCountry": "Canada",
+      "addressLocality": "Vancouver"
     }
   },
   "jobUrl": "https://jobs.ashbyhq.com/trulioo/29ac1954-3d7e-406a-8d1b-54288ba065e7",
@@ -29,7 +40,7 @@
       {
         "id": "c41460a3-10e5-4208-99e3-113ffbf77ba6",
         "tierSummary": "CA$100K – CA$130K",
-        "title": null,
+        "title": "Canada",
         "additionalInformation": null,
         "components": [
           {

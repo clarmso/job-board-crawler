@@ -1,0 +1,73 @@
+{
+  "id": "743999996527085",
+  "name": "Network Engineer in Test",
+  "uuid": "54e5252e-f526-4018-8f13-b445f6daa5e5",
+  "jobAdId": "209170f1-7ce1-4046-9736-57d6762660b3",
+  "defaultJobAd": true,
+  "refNumber": "REF67H",
+  "company": {
+    "identifier": "AristaNetworks",
+    "name": "Arista Networks"
+  },
+  "releasedDate": "2024-06-25T22:37:41.854Z",
+  "location": {
+    "city": "Nashua",
+    "region": "NH",
+    "country": "us",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "42.7653662",
+    "longitude": "-71.46756599999999",
+    "fullLocation": "Nashua, NH, United States"
+  },
+  "industry": {
+    "id": "computer_networking",
+    "label": "Computer Networking"
+  },
+  "department": {
+    "id": "1650418",
+    "label": "Engineering & Operations"
+  },
+  "function": {
+    "id": "engineering",
+    "label": "Engineering"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "us",
+      "valueLabel": "United States"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e1",
+      "fieldLabel": "Department",
+      "valueId": "1650418",
+      "valueLabel": "Engineering & Operations"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e0",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Arista Networks"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/743999996527085",
+  "creator": {
+    "name": "Sadiya Hussain"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

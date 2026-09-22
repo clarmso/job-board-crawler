@@ -1,0 +1,79 @@
+{
+  "id": "744000141256699",
+  "name": "Major Account Manager",
+  "uuid": "142b174d-690f-448a-bab3-8be5ca8f97bd",
+  "jobAdId": "3f57c141-c5a1-4b09-beec-4c3e0c8cbaac",
+  "defaultJobAd": true,
+  "refNumber": "REF3493W",
+  "company": {
+    "identifier": "AristaNetworks",
+    "name": "Arista Networks"
+  },
+  "releasedDate": "2026-08-03T12:50:12.390Z",
+  "location": {
+    "city": "Atlanta",
+    "region": "GA",
+    "country": "us",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "33.7501275",
+    "longitude": "-84.3885209",
+    "fullLocation": "Atlanta, GA, United States"
+  },
+  "industry": {
+    "id": "computer_software",
+    "label": "Computer Software"
+  },
+  "department": {
+    "id": "1392052",
+    "label": "Sales"
+  },
+  "function": {
+    "id": "sales",
+    "label": "Sales"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "us",
+      "valueLabel": "United States"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e1",
+      "fieldLabel": "Department",
+      "valueId": "1392052",
+      "valueLabel": "Sales"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e0",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Arista Networks"
+    },
+    {
+      "fieldId": "62a7845974fe2c08874d5452",
+      "fieldLabel": "Role",
+      "valueId": "4e150511-63af-4e42-850a-47ad805607cc",
+      "valueLabel": "Senior"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000141256699",
+  "creator": {
+    "name": "Todd Cich"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

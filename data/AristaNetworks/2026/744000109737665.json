@@ -1,0 +1,73 @@
+{
+  "id": "744000109737665",
+  "name": "NPI Materials Manager",
+  "uuid": "bfe2b85e-f20e-48dc-91f9-d63b0521aa58",
+  "jobAdId": "5b93b454-21c1-4b01-aea2-0119390e98ca",
+  "defaultJobAd": true,
+  "refNumber": "REF3285O",
+  "company": {
+    "identifier": "AristaNetworks",
+    "name": "Arista Networks"
+  },
+  "releasedDate": "2026-02-17T14:58:33.343Z",
+  "location": {
+    "city": "Guadalajara",
+    "region": "Jal.",
+    "country": "mx",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "20.6751707",
+    "longitude": "-103.3473385",
+    "fullLocation": "Guadalajara, Jal., Mexico"
+  },
+  "industry": {
+    "id": "computer_networking",
+    "label": "Computer Networking"
+  },
+  "department": {
+    "id": "1455207",
+    "label": "Manufacturing"
+  },
+  "function": {
+    "id": "manufacturing",
+    "label": "Manufacturing"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "mx",
+      "valueLabel": "Mexico"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e1",
+      "fieldLabel": "Department",
+      "valueId": "1455207",
+      "valueLabel": "Manufacturing"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e0",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Arista Networks"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000109737665",
+  "creator": {
+    "name": "James Hill"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

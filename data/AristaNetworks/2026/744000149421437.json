@@ -1,0 +1,73 @@
+{
+  "id": "744000149421437",
+  "name": "Network Systems Engineer (Pre Sales) - Trading Platforms",
+  "uuid": "e6040811-92d9-4881-84fe-53bdef9f1039",
+  "jobAdId": "52980824-0e6e-4cf5-8142-30ed9aa4af81",
+  "defaultJobAd": true,
+  "refNumber": "REF2495Z",
+  "company": {
+    "identifier": "AristaNetworks",
+    "name": "Arista Networks"
+  },
+  "releasedDate": "2026-09-14T19:51:30.758Z",
+  "location": {
+    "city": "Chicago",
+    "region": "IL",
+    "country": "us",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "41.8781136",
+    "longitude": "-87.6297982",
+    "fullLocation": "Chicago, IL, United States"
+  },
+  "industry": {
+    "id": "computer_software",
+    "label": "Computer Software"
+  },
+  "department": {
+    "id": "1392018",
+    "label": "Customer Engineering"
+  },
+  "function": {
+    "id": "sales",
+    "label": "Sales"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "us",
+      "valueLabel": "United States"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e1",
+      "fieldLabel": "Department",
+      "valueId": "1392018",
+      "valueLabel": "Customer Engineering"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e0",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Arista Networks"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000149421437",
+  "creator": {
+    "name": "Tommy Houran"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

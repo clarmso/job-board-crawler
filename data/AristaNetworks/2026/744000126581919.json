@@ -1,0 +1,73 @@
+{
+  "id": "744000126581919",
+  "name": "Hardware Design Engineer, High Speed Networking",
+  "uuid": "9d4befbe-daef-46c8-8176-f6c256d392f4",
+  "jobAdId": "c6133520-5c34-45f6-9534-1ca95c738405",
+  "defaultJobAd": true,
+  "refNumber": "REF2972W",
+  "company": {
+    "identifier": "AristaNetworks",
+    "name": "Arista Networks"
+  },
+  "releasedDate": "2026-05-14T20:39:38.606Z",
+  "location": {
+    "city": "Nashua",
+    "region": "NH",
+    "country": "us",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "42.7581256",
+    "longitude": "-71.46517469999999",
+    "fullLocation": "Nashua, NH, United States"
+  },
+  "industry": {
+    "id": "computer_networking",
+    "label": "Computer Networking"
+  },
+  "department": {
+    "id": "1650435",
+    "label": "Hardware Engineering"
+  },
+  "function": {
+    "id": "engineering",
+    "label": "Engineering"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "entry_level",
+    "label": "Entry Level"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "us",
+      "valueLabel": "United States"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e1",
+      "fieldLabel": "Department",
+      "valueId": "1650435",
+      "valueLabel": "Hardware Engineering"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e0",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Arista Networks"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000126581919",
+  "creator": {
+    "name": "Federica Inciarte"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

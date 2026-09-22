@@ -1,0 +1,79 @@
+{
+  "id": "744000135296959",
+  "name": "Manufacturing Planner",
+  "uuid": "438f87f9-bdc4-404a-8630-0f126c16a292",
+  "jobAdId": "297291b7-15df-4da7-87c0-1d97ff0c496f",
+  "defaultJobAd": true,
+  "refNumber": "REF3544B",
+  "company": {
+    "identifier": "AristaNetworks",
+    "name": "Arista Networks"
+  },
+  "releasedDate": "2026-07-01T15:12:42.303Z",
+  "location": {
+    "city": "Mexico City",
+    "region": "CDMX",
+    "country": "mx",
+    "remote": true,
+    "hybrid": false,
+    "latitude": "19.4326077",
+    "longitude": "-99.133208",
+    "fullLocation": "Mexico City, CDMX, Mexico"
+  },
+  "industry": {
+    "id": "computer_networking",
+    "label": "Computer Networking"
+  },
+  "department": {
+    "id": "1455207",
+    "label": "Manufacturing"
+  },
+  "function": {
+    "id": "marketing",
+    "label": "Marketing"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "mx",
+      "valueLabel": "Mexico"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e1",
+      "fieldLabel": "Department",
+      "valueId": "1455207",
+      "valueLabel": "Manufacturing"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e0",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Arista Networks"
+    },
+    {
+      "fieldId": "62a7845974fe2c08874d5452",
+      "fieldLabel": "Role",
+      "valueId": "4e150511-63af-4e42-850a-47ad805607cc",
+      "valueLabel": "Senior"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000135296959",
+  "creator": {
+    "name": "Emer OKelly"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

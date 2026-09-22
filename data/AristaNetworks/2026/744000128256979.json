@@ -1,0 +1,74 @@
+{
+  "id": "744000128256979",
+  "name": "Internal Audit Intern – Accounting & Finance",
+  "uuid": "b791529c-a59d-4f27-9896-da986ba12545",
+  "jobAdId": "002cd508-3a6f-4932-b58c-0a11c9e64f07",
+  "defaultJobAd": true,
+  "refNumber": "REF3346B",
+  "company": {
+    "identifier": "AristaNetworks",
+    "name": "Arista Networks"
+  },
+  "releasedDate": "2026-05-25T19:48:52.549Z",
+  "location": {
+    "city": "Remote",
+    "region": "OR",
+    "country": "us",
+    "postalCode": "97458",
+    "remote": true,
+    "hybrid": false,
+    "latitude": "43.0059455",
+    "longitude": "-123.8925908",
+    "fullLocation": "Remote, OR, United States"
+  },
+  "industry": {
+    "id": "computer_networking",
+    "label": "Computer Networking"
+  },
+  "department": {
+    "id": "1650367",
+    "label": "Finance"
+  },
+  "function": {
+    "id": "finance",
+    "label": "Finance"
+  },
+  "typeOfEmployment": {
+    "id": "intern",
+    "label": "Intern"
+  },
+  "experienceLevel": {
+    "id": "internship",
+    "label": "Internship"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "us",
+      "valueLabel": "United States"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e1",
+      "fieldLabel": "Department",
+      "valueId": "1650367",
+      "valueLabel": "Finance"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e0",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Arista Networks"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000128256979",
+  "creator": {
+    "name": "Afifa Abbasi"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

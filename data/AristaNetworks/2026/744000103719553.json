@@ -1,0 +1,73 @@
+{
+  "id": "744000103719553",
+  "name": "Technical Solutions Engineer",
+  "uuid": "dfbb995c-388d-4335-a24c-cb261d3f7754",
+  "jobAdId": "f0465de8-da86-45b3-b9ec-3d5393904b4d",
+  "defaultJobAd": true,
+  "refNumber": "REF1882J",
+  "company": {
+    "identifier": "AristaNetworks",
+    "name": "Arista Networks"
+  },
+  "releasedDate": "2026-01-15T13:49:46.572Z",
+  "location": {
+    "city": "Kraków",
+    "region": "Lesser Poland Voivodeship",
+    "country": "pl",
+    "remote": true,
+    "hybrid": false,
+    "latitude": "50.06465009999999",
+    "longitude": "19.9449799",
+    "fullLocation": "Kraków, Lesser Poland Voivodeship, Poland"
+  },
+  "industry": {
+    "id": "computer_networking",
+    "label": "Computer Networking"
+  },
+  "department": {
+    "id": "1504864",
+    "label": "Customer Support"
+  },
+  "function": {
+    "id": "engineering",
+    "label": "Engineering"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "pl",
+      "valueLabel": "Poland"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e1",
+      "fieldLabel": "Department",
+      "valueId": "1504864",
+      "valueLabel": "Customer Support"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e0",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Arista Networks"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000103719553",
+  "creator": {
+    "name": "Sadiya Hussain"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

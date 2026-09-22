@@ -1,0 +1,73 @@
+{
+  "id": "744000120988017",
+  "name": "Major Account Manager",
+  "uuid": "2d1ce52b-a445-4fb4-bd87-c44f05d75cd5",
+  "jobAdId": "f3cd3bf1-ba25-483f-9d05-24a9c3102a6e",
+  "defaultJobAd": true,
+  "refNumber": "REF2633V",
+  "company": {
+    "identifier": "AristaNetworks",
+    "name": "Arista Networks"
+  },
+  "releasedDate": "2026-04-15T14:36:57.215Z",
+  "location": {
+    "city": "Amsterdam",
+    "region": "NH",
+    "country": "nl",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "52.3675734",
+    "longitude": "4.9041389",
+    "fullLocation": "Amsterdam, NH, Netherlands"
+  },
+  "industry": {
+    "id": "computer_networking",
+    "label": "Computer Networking"
+  },
+  "department": {
+    "id": "1392052",
+    "label": "Sales"
+  },
+  "function": {
+    "id": "sales",
+    "label": "Sales"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "nl",
+      "valueLabel": "Netherlands"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e1",
+      "fieldLabel": "Department",
+      "valueId": "1392052",
+      "valueLabel": "Sales"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e0",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Arista Networks"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000120988017",
+  "creator": {
+    "name": "Edward Sheppard"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

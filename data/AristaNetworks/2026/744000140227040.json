@@ -1,0 +1,80 @@
+{
+  "id": "744000140227040",
+  "name": "Major Account Manager",
+  "uuid": "10b8eaca-f3dd-4e06-9c1c-c924ccf6e2f9",
+  "jobAdId": "f8fc1ca7-7149-41ba-904c-0f8688ac4b07",
+  "defaultJobAd": true,
+  "refNumber": "REF2981U",
+  "company": {
+    "identifier": "AristaNetworks",
+    "name": "Arista Networks"
+  },
+  "releasedDate": "2026-07-28T12:39:41.001Z",
+  "location": {
+    "city": "Düsseldorf",
+    "region": "NRW",
+    "country": "de",
+    "postalCode": "40",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "51.2230411",
+    "longitude": "6.7824545",
+    "fullLocation": "Düsseldorf, NRW, Germany"
+  },
+  "industry": {
+    "id": "computer_networking",
+    "label": "Computer Networking"
+  },
+  "department": {
+    "id": "1392052",
+    "label": "Sales"
+  },
+  "function": {
+    "id": "sales",
+    "label": "Sales"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "de",
+      "valueLabel": "Germany"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e1",
+      "fieldLabel": "Department",
+      "valueId": "1392052",
+      "valueLabel": "Sales"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e0",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Arista Networks"
+    },
+    {
+      "fieldId": "62a7845974fe2c08874d5452",
+      "fieldLabel": "Role",
+      "valueId": "4e150511-63af-4e42-850a-47ad805607cc",
+      "valueLabel": "Senior"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000140227040",
+  "creator": {
+    "name": "Edward Sheppard"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

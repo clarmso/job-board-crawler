@@ -1,0 +1,79 @@
+{
+  "id": "744000147858999",
+  "name": "Marketing Specialist, APAC",
+  "uuid": "13d490ac-5f65-4cbe-aa99-da754ffc43bb",
+  "jobAdId": "cbfd18dc-ecee-4821-bb43-8649331d3c02",
+  "defaultJobAd": true,
+  "refNumber": "REF3692V",
+  "company": {
+    "identifier": "AristaNetworks",
+    "name": "Arista Networks"
+  },
+  "releasedDate": "2026-09-07T07:47:32.572Z",
+  "location": {
+    "city": "Pune",
+    "region": "MH",
+    "country": "in",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "18.5246091",
+    "longitude": "73.8786239",
+    "fullLocation": "Pune, MH, India"
+  },
+  "industry": {
+    "id": "computer_networking",
+    "label": "Computer Networking"
+  },
+  "department": {
+    "id": "1993189",
+    "label": "Marketing"
+  },
+  "function": {
+    "id": "marketing",
+    "label": "Marketing"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "in",
+      "valueLabel": "India"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e1",
+      "fieldLabel": "Department",
+      "valueId": "1993189",
+      "valueLabel": "Marketing"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e0",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Arista Networks"
+    },
+    {
+      "fieldId": "62a7845974fe2c08874d5452",
+      "fieldLabel": "Role",
+      "valueId": "4e150511-63af-4e42-850a-47ad805607cc",
+      "valueLabel": "Senior"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000147858999",
+  "creator": {
+    "name": "Isha Anand"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

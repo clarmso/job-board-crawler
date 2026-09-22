@@ -1,0 +1,79 @@
+{
+  "id": "744000143926059",
+  "name": "Major Account Manager",
+  "uuid": "bf7e3b05-74cc-44a3-a4f0-94be0778b042",
+  "jobAdId": "7ace91f3-bb3d-4720-b679-aa67d26b95b7",
+  "defaultJobAd": true,
+  "refNumber": "REF3630E",
+  "company": {
+    "identifier": "AristaNetworks",
+    "name": "Arista Networks"
+  },
+  "releasedDate": "2026-08-17T20:38:16.089Z",
+  "location": {
+    "city": "Wellington",
+    "region": "Wellington Region",
+    "country": "nz",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "-41.2923814",
+    "longitude": "174.7787463",
+    "fullLocation": "Wellington, Wellington Region, New Zealand"
+  },
+  "industry": {
+    "id": "computer_software",
+    "label": "Computer Software"
+  },
+  "department": {
+    "id": "1392052",
+    "label": "Sales"
+  },
+  "function": {
+    "id": "sales",
+    "label": "Sales"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "nz",
+      "valueLabel": "New Zealand"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e1",
+      "fieldLabel": "Department",
+      "valueId": "1392052",
+      "valueLabel": "Sales"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e0",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Arista Networks"
+    },
+    {
+      "fieldId": "62a7845974fe2c08874d5452",
+      "fieldLabel": "Role",
+      "valueId": "4e150511-63af-4e42-850a-47ad805607cc",
+      "valueLabel": "Senior"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000143926059",
+  "creator": {
+    "name": "Todd Cich"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}
