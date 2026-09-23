@@ -66,6 +66,15 @@
         "additionalInformation": "Commission portion of OTE: 40%",
         "components": [
           {
+            "id": "8d053729-67f3-4dd3-ace0-43c656f8432b",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
+          },
+          {
             "id": "b94bfe49-5f91-47f0-a62c-e971660d3faa",
             "summary": "Offers Bonus",
             "compensationType": "Bonus",
@@ -82,15 +91,6 @@
             "currencyCode": "USD",
             "minValue": 386000,
             "maxValue": 482000
-          },
-          {
-            "id": "8d053729-67f3-4dd3-ace0-43c656f8432b",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
           }
         ]
       }

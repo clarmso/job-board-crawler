@@ -33,6 +33,15 @@
         "additionalInformation": null,
         "components": [
           {
+            "id": "f77d244f-db4b-4cf6-8e1c-5637e001caa4",
+            "summary": "Offers Commission",
+            "compensationType": "Commission",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": null,
+            "maxValue": null
+          },
+          {
             "id": "752db50f-dd4d-488a-9e18-e4c05a748a25",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
@@ -49,15 +58,6 @@
             "currencyCode": "USD",
             "minValue": 140000,
             "maxValue": 170000
-          },
-          {
-            "id": "f77d244f-db4b-4cf6-8e1c-5637e001caa4",
-            "summary": "Offers Commission",
-            "compensationType": "Commission",
-            "interval": "1 YEAR",
-            "currencyCode": "USD",
-            "minValue": null,
-            "maxValue": null
           }
         ]
       },
@@ -77,15 +77,6 @@
             "maxValue": 170000
           },
           {
-            "id": "4465888b-9fb6-4d73-a2bc-b01562df8fb9",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "67fb7a99-b172-43e8-958a-c93f97015cec",
             "summary": "Offers Commission",
             "compensationType": "Commission",
@@ -93,11 +84,26 @@
             "currencyCode": "CAD",
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "4465888b-9fb6-4d73-a2bc-b01562df8fb9",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           }
         ]
       }
     ],
     "summaryComponents": [
+      {
+        "compensationType": "Commission",
+        "minValue": null,
+        "maxValue": null,
+        "interval": "1 YEAR"
+      },
       {
         "compensationType": "EquityPercentage",
         "minValue": null,
@@ -110,12 +116,6 @@
         "currencyCode": "USD",
         "minValue": 140000,
         "maxValue": 170000
-      },
-      {
-        "compensationType": "Commission",
-        "minValue": null,
-        "maxValue": null,
-        "interval": "1 YEAR"
       }
     ]
   }

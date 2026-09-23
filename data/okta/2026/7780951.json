@@ -1,0 +1,96 @@
+{
+  "absolute_url": "https://www.okta.com/company/careers/opportunity/7780951?gh_jid=7780951",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 3405695,
+  "location": {
+    "name": "Bengaluru, India"
+  },
+  "metadata": [
+    {
+      "id": 58735330,
+      "name": "Naukri Job URL",
+      "value": null,
+      "value_type": "long_text"
+    },
+    {
+      "id": 58735350,
+      "name": "Naukri Job Error",
+      "value": null,
+      "value_type": "long_text"
+    },
+    {
+      "id": 58735367,
+      "name": "Minimum Salary",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735368,
+      "name": "Maximum Salary",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735369,
+      "name": "Minimum Work Experience",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735370,
+      "name": "Maximum Work Experience",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735384,
+      "name": "City",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 58735385,
+      "name": "Job Description",
+      "value": null,
+      "value_type": "long_text"
+    }
+  ],
+  "id": 7780951,
+  "updated_at": "2026-09-22T11:35:36-04:00",
+  "requisition_id": "P24602_3405695",
+  "title": "Senior Software Engineer",
+  "company_name": "Okta",
+  "first_published": "2026-09-22T11:35:36-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Secure Every Identity, from AI to Human&lt;br&gt;&lt;br&gt;&lt;/strong&gt;Identity is the key to unlocking the potential of AI. Okta secures AI by building the trusted, neutral infrastructure that enables organizations to safely embrace this new era. This work requires a relentless drive to solve complex challenges with real-world stakes. We are looking for builders and owners who operate with speed and urgency and execute with excellence.&lt;br&gt;&lt;br&gt;This is an opportunity to do career-defining work. We&#39;re all in on this mission. If you are too, let&#39;s talk.&lt;/p&gt;&lt;/div&gt;&lt;h2 id=&quot;Job-Overview:&quot; data-local-id=&quot;63641bd6ae21&quot; data-renderer-start-pos=&quot;308&quot;&gt;Job Overview:&lt;/h2&gt;\n&lt;p data-renderer-start-pos=&quot;323&quot; data-local-id=&quot;40209066f7a4&quot;&gt;We are looking for a Senior Engineer to join the &lt;span data-highlighted=&quot;true&quot; data-vc=&quot;highlighted-text&quot;&gt;&lt;span class=&quot;_1mT5xdRAKS&quot;&gt;&lt;span class=&quot;_0nmozVaHVx _2V7sgO2M4S _3BoeIDwZ7G _30zrXRyxdf _0ReiIH7zJH&quot; data-testid=&quot;definition-highlighter&quot;&gt;FGA&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; DevEx team and help evolve our end to end developer experience across both &lt;span data-highlighted=&quot;true&quot; data-vc=&quot;highlighted-text&quot;&gt;&lt;span class=&quot;_1mT5xdRAKS&quot;&gt;&lt;span class=&quot;_0nmozVaHVx _2V7sgO2M4S _3BoeIDwZ7G _30zrXRyxdf _0ReiIH7zJH&quot; data-testid=&quot;definition-highlighter&quot;&gt;OSS&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; and SaaS.&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;466&quot; data-local-id=&quot;ce579cb2d31b&quot;&gt;This team owns the SDKs in Go, JavaScript, .NET, Python, Java and other languages, along with CLI workflows, IDE integrations, GitHub automation, developer documentation, and release strategy. All development is done in the open as open source, and we actively welcome and review community contributions.&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;772&quot; data-local-id=&quot;0f4943f51573&quot;&gt;Our guiding principle is One developer experience, many deployment models.&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;848&quot; data-local-id=&quot;44c933ce822f&quot;&gt;As a Senior Engineer, you will take ownership of significant portions of the SDK and tooling ecosystem, ensure high quality implementations across languages, and contribute to a consistent and reliable developer experience.&lt;/p&gt;\n&lt;div class=&quot;ak-renderer-sticky-safe-breakout-wrapper ak-renderer-flex-center-wrapper css-l5clsc&quot;&gt;\n&lt;div class=&quot;ak-renderer-sticky-safe-breakout-inner fabric-editor-breakout-mark fabric-editor-block-mark css-ozd7xs&quot; data-mode=&quot;wide&quot; data-has-width=&quot;true&quot; data-width=&quot;760&quot;&gt;&lt;hr&gt;&lt;/div&gt;\n&lt;/div&gt;\n&lt;h2 id=&quot;Responsibilities:&quot; data-local-id=&quot;667d44c62b37&quot; data-renderer-start-pos=&quot;1074&quot;&gt;Responsibilities:&lt;/h2&gt;\n&lt;ul class=&quot;ak-ul&quot; data-local-id=&quot;66faa675-89c8-4c61-a024-827af6c00415&quot; data-indent-level=&quot;1&quot;&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;1095&quot; data-local-id=&quot;9318acd372a4&quot;&gt;Maintain and enhance existing SDKs for &lt;span data-highlighted=&quot;true&quot; data-vc=&quot;highlighted-text&quot;&gt;FGA&lt;/span&gt; in Go, JavaScript, .NET, Python, and Java, leveraging our SDK generator framework.&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;1224&quot; data-local-id=&quot;016913834089&quot;&gt;Customize and refine SDK templates and wrappers to ensure consistency across languages and support configuration overrides such as store ID, authorization model ID, headers, and parallelization limits.&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;1429&quot; data-local-id=&quot;9a4056cf61b4&quot;&gt;Implement and improve core SDK features including client credentials authentication flows, robust error mapping, retry logic with jitter, and rate limiting safeguards.&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;1600&quot; data-local-id=&quot;49a1b60264e1&quot;&gt;Implement advanced capabilities such as BatchCheck, ListRelations, and non transactional write operations with appropriate parallelization and performance considerations.&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;1774&quot; data-local-id=&quot;ea24060a3165&quot;&gt;Contribute to the SDK generator tooling, templates, and supporting build workflows using Docker and related tooling.&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;1894&quot; data-local-id=&quot;49c6ede330b1&quot;&gt;Develop comprehensive tests for all exposed methods, including proper mocking of external requests.&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;1997&quot; data-local-id=&quot;fc3e1e9b786d&quot;&gt;Write and maintain clear developer focused documentation, guides, and examples.&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;2080&quot; data-local-id=&quot;0144b2743c31&quot;&gt;Optimize and maintain CI workflows using GitHub Actions for building, testing, and releasing SDK clients.&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;2189&quot; data-local-id=&quot;07cb33cbc656&quot;&gt;Minimize external dependencies within SDKs, introducing new dependencies only when clearly justified.&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;2294&quot; data-local-id=&quot;c2d707227865&quot;&gt;Collaborate closely with &lt;span data-highlighted=&quot;true&quot; data-vc=&quot;highlighted-text&quot;&gt;FGA&lt;/span&gt; Core and other internal teams to ensure API changes are reflected cleanly and consistently across SDKs.&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;2430&quot; data-local-id=&quot;9dc486170ab9&quot;&gt;Participate actively in open source development, review community pull requests, and help contributors reach a mergeable state.&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;2561&quot; data-local-id=&quot;5faa9fb2acbd&quot;&gt;Participate in code reviews and post delivery validation to ensure high quality, secure SDK releases.&lt;/p&gt;\n&lt;/li&gt;\n&lt;/ul&gt;\n&lt;div class=&quot;ak-renderer-sticky-safe-breakout-wrapper ak-renderer-flex-center-wrapper css-l5clsc&quot;&gt;\n&lt;div class=&quot;ak-renderer-sticky-safe-breakout-inner fabric-editor-breakout-mark fabric-editor-block-mark css-ozd7xs&quot; data-mode=&quot;wide&quot; data-has-width=&quot;true&quot; data-width=&quot;760&quot;&gt;&lt;hr&gt;&lt;/div&gt;\n&lt;/div&gt;\n&lt;h2 id=&quot;Requirements:&quot; data-local-id=&quot;3383bfd7cbde&quot; data-renderer-start-pos=&quot;2667&quot;&gt;Requirements:&lt;/h2&gt;\n&lt;ul class=&quot;ak-ul&quot; data-local-id=&quot;b1adf434-6fda-4255-a14d-27dbdfededc3&quot; data-indent-level=&quot;1&quot;&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;2684&quot; data-local-id=&quot;6cad3e00a642&quot;&gt;5+ years of experience as a Software Engineer, ideally with experience building SDKs, libraries, or developer tooling.&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;2806&quot; data-local-id=&quot;0b1857c07cd9&quot;&gt;Proficiency in at least one, and ideally multiple, of the following: Go, JavaScript or TypeScript, C# .NET, Python, or Java.&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;2934&quot; data-local-id=&quot;d0b8e2ae5f98&quot;&gt;Solid understanding of SDK development principles, API ergonomics, and cross language design considerations.&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;3046&quot; data-local-id=&quot;a5d887517702&quot;&gt;Experience working with code generation tools such as OpenAPI Generator and templating systems.&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;3145&quot; data-local-id=&quot;62646e1d4a86&quot;&gt;Experience implementing authentication flows, retry logic, error handling, and managing client side parallelization.&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;3265&quot; data-local-id=&quot;f47e77396701&quot;&gt;Experience setting up and maintaining GitHub Actions and release workflows.&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;3344&quot; data-local-id=&quot;1ffa8bc81921&quot;&gt;Strong testing practices including mocking external services and validating client behavior.&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;3440&quot; data-local-id=&quot;a1348e6878cb&quot;&gt;Good understanding of version control systems and familiarity with &lt;span data-highlighted=&quot;true&quot; data-vc=&quot;highlighted-text&quot;&gt;&lt;span class=&quot;_1mT5xdRAKS&quot;&gt;&lt;span class=&quot;_0nmozVaHVx _2V7sgO2M4S _3BoeIDwZ7G _30zrXRyxdf _0ReiIH7zJH&quot; data-testid=&quot;definition-highlighter&quot;&gt;PR&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; based development workflows.&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;3542&quot; data-local-id=&quot;e7cc6c83437b&quot;&gt;Experience working in open source projects is a plus.&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;3599&quot; data-local-id=&quot;7395dfb136a6&quot;&gt;Strong problem solving skills and the ability to work independently while collaborating in a distributed, open development environment.&lt;/p&gt;\n&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;#LI_Hybrid&lt;br&gt;&lt;br&gt;&lt;/p&gt;\n&lt;p&gt;#P24602_3405695&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;The Okta Experience&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;a href=&quot;http://rewards.okta.com&quot;&gt;Supporting Your Well-Being&lt;/a&gt;&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;&lt;a href=&quot;https://www.okta.com/company/okta-for-good/&quot;&gt;Driving Social Impact&amp;nbsp;&lt;/a&gt;&lt;/li&gt;\n&lt;li&gt;&lt;a href=&quot;https://www.okta.com/company/talent-connection-community/&quot;&gt;Developing Talent and Fostering Connection + Community&lt;/a&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;We are intentional about connection. Our global community, spanning over 20 offices worldwide, is united by a drive to innovate. Your journey begins with an immersive, in-person onboarding experience designed to accelerate your impact and connect you to our mission and team from day one.&lt;br&gt;&lt;br&gt;Okta is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, marital status, age, physical or mental disability, or status as a protected veteran. We also consider for employment qualified applicants with arrest and convictions records, consistent with applicable laws.&lt;br&gt;&lt;br&gt;If reasonable accommodation is needed to complete any part of the job application, interview process, or onboarding please&amp;nbsp;&lt;a href=&quot;https://docs.google.com/forms/d/1EfiEYZrIyhA2X4Fijk0R3RKYOzNoS3wtvyM4nhbZnXE/edit&quot;&gt;use this Form&lt;/a&gt; to request an accommodation.&lt;br&gt;&lt;br&gt;Notice for New York City Applicants &amp;amp; Employees: Okta may use Automated Employment Decision Tools (AEDT), as defined by New York City Local Law 144, that use artificial intelligence, machine learning, or other automated processes to assist in our recruitment and hiring process. In accordance with NYC Local Law 144, if you are an applicant or employee residing in New York City, please&amp;nbsp;&lt;a href=&quot;https://talent.okta.com/new-york-city-aedt-notice.html&quot;&gt;click here&lt;/a&gt; to view our full NYC AEDT Notice.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 79376,
+      "name": "Emerging Tech-694",
+      "child_ids": [],
+      "parent_id": 396304
+    }
+  ],
+  "offices": [
+    {
+      "id": 89126,
+      "name": "Bengaluru ",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 89122
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

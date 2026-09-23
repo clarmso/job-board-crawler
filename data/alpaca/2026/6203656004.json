@@ -1,0 +1,66 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/alpaca/jobs/6203656004",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 5221203004,
+  "location": {
+    "name": "Remote - Americas or EU"
+  },
+  "metadata": null,
+  "id": 6203656004,
+  "updated_at": "2026-09-22T00:21:58-04:00",
+  "requisition_id": "N260201",
+  "title": "Staff Software Engineer - Margin & Risk",
+  "company_name": "Alpaca ",
+  "first_published": "2026-09-22T00:21:58-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Who We Are:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Alpaca is a US-headquartered, global leader in agent-first brokerage infrastructure&amp;nbsp;&lt;/strong&gt;for stocks, ETFs, options, crypto, fixed income, 24/5 trading, and more.&lt;br&gt;&lt;br&gt;Amongst our subsidiaries, Alpaca is a licensed financial services company, serving hundreds of financial institutions across 40 countries with our institutional-grade APIs. This includes broker-dealers, investment advisors, wealth managers, hedge funds, and crypto exchanges, totalling over 10 million brokerage accounts.&lt;br&gt;&lt;br&gt;Our global team is a diverse group of experienced engineers, traders, and brokerage professionals who are working to achieve our mission of opening financial services to everyone on the planet. We&#39;re deeply committed to open-source contributions and fostering a vibrant community, continuously enhancing our award-winning, developer-friendly API and the robust infrastructure behind it.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Alpaca is proudly backed by $400 million in funding from top-tier global investors including Portage Ventures, Spark Capital, Tribe Capital, Social Leverage, Horizons Ventures, Opera Tech Ventures, SBI Group, Derayah Financial, Unbound, Peak XV, Elefund, and Y Combinator.&lt;/strong&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;Our Team Members:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We&#39;re a dynamic team of 400+ globally distributed members who thrive working from our favorite places around the world, with teammates spanning the USA, Canada, Japan, Hungary, Nigeria, Brazil, the UK, and beyond!&lt;br&gt;&lt;br&gt;We&#39;re searching for passionate individuals eager to contribute to Alpaca&#39;s rapid growth. If you align with our core values—Stay Curious, Have Empathy, and Be Accountable—and are ready to make a significant impact, we encourage you to apply.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;About the Role&lt;/h2&gt;\n&lt;p&gt;We are seeking a Staff Software Engineer to lead the technical direction of our Margin &amp;amp; Risk team, part of Prime Engine. The team builds the systems that protect Alpaca, our partners, and their customers from financial exposure across every asset class the platform supports — equities, options, and crypto today, and new asset classes as the platform expands.&lt;/p&gt;\n&lt;p&gt;These systems calculate margin requirements, enforce real-time risk and exposure limits, manage margin calls through their full lifecycle, and automate operational workflows that were historically manual or split across fragmented services. This role is expected to work across those asset classes, not own a single product line: portfolio and intraday margin, options risk, crypto risk controls, and the margin models for new products as they come online. Exposure is often cross-asset, so the architecture has to treat a customer&#39;s risk as one picture.&lt;/p&gt;\n&lt;p&gt;This is a high-consequence domain. A defect can cause financial loss, incorrectly restrict a customer&#39;s trading, or create regulatory exposure. Latency matters, and correctness matters more. We are looking for an engineer who has owned systems like this before — including what happens when they fail — and who has built that kind of system, not only operated one someone else designed.&lt;/p&gt;\n&lt;p&gt;You will not manage people directly. You will lead through architecture, code, design reviews, and mentorship, and you will remain a principal contributor on mission-critical systems. The team is about six engineers today and is scaling toward ten. You will be the senior technical anchor for the domain, working with the engineering manager and the senior engineers on the team to spread deep ownership as it grows.&lt;/p&gt;\n&lt;h2&gt;Key Responsibilities&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Own the architecture and technical roadmap for margin and risk across asset classes, including portfolio margin, intraday margining, options risk, real-time exposure limits, margin-call automation, and margin models for new asset classes.&lt;/li&gt;\n&lt;li&gt;Design and build services that turn complex margin methodologies and regulatory rules into correct, testable, and observable systems, and keep those rules consistent where asset classes interact.&lt;/li&gt;\n&lt;li&gt;Lead real-time risk enforcement on the order path, balancing latency against accuracy and safety.&lt;/li&gt;\n&lt;li&gt;Drive reliability and performance across the team&#39;s services: throughput, state recovery, database load, and failure isolation.&lt;/li&gt;\n&lt;li&gt;Partner with Product, Brokerage Operations, Compliance, and adjacent engineering teams (order management, ledger, account, market data) to define behavior and integration boundaries.&lt;/li&gt;\n&lt;li&gt;Set the standard for correctness in a financial system: transactional integrity, idempotency, reconciliation, feature flags, and staged rollouts.&lt;/li&gt;\n&lt;li&gt;Lead design reviews, mentor senior and mid-level engineers, and raise the engineering bar as the team grows.&lt;/li&gt;\n&lt;li&gt;Act as a technical point of escalation for production margin and risk issues, and drive durable prevention after incidents.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;Qualifications&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;8+ years of backend or distributed-systems experience. Evidence of scope and ownership matters more than a strict year count. Strong preference for someone who has owned the same consequential production system for at least two years.&lt;/li&gt;\n&lt;li&gt;Proven ownership of a high-volume system where a defect could cause financial loss, a data-integrity failure, or an inappropriate customer restriction.&lt;/li&gt;\n&lt;li&gt;Experience designing and shipping transactional, low-latency, high-throughput systems.&lt;/li&gt;\n&lt;li&gt;Strong expertise in Go, or deep experience in Java, C++, or Rust and a clear willingness to work primarily in Go. Domain knowledge matters more than prior time in Go.&lt;/li&gt;\n&lt;li&gt;Deep knowledge of relational databases (PostgreSQL preferred), transactions, consistency, and concurrency.&lt;/li&gt;\n&lt;li&gt;Experience with event-driven and service-oriented systems (gRPC or other RPC, Kafka, RabbitMQ, or similar) and with Kubernetes.&lt;/li&gt;\n&lt;li&gt;Demonstrated care for correctness: testing strategy, edge-case analysis, reconciliation, and safe production rollout.&lt;/li&gt;\n&lt;li&gt;Clear communication with engineers and with operations and compliance partners, including when the business rules are complex or still being defined.&lt;/li&gt;\n&lt;li&gt;Track record of technical leadership and mentorship across teams. Curious about the core of the domain, and effective as a teammate.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;Preferred Skills&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Hands-on margin or risk experience in more than one asset class, with derivatives or recently launched markets especially valuable. You would help establish and deepen that expertise on the team.&lt;/li&gt;\n&lt;li&gt;Familiarity with margin methodologies such as Reg T, portfolio margin, options spread margin, or futures margin.&lt;/li&gt;\n&lt;li&gt;Background in brokerage, clearing, exchange, ledger, payments, or settlement systems.&lt;/li&gt;\n&lt;li&gt;Experience with options, derivatives, or multi-leg strategies and their risk characteristics.&lt;/li&gt;\n&lt;li&gt;Experience with workflow orchestration (Temporal or similar) for long-running processes such as margin-call lifecycles.&lt;/li&gt;\n&lt;li&gt;Experience with observability and production performance tuning.&lt;/li&gt;\n&lt;li&gt;Experience leading migrations or refactors in production-critical environments.&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h3&gt;&lt;strong&gt;How We Take Care of You:&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-weight: 400; text-align: justify;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Competitive Salary &amp;amp; Stock Options&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;text-align: justify;&quot;&gt;Health Benefits&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400; text-align: justify;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;New Hire Home-Office Setup: One-time USD $500&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400; text-align: justify;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Monthly Stipend: USD $150 per month via a Brex Card&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Alpaca is proud to be an equal opportunity workplace dedicated to pursuing and hiring a diverse workforce.&lt;br&gt;&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;a href=&quot;https://files.alpaca.markets/disclosures/AlpacaRecruitmentPrivacyPolicy.pdf&quot;&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Recruitment Privacy Policy&lt;/span&gt;&lt;/em&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4041733004,
+      "name": "Engineering",
+      "child_ids": [
+        4056293004,
+        4056295004,
+        4056296004,
+        4056294004
+      ],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 4031479004,
+      "name": "Remote - European Time Zones",
+      "location": "Remote - European Time Zones",
+      "child_ids": [],
+      "parent_id": null
+    },
+    {
+      "id": 4031475004,
+      "name": "Remote - Global - Eastern Time Zone",
+      "location": "Remote - Global (Eastern Time Zone)",
+      "child_ids": [],
+      "parent_id": null
+    },
+    {
+      "id": 4025501004,
+      "name": "Remote - North America ",
+      "location": "North America",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": "<p>We use Greenhouse’s AI-powered Talent Matching tool to compare your application against our job requirements.</p>",
+  "include_ai_disclaimer": true,
+  "ai_opt_out_request_url": "http://app4.greenhouse.io/ai_opt_out_request/job_post/6203656004/ai_opt_out"
+}
