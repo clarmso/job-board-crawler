@@ -48,7 +48,11 @@
     {
       "id": 29446322,
       "name": "Pay Transparency Range",
-      "value": null,
+      "value": {
+        "unit": "GBP",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
       "value_type": "currency_range"
     },
     {
@@ -65,7 +69,7 @@
     }
   ],
   "id": 8219989,
-  "updated_at": "2026-09-21T04:54:47-04:00",
+  "updated_at": "2026-09-23T12:52:26-04:00",
   "requisition_id": "R20962",
   "title": "Principal GSI Partner Manager - Accenture (EMEA)",
   "company_name": "Datadog",
@@ -83,11 +87,32 @@
   ],
   "offices": [
     {
+      "id": 63481,
+      "name": "Amsterdam",
+      "location": "Amsterdam, Noord-Holland, Netherlands",
+      "child_ids": [],
+      "parent_id": 78096
+    },
+    {
       "id": 47852,
       "name": "London",
       "location": "London, Greater London, England, United Kingdom",
       "child_ids": [],
       "parent_id": 63630
+    },
+    {
+      "id": 8604,
+      "name": "Paris",
+      "location": "Paris, Paris, France",
+      "child_ids": [],
+      "parent_id": 78094
+    },
+    {
+      "id": 76737,
+      "name": "Remote - Italy",
+      "location": "Italy",
+      "child_ids": [],
+      "parent_id": 64262
     },
     {
       "id": 76758,

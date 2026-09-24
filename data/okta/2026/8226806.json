@@ -1,0 +1,96 @@
+{
+  "absolute_url": "https://www.okta.com/company/careers/opportunity/8226806?gh_jid=8226806",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 3560400,
+  "location": {
+    "name": "Toronto, Ontario, Canada"
+  },
+  "metadata": [
+    {
+      "id": 58735330,
+      "name": "Naukri Job URL",
+      "value": null,
+      "value_type": "long_text"
+    },
+    {
+      "id": 58735350,
+      "name": "Naukri Job Error",
+      "value": null,
+      "value_type": "long_text"
+    },
+    {
+      "id": 58735367,
+      "name": "Minimum Salary",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735368,
+      "name": "Maximum Salary",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735369,
+      "name": "Minimum Work Experience",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735370,
+      "name": "Maximum Work Experience",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735384,
+      "name": "City",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 58735385,
+      "name": "Job Description",
+      "value": null,
+      "value_type": "long_text"
+    }
+  ],
+  "id": 8226806,
+  "updated_at": "2026-09-23T15:32:29-04:00",
+  "requisition_id": "P-2929_3560400",
+  "title": "Product Manager, B2B (Auth0)",
+  "company_name": "Okta",
+  "first_published": "2026-09-23T15:32:29-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Secure Every Identity, from AI to Human&lt;br&gt;&lt;br&gt;&lt;/strong&gt;Identity is the key to unlocking the potential of AI. Okta secures AI by building the trusted, neutral infrastructure that enables organizations to safely embrace this new era. This work requires a relentless drive to solve complex challenges with real-world stakes. We are looking for builders and owners who operate with speed and urgency and execute with excellence.&lt;br&gt;&lt;br&gt;This is an opportunity to do career-defining work. We&#39;re all in on this mission. If you are too, let&#39;s talk.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;Auth0&amp;nbsp; is an easy-to-implement, authentication and authorization platform designed by developers for developers. We make applications’ login boxes safe, secure, and seamless for anyone logging in.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;About the Role&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We are seeking a Product Manager to join our Enterprise Federation team. In this role, you will partner closely with engineering teams to shape the future of Auth0&#39;s core B2B platform.&lt;/p&gt;\n&lt;p&gt;We need a creative, engineering-minded leader to uncover and solve the complex operational realities our customers face when deploying high-scale, multi-tenant B2B applications on Auth0. As the owner of the &quot;front door&quot; to Auth0 B2B, you will directly shape how our enterprise customers—and their end-users—experience our platform.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Core Responsibilities &amp;amp; Ownership&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;You will lead two critical product areas:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Enterprise Connections: A suite of pre-built connectors that integrate workforce Identity Providers (IdPs), enabling a seamless onboarding experience for enterprise B2B customers.&lt;/li&gt;\n&lt;li&gt;B2B Connect: An innovative offering that allows Auth0 to be deployed on top of—rather than instead of—a customer&#39;s existing IdP.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;In addition to managing these areas, you will:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Drive Modularization: Focus on modularizing Auth0’s B2B offerings so customers can quickly adopt high-value features without needing a full identity migration.&lt;/li&gt;\n&lt;li&gt;Lead the Standards Roadmap: Deepen your understanding of regional and vertical identity standards to build, drive, and propel a highly competitive standards roadmap.&lt;/li&gt;\n&lt;li&gt;Deliver Incremental Value: Bridge long-term product vision with practical execution—layering and prioritizing features based on market demand to deliver continuous value.&lt;/li&gt;\n&lt;li&gt;Champion Developer &amp;amp; Admin Experience: Focus relentlessly on creating frictionless, delightful experiences for B2B administrators and software developers at every touchpoint.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;What We’re Looking For&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Domain &amp;amp; Engineering Mindset: Comfort navigating the technical complexities of identity, multi-tenant architectures, and enterprise federation.&lt;/li&gt;\n&lt;li&gt;Strategy + Operational Rigor: Ability to blend high-level strategy with tight execution and structured roadmapping.&lt;/li&gt;\n&lt;li&gt;Customer &amp;amp; Market Empathy: Instincts for understanding how enterprise requirements differ across global regions and industry verticals.&lt;/li&gt;\n&lt;li&gt;Agile Product Leadership: Proven track record of shipping iterative value, learning from telemetry/feedback, and refining strategy on the go.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Support &amp;amp; Environment&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;You won&#39;t be doing this alone. You will be supported by a dedicated team of business agility, program, and product experts equipped to give you the tools, framework, and autonomy you need to succeed.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Job Duties and Responsibilities&lt;/strong&gt;:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Do hands-on research and prototyping of identity and tenancy solutions and market tests for viability.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Deeply embed yourself in B2B software development, understand how multi-tenant SaaS is built, the common pain points, and be able to articulate challenges and opportunities in the space.&lt;/li&gt;\n&lt;li&gt;Contribute to the B2B Standards Roadmap and understand the Vertical and Regional implications&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Think through how our customers integrate with us, and how we separate features and functions&lt;/li&gt;\n&lt;li&gt;Work with our engineering and design team to build actionable requirements, APIs, and detailed specifications to enable engineering execution.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Build roadmaps and compelling business cases that articulate your product direction, financial strategy, and downstream alignment.&lt;/li&gt;\n&lt;li&gt;Follow our PDLC (Product Delivery Lifecycle) to drive a complete vision, while upholding the highest standards in security, architecture, and design.&amp;nbsp;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Minimum Required Knowledge, Skills, and Abilities:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;3 years of experience leading as a Product Manager or Team Lead in Engineering.&lt;/li&gt;\n&lt;li&gt;5 years of experience working in technology/IT/Software&lt;/li&gt;\n&lt;li&gt;Bachelor’s or Master’s degree in Computer Science or has completed an Engineering Bootcamp program within the same time frame.&lt;/li&gt;\n&lt;li&gt;Experience developing on, or working within, B2B SaaS applications.&lt;/li&gt;\n&lt;li&gt;Deep understanding of Identity and Directory Protocols including OAuth, SAML, and SCIM.&lt;/li&gt;\n&lt;li&gt;Design of APIs and detailed specifications to enable engineering execution.&lt;/li&gt;\n&lt;li&gt;Practical experience working with data and tools to analyze data (SQL/BI Tools).&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Ability to use modern AI tools such as Claude Code and Codex to accelerate your work, without generating slop.&amp;nbsp;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Preferred Qualifications:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Familiarity with CI/CD tools and processes.&lt;/li&gt;\n&lt;li&gt;Hands-on experience with agile development tools like Jira and Confluence.&lt;/li&gt;\n&lt;li&gt;Strong human/people skills to conduct deep-dive customer interviews.&lt;/li&gt;\n&lt;li&gt;Ability to travel within the US or Canada for customer conversations or research.&amp;nbsp;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;#LI-HYBRID&lt;br&gt;&lt;br&gt;#LI-SH1&lt;br&gt;P-2929_3560400&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Below is the annual salary range for candidates located in Canada. Your actual salary will depend on factors such as your skills, qualifications, and experience. In addition, Okta offers equity (where applicable), bonus, and benefits, including health, dental, and vision insurance, RRSP with a match, healthcare spending, telemedicine, and paid leave (including PTO and parental leave) in accordance with our applicable plans and policies. To learn more about our Total Rewards program, please visit:&amp;nbsp;&lt;a href=&quot;https://rewards.okta.com/can&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://rewards.okta.com/can&amp;amp;source=gmail&amp;amp;ust=1705181614985000&amp;amp;usg=AOvVaw29oi6BOXve4rhySFpzzvao&quot;&gt;https://rewards.okta.com/can&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;The annual base salary range for this position for candidates located in Canada is between:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$124,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$170,500 CAD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;The Okta Experience&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;a href=&quot;http://rewards.okta.com&quot;&gt;Supporting Your Well-Being&lt;/a&gt;&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;&lt;a href=&quot;https://www.okta.com/company/okta-for-good/&quot;&gt;Driving Social Impact&amp;nbsp;&lt;/a&gt;&lt;/li&gt;\n&lt;li&gt;&lt;a href=&quot;https://www.okta.com/company/talent-connection-community/&quot;&gt;Developing Talent and Fostering Connection + Community&lt;/a&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;We are intentional about connection. Our global community, spanning over 20 offices worldwide, is united by a drive to innovate. Your journey begins with an immersive, in-person onboarding experience designed to accelerate your impact and connect you to our mission and team from day one.&lt;br&gt;&lt;br&gt;Okta is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, marital status, age, physical or mental disability, or status as a protected veteran. We also consider for employment qualified applicants with arrest and convictions records, consistent with applicable laws.&lt;br&gt;&lt;br&gt;If reasonable accommodation is needed to complete any part of the job application, interview process, or onboarding please&amp;nbsp;&lt;a href=&quot;https://docs.google.com/forms/d/1EfiEYZrIyhA2X4Fijk0R3RKYOzNoS3wtvyM4nhbZnXE/edit&quot;&gt;use this Form&lt;/a&gt; to request an accommodation.&lt;br&gt;&lt;br&gt;Notice for New York City Applicants &amp;amp; Employees: Okta may use Automated Employment Decision Tools (AEDT), as defined by New York City Local Law 144, that use artificial intelligence, machine learning, or other automated processes to assist in our recruitment and hiring process. In accordance with NYC Local Law 144, if you are an applicant or employee residing in New York City, please&amp;nbsp;&lt;a href=&quot;https://talent.okta.com/new-york-city-aedt-notice.html&quot;&gt;click here&lt;/a&gt; to view our full NYC AEDT Notice.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 28480,
+      "name": "Product Management-810",
+      "child_ids": [],
+      "parent_id": 396304
+    }
+  ],
+  "offices": [
+    {
+      "id": 19614,
+      "name": "Toronto",
+      "location": "Toronto, ON, Canada",
+      "child_ids": [],
+      "parent_id": 67251
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

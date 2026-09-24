@@ -43,7 +43,7 @@
       "id": 4137836,
       "name": "Working Model Eligibility",
       "value": [
-        "3CF-Customer Facing Remote"
+        "2-Flexible"
       ],
       "value_type": "multi_select"
     },
@@ -74,13 +74,21 @@
     {
       "id": 5525802,
       "name": "Baseline Budgeted Salary",
-      "value": null,
+      "value": {
+        "unit": "GBP",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
       "value_type": "currency_range"
     },
     {
       "id": 5525816,
       "name": "Other Large Market Budgeted Salary",
-      "value": null,
+      "value": {
+        "unit": "GBP",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
       "value_type": "currency_range"
     },
     {
@@ -117,7 +125,7 @@
     }
   ],
   "id": 8174075,
-  "updated_at": "2026-09-18T00:36:14-04:00",
+  "updated_at": "2026-09-23T03:30:22-04:00",
   "requisition_id": "3273537663",
   "title": "Solutions Architect",
   "company_name": "MongoDB",

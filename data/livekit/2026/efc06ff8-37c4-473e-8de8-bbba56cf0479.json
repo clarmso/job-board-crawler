@@ -2,7 +2,7 @@
   "id": "efc06ff8-37c4-473e-8de8-bbba56cf0479",
   "title": "Staff Security Engineer",
   "department": "R&D",
-  "team": "Engineering ",
+  "team": "Security",
   "employmentType": "FullTime",
   "location": "North America",
   "shouldDisplayCompensationOnJobPostings": true,
@@ -42,13 +42,13 @@
     "scrapeableCompensationSalarySummary": "$135K - $300K",
     "compensationTiers": [
       {
-        "id": "366db1a2-2569-4940-ac44-34b4e79abc7b",
+        "id": "1d6d78cf-8505-4f69-ad6d-e4254520f14f",
         "tierSummary": "$135K – $300K • Offers Equity",
         "title": null,
         "additionalInformation": null,
         "components": [
           {
-            "id": "682f744a-6e6e-4af4-8e7e-5bed91f5b34c",
+            "id": "16bd9a9f-4a48-4019-970d-f2c4264590ae",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
             "interval": "NONE",
@@ -57,7 +57,7 @@
             "maxValue": null
           },
           {
-            "id": "58f98402-f4f6-4671-aff5-0c19375c7f50",
+            "id": "681bf5af-4c7e-47f3-87b4-5690a5e55286",
             "summary": "$135K – $300K",
             "compensationType": "Salary",
             "interval": "1 YEAR",

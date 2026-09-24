@@ -7,7 +7,7 @@
       "requires_processing_consent": false,
       "requires_retention_consent": false,
       "retention_period": null,
-      "demographic_data_consent_applies": false
+      "demographic_data_consent_applies": true
     }
   ],
   "internal_job_id": 3525810,
@@ -107,7 +107,7 @@
     }
   ],
   "id": 8147617,
-  "updated_at": "2026-09-17T14:29:16-04:00",
+  "updated_at": "2026-09-23T11:04:50-04:00",
   "requisition_id": null,
   "title": "Senior Frontend Software Engineer, Consumer Engineering",
   "company_name": "Reddit",

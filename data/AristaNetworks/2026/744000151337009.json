@@ -1,0 +1,79 @@
+{
+  "id": "744000151337009",
+  "name": "Logistics & Inventory Coordinator ",
+  "uuid": "5d0a06a8-bb0b-4a36-aa9c-977f1dbdfafb",
+  "jobAdId": "b3cf165d-9915-410a-9c75-518874d1d98d",
+  "defaultJobAd": true,
+  "refNumber": "REF3588H",
+  "company": {
+    "identifier": "AristaNetworks",
+    "name": "Arista Networks"
+  },
+  "releasedDate": "2026-09-23T09:40:23.497Z",
+  "location": {
+    "city": "Bengaluru",
+    "region": "KA",
+    "country": "in",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "12.9628957",
+    "longitude": "77.57754",
+    "fullLocation": "Bengaluru, KA, India"
+  },
+  "industry": {
+    "id": "computer_networking",
+    "label": "Computer Networking"
+  },
+  "department": {
+    "id": "1455207",
+    "label": "Manufacturing"
+  },
+  "function": {
+    "id": "manufacturing",
+    "label": "Manufacturing"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "entry_level",
+    "label": "Entry Level"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "in",
+      "valueLabel": "India"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e1",
+      "fieldLabel": "Department",
+      "valueId": "1455207",
+      "valueLabel": "Manufacturing"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e0",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Arista Networks"
+    },
+    {
+      "fieldId": "62a7845974fe2c08874d5452",
+      "fieldLabel": "Role",
+      "valueId": "8429a637-8dcc-4386-beca-069384974393",
+      "valueLabel": "New grad"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000151337009",
+  "creator": {
+    "name": "Isha Anand"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

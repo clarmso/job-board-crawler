@@ -1,0 +1,79 @@
+{
+  "id": "744000151304169",
+  "name": "Junior AI-Assisted Automation Scripting Associate (Apprentice)",
+  "uuid": "94850ad9-621e-450f-8bf7-6aa3f56e287a",
+  "jobAdId": "f8811ab1-d3b3-4774-8710-444951b49297",
+  "defaultJobAd": true,
+  "refNumber": "REF3760M",
+  "company": {
+    "identifier": "AristaNetworks",
+    "name": "Arista Networks"
+  },
+  "releasedDate": "2026-09-23T06:59:03.783Z",
+  "location": {
+    "city": "Pune",
+    "region": "MH",
+    "country": "in",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "18.5246091",
+    "longitude": "73.8786239",
+    "fullLocation": "Pune, MH, India"
+  },
+  "industry": {
+    "id": "computer_networking",
+    "label": "Computer Networking"
+  },
+  "department": {
+    "id": "1650384",
+    "label": "Information Technology"
+  },
+  "function": {
+    "id": "information_technology",
+    "label": "Information Technology"
+  },
+  "typeOfEmployment": {
+    "id": "intern",
+    "label": "Intern"
+  },
+  "experienceLevel": {
+    "id": "entry_level",
+    "label": "Entry Level"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "in",
+      "valueLabel": "India"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e1",
+      "fieldLabel": "Department",
+      "valueId": "1650384",
+      "valueLabel": "Information Technology"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e0",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Arista Networks"
+    },
+    {
+      "fieldId": "62a7845974fe2c08874d5452",
+      "fieldLabel": "Role",
+      "valueId": "0c578a2e-9c53-496c-a4c8-57fa86996562",
+      "valueLabel": "Intern"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000151304169",
+  "creator": {
+    "name": "Isha Anand"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}
