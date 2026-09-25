@@ -2,7 +2,10 @@ name: Crawl Job Boards
 
 on:
   schedule:
-      - cron: '0 23 * * 1-5'  # Every weekday (Monday-Friday) at 23:00 UTC
+      # 03:00 UTC Tue-Sat = 8:00 PM Mon-Fri Pacific (PDT) / 7:00 PM (PST).
+      # GitHub Actions cron is always UTC and doesn't shift for daylight
+      # saving, so day-of-week is Tue-Sat (2-6) to land on Mon-Fri Pacific.
+      - cron: '0 3 * * 2-6'
   workflow_dispatch:       # Allow manual trigger
 
 permissions:
