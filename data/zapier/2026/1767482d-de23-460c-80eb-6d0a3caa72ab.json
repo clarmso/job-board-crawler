@@ -46,6 +46,15 @@
         "additionalInformation": null,
         "components": [
           {
+            "id": "6e49f00a-a8c1-45f5-a0fe-ff7c52392508",
+            "summary": "Base Salary $210,700 – $316,100",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 210700,
+            "maxValue": 316100
+          },
+          {
             "id": "94e2385c-6aeb-470c-8b33-a8bebd6caedc",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
@@ -62,15 +71,6 @@
             "currencyCode": "USD",
             "minValue": null,
             "maxValue": null
-          },
-          {
-            "id": "6e49f00a-a8c1-45f5-a0fe-ff7c52392508",
-            "summary": "Base Salary $210,700 – $316,100",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "USD",
-            "minValue": 210700,
-            "maxValue": 316100
           }
         ]
       },
@@ -80,15 +80,6 @@
         "title": "Canada",
         "additionalInformation": null,
         "components": [
-          {
-            "id": "949ae0b5-e815-488f-9970-87400e5ee4d1",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
           {
             "id": "46504e19-5cb0-4a22-8334-a3b7312dbe4d",
             "summary": "Offers Bonus",
@@ -106,6 +97,15 @@
             "currencyCode": "CAD",
             "minValue": 210700,
             "maxValue": 316100
+          },
+          {
+            "id": "949ae0b5-e815-488f-9970-87400e5ee4d1",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           }
         ]
       },
@@ -125,15 +125,6 @@
             "maxValue": null
           },
           {
-            "id": "85dfd2db-ad27-430c-84d6-5924190fcd11",
-            "summary": "Base Salary £132,500 – £198,700",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "GBP",
-            "minValue": 132500,
-            "maxValue": 198700
-          },
-          {
             "id": "d2ff98b9-51ac-4a76-9da2-f3689615a6dd",
             "summary": "Offers Bonus",
             "compensationType": "Bonus",
@@ -141,6 +132,15 @@
             "currencyCode": "GBP",
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "85dfd2db-ad27-430c-84d6-5924190fcd11",
+            "summary": "Base Salary £132,500 – £198,700",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "GBP",
+            "minValue": 132500,
+            "maxValue": 198700
           }
         ]
       },
@@ -186,6 +186,15 @@
         "additionalInformation": null,
         "components": [
           {
+            "id": "98f35205-1267-4a44-a942-ec897e502f55",
+            "summary": "Base Salary €135,800 – €203,800",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "EUR",
+            "minValue": 135800,
+            "maxValue": 203800
+          },
+          {
             "id": "db17d1e5-acf4-4e0b-a36c-c2bda33c5e2e",
             "summary": "Offers Bonus",
             "compensationType": "Bonus",
@@ -202,15 +211,6 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
-          },
-          {
-            "id": "98f35205-1267-4a44-a942-ec897e502f55",
-            "summary": "Base Salary €135,800 – €203,800",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "EUR",
-            "minValue": 135800,
-            "maxValue": 203800
           }
         ]
       },
@@ -221,13 +221,13 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "6f01718b-1966-4372-9bc6-d7826f7f8ad7",
-            "summary": "Base Salary ₹77,56,200 – ₹1,16,34,400",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "INR",
-            "minValue": 7756200,
-            "maxValue": 11634400
+            "id": "c44a087c-dfca-413a-9ba5-f52eab28ac20",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           },
           {
             "id": "62b432c2-3bf0-4b2a-bf62-600fe128d5a7",
@@ -239,13 +239,13 @@
             "maxValue": null
           },
           {
-            "id": "c44a087c-dfca-413a-9ba5-f52eab28ac20",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
+            "id": "6f01718b-1966-4372-9bc6-d7826f7f8ad7",
+            "summary": "Base Salary ₹77,56,200 – ₹1,16,34,400",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "INR",
+            "minValue": 7756200,
+            "maxValue": 11634400
           }
         ]
       },
@@ -256,15 +256,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "80f62ddf-4cd7-45b9-9ee2-21bc1540bd5b",
-            "summary": "Base Salary A$208,600 – A$313,000",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "AUD",
-            "minValue": 208600,
-            "maxValue": 313000
-          },
-          {
             "id": "5c5a0fb3-3807-4640-8cd7-136848bf927d",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
@@ -272,6 +263,15 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "80f62ddf-4cd7-45b9-9ee2-21bc1540bd5b",
+            "summary": "Base Salary A$208,600 – A$313,000",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "AUD",
+            "minValue": 208600,
+            "maxValue": 313000
           },
           {
             "id": "fe729dcf-cdd1-48a5-b5f6-cacb471bb652",
@@ -322,6 +322,13 @@
     ],
     "summaryComponents": [
       {
+        "compensationType": "Salary",
+        "interval": "1 YEAR",
+        "currencyCode": "USD",
+        "minValue": 210700,
+        "maxValue": 316100
+      },
+      {
         "compensationType": "EquityPercentage",
         "minValue": null,
         "maxValue": null,
@@ -332,13 +339,6 @@
         "minValue": null,
         "maxValue": null,
         "interval": "1 YEAR"
-      },
-      {
-        "compensationType": "Salary",
-        "interval": "1 YEAR",
-        "currencyCode": "USD",
-        "minValue": 210700,
-        "maxValue": 316100
       }
     ]
   }

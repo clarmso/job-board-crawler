@@ -1,0 +1,78 @@
+{
+  "id": "744000151579709",
+  "name": "C++ Senior Software Engineer - Linux Kernel ",
+  "uuid": "c38dde0d-c651-4a15-9e8f-2f4a63d4c96c",
+  "jobAdId": "2e3be646-2f26-45cd-adb2-cca0ac3c0c16",
+  "defaultJobAd": true,
+  "refNumber": "REF3378D",
+  "company": {
+    "identifier": "AristaNetworks",
+    "name": "Arista Networks"
+  },
+  "releasedDate": "2026-09-24T10:10:27.308Z",
+  "location": {
+    "city": "Budapest",
+    "country": "hu",
+    "remote": true,
+    "hybrid": false,
+    "latitude": "47.497912",
+    "longitude": "19.040235",
+    "fullLocation": "Budapest, , Hungary"
+  },
+  "industry": {
+    "id": "computer_networking",
+    "label": "Computer Networking"
+  },
+  "department": {
+    "id": "1455224",
+    "label": "Software Engineering"
+  },
+  "function": {
+    "id": "engineering",
+    "label": "Engineering"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "hu",
+      "valueLabel": "Hungary"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e1",
+      "fieldLabel": "Department",
+      "valueId": "1455224",
+      "valueLabel": "Software Engineering"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e0",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Arista Networks"
+    },
+    {
+      "fieldId": "62a7845974fe2c08874d5452",
+      "fieldLabel": "Role",
+      "valueId": "4e150511-63af-4e42-850a-47ad805607cc",
+      "valueLabel": "Senior"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000151579709",
+  "creator": {
+    "name": "Emer OKelly"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

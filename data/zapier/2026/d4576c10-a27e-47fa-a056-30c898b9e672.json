@@ -33,15 +33,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "f77d244f-db4b-4cf6-8e1c-5637e001caa4",
-            "summary": "Offers Commission",
-            "compensationType": "Commission",
-            "interval": "1 YEAR",
-            "currencyCode": "USD",
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "752db50f-dd4d-488a-9e18-e4c05a748a25",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
@@ -58,6 +49,15 @@
             "currencyCode": "USD",
             "minValue": 140000,
             "maxValue": 170000
+          },
+          {
+            "id": "f77d244f-db4b-4cf6-8e1c-5637e001caa4",
+            "summary": "Offers Commission",
+            "compensationType": "Commission",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": null,
+            "maxValue": null
           }
         ]
       },
@@ -67,15 +67,6 @@
         "title": "L2 Canada",
         "additionalInformation": null,
         "components": [
-          {
-            "id": "db92bace-c7cb-491b-9afc-fcb284c29124",
-            "summary": "OTE CA$140K – CA$170K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "CAD",
-            "minValue": 140000,
-            "maxValue": 170000
-          },
           {
             "id": "67fb7a99-b172-43e8-958a-c93f97015cec",
             "summary": "Offers Commission",
@@ -93,17 +84,20 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "db92bace-c7cb-491b-9afc-fcb284c29124",
+            "summary": "OTE CA$140K – CA$170K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "CAD",
+            "minValue": 140000,
+            "maxValue": 170000
           }
         ]
       }
     ],
     "summaryComponents": [
-      {
-        "compensationType": "Commission",
-        "minValue": null,
-        "maxValue": null,
-        "interval": "1 YEAR"
-      },
       {
         "compensationType": "EquityPercentage",
         "minValue": null,
@@ -116,6 +110,12 @@
         "currencyCode": "USD",
         "minValue": 140000,
         "maxValue": 170000
+      },
+      {
+        "compensationType": "Commission",
+        "minValue": null,
+        "maxValue": null,
+        "interval": "1 YEAR"
       }
     ]
   }

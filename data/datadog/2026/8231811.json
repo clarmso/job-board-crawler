@@ -1,0 +1,103 @@
+{
+  "absolute_url": "https://careers.datadoghq.com/detail/8231811/?gh_jid=8231811",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 3562178,
+  "location": {
+    "name": "New York, New York, USA"
+  },
+  "metadata": [
+    {
+      "id": 33310,
+      "name": "Time Type",
+      "value": "Full time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 166208,
+      "name": "Area - Engineering",
+      "value": "Enterprise Technology",
+      "value_type": "single_select"
+    },
+    {
+      "id": 498252,
+      "name": "Cost Center",
+      "value": "Engineering - Enterprise Technology",
+      "value_type": "single_select"
+    },
+    {
+      "id": 516515,
+      "name": "Geography",
+      "value": "North America",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9593635,
+      "name": "Early Career Time Type",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 29446322,
+      "name": "Pay Transparency Range",
+      "value": {
+        "unit": "USD",
+        "max_value": "169000.0",
+        "min_value": "135000.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 31273219,
+      "name": "Does this role require access to ITAR-controlled data?",
+      "value": "Yes",
+      "value_type": "single_select"
+    },
+    {
+      "id": 58619948,
+      "name": "IC or MG",
+      "value": "IC",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8231811,
+  "updated_at": "2026-09-24T16:03:31-04:00",
+  "requisition_id": "R21435",
+  "title": "Senior Business Systems Analyst",
+  "company_name": "Datadog",
+  "first_published": "2026-09-24T16:03:31-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p data-renderer-start-pos=&quot;1&quot; data-local-id=&quot;9dd29e6a0f37&quot;&gt;Business Systems drives efficiency across Datadog through business process analysis, systems automation and integrations, AI agent and &lt;span class=&quot;acronym-highlight&quot;&gt;MCP&lt;/span&gt; development, and vendor/software review. The team is increasingly embedded in cross-functional initiatives across People, Finance, &lt;span class=&quot;acronym-highlight&quot;&gt;GTM&lt;/span&gt;, Legal, Recruiting, and Technical Solutions — translating ambiguous business problems into scoped, buildable solutions and owning delivery end-to-end.&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;427&quot; data-local-id=&quot;1305d1cf0d3e&quot;&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;429&quot; data-local-id=&quot;e3478c47f0c9&quot;&gt;This is not a generalist &lt;span class=&quot;acronym-highlight&quot;&gt;BSA&lt;/span&gt; role. Each Senior BSA will own a cluster of business functions end-to-end, acting as an internal product manager for their domain rather than processing inbound requests reactively. There are two openings, each covering a different domain:&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;699&quot; data-local-id=&quot;c362df054c5e&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;People, Recruiting, Legal &lt;/strong&gt;or &lt;strong data-renderer-mark=&quot;true&quot;&gt;Finance, GTM, Procurement&lt;/strong&gt;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;755&quot; data-local-id=&quot;3c6a78e82c63&quot;&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;757&quot; data-local-id=&quot;5a96a4901970&quot;&gt;As the role evolves alongside AI, Senior BSAs leverage agentic tools for data aggregation and context gathering while remaining the critical human-in-the-loop layer — owning business context and product outlook, validating use cases, managing stakeholder relationships, and making the judgment calls agents can&#39;t.&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;1072&quot; data-local-id=&quot;002682ee2f1f&quot;&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;1074&quot; data-local-id=&quot;dd48febb50f8&quot;&gt;&lt;em data-renderer-mark=&quot;true&quot;&gt;At Datadog, we place value in our office culture - the relationships that it builds, the creativity it brings to the table, and the collaboration of being together. We operate as a hybrid workplace to ensure our employees can create a work-life harmony that best fits them.&lt;/em&gt;&lt;/p&gt;\n&lt;p data-local-id=&quot;59bb54fe4262&quot; data-renderer-start-pos=&quot;1349&quot;&gt;&lt;strong&gt;&lt;br&gt;What You’ll Do:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li data-renderer-start-pos=&quot;1369&quot; data-local-id=&quot;5a00c126f4f1&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Discovery and scoping:&lt;/strong&gt; Translate ambiguous asks from business stakeholders into well-defined requirements that Business Systems Engineers can build against. Many stakeholders don&#39;t know what they want or the cross-functional impact of what they&#39;re asking for — you surface both before engineering begins.&lt;/li&gt;\n&lt;li data-renderer-start-pos=&quot;1677&quot; data-local-id=&quot;4e0327b25cb8&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Cross-functional visibility:&lt;/strong&gt; Identify dependencies, downstream impacts, and integration considerations that requesting teams miss.&lt;/li&gt;\n&lt;li data-renderer-start-pos=&quot;1811&quot; data-local-id=&quot;6a790c65497f&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Proactive opportunity identification:&lt;/strong&gt; Develop deep domain knowledge to identify automation and AI opportunities before they become inbound requests, shifting the team from reactive intake to strategic partnership.&lt;/li&gt;\n&lt;li data-renderer-start-pos=&quot;2028&quot; data-local-id=&quot;bebe60858817&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Stakeholder relationship ownership:&lt;/strong&gt; Serve as the primary point of contact for your domain, reducing ad hoc consultations that currently land on the team lead and senior ICs.&lt;/li&gt;\n&lt;li data-renderer-start-pos=&quot;2205&quot; data-local-id=&quot;41133b415467&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Systems and governance:&lt;/strong&gt; Review system configuration, data integrity, and vendor fit within your domain and make recommendations to stakeholders and BSEs; maintain clear documentation (process diagrams, system flows, user guides); ensure compliance with security and privacy standards (e.g., &lt;span class=&quot;acronym-highlight&quot;&gt;GDPR&lt;/span&gt;, &lt;span class=&quot;acronym-highlight&quot;&gt;SOX&lt;/span&gt;).&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p data-renderer-start-pos=&quot;2511&quot; data-local-id=&quot;5262b4c6b4d6&quot;&gt;&lt;strong&gt;&lt;br&gt;Who You Are:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li data-renderer-start-pos=&quot;2527&quot; data-local-id=&quot;10abbc933237&quot;&gt;Prior experience as a Business Systems Analyst or in a similar role, ideally within a high-tech or SaaS environment&lt;/li&gt;\n&lt;li data-renderer-start-pos=&quot;2646&quot; data-local-id=&quot;ab08787d6a54&quot;&gt;Experience owning a business domain end-to-end; comfortable operating like an internal product manager&lt;/li&gt;\n&lt;li data-renderer-start-pos=&quot;2752&quot; data-local-id=&quot;bac0445cec5f&quot;&gt;Excellent written and verbal communication skills, with the ability to explain technical concepts to non-technical stakeholders and manage relationships with senior leadership&lt;/li&gt;\n&lt;li data-renderer-start-pos=&quot;2931&quot; data-local-id=&quot;9e0745211ff7&quot;&gt;Comfortable using AI/agentic tools for data aggregation and context-gathering, while knowing where human judgment is still required&lt;/li&gt;\n&lt;li data-renderer-start-pos=&quot;3066&quot; data-local-id=&quot;a4262ccbfc51&quot;&gt;Experience in managing projects, particularly those involving multiple stakeholders and complex integrations&lt;/li&gt;\n&lt;li data-renderer-start-pos=&quot;3178&quot; data-local-id=&quot;3d9d7547ebd2&quot;&gt;Familiarity with security, privacy, and compliance standards (e.g., SOX, GDPR, SOC, ISO)&lt;/li&gt;\n&lt;li data-renderer-start-pos=&quot;3272&quot; data-local-id=&quot;b6a5869746d3&quot;&gt;4+ years as a business system administrator (e.g., NetSuite, Salesforce, Workday, Zendesk) or a business systems analyst leading complex, cross-functional projects or a similar role&lt;/li&gt;\n&lt;li data-renderer-start-pos=&quot;3457&quot; data-local-id=&quot;727295298682&quot;&gt;4+ years managing multiple projects simultaneously and formulating business design documents&lt;/li&gt;\n&lt;li data-renderer-start-pos=&quot;3553&quot; data-local-id=&quot;baf4e6884852&quot;&gt;You are comfortable with deciphering technical documentation (e.g., API documentation) and translating business to technical requirements&lt;/li&gt;\n&lt;li data-renderer-start-pos=&quot;3694&quot; data-local-id=&quot;ad94d53977a4&quot;&gt;By domain:\n&lt;ul&gt;\n&lt;li data-renderer-start-pos=&quot;3708&quot; data-local-id=&quot;f5f62c754153&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;People, Recruiting, Legal domain:&lt;/strong&gt; exposure to &lt;span class=&quot;acronym-highlight&quot;&gt;HRIS&lt;/span&gt;/ATS/contract lifecycle systems (e.g., Workday, Greenhouse) and the cross-functional dependencies between them&lt;/li&gt;\n&lt;li data-renderer-start-pos=&quot;3872&quot; data-local-id=&quot;b01bd186f9c3&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Finance, GTM, Procurement, Technical Solutions domain:&lt;/strong&gt; exposure to financial systems, deal desk, or procurement/vendor management tooling (e.g., NetSuite, Salesforce, Zendesk, Zip) and downstream data integrity implications&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p data-renderer-start-pos=&quot;4101&quot; data-local-id=&quot;c40233450f45&quot;&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;4103&quot; data-local-id=&quot;61bd7142abf9&quot;&gt;&lt;em data-renderer-mark=&quot;true&quot;&gt;Datadog values people from all walks of life. We understand not everyone will meet all the above qualifications on day one. That&#39;s okay. If you’re passionate about technology and want to grow your skills, we encourage you to apply.&amp;nbsp;&lt;/em&gt;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;4337&quot; data-local-id=&quot;d25f8ae09713&quot;&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;4339&quot; data-local-id=&quot;736974852424&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Benefits and Growth:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li data-renderer-start-pos=&quot;4363&quot; data-local-id=&quot;cec38568ac63&quot;&gt;New hire stock equity (RSUs) and employee stock purchase plan (ESPP)&lt;/li&gt;\n&lt;li data-renderer-start-pos=&quot;4435&quot; data-local-id=&quot;0fd9d2ba26e9&quot;&gt;Continuous professional development, product training, and career pathing&lt;/li&gt;\n&lt;li data-renderer-start-pos=&quot;4512&quot; data-local-id=&quot;afa54976aeab&quot;&gt;Intradepartmental mentor and buddy program for in-house networking&lt;/li&gt;\n&lt;li data-renderer-start-pos=&quot;4582&quot; data-local-id=&quot;f761d82ba58c&quot;&gt;An inclusive company culture, ability to join our Community Guilds (Datadog employee resource groups)&lt;/li&gt;\n&lt;li data-renderer-start-pos=&quot;4687&quot; data-local-id=&quot;9a55383be043&quot;&gt;Access to Inclusion Talks, our Internal panel discussions&lt;/li&gt;\n&lt;li data-renderer-start-pos=&quot;4748&quot; data-local-id=&quot;1c0506d1e3d7&quot;&gt;Free, global mental health benefits for employees and dependents age 6+&lt;/li&gt;\n&lt;li data-renderer-start-pos=&quot;4823&quot; data-local-id=&quot;09753f9b0e61&quot;&gt;Competitive global benefits&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p data-renderer-start-pos=&quot;4854&quot; data-local-id=&quot;d8eb9f5dcd36&quot;&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;4856&quot; data-local-id=&quot;c3172b10af29&quot;&gt;&lt;em data-renderer-mark=&quot;true&quot;&gt;Benefits and Growth listed above may vary based on the country of your employment and the nature of your employment with Datadog.&lt;br&gt;&lt;br&gt;To conform to US export control regulations, candidates should be eligible for any required authorizations from the US government. This job is available in various departments within our company; to conform to US export control regulations, some of these roles may require candidates to be eligible for any required authorizations from the US government.&lt;br&gt;&lt;/em&gt;&lt;/p&gt;\n&lt;p style=&quot;color: white;&quot;&gt;#LI-Hybrid&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Datadog offers a competitive salary and equity package, and may include variable compensation. Actual compensation is based on factors such as the candidate&#39;s skills, qualifications, and experience. In addition, Datadog offers a wide range of best in class, comprehensive and inclusive employee benefits for this role including healthcare, dental, parental planning, and mental health benefits, a 401(k) plan and match, paid time off, fitness reimbursements, and a discounted employee stock purchase plan.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;The reasonably estimated yearly salary for this role at Datadog is:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$135,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$169,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;hr&gt;\n&lt;p&gt;&lt;strong&gt;About Datadog:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Datadog is the leading observability and security platform for the AI era, providing businesses with unified visibility across the technology stack to manage complexity at scale. It brings applications, infrastructure, data, models, and security into one place, using AI to detect and resolve issues before they impact customers. Trusted globally by Fortune 500 companies and high-growth AI leaders, Datadog enables businesses to move faster with clarity and confidence. Learn more about #DatadogLife on &lt;a href=&quot;https://www.instagram.com/datadoghq/?hl=en&quot; target=&quot;_blank&quot;&gt;Instagram&lt;/a&gt;, &lt;a href=&quot;https://www.linkedin.com/company/datadog&quot; target=&quot;_blank&quot;&gt;LinkedIn,&lt;/a&gt; and &lt;a href=&quot;https://learn.datadoghq.com/&quot; target=&quot;_blank&quot;&gt;Datadog Learning Center. &lt;/a&gt;&lt;/p&gt;\n&lt;hr&gt;\n&lt;p data-renderer-start-pos=&quot;215&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Equal Opportunity at Datadog:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Datadog is proud to offer &lt;a href=&quot;https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf&quot; target=&quot;_blank&quot;&gt;equal employment opportunity&lt;/a&gt; to everyone regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, veteran status, and other characteristics protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. Here are our &lt;a href=&quot;https://www.datadoghq.com/legal/candidate-legal-notices/&quot; target=&quot;_blank&quot;&gt;Candidate Legal Notices&lt;/a&gt; for your reference.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Datadog endeavors to make our Careers Page accessible to all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please complete &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSeoJeduEZ2NdZF_65uZmWUrCM-zee7yADXX1s6Xr9zAGq8iKA/viewform&quot; target=&quot;_blank&quot;&gt;this form&lt;/a&gt;. This form is for accommodation requests only and cannot be used to inquire about the status of applications.&amp;nbsp;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;662&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Privacy and AI Guidelines:&lt;/strong&gt;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;662&quot;&gt;Any information you submit to Datadog as part of your application will be processed in accordance with Datadog’s&amp;nbsp;&lt;a class=&quot;c-link&quot; href=&quot;https://www.datadoghq.com/legal/applicant-candidate-privacy/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.datadoghq.com/legal/applicant-candidate-privacy/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Applicant and Candidate Privacy Notice&lt;/a&gt;. For information on our AI policy, please visit &lt;a href=&quot;https://www.datadoghq.com/legal/interviewing-at-datadog-ai-guidelines/&quot; target=&quot;_blank&quot;&gt;Interviewing at Datadog AI Guidelines&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 72252,
+      "name": "Enterprise Technology",
+      "child_ids": [],
+      "parent_id": 9022
+    }
+  ],
+  "offices": [
+    {
+      "id": 5664,
+      "name": "New York",
+      "location": "New York, NY, United States",
+      "child_ids": [
+        81327,
+        76746
+      ],
+      "parent_id": 73429
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

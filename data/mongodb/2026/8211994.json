@@ -1,0 +1,148 @@
+{
+  "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=8211994",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3553945,
+  "location": {
+    "name": "Mexico City"
+  },
+  "metadata": [
+    {
+      "id": 22194060,
+      "name": "Position ID",
+      "value": "N/A",
+      "value_type": "short_text"
+    },
+    {
+      "id": 24918,
+      "name": "Department ID",
+      "value": "D41803-Solutions Consulting, Partners",
+      "value_type": "single_select"
+    },
+    {
+      "id": 22194061,
+      "name": "Team",
+      "value": "T10410-Solutions Consulting, Partner Solutions",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4914027,
+      "name": "Region",
+      "value": "North America",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4137836,
+      "name": "Working Model Eligibility",
+      "value": [
+        "3CF-Customer Facing Remote"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 4914029,
+      "name": "Job Level",
+      "value": "IC - Professional",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24109,
+      "name": "Employment Type",
+      "value": "Full-time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 1073551,
+      "name": "Job Type",
+      "value": "Pipeline",
+      "value_type": "single_select"
+    },
+    {
+      "id": 988684,
+      "name": "JD Link",
+      "value": "https://docs.google.com/document/d/1UOmxhcHositEqZbefuHXjDqTQdvC-OMoYGtyeHidKQ4/edit?tab=t.0#heading=h.f22x9b6qvmil",
+      "value_type": "url"
+    },
+    {
+      "id": 5525802,
+      "name": "Baseline Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 5525816,
+      "name": "Other Large Market Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 13324394,
+      "name": "Job Post Range (United States)",
+      "value": {
+        "unit": "USD",
+        "max_value": "0.01",
+        "min_value": "0.01"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 40497768,
+      "name": "Job Post Range (Canada)",
+      "value": {
+        "unit": "USD",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 57694516,
+      "name": "Job Post Range (Poland)",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 64002488,
+      "name": "Job Post Range (Italy)",
+      "value": null,
+      "value_type": "currency_range"
+    }
+  ],
+  "id": 8211994,
+  "updated_at": "2026-09-24T16:26:44-04:00",
+  "requisition_id": "426440",
+  "title": "Senior Partner Solutions Architect",
+  "company_name": "MongoDB",
+  "first_published": "2026-09-21T14:12:20-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;We are looking for a Senior Partner Solutions Architect to lead technical engagement with independent software vendors (ISVs) and strategic technology partners. You will help partners build, embed, deploy, validate, and go to market with MongoDB-based solutions that create repeatable customer value and accelerate MongoDB adoption.&lt;/p&gt;\n&lt;p&gt;This role combines enterprise architecture, partner engineering, technical pre-sales, solution assurance, and go-to-market enablement. You will work across the complete partner lifecycle—from opportunity discovery and business-value alignment through architecture, validation, design wins, launch readiness, and post-launch reuse.&lt;/p&gt;\n&lt;p&gt;You will be successful in this role if you can move fluidly between a partner’s product architecture, a customer’s business problem, MongoDB’s technical capabilities, and the field motion needed to scale the outcome.&lt;/p&gt;\n&lt;p&gt;We&#39;re looking to speak with candidates based in Mexico City for our hybrid working model.&lt;/p&gt;\n&lt;h3&gt;What you will do&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Serve as the senior technical advisor for strategic ISV and technology-partner engagements, including embedded software, SaaS, BYOA/BYO-EA, AI, and agent products&lt;/li&gt;\n&lt;li&gt;Lead technical discovery and architecture reviews that clarify the partner’s workload, adoption path, deployment model, customer segment, success criteria, and MongoDB value proposition&lt;/li&gt;\n&lt;li&gt;Guide partners through a repeatable technical validation and solution-assurance process covering architecture, deployment, security, compliance, performance, scale, resilience, operability, upgrades, support ownership, and lifecycle management&lt;/li&gt;\n&lt;li&gt;Establish evidence-based readiness gates and partner maturity assessments; distinguish clearly between tested, supported, recommended, and go-to-market-approved claims&lt;/li&gt;\n&lt;li&gt;Design reference architectures, integration patterns, sizing guidance, deployment blueprints, quickstarts, demos, troubleshooting guidance, and partner-facing documentation&lt;/li&gt;\n&lt;li&gt;Help partners build MongoDB into shipped products, SaaS platforms, AI applications, agent systems, and customer-managed environments while defining clear ownership boundaries and support handoffs&lt;/li&gt;\n&lt;li&gt;Support MongoDB design wins and technical co-sell motions by partnering with ISV Sales, Partner Sales, field Solution Architects, Product, Marketing, Professional Services, Technical Services, and Partner Programs&lt;/li&gt;\n&lt;li&gt;Create technical “better together” messaging and field-ready enablement that equips partner sellers, MongoDB sellers, and customer-facing architects to position joint solutions consistently&lt;/li&gt;\n&lt;li&gt;Deliver technical workshops, webinars, executive briefings, partner enablement, and customer-facing presentations that turn validated architecture into pipeline and adoption&lt;/li&gt;\n&lt;li&gt;Build scalable operating mechanisms for ISV onboarding, intake, partner classification, evidence collection, gap remediation, conflict management, approval workflows, and post-launch re-assurance&lt;/li&gt;\n&lt;li&gt;Turn individual engagements into reusable assets and operating patterns that improve time to value, partner self-service, field readiness, technical quality, and customer success&lt;/li&gt;\n&lt;li&gt;Represent partner requirements internally, influence product and roadmap decisions, and escalate technical or business dependencies that could affect partner launch timing or customer outcomes&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;What you will learn and work with&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;MongoDB Atlas, MongoDB Enterprise Advanced, Atlas Search, Vector Search, Data Federation, Atlas Stream Processing, connectors, and the broader MongoDB product portfolio&lt;/li&gt;\n&lt;li&gt;Modern application and AI architecture patterns, including microservices, event-driven systems, Kubernetes, serverless, retrieval-augmented generation, agent memory, vector search, MCP, and enterprise search&lt;/li&gt;\n&lt;li&gt;ISV operating models such as multi-tenancy, tenant isolation, BYOA, customer-managed infrastructure, sovereign and on-premises deployment, and partner-operated MongoDB services&lt;/li&gt;\n&lt;li&gt;Technical partner motions spanning cloud providers, OEMs, AI platforms, frameworks, observability providers, and enterprise application ecosystems&lt;/li&gt;\n&lt;li&gt;The disciplines of technical pre-sales, partner strategy, design-win execution, solution assurance, technical GTM, and influence measurement&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;What you bring&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;8+ years of experience in software architecture, software engineering, solutions architecture, technical consulting, or a related field&lt;/li&gt;\n&lt;li&gt;5+ years of experience in technical pre-sales, partner engineering, enterprise architecture, or customer-facing technical leadership&lt;/li&gt;\n&lt;li&gt;Demonstrated experience working directly with ISVs, SaaS companies, OEMs, technology partners, or strategic ecosystem partners&lt;/li&gt;\n&lt;li&gt;Strong understanding of distributed systems, data modeling, databases, APIs, networking, security, observability, high availability, and performance engineering&lt;/li&gt;\n&lt;li&gt;Experience reviewing or designing production architectures for SaaS, embedded software, AI/agent applications, or customer-managed deployments&lt;/li&gt;\n&lt;li&gt;Ability to code or prototype in one or more modern languages such as Python, Java, JavaScript/TypeScript, Go, C#, or SQL&lt;/li&gt;\n&lt;li&gt;Experience with public cloud platforms and/or self-managed environments; Kubernetes, infrastructure as code, identity, OAuth, and cloud-native operations are valuable&lt;/li&gt;\n&lt;li&gt;Ability to translate complex technical concepts into clear architecture decisions, executive-level recommendations, partner messaging, and field enablement&lt;/li&gt;\n&lt;li&gt;Excellent written, verbal, presentation, whiteboarding, facilitation, and stakeholder-management skills&lt;/li&gt;\n&lt;li&gt;Ability to operate independently in ambiguous, cross-functional environments and create structure where partner processes are still evolving&lt;/li&gt;\n&lt;li&gt;Willingness to travel as needed for partner, customer, and field engagements&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Nice to have&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience with MongoDB Atlas, MongoDB Enterprise Advanced, MongoDB Search, Vector Search, or MongoDB partner integrations&lt;/li&gt;\n&lt;li&gt;Experience establishing technical validation, Well-Architected Framework, solution-assurance, certification, or partner self-attestation programs&lt;/li&gt;\n&lt;li&gt;Experience with multi-tenant SaaS architecture, embedded databases, OEM offerings, DBaaS, or sovereign-cloud solutions&lt;/li&gt;\n&lt;li&gt;Experience with AI agents, retrieval, durable memory, model context, MCP, or enterprise search architectures&lt;/li&gt;\n&lt;li&gt;Experience with performance benchmarking, reference implementations, technical workshops, field enablement, or partner launch programs&lt;/li&gt;\n&lt;li&gt;MongoDB certification, cloud-provider certification, or equivalent industry credentials&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;How success will be measured&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Strategic ISV engagements progress through clearly defined discovery, architecture, validation, and launch-readiness stages&lt;/li&gt;\n&lt;li&gt;Partners achieve evidence-backed technical readiness and stronger first-customer outcomes&lt;/li&gt;\n&lt;li&gt;MongoDB design wins, partner-influenced opportunities, and technical co-sell activity increase with reliable attribution&lt;/li&gt;\n&lt;li&gt;Reusable reference architectures, quickstarts, demos, playbooks, and enablement assets are adopted by partners and field teams&lt;/li&gt;\n&lt;li&gt;Partner onboarding and validation become faster, more predictable, and more self-service without compromising technical quality&lt;/li&gt;\n&lt;li&gt;Technical risks, support boundaries, dependencies, and remediation plans are visible and actively managed through the partner lifecycle&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;About MongoDB&lt;/h3&gt;\n&lt;p&gt;MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure.&lt;/p&gt;\n&lt;p&gt;With offices worldwide and over 67,000 customers, including AI-native startups and approximately 75% of the Fortune 100, relying on MongoDB for their most important applications, we’re powering the next era of software.&lt;/p&gt;\n&lt;p&gt;Our compass at MongoDB is our &lt;a href=&quot;https://www.mongodb.com/company&quot;&gt;Leadership Commitment,&lt;/a&gt; guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. &lt;a href=&quot;https://www.mongodb.com/company/blog/culture/employee-benefits-that-make-a-difference-at-mongodb&quot;&gt;From employee affinity groups, to fertility assistance and a generous parental leave policy&lt;/a&gt;, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys.&lt;a href=&quot;https://www.mongodb.com/blog/channel/culture&quot;&gt; Learn more about what it’s like to work at MongoDB&lt;/a&gt;, and help us make an impact on the world!&lt;/p&gt;\n&lt;p&gt;MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.&lt;/p&gt;\n&lt;p&gt;MongoDB is an equal opportunities employer.&lt;/p&gt;\n&lt;p&gt;Req. ID: 426440&lt;/p&gt;",
+  "departments": [
+    {
+      "id": 38870,
+      "name": "Cloud Partners",
+      "child_ids": [],
+      "parent_id": 268135
+    }
+  ],
+  "offices": [
+    {
+      "id": 13025,
+      "name": "Mexico City",
+      "location": "Mexico City, Mexico",
+      "child_ids": [],
+      "parent_id": 23657
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": null
+}

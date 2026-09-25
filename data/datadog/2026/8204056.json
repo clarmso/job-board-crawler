@@ -12,7 +12,7 @@
   ],
   "internal_job_id": 3379256,
   "location": {
-    "name": "Italy, Remote; Portugal, Remote; Spain, Remote"
+    "name": "Italy, Remote; Spain, Remote"
   },
   "metadata": [
     {
@@ -65,7 +65,7 @@
     }
   ],
   "id": 8204056,
-  "updated_at": "2026-09-18T14:57:30-04:00",
+  "updated_at": "2026-09-24T08:23:18-04:00",
   "requisition_id": "R18091",
   "title": " Partner Solutions Architect (EMEA)",
   "company_name": "Datadog",
@@ -83,25 +83,25 @@
   ],
   "offices": [
     {
-      "id": 85005,
-      "name": "Lisbon",
-      "location": null,
+      "id": 76732,
+      "name": "Remote - France",
+      "location": "France",
+      "child_ids": [],
+      "parent_id": 78094
+    },
+    {
+      "id": 76793,
+      "name": "Remote - Portugal",
+      "location": "Portugal",
       "child_ids": [],
       "parent_id": 78106
     },
     {
-      "id": 74767,
-      "name": "Madrid",
-      "location": "Madrid, Madrid, Spain",
+      "id": 76755,
+      "name": "Remote - Spain",
+      "location": "Spain",
       "child_ids": [],
       "parent_id": 74766
-    },
-    {
-      "id": 8604,
-      "name": "Paris",
-      "location": "Paris, Paris, France",
-      "child_ids": [],
-      "parent_id": 78094
     }
   ],
   "ai_disclaimer": null,

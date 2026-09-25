@@ -1,0 +1,103 @@
+{
+  "id": "744000151714239",
+  "name": "Pricing Operations Senior Analyst",
+  "uuid": "33d2113c-6862-44b1-a3ba-ab456824e852",
+  "jobAdId": "49e3ad32-2721-479e-8aa9-d82bc7a45273",
+  "defaultJobAd": true,
+  "refNumber": "JB0075598",
+  "company": {
+    "identifier": "ServiceNow",
+    "name": "ServiceNow"
+  },
+  "releasedDate": "2026-09-24T22:29:09.387Z",
+  "location": {
+    "city": "San Francisco de Heredia",
+    "region": "Heredia",
+    "country": "cr",
+    "address": "America Free Zone, 600 Norte de Plaza",
+    "postalCode": "40101",
+    "remote": true,
+    "hybrid": false,
+    "fullLocation": "San Francisco de Heredia, Heredia, Costa Rica"
+  },
+  "industry": {
+    "id": "it_and_services",
+    "label": "Information Technology And Services"
+  },
+  "department": {},
+  "function": {
+    "id": "marketing",
+    "label": "Marketing"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "not_applicable",
+    "label": "Not Applicable"
+  },
+  "customField": [
+    {
+      "fieldId": "60345fa28b4ba8595bef1863",
+      "fieldLabel": "Recruiting Team",
+      "valueId": "professional",
+      "valueLabel": "Professional"
+    },
+    {
+      "fieldId": "60345d5c5165a31b17288279",
+      "fieldLabel": "Region",
+      "valueId": "c07e4bb2ef75103f5710e95052af2b21",
+      "valueLabel": "LATAM - Latin America"
+    },
+    {
+      "fieldId": "6034601b43915a29a4b3389b",
+      "fieldLabel": "Job Location",
+      "valueId": "L_RT_CRI",
+      "valueLabel": "Remote, Costa Rica (FTE Only)(L_RT_CRI)"
+    },
+    {
+      "fieldId": "60345e1a0b24a127cbdfa148",
+      "fieldLabel": "Employee Type",
+      "valueId": "0082f6cbe6154da19322cbab1f6aa5af",
+      "valueLabel": "Regular"
+    },
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "cr",
+      "valueLabel": "Costa Rica"
+    },
+    {
+      "fieldId": "5f63a78f1dae5c5c4e54ba2a",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "ServiceNow"
+    },
+    {
+      "fieldId": "603462175165a31b1728827d",
+      "fieldLabel": "Cost Center",
+      "valueId": "CC3145",
+      "valueLabel": "3145 Pricing Strategy"
+    },
+    {
+      "fieldId": "618ed92b8f5e5f110e5bfb95",
+      "fieldLabel": "Work Persona",
+      "valueId": "5530c877-6b63-4bf5-bde8-215ef35bf172",
+      "valueLabel": "Flexible or Remote"
+    },
+    {
+      "fieldId": "690cc0e8c682c3dbadaa7d73",
+      "fieldLabel": "Job Posting Type",
+      "valueId": "professional",
+      "valueLabel": "Professional"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/ServiceNow/postings/744000151714239",
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

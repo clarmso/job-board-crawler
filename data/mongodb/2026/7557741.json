@@ -74,11 +74,7 @@
     {
       "id": 5525802,
       "name": "Baseline Budgeted Salary",
-      "value": {
-        "unit": "USD",
-        "max_value": "120000.0",
-        "min_value": "84000.0"
-      },
+      "value": null,
       "value_type": "currency_range"
     },
     {
@@ -125,7 +121,7 @@
     }
   ],
   "id": 7557741,
-  "updated_at": "2026-09-16T13:28:52-04:00",
+  "updated_at": "2026-09-24T16:26:44-04:00",
   "requisition_id": "4263344089",
   "title": "Senior Revenue Analyst, Technical Revenue",
   "company_name": "MongoDB",

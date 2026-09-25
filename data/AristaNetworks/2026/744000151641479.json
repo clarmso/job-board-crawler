@@ -1,0 +1,79 @@
+{
+  "id": "744000151641479",
+  "name": "Major Account Manager, Malaysia",
+  "uuid": "e5379827-7009-49a3-9d8a-381804231d0b",
+  "jobAdId": "2f3386e3-94d6-4c49-b8a5-526613146ca8",
+  "defaultJobAd": true,
+  "refNumber": "REF3761D",
+  "company": {
+    "identifier": "AristaNetworks",
+    "name": "Arista Networks"
+  },
+  "releasedDate": "2026-09-24T14:45:03.168Z",
+  "location": {
+    "city": "Kuala Lumpur",
+    "region": "Federal Territory of Kuala Lumpur",
+    "country": "my",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "3.1499222",
+    "longitude": "101.6944619",
+    "fullLocation": "Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia"
+  },
+  "industry": {
+    "id": "computer_networking",
+    "label": "Computer Networking"
+  },
+  "department": {
+    "id": "1392052",
+    "label": "Sales"
+  },
+  "function": {
+    "id": "sales",
+    "label": "Sales"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "my",
+      "valueLabel": "Malaysia"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e1",
+      "fieldLabel": "Department",
+      "valueId": "1392052",
+      "valueLabel": "Sales"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e0",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Arista Networks"
+    },
+    {
+      "fieldId": "62a7845974fe2c08874d5452",
+      "fieldLabel": "Role",
+      "valueId": "4e150511-63af-4e42-850a-47ad805607cc",
+      "valueLabel": "Senior"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000151641479",
+  "creator": {
+    "name": "Albee Nyein"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

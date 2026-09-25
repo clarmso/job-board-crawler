@@ -65,15 +65,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "f8a3317b-299b-4183-b1fe-587588a2cf0e",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "34d60dba-6a0f-4987-8e9a-7aab5d906c8c",
             "summary": "EU Salary Range €183.4K – €262K",
             "compensationType": "Salary",
@@ -90,24 +81,33 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "f8a3317b-299b-4183-b1fe-587588a2cf0e",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           }
         ]
       }
     ],
     "summaryComponents": [
       {
-        "compensationType": "EquityPercentage",
-        "interval": "NONE",
-        "currencyCode": null,
-        "minValue": null,
-        "maxValue": null
-      },
-      {
         "compensationType": "Salary",
         "interval": "1 YEAR",
         "currencyCode": "EUR",
         "minValue": 183400,
         "maxValue": 262000
+      },
+      {
+        "compensationType": "EquityPercentage",
+        "interval": "NONE",
+        "currencyCode": null,
+        "minValue": null,
+        "maxValue": null
       },
       {
         "compensationType": "EquityPercentage",

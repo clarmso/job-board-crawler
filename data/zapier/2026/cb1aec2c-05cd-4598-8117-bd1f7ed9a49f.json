@@ -68,6 +68,15 @@
         "additionalInformation": null,
         "components": [
           {
+            "id": "9a607beb-a155-4fe5-a9fa-ca3bfeb9ec56",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
+          },
+          {
             "id": "08572961-caf5-43cd-ab1a-3c784d10af62",
             "summary": "Offers Bonus",
             "compensationType": "Bonus",
@@ -84,15 +93,6 @@
             "currencyCode": "CAD",
             "minValue": 158300,
             "maxValue": 237500
-          },
-          {
-            "id": "9a607beb-a155-4fe5-a9fa-ca3bfeb9ec56",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
           }
         ]
       }

@@ -112,13 +112,13 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "acc21bcd-a87f-458a-9e9d-d01185891c3d",
-            "summary": "$270,000 – $382,500",
-            "compensationType": "Salary",
+            "id": "06266d9f-958d-45f8-99a9-f9c3edb98b19",
+            "summary": "Offers Commission",
+            "compensationType": "Commission",
             "interval": "1 YEAR",
             "currencyCode": "USD",
-            "minValue": 270000,
-            "maxValue": 382500
+            "minValue": null,
+            "maxValue": null
           },
           {
             "id": "2a4b4923-05f6-4b63-8dad-03d2b51d90a8",
@@ -130,13 +130,13 @@
             "maxValue": null
           },
           {
-            "id": "06266d9f-958d-45f8-99a9-f9c3edb98b19",
-            "summary": "Offers Commission",
-            "compensationType": "Commission",
+            "id": "acc21bcd-a87f-458a-9e9d-d01185891c3d",
+            "summary": "$270,000 – $382,500",
+            "compensationType": "Salary",
             "interval": "1 YEAR",
             "currencyCode": "USD",
-            "minValue": null,
-            "maxValue": null
+            "minValue": 270000,
+            "maxValue": 382500
           }
         ]
       }

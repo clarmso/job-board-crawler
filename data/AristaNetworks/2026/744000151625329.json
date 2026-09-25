@@ -1,0 +1,79 @@
+{
+  "id": "744000151625329",
+  "name": "Federal Major Account Manager (Civilian)",
+  "uuid": "f548a9d1-4eed-4299-b2d6-e480128ffe52",
+  "jobAdId": "717ed3a5-0a17-4914-aa37-947b725537e3",
+  "defaultJobAd": true,
+  "refNumber": "REF3295D",
+  "company": {
+    "identifier": "AristaNetworks",
+    "name": "Arista Networks"
+  },
+  "releasedDate": "2026-09-24T13:47:30.425Z",
+  "location": {
+    "city": "Washington",
+    "region": "DC",
+    "country": "us",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "38.9072873",
+    "longitude": "-77.0369274",
+    "fullLocation": "Washington, DC, United States"
+  },
+  "industry": {
+    "id": "computer_networking",
+    "label": "Computer Networking"
+  },
+  "department": {
+    "id": "1392052",
+    "label": "Sales"
+  },
+  "function": {
+    "id": "sales",
+    "label": "Sales"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "us",
+      "valueLabel": "United States"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e1",
+      "fieldLabel": "Department",
+      "valueId": "1392052",
+      "valueLabel": "Sales"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e0",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Arista Networks"
+    },
+    {
+      "fieldId": "62a7845974fe2c08874d5452",
+      "fieldLabel": "Role",
+      "valueId": "4e150511-63af-4e42-850a-47ad805607cc",
+      "valueLabel": "Senior"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000151625329",
+  "creator": {
+    "name": "Todd Cich"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

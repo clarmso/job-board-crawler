@@ -1,0 +1,73 @@
+{
+  "id": "744000151659973",
+  "name": "Hardware Intern ",
+  "uuid": "32059c28-93b7-4466-acad-4d9e0c6a7d41",
+  "jobAdId": "99ddd167-78c4-4eea-90ca-2fc5dd00d2ae",
+  "defaultJobAd": true,
+  "refNumber": "REF2993Z",
+  "company": {
+    "identifier": "AristaNetworks",
+    "name": "Arista Networks"
+  },
+  "releasedDate": "2026-09-24T16:02:48.813Z",
+  "location": {
+    "city": "Nashua",
+    "region": "NH",
+    "country": "us",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "42.7581256",
+    "longitude": "-71.46517469999999",
+    "fullLocation": "Nashua, NH, United States"
+  },
+  "industry": {
+    "id": "computer_networking",
+    "label": "Computer Networking"
+  },
+  "department": {
+    "id": "1650435",
+    "label": "Hardware Engineering"
+  },
+  "function": {
+    "id": "information_technology",
+    "label": "Information Technology"
+  },
+  "typeOfEmployment": {
+    "id": "intern",
+    "label": "Intern"
+  },
+  "experienceLevel": {
+    "id": "internship",
+    "label": "Internship"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "us",
+      "valueLabel": "United States"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e1",
+      "fieldLabel": "Department",
+      "valueId": "1650435",
+      "valueLabel": "Hardware Engineering"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e0",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Arista Networks"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000151659973",
+  "creator": {
+    "name": "Afifa Abbasi"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}
