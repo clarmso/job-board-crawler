@@ -24,6 +24,13 @@ from datetime import datetime, timezone
 DATA_DIR = "data"
 COMPANIES_CSV = "companies.csv"
 
+# Per-company snapshot of job IDs currently live on the ATS, written by
+# crawl.py on every run (see src/crawl.OPEN_JOBS_STATE_DIR). data/ itself is
+# an append-only historical archive — job files are kept even after a
+# posting closes — so this state is what lets the counts below reflect
+# today's actual number of open roles instead of every posting ever seen.
+OPEN_JOBS_STATE_DIR = os.path.join("state", "open_jobs")
+
 # Platforms crawl.py knows how to fetch (kept in sync with src/crawl.PLATFORMS).
 SUPPORTED_PLATFORMS = {
     "greenhouse", "lever", "ashby", "workable", "recruitee",
@@ -257,8 +264,24 @@ def _is_canada_job(platform, job):
     return False
 
 
+def _load_open_ids(slug):
+    """Return the set of job IDs currently live for `slug`, or None if no
+    state has been recorded yet (e.g. before the first crawl.py run that
+    includes this feature) — callers should fall back to counting every
+    file in that case rather than reporting zero open jobs."""
+    path = os.path.join(OPEN_JOBS_STATE_DIR, f"{slug}.json")
+    try:
+        with open(path) as f:
+            return set(json.load(f).get("open_ids", []))
+    except (OSError, json.JSONDecodeError):
+        return None
+
+
 def _scan_company_jobs(slug, platform):
-    """Single pass over a company's crawled job files.
+    """Single pass over a company's crawled job files, counting only the
+    ones still live on the ATS (see _load_open_ids) — data/ keeps every
+    posting ever seen for historical analysis, but the counts here should
+    reflect today's actual number of open roles.
 
     Returns (sample_company_name, job_count, canada_job_count, remote_job_count).
     """
@@ -266,11 +289,17 @@ def _scan_company_jobs(slug, platform):
     if not os.path.isdir(path):
         return None, 0, 0, 0
 
+    open_ids = _load_open_ids(slug)
+
     sample_name = None
     job_count = 0
     canada_job_count = 0
     remote_job_count = 0
     for match in glob.glob(os.path.join(path, "**", "*.json"), recursive=True):
+        job_id = os.path.splitext(os.path.basename(match))[0]
+        if open_ids is not None and job_id not in open_ids:
+            continue
+
         try:
             with open(match) as f:
                 job = json.load(f)
