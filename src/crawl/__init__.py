@@ -9,6 +9,13 @@ from enum import Enum
 
 from src.http import fetch_html, fetch_json
 
+# Where each crawl run records the set of job IDs that are *currently* live
+# on the ATS. data/<company>/ is an append-only historical archive (job
+# files are never deleted, even once a posting closes, so past postings can
+# still be analyzed), so it can't be used on its own to answer "how many
+# openings does this company have right now?" — this state directory can.
+OPEN_JOBS_STATE_DIR = os.path.join("state", "open_jobs")
+
 
 class DateFormat(Enum):
     ISO = "iso"
@@ -196,4 +203,26 @@ def crawl(platform, company, output_dir):
                 updated += 1
 
     print(f"  New: {saved}, Updated: {updated}")
+
+    _write_open_jobs_state(company, (str(job[id_field]) for job in jobs))
+
     return len(jobs)
+
+
+def _write_open_jobs_state(company, job_ids):
+    """Record the job IDs currently live for `company`, overwriting any
+    previous state. This lets downstream reporting (e.g. companies.html)
+    show today's actual open-role count without pruning data/, which stays
+    a full historical archive of every posting ever seen."""
+    os.makedirs(OPEN_JOBS_STATE_DIR, exist_ok=True)
+    path = os.path.join(OPEN_JOBS_STATE_DIR, f"{company}.json")
+    with open(path, "w") as f:
+        json.dump(
+            {
+                "open_ids": sorted(set(job_ids)),
+                "updated_at": datetime.now().isoformat(timespec="seconds"),
+            },
+            f,
+            indent=2,
+        )
+        f.write("\n")
