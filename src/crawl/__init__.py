@@ -80,6 +80,23 @@ PLATFORMS = {
         "date_field": "createdOn",
         "date_format": DateFormat.ISO,
     },
+    "breezy": {
+        "url": "https://{}.breezy.hr/json",
+        "jobs_key": None,
+        "id_field": "id",
+        "date_field": "published_date",
+        "date_format": DateFormat.ISO,
+    },
+    "bamboohr": {
+        "url": "https://{}.bamboohr.com/careers/list",
+        "jobs_key": "result",
+        # The BambooHR list endpoint doesn't include a posting date, so
+        # date_field always misses and crawl() falls back to filing jobs
+        # under the current year.
+        "id_field": "id",
+        "date_field": "postedDate",
+        "date_format": DateFormat.ISO,
+    },
 }
 
 

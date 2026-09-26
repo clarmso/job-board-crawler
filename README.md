@@ -12,6 +12,8 @@ This repo queries the job boards of selected companies and saves the job posting
 * [SmartRecruiters](https://api.smartrecruiters.com) — JSON API, paginated; job descriptions require per-posting fetch
 * [Rippling](https://ats.rippling.com) — Next.js SSR; job list scraped from HTML, full job data extracted from `__NEXT_DATA__` on each posting page
 * [Gem](https://api.gem.com) — JSON API, flat array response; includes HTML and plain-text job descriptions
+* [Breezy HR](https://breezy.hr) — JSON API at `<company>.breezy.hr/json`, flat array response
+* [BambooHR](https://bamboohr.com) — JSON API at `<company>.bamboohr.com/careers/list`; no posting date field, so jobs are filed under the current year
 
 ### Sources
 
