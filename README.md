@@ -14,6 +14,8 @@ This repo queries the job boards of selected companies and saves the job posting
 * [Gem](https://api.gem.com) — JSON API, flat array response; includes HTML and plain-text job descriptions
 * [Breezy HR](https://breezy.hr) — JSON API at `<company>.breezy.hr/json`, flat array response
 * [BambooHR](https://bamboohr.com) — JSON API at `<company>.bamboohr.com/careers/list`; no posting date field, so jobs are filed under the current year
+* [Personio](https://personio.com) — XML feed at `<company>.jobs.personio.de/xml`
+* [Trakstar](https://trakstar.com) (formerly Recruiterbox) — RSS/XML feed at `<company>.hire.trakstar.com/jobfeeds/<company>`
 
 ### Sources
 

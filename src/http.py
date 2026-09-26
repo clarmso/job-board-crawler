@@ -64,3 +64,8 @@ def fetch_json(url):
 def fetch_html(url):
     with _fetch(url) as resp:
         return resp.read().decode()
+
+
+def fetch_xml(url):
+    with _fetch(url) as resp:
+        return resp.read().decode()
