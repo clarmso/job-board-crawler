@@ -1510,12 +1510,10 @@ stickermule,custom,https://www.stickermule.com/careers,custom careers site - no 
 amazon,custom,https://www.amazon.jobs/en/,"Amazon's own ATS, not supported",US
 loblaw,custom,https://careers.loblaw.ca/,custom careers site; stale Workday URL 404,Canada
 meta,custom,https://www.metacareers.com/jobsearch/,"Meta's own ATS, not supported",US
-sophos,custom,https://www.sophos.com/en-us/company/careers,custom careers site - no supported ATS found,UK
 clipboardhealth,custom,https://www.clipboardworks.com/careers,rebranded/redirected to Clipboard Works; no supported ATS found,US
 usertesting,workday,https://usertesting.wd12.myworkdayjobs.com/UserTesting,workday - unsupported ATS,US
 splunk,phenom,https://careers.cisco.com/global/en/splunk,phenompeople - unsupported ATS,US
 pingidentity,custom,https://www.pingidentity.com/en/company/careers.html,custom careers site - no supported ATS found,US
-rideco,trakstar,https://rideco.hire.trakstar.com/,trakstar hire - unsupported ATS,Canada
 generac,eightfold,https://careers.generac.com/en/brands/ecobee/,"formerly listed as ecobee (acquired by Generac Dec 2021); Generac careers site confirmed via CNAME to happydance.website (Eightfold.ai), unsupported ATS",Canada
 snapcommerce,custom,https://www.super.com/careers,rebranded to Super.com; custom careers site,Canada
 evisort,custom,https://www.workday.com/en-us/products/contract-management/overview.html,acquired by Workday; no dedicated Evisort careers page,US
@@ -1600,7 +1598,6 @@ fliplet,custom,https://careers.fliplet.com/#jobs,"found via HN Who's Hiring Aug 
 flow-traders,custom,https://lnkd.in/dWhh_m28,"found via HN Who's Hiring Aug 2026 (item 49156683); ats/career_page unconfirmed, needs manual review",
 foxglove,custom,https://foxglove.dev/,"found via HN Who's Hiring Aug 2026 (item 49156683); ats/career_page unconfirmed, needs manual review",
 freeform-http-freeform-co,custom,http://freeform.co,"found via HN Who's Hiring Aug 2026 (item 49156683); ats/career_page unconfirmed, needs manual review",
-friendly-captcha,personio,,"found via HN Who's Hiring Aug 2026 (item 49156683); ATS slug 'friendlycaptcha' guessed from job post link, not supported by this crawler yet",
 funnelstory,custom,https://funnelstory.ai,"found via HN Who's Hiring Aug 2026 (item 49156683); ats/career_page unconfirmed, needs manual review",
 furtim-modus,custom,https://www.furtimmodus.com/software-engineer,"found via HN Who's Hiring Aug 2026 (item 49156683); ats/career_page unconfirmed, needs manual review",
 fusionauth,custom,https://fusionauth.io/careers,"found via HN Who's Hiring Aug 2026 (item 49156683); ats/career_page unconfirmed, needs manual review",
@@ -2829,7 +2826,6 @@ hp,,https://jobs.hp.com/,,US
 huawei,recruitee,https://huaweicanada.recruitee.com/,,China
 hubba,smartrecruiters,https://careers.smartrecruiters.com/hubba,, 
 hubhaus,smartrecruiters,https://careers.smartrecruiters.com/hubhaus,, 
-hubilo,,https://hubilo.hire.trakstar.com/,,US
 hubspot,greenhouse,https://www.hubspot.com/careers,,US
 huffpo,,https://www.huffpost.com/static/jobs,,US
 hulu,,https://www.disneycareers.com/en/teams/hulu/,,US
@@ -3513,7 +3509,6 @@ perkbox,,https://perkboxvivup.teamtailor.com/,,GB
 perkspot,,https://www.perkspot.com/careers/,,US
 personalis,greenhouse,https://www.personalis.com/careers/,,United States
 personetics,,https://personetics.com/careers/,,IL
-personio,,https://www.personio.com/about-us/careers/,,Germany
 perx-health,smartrecruiters,https://careers.smartrecruiters.com/perx-health,, 
 pesto,ashby,https://jobs.ashbyhq.com/pesto,, 
 petal,ashby,https://tilt.com/careers,, 
@@ -3874,7 +3869,6 @@ smarsh,,https://www.smarsh.com/company/careers/,,United States
 smartnews,workable,https://apply.workable.com/smartnews/,,
 smartsheet,greenhouse,https://www.smartsheet.com/careers,,United States
 smashing,,https://www.smashingmagazine.com/jobs/,,Germany
-smava,,https://smava.jobs.personio.de/,,Germany
 smiledirectclub,smartrecruiters,https://careers.smartrecruiters.com/smiledirectclub,,United States
 snagajob,,https://www.snagajob.com/about/careers,,United States
 snap,greenhouse,https://careers.snap.com/jobs,,United States
@@ -4413,7 +4407,7 @@ zepto,,https://careers.zeptonow.com/,,India
 zepz,greenhouse,https://www.zepz.com/careers,,United Kingdom
 zerto,,https://careers.hpe.com/us/en/search-results?keywords=Zerto,,Israel
 zest-ai,greenhouse,https://www.zest.ai/careers,,United States
-zestmoney,,https://zestmoney.hire.trakstar.com/,,India
+zestmoney,,https://zestmoney.hire.trakstar.com/,trakstar feed 404s (ZestMoney reportedly shut down 2024),India
 zeus-living,greenhouse,https://www.zeusliving.com/careers,,United States
 zhihu,,https://app.mokahr.com/social-recruitment/zhihu,,China
 zilch,ashby,https://jobs.ashbyhq.com/zilch,,UK
