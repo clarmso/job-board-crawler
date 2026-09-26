@@ -429,7 +429,6 @@ amo,ashby,,,
 amperos,ashby,,,
 antithesis,ashby,,,
 aptura,ashby,,,
-ashby,ashby,,,
 atomic-financial,ashby,,,
 aureliussystems,ashby,,,
 Authorium,ashby,,,
@@ -954,7 +953,6 @@ expo,smartrecruiters,,,
 rippling,smartrecruiters,,,
 buypower,smartrecruiters,,,
 alemhealth,smartrecruiters,,,
-gem,smartrecruiters,,,
 nimble,smartrecruiters,,,
 slite,smartrecruiters,,,
 shogun,smartrecruiters,,,
@@ -1515,7 +1513,6 @@ pingidentity,custom,https://www.pingidentity.com/en/company/careers.html,custom 
 generac,eightfold,https://careers.generac.com/en/brands/ecobee/,"formerly listed as ecobee (acquired by Generac Dec 2021); Generac careers site confirmed via CNAME to happydance.website (Eightfold.ai), unsupported ATS",Canada
 snapcommerce,custom,https://www.super.com/careers,rebranded to Super.com; custom careers site,Canada
 evisort,custom,https://www.workday.com/en-us/products/contract-management/overview.html,acquired by Workday; no dedicated Evisort careers page,US
-bungalow,breezy,https://bungalow.breezy.hr/,breezyhr - unsupported ATS,US
 google,custom,https://careers.google.com/jobs/results/,"Google's own ATS, not supported",Canada
 havenenglish,greenhouse,,,Canada
 siei,greenhouse,,,Japan
@@ -2580,7 +2577,6 @@ fisker,smartrecruiters,https://careers.smartrecruiters.com/fisker,,
 fission,smartrecruiters,https://careers.smartrecruiters.com/fission,, 
 fit-analytics,smartrecruiters,https://careers.smartrecruiters.com/fit-analytics,, 
 fittr,smartrecruiters,https://careers.smartrecruiters.com/fittr,, 
-fiverr,smartrecruiters,https://careers.smartrecruiters.com/fiverr,, 
 flash-coffee,smartrecruiters,https://careers.smartrecruiters.com/flash-coffee,, 
 flatiron-health,smartrecruiters,https://careers.smartrecruiters.com/flatiron-health,, 
 flatiron-school,rippling,https://flatironschool.com/careers,,US
@@ -2714,8 +2710,7 @@ goodgood,smartrecruiters,https://careers.smartrecruiters.com/goodgood,,
 goodrx,smartrecruiters,https://careers.smartrecruiters.com/goodrx,, 
 goodworker,smartrecruiters,https://careers.smartrecruiters.com/goodworker,, 
 goop,greenhouse,https://job-boards.greenhouse.io/goop,, 
-gopro,greenhouse,https://jobs.gopro.com/en/us,,US
-gopuff,lever,https://jobs.lever.co/gopuff,, 
+gopro,,https://jobs.gopro.com/en/us,greenhouse slug 404s; unconfirmed real ATS,US
 gorillas,smartrecruiters,https://careers.smartrecruiters.com/gorillas,, 
 gospotcheck,smartrecruiters,https://careers.smartrecruiters.com/gospotcheck,, 
 gostudent,greenhouse,https://job-boards.greenhouse.io/gostudent,, 
@@ -2754,7 +2749,6 @@ gupshup,,https://www.gupshup.ai/careers,,US
 gupy,smartrecruiters,https://careers.smartrecruiters.com/gupy,, 
 gympass,greenhouse,https://wellhub.com/careers/,,US
 hackerearth,smartrecruiters,https://careers.smartrecruiters.com/hackerearth,, 
-hackerone,ashby,https://www.hackerone.com/careers,,US
 hailo,,https://hailo.ai/company-overview/careers/,,Israel
 halcyon-health,greenhouse,https://www.halcyon.ai/careers,,US
 halodoc,,https://www.halodoc.com/career,,Indonesia
@@ -2895,7 +2889,6 @@ insider-intelligence,greenhouse,https://job-boards.greenhouse.io/insider,,
 insightec,smartrecruiters,https://careers.smartrecruiters.com/insightec,, 
 inspectify,smartrecruiters,https://careers.smartrecruiters.com/inspectify,, 
 inspirato,smartrecruiters,https://careers.smartrecruiters.com/inspirato,, 
-instacart,greenhouse,https://instacart.careers/current-openings/,,United States
 instagram,,https://www.metacareers.com/teams/instagram/,,United States
 instamojo,smartrecruiters,https://careers.smartrecruiters.com/instamojo,, 
 instructure,ashby,https://jobs.ashbyhq.com/instructure,,US
@@ -2970,7 +2963,6 @@ kape,smartrecruiters,https://careers.smartrecruiters.com/kape,,
 kape-technologies,smartrecruiters,https://careers.smartrecruiters.com/kape-technologies,, 
 kapten-free-now,smartrecruiters,https://careers.smartrecruiters.com/kapten-free-now,, 
 karakuki,smartrecruiters,https://careers.smartrecruiters.com/karakuki,, 
-karat,greenhouse,https://job-boards.greenhouse.io/karat,,US
 karat-financial,greenhouse,https://job-boards.greenhouse.io/karat,, 
 karbon,greenhouse,https://job-boards.greenhouse.io/karbon,,US
 karhoo,smartrecruiters,https://careers.smartrecruiters.com/karhoo,, 
@@ -3147,7 +3139,7 @@ made-com,smartrecruiters,https://careers.smartrecruiters.com/made-com,,
 madefire,smartrecruiters,https://careers.smartrecruiters.com/madefire,, 
 madeiramadeira,smartrecruiters,https://careers.smartrecruiters.com/madeiramadeira,, 
 magic-eden,ashby,https://jobs.ashbyhq.com/magiceden,,US
-magic-leap,greenhouse,https://www.magicleap.careers/careers,,US
+magic-leap,,https://www.magicleap.careers/careers,greenhouse slug 404s; unconfirmed real ATS,US
 magicbricks,smartrecruiters,https://careers.smartrecruiters.com/magicbricks,, 
 magnite,smartrecruiters,https://careers.smartrecruiters.com/magnite,, 
 mainstreet,smartrecruiters,https://careers.smartrecruiters.com/mainstreet,, 
@@ -3170,7 +3162,6 @@ markforged,greenhouse,https://boards.greenhouse.io/markforged,,US
 marqeta,greenhouse,https://boards.greenhouse.io/marqeta,,US
 marvell,smartrecruiters,https://careers.smartrecruiters.com/marvell,, 
 masse,smartrecruiters,https://careers.smartrecruiters.com/masse,, 
-masterclass,greenhouse,https://www.masterclass.com/careers,,US
 match-group,lever,https://jobs.lever.co/matchgroup,,US
 matrixport,smartrecruiters,https://careers.smartrecruiters.com/matrixport,, 
 matter-labs,ashby,https://jobs.ashbyhq.com/matter-labs,,Germany
@@ -3314,7 +3305,6 @@ nerdy,greenhouse,https://www.nerdy.com/careers,,United States
 nestcoin,,https://nestcoin.com/careers,,Nigeria
 netapp,,https://www.netapp.com/company/careers/,,United States
 netease,greenhouse,https://careers.163.com/,,China
-netlify,greenhouse,https://boards.greenhouse.io/netlify,,United States
 neuropixel-ai,smartrecruiters,https://careers.smartrecruiters.com/neuropixel-ai,, 
 nevro,,https://www.nevro.com/English/careers/default.aspx,,United States
 new-relic,greenhouse,https://newrelic.com/about/careers,,United States
@@ -4073,7 +4063,6 @@ thinx,smartrecruiters,https://careers.smartrecruiters.com/thinx,,United States
 thirdlove,greenhouse,https://www.thirdlove.com/pages/careers,,US
 thirty-madison,greenhouse,https://job-boards.greenhouse.io/thirtymadison/jobs/7883819002,,US
 thoughtspot,smartrecruiters,https://careers.smartrecruiters.com/thoughtspot,,United States
-thoughtworks,greenhouse,https://job-boards.greenhouse.io/thoughtworks,,United States
 thrasio,smartrecruiters,https://careers.smartrecruiters.com/thrasio,,United States
 thread,smartrecruiters,https://careers.smartrecruiters.com/thread,,United Kingdom
 thredup,greenhouse,https://www.levels.fyi/jobs,,United States
@@ -4145,7 +4134,6 @@ tripbam,smartrecruiters,https://careers.smartrecruiters.com/tripbam,,United Stat
 triplebyte,smartrecruiters,https://careers.smartrecruiters.com/triplebyte,,United States
 triplelift,greenhouse,https://triplelift.com/careers/,,US
 tripwire,workable,https://apply.workable.com/tripwire,,United States
-trivago,greenhouse,https://careers.trivago.com/apply/?gh_jid=4431832002&gh_src=fca99a7d2,,Germany
 tropic,gem,https://jobs.gem.com/tropic,,US
 trove-recommerce,greenhouse,https://job-boards.greenhouse.io/trove/jobs/8564826002,,US
 truck-it-in,smartrecruiters,https://careers.smartrecruiters.com/truck-it-in,,Pakistan
@@ -4155,7 +4143,6 @@ truecaller,greenhouse,https://job-boards.greenhouse.io/truecaller,,Sweden
 truecar,greenhouse,https://www.truecar.com/careers/,,US
 truelayer,workable,https://apply.workable.com/truelayer/,,UK
 truepill,greenhouse,https://job-boards.greenhouse.io/truepill,,US
-truiloo,ashby,https://joinrise.co/trulioo,,Canada
 truss-works,smartrecruiters,https://careers.smartrecruiters.com/truss-works,,United States
 trustly,lever,https://jobs.lever.co/trustly/,,Sweden
 trybe,workable,https://apply.workable.com/trybe-2/,,
@@ -4178,13 +4165,12 @@ typeform,greenhouse,https://www.typeform.com/careers,,Spain
 tytocare,smartrecruiters,https://careers.smartrecruiters.com/tytocare,,Israel
 tzero,smartrecruiters,https://careers.smartrecruiters.com/tzero,,United States
 ual,workable,https://apply.workable.com/ual,,United Kingdom
-uber,workable,https://apply.workable.com/uber,,United States
+uber,,https://apply.workable.com/uber,"workable slug 'uber' resolves to an unrelated small company (""Über - Current Openings""), not Uber the rideshare company; unconfirmed real ATS",United States
 uber-freight,greenhouse,https://www.uberfreight.com/en-US/careers,,US
-uberflip,lever,https://jobs.lever.co/uberflip,,Canada
+uberflip,,https://jobs.lever.co/uberflip,lever slug: public board page itself 404s despite API returning 200 []; not a real account,Canada
 udaan,smartrecruiters,https://careers.smartrecruiters.com/udaan,,India
 udacity,greenhouse,https://job-boards.greenhouse.io/udacity,,US
 udayy,smartrecruiters,https://careers.smartrecruiters.com/udayy,,India
-udemy,greenhouse,https://job-boards.greenhouse.io/udemy,,US
 uipath,ashby,https://jobs.ashbyhq.com/uipath,,US
 ukg,smartrecruiters,https://careers.smartrecruiters.com/ukg,,United States
 ula,smartrecruiters,https://careers.smartrecruiters.com/ula,,United States
@@ -4207,7 +4193,6 @@ upscalio,smartrecruiters,https://careers.smartrecruiters.com/upscalio,,India
 upshow,smartrecruiters,https://careers.smartrecruiters.com/upshow,,United States
 upside-foods,smartrecruiters,https://careers.smartrecruiters.com/upside-foods,,United States
 upstart,greenhouse,https://job-boards.greenhouse.io/upstart,,US
-upwork,greenhouse,https://job-boards.greenhouse.io/upwork,,US
 urban-sports-club,greenhouse,https://culture.urbansportsclub.com/en/jobs,,Germany
 ursa-major,smartrecruiters,https://careers.smartrecruiters.com/ursa-major,,United States
 usermind,smartrecruiters,https://careers.smartrecruiters.com/usermind,,United States
@@ -4308,7 +4293,6 @@ western-digital,smartrecruiters,https://www.westerndigital.com/careers,,US
 westwing,smartrecruiters,https://careers.smartrecruiters.com/westwing,,Germany
 wetrade,smartrecruiters,https://careers.smartrecruiters.com/wetrade,,Singapore
 wetransfer,smartrecruiters,https://careers.smartrecruiters.com/wetransfer,,Netherlands
-wework,smartrecruiters,https://careers.smartrecruiters.com/wework,,United States
 wex,smartrecruiters,https://careers.smartrecruiters.com/wex,,United States
 whatfix,smartrecruiters,https://careers.smartrecruiters.com/whatfix,,United States
 wheel,ashby,https://www.wheel.com/careers/,,US
@@ -4325,7 +4309,6 @@ willowtree,greenhouse,https://job-boards.greenhouse.io/willowtree,,US
 windsurf,ashby,https://jobs.ashbyhq.com/cognition,,US
 wing-cloud,smartrecruiters,https://careers.smartrecruiters.com/wing-cloud,,United States
 wint-wealth,smartrecruiters,https://careers.smartrecruiters.com/wint-wealth,,India
-wise,smartrecruiters,https://wise.jobs/,,UK
 wisense,smartrecruiters,https://careers.smartrecruiters.com/wisense,,Israel
 wisetech,,https://www.wisetechglobal.com/careers/join-us/,,Australia
 wish,,https://www.wish.com/careers,,United States
@@ -4408,7 +4391,7 @@ zeus-living,greenhouse,https://www.zeusliving.com/careers,,United States
 zhihu,,https://app.mokahr.com/social-recruitment/zhihu,,China
 zilch,ashby,https://jobs.ashbyhq.com/zilch,,UK
 zilingo,smartrecruiters,https://careers.smartrecruiters.com/zilingo,,Singapore
-zillow,greenhouse,https://www.zillow.com/careers/,,United States
+zillow,,https://www.zillow.com/careers/,greenhouse slug 404s; unconfirmed real ATS,United States
 zinier,greenhouse,https://www.zinier.com/careers,,United States
 zipcar,,https://www.zipcar.com/careers,,United States
 ziprecruiter,greenhouse,https://job-boards.greenhouse.io/ziprecruiter,,US
@@ -4418,11 +4401,9 @@ zola,greenhouse,https://www.zola.com/about/jobs,,US
 zomato,,https://www.zomato.com/careers,,India
 zonar-systems,smartrecruiters,https://careers.smartrecruiters.com/zonar-systems,,United States
 zondacrypto,,https://zondacrypto.com/en/careers,,Poland
-zoominfo,greenhouse,https://www.zoominfo.com/careers,,US
 zoomo,greenhouse,https://www.ridezoomo.com/careers,,Australia
 zoopla,workable,https://apply.workable.com/zoopla/,,UK
 zopper,,https://careers.zopper.com/,,India
-zscaler,greenhouse,https://job-boards.greenhouse.io/zscaler,,US
 zulily,smartrecruiters,https://careers.smartrecruiters.com/zulily,,United States
 zum,greenhouse,https://www.ridezum.com/careers,,United States
 zume,smartrecruiters,https://careers.smartrecruiters.com/zume,,United States
