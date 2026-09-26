@@ -34,7 +34,8 @@ OPEN_JOBS_STATE_DIR = os.path.join("state", "open_jobs")
 # Platforms crawl.py knows how to fetch (kept in sync with src/crawl.PLATFORMS).
 SUPPORTED_PLATFORMS = {
     "greenhouse", "lever", "ashby", "workable", "recruitee",
-    "smartrecruiters", "gem", "rippling",
+    "smartrecruiters", "gem", "rippling", "breezy", "bamboohr",
+    "personio", "trakstar",
 }
 
 CAREERS_URL_BY_PLATFORM = {
@@ -46,6 +47,10 @@ CAREERS_URL_BY_PLATFORM = {
     "smartrecruiters": "https://careers.smartrecruiters.com/{slug}/",
     "gem": "https://jobs.gem.com/{slug}",
     "rippling": "https://ats.rippling.com/{slug}/jobs",
+    "breezy": "https://{slug}.breezy.hr/",
+    "bamboohr": "https://{slug}.bamboohr.com/careers",
+    "personio": "https://{slug}.jobs.personio.de/",
+    "trakstar": "https://{slug}.hire.trakstar.com/",
 }
 
 
