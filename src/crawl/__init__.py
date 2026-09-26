@@ -4,10 +4,12 @@ import glob
 import json
 import os
 import re
+import xml.etree.ElementTree as ET
 from datetime import datetime
+from email.utils import parsedate_to_datetime
 from enum import Enum
 
-from src.http import fetch_html, fetch_json
+from src.http import fetch_html, fetch_json, fetch_xml
 
 # Where each crawl run records the set of job IDs that are *currently* live
 # on the ATS. data/<company>/ is an append-only historical archive (job
@@ -21,6 +23,7 @@ class DateFormat(Enum):
     ISO = "iso"
     UNIX_MS = "unix_ms"
     DATETIME_UTC = "datetime_utc"
+    RFC_2822 = "rfc_2822"
 
 
 PLATFORMS = {
@@ -97,6 +100,24 @@ PLATFORMS = {
         "date_field": "postedDate",
         "date_format": DateFormat.ISO,
     },
+    "personio": {
+        # XML feed; parsed by _fetch_jobs_personio, not the generic JSON
+        # _fetch_jobs path.
+        "url": "https://{}.jobs.personio.de/xml",
+        "id_field": "id",
+        "date_field": "createdAt",
+        "date_format": DateFormat.ISO,
+    },
+    "trakstar": {
+        # RSS/XML feed (Trakstar was formerly Recruiterbox). The subdomain
+        # and the path segment are the same value repeated; the path segment
+        # is case-insensitive despite Trakstar's own examples showing it
+        # capitalized (e.g. "RideCo").
+        "url": "https://{0}.hire.trakstar.com/jobfeeds/{0}",
+        "id_field": "id",
+        "date_field": "pubDate",
+        "date_format": DateFormat.RFC_2822,
+    },
 }
 
 
@@ -105,6 +126,8 @@ def _parse_date(value, fmt):
         return datetime.fromtimestamp(value / 1000)
     if fmt == DateFormat.DATETIME_UTC:
         return datetime.strptime(value, "%Y-%m-%d %H:%M:%S %Z")
+    if fmt == DateFormat.RFC_2822:
+        return parsedate_to_datetime(value)
     return datetime.fromisoformat(value.replace("Z", "+00:00"))
 
 
@@ -148,6 +171,41 @@ def _fetch_jobs_rippling(company):
     return jobs
 
 
+def _fetch_jobs_personio(company):
+    url = PLATFORMS["personio"]["url"].format(company)
+    xml_text = fetch_xml(url)
+    root = ET.fromstring(xml_text)
+    jobs = []
+    for position in root.findall("position"):
+        job = {child.tag: (child.text or "") for child in position}
+        jobs.append(job)
+    return jobs
+
+
+# XML namespace Trakstar uses for its job:* elements (locationCity,
+# locationState, locationCountry, positionType, team, closeDte).
+_TRAKSTAR_JOB_NS = "{https://recruiterbox.com/rss/job/}"
+
+
+def _fetch_jobs_trakstar(company):
+    url = PLATFORMS["trakstar"]["url"].format(company)
+    xml_text = fetch_xml(url)
+    root = ET.fromstring(xml_text)
+    jobs = []
+    for item in root.find("channel").findall("item"):
+        job = {}
+        for child in item:
+            tag = child.tag
+            if tag.startswith(_TRAKSTAR_JOB_NS):
+                tag = tag[len(_TRAKSTAR_JOB_NS):]
+            job[tag] = child.text or ""
+        # Neither <guid> nor <link> is a bare ID; both are full job URLs
+        # ending in the stable per-posting slug (e.g. "fk0zirt").
+        job["id"] = job.get("guid", job.get("link", "")).rstrip("/").rsplit("/", 1)[-1]
+        jobs.append(job)
+    return jobs
+
+
 def _fetch_jobs(config, company):
     url = config["url"].format(company)
 
@@ -176,6 +234,10 @@ def crawl(platform, company, output_dir):
     print(f"  Fetching job list for board: {company}")
     if platform == "rippling":
         jobs = _fetch_jobs_rippling(company)
+    elif platform == "personio":
+        jobs = _fetch_jobs_personio(company)
+    elif platform == "trakstar":
+        jobs = _fetch_jobs_trakstar(company)
     else:
         jobs = _fetch_jobs(config, company)
     print(f"  Found {len(jobs)} jobs")
