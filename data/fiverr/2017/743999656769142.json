@@ -1,0 +1,61 @@
+{
+  "id": "743999656769142",
+  "name": "Contact Agent",
+  "uuid": "ccf67060-5184-40af-a75a-595772798eb6",
+  "jobAdId": "dba1d742-d3c4-4748-a6b7-22bc86cbb3ae",
+  "defaultJobAd": true,
+  "refNumber": "REF4L",
+  "company": {
+    "identifier": "Fiverr",
+    "name": "Fiverr"
+  },
+  "releasedDate": "2017-07-31T11:18:06.000Z",
+  "location": {
+    "city": "New York",
+    "region": "NY",
+    "country": "us",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "40.7127837",
+    "longitude": "-74.00594130000002",
+    "fullLocation": "New York, NY, United States"
+  },
+  "industry": {
+    "id": "food_production",
+    "label": "Food Production"
+  },
+  "department": {},
+  "function": {
+    "id": "other",
+    "label": "Other"
+  },
+  "typeOfEmployment": {
+    "id": "part-time",
+    "label": "Part-time"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "us",
+      "valueLabel": "United States"
+    },
+    {
+      "fieldId": "59723e55a2b011519ecb4c7f",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Fiverr"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/fiverr/postings/743999656769142",
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

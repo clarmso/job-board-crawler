@@ -1,0 +1,66 @@
+{
+  "absolute_url": "https://instacart.careers/job/?gh_jid=8167458",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 3534595,
+  "location": {
+    "name": "Canada - Remote (ON, AB, BC, or NS Only)"
+  },
+  "metadata": [
+    {
+      "id": 16452,
+      "name": "Employment Type",
+      "value": "Regular",
+      "value_type": "single_select"
+    },
+    {
+      "id": 740030,
+      "name": "Exemption Status",
+      "value": "Exempt",
+      "value_type": "single_select"
+    },
+    {
+      "id": 235666,
+      "name": "Time Type",
+      "value": "Full time",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8167458,
+  "updated_at": "2026-09-01T14:54:47-04:00",
+  "requisition_id": "PR00156",
+  "title": "Analytics Engineer II",
+  "company_name": "Instacart",
+  "first_published": "2026-08-31T14:20:26-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;We&#39;re transforming the grocery industry&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span class=&quot;im&quot;&gt;At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;Instacart has become a lifeline for millions of people, and we’re building the team to help push our shopping cart forward. If you’re ready to do the best work of your life, come join our table.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Instacart is a Flex First team &lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;There’s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work—whether it’s from home, an office, or your favorite coffee shop—while staying connected and building community through regular in-person events. &lt;a href=&quot;https://www.instacart.careers/flex-first&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://instacart.careers/remote/&amp;amp;source=gmail&amp;amp;ust=1651869232122000&amp;amp;usg=AOvVaw37OlxP8hAKN7nq4YwHQH7e&quot;&gt;Learn more about our flexible approach to where we work.&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;The Marketing Enablement &amp;amp; Technology (MET) team sits natively within Instacart&#39;s Marketing organization, owning the data foundations that power Paid Marketing, SEO, and Retailer Marketing attribution. These datasets directly inform how we allocate hundreds of millions of dollars in marketing spend and how we measure growth.&lt;/p&gt;\n&lt;p&gt;We&#39;re hiring an Analytics Engineer II to help build and evolve the marketing analytics data foundation. In this role, you&#39;ll independently design and deliver high-quality, business-aware data models and pipelines that Data Scientists and Analysts trust — owning your work end-to-end, raising the quality bar through code reviews and design discussion, and growing toward broader technical ownership of marketing data.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;em&gt;About the Job&amp;nbsp;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Marketing Analytics Data Development:&lt;/strong&gt; Independently build and maintain high-quality dimensional data models and ETL pipelines that support marketing analytics across Paid Marketing, SEO, Retailer Marketing, and attribution — delivering complete data assets end-to-end with minimal oversight.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Cross-functional Partnership:&lt;/strong&gt; Work closely with Data Scientists, Analysts, and Marketing stakeholders to translate analytical needs and business questions into data requirements, and deliver trusted, decision-ready datasets.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Data Quality Ownership:&lt;/strong&gt; Own data quality for the models you build — writing tests, documentation, and monitoring, and resolving data issues at their root cause across the marketing workflows you support.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Code Review &amp;amp; Design:&lt;/strong&gt; Conduct thorough code reviews, write and share designs publicly before building, and apply simple, reusable modeling patterns that leave the codebase better than you found it.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Pipeline Evolution &amp;amp; Observability: &lt;/strong&gt;Improve existing marketing data pipelines to reduce manual effort and improve performance, enhance observability (logging, metrics, freshness and quality checks), and participate in incident response for the data platform.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;&lt;em&gt;About You&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;em&gt;Minimum Qualifications&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;3–5 years of experience in Analytics Engineering, Data Engineering, or closely related roles, with hands-on ownership of production data models and pipelines.&lt;/li&gt;\n&lt;li&gt;Strong SQL skills and hands-on experience building well-architected dimensional data models (star schemas, fact/dimension tables, SCDs).&lt;/li&gt;\n&lt;li&gt;Hands-on experience with the modern data stack, including dbt, Snowflake, and Airflow.&lt;/li&gt;\n&lt;li&gt;Working knowledge of marketing data and metrics — including paid media performance, attribution concepts, and channel-level measurement — or the ability to ramp quickly.&lt;/li&gt;\n&lt;li&gt;Demonstrated ability to deliver complete data models and pipelines independently, manage multiple priorities, and write clean, well-documented, well-tested code.&lt;/li&gt;\n&lt;li&gt;Effective communicator who can collaborate across data, marketing, and engineering teams to understand requirements and deliver solutions.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;&lt;em&gt;Preferred Qualifications&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience partnering with Data Scientists on experimentation, attribution, or incrementality measurement.&lt;/li&gt;\n&lt;li&gt;Familiarity with marketing platforms (ie Google Ads, Meta, Google Analytics, SEO tooling).&lt;/li&gt;\n&lt;li&gt;Python experience for automation or advanced transformations.&lt;/li&gt;\n&lt;li&gt;Comfort using AI-assisted developer tools to improve code quality and speed (e.g., generating tests, validating logic, comparing suggestions).&lt;/li&gt;\n&lt;li&gt;Experience contributing to analytics engineering best practices such as testing, documentation, or data quality standards.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p class=&quot;p1&quot;&gt;#LI-Remote&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Instacart provides highly market-competitive compensation and benefits in each location where our employees work. This role is remote and the base pay range for a successful candidate is dependent on their permanent work location. Please review our Flex First remote work policy &lt;a href=&quot;https://instacart.careers/flex-first/&quot;&gt;here&lt;/a&gt;. Currently, we are only hiring in the following provinces: Ontario, Alberta, British Columbia, and Nova Scotia.&lt;/p&gt;\n&lt;p&gt;Offers may vary based on many factors, such as candidate experience and skills required for the role. Additionally, this role is eligible for a new hire equity grant as well as annual refresh grants. Please read more about our benefits offerings &lt;a href=&quot;https://instacart.careers/taste-of-instacart/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;For Canadian based candidates, the base pay ranges for a successful candidate are listed below.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;CAN&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$139,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$146,500 CAD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 76611,
+      "name": "Marketing ",
+      "child_ids": [],
+      "parent_id": 13607
+    }
+  ],
+  "offices": [
+    {
+      "id": 88202,
+      "name": "Remote - Canada",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 88198
+    }
+  ],
+  "ai_disclaimer": "<p>Instacart (Maplebear Inc. d/b/a Instacart) uses Greenhouse's Real Talent technology as part of our hiring process. Select \"Learn more\" for information on how these tools work, what data is involved, and your rights.&nbsp;</p>",
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": "http://app.greenhouse.io/ai_opt_out_request/job_post/8167458/ai_opt_out"
+}

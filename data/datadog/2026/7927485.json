@@ -50,8 +50,8 @@
       "name": "Pay Transparency Range",
       "value": {
         "unit": "USD",
-        "max_value": "130000.0",
-        "min_value": "98000.0"
+        "max_value": "0.0",
+        "min_value": "0.0"
       },
       "value_type": "currency_range"
     },
@@ -69,7 +69,7 @@
     }
   ],
   "id": 7927485,
-  "updated_at": "2026-09-18T14:57:30-04:00",
+  "updated_at": "2026-09-25T16:08:15-04:00",
   "requisition_id": "R19126",
   "title": "Recruiter, GTM",
   "company_name": "Datadog",
@@ -92,6 +92,13 @@
       "location": "Boston, MA, United States",
       "child_ids": [],
       "parent_id": 78117
+    },
+    {
+      "id": 61865,
+      "name": "Denver",
+      "location": "Denver, Colorado, United States",
+      "child_ids": [],
+      "parent_id": 78231
     },
     {
       "id": 5664,

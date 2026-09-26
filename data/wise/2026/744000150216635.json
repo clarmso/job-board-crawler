@@ -1,0 +1,130 @@
+{
+  "id": "744000150216635",
+  "name": "LATAM Financial Risk Manager",
+  "uuid": "7d741f65-eec1-4f90-ab11-4d680defa1ff",
+  "jobAdId": "a39a87ad-e46f-4327-8fa9-66d703ab6612",
+  "defaultJobAd": true,
+  "refNumber": "R10160",
+  "company": {
+    "identifier": "Wise",
+    "name": "Wise"
+  },
+  "releasedDate": "2026-09-17T21:06:27.596Z",
+  "location": {
+    "city": "São Paulo",
+    "country": "br",
+    "address": "Rua Girassol, 555, 1st Floor, Vila Madalena",
+    "postalCode": "05433-001",
+    "remote": false,
+    "hybrid": true,
+    "fullLocation": "São Paulo, , Brazil"
+  },
+  "industry": {
+    "id": "financial_services",
+    "label": "Financial Services"
+  },
+  "department": {},
+  "function": {
+    "id": "analyst",
+    "label": "Analyst"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "customField": [
+    {
+      "fieldId": "65d3d0e0d37044292ef9549b",
+      "fieldLabel": "Job Profile",
+      "valueId": "031d60c1f3b201afb7f1b3cb95012d0e",
+      "valueLabel": "Risk Manager - JP100540"
+    },
+    {
+      "fieldId": "65d3d0a7d37044292ef9549a",
+      "fieldLabel": "Job Family",
+      "valueId": "031d60c1f3b20194ac76df85bc005f00",
+      "valueLabel": "Risk"
+    },
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "br",
+      "valueLabel": "Brazil"
+    },
+    {
+      "fieldId": "65d3d05c735007771b14e932",
+      "fieldLabel": "Worker Type",
+      "valueId": "EE",
+      "valueLabel": "Wiser"
+    },
+    {
+      "fieldId": "65cea5ac287e8d0651481809",
+      "fieldLabel": "Time Type",
+      "valueId": "d2f4dafccd5101059b6cf09e12278400",
+      "valueLabel": "Full time"
+    },
+    {
+      "fieldId": "65d3d06b2865b46cfa4f0ec3",
+      "fieldLabel": "Worker Sub Type",
+      "valueId": "046034784a4d016f1889ba8863278f0d",
+      "valueLabel": "Permanent"
+    },
+    {
+      "fieldId": "65d3d141c86c2f3257de414c",
+      "fieldLabel": "Cost Center Hierarchy",
+      "valueId": "6d8f1bd75a70015dd1babe31c712c11c",
+      "valueLabel": "Core Compliance"
+    },
+    {
+      "fieldId": "658553f79a81b00900831a80",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Wise"
+    },
+    {
+      "fieldId": "65d3d0374c34974b271801f9",
+      "fieldLabel": "Management Level",
+      "valueId": "e82698b941950185dfe774d4f100d610",
+      "valueLabel": "5"
+    },
+    {
+      "fieldId": "65d3d0926435ba43bdb089ac",
+      "fieldLabel": "Job Family Group",
+      "valueId": "cf8ed98297e201402981b117ba008c14",
+      "valueLabel": "Risk and Compliance"
+    },
+    {
+      "fieldId": "65d3d151a5d3185b4341a7ab",
+      "fieldLabel": "Cost Center",
+      "valueId": "cb7e65d2926c01019f4b2cfca5c30000",
+      "valueLabel": "Risk"
+    },
+    {
+      "fieldId": "65cec407735007771b14e92d",
+      "fieldLabel": "Company",
+      "valueId": "01ae8d4a58401000b3e48ec465d50000",
+      "valueLabel": "Wise Brasil Corretora de Câmbio Ltda"
+    },
+    {
+      "fieldId": "65d90823f2e6436af25814c2",
+      "fieldLabel": "Job Ad Salary Range",
+      "valueLabel": "19000 - 31000 BRL Monthly"
+    },
+    {
+      "fieldId": "65d9080b4aa2f46927dfc1f3",
+      "fieldLabel": "WD Target Hire Date",
+      "valueLabel": "2026-09-01"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/wise/postings/744000150216635",
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

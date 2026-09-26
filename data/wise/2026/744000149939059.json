@@ -1,0 +1,107 @@
+{
+  "id": "744000149939059",
+  "name": "Banking & Expansion Manager / Country Manager",
+  "uuid": "f364319e-e64b-4f6e-8066-4fbe411e2b70",
+  "jobAdId": "db13dac5-4202-4948-bc29-274fc63286a4",
+  "defaultJobAd": true,
+  "refNumber": "REF5881U",
+  "company": {
+    "identifier": "Wise",
+    "name": "Wise"
+  },
+  "releasedDate": "2026-09-16T18:47:00.630Z",
+  "location": {
+    "city": "Bogota",
+    "country": "co",
+    "address": "Bogota",
+    "remote": false,
+    "hybrid": true,
+    "fullLocation": "Bogota, , Colombia"
+  },
+  "industry": {
+    "id": "financial_services",
+    "label": "Financial Services"
+  },
+  "department": {},
+  "function": {
+    "id": "marketing",
+    "label": "Marketing"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "customField": [
+    {
+      "fieldId": "65d3d0e0d37044292ef9549b",
+      "fieldLabel": "Job Profile",
+      "valueId": "e380f86fa0b201d91535a7cd9501190f",
+      "valueLabel": "Senior Banker/Expansion Manager - JP100554"
+    },
+    {
+      "fieldId": "697ecac4054e02cef8c7a2ce",
+      "fieldLabel": "ORGANIZATION_TYPE-3-84 L1",
+      "valueId": "1a996433adb41001d77f89dee2560000",
+      "valueLabel": "Wise Start"
+    },
+    {
+      "fieldId": "65d3d0a7d37044292ef9549a",
+      "fieldLabel": "Job Family",
+      "valueId": "e380f86fa0b2015046845086bc001800",
+      "valueLabel": "Banking - General"
+    },
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "co",
+      "valueLabel": "Colombia"
+    },
+    {
+      "fieldId": "65d3d05c735007771b14e932",
+      "fieldLabel": "Worker Type",
+      "valueId": "CW",
+      "valueLabel": "Contingent Worker"
+    },
+    {
+      "fieldId": "65cea5ac287e8d0651481809",
+      "fieldLabel": "Time Type",
+      "valueId": "d2f4dafccd5101059b6cf09e12278400",
+      "valueLabel": "Full time"
+    },
+    {
+      "fieldId": "65d3d06b2865b46cfa4f0ec3",
+      "fieldLabel": "Worker Sub Type",
+      "valueId": "b3dfb3ea047601a8d6045123fe00e114",
+      "valueLabel": "Consultant (e.g. PwC, Deloitte)"
+    },
+    {
+      "fieldId": "697ecac2a597b90c91f0575a",
+      "fieldLabel": "Matrix L1",
+      "valueId": "96f473f16f7a1001051277e92e010000",
+      "valueLabel": "APAC Regional Operations"
+    },
+    {
+      "fieldId": "658553f79a81b00900831a80",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Wise"
+    },
+    {
+      "fieldId": "65d3d0926435ba43bdb089ac",
+      "fieldLabel": "Job Family Group",
+      "valueId": "cf8ed98297e201b803f07de8b9007514",
+      "valueLabel": "Banking"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/wise/postings/744000149939059",
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

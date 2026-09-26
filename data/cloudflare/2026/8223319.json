@@ -39,8 +39,8 @@
     }
   ],
   "id": 8223319,
-  "updated_at": "2026-09-24T12:25:22-04:00",
-  "requisition_id": null,
+  "updated_at": "2026-09-25T16:21:07-04:00",
+  "requisition_id": "Anand - Pipe 21122",
   "title": "Principal Customer Engineer, Central Majors - Toronto Canada",
   "company_name": "Cloudflare",
   "first_published": "2026-09-24T12:25:22-04:00",
@@ -57,17 +57,11 @@
   ],
   "offices": [
     {
-      "id": 75883,
-      "name": "Canada",
-      "location": null,
-      "child_ids": [
-        75886,
-        75885,
-        75884,
-        75596,
-        73335
-      ],
-      "parent_id": 48752
+      "id": 73335,
+      "name": "Toronto, ON",
+      "location": "Toronto, Ontario, Canada",
+      "child_ids": [],
+      "parent_id": 75883
     }
   ],
   "ai_disclaimer": null,

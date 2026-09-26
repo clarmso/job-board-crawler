@@ -1,0 +1,63 @@
+{
+  "id": "743999865840785",
+  "name": "Chomeur",
+  "uuid": "861ab2f3-715b-43ce-854c-52f4f1f4e95c",
+  "jobAdId": "7fdb8379-a16b-4bf5-8f71-82ada179f289",
+  "defaultJobAd": true,
+  "refNumber": "REF2D",
+  "company": {
+    "identifier": "Wework",
+    "name": "Wework"
+  },
+  "releasedDate": "2022-11-17T16:17:42.399Z",
+  "location": {
+    "city": "Kolkata",
+    "region": "WB",
+    "country": "in",
+    "address": "Ostagar Lane",
+    "postalCode": "700014",
+    "remote": true,
+    "hybrid": false,
+    "latitude": "22.5462412",
+    "longitude": "88.3670495",
+    "fullLocation": "Kolkata, WB, India"
+  },
+  "industry": {
+    "id": "government_administration",
+    "label": "Government Administration"
+  },
+  "department": {},
+  "function": {
+    "id": "analyst",
+    "label": "Analyst"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "associate",
+    "label": "Associate"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "in",
+      "valueLabel": "India"
+    },
+    {
+      "fieldId": "62e3e757c8900e23d6a02b67",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Wework"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/wework/postings/743999865840785",
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

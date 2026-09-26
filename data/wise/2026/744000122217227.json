@@ -1,0 +1,130 @@
+{
+  "id": "744000122217227",
+  "name": "Workforce Management Senior Specialist",
+  "uuid": "7bc45c47-ca49-495c-b782-908113bcc65d",
+  "jobAdId": "63be3a1b-18ad-45fe-87ef-0903f1344299",
+  "defaultJobAd": true,
+  "refNumber": "R5741",
+  "company": {
+    "identifier": "Wise",
+    "name": "Wise"
+  },
+  "releasedDate": "2026-04-22T10:12:04.668Z",
+  "location": {
+    "city": "Hyderabad",
+    "country": "in",
+    "address": "Table Space Suites, Raheja Mindspace, Building 4, HITEC City",
+    "postalCode": "500081",
+    "remote": false,
+    "hybrid": false,
+    "fullLocation": "Hyderabad, , India"
+  },
+  "industry": {
+    "id": "financial_services",
+    "label": "Financial Services"
+  },
+  "department": {},
+  "function": {
+    "id": "customer_service",
+    "label": "Customer Service"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "customField": [
+    {
+      "fieldId": "65d3d0e0d37044292ef9549b",
+      "fieldLabel": "Job Profile",
+      "valueId": "031d60c1f3b2018c1a7e55ce95012510",
+      "valueLabel": "WFM Senior Specialist - JP100603"
+    },
+    {
+      "fieldId": "65d3d0a7d37044292ef9549a",
+      "fieldLabel": "Job Family",
+      "valueId": "a128c75d9f540100b160f03c8d730000",
+      "valueLabel": "Workforce Management"
+    },
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "in",
+      "valueLabel": "India"
+    },
+    {
+      "fieldId": "65d3d05c735007771b14e932",
+      "fieldLabel": "Worker Type",
+      "valueId": "EE",
+      "valueLabel": "Wiser"
+    },
+    {
+      "fieldId": "65cea5ac287e8d0651481809",
+      "fieldLabel": "Time Type",
+      "valueId": "d2f4dafccd5101059b6cf09e12278400",
+      "valueLabel": "Full time"
+    },
+    {
+      "fieldId": "65d3d06b2865b46cfa4f0ec3",
+      "fieldLabel": "Worker Sub Type",
+      "valueId": "046034784a4d016f1889ba8863278f0d",
+      "valueLabel": "Permanent"
+    },
+    {
+      "fieldId": "65d3d141c86c2f3257de414c",
+      "fieldLabel": "Cost Center Hierarchy",
+      "valueId": "9ca20427320e100192ead31bacb90000",
+      "valueLabel": "Service Delivery"
+    },
+    {
+      "fieldId": "658553f79a81b00900831a80",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Wise"
+    },
+    {
+      "fieldId": "65d3d0374c34974b271801f9",
+      "fieldLabel": "Management Level",
+      "valueId": "e82698b94195019ad99d30d3f100d510",
+      "valueLabel": "4"
+    },
+    {
+      "fieldId": "65d3d0926435ba43bdb089ac",
+      "fieldLabel": "Job Family Group",
+      "valueId": "a128c75d9f540100b134ce5ef2630000",
+      "valueLabel": "Customer Support"
+    },
+    {
+      "fieldId": "65d3d151a5d3185b4341a7ab",
+      "fieldLabel": "Cost Center",
+      "valueId": "53a79d1117a3100192faa909d6660000",
+      "valueLabel": "Workforce Management"
+    },
+    {
+      "fieldId": "65cec407735007771b14e92d",
+      "fieldLabel": "Company",
+      "valueId": "8928081b6a9e014945dcd4299c012074",
+      "valueLabel": "Wise Payments India Private Limited"
+    },
+    {
+      "fieldId": "65d90823f2e6436af25814c2",
+      "fieldLabel": "Job Ad Salary Range",
+      "valueLabel": "1650000 - 2250000 INR Annual"
+    },
+    {
+      "fieldId": "65d9080b4aa2f46927dfc1f3",
+      "fieldLabel": "WD Target Hire Date",
+      "valueLabel": "2026-07-01"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/wise/postings/744000122217227",
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

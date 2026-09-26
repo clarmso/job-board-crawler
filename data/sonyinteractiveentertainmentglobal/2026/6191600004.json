@@ -1,0 +1,108 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6191600004",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": true,
+      "requires_processing_consent": false,
+      "requires_retention_consent": true,
+      "retention_period": 730,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 5214741004,
+  "location": {
+    "name": "Ireland, Dublin"
+  },
+  "metadata": [
+    {
+      "id": 4367803004,
+      "name": "Cost Center",
+      "value": "GAMES4IE60-IEU2100002 Player&CreatorExp IE",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167524004,
+      "name": "Career Page - Office Location",
+      "value": "Ireland, Dublin",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167525004,
+      "name": "Career Page - Department",
+      "value": "Network Engineering",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9377282004,
+      "name": "Career Page - Sub Department",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 20089613004,
+      "name": "Career Page - Studio Project",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 4395289004,
+      "name": "Worker Type",
+      "value": "Employee",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4404049004,
+      "name": "Country",
+      "value": "Ireland",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9262269004,
+      "name": "Job Family",
+      "value": "Software Development Engineering",
+      "value_type": "short_text"
+    },
+    {
+      "id": 9262270004,
+      "name": "Job Family Group",
+      "value": "Engineering",
+      "value_type": "short_text"
+    },
+    {
+      "id": 21724118004,
+      "name": "Bungie Geo Pay",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 6191600004,
+  "updated_at": "2026-09-25T08:05:42-04:00",
+  "requisition_id": "R-125374",
+  "title": "Kubernetes Platform Engineer (Controllers) ",
+  "company_name": "PlayStation Global",
+  "first_published": "2026-09-25T08:05:42-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Why Sony Interactive Entertainment?&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Sony Interactive Entertainment isn’t just the Best Place to Play — it’s also the Best Place to Work. Sony Interactive Entertainment (SIE) is the company behind the PlayStation brand. As a subsidiary of Sony Group Corporation, we’re part of a proud legacy of innovation and excellence. SIE is a dynamic technology company, delivering cutting-edge hardware and network services to more than 100 million people and an entertainment leader, home to some of the most beloved and recognizable intellectual properties (IP) in the world. Our role at SIE is to create and nurture the experiences under the PlayStation brand, a name synonymous with entertainment excellence and creativity.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;strong&gt;Kubernetes Platform Engineer (Controllers)&amp;nbsp; &lt;/strong&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;strong&gt;Sony Interactive Entertainment&lt;/strong&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;At PlayStation, we&#39;re leading the revolution in cloud gaming as we push the boundaries of what&#39;s possible! Would you like to use your skills, time, and passion for meaningful projects that are building the future? We&#39;re looking for a Platform Engineer who enjoys building Kubernetes-native systems and automation that operate reliably at global scale. If you&#39;re passionate about software engineering, Kubernetes, and solving challenging distributed systems problems, we&#39;d love to hear from you. Come help us deliver a unique gaming experience to millions of players around the world.&lt;/span&gt;&lt;/p&gt;\n&lt;h2&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li style=&quot;color: #000000 !important;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Design and develop Kubernetes controllers and operators that automate the lifecycle of platform services.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;color: #000000 !important;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Contribute to the development of our global workload placement system, enabling intelligent scheduling across Kubernetes clusters running in both public cloud and on-premises data centers.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;color: #000000 !important;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Develop Kubernetes APIs and Custom Resource Definitions (CRDs) that provide clean, maintainable interfaces for platform capabilities.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;color: #000000 !important;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Build and maintain reconciliation logic that safely manages distributed system state.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;color: #000000 !important;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Develop controllers and operators that automate provisioning, configuration, upgrades, and lifecycle management of Kubernetes-based platform components deployed across hybrid cloud environments.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;color: #000000 !important;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Work closely with platform and service teams to build automation that simplifies operating large-scale distributed systems.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;color: #000000 !important;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Improve the reliability, scalability, observability, and maintainability of the platform through thoughtful engineering and continuous improvement.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;color: #000000 !important;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Investigate production issues and participate in root cause analysis to improve platform reliability.&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;strong&gt;Requirements&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li style=&quot;color: #000000 !important;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Solid understanding of Kubernetes architecture, lifecycle and core concepts, including workloads running across cloud and on-premises environments.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;color: #000000 !important;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Experience developing software in Go or another modern programming language, with an interest in Go development.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;color: #000000 !important;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Experience building software for Linux-based environments.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;color: #000000 !important;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Experience with Kubernetes development, including controllers, operators, or Kubernetes APIs.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;color: #000000 !important;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;3+ years of professional software engineering experience.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;color: #000000 !important;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Strong problem-solving skills and a desire to learn new technologies.&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;strong&gt;Skills &amp;amp; Knowledge&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li style=&quot;color: #000000 !important;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Understanding of Kubernetes reconciliation patterns and declarative system design; especially understanding the principals of Communicating Sequential Processes (CSP).&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;color: #000000 !important;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Experience using Kubernetes in production environments.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;color: #000000 !important;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Familiarity with controller-runtime, Kubebuilder, Custom Resource Definitions (CRDs), Common Expression Language (CEL) rules, or Kubernetes API extension mechanisms.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;color: #000000 !important;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Experience building or operating distributed systems spanning public cloud and on-premises infrastructure.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;color: #000000 !important;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Familiarity with Infrastructure as Code (IaC) and GitOps workflows.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;color: #000000 !important;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Experience working with bare metal infrastructure, hybrid cloud environments, or multi-cluster Kubernetes deployments is highly desirable.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;color: #000000 !important;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Experience with Cluster API (CAPI), SIG Multicluster, Karmada, or other Kubernetes ecosystem projects is a plus.&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;strong&gt;Additional Attributes&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li style=&quot;color: #000000 !important;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Strong communication and collaboration skills.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;color: #000000 !important;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Comfortable working as part of a distributed engineering team across multiple time zones.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;color: #000000 !important;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Takes ownership of assigned work and follows through to completion.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;color: #000000 !important;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Curious, pragmatic, and eager to learn from teammates while sharing knowledge with others.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;color: #000000 !important;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Enjoys solving the unique engineering challenges of operating software across globally distributed cloud and on-premises infrastructure.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;color: #000000 !important;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Passionate about building reliable systems and improving the user experience.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;color: #000000 !important;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Contributions to open source projects, particularly within the Kubernetes or CNCF ecosystem, are a plus.&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Sony is an Equal Opportunity Employer. All persons will receive consideration for employment without regard to race, color, religion, gender, pregnancy, national origin, ancestry, citizenship, age, legally protected physical or mental disability, covered veteran status, status in the U.S. uniformed services, sexual orientation, gender identity, marital status, genetic information or membership in any other legally protected category.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;We strive to build an inclusive environment, empower employees and embrace diversity. We encourage everyone to apply.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;We sincerely appreciate the time and effort you spent in contacting us, and we thank you for your interest in PlayStation.&lt;/span&gt;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p class=&quot;p1&quot;&gt;Please note, Sony Interactive Entertainment conducts background checks at the offer stage for all new employees (which may include criminal background checks for some roles) and will need to process personal information to support these checks.&lt;/p&gt;\n&lt;p class=&quot;p1&quot;&gt;Please refer to our&amp;nbsp;&lt;a href=&quot;https://www.playstation.com/legal/careers-privacy-notice/&quot; target=&quot;_blank&quot;&gt;Candidate Privacy Notice&lt;/a&gt;&amp;nbsp;for more information about what personal information we collect, how we use it, who we share it with, and your data protection rights.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Equal Opportunity Statement:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Sony is an Equal Opportunity Employer. All persons will receive consideration for employment without regard to gender (including gender identity, gender expression and gender reassignment), race (including colour, nationality, ethnic or national origin), religion or belief, marital or civil partnership status, disability, age, sexual orientation, pregnancy, maternity or parental status, trade union membership or membership in any other legally protected category.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;We strive to create an inclusive environment, empower employees and embrace diversity. We encourage everyone to respond.&amp;nbsp;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Sony Interactive Entertainment is a Fair Chance employer and qualified applicants with arrest and conviction records will be considered for employment.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4037262004,
+      "name": "Network / Core Engineering",
+      "child_ids": [],
+      "parent_id": 4037176004
+    }
+  ],
+  "offices": [
+    {
+      "id": 4075323004,
+      "name": "IRL-Dublin-Charlemont",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 4011949004
+    }
+  ],
+  "ai_disclaimer": "<p><strong>Use of AI in Recruiting&nbsp;</strong></p><p><br></p><p>We use artificial intelligence and other automated tools to assist with certain aspects of our recruiting process, including reviewing applications and supporting candidate evaluation. For example, we use Greenhouse's AI-powered Talent Matching tool to compare information in your application against job-related qualifications and criteria established by our recruiting team. More information about <a href=\"https://www.greenhouse.com/\" target=\"_blank\">Greenhouse</a>, including about its features and its Privacy Policy, may be found at its website. These tools assist our recruiting team and do not make hiring decisions.&nbsp;</p><p><br></p>",
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": "http://app4.greenhouse.io/ai_opt_out_request/job_post/6191600004/ai_opt_out"
+}

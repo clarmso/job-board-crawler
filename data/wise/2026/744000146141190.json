@@ -1,0 +1,130 @@
+{
+  "id": "744000146141190",
+  "name": "KYC Operations Senior Analyst - SMA (Night shifts)",
+  "uuid": "dd5557c5-fb1d-43eb-a68a-2482138932b5",
+  "jobAdId": "e9d935f9-f99d-4984-8a7e-34a46868ae78",
+  "defaultJobAd": false,
+  "refNumber": "R10001",
+  "company": {
+    "identifier": "Wise",
+    "name": "Wise"
+  },
+  "releasedDate": "2026-08-28T08:48:58.248Z",
+  "location": {
+    "city": "Tallinn",
+    "country": "ee",
+    "address": "Kopli tn 68a",
+    "postalCode": "10412",
+    "remote": false,
+    "hybrid": false,
+    "fullLocation": "Tallinn, , Estonia"
+  },
+  "industry": {
+    "id": "financial_services",
+    "label": "Financial Services"
+  },
+  "department": {},
+  "function": {
+    "id": "other",
+    "label": "Other"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "customField": [
+    {
+      "fieldId": "65d3d0e0d37044292ef9549b",
+      "fieldLabel": "Job Profile",
+      "valueId": "214cb0ad66001000b239025eb0d90000",
+      "valueLabel": "KYC Operations Senior Analyst - JP101181"
+    },
+    {
+      "fieldId": "65d3d0a7d37044292ef9549a",
+      "fieldLabel": "Job Family",
+      "valueId": "031d60c1f3b2011c33147b85bc005300",
+      "valueLabel": "Verification"
+    },
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "ee",
+      "valueLabel": "Estonia"
+    },
+    {
+      "fieldId": "65d3d05c735007771b14e932",
+      "fieldLabel": "Worker Type",
+      "valueId": "EE",
+      "valueLabel": "Wiser"
+    },
+    {
+      "fieldId": "65cea5ac287e8d0651481809",
+      "fieldLabel": "Time Type",
+      "valueId": "d2f4dafccd5101059b6cf09e12278400",
+      "valueLabel": "Full time"
+    },
+    {
+      "fieldId": "65d3d06b2865b46cfa4f0ec3",
+      "fieldLabel": "Worker Sub Type",
+      "valueId": "046034784a4d016f1889ba8863278f0d",
+      "valueLabel": "Permanent"
+    },
+    {
+      "fieldId": "65d3d141c86c2f3257de414c",
+      "fieldLabel": "Cost Center Hierarchy",
+      "valueId": "6d8f1bd75a7001af5e959631c7129e1c",
+      "valueLabel": "Verification"
+    },
+    {
+      "fieldId": "658553f79a81b00900831a80",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Wise"
+    },
+    {
+      "fieldId": "65d3d0374c34974b271801f9",
+      "fieldLabel": "Management Level",
+      "valueId": "e82698b94195016f133d61d1f100d410",
+      "valueLabel": "3"
+    },
+    {
+      "fieldId": "65d3d0926435ba43bdb089ac",
+      "fieldLabel": "Job Family Group",
+      "valueId": "cf8ed98297e2015c704c2f07ba008614",
+      "valueLabel": "Operations"
+    },
+    {
+      "fieldId": "65d3d151a5d3185b4341a7ab",
+      "fieldLabel": "Cost Center",
+      "valueId": "6d8f1bd75a7001ff4a405832c712521d",
+      "valueLabel": "Verification EDD"
+    },
+    {
+      "fieldId": "65cec407735007771b14e92d",
+      "fieldLabel": "Company",
+      "valueId": "94a888f19f571001007d12c5df160000",
+      "valueLabel": "Wise Europe Eesti Filiaal"
+    },
+    {
+      "fieldId": "65d90823f2e6436af25814c2",
+      "fieldLabel": "Job Ad Salary Range",
+      "valueLabel": "2350 - 2850 EUR Monthly"
+    },
+    {
+      "fieldId": "65d9080b4aa2f46927dfc1f3",
+      "fieldLabel": "WD Target Hire Date",
+      "valueLabel": "2026-10-01"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/wise/postings/744000146141190",
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

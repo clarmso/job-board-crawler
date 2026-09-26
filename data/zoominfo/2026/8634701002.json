@@ -1,0 +1,72 @@
+{
+  "absolute_url": "https://www.zoominfo.com/careers?gh_jid=8634701002",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 6448558002,
+  "location": {
+    "name": "Bethesda, Maryland, United States; Waltham, Massachusetts, United States"
+  },
+  "metadata": [
+    {
+      "id": 24710929002,
+      "name": "Job Family Group",
+      "value": "Engineering",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24711071002,
+      "name": "Time Type",
+      "value": "Full time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 101751589002,
+      "name": "Work Shift",
+      "value": "General Shift",
+      "value_type": "short_text"
+    },
+    {
+      "id": 4203585002,
+      "name": "LEGACY - Employment Type",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8634701002,
+  "updated_at": "2026-09-21T16:38:38-04:00",
+  "requisition_id": "JR107891",
+  "title": "Senior Software Engineer - Chorus",
+  "company_name": "ZoomInfo Technologies LLC",
+  "first_published": "2026-07-24T14:12:12-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen–fast.&lt;/p&gt;&lt;/div&gt;&lt;div&gt;\n&lt;div id=&quot;message-list_1784902693.448849&quot;&gt;\n&lt;div&gt;We&#39;re looking for a &lt;strong&gt;Senior Software Engineer&lt;/strong&gt; to join a team that spans two of ZoomInfo&#39;s most technically demanding domains. On the &lt;strong&gt;Engagement Intelligence&lt;/strong&gt; side, we process and map customer engagements to CRM entities in real time, supporting some of the largest enterprises on the planet with multinational workforces — millions of engagement data points per day and over a billion pieces of potentially correlated data. On the &lt;strong&gt;Chorus Platform&lt;/strong&gt; side, we power Chorus.ai, a Conversation Intelligence platform that processes and analyzes an enormous volume of sales calls to surface insights on deal health, risk, and next steps for sales managers.&lt;/div&gt;\n&lt;div&gt;&lt;br&gt;This is a role for an engineer who is energized rather than daunted by breadth: high-volume JVM streaming systems on one side, Python distributed services and third-party integrations on the other, with the seniority to make architectural calls across both and the humility to ramp quickly on whichever stack is less familiar.&lt;/div&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;&lt;strong&gt;What you will do&lt;/strong&gt;&lt;/div&gt;\n&lt;ul&gt;\n&lt;li&gt;Design, build, and deploy complex distributed systems across both domains&lt;/li&gt;\n&lt;li&gt;Build high-volume streaming data processing services using Kafka to handle millions of engagement data points per day&lt;/li&gt;\n&lt;li&gt;Design and implement real-time engagement-to-CRM entity mapping systems&lt;/li&gt;\n&lt;li&gt;Develop robust Java-based microservices that integrate tightly with data storage solutions&lt;/li&gt;\n&lt;li&gt;Build and own Python backend services and RESTful APIs handling millions of customer requests per day&lt;/li&gt;\n&lt;li&gt;Build third-party integrations with major conference providers using their SDKs&lt;/li&gt;\n&lt;li&gt;Own customer-facing aspects of the product end to end, from design through production operation&lt;/li&gt;\n&lt;li&gt;Drive architectural decisions that span both areas — data modeling, service boundaries, performance optimization&lt;/li&gt;\n&lt;li&gt;Help define and promote engineering best practices: design, documentation, code review, monitoring, observability&lt;/li&gt;\n&lt;li&gt;Mentor and train engineers across the team, raising the technical bar in both domains&lt;/li&gt;\n&lt;li&gt;Act as a technical point of contact across teams and personas, translating ambiguous product needs into concrete systems&lt;/li&gt;\n&lt;/ul&gt;\n&lt;div&gt;&lt;strong&gt;What you bring&lt;/strong&gt;&lt;/div&gt;\n&lt;ul&gt;\n&lt;li&gt;7+ years of industry software development experience; B.S. in Computer Science, Mathematics, Software Engineering, or equivalent&lt;/li&gt;\n&lt;li&gt;Strong hands-on experience in &lt;strong&gt;both&lt;/strong&gt; Java and Python in production settings (deep expertise in one and working proficiency in the other, with a track record of ramping fast on new stacks)&lt;/li&gt;\n&lt;li&gt;3+ years building distributed systems and microservices at scale&lt;/li&gt;\n&lt;li&gt;3+ years with streaming data platforms (Kafka strongly preferred)&lt;/li&gt;\n&lt;li&gt;4+ years of cloud experience (AWS/GCP) — a must&lt;/li&gt;\n&lt;li&gt;Solid experience with both SQL and NoSQL stores (Mongo, Elasticsearch)&lt;/li&gt;\n&lt;li&gt;Strong grasp of RESTful API design standards and event-driven architecture&lt;/li&gt;\n&lt;li&gt;Experience with CI/CD, package management, and release cycles&lt;/li&gt;\n&lt;li&gt;Strong architectural design skills while remaining deeply hands-on&lt;/li&gt;\n&lt;li&gt;Excellent communication skills in English and the interpersonal range to collaborate cross-functionally&lt;/li&gt;\n&lt;li&gt;Demonstrated leadership: mentoring engineers, driving projects independently, taking initiative without being asked&lt;/li&gt;\n&lt;/ul&gt;\n&lt;div&gt;&lt;strong&gt;Bonus points&lt;/strong&gt;&lt;/div&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience with CRM systems (Salesforce, Microsoft Dynamics) and integrating data services with them&lt;/li&gt;\n&lt;li&gt;Apache Kafka ecosystem depth (Kafka Streams, Connect)&lt;/li&gt;\n&lt;li&gt;Spring Boot microservices deployed to cloud&lt;/li&gt;\n&lt;li&gt;Experience with conferencing platform SDKs (Zoom, Teams, Webex, Google Meet)&lt;/li&gt;\n&lt;li&gt;Familiarity with data pipeline orchestration tools&lt;/li&gt;\n&lt;li&gt;Monitoring and observability tooling for streaming systems&lt;/li&gt;\n&lt;li&gt;Data modeling and schema design&lt;/li&gt;\n&lt;li&gt;Previous experience in B2B data, sales intelligence, or conversation intelligence domains&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/div&gt;\n&lt;div id=&quot;message-list_bottomSpacer&quot;&gt;&lt;/div&gt;\n&lt;/div&gt;\n&lt;p&gt;#LI-HYBRID&lt;/p&gt;\n&lt;p&gt;#LI-SK1&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Actual compensation offered will be based on factors such as the candidate’s work location, qualifications, skills, experience and/or training. Your recruiter can share more information about the specific salary range for your desired work location during the hiring process. We want our employees and their families to thrive.&lt;/p&gt;\n&lt;p&gt;In addition to comprehensive benefits we offer holistic mind, body and lifestyle programs designed for overall well-being. Learn more about ZoomInfo benefits &lt;a class=&quot;c-link&quot; href=&quot;https://www.zoominfo.com/careers#benefits&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.zoominfo.com/careers#benefits&quot; data-sk=&quot;tooltip_parent&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;Below is the US base salary for this position. Additional compensation such as Bonus, Commission, Equity and other benefits may also apply.&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$140,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$220,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;About us:&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;ZoomInfo (NASDAQ: GTM) is the Go-To-Market Intelligence Platform that empowers businesses to grow faster with AI-ready insights, trusted data, and advanced automation. Its solutions provide more than 35,000 companies worldwide with a complete view of their customers, making every seller their best seller.&lt;/p&gt;\n&lt;p&gt;ZoomInfo is committed to protecting your privacy when you apply for jobs with us. Please review our Job Applicant &lt;a href=&quot;https://drive.google.com/file/d/1yiG-k0YX_sW10PiJk_xliDc3W-veJCrK/view?usp=drive_link&quot; target=&quot;_blank&quot;&gt;Privacy Notice&lt;/a&gt; for more details on how we handle your personal information.&lt;/p&gt;\n&lt;p&gt;ZoomInfo may use a software-based assessment as part of the recruitment process. More information about this tool, including the results of the most recent bias audit, is available &lt;a href=&quot;https://www.zoominfo.com/legal/nyc-local-law-144-notice&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;ZoomInfo is proud to be an equal opportunity employer, hiring based on qualifications, merit, and business needs, and does not discriminate based on protected status. We welcome all applicants and are committed to providing equal employment opportunities regardless of sex, race, age, color, national origin, sexual orientation, gender identity, marital status, disability status, religion, protected military or veteran status, medical condition, or any other characteristic protected by applicable law. We also consider qualified candidates with criminal histories in accordance with legal requirements.&lt;/p&gt;\n&lt;p&gt;For Massachusetts Applicants: It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability. ZoomInfo does not administer lie detector tests to applicants in any location.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4074783002,
+      "name": "933 Engineering - ZI Products",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 4011964002,
+      "name": "Bethesda",
+      "location": "Bethesda, Maryland, United States",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

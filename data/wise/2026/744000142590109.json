@@ -1,0 +1,142 @@
+{
+  "id": "744000142590109",
+  "name": "Technical Support Engineer (Enterprise)",
+  "uuid": "1e479bb4-17f2-49b8-bd5c-6bca1846f336",
+  "jobAdId": "110d821b-8ec3-455e-99c5-fa263f15934e",
+  "defaultJobAd": true,
+  "refNumber": "R8625",
+  "company": {
+    "identifier": "Wise",
+    "name": "Wise"
+  },
+  "releasedDate": "2026-08-10T09:09:55.213Z",
+  "location": {
+    "city": "Tallinn",
+    "country": "ee",
+    "address": "Kopli tn 68a",
+    "postalCode": "10412",
+    "remote": false,
+    "hybrid": false,
+    "fullLocation": "Tallinn, , Estonia"
+  },
+  "industry": {
+    "id": "financial_services",
+    "label": "Financial Services"
+  },
+  "department": {},
+  "function": {
+    "id": "engineering",
+    "label": "Engineering"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "customField": [
+    {
+      "fieldId": "65d3d0e0d37044292ef9549b",
+      "fieldLabel": "Job Profile",
+      "valueId": "087571a07b9601aaed087fd3fe00924d",
+      "valueLabel": "Technical Support L1 - JP100643"
+    },
+    {
+      "fieldId": "65cea5ac287e8d0651481809",
+      "fieldLabel": "Time Type",
+      "valueId": "d2f4dafccd5101059b6cf09e12278400",
+      "valueLabel": "Full time"
+    },
+    {
+      "fieldId": "65d3d06b2865b46cfa4f0ec3",
+      "fieldLabel": "Worker Sub Type",
+      "valueId": "046034784a4d016f1889ba8863278f0d",
+      "valueLabel": "Permanent"
+    },
+    {
+      "fieldId": "65d3d141c86c2f3257de414c",
+      "fieldLabel": "Cost Center Hierarchy",
+      "valueId": "6d8f1bd75a70018875458a31c712941c",
+      "valueLabel": "Customer Support"
+    },
+    {
+      "fieldId": "658553f79a81b00900831a80",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Wise"
+    },
+    {
+      "fieldId": "65d3d0374c34974b271801f9",
+      "fieldLabel": "Management Level",
+      "valueId": "e82698b94195019ad99d30d3f100d510",
+      "valueLabel": "4"
+    },
+    {
+      "fieldId": "65d3d151a5d3185b4341a7ab",
+      "fieldLabel": "Cost Center",
+      "valueId": "73b70ffedab91001a0e04b0ff2500000",
+      "valueLabel": "Customer Support Wise Platform Integration Success"
+    },
+    {
+      "fieldId": "697ecac4054e02cef8c7a2ce",
+      "fieldLabel": "ORGANIZATION_TYPE-3-84 L1",
+      "valueId": "1a996433adb41001d77f89dee2560000",
+      "valueLabel": "Wise Start"
+    },
+    {
+      "fieldId": "65d3d0a7d37044292ef9549a",
+      "fieldLabel": "Job Family",
+      "valueId": "06d8de3c30ba0101b12c4e96a8540000",
+      "valueLabel": "API"
+    },
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "ee",
+      "valueLabel": "Estonia"
+    },
+    {
+      "fieldId": "65d3d05c735007771b14e932",
+      "fieldLabel": "Worker Type",
+      "valueId": "EE",
+      "valueLabel": "Wiser"
+    },
+    {
+      "fieldId": "697ecac2a597b90c91f0575a",
+      "fieldLabel": "Matrix L1",
+      "valueId": "96f473f16f7a1001051277e92e010000",
+      "valueLabel": "APAC Regional Operations"
+    },
+    {
+      "fieldId": "65d3d0926435ba43bdb089ac",
+      "fieldLabel": "Job Family Group",
+      "valueId": "cf8ed98297e201fc81857d1fba008e14",
+      "valueLabel": "Technology"
+    },
+    {
+      "fieldId": "65cec407735007771b14e92d",
+      "fieldLabel": "Company",
+      "valueId": "046034784a4d01afa89d0f4764272117",
+      "valueLabel": "Wise Payments Limited Eesti filiaal"
+    },
+    {
+      "fieldId": "65d90823f2e6436af25814c2",
+      "fieldLabel": "Job Ad Salary Range",
+      "valueLabel": "3083 - 3916 EUR Monthly"
+    },
+    {
+      "fieldId": "65d9080b4aa2f46927dfc1f3",
+      "fieldLabel": "WD Target Hire Date",
+      "valueLabel": "2026-04-30"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/wise/postings/744000142590109",
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "absolute_url": "http://block.xyz/careers/jobs/5414628008?gh_jid=5414628008",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "education": "education_optional",
+  "internal_job_id": 4543326008,
+  "location": {
+    "name": "Melbourne, Australia"
+  },
+  "metadata": [
+    {
+      "id": 4185033008,
+      "name": "Career Site Function",
+      "value": "Software Engineering",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4185041008,
+      "name": "Brands",
+      "value": "Cash App",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4185056008,
+      "name": "Position open to remote",
+      "value": true,
+      "value_type": "yes_no"
+    },
+    {
+      "id": 4004901008,
+      "name": "Employee Type",
+      "value": "Regular",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4185035008,
+      "name": "Job Family Group",
+      "value": "Software Engineering - JFG",
+      "value_type": "single_select"
+    },
+    {
+      "id": 5039617008,
+      "name": "Business Unit",
+      "value": "Cash",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4289626008,
+      "name": "Zone A Salary Range",
+      "value": {
+        "unit": "USD",
+        "max_value": "395400.0",
+        "min_value": "263600.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 4289627008,
+      "name": "Zone B Salary Range",
+      "value": {
+        "unit": "USD",
+        "max_value": "395400.0",
+        "min_value": "263600.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 4289628008,
+      "name": "Zone C Salary Range",
+      "value": {
+        "unit": "USD",
+        "max_value": "395400.0",
+        "min_value": "263600.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 4364919008,
+      "name": "Zone D Salary Range",
+      "value": {
+        "unit": "USD",
+        "max_value": "395400.0",
+        "min_value": "263600.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 4599884008,
+      "name": "Canada Zone A Pay Range",
+      "value": {
+        "unit": "CAD",
+        "max_value": "334300.0",
+        "min_value": "222900.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 4599885008,
+      "name": "Canada Zone B Pay Range",
+      "value": {
+        "unit": "CAD",
+        "max_value": "334300.0",
+        "min_value": "222900.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 14729580008,
+      "name": "EU Min to Max",
+      "value": null,
+      "value_type": "currency_range"
+    }
+  ],
+  "id": 5414628008,
+  "updated_at": "2026-09-25T09:48:33-04:00",
+  "requisition_id": "R0006987",
+  "title": "Staff Software Engineer, Financial Platform - Issuing",
+  "company_name": "Block",
+  "first_published": "2026-09-10T14:59:12-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;It all started with an idea at Block in 2013. Initially built to take the pain out of peer-to-peer payments, Cash App has gone from a simple product with a single purpose to a dynamic ecosystem, developing unique financial products, including Afterpay/Clearpay, to provide a better way to send, spend, invest, borrow and save to our 50+ million monthly active customers. We want to redefine the world’s relationship with money to make it more relatable, instantly available, and universally accessible.&lt;br&gt;&lt;br&gt;Today, Cash App has thousands of employees working globally across office and remote locations, with a culture geared toward innovation, collaboration and impact. We’ve been a distributed team since day one, and many of our roles can be done remotely from the countries where Cash App operates. No matter the location, we tailor our experience to ensure our employees are creative, productive, and happy.&lt;/p&gt;\n&lt;h4&gt;&lt;strong&gt;The Role&lt;/strong&gt;&lt;/h4&gt;\n&lt;p&gt;At Block, we strive to build the best financial products in the world. The Financial Platform Issuing team owns the card issuing platform that serves every Block brand — powering Cash App Card, the fourth-largest debit card program in the US, alongside Square Card and the new card programs Block launches next.&lt;/p&gt;\n&lt;p&gt;We run the full lifecycle of a card: issuance, fulfillment, and activation; real-time transaction authorization and processing across card networks; digital wallet provisioning; 3-D Secure authentication; clearing and settlement; and disputes. When a customer taps their card at a register, our systems decide the outcome in milliseconds, around the clock, in partnership with card networks and bank partners.&lt;/p&gt;\n&lt;p&gt;As a Staff Software Engineer on the Issuing server engineering team, you will bring deep card-network expertise to some of the most complex technical work on our roadmap. You will work alongside technical leads and cross functional teams, going deep where our platform meets the networks: specifications, protocols, certification, mandates, conformance, and production behavior.&lt;/p&gt;\n&lt;p&gt;This is a hands-on role. You will build systems and tooling, debug at the message level, and turn your network expertise into durable capabilities that other engineers can use. You will also work directly with the networks themselves — not only understanding what they require, but knowing where and how to influence outcomes for Block.&lt;/p&gt;\n&lt;h4&gt;&lt;strong&gt;You Will&lt;/strong&gt;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Be a deep technical expert on global card networks, helping Issuing teams interpret network specifications, message flows, certification requirements, mandates, and production behavior — and working directly with the networks to influence requirements, resolve ambiguity, and secure outcomes that matter for Block.&lt;/li&gt;\n&lt;li&gt;Lead complex, ambiguous engineering problems at the network boundary that span multiple teams, systems, or domains.&lt;/li&gt;\n&lt;li&gt;Partner with technical leads, program DRIs, and senior stakeholders to shape solutions where card-network requirements intersect with Block&#39;s issuing platform.&lt;/li&gt;\n&lt;li&gt;Stay deeply hands-on: write production code, build certification and conformance tooling, analyze network messages, review designs and code, and debug issues down to the protocol and field level.&lt;/li&gt;\n&lt;li&gt;Drive network certification and mandatory release cycles end to end, and translate network requirements into clear, pragmatic engineering decisions.&lt;/li&gt;\n&lt;li&gt;Establish shared frameworks, standards, tooling, and practices that make network expertise durable and enable teams to operate independently.&lt;/li&gt;\n&lt;li&gt;Raise the technical capability of engineers around you through design guidance, code reviews, mentorship, documentation, and clear technical judgment.&lt;/li&gt;\n&lt;li&gt;Apply AI-powered tools throughout the engineering lifecycle to improve velocity and quality, and help establish effective patterns for broader team use.&lt;/li&gt;\n&lt;li&gt;Share operational ownership of critical financial systems through on-call, incident response, and continuous improvements to reliability and correctness.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;&lt;strong&gt;You Have&lt;/strong&gt;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Deep, current expertise with at least one major card network, ideally Visa, including direct connectivity, ISO 8583, authorization and clearing flows, stand-in processing, specifications, certification, and mandate cycles.&lt;/li&gt;\n&lt;li&gt;Personally built, certified, or operated a live direct network connection — not only integrated through a processor.&lt;/li&gt;\n&lt;li&gt;Experience working directly with card networks to land concrete outcomes, such as rulings, exceptions, extensions, configuration changes, defect fixes, or certification outcomes.&lt;/li&gt;\n&lt;li&gt;Strong hands-on software engineering experience building and operating highly reliable financial or payments systems at scale.&lt;/li&gt;\n&lt;li&gt;A track record of leading technically complex, ambiguous work across team boundaries and influencing technical direction beyond your immediate area of ownership.&lt;/li&gt;\n&lt;li&gt;Experience creating durable technical leverage — frameworks, standards, tooling, architecture, or practices that other engineers and teams adopt.&lt;/li&gt;\n&lt;li&gt;Broad understanding of the card lifecycle, with depth in areas such as issuance and fulfillment, provisioning and activation, authorization, ledgering, clearing and settlement, reconciliation, disputes, or fraud.&lt;/li&gt;\n&lt;li&gt;Working knowledge of Mastercard and American Express, alongside deep expertise in at least one major network.&lt;/li&gt;\n&lt;li&gt;Fluency with AI-assisted engineering workflows and sound judgment in evaluating and applying AI-generated output.&lt;/li&gt;\n&lt;li&gt;Willingness to participate in an on-call rotation for critical financial systems.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;We’re working to build a more inclusive economy where our customers have equal access to opportunity, and we strive to live by these same values in building our workplace. Block is a proud equal opportunity employer. We work hard to evaluate all employees and job applicants consistently, without regard to identity or other legally protected class. &lt;br&gt;&lt;br&gt;We believe in being fair, and are committed to an inclusive interview experience, including providing reasonable accommodations to disabled applicants throughout the recruitment process. We encourage applicants to share any needed accommodations with their recruiter, who will treat these requests as confidentially as possible. &lt;strong&gt;&lt;em&gt;Want to learn more about what we’re doing to build a workplace that is fair and square? Check out our&lt;/em&gt;&lt;/strong&gt;&lt;a href=&quot;https://block.xyz/inside/about-inclusion-and-diversity&quot;&gt;&lt;strong&gt;&lt;em&gt; I+D page&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;&lt;em&gt;.&lt;/em&gt;&lt;/strong&gt;&lt;em&gt;&lt;br&gt;&lt;/em&gt;&lt;em&gt;&lt;br&gt;&lt;/em&gt;Block is a globally distributed company and this role will require working with other employees in multiple time zones. You may be required to perform work outside of normal business as part of this role&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;Application Guidelines&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Candidates may submit up to 9 active applications within a 60-day period. Reapplications to the same role are accepted 90 days after a previous application has been reviewed.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Use of AI in Our Hiring Process&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We may use automated AI tools to evaluate job applications for efficiency and consistency. These tools comply with local regulations, including bias audits, and we handle all personal data in accordance with state and local privacy laws.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Contact us &lt;a href=&quot;https://privacy.block.xyz/privacyportal/form&quot;&gt;here&lt;/a&gt;&amp;nbsp;with hiring practice or data usage questions.&lt;/p&gt;\n&lt;p&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;Every benefit we offer is designed with one goal: empowering you to do the best work of your career while building the life you want. Remote work, medical insurance, flexible time off, retirement savings plans, and modern family planning are just some of our offering.&amp;nbsp;&lt;/em&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;&lt;a class=&quot;c-link c-link--underline&quot; href=&quot;https://block.xyz/employee-benefits&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://block.xyz/documents/benefits.pdf&quot; data-sk=&quot;tooltip_parent&quot;&gt;Check out our other benefits at Block.&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Block, Inc. (NYSE: XYZ) builds technology to increase access to the global economy. Each of our brands unlocks different aspects of the economy for more people.&amp;nbsp;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Square&lt;/strong&gt;&amp;nbsp;makes commerce and financial services accessible to sellers.&amp;nbsp;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Cash App&lt;/strong&gt;&amp;nbsp;is the easy way to spend, send, and store money.&amp;nbsp;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Afterpay&lt;/strong&gt;&amp;nbsp;is transforming the way customers manage their spending over time.&amp;nbsp;&lt;strong data-stringify-type=&quot;bold&quot;&gt;TIDAL&lt;/strong&gt;&amp;nbsp;is a music platform that empowers artists to thrive as entrepreneurs.&amp;nbsp;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Bitkey&lt;/strong&gt;&amp;nbsp;is a simple self-custody wallet built for bitcoin.&amp;nbsp;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Proto&lt;/strong&gt;&amp;nbsp;is a suite of bitcoin mining products and services. Together, we’re helping build a financial system that is open to everyone.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;a href=&quot;https://block.xyz/en/legal/applicant-privacy-notice&quot; target=&quot;_blank&quot;&gt;Privacy Policy&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4061225008,
+      "name": "10414 Engineering - Fintech Platform",
+      "child_ids": [],
+      "parent_id": 4017163008
+    }
+  ],
+  "offices": [
+    {
+      "id": 4007802008,
+      "name": "US - CA - Bay Area - Remote",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 4004627008
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

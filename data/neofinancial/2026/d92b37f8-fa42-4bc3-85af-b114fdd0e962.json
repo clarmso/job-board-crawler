@@ -4,16 +4,18 @@
   "department": "Sales",
   "team": "Sales",
   "employmentType": "FullTime",
-  "location": "Grocery Ont-East",
+  "location": "Toronto, ON",
   "shouldDisplayCompensationOnJobPostings": true,
   "secondaryLocations": [],
   "publishedAt": "2026-08-24T17:03:51.640+00:00",
   "isListed": true,
-  "isRemote": null,
-  "workplaceType": null,
+  "isRemote": false,
+  "workplaceType": "OnSite",
   "address": {
     "postalAddress": {
-      "addressCountry": "Canada"
+      "addressRegion": "Ontario",
+      "addressCountry": "Canada",
+      "addressLocality": "Toronto"
     }
   },
   "jobUrl": "https://jobs.ashbyhq.com/neofinancial/d92b37f8-fa42-4bc3-85af-b114fdd0e962",

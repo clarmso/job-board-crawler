@@ -1,0 +1,66 @@
+{
+  "absolute_url": "https://instacart.careers/job/?gh_jid=7979769",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 3449661,
+  "location": {
+    "name": "Canada - Remote (ON, AB, BC, or NS Only)"
+  },
+  "metadata": [
+    {
+      "id": 16452,
+      "name": "Employment Type",
+      "value": "Regular",
+      "value_type": "single_select"
+    },
+    {
+      "id": 740030,
+      "name": "Exemption Status",
+      "value": "Exempt",
+      "value_type": "single_select"
+    },
+    {
+      "id": 235666,
+      "name": "Time Type",
+      "value": "Full time",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 7979769,
+  "updated_at": "2026-08-24T13:15:00-04:00",
+  "requisition_id": "EG960",
+  "title": "Senior Software Engineer I — Agentic Analytics",
+  "company_name": "Instacart",
+  "first_published": "2026-06-03T13:02:27-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;We&#39;re transforming the grocery industry&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span class=&quot;im&quot;&gt;At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;Instacart has become a lifeline for millions of people, and we’re building the team to help push our shopping cart forward. If you’re ready to do the best work of your life, come join our table.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Instacart is a Flex First team &lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;There’s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work—whether it’s from home, an office, or your favorite coffee shop—while staying connected and building community through regular in-person events. &lt;a href=&quot;https://www.instacart.careers/flex-first&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://instacart.careers/remote/&amp;amp;source=gmail&amp;amp;ust=1651869232122000&amp;amp;usg=AOvVaw37OlxP8hAKN7nq4YwHQH7e&quot;&gt;Learn more about our flexible approach to where we work.&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;Overview&lt;/h2&gt;\n&lt;h3&gt;About the Role&lt;/h3&gt;\n&lt;p&gt;We are currently seeking a Senior Software Engineer to join our Agentic Analytics Platform team — the team responsible for the AI-for-Data charter inside Instacart&#39;s Data Infrastructure org. You&#39;ll design and build LLM-powered systems that transform how data practitioners (data scientists, data engineers, analysts, PMs) interact with data at Instacart — from natural-language data access and AI-assisted SQL, to automated metadata generation, to embedding intelligent capabilities across our broader data infra ecosystem. This is a hands-on role at the frontier of applied AI inside a large, modern data stack.&lt;/p&gt;\n&lt;h3&gt;About the Team&lt;/h3&gt;\n&lt;p&gt;The mission of the Instacart Self-Serve organization is to improve the productivity of data practitioners through easy-to-use, self-serve tools. Agentic Analytics is the team chartered with bringing AI and LLMs into that mission — broadly. We own the systems, evals, and product surfaces that make AI-for-Data real at Instacart, and we partner across Data Infra to embed AI capabilities wherever they create the most leverage. It&#39;s a small team with an outsized charter, defining what &quot;AI for the data org&quot; looks like in production at company scale.&lt;/p&gt;\n&lt;h2&gt;About the Job&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;You will be part of a small, ambitious team with a large amount of ownership and surface area, contributing directly to the AI-for-Data charter at Instacart.&lt;/li&gt;\n&lt;li&gt;You will build LLM-powered systems end-to-end — retrieval/grounding over internal metadata and code, agentic workflows, evals and quality systems, and the product surfaces that put these tools in front of internal users.&lt;/li&gt;\n&lt;li&gt;You will have the opportunity to suggest and drive new initiatives — the roadmap is still being shaped and there&#39;s real room for contribution.&lt;/li&gt;\n&lt;li&gt;You will collaborate closely with other engineers on the team and contribute to a strong engineering culture around applied AI rigor (evals, observability, safety, cost).&lt;/li&gt;\n&lt;li&gt;You will work closely with Data Science, ML, Product Engineering, and other Data Infra teams to identify high-leverage AI applications and translate them into reliable, production-grade systems.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;About You&lt;/h2&gt;\n&lt;h3&gt;Minimum Qualifications&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Self-motivation and an enjoyment for a startup environment, with comfort operating in ambiguity&lt;/li&gt;\n&lt;li&gt;A strong sense of ownership and a builder&#39;s instinct — you&#39;ve shipped real systems, not just prototypes&lt;/li&gt;\n&lt;li&gt;Strong backend engineering skills in Python, with experience building production services&lt;/li&gt;\n&lt;li&gt;Hands-on experience with &lt;strong&gt;applied LLM systems&lt;/strong&gt; — RAG, agentic workflows, prompt engineering, evals, or similar. You&#39;ve worked on an LLM-powered system in production (or close to it) and have opinions on what makes them reliable.&lt;/li&gt;\n&lt;li&gt;Working knowledge of common data infrastructure technologies (Python, Airflow, Snowflake, dbt) in a production environment&lt;/li&gt;\n&lt;li&gt;Strong knowledge of SQL&lt;/li&gt;\n&lt;li&gt;Experience working with a large codebase on a cross-functional team&lt;/li&gt;\n&lt;li&gt;An ability to balance a sense of urgency with shipping high quality and pragmatic solutions&lt;/li&gt;\n&lt;li&gt;5+ years of working experience in a similar field/environment&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Preferred Qualifications&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience with retrieval systems, vector stores, or grounding LLMs over structured/unstructured enterprise data&lt;/li&gt;\n&lt;li&gt;Familiarity with eval frameworks and quality systems for LLM-powered products&lt;/li&gt;\n&lt;li&gt;Experience building developer tools or internal tools for technical users&lt;/li&gt;\n&lt;li&gt;Bachelor&#39;s degree in Computer Science, computer engineering, electrical engineering, OR equivalent work experience&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p class=&quot;p1&quot;&gt;#LI-Remote&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Instacart provides highly market-competitive compensation and benefits in each location where our employees work. This role is remote and the base pay range for a successful candidate is dependent on their permanent work location. Please review our Flex First remote work policy &lt;a href=&quot;https://instacart.careers/flex-first/&quot;&gt;here&lt;/a&gt;. Currently, we are only hiring in the following provinces: Ontario, Alberta, British Columbia, and Nova Scotia.&lt;/p&gt;\n&lt;p&gt;Offers may vary based on many factors, such as candidate experience and skills required for the role. Additionally, this role is eligible for a new hire equity grant as well as annual refresh grants. Please read more about our benefits offerings &lt;a href=&quot;https://instacart.careers/taste-of-instacart/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;For Canadian based candidates, the base pay ranges for a successful candidate are listed below.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;CAN&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$168,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$177,500 CAD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 50238,
+      "name": "Software Engineering",
+      "child_ids": [],
+      "parent_id": 4132
+    }
+  ],
+  "offices": [
+    {
+      "id": 88202,
+      "name": "Remote - Canada",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 88198
+    }
+  ],
+  "ai_disclaimer": "<p>Instacart (Maplebear Inc. d/b/a Instacart) uses Greenhouse's Real Talent technology as part of our hiring process. Select \"Learn more\" for information on how these tools work, what data is involved, and your rights.&nbsp;</p>",
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": "http://app.greenhouse.io/ai_opt_out_request/job_post/7979769/ai_opt_out"
+}

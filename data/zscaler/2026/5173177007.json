@@ -1,0 +1,103 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/zscaler/jobs/5173177007",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 4649724007,
+  "location": {
+    "name": "Mohali, IND"
+  },
+  "metadata": [
+    {
+      "id": 4203262007,
+      "name": "Employment Type",
+      "value": "Fulltime Employee",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4363861007,
+      "name": "Additional Job Post Location",
+      "value": [],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 4363809007,
+      "name": "Division",
+      "value": "Products",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4391305007,
+      "name": "Geo/Region",
+      "value": "India",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 5173177007,
+  "updated_at": "2026-09-21T01:21:32-04:00",
+  "requisition_id": "260619_B40118",
+  "title": "Staff Software Development Engineer - AI Engineer",
+  "company_name": "Zscaler",
+  "first_published": "2026-07-05T03:35:25-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange™️ platform protects thousands of customers from cyberattacks and data loss by securely connecting users, devices, and applications in any location. Distributed across 160+ public exchanges globally and thousands of private exchanges at the edge, the SASE-based Zero Trust Exchange is the world’s largest in-line cloud security platform.&lt;/p&gt;\n&lt;p&gt;We believe the future of work is Human + AI and are building an AI-native enterprise where human potential is amplified by machine intelligence to solve the world’s hardest security challenges. Driven by deep customer obsession, we are committed to the mission, outcome, and to each other. We bring these commitments to life through three core behaviors: ownership and collaboration, trust through outcomes and impact, and a challenge culture with ongoing feedback. Ready to make an impact at the company pioneering security transformation in the AI era? Join us at Zscaler.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&lt;img style=&quot;max-width: 100%;&quot; src=&quot;https://image.synthesia.io/c57d35c1-5686-4e34-bec6-bba734f90ab1/thumbnail.gif&quot;&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We are looking for an AI Engineer to join our team. This is a Hybrid role, reporting to the Engineering Manager in the Product Operations department.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;We are seeking a hands-on AI Engineer to help scale the agentic layer of our AI Native - Product Operations Platform. In this role, you will design and build production-grade AI systems, reusable platform capabilities, and the engineering harnesses required to safely develop, evaluate, debug, and operate AI workflows at scale. As a pragmatic builder who understands modern AI systems in practice, you will translate ambiguous business needs into scalable technical solutions in a high-velocity environment.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What you’ll do (Role Expectations)&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Build and scale the agentic layer of the AI Native - Product Operations Platform by designing production-grade AI systems, reusable platform capabilities, and reliable execution patterns&lt;/li&gt;\n&lt;li&gt;Develop Agentic AI capabilities by applying practical knowledge of RAG architectures, embeddings, vector retrieval, agent orchestration, and workflow state management&lt;/li&gt;\n&lt;li&gt;Design and implement AI engineering harnesses for prompt testing, agent debugging, workflow replay, evaluation, regression testing, tracing, and controlled experimentation&lt;/li&gt;\n&lt;li&gt;Build and maintain graph-based agent workflows, including multi-step reasoning flows, tool-calling paths, branching logic, human-in-the-loop checkpoints, and stateful execution patterns&lt;/li&gt;\n&lt;li&gt;Implement standards, patterns, and guardrails to ensure AI development on the platform remains scalable, reliable, observable, and cohesive&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Who You Are (Success Profile)&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;You are a pragmatic builder with a passion for rolling up your sleeves to create, iterate, and ship production-grade software.&lt;/li&gt;\n&lt;li&gt;You thrive in ambiguity and fast-paced environments, maintaining focus and execution velocity amidst rapid change.&lt;/li&gt;\n&lt;li&gt;You act like an owner, bringing deep accountability, a strong bias for action, and end-to-end execution to every project.&lt;/li&gt;\n&lt;li&gt;You are a high-trust collaborator who excels at partnering with cross-functional teams to translate business needs into technical solutions.&lt;/li&gt;\n&lt;li&gt;You champion simplicity, with a proven ability to distill complex technical problems and AI architectures into clean, actionable plans.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;What We’re Looking for (Minimum Qualifications)&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;5+ years of industry experience with at least 2-3 years focused on building or working with AI development harnesses, including test harnesses, evaluation pipelines, workflow replay tools, tracing, observability, and prompt or agent regression testing&lt;/li&gt;\n&lt;li&gt;Proven experience building and deploying agentic AI systems, RAG architectures, embeddings, and vector retrieval systems in production environments&lt;/li&gt;\n&lt;li&gt;Familiarity with prompt engineering, orchestration patterns, agent workflows, graph-based execution models, and evaluation frameworks or guardrails&lt;/li&gt;\n&lt;li&gt;Practical understanding of agentic loops, including planning, retrieval, tool execution, validation, retry handling, reflection, and termination criteria&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;What Will Make You Stand Out (Preferred Qualifications)&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Bachelor’s degree in Computer Science or a related technical field, or equivalent practical experience&lt;/li&gt;\n&lt;li&gt;Hands-on software engineering experience with FastAPI, NextJS, and Postgres, including building application stacks end-to-end&lt;/li&gt;\n&lt;li&gt;Experience operating in a high-velocity delivery environment with a track record of supporting frequent or weekly feature releases&lt;/li&gt;\n&lt;li&gt;Proven ability to design AI systems optimized for low cost, high throughput, extensibility, observability, and long-term scalability&lt;/li&gt;\n&lt;/ul&gt;\n&lt;div&gt;#LI-KM8&lt;/div&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;#LI-Hybrid&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p data-pm-slice=&quot;1 3 []&quot;&gt;At Zscaler, we are committed to building a team that reflects the communities we serve and the customers we work with. We foster an inclusive environment that values all backgrounds and perspectives, emphasizing collaboration and belonging. Join us in our mission to make doing business seamless and secure.&lt;/p&gt;\n&lt;p&gt;Our Benefits program is one of the most important ways we support our employees. Zscaler proudly offers comprehensive and inclusive benefits to meet the diverse needs of our employees and their families throughout their life stages, including:&lt;/p&gt;\n&lt;div class=&quot;has-nudge&quot; data-nudge-id=&quot;5eb9419b-6a4d-4451-bfa6-e2eb96084be0&quot;&gt;\n&lt;ul&gt;\n&lt;li&gt;Various health plans&lt;/li&gt;\n&lt;li&gt;Time off plans for vacation and sick time&lt;/li&gt;\n&lt;li&gt;Parental leave options&lt;/li&gt;\n&lt;li&gt;Retirement options&lt;/li&gt;\n&lt;li&gt;Education reimbursement&lt;/li&gt;\n&lt;li&gt;In-office perks, and more!&lt;/li&gt;\n&lt;/ul&gt;\n&lt;div class=&quot;has-nudge&quot; data-nudge-id=&quot;5eb9419b-6a4d-4451-bfa6-e2eb96084be0&quot;&gt;\n&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;Learn more about Zscaler&#39;s hybrid working model and benefits&amp;nbsp;&lt;a href=&quot;https://www.zscaler.com/candidate-resource-hub&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;p&gt;By applying for this role, you adhere to applicable laws, regulations, and Zscaler policies, including those related to security and privacy standards and guidelines.&lt;/p&gt;\n&lt;p class=&quot;p1&quot;&gt;Zscaler is committed to providing equal employment opportunities to all individuals. We strive to create a workplace where employees are treated with respect and have the chance to succeed. All qualified applicants will be considered for employment without regard to race, color, religion, sex (including pregnancy or related medical conditions), age, national origin, sexual orientation, gender identity or expression, genetic information, disability status, protected veteran status, or any other characteristic protected by federal, state, or local laws. &lt;em&gt;See more information by clicking on the &lt;/em&gt;&lt;a href=&quot;https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf&quot;&gt;&lt;em&gt;Know Your Rights: Workplace Discrimination is Illegal &lt;/em&gt;&lt;/a&gt;&lt;em&gt;link.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;Pay Transparency&lt;/p&gt;\n&lt;p&gt;Zscaler complies with all applicable federal, state, and local pay transparency rules.&lt;/p&gt;\n&lt;p&gt;Zscaler is committed to providing reasonable support (called accommodations or adjustments) in our recruiting processes for candidates who are differently abled, have long term conditions, mental health conditions or sincerely held religious beliefs, or who are neurodivergent or require pregnancy-related support.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4015432007,
+      "name": "Product Management",
+      "child_ids": [
+        4046332007,
+        4046330007,
+        4059187007,
+        4046331007,
+        4052370007,
+        4059188007,
+        4059189007,
+        4056719007,
+        4066355007,
+        4029173007,
+        4041580007,
+        4058348007,
+        4018228007,
+        4018299007,
+        4018307007,
+        4018510007,
+        4018296007,
+        4018309007,
+        4018297007,
+        4018298007,
+        4018303007,
+        4018310007,
+        4043626007,
+        4018287007,
+        4041711007,
+        4015521007,
+        4015524007,
+        4035833007,
+        4044013007,
+        4043621007
+      ],
+      "parent_id": 4017789007
+    }
+  ],
+  "offices": [
+    {
+      "id": 4009753007,
+      "name": "Office - Mohali, India",
+      "location": "Mohali, IND",
+      "child_ids": [],
+      "parent_id": 4009663007
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

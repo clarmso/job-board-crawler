@@ -1,0 +1,32 @@
+{
+  "id": "4f4620daf613",
+  "friendly_id": "4f4620daf613-position-title-details",
+  "name": "Position Title Details",
+  "url": "https://breezy.breezy.hr/p/4f4620daf613-position-title-details",
+  "published_date": "2022-05-02T17:43:54.391Z",
+  "type": {
+    "id": "fullTime",
+    "name": "Full-Time"
+  },
+  "location": {
+    "country": {
+      "name": "United States",
+      "id": "US"
+    },
+    "state": {
+      "id": "CT",
+      "name": "Connecticut"
+    },
+    "city": "Sandy Hook",
+    "name": "Sandy Hook, CT"
+  },
+  "department": "Department X",
+  "salary": "$7 – $12 / year",
+  "company": {
+    "name": "MS Breezy Trial",
+    "logo_url": null,
+    "friendly_id": "breezy",
+    "isMultipleLocationsEnabled": false
+  },
+  "locations": []
+}

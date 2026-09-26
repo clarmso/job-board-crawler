@@ -1,0 +1,72 @@
+{
+  "absolute_url": "https://www.zoominfo.com/careers?gh_jid=8779426002",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 6454190002,
+  "location": {
+    "name": "London, United Kingdom"
+  },
+  "metadata": [
+    {
+      "id": 24710929002,
+      "name": "Job Family Group",
+      "value": "Information Technology",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24711071002,
+      "name": "Time Type",
+      "value": "Full time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 101751589002,
+      "name": "Work Shift",
+      "value": "General Shift",
+      "value_type": "short_text"
+    },
+    {
+      "id": 4203585002,
+      "name": "LEGACY - Employment Type",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8779426002,
+  "updated_at": "2026-09-24T15:16:51-04:00",
+  "requisition_id": "JR107912",
+  "title": "Senior Data Engineer",
+  "company_name": "ZoomInfo Technologies LLC",
+  "first_published": "2026-09-02T15:42:11-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen–fast.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;We are looking for a highly skilled &lt;strong&gt;Senior Data Engineer&lt;/strong&gt; to become part of our core Enterprise Data Engineering team. You will be a senior member of the larger AI, Data and Innovation organization, responsible for designing and expanding enterprise-level data infrastructure that enables ZoomInfo&#39;s internal teams to interact with data comprehensively.&lt;/p&gt;\n&lt;p&gt;The ideal candidate has a strong background in big data processing, pipeline orchestration, and data modeling, with a proven track record of delivering scalable and high-quality data solutions in fast-paced, data-centric product environments. Given the dynamic nature of emerging technologies, this role requires an individual who excels at exploration and embraces continuous learning as core responsibilities. You&#39;ll constantly research and implement innovative solutions while integrating vast, diverse data sources into our AI applications, including our industry-leading LLM-powered systems.&lt;/p&gt;\n&lt;p&gt;This role also carries production ownership: you will share on-call responsibility for the pipelines and platforms you build, and you&#39;re comfortable triaging, escalating, and driving incidents to resolution under pressure.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What you&#39;ll do:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Design, develop, and maintain high-performance, product-centric data pipelines using Airflow, DBT, and Python.&lt;/li&gt;\n&lt;li&gt;Architect and optimize the massive-scale data warehouse and lakehouse that serves as our single source of truth for all customer data, primarily using Snowflake.&lt;/li&gt;\n&lt;li&gt;Lead the integration of diverse structured and unstructured data sources (e.g., web data, third-party APIs) into our data ecosystem, ensuring high-quality and reliable ingestion.&lt;/li&gt;\n&lt;li&gt;Define roadmap priorities that anticipate internal consumer needs and drive competitive advantage in data and AI capabilities.&lt;/li&gt;\n&lt;li&gt;Serve as a trusted advisor to leadership on strategy, AI-readiness, and data infrastructure investment decisions.&lt;/li&gt;\n&lt;li&gt;Collaborate with ML engineers, data scientists, and product managers to translate business needs into scalable data solutions that directly enhance customer value.&lt;/li&gt;\n&lt;li&gt;Define, monitor, and enforce data quality SLAs across all pipelines and products, ensuring data accuracy and lineage are a top priority.&lt;/li&gt;\n&lt;li&gt;Participate in a shared PagerDuty on-call rotation, responding to pipeline and platform incidents, performing root-cause analysis, and driving remediation and postmortems.&lt;/li&gt;\n&lt;li&gt;Triage production issues quickly and escalate appropriately, knowing when to loop in engineering leadership, Platform engineers, adjacent teams, or business stakeholders based on severity, blast radius, and customer impact.&lt;/li&gt;\n&lt;li&gt;Operate effectively amid ambiguity by making sound judgment calls and iterating with stakeholders rather than waiting for perfect clarity.&lt;/li&gt;\n&lt;li&gt;Mentor and coach junior engineers, promoting best practices in code quality, data architecture, incident response, and operational excellence.&lt;/li&gt;\n&lt;li&gt;Participate in architectural decisions and long-term strategy planning for our enterprise-wide data infrastructure, with a focus on cost, performance, reliability, and observability.&lt;/li&gt;\n&lt;li&gt;Contribute to and maintain runbooks, on-call documentation, and operational playbooks to reduce time-to-resolution for future incidents.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What you bring:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Expert-level SQL for building performant, scalable queries and transformations on massive datasets.&lt;/li&gt;\n&lt;li&gt;Strong Python programming skills with a focus on distributed computing, data manipulation, and building robust APIs.&lt;/li&gt;\n&lt;li&gt;Production-level experience for large-scale batch and streaming data processing.&lt;/li&gt;\n&lt;li&gt;Hands-on experience with DBT (Data Build Tool) for advanced data modeling and transformations in a modern data stack.&lt;/li&gt;\n&lt;li&gt;Deep knowledge of Snowflake data warehouse design, optimization, and cost modeling.&lt;/li&gt;\n&lt;li&gt;Experience owning production systems, including on-call rotations (e.g., PagerDuty, Opsgenie), incident response, and postmortem processes.&lt;/li&gt;\n&lt;li&gt;Strong understanding of data architecture concepts, including data lakes, event-driven architectures (e.g., Kafka), ETL/ELT, and data mesh.&lt;/li&gt;\n&lt;li&gt;Proficiency with cloud platforms (GCP and/or AWS) and infrastructure as code (e.g., Terraform).&lt;/li&gt;\n&lt;li&gt;Experience with monitoring/observability tooling (e.g., Datadog, Monte Carlo, Grafana) for proactive detection of data quality and pipeline issues.&lt;/li&gt;\n&lt;li&gt;Familiarity with CI/CD practices applied to data workflows (e.g., automated testing for pipelines, version-controlled data models).&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Required Non-Technical Skills&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Excellent communication skills – ability to explain complex technical concepts to both engineering teams and non-technical stakeholders, especially during high-pressure incidents.&lt;/li&gt;\n&lt;li&gt;Strategic &amp;amp; Product-Oriented Thinking – can translate business objectives and customer needs into scalable, high-impact data solutions.&lt;/li&gt;\n&lt;li&gt;Leadership &amp;amp; Mentorship – experience guiding and uplifting engineering teams to achieve their full potential.&lt;/li&gt;\n&lt;li&gt;Stakeholder Management – able to collaborate effectively across departments (Product, Engineering, Sales, Compliance) and communicate clearly with the right people at the right time when issues arise.&lt;/li&gt;\n&lt;li&gt;Sound Judgment Under Ambiguity – comfortable making decisions with incomplete information, adjusting course as new data emerges, and knowing when to ask for help versus when to move forward independently.&lt;/li&gt;\n&lt;li&gt;Ownership &amp;amp; Accountability – takes responsibility for the full lifecycle of what you build, including production support, not just initial delivery.&lt;/li&gt;\n&lt;li&gt;Strong documentation habits and ability to evangelize best practices across the organization.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Qualifications&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Bachelor&#39;s or Master&#39;s degree in Computer Science, Engineering, or a related field.&lt;/li&gt;\n&lt;li&gt;8+ years of progressive experience in data engineering, with a track record of leadership and impact.&lt;/li&gt;\n&lt;li&gt;Demonstrated experience in implementing or scaling data infrastructure for a data-centric product company.&lt;/li&gt;\n&lt;li&gt;Experience participating in an on-call rotation supporting production data systems.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;#LI-JH1&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;#LI-Remote&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;About us:&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;ZoomInfo (NASDAQ: GTM) is the Go-To-Market Intelligence Platform that empowers businesses to grow faster with AI-ready insights, trusted data, and advanced automation. Its solutions provide more than 35,000 companies worldwide with a complete view of their customers, making every seller their best seller.&lt;/p&gt;\n&lt;p&gt;ZoomInfo is committed to protecting your privacy when you apply for jobs with us. Please review our Job Applicant &lt;a href=&quot;https://drive.google.com/file/d/1yiG-k0YX_sW10PiJk_xliDc3W-veJCrK/view?usp=drive_link&quot; target=&quot;_blank&quot;&gt;Privacy Notice&lt;/a&gt; for more details on how we handle your personal information.&lt;/p&gt;\n&lt;p&gt;ZoomInfo may use a software-based assessment as part of the recruitment process. More information about this tool, including the results of the most recent bias audit, is available &lt;a href=&quot;https://www.zoominfo.com/legal/nyc-local-law-144-notice&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;ZoomInfo is proud to be an equal opportunity employer, hiring based on qualifications, merit, and business needs, and does not discriminate based on protected status. We welcome all applicants and are committed to providing equal employment opportunities regardless of sex, race, age, color, national origin, sexual orientation, gender identity, marital status, disability status, religion, protected military or veteran status, medical condition, or any other characteristic protected by applicable law. We also consider qualified candidates with criminal histories in accordance with legal requirements.&lt;/p&gt;\n&lt;p&gt;For Massachusetts Applicants: It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability. ZoomInfo does not administer lie detector tests to applicants in any location.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4078176002,
+      "name": "965 Product Management - AI & Strategy",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 4102323002,
+      "name": "Remote-Ireland",
+      "location": null,
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

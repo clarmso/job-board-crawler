@@ -1,0 +1,66 @@
+{
+  "absolute_url": "https://instacart.careers/job/?gh_jid=7778693",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 3405224,
+  "location": {
+    "name": "United States - Remote"
+  },
+  "metadata": [
+    {
+      "id": 16452,
+      "name": "Employment Type",
+      "value": "Regular",
+      "value_type": "single_select"
+    },
+    {
+      "id": 740030,
+      "name": "Exemption Status",
+      "value": "Exempt",
+      "value_type": "single_select"
+    },
+    {
+      "id": 235666,
+      "name": "Time Type",
+      "value": "Full time",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 7778693,
+  "updated_at": "2026-08-24T13:15:00-04:00",
+  "requisition_id": "MH136",
+  "title": "Staff Software Engineer,  Data Governance & Foundations",
+  "company_name": "Instacart",
+  "first_published": "2026-04-03T14:34:39-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;We&#39;re transforming the grocery industry&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span class=&quot;im&quot;&gt;At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;Instacart has become a lifeline for millions of people, and we’re building the team to help push our shopping cart forward. If you’re ready to do the best work of your life, come join our table.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Instacart is a Flex First team &lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;There’s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work—whether it’s from home, an office, or your favorite coffee shop—while staying connected and building community through regular in-person events. &lt;a href=&quot;https://www.instacart.careers/flex-first&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://instacart.careers/remote/&amp;amp;source=gmail&amp;amp;ust=1651869232122000&amp;amp;usg=AOvVaw37OlxP8hAKN7nq4YwHQH7e&quot;&gt;Learn more about our flexible approach to where we work.&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Instacarts Data Infrastructure organization builds and operates the systems that power our company’s data ecosystem, including a modern open data lakehouse on Apache Iceberg, a multi-engine compute platform for stream and analytical workloads, and self-serve tooling that helps Product, Data Science, ML, Ads, Finance, and engineering teams move fast with data.&lt;/p&gt;\n&lt;p&gt;We’re looking for a Staff Software Engineer, Data Infrastructure to join our Data Governance and Foundations Team. In this role, you’ll serve as a senior technical leader owning the architecture and delivery of our open lakehouse foundation, governance and access patterns, and multi-engine compute strategy—balancing today’s reliability with the next three to five years of scale, maturity, and cost efficiency.&lt;/p&gt;\n&lt;p&gt;You’ll collaborate closely with engineering leadership and stakeholders across Data Science, ML Platform, Ads Infrastructure, Finance Engineering, Product Engineering, and Security. You’ll operate with a high degree of ownership in a fast-paced environment where architectural decisions have real technical and financial consequences. If you thrive on complex, high-scale challenges and roll-up-your-sleeves execution, this is a chance to shape the backbone of Instacart’s data platform.&lt;/p&gt;\n&lt;p&gt;Our stack includes technologies such as Apache Iceberg, Apache Flink, Trino, ClickHouse, Apache Kafka, Apache Spark, Snowflake, Databricks, Confluent, Airflow, dbt, Delta Lake, Scala, Python, Postgres, and AWS. You’ll join a focused team of 7 engineers that values pragmatism, clarity, and impact.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;About the Job&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Translate Instacart’s data strategy (e.g., monetization, federated access, real-time) into an actionable multi-year architecture roadmap; align with leadership while evolving the platform for scale, maturity, and cost efficiency.&lt;/li&gt;\n&lt;li&gt;Own the open lakehouse foundation: define and deliver unified table formats, storage governance, and a multi-engine compute portfolio (interactive, batch, streaming) that enables portability and prevents lock-in.&lt;/li&gt;\n&lt;li&gt;Drive real-time and streaming infrastructure for critical use cases (Ads, Fraud, ML): set deployment patterns, SLAs, and operational practices that balance performance, availability, and spend.&lt;/li&gt;\n&lt;li&gt;Pioneer AI-native data infrastructure engineering by applying LLM/AI tools to the platform lifecycle—accelerating development, automation, observability, and cost optimization—and partnering to embed AI-powered capabilities into the platform.&lt;/li&gt;\n&lt;li&gt;Elevate engineering excellence: lead architecture reviews, mentor senior/staff engineers, influence hiring, and clearly communicate complex trade-offs to both technical and executive audiences to ensure cross-org alignment.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;About You&lt;/strong&gt;&lt;/h2&gt;\n&lt;h3&gt;Minimum Qualifications&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;10+ years of software engineering experience building and operating data infrastructure or distributed systems at production scale.&lt;/li&gt;\n&lt;li&gt;Hands-on expertise with modern data lakehouse architectures and open table formats (e.g., Apache Iceberg, Delta Lake, Hudi) and with distributed query/compute engines (e.g., Trino, Spark, ClickHouse), including performance tuning and production reliability.&lt;/li&gt;\n&lt;li&gt;Experience with event-driven and streaming infrastructure (e.g., Kafka, Flink) for real-time pipelines and serving systems.&lt;/li&gt;\n&lt;li&gt;Proven ownership of major platform transitions or migrations (build vs. buy, migration design, risk management) delivered to production.&lt;/li&gt;\n&lt;li&gt;Ability to build cost/benefit and TCO models for infrastructure investments and to drive alignment via clear architecture docs and strategy memos across multiple teams and leadership levels.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Preferred Qualifications&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience designing platform-level governance controls and familiarity with compliance frameworks (e.g., SOX, CPRA, GDPR).&lt;/li&gt;\n&lt;li&gt;FinOps experience optimizing data platform spend, including managing multi-million dollar infrastructure budgets and negotiating vendor contracts.&lt;/li&gt;\n&lt;li&gt;Deep SQL proficiency and strong skills in Python or Scala for systems-level development.&lt;/li&gt;\n&lt;li&gt;Experience with orchestration (e.g., Apache Airflow) and data transformation pipelines (e.g., dbt) in large-scale production environments.&lt;/li&gt;\n&lt;li&gt;Bachelor’s, Master’s, or PhD in Computer Science, Computer Engineering, Electrical Engineering, or equivalent practical experience.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;#LI-Remote&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Instacart provides highly market-competitive compensation and benefits in each location where our employees work. This role is remote and the base pay range for a successful candidate is dependent on their permanent work location. Please review our Flex First remote work policy &lt;/span&gt;&lt;a href=&quot;https://instacart.careers/flex-first/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Offers may vary based on many factors, such as candidate experience and skills required for the role. &lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Additionally, this role is eligible for a new hire equity grant as well as annual refresh grants. Please rea&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;d more about our benefits offerings &lt;/span&gt;&lt;a href=&quot;https://instacart.careers/taste-of-instacart/&quot; target=&quot;_blank&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;here&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;. &lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;For US based candidates, the base pay ranges for a successful candidate are listed below.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;CA, NY, CT, NJ&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$265,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$279,500 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;title&quot;&gt;WA&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$254,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$268,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;title&quot;&gt;OR, DE, ME, MA, MD, NH, RI, VT, DC, PA, VA, CO, TX, IL, HI&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$243,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$256,500 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;title&quot;&gt;All other states&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$221,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$233,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 50238,
+      "name": "Software Engineering",
+      "child_ids": [],
+      "parent_id": 4132
+    }
+  ],
+  "offices": [
+    {
+      "id": 59835,
+      "name": "Remote - United States",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 88197
+    }
+  ],
+  "ai_disclaimer": "<p>Instacart (Maplebear Inc. d/b/a Instacart) uses Greenhouse's Real Talent technology as part of our hiring process. Select \"Learn more\" for information on how these tools work, what data is involved, and your rights.&nbsp;</p>",
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": "http://app.greenhouse.io/ai_opt_out_request/job_post/7778693/ai_opt_out"
+}

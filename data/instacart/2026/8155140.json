@@ -1,0 +1,66 @@
+{
+  "absolute_url": "https://instacart.careers/job/?gh_jid=8155140",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 3529101,
+  "location": {
+    "name": "Israel - Hybrid (3 days/week in office required)"
+  },
+  "metadata": [
+    {
+      "id": 16452,
+      "name": "Employment Type",
+      "value": "Regular",
+      "value_type": "single_select"
+    },
+    {
+      "id": 740030,
+      "name": "Exemption Status",
+      "value": "Exempt",
+      "value_type": "single_select"
+    },
+    {
+      "id": 235666,
+      "name": "Time Type",
+      "value": "Full time",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8155140,
+  "updated_at": "2026-08-24T16:50:57-04:00",
+  "requisition_id": "PR00117",
+  "title": "Principal Computer Vision Engineer",
+  "company_name": "Instacart",
+  "first_published": "2026-08-24T16:46:52-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;We&#39;re transforming the grocery industry&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span class=&quot;im&quot;&gt;At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;Instacart has become a lifeline for millions of people, and we’re building the team to help push our shopping cart forward. If you’re ready to do the best work of your life, come join our table.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Instacart is a Flex First team &lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;There’s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work—whether it’s from home, an office, or your favorite coffee shop—while staying connected and building community through regular in-person events. &lt;a href=&quot;https://www.instacart.careers/flex-first&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://instacart.careers/remote/&amp;amp;source=gmail&amp;amp;ust=1651869232122000&amp;amp;usg=AOvVaw37OlxP8hAKN7nq4YwHQH7e&quot;&gt;Learn more about our flexible approach to where we work.&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;At Arpalus, recently acquired by Instacart, we build AI-powered computer vision&amp;nbsp;and AR technology that turns a phone camera into a precise sensing tool - real-time&lt;br&gt;object detection, scanning, and spatial understanding shipped as a mobile product.&amp;nbsp;Our tech runs on real devices, in real environments, under messy real-world conditions.&lt;/p&gt;\n&lt;p&gt;We&#39;re a small, fast-moving team and we&#39;re looking for a Principal Computer Vision&amp;nbsp;Engineer who already works that way too.&lt;/p&gt;\n&lt;p&gt;You&#39;ll join our core AI team and help craft best-in-class perception systems thatpower our real-time retail analytics. You&#39;ll solve genuinely hard problems in computer&lt;br&gt;vision, bridging the gap between cutting-edge research and highly optimized production&amp;nbsp;pipelines. You&#39;ll work hands-on, architecting solutions that seamlessly blend classic&amp;nbsp;computer vision techniques with modern deep learning.&lt;/p&gt;\n&lt;p&gt;In this role, you&#39;ll partner closely with our mobile and backend teams to deliver&amp;nbsp;unique capabilities. As a Principal Computer Vision Engineer, you&#39;ll help shape the&amp;nbsp;technical strategy for the AI group, influence direction across our training and&amp;nbsp;inference codebases, and ship high-quality, observable algorithms at scale.&lt;/p&gt;\n&lt;p&gt;We value clear communication, practical problem solving, and ownership. If you thrive&amp;nbsp;in a fast-paced, evolving environment where you can roll up your sleeves, make&lt;br&gt;thoughtful tradeoffs, and see your work move key metrics in real time, you&#39;ll feel&amp;nbsp;right at home here.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;About the Job&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Architect and Own: Drive the evolution of our core computer vision pipelines, taking algorithms from initial research and training through to highly optimized&amp;nbsp;production deployment.&lt;/li&gt;\n&lt;li&gt;Blend Classic &amp;amp; AI: Design and implement robust classic computer vision algorithms&amp;nbsp;alongside deep learning architectures to solve complex spatial, alignment, and&amp;nbsp;tracking challenges.&lt;/li&gt;\n&lt;li&gt;Model Development: Train, evaluate, and fine-tune state-of-the-art deep learning&amp;nbsp;models for object detection, classification, and advanced segmentation.&lt;/li&gt;\n&lt;li&gt;Optimize for Production: Build and optimize high-performance inference pipelines&amp;nbsp;in Python and C++, leveraging optimization tools like TensorRT and CUDA to ensure&amp;nbsp;low-latency execution.&lt;/li&gt;\n&lt;li&gt;Technical Leadership: Drive technical excellence across the AI stack, evaluating&amp;nbsp;new architectures, standardizing our training methodologies, and making pragmatic&amp;nbsp;tradeoffs between accuracy, speed, and compute constraints.&lt;/li&gt;\n&lt;li&gt;Deliver End-to-End: Handle technical design, clean architecture, implementation,&amp;nbsp;observability, and iterative improvements of our perception engine.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Minimum Qualifications&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;6+ years of industry experience in computer vision, machine learning, or a related field.&lt;/li&gt;\n&lt;li&gt;Deep expertise in classic computer vision techniques, including strong practical&amp;nbsp;knowledge of optical flow, multi-view geometry, feature matching, and homography&lt;br&gt;&amp;nbsp; estimation (e.g., using OpenCV).&lt;/li&gt;\n&lt;li&gt;Strong foundational understanding of modern deep learning architectures, specifically&amp;nbsp;for object detection, image classification, and semantic/instance segmentation.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Production-level programming skills in Python.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Extensive hands-on experience with PyTorch and building scalable model training andevaluation pipelines.&lt;/li&gt;\n&lt;li&gt;Proven track record of optimizing complex algorithms for deployment in&amp;nbsp;resource-constrained or real-time environments.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p class=&quot;p1&quot;&gt;&lt;strong&gt;Preferred Qualifications&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Familiarity with state-of-the-art segmentation frameworks and zero-shot/foundation&amp;nbsp;models (e.g., SAM, Mask2Former, Grounding DINO).&lt;/li&gt;\n&lt;li&gt;Experience working alongside mobile teams to integrate computer vision models into&amp;nbsp;native SDKs (iOS/Android).&lt;/li&gt;\n&lt;li&gt;Experience translating computer vision algorithms into Apple frameworks and iOS.&lt;/li&gt;\n&lt;li&gt;Background in retail tech or AR-based scanning applications.&lt;/li&gt;\n&lt;/ul&gt;",
+  "departments": [
+    {
+      "id": 50238,
+      "name": "Software Engineering",
+      "child_ids": [],
+      "parent_id": 4132
+    }
+  ],
+  "offices": [
+    {
+      "id": 412021,
+      "name": "Remote - Israel",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 412020
+    }
+  ],
+  "ai_disclaimer": "<p>Instacart (Maplebear Inc. d/b/a Instacart) uses Greenhouse's Real Talent technology as part of our hiring process. Select \"Learn more\" for information on how these tools work, what data is involved, and your rights.&nbsp;</p>",
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": "http://app.greenhouse.io/ai_opt_out_request/job_post/8155140/ai_opt_out"
+}

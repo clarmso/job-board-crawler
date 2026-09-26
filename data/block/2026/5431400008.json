@@ -1,0 +1,156 @@
+{
+  "absolute_url": "http://block.xyz/careers/jobs/5431400008?gh_jid=5431400008",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "education": "education_optional",
+  "employment": "employment_required",
+  "internal_job_id": 4323116008,
+  "location": {
+    "name": "Bay Area, CA, United States of America"
+  },
+  "metadata": [
+    {
+      "id": 4185033008,
+      "name": "Career Site Function",
+      "value": "Software Engineering",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4185041008,
+      "name": "Brands",
+      "value": "Cash App",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4185056008,
+      "name": "Position open to remote",
+      "value": true,
+      "value_type": "yes_no"
+    },
+    {
+      "id": 4004901008,
+      "name": "Employee Type",
+      "value": "Regular",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4185035008,
+      "name": "Job Family Group",
+      "value": "Software Engineering - JFG",
+      "value_type": "single_select"
+    },
+    {
+      "id": 5039617008,
+      "name": "Business Unit",
+      "value": "Cash",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4289626008,
+      "name": "Zone A Salary Range",
+      "value": {
+        "unit": "USD",
+        "max_value": "395400.0",
+        "min_value": "263600.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 4289627008,
+      "name": "Zone B Salary Range",
+      "value": {
+        "unit": "USD",
+        "max_value": "395400.0",
+        "min_value": "263600.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 4289628008,
+      "name": "Zone C Salary Range",
+      "value": {
+        "unit": "USD",
+        "max_value": "395400.0",
+        "min_value": "263600.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 4364919008,
+      "name": "Zone D Salary Range",
+      "value": {
+        "unit": "USD",
+        "max_value": "395400.0",
+        "min_value": "263600.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 4599884008,
+      "name": "Canada Zone A Pay Range",
+      "value": {
+        "unit": "CAD",
+        "max_value": "334300.0",
+        "min_value": "222900.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 4599885008,
+      "name": "Canada Zone B Pay Range",
+      "value": {
+        "unit": "CAD",
+        "max_value": "334300.0",
+        "min_value": "222900.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 14729580008,
+      "name": "EU Min to Max",
+      "value": {
+        "unit": "EUR",
+        "max_value": "188400.0",
+        "min_value": "125600.0"
+      },
+      "value_type": "currency_range"
+    }
+  ],
+  "id": 5431400008,
+  "updated_at": "2026-09-25T10:39:49-04:00",
+  "requisition_id": "R0003757",
+  "title": "Staff Android Software Engineer, Cash App Consumer Platform",
+  "company_name": "Block",
+  "first_published": "2026-09-22T12:27:51-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;It all started with an idea at Block in 2013. Initially built to take the pain out of peer-to-peer payments, Cash App has gone from a simple product with a single purpose to a dynamic ecosystem, developing unique financial products, including Afterpay/Clearpay, to provide a better way to send, spend, invest, borrow and save to our 50+ million monthly active customers. We want to redefine the world&#39;s relationship with money to make it more relatable, instantly available, and universally accessible.&lt;/p&gt;\n&lt;p&gt;Today, Cash App has thousands of employees working globally across office and remote locations, with a culture geared toward innovation, collaboration and impact. We&#39;ve been a distributed team since day one, and many of our roles can be done remotely from the countries where Cash App operates. No matter the location, we tailor our experience to ensure our employees are creative, productive, and happy.&lt;/p&gt;\n&lt;h3&gt;The Team&lt;/h3&gt;\n&lt;p&gt;The Cash App Consumer Platform is responsible for laying the foundation that every Cash App engineer builds on. We own the shared systems, abstractions, and tooling that power product development across the app. We sit at the product platform layer, building on top of core systems enabling feature development. Our customers are the engineers and teams building Cash App&#39;s product experiences, and we measure our success by their velocity and quality.&lt;/p&gt;\n&lt;p&gt;As AI fundamentally reshapes software engineering, Cash’s Consumer Platform is uniquely positioned to define what AI-native development looks like at Cash App and Block, both by building AI-powered capabilities into our platform and by establishing the practices that help hundreds of engineers leverage AI effectively every day.&lt;/p&gt;\n&lt;h3&gt;The Job&lt;/h3&gt;\n&lt;p&gt;As a Staff Android Engineer on Cash App Consumer Platform, you are a multiplier for the entire client engineering discipline. You think in systems. You spot problems before they have names. You create platforms and patterns that make the right thing easy and the wrong thing hard. You operate at an organizational scope. Your work shapes how hundreds of Builders build and how millions of customers experience Cash App.&lt;/p&gt;\n&lt;p&gt;You don&#39;t wait to be handed a problem - you identify what needs to exist, build the case for it, and lead the work to completion. You bring deep Android expertise and a genuine conviction that AI is a transformative force in how we build software, and you act accordingly. This role reports to the Cash App Product Platform Lead.&lt;/p&gt;\n&lt;h3&gt;You Will&lt;/h3&gt;\n&lt;p&gt;Build and Own the Android Platform&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Own and evolve foundational Android infrastructure: modularization, dependency injection, navigation, deep linking, and app lifecycle systems&lt;/li&gt;\n&lt;li&gt;Design and deliver shared libraries and frameworks that feature teams rely on daily with developer and AI ergonomics as a first-class concern&lt;/li&gt;\n&lt;li&gt;Drive Cash App&#39;s Android architecture forward, making high-leverage decisions that compound over time&lt;/li&gt;\n&lt;li&gt;Invent thoughtful Android platform tech and open source it where it creates value for the broader community&lt;/li&gt;\n&lt;li&gt;Develop and steward rapid experimentation in support of the fast iteration enabled by the AI world&lt;/li&gt;\n&lt;li&gt;Build upon observability and performance tooling that gives engineers and on-callers clarity and confidence&lt;/li&gt;\n&lt;li&gt;Partner with iOS, Web, and backend engineers to deliver consistent, high-quality cross-platform experiences&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Lead as an AI-Native Engineer&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Evolve how Cash App&#39;s Android engineering org uses AI&lt;/li&gt;\n&lt;li&gt;Proactively identify where AI creates real leverage in platform and product engineering workflows, and act on it&lt;/li&gt;\n&lt;li&gt;Introduce and evaluate emerging AI development tools (Claude Code, GPT/Codex, Goose, and what comes next), forming a clear point of view on adoption&lt;/li&gt;\n&lt;li&gt;Build AI-powered capabilities into the platform itself where they create durable value for product teams&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Drive Organizational Impact&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Operate beyond your immediate team. Identify cross-cutting technical problems across Cash App&#39;s Android org and mobilize the resources to address them&lt;/li&gt;\n&lt;li&gt;Surface unknown risks and systemic issues before they become customer problems or engineering crises&lt;/li&gt;\n&lt;li&gt;Lead architecture and design reviews across team boundaries - help set standards that scale&lt;/li&gt;\n&lt;li&gt;Mentor and grow engineers at all levels, raising the technical ceiling of the Android community at Cash App&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Collaborate Broadly&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Partner with engineers, product managers, and designers across Cash App to align platform investments with what teams actually need&lt;/li&gt;\n&lt;li&gt;Represent Android platform needs in cross-functional, cross-org, and Block-wide technical discussions&lt;/li&gt;\n&lt;li&gt;Communicate complex technical tradeoffs with clarity to engineers, product partners, and leadership alike&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;You Have&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Platform or infrastructure builder&#39;s mindset. You&#39;ve built systems for engineers as your customers, and you care deeply about developer experience&lt;/li&gt;\n&lt;li&gt;A high agency mindset - if you see a problem you take the initiative to find a solution&lt;/li&gt;\n&lt;li&gt;10+ years of Android development experience with a demonstrated track record of impact at organizational scope&lt;/li&gt;\n&lt;li&gt;BA/BS degree in Computer Science or equivalent practical experience&lt;/li&gt;\n&lt;li&gt;Proven organizational leadership. You&#39;ve driven large-scale technical initiatives across multiple teams and left systems meaningfully better&lt;/li&gt;\n&lt;li&gt;AI-native development practice - You actively use AI-assisted development tools and have a strong, evolving point of view on where AI creates real leverage in engineering - and where it falls short&lt;/li&gt;\n&lt;li&gt;Strong systems thinking - You identify non-obvious problems and design solutions that are simple enough to be right&lt;/li&gt;\n&lt;li&gt;Exceptional communication - crisp design docs, productive design reviews, and the ability to build alignment across senior engineers and non-engineers alike&lt;/li&gt;\n&lt;li&gt;Deep Android expertise - Kotlin, Jetpack Compose, modern architecture patterns, build systems, performance profiling, and testing at scale&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Ideally, you also have&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience building developer platforms, shared libraries, or internal tooling used across large engineering organizations&lt;/li&gt;\n&lt;li&gt;Experience with Kotlin Multiplatform&lt;/li&gt;\n&lt;li&gt;Background in fintech, financial services, or other high-trust regulated environments&lt;/li&gt;\n&lt;li&gt;Experience with mobile experimentation infrastructure, feature flagging, or A/B testing at scale&lt;/li&gt;\n&lt;li&gt;A track record of identifying and naming problems that weren&#39;t yet on anyone&#39;s roadmap&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Technologies we use and teach&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Kotlin, including Kotlin Multiplatform&lt;/li&gt;\n&lt;li&gt;Jetpack Compose, Molecule, WorkManager, Structured Concurrency&lt;/li&gt;\n&lt;li&gt;CI/CD: Buildkite, Kochiku, Artifactory&lt;/li&gt;\n&lt;li&gt;Tooling: Gradle, custom Gradle Plugins, SQLDelight, Wire, Paparazzi&lt;/li&gt;\n&lt;li&gt;AI-powered developer tools: Codex, Claude Code, Goose&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;What Makes This Role Special&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Foundational scope:&amp;nbsp; Your work is the ground other engineers build on. When you move the platform forward, every Cash App engineer benefits and so do millions of customers.&lt;/li&gt;\n&lt;li&gt;AI-forward by design: We&#39;re building the practices and systems to stay ahead of how AI is reshaping software engineering. You&#39;ll shape what that looks like at Cash App.&lt;/li&gt;\n&lt;li&gt;Real organizational authority: At Block, you have the latitude to identify problems, set direction, and drive change across a large, ambitious engineering organization.&lt;/li&gt;\n&lt;li&gt;Mission that matters: Everything we build serves Cash App&#39;s mission of economic empowerment for people who&#39;ve historically been left out of the financial system.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;We&#39;re working to build a more inclusive economy where our customers have equal access to opportunity, and we strive to live by these same values in building our workplace. Block is an equal opportunity employer evaluating all employees and job applicants without regard to identity or any legally protected class. We will consider qualified applicants with arrest or conviction records for employment in accordance with state and local laws and &quot;fair chance&quot; ordinances.&lt;/p&gt;\n&lt;p&gt;We believe in being fair, and are committed to an inclusive interview experience, including providing reasonable accommodations to disabled applicants throughout the recruitment process. We encourage applicants to share any needed accommodations with their recruiter, who will treat these requests as confidentially as possible. &lt;strong&gt;Want to learn more about what we&#39;re doing to build a workplace that is fair and square? Check out our&lt;/strong&gt; &lt;a href=&quot;https://block.xyz/news/inclusion&quot; target=&quot;_blank&quot;&gt;I+D page&lt;/a&gt;.&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Block takes a market-based approach to pay, and pay may vary depending on your location. U.S. locations are categorized into one of four zones based on a cost of labor index for that geographic area. The successful candidate’s starting pay will be determined based on job-related skills, experience, qualifications, work location, and market conditions. These ranges may be modified in the future.&lt;/p&gt;\n&lt;p&gt;To find a location’s zone designation, please refer to this&amp;nbsp;&lt;a href=&quot;https://block.xyz/documents/salaryzones.pdf&quot; target=&quot;_blank&quot;&gt;resource&lt;/a&gt;. If a location of interest is not listed, please speak with a recruiter for additional information.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;Zone A:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$263,600&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$395,400 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;title&quot;&gt;Zone B: &lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$263,600&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$395,400 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;title&quot;&gt;Zone C:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$263,600&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$395,400 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;title&quot;&gt;Zone D:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$263,600&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$395,400 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;Application Guidelines&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Candidates may submit up to 9 active applications within a 60-day period. Reapplications to the same role are accepted 90 days after a previous application has been reviewed.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Use of AI in Our Hiring Process&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We may use automated AI tools to evaluate job applications for efficiency and consistency. These tools comply with local regulations, including bias audits, and we handle all personal data in accordance with state and local privacy laws.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Contact us &lt;a href=&quot;https://privacy.block.xyz/privacyportal/form&quot;&gt;here&lt;/a&gt;&amp;nbsp;with hiring practice or data usage questions.&lt;/p&gt;\n&lt;p&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;Every benefit we offer is designed with one goal: empowering you to do the best work of your career while building the life you want. Remote work, medical insurance, flexible time off, retirement savings plans, and modern family planning are just some of our offering.&amp;nbsp;&lt;/em&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;&lt;a class=&quot;c-link c-link--underline&quot; href=&quot;https://block.xyz/employee-benefits&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://block.xyz/documents/benefits.pdf&quot; data-sk=&quot;tooltip_parent&quot;&gt;Check out our other benefits at Block.&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Block, Inc. (NYSE: XYZ) builds technology to increase access to the global economy. Each of our brands unlocks different aspects of the economy for more people.&amp;nbsp;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Square&lt;/strong&gt;&amp;nbsp;makes commerce and financial services accessible to sellers.&amp;nbsp;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Cash App&lt;/strong&gt;&amp;nbsp;is the easy way to spend, send, and store money.&amp;nbsp;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Afterpay&lt;/strong&gt;&amp;nbsp;is transforming the way customers manage their spending over time.&amp;nbsp;&lt;strong data-stringify-type=&quot;bold&quot;&gt;TIDAL&lt;/strong&gt;&amp;nbsp;is a music platform that empowers artists to thrive as entrepreneurs.&amp;nbsp;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Bitkey&lt;/strong&gt;&amp;nbsp;is a simple self-custody wallet built for bitcoin.&amp;nbsp;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Proto&lt;/strong&gt;&amp;nbsp;is a suite of bitcoin mining products and services. Together, we’re helping build a financial system that is open to everyone.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;a href=&quot;https://block.xyz/en/legal/applicant-privacy-notice&quot; target=&quot;_blank&quot;&gt;Privacy Policy&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4008848008,
+      "name": "10102 Engineering - Cash App",
+      "child_ids": [],
+      "parent_id": 4008765008
+    }
+  ],
+  "offices": [
+    {
+      "id": 4007802008,
+      "name": "US - CA - Bay Area - Remote",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 4004627008
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

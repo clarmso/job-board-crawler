@@ -1,0 +1,61 @@
+{
+  "id": "743999656198021",
+  "name": "Mechanic Recruiting ManageHatta, United Arab Emiratesr",
+  "uuid": "81edd14d-d84d-4996-ac26-3f813a5b366c",
+  "jobAdId": "7423e8e0-5e64-49d8-87a2-8854bc83e0c8",
+  "defaultJobAd": true,
+  "refNumber": "REF2W",
+  "company": {
+    "identifier": "Fiverr",
+    "name": "Fiverr"
+  },
+  "releasedDate": "2017-07-21T17:49:05.000Z",
+  "location": {
+    "city": "Al Ain",
+    "region": "Abu Dhabi",
+    "country": "ae",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "24.1301619",
+    "longitude": "55.802311799999984",
+    "fullLocation": "Al Ain, Abu Dhabi, United Arab Emirates"
+  },
+  "industry": {
+    "id": "automotive",
+    "label": "Automotive"
+  },
+  "department": {},
+  "function": {
+    "id": "human_resources",
+    "label": "Human Resources"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "entry_level",
+    "label": "Entry Level"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "ae",
+      "valueLabel": "United Arab Emirates"
+    },
+    {
+      "fieldId": "59723e55a2b011519ecb4c7f",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Fiverr"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/fiverr/postings/743999656198021",
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

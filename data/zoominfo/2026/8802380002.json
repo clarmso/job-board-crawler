@@ -1,0 +1,72 @@
+{
+  "absolute_url": "https://www.zoominfo.com/careers?gh_jid=8802380002",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 6522197002,
+  "location": {
+    "name": "Toronto, Ontario, Canada"
+  },
+  "metadata": [
+    {
+      "id": 24710929002,
+      "name": "Job Family Group",
+      "value": "Information Technology",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24711071002,
+      "name": "Time Type",
+      "value": "Full time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 101751589002,
+      "name": "Work Shift",
+      "value": "General Shift",
+      "value_type": "short_text"
+    },
+    {
+      "id": 4203585002,
+      "name": "LEGACY - Employment Type",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8802380002,
+  "updated_at": "2026-09-23T11:10:27-04:00",
+  "requisition_id": "JR108124",
+  "title": "Data Engineer III",
+  "company_name": "ZoomInfo Technologies LLC",
+  "first_published": "2026-09-23T10:33:15-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen–fast.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;The&amp;nbsp;&lt;strong&gt;Data Engineer III&lt;/strong&gt; is a core builder on the Strategic Partnerships team&#39;s data platform. They design and ship ETL pipelines, semantic models, and the supporting infrastructure that powers cross-functional initiatives with Marketing, Finance, Sales, Legal, HR, and Product. Because the team operates on a project/intake basis across many business units, this role requires someone who can context-switch between domains, get up to speed on unfamiliar data quickly, and deliver pipelines that stakeholders can rely on without hand-holding.&lt;/p&gt;\n&lt;p&gt;The Data Engineer III operates with a high degree of autonomy. They own projects end-to-end — from scoping with BU stakeholders, to building and deploying pipelines, to monitoring them in production. They follow the standards set by the team and contribute back to them as they grow in the role.&amp;nbsp;&lt;/p&gt;\n&lt;h2&gt;&amp;nbsp;&lt;/h2&gt;\n&lt;h2&gt;&lt;strong&gt;What You&#39;ll Do:&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;The Data Engineer III will work within an established data stack that includes:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Warehousing&lt;/strong&gt;: Snowflake as the primary warehouse; BigQuery for GCP-native workloads&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Ingestion&lt;/strong&gt;: Fivetran for SaaS-to-Snowflake pulls; Airflow (on AWS) for custom DAGs, Lambda-based extraction, and S3 staging&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Modeling&lt;/strong&gt;: dbt for transformation and semantic layer definition&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Custom compute&lt;/strong&gt;: Databricks for bespoke modeling work that doesn&#39;t fit cleanly into dbt/Snowflake&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Infrastructure&lt;/strong&gt;: Terraform for managing Fivetran connections, GCP infrastructure, and AWS resources&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Version control &amp;amp; CI/CD&lt;/strong&gt;: GitHub&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Consumption&lt;/strong&gt;: Tableau dashboards; internal tools built on top of semantic data layers&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Build and own end-to-end data pipelines across Fivetran, Airflow, dbt, and Databricks — selecting the right tool for each problem with guidance from the Senior Data Engineer on novel cases&lt;/li&gt;\n&lt;li&gt;Design and maintain dbt models that feed the team&#39;s semantic layer, ensuring they are tested, documented, and reusable&lt;/li&gt;\n&lt;li&gt;Partner directly with stakeholders across Marketing, Finance, Sales, Legal, HR, and Product to scope data requirements and translate them into pipeline specs&lt;/li&gt;\n&lt;li&gt;Contribute to Terraform-managed infrastructure for Fivetran connectors, GCP resources, and AWS components&lt;/li&gt;\n&lt;li&gt;Follow and contribute to team engineering standards — testing, CI/CD, code review, observability, and documentation&lt;/li&gt;\n&lt;li&gt;Independently resolve complex ETL and data quality issues, escalating only when architectural tradeoffs are in play&lt;/li&gt;\n&lt;li&gt;Monitor pipelines for SLA compliance and participate in incident response&lt;/li&gt;\n&lt;li&gt;Apply data governance practices to ensure PII is handled correctly and BU-specific compliance requirements (Finance, Legal, HR) are met&lt;/li&gt;\n&lt;li&gt;Communicate technical concepts clearly to non-technical stakeholders and advise them on what is and isn&#39;t feasible&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&amp;nbsp;&lt;/h2&gt;\n&lt;h2&gt;&lt;strong&gt;What You Bring:&amp;nbsp;&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;4+ years of professional experience as a Data Engineer, with demonstrated ownership of production pipelines&lt;/li&gt;\n&lt;li&gt;Strong SQL and Python; comfortable writing production-grade code, debugging complex pipelines, and optimizing queries&lt;/li&gt;\n&lt;li&gt;Hands-on experience with a cloud data warehouse (Snowflake strongly preferred; BigQuery or equivalent acceptable)&lt;/li&gt;\n&lt;li&gt;Solid dbt experience — has built and maintained models in a production dbt project&lt;/li&gt;\n&lt;li&gt;Experience with orchestration tools — Airflow and Fivetran required; Dagster or equivalent a plus&lt;/li&gt;\n&lt;li&gt;Experience with Databricks and Spark for custom modeling and transformation workloads&lt;/li&gt;\n&lt;li&gt;Experience with AWS (Airflow, S3, Lambda) and GCP (BigQuery and adjacent services)&lt;/li&gt;\n&lt;li&gt;Ability to work autonomously — can take an ambiguous ask, scope it with a stakeholder, and ship a solution with minimal oversight&lt;/li&gt;\n&lt;li&gt;Strong communication skills — can explain technical tradeoffs to non-technical partners and adapt style to different audiences&lt;/li&gt;\n&lt;li&gt;Security-first mindset; familiar with PII handling and access controls&lt;/li&gt;\n&lt;li&gt;Has built something end-to-end before specializing — values broad competence paired with depth&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;strong&gt;Skills&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;\n&lt;p&gt;&lt;strong&gt;Core&lt;/strong&gt;: Python, SQL, Snowflake, dbt, Airflow, Fivetran, Databricks, AWS (S3, Lambda, Airflow), GCP (BigQuery), GitHub&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Required&lt;/strong&gt;: Experience with CI/CD for data pipelines; experience contributing to a team dbt project; familiarity with Terraform or another IaC tool&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;#LI-JH1&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;#LI-Remote&lt;/span&gt;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;About us:&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;ZoomInfo (NASDAQ: GTM) is the Go-To-Market Intelligence Platform that empowers businesses to grow faster with AI-ready insights, trusted data, and advanced automation. Its solutions provide more than 35,000 companies worldwide with a complete view of their customers, making every seller their best seller.&lt;/p&gt;\n&lt;p&gt;ZoomInfo is committed to protecting your privacy when you apply for jobs with us. Please review our Job Applicant &lt;a href=&quot;https://drive.google.com/file/d/1yiG-k0YX_sW10PiJk_xliDc3W-veJCrK/view?usp=drive_link&quot; target=&quot;_blank&quot;&gt;Privacy Notice&lt;/a&gt; for more details on how we handle your personal information.&lt;/p&gt;\n&lt;p&gt;ZoomInfo may use a software-based assessment as part of the recruitment process. More information about this tool, including the results of the most recent bias audit, is available &lt;a href=&quot;https://www.zoominfo.com/legal/nyc-local-law-144-notice&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;ZoomInfo is proud to be an equal opportunity employer, hiring based on qualifications, merit, and business needs, and does not discriminate based on protected status. We welcome all applicants and are committed to providing equal employment opportunities regardless of sex, race, age, color, national origin, sexual orientation, gender identity, marital status, disability status, religion, protected military or veteran status, medical condition, or any other characteristic protected by applicable law. We also consider qualified candidates with criminal histories in accordance with legal requirements.&lt;/p&gt;\n&lt;p&gt;For Massachusetts Applicants: It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability. ZoomInfo does not administer lie detector tests to applicants in any location.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4074814002,
+      "name": "889 Corporate Engineering - G&A - Enterprise Engineering & Data Analytics",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 4139578002,
+      "name": "Remote-CA-Ontario",
+      "location": null,
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

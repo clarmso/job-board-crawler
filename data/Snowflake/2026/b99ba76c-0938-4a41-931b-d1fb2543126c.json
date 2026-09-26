@@ -1,0 +1,84 @@
+{
+  "id": "b99ba76c-0938-4a41-931b-d1fb2543126c",
+  "title": "Staff Software Engineer - Postgres Control Plane",
+  "department": "Engineering",
+  "team": "Engineering",
+  "employmentType": "FullTime",
+  "location": "US-WA-Bellevue",
+  "shouldDisplayCompensationOnJobPostings": true,
+  "secondaryLocations": [
+    {
+      "location": "US-CA-Menlo Park",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "California",
+          "addressCountry": "United States",
+          "addressLocality": "Menlo Park"
+        }
+      }
+    }
+  ],
+  "publishedAt": "2026-09-26T01:52:40.218+00:00",
+  "isListed": true,
+  "isRemote": null,
+  "workplaceType": null,
+  "address": {
+    "postalAddress": {
+      "addressRegion": "Washington",
+      "addressCountry": "United States",
+      "addressLocality": "Bellevue"
+    }
+  },
+  "jobUrl": "https://jobs.ashbyhq.com/Snowflake/b99ba76c-0938-4a41-931b-d1fb2543126c",
+  "applyUrl": "https://jobs.ashbyhq.com/Snowflake/b99ba76c-0938-4a41-931b-d1fb2543126c/application",
+  "descriptionHtml": "<p style=\"min-height:1.5em\">At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don’t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset — who rapidly test emerging capabilities to discover simpler, more powerful ways to deliver results. At Snowflake, your role isn't just to execute a function, but to help redefine the future of how work gets done.</p><p style=\"min-height:1.5em\">Snowflake is now building a world class OLTP service on Postgres. We’re hiring <strong>Senior Postgres Engineers</strong> to help build the new Snowflake Postgres service. This is an exciting opportunity to help build a large scale, multi-cloud Postgres offering with access to an existing customer base.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>AS A SENIOR POSTGRES ENGINEER YOU WILL:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Develop orchestration layer/ control-plane of large scale databases</p></li><li><p style=\"min-height:1.5em\">Work with AWS, Azure, and GCP APIs</p></li><li><p style=\"min-height:1.5em\">Build High Availability and Disaster Recovery solutions</p></li><li><p style=\"min-height:1.5em\">Tune Postgres to operate at scale for some of the largest datasets in the world</p></li><li><p style=\"min-height:1.5em\">Secure and ensure customer data is protected</p></li><li><p style=\"min-height:1.5em\">Work alongside some of the brightest minds in the industry and help redefine the space by inventing at various layers of the software stack — from broad distributed systems to low-level optimizations that fundamentally change the performance characteristics of the system to cater to our customer needs.</p></li></ul><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>OUR IDEAL SENIOR POSTGRES ENGINEER WILL HAVE:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">7+ years industry experience designing, building and developing large scale systems in production</p></li><li><p style=\"min-height:1.5em\">Experience building and maintaining distributed, highly available, fault tolerant services</p></li><li><p style=\"min-height:1.5em\">Excellent understanding of low level operating systems concepts including multi-threading, memory management, networking, storage, performance, and scale</p></li><li><p style=\"min-height:1.5em\">Extremely strong fundamental computer science skills</p></li><li><p style=\"min-height:1.5em\">Experience with Java, Python/Ruby &amp; Go</p></li><li><p style=\"min-height:1.5em\">Experience running &amp; maintaining large Postgres servers</p></li><li><p style=\"min-height:1.5em\">Familiarity with cloud networking (VPCs, PrivateLink, Peering, etc)</p></li><li><p style=\"min-height:1.5em\">Experience working with remote, geographically distributed teams</p></li><li><p style=\"min-height:1.5em\">Excellent verbal and written communication skills</p></li></ul><p style=\"min-height:1.5em\"><strong>THE FOLLOWING ARE CONSIDERED A PLUS:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Bachelors, Masters, or PhD in Computer Science</p></li><li><p style=\"min-height:1.5em\">Deep, expert knowledge of Postgres (WAL, extensions, configuration, replication, etc)</p></li><li><p style=\"min-height:1.5em\">Experience designing and implementing large systems for public or private clouds</p></li><li><p style=\"min-height:1.5em\">FedRAMP and DoD deployment experience</p></li></ul><p style=\"min-height:1.5em\">Snowflake is growing fast, and we’re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake.</p><p style=\"min-height:1.5em\">How do you want to make your impact?</p><p style=\"min-height:1.5em\">For jobs located in the United States, please visit the job posting on the Snowflake Careers Site for salary and benefits information: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://careers.snowflake.com\">careers.snowflake.com</a></p>",
+  "descriptionPlain": "At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don’t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset — who rapidly test emerging capabilities to discover simpler, more powerful ways to deliver results. At Snowflake, your role isn't just to execute a function, but to help redefine the future of how work gets done.\n\nSnowflake is now building a world class OLTP service on Postgres. We’re hiring Senior Postgres Engineers to help build the new Snowflake Postgres service. This is an exciting opportunity to help build a large scale, multi-cloud Postgres offering with access to an existing customer base.\n\n\n\nAS A SENIOR POSTGRES ENGINEER YOU WILL:\n\n - Develop orchestration layer/ control-plane of large scale databases\n\n - Work with AWS, Azure, and GCP APIs\n\n - Build High Availability and Disaster Recovery solutions\n\n - Tune Postgres to operate at scale for some of the largest datasets in the world\n\n - Secure and ensure customer data is protected\n\n - Work alongside some of the brightest minds in the industry and help redefine the space by inventing at various layers of the software stack — from broad distributed systems to low-level optimizations that fundamentally change the performance characteristics of the system to cater to our customer needs.\n\n\n\nOUR IDEAL SENIOR POSTGRES ENGINEER WILL HAVE:\n\n - 7+ years industry experience designing, building and developing large scale systems in production\n\n - Experience building and maintaining distributed, highly available, fault tolerant services\n\n - Excellent understanding of low level operating systems concepts including multi-threading, memory management, networking, storage, performance, and scale\n\n - Extremely strong fundamental computer science skills\n\n - Experience with Java, Python/Ruby & Go\n\n - Experience running & maintaining large Postgres servers\n\n - Familiarity with cloud networking (VPCs, PrivateLink, Peering, etc)\n\n - Experience working with remote, geographically distributed teams\n\n - Excellent verbal and written communication skills\n\nTHE FOLLOWING ARE CONSIDERED A PLUS:\n\n - Bachelors, Masters, or PhD in Computer Science\n\n - Deep, expert knowledge of Postgres (WAL, extensions, configuration, replication, etc)\n\n - Experience designing and implementing large systems for public or private clouds\n\n - FedRAMP and DoD deployment experience\n\nSnowflake is growing fast, and we’re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake.\n\nHow do you want to make your impact?\n\nFor jobs located in the United States, please visit the job posting on the Snowflake Careers Site for salary and benefits information: careers.snowflake.com http://careers.snowflake.com",
+  "compensation": {
+    "compensationTierSummary": "$236,000 – $339,250 • Offers Equity",
+    "scrapeableCompensationSalarySummary": "$236,000 - $339,250",
+    "compensationTiers": [
+      {
+        "id": "0dc5359c-e7fe-4f12-9d44-9c1023ebd5ef",
+        "tierSummary": "$236,000 – $339,250 • Offers Equity",
+        "title": null,
+        "additionalInformation": null,
+        "components": [
+          {
+            "id": "23bf3e90-0f3a-49b7-b43d-618dc769b6de",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "bbbd067c-4f3a-4c1f-91df-8200254d5cdc",
+            "summary": "$236,000 – $339,250",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 236000,
+            "maxValue": 339250
+          }
+        ]
+      }
+    ],
+    "summaryComponents": [
+      {
+        "compensationType": "EquityPercentage",
+        "interval": "NONE",
+        "currencyCode": null,
+        "minValue": null,
+        "maxValue": null
+      },
+      {
+        "compensationType": "Salary",
+        "interval": "1 YEAR",
+        "currencyCode": "USD",
+        "minValue": 236000,
+        "maxValue": 339250
+      }
+    ]
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "id": "744000151031803",
+  "name": "Staff Content Designer - Receive",
+  "uuid": "db6cd7f3-af3d-401e-a55a-edb7dd945098",
+  "jobAdId": "42e1e831-7b22-467f-9cfc-c6ef9558539b",
+  "defaultJobAd": true,
+  "refNumber": "R10624",
+  "company": {
+    "identifier": "Wise",
+    "name": "Wise"
+  },
+  "releasedDate": "2026-09-22T13:09:06.059Z",
+  "location": {
+    "city": "London",
+    "country": "gb",
+    "address": "Worship Square, 65 Clifton Street",
+    "postalCode": "EC2A 4JE",
+    "remote": false,
+    "hybrid": true,
+    "fullLocation": "London, , United Kingdom"
+  },
+  "industry": {
+    "id": "financial_services",
+    "label": "Financial Services"
+  },
+  "department": {},
+  "function": {
+    "id": "design",
+    "label": "Design"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "customField": [
+    {
+      "fieldId": "65d3d0e0d37044292ef9549b",
+      "fieldLabel": "Job Profile",
+      "valueId": "e380f86fa0b2011330dcb5cb9501b10d",
+      "valueLabel": "Content Designer Staff - JP100510"
+    },
+    {
+      "fieldId": "65cea5ac287e8d0651481809",
+      "fieldLabel": "Time Type",
+      "valueId": "d2f4dafccd5101059b6cf09e12278400",
+      "valueLabel": "Full time"
+    },
+    {
+      "fieldId": "65d3d06b2865b46cfa4f0ec3",
+      "fieldLabel": "Worker Sub Type",
+      "valueId": "046034784a4d016f1889ba8863278f0d",
+      "valueLabel": "Permanent"
+    },
+    {
+      "fieldId": "65d3d141c86c2f3257de414c",
+      "fieldLabel": "Cost Center Hierarchy",
+      "valueId": "6d8f1bd75a7001a917ae7d31c7128a1c",
+      "valueLabel": "Design"
+    },
+    {
+      "fieldId": "65d3d1796435ba43bdb089ad",
+      "fieldLabel": "Squad",
+      "valueId": "c23f18fabbcf1001b616b23719d50000",
+      "valueLabel": "Receive (Squad)"
+    },
+    {
+      "fieldId": "658553f79a81b00900831a80",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Wise"
+    },
+    {
+      "fieldId": "65d3d0374c34974b271801f9",
+      "fieldLabel": "Management Level",
+      "valueId": "e82698b941950169671e99d5f100d710",
+      "valueLabel": "6"
+    },
+    {
+      "fieldId": "65d3d16de5ae4c7be012a87e",
+      "fieldLabel": "Tribe",
+      "valueId": "2508138664ba1001b4eeef7e41fa0000",
+      "valueLabel": "Global Product (Tribe)"
+    },
+    {
+      "fieldId": "65d3d151a5d3185b4341a7ab",
+      "fieldLabel": "Cost Center",
+      "valueId": "6d8f1bd75a70018c6649f331c712f31c",
+      "valueLabel": "DSNPRD Design Product Copy Research"
+    },
+    {
+      "fieldId": "65d3d0a7d37044292ef9549a",
+      "fieldLabel": "Job Family",
+      "valueId": "06d8de3c30ba0101b15fd15830420000",
+      "valueLabel": "Content Design"
+    },
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "gb",
+      "valueLabel": "United Kingdom"
+    },
+    {
+      "fieldId": "65d3d05c735007771b14e932",
+      "fieldLabel": "Worker Type",
+      "valueId": "EE",
+      "valueLabel": "Wiser"
+    },
+    {
+      "fieldId": "65d3d0926435ba43bdb089ac",
+      "fieldLabel": "Job Family Group",
+      "valueId": "06d8de3c30ba0101b14e3c50cc0d0000",
+      "valueLabel": "Design"
+    },
+    {
+      "fieldId": "65cec407735007771b14e92d",
+      "fieldLabel": "Company",
+      "valueId": "046034784a4d01f4134f114764273117",
+      "valueLabel": "Wise Payments Limited"
+    },
+    {
+      "fieldId": "65d90823f2e6436af25814c2",
+      "fieldLabel": "Job Ad Salary Range",
+      "valueLabel": "102000 - 133000 GBP Annual"
+    },
+    {
+      "fieldId": "65d9080b4aa2f46927dfc1f3",
+      "fieldLabel": "WD Target Hire Date",
+      "valueLabel": "2026-10-31"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/wise/postings/744000151031803",
+  "creator": {
+    "name": "Inez Sayer"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

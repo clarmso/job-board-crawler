@@ -1,0 +1,66 @@
+{
+  "absolute_url": "https://instacart.careers/job/?gh_jid=8234282",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 3449662,
+  "location": {
+    "name": "United States - Remote"
+  },
+  "metadata": [
+    {
+      "id": 16452,
+      "name": "Employment Type",
+      "value": "Regular",
+      "value_type": "single_select"
+    },
+    {
+      "id": 740030,
+      "name": "Exemption Status",
+      "value": "Exempt",
+      "value_type": "single_select"
+    },
+    {
+      "id": 235666,
+      "name": "Time Type",
+      "value": "Full time",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8234282,
+  "updated_at": "2026-09-25T17:04:42-04:00",
+  "requisition_id": "EG958",
+  "title": "Senior Software Engineer II - Ads Quality ",
+  "company_name": "Instacart",
+  "first_published": "2026-09-25T17:04:42-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;We&#39;re transforming the grocery industry&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span class=&quot;im&quot;&gt;At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;Instacart has become a lifeline for millions of people, and we’re building the team to help push our shopping cart forward. If you’re ready to do the best work of your life, come join our table.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Instacart is a Flex First team &lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;There’s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work—whether it’s from home, an office, or your favorite coffee shop—while staying connected and building community through regular in-person events. &lt;a href=&quot;https://www.instacart.careers/flex-first&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://instacart.careers/remote/&amp;amp;source=gmail&amp;amp;ust=1651869232122000&amp;amp;usg=AOvVaw37OlxP8hAKN7nq4YwHQH7e&quot;&gt;Learn more about our flexible approach to where we work.&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;As a Senior Software Engineer II in the Ads Quality team specializing in ML infrastructure, you&#39;ll work with a team of software and machine learning engineers to build state-of-the-art systems that optimize Ads performance throughout the ads serving funnel, from retrieval to pricing. You&#39;ll own the technical direction of our data, feature processing and model training/serving solutions, enabling next-generation modelling opportunities—from utilizing out of the box LLMs to building bespoke Foundation Models that powers all the Ads use cases. You will eliminate bottlenecks across the training and serving system to optimize stability, latency and cost. Building on Instacart&#39;s unique data and market position, these systems create value for advertising partners, improve consumer experience, and directly contribute to Instacart&#39;s overall revenue / business success.&lt;/p&gt;\n&lt;p&gt;You&#39;ll have the unique opportunity to collaborate with a cross-functional team, turning diverse insights into powerful solutions that elevate advertising effectiveness and operational stability. Your expertise will steer the development of scalable training and serving infrastructure, driving performance and efficiency gains across our advertising platform. Together, we&#39;ll build an ads ecosystem that not only serves millions but also excels in delivering value to users and advertisers alike.&lt;/p&gt;\n&lt;p&gt;Instacart Ads is transforming the online grocery shopping experience by seamlessly integrating advanced advertising solutions into our platform. The Ads Quality team is dedicated to delivering outstanding advertising outcomes by driving innovation and precision in response prediction, advertiser optimization, and ads auction processes. Our mission is to ensure relevance, fairness, and performance for all participants in the ad ecosystem. By leveraging terabytes of data and sophisticated machine learning algorithms, we build advanced predictive models that enhance user experience, drive advertiser success, and sustain a thriving ad ecosystem. We&#39;re also at the forefront of integrating Large Language Models (LLMs), unlocking powerful new capabilities that are redefining how brands connect with consumers in the digital grocery space. Our next major bet is a real-time sequential foundation model for ads—and building the training and serving infrastructure to make it possible is central to this role.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;About the Job&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Design, develop, and deploy machine learning infrastructure to tackle practical challenges in our complex marketplace while advancing the training and serving platform. Work with the company wide ML Foundation team to develop solutions to meet Ads unique needs.&lt;/li&gt;\n&lt;li&gt;Optimize training and serving funnel bottlenecks—profiling real systems and driving meaningful wins in throughput, cost, and latency, from GPU/accelerator utilization to tail latency at serving time.&lt;/li&gt;\n&lt;li&gt;Identify instabilities and shortcomings of our systems and operating procedures to deliver best in class availability.&lt;/li&gt;\n&lt;li&gt;Build real-time feature processing infrastructure—low-latency pipelines that compute, join, and serve fresh features to models on the critical path of every ad request.&lt;/li&gt;\n&lt;li&gt;Lead the infrastructure foundation for our real-time sequential foundation model, including online sequence feature stores, streaming update paths, efficient long-context serving, and training pipelines that keep pace with rapidly evolving data.&lt;/li&gt;\n&lt;li&gt;Collaborate closely with product managers, data scientists, and MLEs to deeply understand business needs and co-design systems where product, model architecture and infrastructure constraints are solved together.&lt;/li&gt;\n&lt;li&gt;Actively engage with diverse stakeholders to ensure that solutions are well-integrated and aligned with business goals.&lt;/li&gt;\n&lt;li&gt;Mentor engineers, set technical direction, and conduct thorough code reviews to ensure high code quality and maintainability. Lead by example in fostering a culture of continuous improvement and technical excellence.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;About You&lt;/strong&gt;&lt;/h2&gt;\n&lt;h3&gt;&lt;strong&gt;&lt;em&gt;Minimum Qualifications&lt;/em&gt;&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Have a graduate degree (masters or PhD) in computer science, artificial intelligence, machine learning, operations research or equivalent self study and experience.&lt;/li&gt;\n&lt;li&gt;Have 3+ years of industry experience building ML infrastructure or using machine learning to solve real-world problems with large datasets.&lt;/li&gt;\n&lt;li&gt;Deep expertise building, scaling and managing ML infrastructure for training and/or serving in production, with a strong understanding of modern machine learning systems and MLOps.&lt;/li&gt;\n&lt;li&gt;Strong programming skills in software engineering (e.g., Python, Go), along with expertise in data manipulation using tools (SQL, Spark, and Pandas), and ML frameworks (Torch, Tensorflow, XGBoost).&lt;/li&gt;\n&lt;li&gt;Strong analytical and problem-solving skills.&lt;/li&gt;\n&lt;li&gt;Excellent communication skills (both verbal and written) and can collaborate with a diverse group of stakeholders across all levels.&lt;/li&gt;\n&lt;li&gt;Eager to jump into domains, languages, and problem areas that might be new and unfamiliar.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;&lt;em&gt;Preferred Qualifications&lt;/em&gt;&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Have 5+ years of industry experience tech leading a team to build ML infrastructure or using machine learning to solve real-world problems with large datasets.&lt;/li&gt;\n&lt;li&gt;Demonstrated experience solving complex model training and serving efficiency challenges, including optimizing training pipelines, reducing model training times, and improving serving architectures to enhance operational efficiency and scalability.&lt;/li&gt;\n&lt;li&gt;Hands-on experience with real-time / online feature processing and serving—streaming systems (e.g., Kafka, Flink), online feature stores, and low-latency retrieval on the request path.&lt;/li&gt;\n&lt;li&gt;Experience with sequential modeling, transformer architecture, and generative retrieval or building large scale online recommendation systems.&lt;/li&gt;\n&lt;li&gt;Experience serving large sequential or foundation models in low-latency, high-QPS production settings.&lt;/li&gt;\n&lt;li&gt;Experience in digital advertising platforms.&lt;/li&gt;\n&lt;li&gt;Familiarity with LLM integrations, prompt engineering, and productivity tooling.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;#LI-Remote&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Instacart provides highly market-competitive compensation and benefits in each location where our employees work. This role is remote and the base pay range for a successful candidate is dependent on their permanent work location. Please review our Flex First remote work policy &lt;/span&gt;&lt;a href=&quot;https://instacart.careers/flex-first/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Offers may vary based on many factors, such as candidate experience and skills required for the role. &lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Additionally, this role is eligible for a new hire equity grant as well as annual refresh grants. Please rea&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;d more about our benefits offerings &lt;/span&gt;&lt;a href=&quot;https://instacart.careers/taste-of-instacart/&quot; target=&quot;_blank&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;here&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;. &lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;For US based candidates, the base pay ranges for a successful candidate are listed below.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;CA, NY, CT, NJ&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$230,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$242,500 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;title&quot;&gt;WA&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$220,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$232,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;title&quot;&gt;OR, DE, ME, MA, MD, NH, RI, VT, DC, PA, VA, CO, TX, IL, HI&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$211,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$222,500 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;title&quot;&gt;All other states&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$192,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$202,500 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 50238,
+      "name": "Software Engineering",
+      "child_ids": [],
+      "parent_id": 4132
+    }
+  ],
+  "offices": [
+    {
+      "id": 59835,
+      "name": "Remote - United States",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 88197
+    }
+  ],
+  "ai_disclaimer": "<p>Instacart (Maplebear Inc. d/b/a Instacart) uses Greenhouse's Real Talent technology as part of our hiring process. Select \"Learn more\" for information on how these tools work, what data is involved, and your rights.&nbsp;</p>",
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": "http://app.greenhouse.io/ai_opt_out_request/job_post/8234282/ai_opt_out"
+}

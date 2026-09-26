@@ -1,0 +1,128 @@
+{
+  "id": "744000150072329",
+  "name": "WiseWomenCode - Austin",
+  "uuid": "18b1d570-fdff-489b-bfd5-79bdd1bf6631",
+  "jobAdId": "fd06ae8b-fbaa-4d7b-8875-c0dc39db5126",
+  "defaultJobAd": true,
+  "refNumber": "REF5875U",
+  "company": {
+    "identifier": "Wise",
+    "name": "Wise"
+  },
+  "releasedDate": "2026-09-17T10:48:10.531Z",
+  "location": {
+    "city": "Austin",
+    "region": "TX",
+    "country": "us",
+    "address": "10025 Alterra Parkway",
+    "postalCode": "78758",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "30.3946323",
+    "longitude": "-97.72216490000001",
+    "fullLocation": "Austin, TX, United States"
+  },
+  "industry": {
+    "id": "financial_services",
+    "label": "Financial Services"
+  },
+  "department": {},
+  "function": {
+    "id": "engineering",
+    "label": "Engineering"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "not_applicable",
+    "label": "Not Applicable"
+  },
+  "customField": [
+    {
+      "fieldId": "65cea5ac287e8d0651481809",
+      "fieldLabel": "Time Type",
+      "valueId": "d2f4dafccd5101059b6cf09e12278400",
+      "valueLabel": "Full time"
+    },
+    {
+      "fieldId": "65d3d06b2865b46cfa4f0ec3",
+      "fieldLabel": "Worker Sub Type",
+      "valueId": "df35e73d-0177-472b-a42d-769624fabf77",
+      "valueLabel": "WWC Event"
+    },
+    {
+      "fieldId": "65d3d141c86c2f3257de414c",
+      "fieldLabel": "Cost Center Hierarchy",
+      "valueId": "6d8f1bd75a7001b7185a4531c7125d1c",
+      "valueLabel": "Engineering"
+    },
+    {
+      "fieldId": "658553f79a81b00900831a80",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Wise"
+    },
+    {
+      "fieldId": "65d3d0374c34974b271801f9",
+      "fieldLabel": "Management Level",
+      "valueId": "e82698b94195016c28dc43cef100d210",
+      "valueLabel": "1"
+    },
+    {
+      "fieldId": "65d3d16de5ae4c7be012a87e",
+      "fieldLabel": "Tribe",
+      "valueId": "5b073258-960f-4df1-9eee-b4a26517fb35",
+      "valueLabel": "WWC Event"
+    },
+    {
+      "fieldId": "697ecac4054e02cef8c7a2ce",
+      "fieldLabel": "ORGANIZATION_TYPE-3-84 L1",
+      "valueId": "1a996433adb41001d77f89dee2560000",
+      "valueLabel": "Wise Start"
+    },
+    {
+      "fieldId": "65d3d0a7d37044292ef9549a",
+      "fieldLabel": "Job Family",
+      "valueId": "2a11b9f0-a7d5-4c88-a6c4-7a113a6bc067",
+      "valueLabel": "WWC Event"
+    },
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "us",
+      "valueLabel": "United States"
+    },
+    {
+      "fieldId": "65d3d05c735007771b14e932",
+      "fieldLabel": "Worker Type",
+      "valueId": "e632dc95-53c5-464c-b4bc-b32c9d3850d4",
+      "valueLabel": "Event WWC"
+    },
+    {
+      "fieldId": "65d3d0926435ba43bdb089ac",
+      "fieldLabel": "Job Family Group",
+      "valueId": "dbe5f3a8-3e84-4826-a8bd-23767bf29edc",
+      "valueLabel": "WWC Event"
+    },
+    {
+      "fieldId": "65cec407735007771b14e92d",
+      "fieldLabel": "Company",
+      "valueId": "046034784a4d01d74632134764274f17",
+      "valueLabel": "Wise US Inc"
+    },
+    {
+      "fieldId": "65d90823f2e6436af25814c2",
+      "fieldLabel": "Job Ad Salary Range",
+      "valueLabel": "0"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/wise/postings/744000150072329",
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

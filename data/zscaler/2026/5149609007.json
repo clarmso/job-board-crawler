@@ -1,0 +1,97 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/zscaler/jobs/5149609007",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 4638246007,
+  "location": {
+    "name": "Remote - California, USA; San Jose, California, USA"
+  },
+  "metadata": [
+    {
+      "id": 4203262007,
+      "name": "Employment Type",
+      "value": "Fulltime Employee",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4363861007,
+      "name": "Additional Job Post Location",
+      "value": [],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 4363809007,
+      "name": "Division",
+      "value": "Engineering",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4391305007,
+      "name": "Geo/Region",
+      "value": "AMS",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 5149609007,
+  "updated_at": "2026-09-18T16:03:31-04:00",
+  "requisition_id": "260529_I06346",
+  "title": "Staff Production Engineer",
+  "company_name": "Zscaler",
+  "first_published": "2026-06-16T15:42:02-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange™️ platform protects thousands of customers from cyberattacks and data loss by securely connecting users, devices, and applications in any location. Distributed across 160+ public exchanges globally and thousands of private exchanges at the edge, the SASE-based Zero Trust Exchange is the world’s largest in-line cloud security platform.&lt;/p&gt;\n&lt;p&gt;We believe the future of work is Human + AI and are building an AI-native enterprise where human potential is amplified by machine intelligence to solve the world’s hardest security challenges. Driven by deep customer obsession, we are committed to the mission, outcome, and to each other. We bring these commitments to life through three core behaviors: ownership and collaboration, trust through outcomes and impact, and a challenge culture with ongoing feedback. Ready to make an impact at the company pioneering security transformation in the AI era? Join us at Zscaler.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We are looking for a Sr. Production Engineer to join our team. This role is available as a hybrid opportunity 3 days a week in San Jose, CA or Remote reporting to Production Engineering in the Cloud Infrastructure &amp;amp; Operations department. Join Zscaler to be a force multiplier for the reliability of a global platform processing 200+ billion transactions daily across tens of millions of enterprise users.&amp;nbsp;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;In this role, you will provide the technical vision and hands-on execution to drive an &quot;automation-first&quot; culture across the company. By maturing our observability and architectural standards, you will directly reduce our Mean Time to Mitigate (MTTM) and shape the scalability of our globally distributed, multi-cloud infrastructure.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What you’ll do (Role Expectations)&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Implement highly available, scalable infrastructure across AWS, GCP, and bare-metal environments&lt;/li&gt;\n&lt;li&gt;Drive an &quot;automation-first&quot; culture by writing code (Python/Go) to eliminate manual toil and build self-healing systems&lt;/li&gt;\n&lt;li&gt;Implement and maintain sophisticated observability (Prometheus, Grafana, OpenTelemetry), define SLIs/SLOs, and establish error budgets&lt;/li&gt;\n&lt;li&gt;Act as a lead Incident Commander (TDO on-call), develop response playbooks, and conduct deep-dive post-incident analyses&lt;/li&gt;\n&lt;li&gt;Partner with Engineering and partner teams to conduct operability reviews&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Who You Are (Success Profile)&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;You act like an owner with a bias for action and integrity.&lt;/li&gt;\n&lt;li&gt;You are a pragmatic builder obsessed with creating, iterating, and shipping.&lt;/li&gt;\n&lt;li&gt;You champion simplicity by distilling complex problems into clear, actionable plans.&lt;/li&gt;\n&lt;li&gt;You are data-driven, valuing evidence over assumptions.&lt;/li&gt;\n&lt;li&gt;You think at scale, building solutions and processes built to last a high-growth global organization.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;What We’re Looking for (Minimum Qualifications)&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Demonstrated curiosity and active exploration of AI tools, with a proven history of integrating new technologies to enhance daily workflows and augment problem-solving&lt;/li&gt;\n&lt;li&gt;3-5+ years of experience managing reliability, scalability, and availability for large-scale production services&lt;/li&gt;\n&lt;li&gt;Deep expertise in programming (e.g., Python, Go, or C/C++)&lt;/li&gt;\n&lt;li&gt;Strong background in networking protocols, Linux/RHEL systems, and distributed architecture&lt;/li&gt;\n&lt;li&gt;Experience in high-stakes incident management and participation in a 24/7 on-call rotation&lt;/li&gt;\n&lt;li&gt;Proficiency in leveraging ITIL frameworks and incident data to drive service maturity through systematic problem management and technical operability reviews&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;What Will Make You Stand Out (Preferred Qualifications)&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Extensive experience with public cloud (AWS, Azure, GCP) and Infrastructure-as-Code (Ansible, Terraform, Helm, Temporal)&lt;/li&gt;\n&lt;li&gt;Experience with chaos engineering and disaster recovery planning at scale&lt;/li&gt;\n&lt;li&gt;Expertise in global routing (BGP) and traffic tunneling (GRE, IPSec) with a deep understanding of L7 proxy architectures (HAProxy), DNS at scale, and OS networking stack internals&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;#LI-Hybrid #LI-RT101 #LI-DY1&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Zscaler’s salary ranges are benchmarked and are determined by role and level. The range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position across all US locations and could be higher or lower based on a multitude of factors, including job-related skills, experience, and relevant education or training.&lt;/p&gt;\n&lt;p&gt;The base salary range listed for this full-time position excludes commission/ bonus/ equity (if applicable) + benefits.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;Base Pay Range&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$152,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$190,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p data-pm-slice=&quot;1 3 []&quot;&gt;At Zscaler, we are committed to building a team that reflects the communities we serve and the customers we work with. We foster an inclusive environment that values all backgrounds and perspectives, emphasizing collaboration and belonging. Join us in our mission to make doing business seamless and secure.&lt;/p&gt;\n&lt;p&gt;Our Benefits program is one of the most important ways we support our employees. Zscaler proudly offers comprehensive and inclusive benefits to meet the diverse needs of our employees and their families throughout their life stages, including:&lt;/p&gt;\n&lt;div class=&quot;has-nudge&quot; data-nudge-id=&quot;5eb9419b-6a4d-4451-bfa6-e2eb96084be0&quot;&gt;\n&lt;ul&gt;\n&lt;li&gt;Various health plans&lt;/li&gt;\n&lt;li&gt;Time off plans for vacation and sick time&lt;/li&gt;\n&lt;li&gt;Parental leave options&lt;/li&gt;\n&lt;li&gt;Retirement options&lt;/li&gt;\n&lt;li&gt;Education reimbursement&lt;/li&gt;\n&lt;li&gt;In-office perks, and more!&lt;/li&gt;\n&lt;/ul&gt;\n&lt;div class=&quot;has-nudge&quot; data-nudge-id=&quot;5eb9419b-6a4d-4451-bfa6-e2eb96084be0&quot;&gt;\n&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;Learn more about Zscaler&#39;s hybrid working model and benefits&amp;nbsp;&lt;a href=&quot;https://www.zscaler.com/candidate-resource-hub&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;p&gt;By applying for this role, you adhere to applicable laws, regulations, and Zscaler policies, including those related to security and privacy standards and guidelines.&lt;/p&gt;\n&lt;p class=&quot;p1&quot;&gt;Zscaler is committed to providing equal employment opportunities to all individuals. We strive to create a workplace where employees are treated with respect and have the chance to succeed. All qualified applicants will be considered for employment without regard to race, color, religion, sex (including pregnancy or related medical conditions), age, national origin, sexual orientation, gender identity or expression, genetic information, disability status, protected veteran status, or any other characteristic protected by federal, state, or local laws. &lt;em&gt;See more information by clicking on the &lt;/em&gt;&lt;a href=&quot;https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf&quot;&gt;&lt;em&gt;Know Your Rights: Workplace Discrimination is Illegal &lt;/em&gt;&lt;/a&gt;&lt;em&gt;link.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;Pay Transparency&lt;/p&gt;\n&lt;p&gt;Zscaler complies with all applicable federal, state, and local pay transparency rules.&lt;/p&gt;\n&lt;p&gt;Zscaler is committed to providing reasonable support (called accommodations or adjustments) in our recruiting processes for candidates who are differently abled, have long term conditions, mental health conditions or sincerely held religious beliefs, or who are neurodivergent or require pregnancy-related support.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4022243007,
+      "name": "Cloud Ops",
+      "child_ids": [
+        4015837007,
+        4068071007,
+        4063516007,
+        4036114007,
+        4011408007,
+        4036115007,
+        4011409007,
+        4046538007,
+        4046496007,
+        4046537007,
+        4018551007,
+        4039380007,
+        4057193007,
+        4057192007,
+        4011406007,
+        4018550007,
+        4040220007,
+        4041760007,
+        4011407007,
+        4035836007,
+        4011405007,
+        4017801007,
+        4029176007,
+        4011404007
+      ],
+      "parent_id": 4017790007
+    }
+  ],
+  "offices": [
+    {
+      "id": 4007291007,
+      "name": "Office - San Jose, USA",
+      "location": "San Jose, California, USA",
+      "child_ids": [],
+      "parent_id": 4007290007
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

@@ -1,0 +1,72 @@
+{
+  "absolute_url": "https://www.zoominfo.com/careers?gh_jid=8658369002",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 6457394002,
+  "location": {
+    "name": "Remote-US-NY"
+  },
+  "metadata": [
+    {
+      "id": 24710929002,
+      "name": "Job Family Group",
+      "value": "Engineering",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24711071002,
+      "name": "Time Type",
+      "value": "Full time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 101751589002,
+      "name": "Work Shift",
+      "value": "General Shift",
+      "value_type": "short_text"
+    },
+    {
+      "id": 4203585002,
+      "name": "LEGACY - Employment Type",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8658369002,
+  "updated_at": "2026-09-22T20:46:43-04:00",
+  "requisition_id": "JR107957",
+  "title": "Senior Software Engineer - IDP ",
+  "company_name": "ZoomInfo Technologies LLC",
+  "first_published": "2026-08-03T11:44:48-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen–fast.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;What You&#39;ll do&lt;/strong&gt;&lt;/p&gt;\n&lt;div&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong class=&quot;markdown-strong&quot;&gt;Design &amp;amp; Develop:&lt;/strong&gt; Build and own services across our 20+ microservice Backstage platform using TypeScript and Node.js, exposing REST and GraphQL APIs consumed by other services and the Backstage frontend.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/div&gt;\n&lt;div&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong class=&quot;markdown-strong&quot;&gt;Catalog &amp;amp; Entity Pipeline:&lt;/strong&gt; Own the Backstage catalog and ingestion pipeline that syncs entities from Helm, ArgoCD, GCP, and GitHub — nightly and on-demand.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/div&gt;\n&lt;div&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong class=&quot;markdown-strong&quot;&gt;Developer-Facing Features:&lt;/strong&gt; Extend the platform with engineering maturity scoring, change management workflows, AI-generated reports, and test management tooling.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/div&gt;\n&lt;div&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong class=&quot;markdown-strong&quot;&gt;AI Integration:&lt;/strong&gt; Develop LLM-powered services and MCP servers that make catalog and engineering data accessible to humans and AI agents.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/div&gt;\n&lt;div&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong class=&quot;markdown-strong&quot;&gt;Operational Excellence:&lt;/strong&gt; Own service reliability on GKE via ArgoCD GitOps, PostgreSQL and Redis datastores, and Datadog monitoring — including incident response and runbook ownership.&lt;strong class=&quot;markdown-strong&quot;&gt;Collaborate:&lt;/strong&gt; Partner with engineering, governance, architecture, and infrastructure teams to translate needs into catalog models, golden paths, and self-service tooling.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/div&gt;\n&lt;p&gt;&lt;strong&gt;What you bring:&lt;/strong&gt;&lt;/p&gt;\n&lt;div&gt;\n&lt;ul&gt;\n&lt;li&gt;Advanced proficiency in &lt;strong class=&quot;markdown-strong&quot;&gt;TypeScript and Node.js&lt;/strong&gt; with strong software architecture fundamentals&lt;/li&gt;\n&lt;li&gt;Hands-on experience designing and shipping&amp;nbsp;&lt;strong class=&quot;markdown-strong&quot;&gt;REST and GraphQL APIs&lt;/strong&gt; in production&lt;/li&gt;\n&lt;li&gt;Hands-on experience building or extending&amp;nbsp;&lt;strong class=&quot;markdown-strong&quot;&gt;Backstage&lt;/strong&gt; — plugin development, catalog model, software templates, and TechDocs&lt;/li&gt;\n&lt;li&gt;Strong proficiency with&amp;nbsp;&lt;strong class=&quot;markdown-strong&quot;&gt;PostgreSQL and Redis&lt;/strong&gt;; MongoDB familiarity is a plus&lt;/li&gt;\n&lt;li&gt;Experience with&amp;nbsp;&lt;strong class=&quot;markdown-strong&quot;&gt;Kubernetes (GKE) and GCP&lt;/strong&gt; — deployment, scaling, and production troubleshootingHands-on experience with &lt;strong class=&quot;markdown-strong&quot;&gt;ArgoCD, Helm, and GitHub Actions&lt;/strong&gt;&lt;/li&gt;\n&lt;li&gt;Working proficiency with&amp;nbsp;&lt;strong class=&quot;markdown-strong&quot;&gt;Terraform&lt;/strong&gt; for cloud infrastructure management&lt;/li&gt;\n&lt;li&gt;Practical experience integrating&amp;nbsp;&lt;strong class=&quot;markdown-strong&quot;&gt;LLMs&lt;/strong&gt; into production services; familiarity with MCP or Agentic AI patterns&lt;/li&gt;\n&lt;/ul&gt;\n&lt;div&gt;\n&lt;p class=&quot;markdown-p&quot;&gt;&lt;strong class=&quot;markdown-strong&quot;&gt;Education &amp;amp; Experience:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul class=&quot;markdown-ul&quot;&gt;\n&lt;li class=&quot;markdown-li&quot;&gt;Bachelor&#39;s degree in Computer Science or related field&lt;/li&gt;\n&lt;li class=&quot;markdown-li&quot;&gt;5+ years in Software Engineering with experience building Internal Developer Platforms or Platform/Infrastructure tooling&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;#LI-RA1&lt;/p&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Actual compensation offered will be based on factors such as the candidate’s work location, qualifications, skills, experience and/or training. Your recruiter can share more information about the specific salary range for your desired work location during the hiring process. We want our employees and their families to thrive.&lt;/p&gt;\n&lt;p&gt;In addition to comprehensive benefits we offer holistic mind, body and lifestyle programs designed for overall well-being. Learn more about ZoomInfo benefits &lt;a class=&quot;c-link&quot; href=&quot;https://www.zoominfo.com/careers#benefits&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.zoominfo.com/careers#benefits&quot; data-sk=&quot;tooltip_parent&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;Below is the US base salary for this position. Additional compensation such as Bonus, Commission, Equity and other benefits may also apply.&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$140,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$220,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;About us:&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;ZoomInfo (NASDAQ: GTM) is the Go-To-Market Intelligence Platform that empowers businesses to grow faster with AI-ready insights, trusted data, and advanced automation. Its solutions provide more than 35,000 companies worldwide with a complete view of their customers, making every seller their best seller.&lt;/p&gt;\n&lt;p&gt;ZoomInfo is committed to protecting your privacy when you apply for jobs with us. Please review our Job Applicant &lt;a href=&quot;https://drive.google.com/file/d/1yiG-k0YX_sW10PiJk_xliDc3W-veJCrK/view?usp=drive_link&quot; target=&quot;_blank&quot;&gt;Privacy Notice&lt;/a&gt; for more details on how we handle your personal information.&lt;/p&gt;\n&lt;p&gt;ZoomInfo may use a software-based assessment as part of the recruitment process. More information about this tool, including the results of the most recent bias audit, is available &lt;a href=&quot;https://www.zoominfo.com/legal/nyc-local-law-144-notice&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;ZoomInfo is proud to be an equal opportunity employer, hiring based on qualifications, merit, and business needs, and does not discriminate based on protected status. We welcome all applicants and are committed to providing equal employment opportunities regardless of sex, race, age, color, national origin, sexual orientation, gender identity, marital status, disability status, religion, protected military or veteran status, medical condition, or any other characteristic protected by applicable law. We also consider qualified candidates with criminal histories in accordance with legal requirements.&lt;/p&gt;\n&lt;p&gt;For Massachusetts Applicants: It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability. ZoomInfo does not administer lie detector tests to applicants in any location.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4074831002,
+      "name": "831 Engineering - Infrastructure Engineering",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 4088150002,
+      "name": "Remote-US-OR",
+      "location": null,
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

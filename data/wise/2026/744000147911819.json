@@ -1,0 +1,142 @@
+{
+  "id": "744000147911819",
+  "name": "Senior Software Engineer (Backend)",
+  "uuid": "af68c7fd-6c78-4934-8885-f8e03b28fc5a",
+  "jobAdId": "bbffb304-9589-4e68-b819-a41edd1846bf",
+  "defaultJobAd": true,
+  "refNumber": "R10153",
+  "company": {
+    "identifier": "Wise",
+    "name": "Wise"
+  },
+  "releasedDate": "2026-09-07T11:26:20.170Z",
+  "location": {
+    "city": "Hyderabad",
+    "country": "in",
+    "address": "Table Space Suites, Raheja Mindspace, Building 4, HITEC City",
+    "postalCode": "500081",
+    "remote": false,
+    "hybrid": false,
+    "fullLocation": "Hyderabad, , India"
+  },
+  "industry": {
+    "id": "financial_services",
+    "label": "Financial Services"
+  },
+  "department": {},
+  "function": {
+    "id": "engineering",
+    "label": "Engineering"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "customField": [
+    {
+      "fieldId": "65d3d0e0d37044292ef9549b",
+      "fieldLabel": "Job Profile",
+      "valueId": "3f386664840b1000a1193fad61560002",
+      "valueLabel": "Engineer IC3 - JP101092"
+    },
+    {
+      "fieldId": "65cea5ac287e8d0651481809",
+      "fieldLabel": "Time Type",
+      "valueId": "d2f4dafccd5101059b6cf09e12278400",
+      "valueLabel": "Full time"
+    },
+    {
+      "fieldId": "65d3d06b2865b46cfa4f0ec3",
+      "fieldLabel": "Worker Sub Type",
+      "valueId": "046034784a4d016f1889ba8863278f0d",
+      "valueLabel": "Permanent"
+    },
+    {
+      "fieldId": "65d3d141c86c2f3257de414c",
+      "fieldLabel": "Cost Center Hierarchy",
+      "valueId": "6d8f1bd75a7001b7185a4531c7125d1c",
+      "valueLabel": "Engineering"
+    },
+    {
+      "fieldId": "65d3d1796435ba43bdb089ad",
+      "fieldLabel": "Squad",
+      "valueId": "e75d1a45c28a10019c68395128260000",
+      "valueLabel": "Mitigation (Squad)"
+    },
+    {
+      "fieldId": "658553f79a81b00900831a80",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Wise"
+    },
+    {
+      "fieldId": "65d3d0374c34974b271801f9",
+      "fieldLabel": "Management Level",
+      "valueId": "e82698b941950185dfe774d4f100d610",
+      "valueLabel": "5"
+    },
+    {
+      "fieldId": "65d3d16de5ae4c7be012a87e",
+      "fieldLabel": "Tribe",
+      "valueId": "2508138664ba1001b6dc554b5aca0000",
+      "valueLabel": "Servicing (Tribe)"
+    },
+    {
+      "fieldId": "65d3d151a5d3185b4341a7ab",
+      "fieldLabel": "Cost Center",
+      "valueId": "79a91b8e77da1001aa035ac529260000",
+      "valueLabel": "Servicing (FinCrime)"
+    },
+    {
+      "fieldId": "65d3d0a7d37044292ef9549a",
+      "fieldLabel": "Job Family",
+      "valueId": "e380f86fa0b2011d520d2e87bc004000",
+      "valueLabel": "Engineering"
+    },
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "in",
+      "valueLabel": "India"
+    },
+    {
+      "fieldId": "65d3d05c735007771b14e932",
+      "fieldLabel": "Worker Type",
+      "valueId": "EE",
+      "valueLabel": "Wiser"
+    },
+    {
+      "fieldId": "65d3d0926435ba43bdb089ac",
+      "fieldLabel": "Job Family Group",
+      "valueId": "cf8ed98297e201fc81857d1fba008e14",
+      "valueLabel": "Technology"
+    },
+    {
+      "fieldId": "65cec407735007771b14e92d",
+      "fieldLabel": "Company",
+      "valueId": "8928081b6a9e014945dcd4299c012074",
+      "valueLabel": "Wise Payments India Private Limited"
+    },
+    {
+      "fieldId": "65d90823f2e6436af25814c2",
+      "fieldLabel": "Job Ad Salary Range",
+      "valueLabel": "4900000 - 7800000 INR Annual"
+    },
+    {
+      "fieldId": "65d9080b4aa2f46927dfc1f3",
+      "fieldLabel": "WD Target Hire Date",
+      "valueLabel": "2026-09-30"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/wise/postings/744000147911819",
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

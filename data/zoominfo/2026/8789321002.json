@@ -1,0 +1,72 @@
+{
+  "absolute_url": "https://www.zoominfo.com/careers?gh_jid=8789321002",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 6516346002,
+  "location": {
+    "name": "Bethesda, Maryland, United States"
+  },
+  "metadata": [
+    {
+      "id": 24710929002,
+      "name": "Job Family Group",
+      "value": "Engineering",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24711071002,
+      "name": "Time Type",
+      "value": "Full time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 101751589002,
+      "name": "Work Shift",
+      "value": "General Shift",
+      "value_type": "short_text"
+    },
+    {
+      "id": 4203585002,
+      "name": "LEGACY - Employment Type",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8789321002,
+  "updated_at": "2026-09-17T09:39:55-04:00",
+  "requisition_id": "JR108111",
+  "title": "Senior Software Engineer ",
+  "company_name": "ZoomInfo Technologies LLC",
+  "first_published": "2026-09-17T09:39:55-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen–fast.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;What You&#39;ll do:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Design, develop, and maintain scalable and reliable backend services and APIs.&lt;/li&gt;\n&lt;li&gt;Build production-ready systems with a focus on performance, reliability, scalability, and maintainability.&lt;/li&gt;\n&lt;li&gt;Own backend features and projects end-to-end, from technical design and implementation through deployment, monitoring, troubleshooting, and ongoing improvements.&lt;/li&gt;\n&lt;li&gt;Work with distributed systems and event-driven architectures, including messaging and asynchronous data flows.&lt;/li&gt;\n&lt;li&gt;Design and implement APIs and services that integrate with other internal and external systems.&lt;/li&gt;\n&lt;li&gt;Work with large and complex data flows and understand how data moves through backend systems.&lt;/li&gt;\n&lt;li&gt;Monitor, troubleshoot, and improve services running in production.&lt;/li&gt;\n&lt;li&gt;Participate in system design and architecture discussions and help make sound technical decisions.&lt;/li&gt;\n&lt;li&gt;Collaborate with frontend engineers, Product, QA, and other engineering teams to deliver complete solutions.&lt;/li&gt;\n&lt;li&gt;Investigate complex production issues and identify root causes rather than only addressing symptoms.&lt;/li&gt;\n&lt;li&gt;Improve existing systems and proactively identify opportunities to increase reliability, performance, and engineering efficiency.&lt;/li&gt;\n&lt;li&gt;Provide technical guidance to other engineers and contribute to engineering best practices.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;What you bring:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;6-7 years of professional experience in &lt;strong&gt;backend software engineering&lt;/strong&gt; and building production systems.&lt;/li&gt;\n&lt;li&gt;Strong experience with &lt;strong&gt;Node.js&lt;/strong&gt; or a similar backend technology.&lt;/li&gt;\n&lt;li&gt;Deep understanding of backend development principles, APIs, services, databases, and distributed systems.&lt;/li&gt;\n&lt;li&gt;Hands-on experience building and operating &lt;strong&gt;production applications&lt;/strong&gt;, including debugging and troubleshooting real-world issues.&lt;/li&gt;\n&lt;li&gt;Experience with &lt;strong&gt;event-driven systems and messaging technologies&lt;/strong&gt;, particularly Kafka.&lt;/li&gt;\n&lt;li&gt;Experience designing and working with &lt;strong&gt;GraphQL&lt;/strong&gt; APIs.&lt;/li&gt;\n&lt;li&gt;Experience with cloud infrastructure and services; &lt;strong&gt;GCP experience is preferred&lt;/strong&gt;.&lt;/li&gt;\n&lt;li&gt;Strong understanding of scalability, performance, reliability, observability, and system design.&lt;/li&gt;\n&lt;li&gt;Demonstrated ability to take ownership of complex projects and drive them from design through production.&lt;/li&gt;\n&lt;li&gt;Strong problem-solving skills and ability to investigate complex technical issues independently.&lt;/li&gt;\n&lt;li&gt;Ability to work effectively with other engineers and cross-functional teams.&lt;/li&gt;\n&lt;li&gt;Strong communication skills and ability to make and explain technical decisions&lt;/li&gt;\n&lt;/ul&gt;\n&lt;div&gt;&lt;strong&gt;Preferred Qualifications&lt;/strong&gt;&lt;/div&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience with &lt;strong&gt;NestJS&lt;/strong&gt;.&lt;/li&gt;\n&lt;li&gt;Strong experience with &lt;strong&gt;GCP&lt;/strong&gt; and cloud-native services.&lt;/li&gt;\n&lt;li&gt;Experience with MongoDB or other NoSQL databases.&lt;/li&gt;\n&lt;li&gt;Experience with Kubernetes and containerized applications.&lt;/li&gt;\n&lt;li&gt;Experience with CI/CD and production deployment pipelines.&lt;/li&gt;\n&lt;li&gt;Experience with monitoring and observability tools.&lt;/li&gt;\n&lt;li&gt;Experience with high-scale or distributed systems.&lt;/li&gt;\n&lt;li&gt;Experience with &lt;strong&gt;Angular or other frontend technologies&lt;/strong&gt; is a plus.&lt;/li&gt;\n&lt;li&gt;Experience working across the full stack is a plus.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;div&gt;&lt;strong&gt;What Success Looks Like&lt;/strong&gt;&lt;/div&gt;\n&lt;ul&gt;\n&lt;li&gt;Owns backend systems and features from initial design through production.&lt;/li&gt;\n&lt;li&gt;Understands how services actually &lt;strong&gt;run, communicate, scale, fail, and recover in production&lt;/strong&gt;.&lt;/li&gt;\n&lt;li&gt;Can independently investigate and resolve complex backend and production issues.&lt;/li&gt;\n&lt;li&gt;Builds systems that are reliable, maintainable, observable, and scalable.&lt;/li&gt;\n&lt;li&gt;Makes thoughtful technical and architectural decisions.&lt;/li&gt;\n&lt;li&gt;Proactively identifies problems and improvements rather than waiting for requirements.&lt;/li&gt;\n&lt;li&gt;Acts as a technical owner and contributes to the growth and effectiveness of the engineering team.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;#LI-RA1&lt;/p&gt;\n&lt;p&gt;#LI-Hybrid&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Actual compensation offered will be based on factors such as the candidate’s work location, qualifications, skills, experience and/or training. Your recruiter can share more information about the specific salary range for your desired work location during the hiring process. We want our employees and their families to thrive.&lt;/p&gt;\n&lt;p&gt;In addition to comprehensive benefits we offer holistic mind, body and lifestyle programs designed for overall well-being. Learn more about ZoomInfo benefits &lt;a class=&quot;c-link&quot; href=&quot;https://www.zoominfo.com/careers#benefits&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.zoominfo.com/careers#benefits&quot; data-sk=&quot;tooltip_parent&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;Below is the US base salary for this position. Additional compensation such as Bonus, Commission, Equity and other benefits may also apply.&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$140,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$220,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;About us:&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;ZoomInfo (NASDAQ: GTM) is the Go-To-Market Intelligence Platform that empowers businesses to grow faster with AI-ready insights, trusted data, and advanced automation. Its solutions provide more than 35,000 companies worldwide with a complete view of their customers, making every seller their best seller.&lt;/p&gt;\n&lt;p&gt;ZoomInfo is committed to protecting your privacy when you apply for jobs with us. Please review our Job Applicant &lt;a href=&quot;https://drive.google.com/file/d/1yiG-k0YX_sW10PiJk_xliDc3W-veJCrK/view?usp=drive_link&quot; target=&quot;_blank&quot;&gt;Privacy Notice&lt;/a&gt; for more details on how we handle your personal information.&lt;/p&gt;\n&lt;p&gt;ZoomInfo may use a software-based assessment as part of the recruitment process. More information about this tool, including the results of the most recent bias audit, is available &lt;a href=&quot;https://www.zoominfo.com/legal/nyc-local-law-144-notice&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;ZoomInfo is proud to be an equal opportunity employer, hiring based on qualifications, merit, and business needs, and does not discriminate based on protected status. We welcome all applicants and are committed to providing equal employment opportunities regardless of sex, race, age, color, national origin, sexual orientation, gender identity, marital status, disability status, religion, protected military or veteran status, medical condition, or any other characteristic protected by applicable law. We also consider qualified candidates with criminal histories in accordance with legal requirements.&lt;/p&gt;\n&lt;p&gt;For Massachusetts Applicants: It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability. ZoomInfo does not administer lie detector tests to applicants in any location.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4074833002,
+      "name": "914 Engineering - Productivity Engineering",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 4011964002,
+      "name": "Bethesda",
+      "location": "Bethesda, Maryland, United States",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

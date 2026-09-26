@@ -1,0 +1,133 @@
+{
+  "id": "744000145938619",
+  "name": "Technical Recruiter (FTC contract)",
+  "uuid": "f3e37dd3-b0db-487f-adc3-92551dfa317b",
+  "jobAdId": "84ccdfa7-ce87-4926-9cbd-96e84f205560",
+  "defaultJobAd": true,
+  "refNumber": "R10575",
+  "company": {
+    "identifier": "Wise",
+    "name": "Wise"
+  },
+  "releasedDate": "2026-08-27T09:39:38.103Z",
+  "location": {
+    "city": "Tallinn",
+    "country": "ee",
+    "address": "Kopli tn 68a",
+    "postalCode": "10412",
+    "remote": false,
+    "hybrid": false,
+    "fullLocation": "Tallinn, , Estonia"
+  },
+  "industry": {
+    "id": "financial_services",
+    "label": "Financial Services"
+  },
+  "department": {},
+  "function": {
+    "id": "human_resources",
+    "label": "Human Resources"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "customField": [
+    {
+      "fieldId": "65d3d0e0d37044292ef9549b",
+      "fieldLabel": "Job Profile",
+      "valueId": "e380f86fa0b201c322da49cc9501410e",
+      "valueLabel": "Recruitment Adviser - JP100526"
+    },
+    {
+      "fieldId": "65d3d0a7d37044292ef9549a",
+      "fieldLabel": "Job Family",
+      "valueId": "031d60c1f3b2014dd54ba985bc005700",
+      "valueLabel": "Recruitment"
+    },
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "ee",
+      "valueLabel": "Estonia"
+    },
+    {
+      "fieldId": "65d3d05c735007771b14e932",
+      "fieldLabel": "Worker Type",
+      "valueId": "EE",
+      "valueLabel": "Wiser"
+    },
+    {
+      "fieldId": "65cea5ac287e8d0651481809",
+      "fieldLabel": "Time Type",
+      "valueId": "d2f4dafccd5101059b6cf09e12278400",
+      "valueLabel": "Full time"
+    },
+    {
+      "fieldId": "65d3d06b2865b46cfa4f0ec3",
+      "fieldLabel": "Worker Sub Type",
+      "valueId": "046034784a4d019cf1e2ba886327900d",
+      "valueLabel": "Fixed Term (Fixed Term)"
+    },
+    {
+      "fieldId": "65d3d141c86c2f3257de414c",
+      "fieldLabel": "Cost Center Hierarchy",
+      "valueId": "6d8f1bd75a70013faa078331c7128f1c",
+      "valueLabel": "People"
+    },
+    {
+      "fieldId": "658553f79a81b00900831a80",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Wise"
+    },
+    {
+      "fieldId": "65d3d0374c34974b271801f9",
+      "fieldLabel": "Management Level",
+      "valueId": "e82698b94195019ad99d30d3f100d510",
+      "valueLabel": "4"
+    },
+    {
+      "fieldId": "65d3d0926435ba43bdb089ac",
+      "fieldLabel": "Job Family Group",
+      "valueId": "cf8ed98297e201ac68d6380dba008814",
+      "valueLabel": "People"
+    },
+    {
+      "fieldId": "65d3d151a5d3185b4341a7ab",
+      "fieldLabel": "Cost Center",
+      "valueId": "6d8f1bd75a70013e80150332c712021d",
+      "valueLabel": "People Recruitment"
+    },
+    {
+      "fieldId": "65cec407735007771b14e92d",
+      "fieldLabel": "Company",
+      "valueId": "046034784a4d01afa89d0f4764272117",
+      "valueLabel": "Wise Payments Limited Eesti filiaal"
+    },
+    {
+      "fieldId": "65d90823f2e6436af25814c2",
+      "fieldLabel": "Job Ad Salary Range",
+      "valueLabel": "2850 - 3750 EUR Monthly"
+    },
+    {
+      "fieldId": "65d9080b4aa2f46927dfc1f3",
+      "fieldLabel": "WD Target Hire Date",
+      "valueLabel": "2026-09-21"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/wise/postings/744000145938619",
+  "creator": {
+    "name": "Karyna Karpenko"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

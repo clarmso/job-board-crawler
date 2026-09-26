@@ -1,0 +1,66 @@
+{
+  "absolute_url": "https://instacart.careers/job/?gh_jid=7793391",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 3404810,
+  "location": {
+    "name": "United States - Remote"
+  },
+  "metadata": [
+    {
+      "id": 16452,
+      "name": "Employment Type",
+      "value": "Regular",
+      "value_type": "single_select"
+    },
+    {
+      "id": 740030,
+      "name": "Exemption Status",
+      "value": "Exempt",
+      "value_type": "single_select"
+    },
+    {
+      "id": 235666,
+      "name": "Time Type",
+      "value": "Full time",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 7793391,
+  "updated_at": "2026-08-24T13:15:00-04:00",
+  "requisition_id": "R018362",
+  "title": "Senior Applied Scientist II, Ads Optimization",
+  "company_name": "Instacart",
+  "first_published": "2026-04-08T15:45:26-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;We&#39;re transforming the grocery industry&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span class=&quot;im&quot;&gt;At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;Instacart has become a lifeline for millions of people, and we’re building the team to help push our shopping cart forward. If you’re ready to do the best work of your life, come join our table.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Instacart is a Flex First team &lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;There’s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work—whether it’s from home, an office, or your favorite coffee shop—while staying connected and building community through regular in-person events. &lt;a href=&quot;https://www.instacart.careers/flex-first&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://instacart.careers/remote/&amp;amp;source=gmail&amp;amp;ust=1651869232122000&amp;amp;usg=AOvVaw37OlxP8hAKN7nq4YwHQH7e&quot;&gt;Learn more about our flexible approach to where we work.&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;Overview&lt;/h2&gt;\n&lt;p&gt;The Advertiser Optimization team is the decision-making engine of Instacart&#39;s $1B+ ads business. We own the systems responsible for Bidding, Pacing, Budgeting, and Targeting: converting stated advertiser goals into real-time auction actions. Our mission is to maximize realized Advertiser Value by deciding when to participate, how much to bid, and how fast to spend, all while balancing User Experience and Platform Revenue.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;We are hiring a Senior Applied Scientist II to lead the algorithmic direction of these systems. This is a role for someone who thinks in terms of control theory, constrained optimization, and auction economics, and who can translate those frameworks into production code that makes millions of decisions per day. You will formulate problems from first principles, shape the technical roadmap, and own systems end-to-end from mathematical design through production deployment through impact measurement.&lt;/p&gt;\n&lt;h2&gt;About the Job&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Design and evolve real-time bid optimization systems that translate advertiser goals (target ROAS, budget constraints) into optimal auction bids under uncertainty. Formulate the bidding problem as constrained optimization and build the feedback mechanisms that keep bids aligned with realized outcomes.&lt;/li&gt;\n&lt;li&gt;Build intelligent budget pacing algorithms that distribute spend across time and auction opportunities. The core challenge: allocating a finite daily budget across stochastic demand while maximizing total value, subject to advertiser constraints and time-varying conversion dynamics.&lt;/li&gt;\n&lt;li&gt;Develop the analytical frameworks that connect bidding, pacing, and budgeting into a coherent optimization objective.&lt;/li&gt;\n&lt;li&gt;Shape auction mechanics including reserve pricing, multi-slot allocation, and bid-to-price mapping. Reason about mechanism design tradeoffs between advertiser outcomes, platform revenue, and marketplace efficiency.&lt;/li&gt;\n&lt;li&gt;Own the full research-to-production loop: diagnose system behavior from large-scale data, formulate hypotheses, design experiments, ship production code, and measure impact. Write technical strategy documents that set the algorithmic direction for the team.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;About You&lt;/h2&gt;\n&lt;h3&gt;Minimum Qualifications&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Graduate degree (Masters or PhD) in operations research, applied mathematics, control systems, computational economics, or a related quantitative field.&lt;/li&gt;\n&lt;li&gt;8+ years of experience building and deploying optimization or control systems in production environments (not just research prototypes).&lt;/li&gt;\n&lt;li&gt;Strong foundation in at least two of: feedback control theory (PID, MPC), convex and stochastic optimization, auction theory and mechanism design, dynamic programming.&lt;/li&gt;\n&lt;li&gt;Proficiency in one of the following languages: Go, Java, C++ for production systems and Python for data analysis and offline pipelines.&lt;/li&gt;\n&lt;li&gt;Demonstrated ability to translate mathematical formulations into production code that runs at scale (millions of decisions per day, sub-100ms latency constraints).&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Preferred Qualifications&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience with real-time bidding systems, ad auction optimization, or computational advertising at scale.&lt;/li&gt;\n&lt;li&gt;Background in budget-constrained allocation methods. Experience with adaptive control or model-predictive control in production systems.&lt;/li&gt;\n&lt;li&gt;Familiarity with causal inference and experimental design for evaluating algorithmic changes in marketplace settings.&lt;/li&gt;\n&lt;li&gt;Track record of shaping technical strategy and driving cross-functional alignment between engineering, product, and data science.&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Instacart provides highly market-competitive compensation and benefits in each location where our employees work. This role is remote and the base pay range for a successful candidate is dependent on their permanent work location. Please review our Flex First remote work policy &lt;/span&gt;&lt;a href=&quot;https://instacart.careers/flex-first/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Offers may vary based on many factors, such as candidate experience and skills required for the role. &lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Additionally, this role is eligible for a new hire equity grant as well as annual refresh grants. Please rea&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;d more about our benefits offerings &lt;/span&gt;&lt;a href=&quot;https://instacart.careers/taste-of-instacart/&quot; target=&quot;_blank&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;here&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;. &lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;For US based candidates, the base pay ranges for a successful candidate are listed below.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;CA, NY, CT, NJ&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$240,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$253,500 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;title&quot;&gt;WA&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$230,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$243,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;title&quot;&gt;OR, DE, ME, MA, MD, NH, RI, VT, DC, PA, VA, CO, TX, IL, HI&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$221,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$233,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;title&quot;&gt;All other states&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$201,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$212,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 51837,
+      "name": "Machine Learning",
+      "child_ids": [],
+      "parent_id": 4132
+    }
+  ],
+  "offices": [
+    {
+      "id": 2468,
+      "name": "San Francisco",
+      "location": "San Francisco, CA, United States",
+      "child_ids": [],
+      "parent_id": 88197
+    }
+  ],
+  "ai_disclaimer": "<p>Instacart (Maplebear Inc. d/b/a Instacart) uses Greenhouse's Real Talent technology as part of our hiring process. Select \"Learn more\" for information on how these tools work, what data is involved, and your rights.&nbsp;</p>",
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": "http://app.greenhouse.io/ai_opt_out_request/job_post/7793391/ai_opt_out"
+}

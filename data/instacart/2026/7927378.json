@@ -1,0 +1,66 @@
+{
+  "absolute_url": "https://instacart.careers/job/?gh_jid=7927378",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 3445258,
+  "location": {
+    "name": "Canada - Remote (ON, AB, BC, or NS Only)"
+  },
+  "metadata": [
+    {
+      "id": 16452,
+      "name": "Employment Type",
+      "value": "Regular",
+      "value_type": "single_select"
+    },
+    {
+      "id": 740030,
+      "name": "Exemption Status",
+      "value": "Exempt",
+      "value_type": "single_select"
+    },
+    {
+      "id": 235666,
+      "name": "Time Type",
+      "value": "Full time",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 7927378,
+  "updated_at": "2026-09-11T11:22:23-04:00",
+  "requisition_id": "R018591",
+  "title": "Engineering Manager, Catalog ",
+  "company_name": "Instacart",
+  "first_published": "2026-05-14T16:59:00-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;We&#39;re transforming the grocery industry&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span class=&quot;im&quot;&gt;At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;Instacart has become a lifeline for millions of people, and we’re building the team to help push our shopping cart forward. If you’re ready to do the best work of your life, come join our table.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Instacart is a Flex First team &lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;There’s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work—whether it’s from home, an office, or your favorite coffee shop—while staying connected and building community through regular in-person events. &lt;a href=&quot;https://www.instacart.careers/flex-first&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://instacart.careers/remote/&amp;amp;source=gmail&amp;amp;ust=1651869232122000&amp;amp;usg=AOvVaw37OlxP8hAKN7nq4YwHQH7e&quot;&gt;Learn more about our flexible approach to where we work.&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Instacart is the North American leader in online grocery, and we’re building the operating system for the grocery industry so people can access the food they love and more time to enjoy it together.&lt;/p&gt;\n&lt;p&gt;We’re looking for an Engineering Manager to lead our Catalog Enrichment team. This team builds the AI-native platform and pipelines that create, enrich, and maintain product attributes across a catalog of tens of millions of products&amp;nbsp; from more than 100,000 retailer locations. Catalog data is the foundation of our marketplace: when attributes are complete and accurate, search returns the right results, recommendations feel personal, and advertisers can target with confidence.&lt;/p&gt;\n&lt;p&gt;In this role, you’ll lead a team of engineers building systems that blend large language models, classical inference, workflow orchestration, and human review into configurable pipelines that non-engineers can run. You’ll also own the ML-facing interfaces to catalog data, including policies that govern how attributes are sourced, shared, and licensed across downstream models and customer surfaces. You will partner closely with ML, product, operations, search, ads, and retailer teams to drive measurable impact across Instacart’s ecosystem.&amp;nbsp;&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;About the Job&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;This is a fast-paced, highly cross-functional environment. You’ll thrive if you enjoy building platforms at scale, turning ambiguity into clarity, and mentoring engineers while rolling up your sleeves on hard technical problems.&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Lead, mentor, and grow a team of engineers who build the platform, pipelines, and interfaces that power catalog enrichment and ML access to catalog data.&lt;/li&gt;\n&lt;li&gt;Define and execute the technical roadmap, balancing new platform investments with reliability, observability, and developer experience for a growing user base.&lt;/li&gt;\n&lt;li&gt;Build and operate an AI-native enrichment platform that blends LLMs, classical ML, rules, workflow orchestration, and human review into pipelines non-engineers can configure and run.&lt;/li&gt;\n&lt;li&gt;Drive the evolution toward autonomous pipeline construction, where users express goals in plain language and the system assembles, evaluates, and optimizes workflows.&lt;/li&gt;\n&lt;li&gt;Own the ML-facing catalog data layer, including canonical product metadata and the policy controls that separate internal model inputs from customer-facing use cases.&lt;/li&gt;\n&lt;li&gt;Partner with ML, search, ads, commerce, and retailer teams to streamline data flows end to end and remove integration friction.&lt;/li&gt;\n&lt;li&gt;Advocate for clear, human-readable controls for source prioritization, rights management, licensing, and compliance to ensure auditable governance.&lt;/li&gt;\n&lt;li&gt;Boost developer and operator productivity via AI-assisted integration testing, investigation tooling, and on-call automation; set and meet SLAs on core attributes and model usage.&lt;/li&gt;\n&lt;li&gt;Contribute hands-on to architecture discussions, design reviews, and code reviews, especially in new or exploratory areas.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;About You&lt;/strong&gt;&lt;/h2&gt;\n&lt;h3&gt;Minimum Qualifications&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;7+ years of software engineering experience, including 2+ years managing engineers as a people leader.&lt;/li&gt;\n&lt;li&gt;Experience leading teams that build and operate production data or ML platforms, including both batch and streaming components.&lt;/li&gt;\n&lt;li&gt;Strong foundation in distributed systems, data pipelines, and workflow orchestration, with demonstrated build/buy/partner decision-making.&lt;/li&gt;\n&lt;li&gt;Ownership of data quality, coverage, or compliance commitments, with examples of frameworks and processes used to meet them.&lt;/li&gt;\n&lt;li&gt;Excellent written and verbal communication skills, including the ability to translate complex technical work for diverse audiences.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Preferred Qualifications&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience with catalog, commerce, or product data platforms operating at large scale.&lt;/li&gt;\n&lt;li&gt;Hands-on experience with workflow orchestration systems (e.g., Temporal, Airflow, Flink) and running them in production.&lt;/li&gt;\n&lt;li&gt;Experience shipping applied AI/ML features in production and understanding trade-offs across LLMs, classical ML, deterministic rules, and human review.&lt;/li&gt;\n&lt;li&gt;Proven success partnering across ML, product, and operations to deliver outcomes that require alignment and shared goals.&lt;/li&gt;\n&lt;li&gt;Familiarity with data governance, rights management, and licensing controls in multi-stakeholder environments.&lt;/li&gt;\n&lt;li&gt;Experience building pipeline builders, low-code/no-code tooling, or internal platforms used by non-engineers.&lt;/li&gt;\n&lt;li&gt;Background in developer productivity tooling, including AI-assisted testing and investigation workflows.&lt;/li&gt;\n&lt;li&gt;Success operating in fast-growing environments where both the platform and team are evolving.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;#LI-Remote&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Instacart provides highly market-competitive compensation and benefits in each location where our employees work. This role is remote and the base pay range for a successful candidate is dependent on their permanent work location. Please review our Flex First remote work policy &lt;a href=&quot;https://instacart.careers/flex-first/&quot;&gt;here&lt;/a&gt;. Currently, we are only hiring in the following provinces: Ontario, Alberta, British Columbia, and Nova Scotia.&lt;/p&gt;\n&lt;p&gt;Offers may vary based on many factors, such as candidate experience and skills required for the role. Additionally, this role is eligible for a new hire equity grant as well as annual refresh grants. Please read more about our benefits offerings &lt;a href=&quot;https://instacart.careers/taste-of-instacart/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;For Canadian based candidates, the base pay ranges for a successful candidate are listed below.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;CAN&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$196,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$207,000 CAD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 51084,
+      "name": "Leadership (Engineering)",
+      "child_ids": [],
+      "parent_id": 4132
+    }
+  ],
+  "offices": [
+    {
+      "id": 88202,
+      "name": "Remote - Canada",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 88198
+    }
+  ],
+  "ai_disclaimer": "<p>Instacart (Maplebear Inc. d/b/a Instacart) uses Greenhouse's Real Talent technology as part of our hiring process. Select \"Learn more\" for information on how these tools work, what data is involved, and your rights.&nbsp;</p>",
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": "http://app.greenhouse.io/ai_opt_out_request/job_post/7927378/ai_opt_out"
+}

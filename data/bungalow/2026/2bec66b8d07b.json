@@ -1,0 +1,192 @@
+{
+  "id": "2bec66b8d07b",
+  "friendly_id": "2bec66b8d07b-acquisitions-associate",
+  "name": "Acquisitions Associate",
+  "url": "https://bungalow.breezy.hr/p/2bec66b8d07b-acquisitions-associate",
+  "published_date": "2026-08-03T19:21:57.779Z",
+  "type": {
+    "id": "fullTime",
+    "name": "Full-Time"
+  },
+  "location": {
+    "country": {
+      "name": "United States",
+      "id": "US"
+    },
+    "state": {
+      "id": "CA",
+      "name": "California"
+    },
+    "city": "San Francisco",
+    "primary": true,
+    "streetAddress": {
+      "location": "1 Letterman Dr, San Francisco, CA 94129, USA",
+      "streetAddress": "1 Letterman Dr",
+      "components": [
+        {
+          "long_name": "1",
+          "short_name": "1",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Letterman Drive",
+          "short_name": "Letterman Dr",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Presidio of San Francisco",
+          "short_name": "Presidio of San Francisco",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "San Francisco",
+          "short_name": "SF",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "San Francisco County",
+          "short_name": "San Francisco County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "California",
+          "short_name": "CA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "94129",
+          "short_name": "94129",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ]
+    },
+    "is_remote": true,
+    "remote_details": {
+      "value": "remote",
+      "label": "Fully remote, no location restrictions"
+    },
+    "name": "San Francisco, CA"
+  },
+  "department": null,
+  "salary": "",
+  "company": {
+    "name": "bungalow",
+    "logo_url": "https://gallery-cdn.breezy.hr/e83c7c23-d50b-4049-95dc-a4ba6451e69b/Screenshot 2026-06-26 at 12.17.04 PM.png",
+    "friendly_id": "bungalow",
+    "isMultipleLocationsEnabled": false
+  },
+  "locations": [
+    {
+      "country": {
+        "name": "United States",
+        "id": "US"
+      },
+      "state": {
+        "id": "CA",
+        "name": "California"
+      },
+      "city": "San Francisco",
+      "primary": true,
+      "streetAddress": {
+        "location": "1 Letterman Dr, San Francisco, CA 94129, USA",
+        "streetAddress": "1 Letterman Dr",
+        "components": [
+          {
+            "long_name": "1",
+            "short_name": "1",
+            "types": [
+              "street_number"
+            ]
+          },
+          {
+            "long_name": "Letterman Drive",
+            "short_name": "Letterman Dr",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Presidio of San Francisco",
+            "short_name": "Presidio of San Francisco",
+            "types": [
+              "neighborhood",
+              "political"
+            ]
+          },
+          {
+            "long_name": "San Francisco",
+            "short_name": "SF",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "San Francisco County",
+            "short_name": "San Francisco County",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "California",
+            "short_name": "CA",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "94129",
+            "short_name": "94129",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ]
+      },
+      "is_remote": true,
+      "remote_details": {
+        "value": "remote",
+        "label": "Fully remote, no location restrictions"
+      },
+      "name": "San Francisco, CA",
+      "id": "96d6c14b5b14"
+    }
+  ]
+}

@@ -135,15 +135,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "17a83d7a-7cd3-4520-a1b0-0ebbd80bf334",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "105d088b-d1ca-49c3-a6da-871cabbc61e0",
             "summary": "Total OTE Range: 13 000 000 - 15 000 000 OTE / Base salary range: HUF 8M – HUF 9M",
             "compensationType": "Salary",
@@ -151,6 +142,15 @@
             "currencyCode": "HUF",
             "minValue": 8000000,
             "maxValue": 9000000
+          },
+          {
+            "id": "17a83d7a-7cd3-4520-a1b0-0ebbd80bf334",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           }
         ]
       },
@@ -161,15 +161,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "fd6bb31e-9dee-4bb8-9d6d-c60614570e83",
-            "summary": "Total OTE Range: 36 667 - 45 000 OTE / Base salary range: €22K – €27K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "EUR",
-            "minValue": 22000,
-            "maxValue": 27000
-          },
-          {
             "id": "7630d39f-ed6a-4aec-bd4e-e8e07d1e1fad",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
@@ -177,6 +168,15 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "fd6bb31e-9dee-4bb8-9d6d-c60614570e83",
+            "summary": "Total OTE Range: 36 667 - 45 000 OTE / Base salary range: €22K – €27K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "EUR",
+            "minValue": 22000,
+            "maxValue": 27000
           }
         ]
       },
@@ -204,15 +204,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "5040630a-b063-4e5c-a657-40b14b66097e",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "2b2e5753-1917-449d-933a-9024d4387264",
             "summary": "Total OTE Range: 48 333 - 58 333 OTE / Base salary range: €29K – €35K",
             "compensationType": "Salary",
@@ -220,6 +211,15 @@
             "currencyCode": "EUR",
             "minValue": 29000,
             "maxValue": 35000
+          },
+          {
+            "id": "5040630a-b063-4e5c-a657-40b14b66097e",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           }
         ]
       },
@@ -230,15 +230,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "d19b6a46-21c7-4d9f-a368-cc13cd3a5c4a",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "755e2b8a-dd47-4885-9aba-67ff802db515",
             "summary": "Total OTE Range: 170 000 - 200 000 OTE / Base salary range: PLN 102K – PLN 120K",
             "compensationType": "Salary",
@@ -246,6 +237,15 @@
             "currencyCode": "PLN",
             "minValue": 102000,
             "maxValue": 120000
+          },
+          {
+            "id": "d19b6a46-21c7-4d9f-a368-cc13cd3a5c4a",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           }
         ]
       },

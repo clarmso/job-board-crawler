@@ -1,0 +1,72 @@
+{
+  "absolute_url": "https://www.zoominfo.com/careers?gh_jid=8574368002",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 6424765002,
+  "location": {
+    "name": "Remote"
+  },
+  "metadata": [
+    {
+      "id": 24710929002,
+      "name": "Job Family Group",
+      "value": "Engineering",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24711071002,
+      "name": "Time Type",
+      "value": "Full time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 101751589002,
+      "name": "Work Shift",
+      "value": "General Shift",
+      "value_type": "short_text"
+    },
+    {
+      "id": 4203585002,
+      "name": "LEGACY - Employment Type",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8574368002,
+  "updated_at": "2026-09-09T11:01:34-04:00",
+  "requisition_id": "JR107680",
+  "title": "Principal Software Engineer (GTMO/Mesh)",
+  "company_name": "ZoomInfo Technologies LLC",
+  "first_published": "2026-06-11T10:52:06-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen–fast.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;Mesh is ZoomInfo&#39;s internal AI platform. Thousands of employees use it every day — to run AI agents, build automated workflows, create microapps, and connect to the tools they already work in. It&#39;s a platform with a lot of moving parts, and a small engineering team that owns all of them.&lt;/p&gt;\n&lt;p&gt;We&#39;re looking for a Principal Software Engineer who raises the bar on how we ship, not just what we ship.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What you&#39;ll be doing:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Owning features across the full stack — React frontends, backend APIs, cloud infrastructure — from design through production&lt;/li&gt;\n&lt;li&gt;Responding to production incidents and shipping fixes&lt;/li&gt;\n&lt;li&gt;Building and improving core platform capabilities: AI agents, orchestration workflows, microapp infrastructure, LLM integrations&lt;/li&gt;\n&lt;li&gt;Developing SDKs and tooling for engineers who build on top of Mesh&lt;/li&gt;\n&lt;li&gt;Championing quality and reliability — tests, coverage, habits that prevent regressions&lt;/li&gt;\n&lt;li&gt;Collaborating across teams and supporting users directly through our Slack support channels&lt;/li&gt;\n&lt;li&gt;Mentoring engineers through code reviews and technical guidance&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Why Mesh:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Small team, real impact — your contributions are visible and your opinions carry weight&lt;/li&gt;\n&lt;li&gt;We use AI tools heavily in our own workflow — Claude Code, AI-assisted code review, LLM-powered automation&lt;/li&gt;\n&lt;li&gt;Distributed systems, LLM reliability, workflow orchestration, real-time integrations — the problems are hard and varied&lt;/li&gt;\n&lt;li&gt;We move fast and we&#39;re getting smarter about how we do it&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;What you&#39;ll bring:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;12+ years of software engineering experience with a track record of delivering reliable, scalable systems&lt;/li&gt;\n&lt;li&gt;Strong full-stack skills — React/TypeScript, backend services, cloud infrastructure&lt;/li&gt;\n&lt;li&gt;Experience building in a cloud-native environment, preferably GCP — Kubernetes, Cloud Functions, Pub/Sub, managed databases&lt;/li&gt;\n&lt;li&gt;Solid understanding of SQL and NoSQL databases — Postgres, MongoDB, Redis&lt;/li&gt;\n&lt;li&gt;Experience owning production systems — logs, incident triage, fixes under pressure&lt;/li&gt;\n&lt;li&gt;A real commitment to software quality — testing strategy, code review, regression prevention&lt;/li&gt;\n&lt;li&gt;Security awareness built into how you work&lt;/li&gt;\n&lt;li&gt;You disagree and commit — push back when something is wrong, but don&#39;t relitigate once a decision is made&lt;/li&gt;\n&lt;li&gt;Clear communication and experience in fast-moving, high-ownership environments&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Preferred:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience with LLMs — Claude, GPT, Llama — and building applications on top of them&lt;/li&gt;\n&lt;li&gt;Familiarity with context engineering and RAG patterns&lt;/li&gt;\n&lt;li&gt;Experience with MCP or AI tool integrations&lt;/li&gt;\n&lt;li&gt;Experience with Temporal or similar workflow orchestration systems&lt;/li&gt;\n&lt;li&gt;Experience with vector databases — Pinecone, pgvector, etc.&lt;/li&gt;\n&lt;li&gt;Experience building developer-facing SDKs or platform tooling&lt;/li&gt;\n&lt;li&gt;Experience with CI/CD pipelines, particularly GitHub Actions&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;#LI-AR2&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;#LI-Remote&lt;/span&gt;&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Actual compensation offered will be based on factors such as the candidate’s work location, qualifications, skills, experience and/or training. Your recruiter can share more information about the specific salary range for your desired work location during the hiring process. We want our employees and their families to thrive.&lt;/p&gt;\n&lt;p&gt;In addition to comprehensive benefits we offer holistic mind, body and lifestyle programs designed for overall well-being. Learn more about ZoomInfo benefits &lt;a class=&quot;c-link&quot; href=&quot;https://www.zoominfo.com/careers#benefits&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.zoominfo.com/careers#benefits&quot; data-sk=&quot;tooltip_parent&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;Below is the US base salary for this position. Additional compensation such as Bonus, Commission, Equity and other benefits may also apply.&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$163,800&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$257,400 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;About us:&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;ZoomInfo (NASDAQ: GTM) is the Go-To-Market Intelligence Platform that empowers businesses to grow faster with AI-ready insights, trusted data, and advanced automation. Its solutions provide more than 35,000 companies worldwide with a complete view of their customers, making every seller their best seller.&lt;/p&gt;\n&lt;p&gt;ZoomInfo is committed to protecting your privacy when you apply for jobs with us. Please review our Job Applicant &lt;a href=&quot;https://drive.google.com/file/d/1yiG-k0YX_sW10PiJk_xliDc3W-veJCrK/view?usp=drive_link&quot; target=&quot;_blank&quot;&gt;Privacy Notice&lt;/a&gt; for more details on how we handle your personal information.&lt;/p&gt;\n&lt;p&gt;ZoomInfo may use a software-based assessment as part of the recruitment process. More information about this tool, including the results of the most recent bias audit, is available &lt;a href=&quot;https://www.zoominfo.com/legal/nyc-local-law-144-notice&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;ZoomInfo is proud to be an equal opportunity employer, hiring based on qualifications, merit, and business needs, and does not discriminate based on protected status. We welcome all applicants and are committed to providing equal employment opportunities regardless of sex, race, age, color, national origin, sexual orientation, gender identity, marital status, disability status, religion, protected military or veteran status, medical condition, or any other characteristic protected by applicable law. We also consider qualified candidates with criminal histories in accordance with legal requirements.&lt;/p&gt;\n&lt;p&gt;For Massachusetts Applicants: It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability. ZoomInfo does not administer lie detector tests to applicants in any location.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4078176002,
+      "name": "965 Product Management - AI & Strategy",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 4085444002,
+      "name": "Remote-US-CA",
+      "location": null,
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

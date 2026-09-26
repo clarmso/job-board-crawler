@@ -1,0 +1,72 @@
+{
+  "absolute_url": "https://www.zoominfo.com/careers?gh_jid=8226018002",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 6259939002,
+  "location": {
+    "name": "Bengaluru, Karnataka, India"
+  },
+  "metadata": [
+    {
+      "id": 24710929002,
+      "name": "Job Family Group",
+      "value": "Engineering",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24711071002,
+      "name": "Time Type",
+      "value": "Full time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 101751589002,
+      "name": "Work Shift",
+      "value": "General Shift (09:00 AM - 06:00 PM, 10:00 AM - 07:00 PM, 11:00 AM - 08:00 PM)",
+      "value_type": "short_text"
+    },
+    {
+      "id": 4203585002,
+      "name": "LEGACY - Employment Type",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8226018002,
+  "updated_at": "2026-08-21T12:01:41-04:00",
+  "requisition_id": "JR106785",
+  "title": "Senior Software Engineer",
+  "company_name": "ZoomInfo Technologies LLC",
+  "first_published": "2025-10-29T07:34:54-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen–fast.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;As a Senior Software Engineer, you will get to explore and work with cutting-edge technologies and a large and rich data set. If you like working on tough problems, whether that’s building systems that handle millions of customer requests a day or how to make sense of over a billion pieces of potentially correlated data, ZoomInfo is the right place for you.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What You&#39;ll do:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Design, develop and maintain high quality services, adhering to best practices and coding standards&lt;/li&gt;\n&lt;li&gt;Collaborate with other team members and stakeholders to contribute to the design and evolution of the services architecture, ensuring scalability, reliability and performance&lt;/li&gt;\n&lt;li&gt;Create robust RESTful APIs and integrate with external services, ensuring data consistency and security&lt;/li&gt;\n&lt;li&gt;Work with distributed SQL databases (e.g., SingleStore) and NoSQL stores (e.g., MongoDB) to design efficient data models, optimize access patterns, and implement caching strategies&lt;/li&gt;\n&lt;li&gt;Build and maintain asynchronous job processing pipelines using message queues&lt;/li&gt;\n&lt;li&gt;Guide junior members of the team in planning and execution of work&lt;/li&gt;\n&lt;li&gt;Identify and address performance bottlenecks in the services, optimizing code and infrastructure as needed&lt;/li&gt;\n&lt;li&gt;Write unit and integration tests and participate in code reviews to maintain code quality and reliability&lt;/li&gt;\n&lt;li&gt;Investigate and resolve issues reported in production, providing timely solutions to ensure system availability&lt;/li&gt;\n&lt;li&gt;Stay up-to-date with industry trends and best practices related to backend development and cloud technologies&lt;/li&gt;\n&lt;li&gt;Leverage LLMs as a day-to-day productivity tool — use AI assistants for code generation, debugging, and design exploration, while exercising sound engineering judgment on when and to what extent to rely on LLM output versus manual implementation.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;What you bring:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;7+ years of experience as a backend developer, with a strong focus on services development&lt;/li&gt;\n&lt;li&gt;Proficiency in at least one backend programming language and its ecosystem(e.g., Java, NodeJs, Python) with demonstrated ability to quickly ramp up and deliver in unfamiliar languages, frameworks, and systems.&lt;/li&gt;\n&lt;li&gt;Solid understanding of services architecture principles and best practices&lt;/li&gt;\n&lt;li&gt;Proficiency in RESTful API design and development&lt;/li&gt;\n&lt;li&gt;Strong proficiency in RDBMS querying and performance tuning — ability to reason about indexing strategies, shard key design, query execution plans and connection pool management. Experience with both SQL (e.g., SingleStore, MySQL) and NoSQL (e.g., MongoDB) databases, including designing efficient data models and caching strategies (e.g., Redis).&lt;/li&gt;\n&lt;li&gt;Hands-on experience integrating with LLM/GenAI services — including prompt engineering, tools, agents and validating LLM-generated outputs (e.g., SQL query safety validation) before execution in production systems.&lt;/li&gt;\n&lt;li&gt;Must be able to work independently and deliver excellent results in short timelines&lt;/li&gt;\n&lt;li&gt;Technically lead and mentor juniors in the team, and drive planning and execution of work&lt;/li&gt;\n&lt;li&gt;Experience with containerization and orchestration tools&lt;/li&gt;\n&lt;li&gt;Strong problem-solving and debugging skills&lt;/li&gt;\n&lt;li&gt;Experience with public cloud platform&lt;/li&gt;\n&lt;li&gt;Excellent communication and collaboration skills&lt;/li&gt;\n&lt;li&gt;Ability to thrive in a dynamic, fast-paced environment&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;#LI-PM1&lt;/p&gt;\n&lt;p&gt;#LI-Hybrid&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;About us:&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;ZoomInfo (NASDAQ: GTM) is the Go-To-Market Intelligence Platform that empowers businesses to grow faster with AI-ready insights, trusted data, and advanced automation. Its solutions provide more than 35,000 companies worldwide with a complete view of their customers, making every seller their best seller.&lt;/p&gt;\n&lt;p&gt;ZoomInfo is committed to protecting your privacy when you apply for jobs with us. Please review our Job Applicant &lt;a href=&quot;https://drive.google.com/file/d/1yiG-k0YX_sW10PiJk_xliDc3W-veJCrK/view?usp=drive_link&quot; target=&quot;_blank&quot;&gt;Privacy Notice&lt;/a&gt; for more details on how we handle your personal information.&lt;/p&gt;\n&lt;p&gt;ZoomInfo may use a software-based assessment as part of the recruitment process. More information about this tool, including the results of the most recent bias audit, is available &lt;a href=&quot;https://www.zoominfo.com/legal/nyc-local-law-144-notice&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;ZoomInfo is proud to be an equal opportunity employer, hiring based on qualifications, merit, and business needs, and does not discriminate based on protected status. We welcome all applicants and are committed to providing equal employment opportunities regardless of sex, race, age, color, national origin, sexual orientation, gender identity, marital status, disability status, religion, protected military or veteran status, medical condition, or any other characteristic protected by applicable law. We also consider qualified candidates with criminal histories in accordance with legal requirements.&lt;/p&gt;\n&lt;p&gt;For Massachusetts Applicants: It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability. ZoomInfo does not administer lie detector tests to applicants in any location.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4074783002,
+      "name": "933 Engineering - ZI Products",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 4058415002,
+      "name": "Bangalore, India",
+      "location": "Bengaluru, Karnataka, India",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

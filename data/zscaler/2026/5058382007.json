@@ -1,0 +1,152 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/zscaler/jobs/5058382007",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 4595517007,
+  "location": {
+    "name": "San Jose, California, USA"
+  },
+  "metadata": [
+    {
+      "id": 4203262007,
+      "name": "Employment Type",
+      "value": "Fulltime Employee",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4363861007,
+      "name": "Additional Job Post Location",
+      "value": [],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 4363809007,
+      "name": "Division",
+      "value": "Engineering",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4391305007,
+      "name": "Geo/Region",
+      "value": "AMS",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 5058382007,
+  "updated_at": "2026-09-25T16:25:33-04:00",
+  "requisition_id": "260219_I30821",
+  "title": "Sr. Staff SWE, Provisioning Platform",
+  "company_name": "Zscaler",
+  "first_published": "2026-03-11T18:44:21-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange™️ platform protects thousands of customers from cyberattacks and data loss by securely connecting users, devices, and applications in any location. Distributed across 160+ public exchanges globally and thousands of private exchanges at the edge, the SASE-based Zero Trust Exchange is the world’s largest in-line cloud security platform.&lt;/p&gt;\n&lt;p&gt;We believe the future of work is Human + AI and are building an AI-native enterprise where human potential is amplified by machine intelligence to solve the world’s hardest security challenges. Driven by deep customer obsession, we are committed to the mission, outcome, and to each other. We bring these commitments to life through three core behaviors: ownership and collaboration, trust through outcomes and impact, and a challenge culture with ongoing feedback. Ready to make an impact at the company pioneering security transformation in the AI era? Join us at Zscaler.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&lt;img style=&quot;max-width: 100%;&quot; src=&quot;https://image.synthesia.io/c57d35c1-5686-4e34-bec6-bba734f90ab1/thumbnail.gif&quot;&gt;&lt;/p&gt;\n&lt;p&gt;We are looking for a Sr. Staff Software Development Engineer, Provisioning Platform to join our Zero Trust Exchange department. This is a hybrid position based in San Jose, CA (HQ), reporting to the Sr. Director, Software Development Engineering.&lt;/p&gt;\n&lt;p&gt;The Sr. Staff Software Development Engineer will help architect and build Zscaler’s next-generation Provisioning Platform, powering SKU provisioning, entitlement management, workflow orchestration, subscription lifecycle management, and self-service experiences across Zscaler products. This is a backend-focused platform role requiring strong Java/Spring Boot expertise, distributed systems experience, API-first design, and the ability to build scalable, reliable systems that support both automation and Agentic AI-assisted user experiences.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What you’ll do (Role Expectations)&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Lead the design and development of scalable backend services for provisioning, licensing, entitlements, approvals, orchestration workflows, and subscription lifecycle management&lt;/li&gt;\n&lt;li&gt;Build API-first platform services using Java/Spring Boot, REST, gRPC, OpenAPI, OAuth2, JWT, and secure service-to-service communication&lt;/li&gt;\n&lt;li&gt;Architect resilient workflow-driven systems using asynchronous processing, retries, rollback handling, durable state management, Kafka/RabbitMQ, and orchestration technologies such as Temporal or similar platforms&lt;/li&gt;\n&lt;li&gt;Design platform capabilities that enable Agentic AI experiences for guided provisioning, workflow automation, recommendations, troubleshooting, and operational insights&lt;/li&gt;\n&lt;li&gt;Drive platform reliability, observability, auditability, developer productivity, and technical direction through reusable frameworks, SDKs, tooling, automation, and mentoring&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Who You Are (Success Profile)&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;You act like an owner. Your passion for the mission fuels your bias for action. You operate with integrity because you genuinely care about the outcome. You adapt to what’s needed, navigating seamlessly between high-level strategy and hands-on execution.&lt;/li&gt;\n&lt;li&gt;You are a problem-solver. You seek out challenges because you are energized by finding solutions, knowing that solving the hard problems delivers the biggest impact.&lt;/li&gt;\n&lt;li&gt;You are driven by innovation. You have a deep curiosity for how things work and are energized by solving complex technical challenges. You believe in the power of technology to accelerate transformation and are always looking for a better, more secure, and scalable way.&lt;/li&gt;\n&lt;li&gt;You are a pragmatic builder. You are obsessed with creating, iterating, and shipping. You aren&#39;t afraid to roll up your sleeves and build the first version yourself, balancing the drive for technical excellence with the need to deliver value to users quickly.&lt;/li&gt;\n&lt;li&gt;You think at scale. You connect your day-to-day work to the larger company mission and think globally. You build solutions, processes, and teams that are not just effective today but are built to last and support a high-growth, global organization.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;What We’re Looking for (Minimum Qualifications)&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Demonstrated curiosity and active exploration of AI tools, with a proven history of integrating new technologies to enhance daily workflows and augment problem-solving&lt;/li&gt;\n&lt;li&gt;8+ years of software engineering experience building large-scale backend, platform, distributed systems, or cloud-native applications&lt;/li&gt;\n&lt;li&gt;Strong backend development experience with Java and Spring Boot, including building production-grade microservices and APIs&lt;/li&gt;\n&lt;li&gt;Experience with distributed systems concepts such as resiliency, idempotency, retries, fault tolerance, transactional workflows, eventual consistency, and durable state management&lt;/li&gt;\n&lt;li&gt;Experience with API-first platform development using REST, gRPC, OpenAPI, OAuth2, JWT, RBAC, audit logging, and secure service-to-service communication&lt;/li&gt;\n&lt;li&gt;Experience with cloud-native and event-driven technologies such as Kubernetes, Docker, Kafka/RabbitMQ, PostgreSQL, Redis, CI/CD pipelines, observability, and production operations&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;What Will Make You Stand Out (Preferred Qualifications)&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience building provisioning, licensing, entitlement, commerce, billing, subscription lifecycle, or internal developer platforms at scale&lt;/li&gt;\n&lt;li&gt;Experience with workflow orchestration platforms such as Temporal, Cadence, Airflow, Prefect, or Dagster, as well as domain-driven design and event-driven architectures&lt;/li&gt;\n&lt;li&gt;Experience with Agentic AI, LLM-based workflows, tool calling, RAG, AI-assisted admin/developer experiences, or strong practical use of AI-assisted development tools; Python/FastAPI, Go, React, Next.js, or Material UI experience is a plus&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;#LI-AJ1 #LI-Hybrid&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Zscaler’s salary ranges are benchmarked and are determined by role and level. The range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position across all US locations and could be higher or lower based on a multitude of factors, including job-related skills, experience, and relevant education or training.&lt;/p&gt;\n&lt;p&gt;The base salary range listed for this full-time position excludes commission/ bonus/ equity (if applicable) + benefits.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;Base Pay Range&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$154,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$220,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p data-pm-slice=&quot;1 3 []&quot;&gt;At Zscaler, we are committed to building a team that reflects the communities we serve and the customers we work with. We foster an inclusive environment that values all backgrounds and perspectives, emphasizing collaboration and belonging. Join us in our mission to make doing business seamless and secure.&lt;/p&gt;\n&lt;p&gt;Our Benefits program is one of the most important ways we support our employees. Zscaler proudly offers comprehensive and inclusive benefits to meet the diverse needs of our employees and their families throughout their life stages, including:&lt;/p&gt;\n&lt;div class=&quot;has-nudge&quot; data-nudge-id=&quot;5eb9419b-6a4d-4451-bfa6-e2eb96084be0&quot;&gt;\n&lt;ul&gt;\n&lt;li&gt;Various health plans&lt;/li&gt;\n&lt;li&gt;Time off plans for vacation and sick time&lt;/li&gt;\n&lt;li&gt;Parental leave options&lt;/li&gt;\n&lt;li&gt;Retirement options&lt;/li&gt;\n&lt;li&gt;Education reimbursement&lt;/li&gt;\n&lt;li&gt;In-office perks, and more!&lt;/li&gt;\n&lt;/ul&gt;\n&lt;div class=&quot;has-nudge&quot; data-nudge-id=&quot;5eb9419b-6a4d-4451-bfa6-e2eb96084be0&quot;&gt;\n&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;Learn more about Zscaler&#39;s hybrid working model and benefits&amp;nbsp;&lt;a href=&quot;https://www.zscaler.com/candidate-resource-hub&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;p&gt;By applying for this role, you adhere to applicable laws, regulations, and Zscaler policies, including those related to security and privacy standards and guidelines.&lt;/p&gt;\n&lt;p class=&quot;p1&quot;&gt;Zscaler is committed to providing equal employment opportunities to all individuals. We strive to create a workplace where employees are treated with respect and have the chance to succeed. All qualified applicants will be considered for employment without regard to race, color, religion, sex (including pregnancy or related medical conditions), age, national origin, sexual orientation, gender identity or expression, genetic information, disability status, protected veteran status, or any other characteristic protected by federal, state, or local laws. &lt;em&gt;See more information by clicking on the &lt;/em&gt;&lt;a href=&quot;https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf&quot;&gt;&lt;em&gt;Know Your Rights: Workplace Discrimination is Illegal &lt;/em&gt;&lt;/a&gt;&lt;em&gt;link.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;Pay Transparency&lt;/p&gt;\n&lt;p&gt;Zscaler complies with all applicable federal, state, and local pay transparency rules.&lt;/p&gt;\n&lt;p&gt;Zscaler is committed to providing reasonable support (called accommodations or adjustments) in our recruiting processes for candidates who are differently abled, have long term conditions, mental health conditions or sincerely held religious beliefs, or who are neurodivergent or require pregnancy-related support.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4052364007,
+      "name": "Zero Trust Exchange",
+      "child_ids": [
+        4065752007,
+        4058564007,
+        4063093007,
+        4063090007,
+        4063091007,
+        4063092007,
+        4065646007,
+        4052366007,
+        4065647007,
+        4065648007,
+        4052367007,
+        4046320007,
+        4046246007,
+        4058563007,
+        4058562007,
+        4058565007,
+        4046244007,
+        4052368007,
+        4046243007,
+        4046242007,
+        4046240007,
+        4046225007,
+        4068024007,
+        4036097007,
+        4036098007,
+        4058571007,
+        4036106007,
+        4036104007,
+        4036105007,
+        4018288007,
+        4043631007,
+        4043629007,
+        4043630007,
+        4036103007,
+        4036101007,
+        4036100007,
+        4036102007,
+        4052406007,
+        4067310007,
+        4036096007,
+        4018320007,
+        4036094007,
+        4057191007,
+        4046326007,
+        4046172007,
+        4046175007,
+        4058570007,
+        4063513007,
+        4063514007,
+        4063515007,
+        4058568007,
+        4058569007,
+        4041579007,
+        4018284007,
+        4063511007,
+        4063512007,
+        4022264007,
+        4036095007,
+        4036099007,
+        4018319007,
+        4050996007,
+        4050997007,
+        4050998007,
+        4018321007,
+        4018313007,
+        4022265007,
+        4015505007,
+        4066574007,
+        4066575007,
+        4042855007,
+        4042854007,
+        4042856007,
+        4036111007,
+        4036112007,
+        4036113007,
+        4018285007,
+        4040218007,
+        4029174007,
+        4075360007
+      ],
+      "parent_id": 4017790007
+    }
+  ],
+  "offices": [
+    {
+      "id": 4007291007,
+      "name": "Office - San Jose, USA",
+      "location": "San Jose, California, USA",
+      "child_ids": [],
+      "parent_id": 4007290007
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

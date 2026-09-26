@@ -52,18 +52,18 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "d4cbbe11-ff4e-40e0-9367-6f6d09011aa3",
-            "summary": "Estimated base salary $125K – $150K",
-            "compensationType": "Salary",
+            "id": "f293a7f7-a504-42b2-8b05-418e84a67b57",
+            "summary": "$125K – $150K Commission",
+            "compensationType": "Commission",
             "interval": "1 YEAR",
             "currencyCode": "USD",
             "minValue": 125000,
             "maxValue": 150000
           },
           {
-            "id": "f293a7f7-a504-42b2-8b05-418e84a67b57",
-            "summary": "$125K – $150K Commission",
-            "compensationType": "Commission",
+            "id": "d4cbbe11-ff4e-40e0-9367-6f6d09011aa3",
+            "summary": "Estimated base salary $125K – $150K",
+            "compensationType": "Salary",
             "interval": "1 YEAR",
             "currencyCode": "USD",
             "minValue": 125000,
@@ -74,14 +74,14 @@
     ],
     "summaryComponents": [
       {
-        "compensationType": "Salary",
+        "compensationType": "Commission",
         "interval": "1 YEAR",
         "currencyCode": "USD",
         "minValue": 125000,
         "maxValue": 150000
       },
       {
-        "compensationType": "Commission",
+        "compensationType": "Salary",
         "interval": "1 YEAR",
         "currencyCode": "USD",
         "minValue": 125000,

@@ -1,0 +1,72 @@
+{
+  "absolute_url": "https://www.zoominfo.com/careers?gh_jid=8800796002",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 6521475002,
+  "location": {
+    "name": "Bethesda, Maryland, United States; Remote-US-MA; Remote-US-MD; Remote-US-WA; Vancouver, Washington, United States; Waltham, Massachusetts, United States"
+  },
+  "metadata": [
+    {
+      "id": 24710929002,
+      "name": "Job Family Group",
+      "value": "Engineering",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24711071002,
+      "name": "Time Type",
+      "value": "Full time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 101751589002,
+      "name": "Work Shift",
+      "value": "General Shift",
+      "value_type": "short_text"
+    },
+    {
+      "id": 4203585002,
+      "name": "LEGACY - Employment Type",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8800796002,
+  "updated_at": "2026-09-23T10:41:10-04:00",
+  "requisition_id": "JR108118",
+  "title": "Director, Applied AI",
+  "company_name": "ZoomInfo Technologies LLC",
+  "first_published": "2026-09-17T15:35:26-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen–fast.&lt;/p&gt;&lt;/div&gt;&lt;div&gt;\n&lt;p class=&quot;markdown-p&quot;&gt;You&#39;ll lead the team that builds the intelligence every ZoomInfo AI agent reasons over — what&#39;s true about companies and the people in them, how they relate, and what they&#39;re buying. This role owns the B2B data graph strategy end to end, from training data through model serving, blending classical machine learning and data science with LLM and agentic systems. You&#39;ll set the technical bar for a small, senior team while staying hands-on, shipping code and prototypes alongside the engineers you lead.&lt;/p&gt;\n&lt;p class=&quot;markdown-p&quot;&gt;&lt;strong class=&quot;markdown-strong&quot;&gt;What You&#39;ll Do&lt;/strong&gt;&lt;/p&gt;\n&lt;ul class=&quot;markdown-ul&quot;&gt;\n&lt;li class=&quot;markdown-li&quot;&gt;You will extend ZoomInfo&#39;s B2B data graph into the long tail, making it the most comprehensive and accurate resource available, including companies with little public footprint.&lt;/li&gt;\n&lt;li class=&quot;markdown-li&quot;&gt;You will lead the team&#39;s work on agent memory, distinguishing what a user has supplied from what a system of record already owns.&lt;/li&gt;\n&lt;li class=&quot;markdown-li&quot;&gt;You will choose the right method for each problem — classical machine learning, language models, or code — based on measured evidence, and stop work that won&#39;t pay off.&lt;/li&gt;\n&lt;li class=&quot;markdown-li&quot;&gt;You will define the evaluation bar for the team&#39;s models and agents, building evaluation datasets, regression gates, and experiment designs that make quality claims trustworthy.&lt;/li&gt;\n&lt;li class=&quot;markdown-li&quot;&gt;You will own inference cost, latency, and capacity as core disciplines alongside model quality, including build-versus-buy and distillation decisions.&lt;/li&gt;\n&lt;li class=&quot;markdown-li&quot;&gt;You will hire and develop machine learning engineers, data scientists, and research engineers, growing senior engineers into technical leaders.&lt;/li&gt;\n&lt;li class=&quot;markdown-li&quot;&gt;You will represent the team&#39;s work across product, platform, security, and legal, and present results and their limits clearly to executives.&lt;/li&gt;\n&lt;li class=&quot;markdown-li&quot;&gt;You will set the standard for how the team uses agentic coding tools, pairing precise specifications with rigorous code review.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p class=&quot;markdown-p&quot;&gt;&lt;strong class=&quot;markdown-strong&quot;&gt;What You Bring&lt;/strong&gt;&lt;/p&gt;\n&lt;p class=&quot;markdown-p&quot;&gt;&lt;em class=&quot;markdown-em&quot;&gt;Must-Have:&lt;/em&gt;&lt;/p&gt;\n&lt;ul class=&quot;markdown-ul&quot;&gt;\n&lt;li class=&quot;markdown-li&quot;&gt;You have significant, demonstrated experience building and shipping production machine learning systems, and you lead by building alongside your team — capability matters more than years.&lt;/li&gt;\n&lt;li class=&quot;markdown-li&quot;&gt;You have a track record of hiring and developing senior machine learning engineers and data scientists against a high bar.&lt;/li&gt;\n&lt;li class=&quot;markdown-li&quot;&gt;You stay hands-on today: shipping code, prototyping independently, and using agentic coding tools daily with rigorous review.&lt;/li&gt;\n&lt;li class=&quot;markdown-li&quot;&gt;You bring deep classical machine learning and data science expertise (supervised learning, feature engineering, statistical inference, experiment design, strong SQL) alongside production LLM and agentic systems, with the judgment to choose between them, including setting evaluation standards such as leakage-safe validation and calibration.&lt;/li&gt;\n&lt;li class=&quot;markdown-li&quot;&gt;You have owned inference cost, latency, and capacity alongside model quality, including build-versus-buy decisions, and you communicate results and their limits clearly to executive stakeholders.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p class=&quot;markdown-p&quot;&gt;&lt;em class=&quot;markdown-em&quot;&gt;Preferred:&lt;/em&gt;&lt;/p&gt;\n&lt;ul class=&quot;markdown-ul&quot;&gt;\n&lt;li class=&quot;markdown-li&quot;&gt;You bring entrepreneurial experience — founding a company, or taking a product from inception to paying customers as a founding or early engineer.&lt;/li&gt;\n&lt;li class=&quot;markdown-li&quot;&gt;You have experience in propensity modeling, ranking and retrieval, clustering, or entity resolution at scale.&lt;/li&gt;\n&lt;li class=&quot;markdown-li&quot;&gt;You have worked on web-scale language processing over multilingual, noisy text, knowledge graphs, or user memory for agents.&lt;/li&gt;\n&lt;li class=&quot;markdown-li&quot;&gt;You have experience with post-training and distillation, open-weight model serving, or AI governance and safety practices (ISO/IEC 42001, NIST AI RMF).&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p class=&quot;markdown-p&quot;&gt;#LI-Remote&lt;/p&gt;\n&lt;p class=&quot;markdown-p&quot;&gt;#LI-VC1&lt;/p&gt;\n&lt;/div&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Actual compensation offered will be based on factors such as the candidate’s work location, qualifications, skills, experience and/or training. Your recruiter can share more information about the specific salary range for your desired work location during the hiring process. We want our employees and their families to thrive.&lt;/p&gt;\n&lt;p&gt;In addition to comprehensive benefits we offer holistic mind, body and lifestyle programs designed for overall well-being. Learn more about ZoomInfo benefits &lt;a class=&quot;c-link&quot; href=&quot;https://www.zoominfo.com/careers#benefits&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.zoominfo.com/careers#benefits&quot; data-sk=&quot;tooltip_parent&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;Below is the US base salary for this position. Additional compensation such as Bonus, Commission, Equity and other benefits may also apply.&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$233,100&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$366,300 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;About us:&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;ZoomInfo (NASDAQ: GTM) is the Go-To-Market Intelligence Platform that empowers businesses to grow faster with AI-ready insights, trusted data, and advanced automation. Its solutions provide more than 35,000 companies worldwide with a complete view of their customers, making every seller their best seller.&lt;/p&gt;\n&lt;p&gt;ZoomInfo is committed to protecting your privacy when you apply for jobs with us. Please review our Job Applicant &lt;a href=&quot;https://drive.google.com/file/d/1yiG-k0YX_sW10PiJk_xliDc3W-veJCrK/view?usp=drive_link&quot; target=&quot;_blank&quot;&gt;Privacy Notice&lt;/a&gt; for more details on how we handle your personal information.&lt;/p&gt;\n&lt;p&gt;ZoomInfo may use a software-based assessment as part of the recruitment process. More information about this tool, including the results of the most recent bias audit, is available &lt;a href=&quot;https://www.zoominfo.com/legal/nyc-local-law-144-notice&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;ZoomInfo is proud to be an equal opportunity employer, hiring based on qualifications, merit, and business needs, and does not discriminate based on protected status. We welcome all applicants and are committed to providing equal employment opportunities regardless of sex, race, age, color, national origin, sexual orientation, gender identity, marital status, disability status, religion, protected military or veteran status, medical condition, or any other characteristic protected by applicable law. We also consider qualified candidates with criminal histories in accordance with legal requirements.&lt;/p&gt;\n&lt;p&gt;For Massachusetts Applicants: It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability. ZoomInfo does not administer lie detector tests to applicants in any location.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4074850002,
+      "name": "867 Engineering - Data Science",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 4011964002,
+      "name": "Bethesda",
+      "location": "Bethesda, Maryland, United States",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

@@ -1,0 +1,74 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/zscaler/jobs/5184110007",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 4654904007,
+  "location": {
+    "name": "Bangalore, IND"
+  },
+  "metadata": [
+    {
+      "id": 4203262007,
+      "name": "Employment Type",
+      "value": "Fulltime Employee",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4363861007,
+      "name": "Additional Job Post Location",
+      "value": [],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 4363809007,
+      "name": "Division",
+      "value": "Engineering",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4391305007,
+      "name": "Geo/Region",
+      "value": "India",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 5184110007,
+  "updated_at": "2026-09-21T08:45:40-04:00",
+  "requisition_id": "260708_B94747",
+  "title": "Staff Software Development Engineer (Browser Extension/React)",
+  "company_name": "Zscaler",
+  "first_published": "2026-07-29T06:45:58-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange™️ platform protects thousands of customers from cyberattacks and data loss by securely connecting users, devices, and applications in any location. Distributed across 160+ public exchanges globally and thousands of private exchanges at the edge, the SASE-based Zero Trust Exchange is the world’s largest in-line cloud security platform.&lt;/p&gt;\n&lt;p&gt;We believe the future of work is Human + AI and are building an AI-native enterprise where human potential is amplified by machine intelligence to solve the world’s hardest security challenges. Driven by deep customer obsession, we are committed to the mission, outcome, and to each other. We bring these commitments to life through three core behaviors: ownership and collaboration, trust through outcomes and impact, and a challenge culture with ongoing feedback. Ready to make an impact at the company pioneering security transformation in the AI era? Join us at Zscaler.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&lt;img style=&quot;max-width: 100%;&quot; src=&quot;https://image.synthesia.io/c57d35c1-5686-4e34-bec6-bba734f90ab1/thumbnail.gif&quot;&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We are looking for a Staff Software Development Engineer to join our Frontend Engineering team and help build and evolve Zero Trust Browser, our Browser Detection and Response (BDR) extension that protects users directly inside Chrome, Firefox, and Safari.&lt;/p&gt;\n&lt;p&gt;This is more than standard UI work: you will build in-browser security capabilities detecting threats, enforcing enterprise policy, and analyzing content in real time across the extension&#39;s many feature modules and execution contexts. You&#39;ll turn product requirements and UI/UX designs into reliable, secure, and highly performant TypeScript that runs on millions of users&#39; browsers without getting in their way.&lt;/p&gt;\n&lt;p&gt;This is a hands-on individual-contributor role for someone with strong engineering fundamentals who wants to grow their depth in browser-platform, security, and frontend engineering.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What You&#39;ll Do (Key Responsibilities)&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Build Extension Features: Translate product requirements and UI/UX designs into clean, well-tested, and performant browser-extension features, spanning from user-facing UI to deep in-browser security and detection capabilities&lt;/li&gt;\n&lt;li&gt;Build Performant, Secure Tooling: Implement security-sensitive logic that runs on every page load with minimal overhead. You must care deeply about latency, memory consumption, and ensuring the browsing experience is never degraded&lt;/li&gt;\n&lt;li&gt;Write Quality, Maintainable Code: Produce highly readable, modular code that follows established patterns and conventions, while actively participating in and elevating team code reviews&lt;/li&gt;\n&lt;li&gt;Test &amp;amp; Debug Rigorously: Write comprehensive unit and integration tests for your work, and comfortably debug issues across complex browser contexts (background scripts, content scripts, popups, and extension pages) using browser developer tools&lt;/li&gt;\n&lt;li&gt;Collaborate Cross-Functionally: Partner closely with UI/UX designers, backend engineers, and QA to ship features end-to-end, maintaining clear communication regarding progress and blockers&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Who You Are (Success Profile)&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;You Think at Scale: You connect your day-to-day work to the larger company mission and think globally. You build solutions, processes, and architectures that are not just effective today, but are built to last and support a high-growth organization&lt;/li&gt;\n&lt;li&gt;You are Driven by Innovation: You possess a deep curiosity for how things work and are energized by solving complex technical hurdles. You believe in the power of technology to accelerate transformation and consistently hunt for more secure, scalable methods&lt;/li&gt;\n&lt;li&gt;You are a Problem-Solver: You actively seek out engineering challenges because you are energized by finding solutions, knowing that solving the hardest problems delivers the biggest business and customer impact&lt;/li&gt;\n&lt;li&gt;You are Data-Driven: You lean on data and analytics to uncover engineering truths, measure what matters, and guide informed architectural decisions replacing &quot;I think&quot; with &quot;I know.&quot;&lt;/li&gt;\n&lt;li&gt;You are a Learner: You have a true growth mindset and never stop developing your technical or leadership skills. You actively seek and implement feedback to become an exceptional collaborator and teammate&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;What We&#39;re Looking For (Minimum Qualifications)&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;5+ years of professional software development experience, with meaningful time spent building production frontend applications in TypeScript and/or JavaScript&lt;/li&gt;\n&lt;li&gt;Browser-extension development experience for Chrome, Firefox, and/or Safari. A solid working understanding of extension APIs, manifest versions (MV2 / MV3), permission models, and the separation between content scripts, background/service workers, and extension pages&lt;/li&gt;\n&lt;li&gt;Strong command of core JavaScript (ES6+) and TypeScript types, async/await, closures, modules, and a precise mental model of how the language behaves&lt;/li&gt;\n&lt;li&gt;Experience with at least one modern frontend framework or reactive UI library (e.g., React, Vue, Svelte); ability to pick up new frameworks quickly&lt;/li&gt;\n&lt;li&gt;Proficiency with HTML5 and CSS3, including building responsive, component-based UIs&lt;/li&gt;\n&lt;li&gt;Demonstrated curiosity and active exploration of AI tools, with a proven history of integrating new technologies to enhance daily workflows and augment problem-solving&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;What Will Make You Stand Out (Preferred Qualifications)&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience publishing extensions directly to a major browser store, or building extensions across multiple browser engines (Chromium, Gecko, WebKit) and successfully reconciling their API differences&lt;/li&gt;\n&lt;li&gt;Familiarity with modern frontend build tooling (e.g., esbuild, Vite, Rollup, Webpack) and an active interest in customizing or optimization pipelines&lt;/li&gt;\n&lt;li&gt;A basic understanding of web application security risks (XSS, CSRF, content isolation) and safe coding practices, combined with exposure to Node.js for tooling, scripting, or API integration&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;#LI-SK3&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;#LI-HYBRID&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p data-pm-slice=&quot;1 3 []&quot;&gt;At Zscaler, we are committed to building a team that reflects the communities we serve and the customers we work with. We foster an inclusive environment that values all backgrounds and perspectives, emphasizing collaboration and belonging. Join us in our mission to make doing business seamless and secure.&lt;/p&gt;\n&lt;p&gt;Our Benefits program is one of the most important ways we support our employees. Zscaler proudly offers comprehensive and inclusive benefits to meet the diverse needs of our employees and their families throughout their life stages, including:&lt;/p&gt;\n&lt;div class=&quot;has-nudge&quot; data-nudge-id=&quot;5eb9419b-6a4d-4451-bfa6-e2eb96084be0&quot;&gt;\n&lt;ul&gt;\n&lt;li&gt;Various health plans&lt;/li&gt;\n&lt;li&gt;Time off plans for vacation and sick time&lt;/li&gt;\n&lt;li&gt;Parental leave options&lt;/li&gt;\n&lt;li&gt;Retirement options&lt;/li&gt;\n&lt;li&gt;Education reimbursement&lt;/li&gt;\n&lt;li&gt;In-office perks, and more!&lt;/li&gt;\n&lt;/ul&gt;\n&lt;div class=&quot;has-nudge&quot; data-nudge-id=&quot;5eb9419b-6a4d-4451-bfa6-e2eb96084be0&quot;&gt;\n&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;Learn more about Zscaler&#39;s hybrid working model and benefits&amp;nbsp;&lt;a href=&quot;https://www.zscaler.com/candidate-resource-hub&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;p&gt;By applying for this role, you adhere to applicable laws, regulations, and Zscaler policies, including those related to security and privacy standards and guidelines.&lt;/p&gt;\n&lt;p class=&quot;p1&quot;&gt;Zscaler is committed to providing equal employment opportunities to all individuals. We strive to create a workplace where employees are treated with respect and have the chance to succeed. All qualified applicants will be considered for employment without regard to race, color, religion, sex (including pregnancy or related medical conditions), age, national origin, sexual orientation, gender identity or expression, genetic information, disability status, protected veteran status, or any other characteristic protected by federal, state, or local laws. &lt;em&gt;See more information by clicking on the &lt;/em&gt;&lt;a href=&quot;https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf&quot;&gt;&lt;em&gt;Know Your Rights: Workplace Discrimination is Illegal &lt;/em&gt;&lt;/a&gt;&lt;em&gt;link.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;Pay Transparency&lt;/p&gt;\n&lt;p&gt;Zscaler complies with all applicable federal, state, and local pay transparency rules.&lt;/p&gt;\n&lt;p&gt;Zscaler is committed to providing reasonable support (called accommodations or adjustments) in our recruiting processes for candidates who are differently abled, have long term conditions, mental health conditions or sincerely held religious beliefs, or who are neurodivergent or require pregnancy-related support.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4068228007,
+      "name": "Square X",
+      "child_ids": [
+        4063150007
+      ],
+      "parent_id": 4017790007
+    }
+  ],
+  "offices": [
+    {
+      "id": 4009751007,
+      "name": "Office - Bangalore, India",
+      "location": "Bangalore, IND",
+      "child_ids": [],
+      "parent_id": 4009663007
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

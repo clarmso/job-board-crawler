@@ -1,0 +1,98 @@
+{
+  "absolute_url": "https://www.thoughtworks.com/careers/jobs/8203546?gh_jid=8203546",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 3550493,
+  "location": {
+    "name": "Singapore, Singapore"
+  },
+  "metadata": [
+    {
+      "id": 17181,
+      "name": "Employment Type",
+      "value": "Employee",
+      "value_type": "single_select"
+    },
+    {
+      "id": 25173,
+      "name": "Job Role",
+      "value": "Machine Learning Engineer",
+      "value_type": "single_select"
+    },
+    {
+      "id": 61790,
+      "name": "Job Grade",
+      "value": "Lead",
+      "value_type": "single_select"
+    },
+    {
+      "id": 25172,
+      "name": "Country",
+      "value": "Singapore",
+      "value_type": "single_select"
+    },
+    {
+      "id": 38057280,
+      "name": "Job Category",
+      "value": "Technology",
+      "value_type": "single_select"
+    },
+    {
+      "id": 15975856,
+      "name": "Function",
+      "value": [
+        "Technology"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 25175,
+      "name": "Link to Video",
+      "value": null,
+      "value_type": "url"
+    },
+    {
+      "id": 53682232,
+      "name": "No. of days in office",
+      "value": "Hybrid – 3 days on-site/week",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8203546,
+  "updated_at": "2026-09-24T05:41:52-04:00",
+  "requisition_id": "R14627",
+  "title": "Lead AIOps Architect",
+  "company_name": "Thoughtworks",
+  "first_published": "2026-09-24T05:41:52-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div&gt;\n&lt;div class=&quot;description content&quot;&gt;\n&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Due to the nature of the projects and specific client security clearance, this role requires the successful candidate to be a Singapore Citizen.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;As a Lead AIOps Architect at Thoughtworks, you will be a hands-on technical leader driving engineering excellence and connecting our global AIOps capabilities with our regional client projects across APAC.&lt;/p&gt;\n&lt;p&gt;As a seasoned AIOps practitioner, you will spend the vast majority of your time embedded in client project teams, designing production-grade solutions, writing high-quality code, and building automation pipelines on focused engagements. The rest of your time will focus on targeted technical pre-sales support, mentoring engineering teams, and advancing our internal AIOps practices.&lt;/p&gt;\n&lt;p&gt;This is a high-visibility, technical individual contributor (IC) role. You will lead through technical influence, hands-on engineering, and architectural guidance across global and local teams, bringing global accelerators and reference architectures to local accounts while feeding project-level insights back to the global practice.&lt;/p&gt;\n&lt;/div&gt;\n&lt;h2 id=&quot;job-responsibilities&quot;&gt;Job responsibilities&lt;/h2&gt;\n&lt;div class=&quot;job-responsibilities content&quot;&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Architecture Design:&lt;/strong&gt; Own the technical solution architecture for AIOps engagements, designing pragmatic, production-ready solutions that balance technical constraints, cost-efficiency, performance, and security.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Hands-On Building: &lt;/strong&gt;Deeply engage in building and implementing AIOps solutions, PoCs, and accelerators (across observability, intelligent alerting, AI-assisted triage, RCA, knowledge retrieval, and runbook automation) by writing production-quality code.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Data &amp;amp; Workflow Engineering:&lt;/strong&gt; Design and build data pipelines, tool integrations, and agentic workflows connecting observability, ITSM, and collaboration platforms into cohesive, automated flows.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Engineering Excellence:&lt;/strong&gt; Champion Thoughtworks engineering best practices, including clean code, TDD, CD, IaC, and strong observability within project teams.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;AI Evaluation &amp;amp; Governance:&lt;/strong&gt; Design and operate evaluation/testing pipelines for AI/LLM components, establishing baselines/guardrails for accuracy, latency, cost, and reliability.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Technical Advisory:&lt;/strong&gt; Act as an AIOps advisor to client teams, assessing operational maturity, translating pain points into concrete use cases, and defining measurable outcomes (e.g., MTTR/MTTD reduction).&lt;/li&gt;\n&lt;li&gt;Provide deep technical domain expertise to sales and account teams to qualify opportunities and assess technical feasibility.&lt;/li&gt;\n&lt;li&gt;Support technical scoping, estimations, and high-level solution design for proposals, Statements of Work (SoWs), and discovery workshops.&lt;/li&gt;\n&lt;li&gt;Clearly articulate architectural choices, technical trade-offs, and integration strategies to technical stakeholders and engineering leads.&lt;/li&gt;\n&lt;li&gt;Act as the technical bridge between global DAMO AIOps teams and regional projects, ensuring global accelerators and tools are applied and contextualized locally.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/div&gt;\n&lt;h2 id=&quot;job-qualifications&quot;&gt;Job qualifications&lt;/h2&gt;\n&lt;div class=&quot;job-qualifications content&quot;&gt;\n&lt;h3 id=&quot;technical-skills&quot;&gt;Technical Skills&lt;/h3&gt;\n&lt;div class=&quot;qualifications inner-content&quot;&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Engineering &amp;amp; SRE Foundation:&lt;/strong&gt; Strong software engineering and SRE/DevOps foundation, with hands-on experience building and maintaining large-scale production systems.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Hands-On AIOps Capability:&lt;/strong&gt; Deep experience architecting and implementing AIOps solutions, with proficiency in writing clean, production-quality code (such as Python) for integrations and automation.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;GenAI Implementation Experience:&lt;/strong&gt; Practical experience applying generative AI patterns (such as RAG, agentic workflows, LLMOps) in operations scenarios, with a clear understanding of when AI is and is not appropriate.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Modern Tooling Ecosystem: &lt;/strong&gt;Familiarity with leading observability and ITSM platforms (e.g., Datadog, Splunk, ServiceNow, or equivalent) and major cloud platforms (AWS, Azure, or GCP).&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Modern Engineering Practices:&lt;/strong&gt; Proficiency with modern engineering tools including CI/CD, infrastructure as code (IaC), and automated testing.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Technical Communication &amp;amp; Mentorship:&lt;/strong&gt; Strong ability to communicate complex technical concepts clearly and influence architectural decisions across distributed engineering teams.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/div&gt;\n&lt;h3 id=&quot;professional-skills&quot;&gt;Professional Skills&lt;/h3&gt;\n&lt;div class=&quot;skills inner-content&quot;&gt;\n&lt;ul&gt;\n&lt;li&gt;Ability to articulate complex technical concepts to non-technical audiences and influence senior decision-makers.&lt;/li&gt;\n&lt;li&gt;Proven ability to inspire, mentor and develop high-performing engineering teams, fostering a collaborative and inclusive environment.&lt;/li&gt;\n&lt;li&gt;Demonstrates the ability to anticipate technological trends and proactively shape the technical direction of the team.&lt;/li&gt;\n&lt;li&gt;Skilled in navigating complex internal and external dynamics, driving consensus and achieving technical and business goals.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;h2 id=&quot;important-things&quot;&gt;Other things to know&lt;/h2&gt;\n&lt;div class=&quot;important-things content&quot;&gt;\n&lt;h3&gt;Learning &amp;amp; Development&lt;/h3&gt;\n&lt;div class=&quot;inner-content&quot;&gt;\n&lt;p&gt;There is no one-size-fits-all career path at Thoughtworks: however you want to develop your career is entirely up to you. But we also balance autonomy with the strength of our cultivation culture. This means your career is supported by interactive tools, numerous development programs and teammates who want to help you grow. We see value in helping each other be our best and that extends to empowering our employees in their career journeys.&lt;/p&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;h2 id=&quot;responsible-ai-use&quot;&gt;Responsible Use of AI in Recruitment&lt;/h2&gt;\n&lt;div class=&quot;responsible-ai-use content&quot;&gt;\n&lt;p&gt;At Thoughtworks, we use AI tools to support our recruitment team with administrative tasks such as drafting communications, scheduling interviews and writing job descriptions.&lt;br&gt;&lt;br&gt;Crucially, our AI tools do not screen, assess, rank or make hiring decisions. Every application is reviewed by our team and all selection decisions are made exclusively by our interviewers and hiring managers.&lt;br&gt;&lt;br&gt;We are committed to fairness and responsible AI. We actively manage our AI systems by testing, monitoring for biased outcomes and implementing mitigation measures. We hold our third-party vendors to these same high standards through a rigorous governance process. For additional information, please see our full &lt;a href=&quot;https://www.thoughtworks.com/careers/ai-policy-for-recruitment&quot; target=&quot;_blank&quot;&gt;Thoughtworks AI Policy for Recruitment&lt;/a&gt;.&lt;/p&gt;\n&lt;/div&gt;\n&lt;h2 id=&quot;about&quot;&gt;About Thoughtworks&lt;/h2&gt;\n&lt;div class=&quot;about content&quot;&gt;\n&lt;p&gt;Thoughtworks is a dynamic and inclusive community of bright and supportive colleagues who are revolutionizing tech. As a leading technology consultancy, we’re pushing boundaries through our purposeful and impactful work. For 30+ years, we’ve delivered extraordinary impact together with our clients by helping them solve complex business problems with technology as the differentiator. Bring your brilliant expertise and commitment for continuous learning to Thoughtworks. Together, let’s be extraordinary.&lt;/p&gt;\n&lt;/div&gt;\n&lt;p style=&quot;display: none;&quot;&gt;#LI-Onsite&lt;/p&gt;\n&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p style=&quot;text-align: center;&quot;&gt;&lt;a href=&quot;https://www.thoughtworks.com/careers/ai-policy-for-recruitment&quot;&gt;See here our AI policy.&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 314889,
+      "name": "1Z_TWSGP SL DAMO",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 11314,
+      "name": "Singapore",
+      "location": "Singapore",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

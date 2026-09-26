@@ -1,0 +1,155 @@
+{
+  "absolute_url": "http://block.xyz/careers/jobs/4901418008?gh_jid=4901418008",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "education": "education_optional",
+  "internal_job_id": 4331240008,
+  "location": {
+    "name": "Bay Area, CA, United States of America"
+  },
+  "metadata": [
+    {
+      "id": 4185033008,
+      "name": "Career Site Function",
+      "value": "Software Engineering",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4185041008,
+      "name": "Brands",
+      "value": "Block",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4185056008,
+      "name": "Position open to remote",
+      "value": true,
+      "value_type": "yes_no"
+    },
+    {
+      "id": 4004901008,
+      "name": "Employee Type",
+      "value": "Regular",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4185035008,
+      "name": "Job Family Group",
+      "value": "Software Engineering - JFG",
+      "value_type": "single_select"
+    },
+    {
+      "id": 5039617008,
+      "name": "Business Unit",
+      "value": "Centralized Block",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4289626008,
+      "name": "Zone A Salary Range",
+      "value": {
+        "unit": "USD",
+        "max_value": "326800.0",
+        "min_value": "217800.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 4289627008,
+      "name": "Zone B Salary Range",
+      "value": {
+        "unit": "USD",
+        "max_value": "310400.0",
+        "min_value": "207000.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 4289628008,
+      "name": "Zone C Salary Range",
+      "value": {
+        "unit": "USD",
+        "max_value": "294100.0",
+        "min_value": "196100.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 4364919008,
+      "name": "Zone D Salary Range",
+      "value": {
+        "unit": "USD",
+        "max_value": "277800.0",
+        "min_value": "185200.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 4599884008,
+      "name": "Canada Zone A Pay Range",
+      "value": {
+        "unit": "CAD",
+        "max_value": "276400.0",
+        "min_value": "184200.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 4599885008,
+      "name": "Canada Zone B Pay Range",
+      "value": {
+        "unit": "CAD",
+        "max_value": "276400.0",
+        "min_value": "184200.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 14729580008,
+      "name": "EU Min to Max",
+      "value": {
+        "unit": "EUR",
+        "max_value": "141500.0",
+        "min_value": "94300.0"
+      },
+      "value_type": "currency_range"
+    }
+  ],
+  "id": 4901418008,
+  "updated_at": "2026-09-24T15:10:34-04:00",
+  "requisition_id": "R0003641",
+  "title": "Software Engineer, Finance Applications",
+  "company_name": "Block",
+  "first_published": "2026-02-17T11:31:17-05:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;Block is one company built from many blocks, all united by the same purpose of economic empowerment. The blocks that form our foundational teams — People, Finance, Counsel, Hardware, Information Security, Platform Infrastructure Engineering, and more — provide support and guidance at the corporate level. They work across business groups and around the globe, spanning time zones and disciplines to develop inclusive People policies, forecast finances, give legal counsel, safeguard systems, nurture new initiatives, and more. Every challenge creates possibilities, and we need different perspectives to see them all. Bring yours to Block.&lt;/p&gt;\n&lt;h4&gt;&lt;strong&gt;The Role&lt;/strong&gt;&lt;/h4&gt;\n&lt;p&gt;The Financial Platform Eng team is part of Block’s platform engineering org, with a mandate to run the foundational financial technology infrastructure supporting all our brands. Our charter includes building scalable, reliable, and forward-looking financial infrastructure, from revenue streams to reconciliations to GL to street reporting. This team powers key business functions spanning the CFO org and aids at strategic decision-making.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;As a Software Engineer, you&#39;ll design and build the backend services, integrations, and workflow engines that keep the foundational financial operations running. Often you will focus on transforming complex financial requirements into scalable&amp;nbsp; technology solutions — with a specific emphasis on AI enablement. We are an AI-driven engineering team — we use agentic coding tools across our entire development lifecycle, from design exploration through implementation and review, and we expect every engineer to do the same.&lt;/p&gt;\n&lt;p&gt;Success in this role depends on strong collaboration with cross-functional partners including Accounting, FP&amp;amp;A, Tax, Procurement, Product, TPMs, Engineering, and Data teams. The ability to operate across these verticals while maintaining a horizontal architectural perspective is key to our impact.&lt;/p&gt;\n&lt;h4&gt;&lt;strong&gt;You Will&lt;/strong&gt;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Build financial operations and reporting&amp;nbsp; infrastructure — Design and implement backend services for Accounting, FP&amp;amp;A, Tax, Procurement while keeping the company compliant.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Lead a platform migration — Architect the migration of business-critical workflows from legacy vendor platforms to Block&#39;s internal systems, ensuring zero disruption to agents and customers during cutover&lt;/li&gt;\n&lt;li&gt;Design workflow and automation systems — Build configurable workflow engines, rules-based routing, and event-driven automations that reduce manual effort and scale across multiple business lines&lt;/li&gt;\n&lt;li&gt;Own integrations end-to-end — Design, build, and maintain integrations between internal platforms and external systems ( middleware, workforce management, Oracle fusion, Salesforce etc) using APIs, event streams, and messaging patterns&lt;/li&gt;\n&lt;li&gt;Partner across the business — Work directly with operations, compliance, and product stakeholders to translate complex financial and regulatory requirements into well-architected technical solutions&lt;/li&gt;\n&lt;li&gt;Ensure compliance and data integrity — Build systems with audit trails, access controls, and data governance baked in — not bolted on — to meet regulatory requirements across multiple jurisdictions&lt;/li&gt;\n&lt;li&gt;Lead technical discussions — Drive architecture decisions, contribute to design reviews, and mentor engineers; raise the bar on code quality, testing, and operational reliability&lt;/li&gt;\n&lt;li&gt;Direct AI agents across the full development lifecycle — from prototyping and implementation to debugging and code review — operating as the architect and decision-maker while AI handles the building&lt;/li&gt;\n&lt;li&gt;Expand what&#39;s possible with AI tooling — identify opportunities to automate repetitive engineering work, improve code quality through AI-driven review, and share effective patterns with your team&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;&lt;strong&gt;You Have&lt;/strong&gt;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Embrace an AI-first mentality. Leverage AI to augment your knowledge and capability in navigating development in complex systems with confidence.&lt;/li&gt;\n&lt;li&gt;Familiar with agentic engineering.&lt;/li&gt;\n&lt;li&gt;6+ working on complex systems and delivering quality software, with clear expertise developed in one or more technical areas.&lt;/li&gt;\n&lt;li&gt;Strong fundamentals in distributed systems design — you&#39;ve built services that handle high throughput, manage state across systems, and degrade gracefully&lt;/li&gt;\n&lt;li&gt;Experience with workflow or state machine systems — you&#39;ve designed systems where entities move through complex lifecycles with branching logic, SLAs, and human-in-the-loop steps&lt;/li&gt;\n&lt;li&gt;Proficiency in building and maintaining APIs and integrations — REST, gRPC, event-driven architectures, and data synchronization across multiple platforms&lt;/li&gt;\n&lt;li&gt;Experience working on financially sensitive or regulated systems — you understand why idempotency, audit trails, data retention, and access controls matter and you build for them by default&lt;/li&gt;\n&lt;li&gt;Strong collaboration skills and the ability to work effectively with non-technical stakeholders — translating ambiguous business requirements from operations, compliance, and risk teams into well-scoped engineering work&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;&lt;strong&gt;Nice to Have&lt;/strong&gt;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience with platform migrations — moving business-critical systems between platforms with zero customer impact and phased rollout strategies&lt;/li&gt;\n&lt;li&gt;Background in financial services domains — accounting, revenue forecasting, treasury operations, tax operations.&lt;/li&gt;\n&lt;li&gt;Experience building multi-tenant or multi-BU platforms — systems that serve different business lines with shared infrastructure but configurable behavior&lt;/li&gt;\n&lt;li&gt;Experience with operational analytics — building data pipelines or reporting systems that give operations leaders real-time visibility into performance&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Technologies We Use and Teach&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;AI-Driven Development: Claude Code, Goose (Block&#39;s open-source AI agent), Cursor, GitHub Copilot, Anthropic&#39;s Model Context Protocol (MCP)&lt;/li&gt;\n&lt;li&gt;Languages: Kotlin, Java, Python, JavaScript&lt;/li&gt;\n&lt;li&gt;Protocols: HTTP, JSON, gRPC, Protocol Buffers&lt;/li&gt;\n&lt;li&gt;Data: DynamoDB, MySQL, Kafka, Snowflake&lt;/li&gt;\n&lt;li&gt;Infrastructure: AWS, Kubernetes&lt;/li&gt;\n&lt;li&gt;Observability: DataDog, Prometheus&lt;/li&gt;\n&lt;li&gt;Feature Management: LaunchDarkly&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;We’re working to build a more inclusive economy where our customers have equal access to opportunity, and we strive to live by these same values in building our workplace. Block is an equal opportunity employer evaluating all employees and job applicants without regard to identity or any legally protected class. We will consider qualified applicants with arrest or conviction records for employment in accordance with state and local laws and “fair chance” ordinances.&lt;br&gt;&lt;br&gt;We believe in being fair, and are committed to an inclusive interview experience, including providing reasonable accommodations to disabled applicants throughout the recruitment process. We encourage applicants to share any needed accommodations with their recruiter, who will treat these requests as confidentially as possible. &lt;strong&gt;Want to learn more about what we’re doing to build a workplace that is fair and square? Check out our&lt;/strong&gt; &lt;a href=&quot;https://block.xyz/news/inclusion&quot;&gt;I+D page&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;While there is no specific deadline to apply for this role, U.S. roles are typically open for an average of 55 days before being filled by a successful candidate. Please refer to the date listed at the top of this job page for when this role was first posted.&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Block takes a market-based approach to pay, and pay may vary depending on your location. U.S. locations are categorized into one of four zones based on a cost of labor index for that geographic area. The successful candidate’s starting pay will be determined based on job-related skills, experience, qualifications, work location, and market conditions. These ranges may be modified in the future.&lt;/p&gt;\n&lt;p&gt;To find a location’s zone designation, please refer to this&amp;nbsp;&lt;a href=&quot;https://block.xyz/documents/salaryzones.pdf&quot; target=&quot;_blank&quot;&gt;resource&lt;/a&gt;. If a location of interest is not listed, please speak with a recruiter for additional information.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;Zone A:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$217,800&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$326,800 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;title&quot;&gt;Zone B: &lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$207,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$310,400 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;title&quot;&gt;Zone C:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$196,100&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$294,100 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;title&quot;&gt;Zone D:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$185,200&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$277,800 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;Application Guidelines&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Candidates may submit up to 9 active applications within a 60-day period. Reapplications to the same role are accepted 90 days after a previous application has been reviewed.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Use of AI in Our Hiring Process&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We may use automated AI tools to evaluate job applications for efficiency and consistency. These tools comply with local regulations, including bias audits, and we handle all personal data in accordance with state and local privacy laws.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Contact us &lt;a href=&quot;https://privacy.block.xyz/privacyportal/form&quot;&gt;here&lt;/a&gt;&amp;nbsp;with hiring practice or data usage questions.&lt;/p&gt;\n&lt;p&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;Every benefit we offer is designed with one goal: empowering you to do the best work of your career while building the life you want. Remote work, medical insurance, flexible time off, retirement savings plans, and modern family planning are just some of our offering.&amp;nbsp;&lt;/em&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;&lt;a class=&quot;c-link c-link--underline&quot; href=&quot;https://block.xyz/employee-benefits&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://block.xyz/documents/benefits.pdf&quot; data-sk=&quot;tooltip_parent&quot;&gt;Check out our other benefits at Block.&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Block, Inc. (NYSE: XYZ) builds technology to increase access to the global economy. Each of our brands unlocks different aspects of the economy for more people.&amp;nbsp;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Square&lt;/strong&gt;&amp;nbsp;makes commerce and financial services accessible to sellers.&amp;nbsp;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Cash App&lt;/strong&gt;&amp;nbsp;is the easy way to spend, send, and store money.&amp;nbsp;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Afterpay&lt;/strong&gt;&amp;nbsp;is transforming the way customers manage their spending over time.&amp;nbsp;&lt;strong data-stringify-type=&quot;bold&quot;&gt;TIDAL&lt;/strong&gt;&amp;nbsp;is a music platform that empowers artists to thrive as entrepreneurs.&amp;nbsp;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Bitkey&lt;/strong&gt;&amp;nbsp;is a simple self-custody wallet built for bitcoin.&amp;nbsp;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Proto&lt;/strong&gt;&amp;nbsp;is a suite of bitcoin mining products and services. Together, we’re helping build a financial system that is open to everyone.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;a href=&quot;https://block.xyz/en/legal/applicant-privacy-notice&quot; target=&quot;_blank&quot;&gt;Privacy Policy&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4069411008,
+      "name": "10416 Engineering - Business Platform",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 4007801008,
+      "name": "US - WA - Seattle Metro - Remote",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 4004627008
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

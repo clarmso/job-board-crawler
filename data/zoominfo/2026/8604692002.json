@@ -1,0 +1,72 @@
+{
+  "absolute_url": "https://www.zoominfo.com/careers?gh_jid=8604692002",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 6436832002,
+  "location": {
+    "name": "Waltham, Massachusetts, United States"
+  },
+  "metadata": [
+    {
+      "id": 24710929002,
+      "name": "Job Family Group",
+      "value": "Engineering",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24711071002,
+      "name": "Time Type",
+      "value": "Full time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 101751589002,
+      "name": "Work Shift",
+      "value": "General Shift",
+      "value_type": "short_text"
+    },
+    {
+      "id": 4203585002,
+      "name": "LEGACY - Employment Type",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8604692002,
+  "updated_at": "2026-09-15T21:02:25-04:00",
+  "requisition_id": "JR107770",
+  "title": "Software Engineer III - Data Acquisition",
+  "company_name": "ZoomInfo Technologies LLC",
+  "first_published": "2026-07-23T15:20:04-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen–fast.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;We&#39;re looking for a Software Engineer III to join the Data Acquisition team - one of ZoomInfo&#39;s most strategically important&lt;br&gt;engineering areas.&amp;nbsp;In this role, you will help build the systems that acquire, transform, validate, and store large raw data sets from a wide range of&lt;br&gt;sources. You will work on backend services, batch and streaming pipelines, workflow orchestration, and the next generation of&amp;nbsp;large-scale data acquisition technologies.&amp;nbsp;This position is focused on backend and data engineering. It requires strong hands-on experience with data pipelines, distributed&lt;br&gt;processing, Java, cloud infrastructure, and production-quality engineering practices.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What You&#39;ll do:&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Design and build backend data pipelines that ingest, validate, normalize, enrich, and store high-volume raw data from multiple&lt;br&gt;sources.&lt;/li&gt;\n&lt;li&gt;Develop ETL/ELT workflows and processing jobs using technologies such as Apache Airflow, Apache Beam, Google Dataflow,&lt;br&gt;DataProc, Spark, Kafka, or Pub/Sub.&lt;/li&gt;\n&lt;li&gt;Implement new features in Java-based services and data processing applications that support data acquisition at scale.&lt;/li&gt;\n&lt;li&gt;Work with batch and streaming architectures for scheduled, near-real-time, and event-driven data flows.&lt;/li&gt;\n&lt;li&gt;Improve data quality through schema validation, deduplication, enrichment, monitoring, retries, and controlled backfills.&lt;/li&gt;\n&lt;li&gt;Contribute to observability for pipeline health, throughput, latency, cost, and error rates.&lt;/li&gt;\n&lt;li&gt;Collaborate with product managers, data teams, and platform teams to translate business requirements into reliable technical&lt;br&gt;solutions.&lt;/li&gt;\n&lt;li&gt;Help design, plan, and execute the roadmap for next-generation data acquisition technologies. &amp;nbsp;&amp;nbsp;&lt;/li&gt;\n&lt;li class=&quot;p1&quot;&gt;Must-Have Qualifications&lt;/li&gt;\n&lt;li class=&quot;p2&quot;&gt;Data Engineering and Pipelines&lt;/li&gt;\n&lt;li class=&quot;p3&quot;&gt;3+ years of professional software engineering experience.&lt;/li&gt;\n&lt;li class=&quot;p3&quot;&gt;Solid experience building and operating production data pipelines, ETL/ELT workflows, or data processing systems.&lt;/li&gt;\n&lt;li class=&quot;p3&quot;&gt;Strong proficiency with Java and object-oriented programming.&lt;/li&gt;\n&lt;li class=&quot;p3&quot;&gt;Hands-on experience with data processing and orchestration technologies such as Apache Beam, Apache Airflow, Spark, Google&lt;/li&gt;\n&lt;li class=&quot;p3&quot;&gt;Dataflow, or DataProc.&lt;/li&gt;\n&lt;li class=&quot;p3&quot;&gt;Experience with streaming technologies such as Kafka, Google Pub/Sub, or similar systems.&lt;/li&gt;\n&lt;li class=&quot;p3&quot;&gt;Understanding of batch processing, streaming processing, data modeling, schema design, and data quality practices.&lt;/li&gt;\n&lt;li class=&quot;p2&quot;&gt;Backend, Cloud, and Operations&lt;/li&gt;\n&lt;li class=&quot;p3&quot;&gt;Experience building backend services, APIs, or distributed systems that run in production.&lt;/li&gt;\n&lt;li class=&quot;p3&quot;&gt;Experience with at least one cloud provider, preferably GCP.&lt;/li&gt;\n&lt;li class=&quot;p3&quot;&gt;Familiarity with cloud data and compute services such as BigQuery, GCS, GKE, Dataflow, DataProc, and Pub/Sub.&lt;/li&gt;\n&lt;li class=&quot;p3&quot;&gt;Practical knowledge of SQL, large-scale storage/query systems, logging, monitoring, and alerting.&lt;/li&gt;\n&lt;li class=&quot;p3&quot;&gt;Ability to troubleshoot pipeline failures, data issues, performance bottlenecks, and operational incidents.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;General&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li class=&quot;p3&quot;&gt;Bachelor&#39;s degree in Computer Science, Software Engineering, or a related field.&lt;/li&gt;\n&lt;li class=&quot;p3&quot;&gt;Strong problem-solving skills and attention to detail.&lt;/li&gt;\n&lt;li class=&quot;p3&quot;&gt;Pragmatic engineering judgment with the ability to balance quality, speed, and business impact.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Nice to Have&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li class=&quot;p3&quot;&gt;Experience with Kubernetes, especially GKE or EKS, for distributed workloads.&lt;/li&gt;\n&lt;li class=&quot;p3&quot;&gt;Experience with Snowflake, BigQuery, Starburst/Trino, or similar data warehouses and query engines.&lt;/li&gt;\n&lt;li class=&quot;p3&quot;&gt;Experience with Terraform or other infrastructure-as-code tools.&lt;/li&gt;\n&lt;li class=&quot;p3&quot;&gt;Exposure to data integration patterns involving CRM systems, email/calendar APIs, third-party feeds, or large external datasets.&lt;/li&gt;\n&lt;li class=&quot;p3&quot;&gt;Experience in a B2B data company, data marketplace, or data-as-a-product environment.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p class=&quot;p1&quot;&gt;&lt;strong&gt;Why This Role Matters&lt;/strong&gt;&lt;/p&gt;\n&lt;p class=&quot;p4&quot;&gt;Data Acquisition is one of ZoomInfo&#39;s biggest assets. The systems you build will directly affect how quickly and accurately&amp;nbsp;ZoomInfo can acquire, process, and deliver high-quality business data.You will be joining a team that works on large-scale data infrastructure, high-impact product capabilities, and engineering&amp;nbsp;problems where reliability, scale, and data&lt;span class=&quot;Apple-converted-space&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;#LI-AR2&lt;/p&gt;\n&lt;p&gt;#LI-Hybrid&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Actual compensation offered will be based on factors such as the candidate’s work location, qualifications, skills, experience and/or training. Your recruiter can share more information about the specific salary range for your desired work location during the hiring process. We want our employees and their families to thrive.&lt;/p&gt;\n&lt;p&gt;In addition to comprehensive benefits we offer holistic mind, body and lifestyle programs designed for overall well-being. Learn more about ZoomInfo benefits &lt;a class=&quot;c-link&quot; href=&quot;https://www.zoominfo.com/careers#benefits&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.zoominfo.com/careers#benefits&quot; data-sk=&quot;tooltip_parent&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;Below is the US base salary for this position. Additional compensation such as Bonus, Commission, Equity and other benefits may also apply.&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$112,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$176,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;About us:&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;ZoomInfo (NASDAQ: GTM) is the Go-To-Market Intelligence Platform that empowers businesses to grow faster with AI-ready insights, trusted data, and advanced automation. Its solutions provide more than 35,000 companies worldwide with a complete view of their customers, making every seller their best seller.&lt;/p&gt;\n&lt;p&gt;ZoomInfo is committed to protecting your privacy when you apply for jobs with us. Please review our Job Applicant &lt;a href=&quot;https://drive.google.com/file/d/1yiG-k0YX_sW10PiJk_xliDc3W-veJCrK/view?usp=drive_link&quot; target=&quot;_blank&quot;&gt;Privacy Notice&lt;/a&gt; for more details on how we handle your personal information.&lt;/p&gt;\n&lt;p&gt;ZoomInfo may use a software-based assessment as part of the recruitment process. More information about this tool, including the results of the most recent bias audit, is available &lt;a href=&quot;https://www.zoominfo.com/legal/nyc-local-law-144-notice&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;ZoomInfo is proud to be an equal opportunity employer, hiring based on qualifications, merit, and business needs, and does not discriminate based on protected status. We welcome all applicants and are committed to providing equal employment opportunities regardless of sex, race, age, color, national origin, sexual orientation, gender identity, marital status, disability status, religion, protected military or veteran status, medical condition, or any other characteristic protected by applicable law. We also consider qualified candidates with criminal histories in accordance with legal requirements.&lt;/p&gt;\n&lt;p&gt;For Massachusetts Applicants: It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability. ZoomInfo does not administer lie detector tests to applicants in any location.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4074788002,
+      "name": "936 Engineering - Data Engineering",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 4016432002,
+      "name": "Waltham",
+      "location": "Waltham, Massachusetts, United States",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

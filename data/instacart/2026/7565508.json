@@ -1,0 +1,66 @@
+{
+  "absolute_url": "https://instacart.careers/job/?gh_jid=7565508",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 3345480,
+  "location": {
+    "name": "US - Remote"
+  },
+  "metadata": [
+    {
+      "id": 16452,
+      "name": "Employment Type",
+      "value": "Regular",
+      "value_type": "single_select"
+    },
+    {
+      "id": 740030,
+      "name": "Exemption Status",
+      "value": "Exempt",
+      "value_type": "single_select"
+    },
+    {
+      "id": 235666,
+      "name": "Time Type",
+      "value": "Full time",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 7565508,
+  "updated_at": "2026-08-24T13:15:00-04:00",
+  "requisition_id": "EG949",
+  "title": "Senior Machine Learning Engineer II, Search & Recommendations Ranking",
+  "company_name": "Instacart",
+  "first_published": "2026-01-26T16:45:33-05:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;We&#39;re transforming the grocery industry&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span class=&quot;im&quot;&gt;At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;Instacart has become a lifeline for millions of people, and we’re building the team to help push our shopping cart forward. If you’re ready to do the best work of your life, come join our table.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Instacart is a Flex First team &lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;There’s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work—whether it’s from home, an office, or your favorite coffee shop—while staying connected and building community through regular in-person events. &lt;a href=&quot;https://www.instacart.careers/flex-first&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://instacart.careers/remote/&amp;amp;source=gmail&amp;amp;ust=1651869232122000&amp;amp;usg=AOvVaw37OlxP8hAKN7nq4YwHQH7e&quot;&gt;Learn more about our flexible approach to where we work.&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;Overview&lt;/p&gt;\n&lt;p&gt;The Search &amp;amp; Personalization ML team is Instacart’s engine for state-of-the-art multi-task, multi-objective ranking—unifying search, discovery, recommendation, ads, and merchandising into a single value-aware platform. Partnering with world-class engineers, scientists, and PMs, we build the ranking backbone that powers every pixel of the shopping journey, optimizing not just for clicks, but for incremental GTV, basket lift, and retention over the long run.&lt;/p&gt;\n&lt;p&gt;What We’re Building&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Foundational Ranking Backbone Models: Multi-task/multi-objective models (shared encoders + task heads) that jointly learn relevance, conversion, margin contribution, churn risk, and ad quality, enabling consistent decisions across search and recommendations.&lt;/li&gt;\n&lt;li&gt;Value-Aware Optimization: Uplift and long-horizon value models that steer decisions toward incrementality and LTV, with calibrated constraints on quality, diversity, fairness, and spend pacing—plus guardrails for safe exploration.&lt;/li&gt;\n&lt;li&gt;LLM-Enhanced Retrieval &amp;amp; Features: Using LLMs to enrich query and item semantics for long-tail recall, generate features for cold-starts, and feed the ranker with reasoning-rich context, while remaining the source of truth for final ordering.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Our commitment to AI innovation is reflected in our recent publications and research contributions to the field.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;About the Job&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Architect the ranking backbone that unifies query understanding, personalization, multi-objective ranking, ads, and merchandising into a single adaptive platform.&lt;/li&gt;\n&lt;li&gt;Design and build a search autosuggest system optimized for personalization and value-based relevance.&lt;/li&gt;\n&lt;li&gt;Design long-horizon objective functions (e.g., incrementality, LTV, habit formation) and build uplift/causal value models that move beyond short-term engagement.&lt;/li&gt;\n&lt;li&gt;Develop production-grade Multi-Task Learning (e.g., shared encoders, MMOE/PLE task heads) to jointly learn relevance, propensity, margin, and churn risk—ensuring calibration, constraints, and explainability.&lt;/li&gt;\n&lt;li&gt;Own the inference layer: goal-aware re-rankers, diversity and quality constraints, safe exploration, and millisecond-class latency optimization.&lt;/li&gt;\n&lt;li&gt;Advance evaluation practices: online experiments, long-horizon cohort metrics, counterfactual evaluations, and attribution pipelines for tracking incremental GTV and retention.&lt;/li&gt;\n&lt;li&gt;Partner across ads, infrastructure, product, and design teams to translate business goals into ranking policies and measurable ROI.&lt;/li&gt;\n&lt;li&gt;Mentor ML engineers to build expertise in ranking, causal inference, and scalable serving systems.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;About You&lt;br&gt;Minimum Qualifications&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;5+ years applying ML at scale (3+ years in technical leadership), with a proven track record improving ranking or recommendation systems in production.&lt;/li&gt;\n&lt;li&gt;Demonstrated success in applying multi-objective or constrained optimization to balance relevance, revenue, margin, and user experience; experience with online testing and attribution beyond CTR.&lt;/li&gt;\n&lt;li&gt;Strong coding (Python) and data fluency (SQL/Pandas), with expertise in classic ML techniques (e.g., XGBoost) and deep learning frameworks (TensorFlow/PyTorch).&lt;/li&gt;\n&lt;li&gt;Excellent analytical skills and strong cross-functional communication abilities.\\&lt;/li&gt;\n&lt;li&gt;Graduate degree (Masters or PhD) in machine learning, statistics, computer science, information retrieval, or a closely related field.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Preferred Qualifications&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Expertise in multi-task learning architectures (e.g., MMOE/PLE, shared encoders), calibration, counterfactual evaluation, uplift/causal modeling, and/or contextual bandits for exploration.&lt;/li&gt;\n&lt;li&gt;Experience building low-latency ranking services, including feature stores, caching, vector + lexical retrieval, re-ranking, and A/B testing infrastructure, with expertise in constraint-aware inference.&lt;/li&gt;\n&lt;li&gt;Hands-on experience with LLMs as feature/recall enhancers (e.g., embeddings, adapter tuning) while maintaining clarity on when the ranker should arbitrate.&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Instacart provides highly market-competitive compensation and benefits in each location where our employees work. This role is remote and the base pay range for a successful candidate is dependent on their permanent work location. Please review our Flex First remote work policy &lt;/span&gt;&lt;a href=&quot;https://instacart.careers/flex-first/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Offers may vary based on many factors, such as candidate experience and skills required for the role. &lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Additionally, this role is eligible for a new hire equity grant as well as annual refresh grants. Please rea&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;d more about our benefits offerings &lt;/span&gt;&lt;a href=&quot;https://instacart.careers/taste-of-instacart/&quot; target=&quot;_blank&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;here&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;. &lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;For US based candidates, the base pay ranges for a successful candidate are listed below.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;CA, NY, CT, NJ&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$207,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$253,500 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;title&quot;&gt;WA&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$198,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$243,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;title&quot;&gt;OR, DE, ME, MA, MD, NH, RI, VT, DC, PA, VA, CO, TX, IL, HI&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$190,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$233,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;title&quot;&gt;All other states&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$173,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$212,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 51837,
+      "name": "Machine Learning",
+      "child_ids": [],
+      "parent_id": 4132
+    }
+  ],
+  "offices": [
+    {
+      "id": 2468,
+      "name": "San Francisco",
+      "location": "San Francisco, CA, United States",
+      "child_ids": [],
+      "parent_id": 88197
+    }
+  ],
+  "ai_disclaimer": "<p>Instacart (Maplebear Inc. d/b/a Instacart) uses Greenhouse's Real Talent technology as part of our hiring process. Select \"Learn more\" for information on how these tools work, what data is involved, and your rights.&nbsp;</p>",
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": "http://app.greenhouse.io/ai_opt_out_request/job_post/7565508/ai_opt_out"
+}

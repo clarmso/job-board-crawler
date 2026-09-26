@@ -1,0 +1,151 @@
+{
+  "absolute_url": "http://block.xyz/careers/jobs/5423630008?gh_jid=5423630008",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "education": "education_optional",
+  "internal_job_id": 4547889008,
+  "location": {
+    "name": "Bay Area, CA, United States of America"
+  },
+  "metadata": [
+    {
+      "id": 4185033008,
+      "name": "Career Site Function",
+      "value": "Software Engineering",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4185041008,
+      "name": "Brands",
+      "value": "Cash App",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4185056008,
+      "name": "Position open to remote",
+      "value": true,
+      "value_type": "yes_no"
+    },
+    {
+      "id": 4004901008,
+      "name": "Employee Type",
+      "value": "Regular",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4185035008,
+      "name": "Job Family Group",
+      "value": "Software Engineering - JFG",
+      "value_type": "single_select"
+    },
+    {
+      "id": 5039617008,
+      "name": "Business Unit",
+      "value": "Cash",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4289626008,
+      "name": "Zone A Salary Range",
+      "value": {
+        "unit": "USD",
+        "max_value": "395400.0",
+        "min_value": "263600.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 4289627008,
+      "name": "Zone B Salary Range",
+      "value": {
+        "unit": "USD",
+        "max_value": "395400.0",
+        "min_value": "263600.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 4289628008,
+      "name": "Zone C Salary Range",
+      "value": {
+        "unit": "USD",
+        "max_value": "395400.0",
+        "min_value": "263600.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 4364919008,
+      "name": "Zone D Salary Range",
+      "value": {
+        "unit": "USD",
+        "max_value": "395400.0",
+        "min_value": "263600.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 4599884008,
+      "name": "Canada Zone A Pay Range",
+      "value": {
+        "unit": "CAD",
+        "max_value": "334300.0",
+        "min_value": "222900.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 4599885008,
+      "name": "Canada Zone B Pay Range",
+      "value": {
+        "unit": "CAD",
+        "max_value": "334300.0",
+        "min_value": "222900.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 14729580008,
+      "name": "EU Min to Max",
+      "value": null,
+      "value_type": "currency_range"
+    }
+  ],
+  "id": 5423630008,
+  "updated_at": "2026-09-24T15:13:08-04:00",
+  "requisition_id": "R0007007",
+  "title": "Staff iOS Software Engineer, Product Platform",
+  "company_name": "Block",
+  "first_published": "2026-09-14T15:13:01-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;h2&gt;The team&lt;/h2&gt;\n&lt;p&gt;Product Platform builds the foundations behind Cash App and Square. We own shared systems, abstractions, and tools that help product teams build high-quality iOS experiences with speed, consistency, and confidence, while shaping how AI-native development is adopted across our engineering organizations.&lt;/p&gt;\n&lt;h2&gt;The role&lt;/h2&gt;\n&lt;p&gt;As a Staff iOS Engineer on Product Platform, you will be a hands-on technical leader and a multiplier for iOS engineering.&lt;/p&gt;\n&lt;p&gt;You will identify important problems that do not yet have clear ownership, prove a direction through hands-on work, and create systems that other teams can adopt. You will influence iOS architecture, developer experience, performance, reliability, security, and product quality across multiple teams.&lt;/p&gt;\n&lt;p&gt;This is an individual contributor role with organization-level scope. Your goal is not to become a permanent bottleneck. You will create leverage through clear interfaces, strong documentation, sound technical decisions, and new technical leaders.&lt;/p&gt;\n&lt;h2&gt;You will&lt;/h2&gt;\n&lt;h3&gt;Build and evolve the iOS platform&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Own and evolve foundational iOS systems, such as application architecture, navigation, deep linking, dependency management, lifecycle management, and shared user interface foundations.&lt;/li&gt;\n&lt;li&gt;Design shared libraries, frameworks, and developer tools that product teams rely on.&lt;/li&gt;\n&lt;li&gt;Find and frame systemic iOS problems that do not yet have clear ownership.&lt;/li&gt;\n&lt;li&gt;Define technical strategy, architecture, standards, and measures of success across teams and applications.&lt;/li&gt;\n&lt;li&gt;Build prototypes, reference implementations, and critical paths that prove a direction before broader adoption.&lt;/li&gt;\n&lt;li&gt;Lead multi-quarter migrations and foundational initiatives from proposal through adoption.&lt;/li&gt;\n&lt;li&gt;Establish durable practices for testing, observability, performance, release safety, security, and maintainability.&lt;/li&gt;\n&lt;li&gt;Improve developer and AI ergonomics so both engineers and coding agents can work effectively with the platform.&lt;/li&gt;\n&lt;li&gt;Contribute platform technology to open source when it creates value for the broader engineering community.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Lead as an AI-fluent engineer&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Integrate AI-assisted development tools into daily workflows to drive leverage across product and platform engineering.&lt;/li&gt;\n&lt;li&gt;Evaluate emerging tools and practices, building durable, AI-powered platform capabilities where they add clear value.&lt;/li&gt;\n&lt;li&gt;Verify AI-assisted outputs and ensure high standards for software quality, security, and reliability.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Drive organizational impact&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Operate beyond your immediate team to identify and address cross-cutting technical problems.&lt;/li&gt;\n&lt;li&gt;Lead architecture and design reviews across team boundaries.&lt;/li&gt;\n&lt;li&gt;Surface systemic risks before they become customer, seller, or engineering problems.&lt;/li&gt;\n&lt;li&gt;Develop senior engineers and create ownership models that distribute expertise.&lt;/li&gt;\n&lt;li&gt;Help set technical standards that improve the quality and velocity of iOS development over time.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Collaborate broadly&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Partner with engineers, product managers, designers, and engineering leaders to align platform investments with product needs.&lt;/li&gt;\n&lt;li&gt;Work with Android, web, and backend engineers to improve shared product foundations and cross-platform experiences.&lt;/li&gt;\n&lt;li&gt;Represent iOS platform needs in cross-team and company-wide technical discussions.&lt;/li&gt;\n&lt;li&gt;Communicate complex technical decisions clearly to technical and nontechnical audiences.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;Qualifications&lt;/h2&gt;\n&lt;p&gt;You have:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;12+ years of professional software engineering experience.&lt;/li&gt;\n&lt;li&gt;8+ years in roles where mobile engineering was a primary responsibility, including 4+ years building native iOS products.&lt;/li&gt;\n&lt;li&gt;Deep expertise across modern and legacy iOS frameworks, Swift, and Objective-C.&lt;/li&gt;\n&lt;li&gt;Experience creating foundational systems, shared frameworks, or developer tooling used across multiple teams.&lt;/li&gt;\n&lt;li&gt;A record of leading strategic, multi-quarter initiatives with broad adoption and durable impact.&lt;/li&gt;\n&lt;li&gt;Experience connecting platform strategy to customer-facing and multi-tenant SaaS products that support business operations.&lt;/li&gt;\n&lt;li&gt;Strong systems thinking, technical communication, mentoring, and organizational influence.&lt;/li&gt;\n&lt;li&gt;A platform builder&#39;s mindset. You treat engineers as customers and measure success through adoption and product outcomes.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Ideally, you also have:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience with large, modular iOS applications maintained by many teams.&lt;/li&gt;\n&lt;li&gt;Experience with build systems, continuous integration and delivery, testing infrastructure, observability, or mobile performance.&lt;/li&gt;\n&lt;li&gt;Experience supporting customer-facing or seller-facing products in financial services, commerce, or another high-trust environment.&lt;/li&gt;\n&lt;li&gt;Experience with experimentation infrastructure, feature flags, or large-scale product delivery.&lt;/li&gt;\n&lt;li&gt;Experience creating developer platforms that support both human engineers and AI coding agents.&lt;/li&gt;\n&lt;li&gt;A record of identifying and leading work that was not already on a team&#39;s roadmap.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;Technologies we use and teach&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Swift, Objective-C, SwiftUI, and UIKit&lt;/li&gt;\n&lt;li&gt;Swift Concurrency and Combine&lt;/li&gt;\n&lt;li&gt;Xcode and Instruments&lt;/li&gt;\n&lt;li&gt;Bazel and other build and dependency-management systems&lt;/li&gt;\n&lt;li&gt;Protocol Buffers and shared client-server interfaces&lt;/li&gt;\n&lt;li&gt;Unit, snapshot, integration, and user interface testing&lt;/li&gt;\n&lt;li&gt;Performance, observability, and release-safety tooling&lt;/li&gt;\n&lt;li&gt;AI-assisted development tools&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;What makes this role distinctive&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Foundational scope:&lt;/strong&gt; Your work improves the systems that iOS product teams build on.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Hands-on leadership:&lt;/strong&gt; You will prove technical direction through implementation, not strategy alone.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Broad influence:&lt;/strong&gt; You will shape how teams across Cash App and Square build and maintain iOS software.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;AI-native development:&lt;/strong&gt; You will help define how AI changes mobile engineering practices and platform design.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Durable leverage:&lt;/strong&gt; Success means creating systems, standards, and technical leaders that continue producing value without depending on you.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;We’re working to build a more inclusive economy where our customers have equal access to opportunity, and we strive to live by these same values in building our workplace. Block is an equal opportunity employer evaluating all employees and job applicants without regard to identity or any legally protected class. We will consider qualified applicants with arrest or conviction records for employment in accordance with state and local laws and “fair chance” ordinances.&lt;br&gt;&lt;br&gt;We believe in being fair, and are committed to an inclusive interview experience, including providing reasonable accommodations to disabled applicants throughout the recruitment process. We encourage applicants to share any needed accommodations with their recruiter, who will treat these requests as confidentially as possible. &lt;strong&gt;Want to learn more about what we’re doing to build a workplace that is fair and square? Check out our&lt;/strong&gt; &lt;a href=&quot;https://block.xyz/news/inclusion&quot;&gt;I+D page&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;While there is no specific deadline to apply for this role, U.S. roles are typically open for an average of 55 days before being filled by a successful candidate. Please refer to the date listed at the top of this job page for when this role was first posted.&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Block takes a market-based approach to pay, and pay may vary depending on your location. U.S. locations are categorized into one of four zones based on a cost of labor index for that geographic area. The successful candidate’s starting pay will be determined based on job-related skills, experience, qualifications, work location, and market conditions. These ranges may be modified in the future.&lt;/p&gt;\n&lt;p&gt;To find a location’s zone designation, please refer to this&amp;nbsp;&lt;a href=&quot;https://block.xyz/documents/salaryzones.pdf&quot; target=&quot;_blank&quot;&gt;resource&lt;/a&gt;. If a location of interest is not listed, please speak with a recruiter for additional information.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;Zone A:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$263,600&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$395,400 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;title&quot;&gt;Zone B: &lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$263,600&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$395,400 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;title&quot;&gt;Zone C:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$263,600&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$395,400 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;title&quot;&gt;Zone D:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$263,600&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$395,400 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;Application Guidelines&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Candidates may submit up to 9 active applications within a 60-day period. Reapplications to the same role are accepted 90 days after a previous application has been reviewed.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Use of AI in Our Hiring Process&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We may use automated AI tools to evaluate job applications for efficiency and consistency. These tools comply with local regulations, including bias audits, and we handle all personal data in accordance with state and local privacy laws.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Contact us &lt;a href=&quot;https://privacy.block.xyz/privacyportal/form&quot;&gt;here&lt;/a&gt;&amp;nbsp;with hiring practice or data usage questions.&lt;/p&gt;\n&lt;p&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;Every benefit we offer is designed with one goal: empowering you to do the best work of your career while building the life you want. Remote work, medical insurance, flexible time off, retirement savings plans, and modern family planning are just some of our offering.&amp;nbsp;&lt;/em&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;&lt;a class=&quot;c-link c-link--underline&quot; href=&quot;https://block.xyz/employee-benefits&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://block.xyz/documents/benefits.pdf&quot; data-sk=&quot;tooltip_parent&quot;&gt;Check out our other benefits at Block.&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Block, Inc. (NYSE: XYZ) builds technology to increase access to the global economy. Each of our brands unlocks different aspects of the economy for more people.&amp;nbsp;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Square&lt;/strong&gt;&amp;nbsp;makes commerce and financial services accessible to sellers.&amp;nbsp;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Cash App&lt;/strong&gt;&amp;nbsp;is the easy way to spend, send, and store money.&amp;nbsp;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Afterpay&lt;/strong&gt;&amp;nbsp;is transforming the way customers manage their spending over time.&amp;nbsp;&lt;strong data-stringify-type=&quot;bold&quot;&gt;TIDAL&lt;/strong&gt;&amp;nbsp;is a music platform that empowers artists to thrive as entrepreneurs.&amp;nbsp;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Bitkey&lt;/strong&gt;&amp;nbsp;is a simple self-custody wallet built for bitcoin.&amp;nbsp;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Proto&lt;/strong&gt;&amp;nbsp;is a suite of bitcoin mining products and services. Together, we’re helping build a financial system that is open to everyone.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;a href=&quot;https://block.xyz/en/legal/applicant-privacy-notice&quot; target=&quot;_blank&quot;&gt;Privacy Policy&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4008848008,
+      "name": "10102 Engineering - Cash App",
+      "child_ids": [],
+      "parent_id": 4008765008
+    }
+  ],
+  "offices": [
+    {
+      "id": 4007802008,
+      "name": "US - CA - Bay Area - Remote",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 4004627008
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

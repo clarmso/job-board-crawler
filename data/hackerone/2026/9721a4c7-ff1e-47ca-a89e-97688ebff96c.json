@@ -1,0 +1,104 @@
+{
+  "id": "9721a4c7-ff1e-47ca-a89e-97688ebff96c",
+  "title": "Software Engineer, Applied AI",
+  "department": "Engineering",
+  "team": "Engineering",
+  "employmentType": "FullTime",
+  "location": "Seattle",
+  "shouldDisplayCompensationOnJobPostings": true,
+  "secondaryLocations": [
+    {
+      "location": "Washington DC",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "DC",
+          "addressCountry": "United States",
+          "addressLocality": "Washington"
+        }
+      }
+    },
+    {
+      "location": "Boston",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "Massachusetts",
+          "addressCountry": "United States",
+          "addressLocality": "Boston"
+        }
+      }
+    },
+    {
+      "location": "Austin",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "Texas",
+          "addressCountry": "United States",
+          "addressLocality": "Austin"
+        }
+      }
+    }
+  ],
+  "publishedAt": "2026-02-25T18:20:53.323+00:00",
+  "isListed": true,
+  "isRemote": true,
+  "workplaceType": "Hybrid",
+  "address": {
+    "postalAddress": {
+      "addressRegion": "Washington",
+      "addressCountry": "United States",
+      "addressLocality": "Seattle"
+    }
+  },
+  "jobUrl": "https://jobs.ashbyhq.com/hackerone/9721a4c7-ff1e-47ca-a89e-97688ebff96c",
+  "applyUrl": "https://jobs.ashbyhq.com/hackerone/9721a4c7-ff1e-47ca-a89e-97688ebff96c/application",
+  "descriptionHtml": "<p style=\"min-height:1.5em\">HackerOne is a global leader in Continuous Threat Exposure Management (CTEM). The HackerOne Platform unites agentic AI solutions with the ingenuity of the world’s largest community of security researchers to continuously discover, validate, prioritize, and remediate exposures across code, cloud, and AI systems. Through solutions like bug bounty, vulnerability disclosure, agentic pentesting, AI red teaming, and code security, HackerOne delivers measurable, continuous reduction of cyber risk for enterprises. Industry leaders, including Anthropic, <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://Crypto.com\">Crypto.com</a>, General Motors, Goldman Sachs, Lufthansa, Uber, UK Ministry of Defence, and the U.S. Department of Defense, trust HackerOne to safeguard their digital ecosystems. HackerOne was recognized in Gartner’s Emerging Tech Impact Radar: AI Cybersecurity Ecosystem report for its leadership in AI Security Testing and has been named a Most Loved Workplace for Young Professionals (2024).</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">HackerOne is at a pivotal inflection point in the security industry. Offensive security is no longer optional – it is the standard for forward-thinking companies that want to build trust and resilience in a world where AI-driven innovation and adversaries are moving faster than ever. With the industry shifting, HackerOne stands apart: we combine the ingenuity of the largest security research community with a best-in-class AI-powered platform, trusted by the world’s top organizations.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>HackerOne Values</strong></p><p style=\"min-height:1.5em\">HackerOne is dedicated to fostering a strong and inclusive culture. HackerOne is <strong>Customer Obsessed</strong> and prioritizes customer outcomes in our decisions and actions. We <strong>Default to Disclosure</strong> by operating with transparency and integrity, ensuring trust and accountability. Employees, researchers, customers, and partners<strong> Win Together </strong>by fostering empowerment, inclusion, respect, and accountability.</p><p style=\"min-height:1.5em\"></p><h1><strong>Software Engineer, Applied AI</strong></h1><p style=\"min-height:1.5em\"></p><h2><strong><u>Location: Seattle, WA; Austin, TX; Boston, MA; Washington, DC</u></strong></h2><h2><strong>1 day onsite per week</strong></h2><p style=\"min-height:1.5em\"></p><h2><strong>Position Summary</strong></h2><p style=\"min-height:1.5em\">At HackerOne, we’re revolutionizing offensive security by combining human intelligence with artificial intelligence to help organizations build a safer internet. As an AI Engineer on our AI Platform team, you will contribute to the development of next-generation AI security capabilities, including our in-platform AI security agent, Hai. You will implement AI-powered features that enhance vulnerability discovery, improve security analysis workflows, and expand how thousands of customers detect and respond to emerging threats.</p><p style=\"min-height:1.5em\">At HackerOne, we embrace a Flexible Work approach that gives us the freedom to do our best work while also fostering the connections and community that make us stronger. Reflecting this philosophy, this is a remote role targeted for candidates within<strong> ~50 miles of Seattle, WA; Boston, MA; Washington, DC; or Austin, TX</strong>. We believe this balance of proximity and flexibility gives Hackeronies the chance to occasionally come together – fostering collaboration, connection, and in-person moments that enrich our culture – while still preserving the benefits of remote work. Must be able and willing to come to the office once per week on Thursdays.</p><p style=\"min-height:1.5em\"></p><h2><strong>Primary Responsibilities</strong></h2><p style=\"min-height:1.5em\">Success in the AI Engineer role will be accomplished by delivering on the responsibilities below in alignment with the Values and Talent Principles that define how we work at HackerOne.</p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Apply an <strong>AI First</strong> mindset by building and integrating AI capabilities such as LLM-powered workflows, RAG pipelines, or orchestration components that enhance vulnerability detection and security automation.</p></li><li><p style=\"min-height:1.5em\">Demonstrate <strong>First Principles Problem Solving</strong> by breaking down AI and security challenges into clear components, identifying core assumptions, and implementing simple, maintainable solutions.</p></li><li><p style=\"min-height:1.5em\">Use <strong>Data-Driven Decision Making</strong> to evaluate model performance, test hypotheses, analyze telemetry, and iterate on features based on measurable impact.</p></li><li><p style=\"min-height:1.5em\">Practice <strong>Change Agility</strong> by adapting to evolving AI frameworks, product requirements, and security considerations while maintaining delivery momentum.</p></li><li><p style=\"min-height:1.5em\">Contribute to the development of our AI security agent, Hai, implementing features that enable natural language insights, reasoning workflows, and secure model interactions.</p></li><li><p style=\"min-height:1.5em\">Build and maintain APIs and services that enable secure interactions between AI models, internal systems, and third-party platforms.</p></li><li><p style=\"min-height:1.5em\">Partner cross-functionally with Product, Security Research, and Customer Success to clarify requirements, translate user needs into technical tasks, and deliver reliable solutions.</p></li><li><p style=\"min-height:1.5em\">Stay current with emerging AI and AI security trends, sharing learnings with the team and incorporating relevant advancements into your work.</p></li></ul><p style=\"min-height:1.5em\"></p><h2><strong>Minimum Qualifications</strong></h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">3+ years of experience as a software engineer, with hands-on experience building production systems</p></li><li><p style=\"min-height:1.5em\">Experience integrating LLMs or generative AI models into applications<br />Hands-on experience with ML frameworks such as PyTorch, TensorFlow, or HuggingFace Transformers</p></li><li><p style=\"min-height:1.5em\">Must be able and willing to come to the office once per week (typically Thursdays)</p></li></ul><p style=\"min-height:1.5em\"></p><h2><strong>Preferred Qualifications</strong></h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Familiarity with agentic frameworks such as ReAct, AutoGen, LangChain, or Semantic Kernel</p></li><li><p style=\"min-height:1.5em\">Experience with RAG architectures, prompt engineering, fine-tuning, or LLM evaluation techniques</p></li><li><p style=\"min-height:1.5em\">Exposure to cloud AI/ML services (AWS Bedrock, GCP Vertex AI, Azure ML)</p></li><li><p style=\"min-height:1.5em\">Familiarity with full-stack technologies such as Ruby on Rails, GraphQL, or React for integrating AI features into production systems</p></li></ul><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">Compensation Bands:</p><h2><strong>Seattle, WA; Boston, MA; Washington, DC; or Austin, TX</strong></h2><p style=\"min-height:1.5em\">$166K – $203K • Offers Equity</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">#LI-HM1</p><p style=\"min-height:1.5em\"></p><h2>Job Benefits:</h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Health (medical, vision, dental), life, and disability insurance*</p></li><li><p style=\"min-height:1.5em\">Equity stock options</p></li><li><p style=\"min-height:1.5em\">Retirement plans</p></li><li><p style=\"min-height:1.5em\">Paid public holidays and unlimited PTO</p></li><li><p style=\"min-height:1.5em\">Paid maternity and parental leave</p></li><li><p style=\"min-height:1.5em\">Leaves of absence (including caregiver leave and leave under CO's Healthy Families and Workplaces Act)</p></li><li><p style=\"min-height:1.5em\">Employee Assistance Program</p></li></ul><p style=\"min-height:1.5em\"><strong>*Eligibility may differ by country</strong></p><p style=\"min-height:1.5em\">We're committed to building a global team! For certain roles outside the United States, India, the U.K., and the Netherlands, we partner with <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://remote.com/preemployment-faq\"><u>Remote.com</u></a> as our Employer of Record (EOR).</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">Visa/work permit sponsorship is not available. </p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><em>Employment at HackerOne is contingent on a background check.</em></p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">HackerOne is an Equal Opportunity Employer in the terms and conditions of employment for all employees and job applicants without regard to race, color, religion, sex, sexual orientation, age, gender identity or gender expression, national origin, pregnancy, disability or veteran status, or any other protected characteristic as outlined by international, federal, state, or local laws.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">This policy applies to all HackerOne employment practices, including hiring, recruiting, promotion, termination, layoff, recall, leave of absence, compensation, benefits, training, and apprenticeship. HackerOne makes hiring decisions based solely on qualifications, merit, and business needs at the time.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">For US based roles only: Pursuant to the San Francisco Fair Chance Ordinance, all qualified applicants with arrest and conviction records will be considered for the position.</p>",
+  "descriptionPlain": "HackerOne is a global leader in Continuous Threat Exposure Management (CTEM). The HackerOne Platform unites agentic AI solutions with the ingenuity of the world’s largest community of security researchers to continuously discover, validate, prioritize, and remediate exposures across code, cloud, and AI systems. Through solutions like bug bounty, vulnerability disclosure, agentic pentesting, AI red teaming, and code security, HackerOne delivers measurable, continuous reduction of cyber risk for enterprises. Industry leaders, including Anthropic, Crypto.com http://Crypto.com, General Motors, Goldman Sachs, Lufthansa, Uber, UK Ministry of Defence, and the U.S. Department of Defense, trust HackerOne to safeguard their digital ecosystems. HackerOne was recognized in Gartner’s Emerging Tech Impact Radar: AI Cybersecurity Ecosystem report for its leadership in AI Security Testing and has been named a Most Loved Workplace for Young Professionals (2024).\n\n\n\nHackerOne is at a pivotal inflection point in the security industry. Offensive security is no longer optional – it is the standard for forward-thinking companies that want to build trust and resilience in a world where AI-driven innovation and adversaries are moving faster than ever. With the industry shifting, HackerOne stands apart: we combine the ingenuity of the largest security research community with a best-in-class AI-powered platform, trusted by the world’s top organizations.\n\n\n\nHackerOne Values\n\nHackerOne is dedicated to fostering a strong and inclusive culture. HackerOne is Customer Obsessed and prioritizes customer outcomes in our decisions and actions. We Default to Disclosure by operating with transparency and integrity, ensuring trust and accountability. Employees, researchers, customers, and partners Win Together by fostering empowerment, inclusion, respect, and accountability.\n\n\n\n\nSOFTWARE ENGINEER, APPLIED AI\n\n\n\n\nLOCATION: SEATTLE, WA; AUSTIN, TX; BOSTON, MA; WASHINGTON, DC\n\n\n1 DAY ONSITE PER WEEK\n\n\n\n\nPOSITION SUMMARY\n\nAt HackerOne, we’re revolutionizing offensive security by combining human intelligence with artificial intelligence to help organizations build a safer internet. As an AI Engineer on our AI Platform team, you will contribute to the development of next-generation AI security capabilities, including our in-platform AI security agent, Hai. You will implement AI-powered features that enhance vulnerability discovery, improve security analysis workflows, and expand how thousands of customers detect and respond to emerging threats.\n\nAt HackerOne, we embrace a Flexible Work approach that gives us the freedom to do our best work while also fostering the connections and community that make us stronger. Reflecting this philosophy, this is a remote role targeted for candidates within ~50 miles of Seattle, WA; Boston, MA; Washington, DC; or Austin, TX. We believe this balance of proximity and flexibility gives Hackeronies the chance to occasionally come together – fostering collaboration, connection, and in-person moments that enrich our culture – while still preserving the benefits of remote work. Must be able and willing to come to the office once per week on Thursdays.\n\n\n\n\nPRIMARY RESPONSIBILITIES\n\nSuccess in the AI Engineer role will be accomplished by delivering on the responsibilities below in alignment with the Values and Talent Principles that define how we work at HackerOne.\n\n - Apply an AI First mindset by building and integrating AI capabilities such as LLM-powered workflows, RAG pipelines, or orchestration components that enhance vulnerability detection and security automation.\n\n - Demonstrate First Principles Problem Solving by breaking down AI and security challenges into clear components, identifying core assumptions, and implementing simple, maintainable solutions.\n\n - Use Data-Driven Decision Making to evaluate model performance, test hypotheses, analyze telemetry, and iterate on features based on measurable impact.\n\n - Practice Change Agility by adapting to evolving AI frameworks, product requirements, and security considerations while maintaining delivery momentum.\n\n - Contribute to the development of our AI security agent, Hai, implementing features that enable natural language insights, reasoning workflows, and secure model interactions.\n\n - Build and maintain APIs and services that enable secure interactions between AI models, internal systems, and third-party platforms.\n\n - Partner cross-functionally with Product, Security Research, and Customer Success to clarify requirements, translate user needs into technical tasks, and deliver reliable solutions.\n\n - Stay current with emerging AI and AI security trends, sharing learnings with the team and incorporating relevant advancements into your work.\n\n\n\n\nMINIMUM QUALIFICATIONS\n\n - 3+ years of experience as a software engineer, with hands-on experience building production systems\n\n - Experience integrating LLMs or generative AI models into applications\n   Hands-on experience with ML frameworks such as PyTorch, TensorFlow, or HuggingFace Transformers\n\n - Must be able and willing to come to the office once per week (typically Thursdays)\n\n\n\n\nPREFERRED QUALIFICATIONS\n\n - Familiarity with agentic frameworks such as ReAct, AutoGen, LangChain, or Semantic Kernel\n\n - Experience with RAG architectures, prompt engineering, fine-tuning, or LLM evaluation techniques\n\n - Exposure to cloud AI/ML services (AWS Bedrock, GCP Vertex AI, Azure ML)\n\n - Familiarity with full-stack technologies such as Ruby on Rails, GraphQL, or React for integrating AI features into production systems\n\n\n\nCompensation Bands:\n\n\nSEATTLE, WA; BOSTON, MA; WASHINGTON, DC; OR AUSTIN, TX\n\n$166K – $203K • Offers Equity\n\n\n\n#LI-HM1\n\n\n\n\nJOB BENEFITS:\n\n - Health (medical, vision, dental), life, and disability insurance*\n\n - Equity stock options\n\n - Retirement plans\n\n - Paid public holidays and unlimited PTO\n\n - Paid maternity and parental leave\n\n - Leaves of absence (including caregiver leave and leave under CO's Healthy Families and Workplaces Act)\n\n - Employee Assistance Program\n\n*Eligibility may differ by country\n\nWe're committed to building a global team! For certain roles outside the United States, India, the U.K., and the Netherlands, we partner with Remote.com https://remote.com/preemployment-faq as our Employer of Record (EOR).\n\n\n\nVisa/work permit sponsorship is not available. \n\n\n\nEmployment at HackerOne is contingent on a background check.\n\n\n\nHackerOne is an Equal Opportunity Employer in the terms and conditions of employment for all employees and job applicants without regard to race, color, religion, sex, sexual orientation, age, gender identity or gender expression, national origin, pregnancy, disability or veteran status, or any other protected characteristic as outlined by international, federal, state, or local laws.\n\n\n\nThis policy applies to all HackerOne employment practices, including hiring, recruiting, promotion, termination, layoff, recall, leave of absence, compensation, benefits, training, and apprenticeship. HackerOne makes hiring decisions based solely on qualifications, merit, and business needs at the time.\n\n\n\nFor US based roles only: Pursuant to the San Francisco Fair Chance Ordinance, all qualified applicants with arrest and conviction records will be considered for the position.",
+  "compensation": {
+    "compensationTierSummary": "$166K – $203K • Offers Equity",
+    "scrapeableCompensationSalarySummary": "$166K - $203K",
+    "compensationTiers": [
+      {
+        "id": "16cc1439-e4b4-4c76-b8cc-e1b2c1f5927d",
+        "tierSummary": "$166K – $203K • Offers Equity",
+        "title": "Seattle, WA; Boston, MA; Washington, DC; or Austin, TX",
+        "additionalInformation": null,
+        "components": [
+          {
+            "id": "caafe8cd-5608-4569-b82c-f3af62a29c54",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "8182b448-ba2c-400d-9321-a650790aff5e",
+            "summary": "$166K – $203K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 166000,
+            "maxValue": 203000
+          }
+        ]
+      }
+    ],
+    "summaryComponents": [
+      {
+        "compensationType": "EquityPercentage",
+        "interval": "NONE",
+        "currencyCode": null,
+        "minValue": null,
+        "maxValue": null
+      },
+      {
+        "compensationType": "Salary",
+        "interval": "1 YEAR",
+        "currencyCode": "USD",
+        "minValue": 166000,
+        "maxValue": 203000
+      }
+    ]
+  }
+}

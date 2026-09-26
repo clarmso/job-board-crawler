@@ -1,0 +1,158 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/zscaler/jobs/5029669007",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 4581985007,
+  "location": {
+    "name": "Bellevue, Washington, USA; Boston, Massachusetts, USA; Crystal City, Virginia, USA; Dallas, Texas, USA; Denver, Colorado, USA; McLean, Virginia, USA; New York City, New York, USA; San Jose, California, USA; Short Hills, New Jersey, USA"
+  },
+  "metadata": [
+    {
+      "id": 4203262007,
+      "name": "Employment Type",
+      "value": "Fulltime Employee",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4363861007,
+      "name": "Additional Job Post Location",
+      "value": [],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 4363809007,
+      "name": "Division",
+      "value": "Engineering",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4391305007,
+      "name": "Geo/Region",
+      "value": "AMS",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 5029669007,
+  "updated_at": "2026-09-22T11:49:14-04:00",
+  "requisition_id": "260105_B24485",
+  "title": "Staff Site Reliability Engineer (Production Engineer)- Federal",
+  "company_name": "Zscaler",
+  "first_published": "2026-02-10T01:10:00-05:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange™️ platform protects thousands of customers from cyberattacks and data loss by securely connecting users, devices, and applications in any location. Distributed across 160+ public exchanges globally and thousands of private exchanges at the edge, the SASE-based Zero Trust Exchange is the world’s largest in-line cloud security platform.&lt;/p&gt;\n&lt;p&gt;We believe the future of work is Human + AI and are building an AI-native enterprise where human potential is amplified by machine intelligence to solve the world’s hardest security challenges. Driven by deep customer obsession, we are committed to the mission, outcome, and to each other. We bring these commitments to life through three core behaviors: ownership and collaboration, trust through outcomes and impact, and a challenge culture with ongoing feedback. Ready to make an impact at the company pioneering security transformation in the AI era? Join us at Zscaler.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;a style=&quot;display: block; overflow: hidden; position: relative;&quot; href=&quot;https://share.synthesia.io/3987f841-65d1-45b6-a343-ba0c5cda58be&quot; target=&quot;_blank&quot;&gt; &lt;img style=&quot;width: 100%; display: block; max-width: 100%;&quot; src=&quot;https://image.synthesia.io/3987f841-65d1-45b6-a343-ba0c5cda58be/thumbnail.gif&quot; alt=&quot;Federal Site Reliability Engineer&quot;&gt; &lt;/a&gt;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Role&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;We are looking for a Staff Site Reliability Engineer (Production Engineer) to join our team. This is a hybrid role (onsite three days a week in San Jose, CA or another Zscaler office; remote can be considered for exceptional candidates) reporting to the Senior Manager, Site Reliability Engineering in the Zero Trust Exchange department.&lt;/p&gt;\n&lt;p&gt;As a key member of the Zero Trust Exchange team, you will own the systems-level reliability and performance of Zscaler’s high-throughput bare-metal and cloud infrastructure processing tens of billions of daily transactions across a global, multi-region fleet. This is a software-first SRE role: you will write production-grade code and automation, drive the shift from reactive incident response, and bring engineering discipline to the systems-level work - OS, network and application debugging - that keeps the fleet operating safely at scale.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;What You’ll Do (Role Expectations)&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Maintain high availability across large-scale bare-metal Linux/BSD fleets, Kubernetes clusters, and custom routing stacks in partnership with Engineering and Networking teams&lt;/li&gt;\n&lt;li&gt;Lead full-cycle incident response by conducting cross-stack troubleshooting using low-level OS and network tools (strace, lsof, tcpdump, iostat, vmstat, gdb), maintain high availability across large-scale bare metal Linux /BSD fleets and Kubernetes clusters&lt;/li&gt;\n&lt;li&gt;Automate infrastructure lifecycle management, service provisioning, configuration workflows, and release deployments using Ansible, Python, and Go; quantify operational toil and convert recurring manual work into durable, version-controlled, testable automation — tracking reduction as an engineering outcome&lt;/li&gt;\n&lt;li&gt;Own end-to-end telemetry (metrics, logs, traces) using Prometheus and OpenTelemetry ecosystems; define and enforce SLOs/error budgets to reduce alert noise&lt;/li&gt;\n&lt;li&gt;Perform architectural reviews, OS/kernel upgrades, capacity and performance tuning, strict CI/CD validation prior to production rollouts; embed operability standards (telemetry, rollback safety, SLO readiness) into service design from the start&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Who You Are (Success Profile)&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;You thrive in ambiguity. You&#39;re comfortable building the path as you walk it, seeing ambiguity not as a hindrance, but as the raw material to build something meaningful.&lt;/li&gt;\n&lt;li&gt;You act like an owner. Your passion for the mission fuels your bias for action. You operate with integrity because you genuinely care about the outcome. True ownership involves leveraging dynamic range: the ability to navigate seamlessly between high-level strategy and hands-on execution.&lt;/li&gt;\n&lt;li&gt;You are a problem-solver. You love running towards the challenges because you are laser-focused on finding the solution, knowing that solving the hard problems delivers the biggest impact.&lt;/li&gt;\n&lt;li&gt;You are a high-trust collaborator. You are ambitious for the team, not just yourself. You embrace our challenge culture by giving and receiving ongoing feedback—knowing that candor delivered with clarity and respect is the truest form of teamwork and the fastest way to earn trust.&lt;/li&gt;\n&lt;li&gt;You are a learner. You have a true growth mindset and are obsessed with your own development, actively seeking feedback to become a better partner and a stronger teammate. You love what you do and you do it with purpose.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;What We’re Looking For (Minimum Qualifications)&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;US Citizenship is required&lt;/strong&gt; (due to the nature of assigned customers)&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Foundational understanding of AI/ML technologies and experience leveraging, securing, or positioning AI-driven solutions to optimize outcomes within your functional domain&lt;/li&gt;\n&lt;li&gt;5+ years of experience in Site Reliability Engineering, Production Engineering, or Systems Engineering operating high-scale, low-latency production platforms&lt;/li&gt;\n&lt;li&gt;Proven ability to write and debug executable code live (Python, Go, or Bash) covering core logic/data structures, along with hands-on experience writing Ansible&lt;a href=&quot;https://playbooks.corp.google.com/tasks&quot;&gt; playbooks/tasks&lt;/a&gt; for infrastructure automation&lt;/li&gt;\n&lt;li&gt;Deep knowledge of Linux OS internals and kernel troubleshooting (e.g., inodes, open file descriptors, process states, and analyzing df vs du storage discrepancies)&lt;/li&gt;\n&lt;li&gt;Comprehensive understanding of networking protocols and packet-level analysis, including DNS resolution workflows, TLS handshakes, TCP/IP mechanics, and packet captures via tcpdump&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;What Will Make You Stand Out (Preferred Qualifications)&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Hands-on experience operating and managing FreeBSD / BSD operating systems in production&lt;/li&gt;\n&lt;li&gt;Proven expertise running, scaling, and troubleshooting Kubernetes clusters in high-traffic, low-latency environments and workflow orchestration platforms (Temporal or similar)&lt;/li&gt;\n&lt;li&gt;Deep experience with Prometheus / OpenTelemetry ecosystems, or leveraging AI/ML frameworks/AIOps tools for automated root-cause analysis&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;#LI-YC2 #LI-Hybrid&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Zscaler’s salary ranges are benchmarked and are determined by role and level. The range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position across all US locations and could be higher or lower based on a multitude of factors, including job-related skills, experience, and relevant education or training.&lt;/p&gt;\n&lt;p&gt;The base salary range listed for this full-time position excludes commission/ bonus/ equity (if applicable) + benefits.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;Base Pay Range&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$119,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$170,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p data-pm-slice=&quot;1 3 []&quot;&gt;At Zscaler, we are committed to building a team that reflects the communities we serve and the customers we work with. We foster an inclusive environment that values all backgrounds and perspectives, emphasizing collaboration and belonging. Join us in our mission to make doing business seamless and secure.&lt;/p&gt;\n&lt;p&gt;Our Benefits program is one of the most important ways we support our employees. Zscaler proudly offers comprehensive and inclusive benefits to meet the diverse needs of our employees and their families throughout their life stages, including:&lt;/p&gt;\n&lt;div class=&quot;has-nudge&quot; data-nudge-id=&quot;5eb9419b-6a4d-4451-bfa6-e2eb96084be0&quot;&gt;\n&lt;ul&gt;\n&lt;li&gt;Various health plans&lt;/li&gt;\n&lt;li&gt;Time off plans for vacation and sick time&lt;/li&gt;\n&lt;li&gt;Parental leave options&lt;/li&gt;\n&lt;li&gt;Retirement options&lt;/li&gt;\n&lt;li&gt;Education reimbursement&lt;/li&gt;\n&lt;li&gt;In-office perks, and more!&lt;/li&gt;\n&lt;/ul&gt;\n&lt;div class=&quot;has-nudge&quot; data-nudge-id=&quot;5eb9419b-6a4d-4451-bfa6-e2eb96084be0&quot;&gt;\n&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;Learn more about Zscaler&#39;s hybrid working model and benefits&amp;nbsp;&lt;a href=&quot;https://www.zscaler.com/candidate-resource-hub&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;p&gt;By applying for this role, you adhere to applicable laws, regulations, and Zscaler policies, including those related to security and privacy standards and guidelines.&lt;/p&gt;\n&lt;p class=&quot;p1&quot;&gt;Zscaler is committed to providing equal employment opportunities to all individuals. We strive to create a workplace where employees are treated with respect and have the chance to succeed. All qualified applicants will be considered for employment without regard to race, color, religion, sex (including pregnancy or related medical conditions), age, national origin, sexual orientation, gender identity or expression, genetic information, disability status, protected veteran status, or any other characteristic protected by federal, state, or local laws. &lt;em&gt;See more information by clicking on the &lt;/em&gt;&lt;a href=&quot;https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf&quot;&gt;&lt;em&gt;Know Your Rights: Workplace Discrimination is Illegal &lt;/em&gt;&lt;/a&gt;&lt;em&gt;link.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;Pay Transparency&lt;/p&gt;\n&lt;p&gt;Zscaler complies with all applicable federal, state, and local pay transparency rules.&lt;/p&gt;\n&lt;p&gt;Zscaler is committed to providing reasonable support (called accommodations or adjustments) in our recruiting processes for candidates who are differently abled, have long term conditions, mental health conditions or sincerely held religious beliefs, or who are neurodivergent or require pregnancy-related support.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4052364007,
+      "name": "Zero Trust Exchange",
+      "child_ids": [
+        4065752007,
+        4058564007,
+        4063093007,
+        4063090007,
+        4063091007,
+        4063092007,
+        4065646007,
+        4052366007,
+        4065647007,
+        4065648007,
+        4052367007,
+        4046320007,
+        4046246007,
+        4058563007,
+        4058562007,
+        4058565007,
+        4046244007,
+        4052368007,
+        4046243007,
+        4046242007,
+        4046225007,
+        4046240007,
+        4068024007,
+        4036097007,
+        4036098007,
+        4058571007,
+        4036106007,
+        4036104007,
+        4036105007,
+        4018288007,
+        4043631007,
+        4043629007,
+        4043630007,
+        4036103007,
+        4036101007,
+        4036100007,
+        4036102007,
+        4052406007,
+        4067310007,
+        4036096007,
+        4018320007,
+        4036094007,
+        4057191007,
+        4046326007,
+        4046172007,
+        4046175007,
+        4058570007,
+        4063513007,
+        4063514007,
+        4063515007,
+        4058568007,
+        4058569007,
+        4041579007,
+        4018284007,
+        4063511007,
+        4063512007,
+        4022264007,
+        4036095007,
+        4036099007,
+        4018319007,
+        4050996007,
+        4050997007,
+        4050998007,
+        4018321007,
+        4018313007,
+        4022265007,
+        4015505007,
+        4066574007,
+        4066575007,
+        4042855007,
+        4042854007,
+        4042856007,
+        4040218007,
+        4029174007,
+        4036111007,
+        4036112007,
+        4036113007,
+        4018285007
+      ],
+      "parent_id": 4017790007
+    }
+  ],
+  "offices": [
+    {
+      "id": 4007291007,
+      "name": "Office - San Jose, USA",
+      "location": "San Jose, California, USA",
+      "child_ids": [],
+      "parent_id": 4007290007
+    },
+    {
+      "id": 4007362007,
+      "name": "Remote - USA",
+      "location": "Remote - USA",
+      "child_ids": [],
+      "parent_id": 4007290007
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

@@ -1,0 +1,66 @@
+{
+  "absolute_url": "https://instacart.careers/job/?gh_jid=8202247",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 3500685,
+  "location": {
+    "name": "Canada - Remote (ON, AB, BC, or NS Only)"
+  },
+  "metadata": [
+    {
+      "id": 16452,
+      "name": "Employment Type",
+      "value": "Regular",
+      "value_type": "single_select"
+    },
+    {
+      "id": 740030,
+      "name": "Exemption Status",
+      "value": "Exempt",
+      "value_type": "single_select"
+    },
+    {
+      "id": 235666,
+      "name": "Time Type",
+      "value": "Full time",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8202247,
+  "updated_at": "2026-09-14T16:31:32-04:00",
+  "requisition_id": "MH158",
+  "title": "Staff Software Engineer, Developer Experience",
+  "company_name": "Instacart",
+  "first_published": "2026-09-14T16:23:22-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;We&#39;re transforming the grocery industry&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span class=&quot;im&quot;&gt;At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;Instacart has become a lifeline for millions of people, and we’re building the team to help push our shopping cart forward. If you’re ready to do the best work of your life, come join our table.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Instacart is a Flex First team &lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;There’s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work—whether it’s from home, an office, or your favorite coffee shop—while staying connected and building community through regular in-person events. &lt;a href=&quot;https://www.instacart.careers/flex-first&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://instacart.careers/remote/&amp;amp;source=gmail&amp;amp;ust=1651869232122000&amp;amp;usg=AOvVaw37OlxP8hAKN7nq4YwHQH7e&quot;&gt;Learn more about our flexible approach to where we work.&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;h3&gt;OVERVIEW&lt;/h3&gt;\n&lt;p&gt;The Developer Experience team at Instacart is the force multiplier for our 1000+ engineers. We define and build the platforms, tools, and practices that enable Instacart engineers to ship high-quality software faster — from AI-powered code review to build infrastructure, developer onboarding, and local development environments. Our success is measured in developer velocity: how quickly an engineer can take an idea from concept to production.&lt;/p&gt;\n&lt;p&gt;As a Staff Software Engineer on Developer Experience, you will lead the technical direction for the developer infrastructure that every Instacart engineer relies on. That spans local and remote development environments, CI pipelines and the feedback loop on every commit, pre-production environments that engineers and AI agents can trust, version-control infrastructure, and the AI-powered developer tooling woven through all of it. This is a hands-on technical leadership role. You&#39;ll write code, set architectural direction, and partner across the org to move engineering-wide metrics on developer velocity, CI reliability, and the time it takes to get a change safely into production.&lt;/p&gt;\n&lt;h3&gt;About the Job&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Lead the technical direction for Instacart&#39;s local and remote development environments, including ephemeral environments, image-based provisioning, health checks, and the developer-facing ergonomics of the inner development loop.&lt;/li&gt;\n&lt;li&gt;Lead the technical direction for our CI pipeline infrastructure and the commit-to-feedback loop, CI reliability, failure diagnostics, flaky-test reduction, and shift-left validation.&lt;/li&gt;\n&lt;li&gt;Own the architecture and evolution of our pre-production environments, including staging stability, service-owner accountability models, and environments that let engineers and AI agents validate changes end-to-end in parallel.&lt;/li&gt;\n&lt;li&gt;Drive the reliability and resilience of our git infrastructure, git operations at monorepo scale, and implement disaster recovery plans.&lt;/li&gt;\n&lt;li&gt;Advance AI-powered developer tooling across the workflow, AI-assisted code review, agentic development workflows, and the platforms that let engineers run many AI sessions in parallel with humans on the loop.&lt;/li&gt;\n&lt;li&gt;Design and drive multi-quarter initiatives that measurably improve developer velocity, CI reliability, pre-production health, and the local development loop.&lt;/li&gt;\n&lt;li&gt;Own the developer experience metrics for the systems you lead: define what &quot;good&quot; looks like, instrument it, and use the data to prioritize investment.&lt;/li&gt;\n&lt;li&gt;Partner with infrastructure, platform, and product engineering teams to roll out platform changes with minimal disruption&lt;/li&gt;\n&lt;li&gt;Set the technical bar for the systems you own on reliability, performance, upgrade cadence, and developer ergonomics.&lt;/li&gt;\n&lt;li&gt;Mentor engineers in the team and the broader engineering org; grow the community of developer infrastructure experts at Instacart.&lt;/li&gt;\n&lt;li&gt;Represent the team in cross-org technical discussions on local development experience, CI/CD, pre-production, and AI-augmented development.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;About You&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;A hands-on technical leader who is equally comfortable in a CI pipeline definition, a design doc, a vision document, and a cross-org migration plan.&lt;/li&gt;\n&lt;li&gt;Metrics-driven. You use build times, CI failure rates, pre-production pass rates, feedback-loop latency, and developer feedback to guide where to invest.&lt;/li&gt;\n&lt;li&gt;A multiplier. You make the engineers around you more effective through mentorship, clear technical writing, and pragmatic guidance.&lt;/li&gt;\n&lt;li&gt;Comfortable driving cross-team change. You can build consensus for a migration or a platform shift and see it through to adoption.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;Minimum Qualifications&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;10+ years of software development experience.&lt;/li&gt;\n&lt;li&gt;Deep, hands-on experience operating CI/CD systems at scale (e.g., Buildkite, GitHub Actions, Jenkins, CircleCI), including pipeline design, reliability, and performance tuning for large engineering organizations.&lt;/li&gt;\n&lt;li&gt;Experience building or operating local/remote development environments or developer platforms (e.g., ephemeral environments, dev containers, internal PaaS), with a point of view on the inner development loop.&lt;/li&gt;\n&lt;li&gt;Track record of leading cross-team technical initiatives with measurable impact on developer velocity, CI reliability, pre-production stability, or feedback-loop time.&lt;/li&gt;\n&lt;li&gt;Experience with cloud infrastructure (AWS preferred), containerization (Docker), and orchestration (ECS/Kubernetes or equivalent).&lt;/li&gt;\n&lt;li&gt;Experience with large monorepos and the git infrastructure challenges that come with them.&lt;/li&gt;\n&lt;li&gt;Strong technical leadership: driving direction, mentoring engineers, and influencing without direct authority.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;Preferred Qualifications&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Bachelor&#39;s or Master&#39;s degree in Computer Science, Computer Engineering, or equivalent experience.&lt;/li&gt;\n&lt;li&gt;Experience owning or evolving a developer environment platform used by a large engineering org.&lt;/li&gt;\n&lt;li&gt;Experience stabilizing pre-production / staging environments at scale, including establishing service-owner accountability and SLAs.&lt;/li&gt;\n&lt;li&gt;Experience with AI-powered developer tooling — AI code review, agentic coding workflows, or platforms that run async agentic work for engineers.&lt;/li&gt;\n&lt;li&gt;Experience defining and instrumenting developer productivity metrics (CI failure rate, feedback-loop time, pre-production pass rate, local dev loop).&lt;/li&gt;\n&lt;li&gt;Experience at high-growth companies operating developer infrastructure for large engineering organizations.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;#LI-Remote&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Instacart provides highly market-competitive compensation and benefits in each location where our employees work. This role is remote and the base pay range for a successful candidate is dependent on their permanent work location. Please review our Flex First remote work policy &lt;a href=&quot;https://instacart.careers/flex-first/&quot;&gt;here&lt;/a&gt;. Currently, we are only hiring in the following provinces: Ontario, Alberta, British Columbia, and Nova Scotia.&lt;/p&gt;\n&lt;p&gt;Offers may vary based on many factors, such as candidate experience and skills required for the role. Additionally, this role is eligible for a new hire equity grant as well as annual refresh grants. Please read more about our benefits offerings &lt;a href=&quot;https://instacart.careers/taste-of-instacart/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;For Canadian based candidates, the base pay ranges for a successful candidate are listed below.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;CAN&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$229,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$241,000 CAD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 50240,
+      "name": "Infrastructure",
+      "child_ids": [],
+      "parent_id": 4132
+    }
+  ],
+  "offices": [
+    {
+      "id": 88202,
+      "name": "Remote - Canada",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 88198
+    }
+  ],
+  "ai_disclaimer": "<p>Instacart (Maplebear Inc. d/b/a Instacart) uses Greenhouse's Real Talent technology as part of our hiring process. Select \"Learn more\" for information on how these tools work, what data is involved, and your rights.&nbsp;</p>",
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": "http://app.greenhouse.io/ai_opt_out_request/job_post/8202247/ai_opt_out"
+}

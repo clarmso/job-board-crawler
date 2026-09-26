@@ -1,0 +1,63 @@
+{
+  "id": "744000032191419",
+  "name": "Test",
+  "uuid": "072f758a-3204-4ba3-b1aa-e5b2e9cae67b",
+  "jobAdId": "daa28c4f-2ef9-4e48-94eb-f85f5b07f72a",
+  "defaultJobAd": true,
+  "refNumber": "REF3V",
+  "company": {
+    "identifier": "Wework",
+    "name": "Wework"
+  },
+  "releasedDate": "2024-12-16T14:42:15.531Z",
+  "location": {
+    "city": "Paris",
+    "region": "IDF",
+    "country": "fr",
+    "address": "42 Rue des Petites Écuries",
+    "postalCode": "75010",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "48.87406679999999",
+    "longitude": "2.3502172",
+    "fullLocation": "Paris, IDF, France"
+  },
+  "industry": {
+    "id": "government_administration",
+    "label": "Government Administration"
+  },
+  "department": {},
+  "function": {
+    "id": "analyst",
+    "label": "Analyst"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "associate",
+    "label": "Associate"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "fr",
+      "valueLabel": "France"
+    },
+    {
+      "fieldId": "62e3e757c8900e23d6a02b67",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Wework"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/wework/postings/744000032191419",
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

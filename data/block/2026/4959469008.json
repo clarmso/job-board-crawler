@@ -1,0 +1,155 @@
+{
+  "absolute_url": "http://block.xyz/careers/jobs/4959469008?gh_jid=4959469008",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "education": "education_optional",
+  "internal_job_id": 4352197008,
+  "location": {
+    "name": "Bay Area, CA, United States of America"
+  },
+  "metadata": [
+    {
+      "id": 4185033008,
+      "name": "Career Site Function",
+      "value": "Artificial Intelligence",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4185041008,
+      "name": "Brands",
+      "value": "Cash App",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4185056008,
+      "name": "Position open to remote",
+      "value": true,
+      "value_type": "yes_no"
+    },
+    {
+      "id": 4004901008,
+      "name": "Employee Type",
+      "value": "Regular",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4185035008,
+      "name": "Job Family Group",
+      "value": "Artificial Intelligence - JFG",
+      "value_type": "single_select"
+    },
+    {
+      "id": 5039617008,
+      "name": "Business Unit",
+      "value": "Cash",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4289626008,
+      "name": "Zone A Salary Range",
+      "value": {
+        "unit": "USD",
+        "max_value": "415200.0",
+        "min_value": "276800.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 4289627008,
+      "name": "Zone B Salary Range",
+      "value": {
+        "unit": "USD",
+        "max_value": "415200.0",
+        "min_value": "276800.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 4289628008,
+      "name": "Zone C Salary Range",
+      "value": {
+        "unit": "USD",
+        "max_value": "415200.0",
+        "min_value": "276800.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 4364919008,
+      "name": "Zone D Salary Range",
+      "value": {
+        "unit": "USD",
+        "max_value": "415200.0",
+        "min_value": "276800.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 4599884008,
+      "name": "Canada Zone A Pay Range",
+      "value": {
+        "unit": "CAD",
+        "max_value": "367800.0",
+        "min_value": "245200.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 4599885008,
+      "name": "Canada Zone B Pay Range",
+      "value": {
+        "unit": "CAD",
+        "max_value": "367800.0",
+        "min_value": "245200.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 14729580008,
+      "name": "EU Min to Max",
+      "value": {
+        "unit": "EUR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    }
+  ],
+  "id": 4959469008,
+  "updated_at": "2026-09-03T17:21:10-04:00",
+  "requisition_id": "R0004582",
+  "title": "Staff Applied Machine Learning Engineer - Intelligent Data, Signals & Systems",
+  "company_name": "Block",
+  "first_published": "2025-10-17T19:45:37-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;Block builds simple, powerful tools that make progress towards an economy that’s truly open to all.&lt;/p&gt;\n&lt;p&gt;Each of our brands unlocks different aspects of the economy for more people. Square makes commerce and financial services accessible to sellers. Cash App is the easy way to spend, send, and store money. Afterpay is transforming the way customers manage their spending over time. TIDAL is a music platform that empowers artists to thrive as entrepreneurs. Bitkey is a simple self-custody wallet built for bitcoin. Proto is a suite of bitcoin mining products and services. Together, we’re helping build a financial system that is open to everyone. Join us.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;The Role&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;As a Staff Applied Machine Learning Engineer focused on Intelligent Data, Signals &amp;amp; Systems, you will build production ML systems that transform customer behavior, product context, model outputs, and feedback loops into trusted signals used by recommendations, ranking, risk-aware decisioning, growth, and customer intelligence systems.&lt;/p&gt;\n&lt;p&gt;This role centers on customer intelligence and reusable model-derived signal systems: ranking and retrieval, recommendations, search, propensity and churn/LTV, next-best-action decisioning, experimentation, and feedback loops. These systems help product, growth, fraud, and risk teams make better decisions with clear freshness, provenance, confidence, and evaluation guarantees.&lt;/p&gt;\n&lt;p&gt;The work combines production ML systems with composable signal interfaces that can be consumed by product surfaces, decision engines, internal tools, and verified AI-assisted workflows. The role is flexible across Applied ML Engineering domains while still requiring deep expertise.&lt;/p&gt;\n&lt;h4&gt;&lt;strong&gt;You Will&lt;/strong&gt;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Build and operate production ML systems that turn customer and product context into trusted signals, rankings, recommendations, and decision capabilities.&lt;/li&gt;\n&lt;li&gt;Design production data and signal contracts that define intended use, freshness, provenance, confidence, eligibility, and calibration for downstream consumers.&lt;/li&gt;\n&lt;li&gt;Own ranking, retrieval, recommendation, search, propensity, and next-best-action systems end to end, from feature and candidate generation through serving, experimentation, monitoring, and feedback loops.&lt;/li&gt;\n&lt;li&gt;Evaluate customer and business impact beyond short-term conversion, including trust, fairness, access, risk, compliance, long-term engagement, and segment-level performance.&lt;/li&gt;\n&lt;li&gt;Partner across product, growth, data, platform, modeling, risk, and compliance to translate ambiguous goals into measurable ML system designs.&lt;/li&gt;\n&lt;li&gt;Use AI and agents to accelerate development, analysis, testing, documentation, and operations while exposing reusable capabilities to product services, internal tools, and AI-assisted workflows.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;&lt;strong&gt;You Have&lt;/strong&gt;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;12+ years building and operating production software and ML systems for business-critical products.&lt;/li&gt;\n&lt;li&gt;Deep expertise in intelligent systems such as ranking/retrieval, recommendations, search, personalization, growth and lifecycle ML, customer intelligence, propensity/churn/LTV, next-best-action, or model-derived risk signals.&lt;/li&gt;\n&lt;li&gt;Strong production ML judgment across feature pipelines, model serving, experimentation, monitoring, feedback loops, online/offline consistency, and reliable signal interfaces.&lt;/li&gt;\n&lt;li&gt;Ability to evaluate impact beyond short-term conversion, including trust, fairness, access, risk, compliance, and long-term engagement.&lt;/li&gt;\n&lt;li&gt;Experience using AI-assisted engineering tools with appropriate verification, testing, and review for customer-impacting systems.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;Nice to Have&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience with semantic retrieval, embeddings, two-tower models, graph features, LLM-powered retrieval or decision systems, entity resolution, or real-time personalization.&lt;/li&gt;\n&lt;li&gt;Experience with experimentation, online evaluation, interleaving, counterfactual evaluation, multi-objective optimization, or long-term holdouts.&lt;/li&gt;\n&lt;li&gt;Experience building reusable feature/signal platforms, decision services, customer intelligence layers, model-derived data products, or agent-assisted operations.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;&lt;strong&gt;Technologies We Use and Teach&lt;/strong&gt;&lt;/h4&gt;\n&lt;p&gt;We do not expect candidates to have used our exact stack. We do expect strong production engineering fundamentals, deep domain expertise in intelligent ML systems, and judgment about how ML-derived signals should be used safely in customer-impacting products. Examples of technologies and methods include:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Python, Java, Kotlin, SQL.&lt;/li&gt;\n&lt;li&gt;TensorFlow, PyTorch, XGBoost/LightGBM, ranking/retrieval systems, embeddings, semantic search, recommendation frameworks.&lt;/li&gt;\n&lt;li&gt;Event streams, batch pipelines, feature stores, model-serving infrastructure, workflow orchestration, experimentation systems, and data warehouses/lakehouses.&lt;/li&gt;\n&lt;li&gt;Cloud infrastructure, Kubernetes, observability tooling, coding agents, evaluation harnesses, and agent-assisted operations tooling.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;We’re working to build a more inclusive economy where our customers have equal access to opportunity, and we strive to live by these same values in building our workplace. Block is an equal opportunity employer evaluating all employees and job applicants without regard to identity or any legally protected class. We will consider qualified applicants with arrest or conviction records for employment in accordance with state and local laws and “fair chance” ordinances.&lt;br&gt;&lt;br&gt;We believe in being fair, and are committed to an inclusive interview experience, including providing reasonable accommodations to disabled applicants throughout the recruitment process. We encourage applicants to share any needed accommodations with their recruiter, who will treat these requests as confidentially as possible. &lt;strong&gt;Want to learn more about what we’re doing to build a workplace that is fair and square? Check out our&lt;/strong&gt; &lt;a href=&quot;https://block.xyz/news/inclusion&quot;&gt;I+D page&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;While there is no specific deadline to apply for this role, U.S. roles are typically open for an average of 55 days before being filled by a successful candidate. Please refer to the date listed at the top of this job page for when this role was first posted.&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Block takes a market-based approach to pay, and pay may vary depending on your location. U.S. locations are categorized into one of four zones based on a cost of labor index for that geographic area. The successful candidate’s starting pay will be determined based on job-related skills, experience, qualifications, work location, and market conditions. These ranges may be modified in the future.&lt;/p&gt;\n&lt;p&gt;To find a location’s zone designation, please refer to this&amp;nbsp;&lt;a href=&quot;https://block.xyz/documents/salaryzones.pdf&quot; target=&quot;_blank&quot;&gt;resource&lt;/a&gt;. If a location of interest is not listed, please speak with a recruiter for additional information.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;Zone A:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$276,800&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$415,200 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;title&quot;&gt;Zone B: &lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$276,800&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$415,200 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;title&quot;&gt;Zone C:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$276,800&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$415,200 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;title&quot;&gt;Zone D:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$276,800&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$415,200 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;Application Guidelines&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Candidates may submit up to 9 active applications within a 60-day period. Reapplications to the same role are accepted 90 days after a previous application has been reviewed.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Use of AI in Our Hiring Process&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We may use automated AI tools to evaluate job applications for efficiency and consistency. These tools comply with local regulations, including bias audits, and we handle all personal data in accordance with state and local privacy laws.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Contact us &lt;a href=&quot;https://privacy.block.xyz/privacyportal/form&quot;&gt;here&lt;/a&gt;&amp;nbsp;with hiring practice or data usage questions.&lt;/p&gt;\n&lt;p&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;Every benefit we offer is designed with one goal: empowering you to do the best work of your career while building the life you want. Remote work, medical insurance, flexible time off, retirement savings plans, and modern family planning are just some of our offering.&amp;nbsp;&lt;/em&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;&lt;a class=&quot;c-link c-link--underline&quot; href=&quot;https://block.xyz/employee-benefits&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://block.xyz/documents/benefits.pdf&quot; data-sk=&quot;tooltip_parent&quot;&gt;Check out our other benefits at Block.&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Block, Inc. (NYSE: XYZ) builds technology to increase access to the global economy. Each of our brands unlocks different aspects of the economy for more people.&amp;nbsp;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Square&lt;/strong&gt;&amp;nbsp;makes commerce and financial services accessible to sellers.&amp;nbsp;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Cash App&lt;/strong&gt;&amp;nbsp;is the easy way to spend, send, and store money.&amp;nbsp;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Afterpay&lt;/strong&gt;&amp;nbsp;is transforming the way customers manage their spending over time.&amp;nbsp;&lt;strong data-stringify-type=&quot;bold&quot;&gt;TIDAL&lt;/strong&gt;&amp;nbsp;is a music platform that empowers artists to thrive as entrepreneurs.&amp;nbsp;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Bitkey&lt;/strong&gt;&amp;nbsp;is a simple self-custody wallet built for bitcoin.&amp;nbsp;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Proto&lt;/strong&gt;&amp;nbsp;is a suite of bitcoin mining products and services. Together, we’re helping build a financial system that is open to everyone.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;a href=&quot;https://block.xyz/en/legal/applicant-privacy-notice&quot; target=&quot;_blank&quot;&gt;Privacy Policy&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4061229008,
+      "name": "10109 Risk - Risk ML & DS",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 4007802008,
+      "name": "US - CA - Bay Area - Remote",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 4004627008
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

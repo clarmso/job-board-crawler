@@ -80,15 +80,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "35f1abb1-6757-417b-9bf8-c76423f16021",
-            "summary": "Offers Bonus",
-            "compensationType": "Bonus",
-            "interval": "1 YEAR",
-            "currencyCode": "USD",
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "dd9c194a-4260-495c-bdd9-66a726ff3d63",
             "summary": "$160K – $190K",
             "compensationType": "Salary",
@@ -96,6 +87,15 @@
             "currencyCode": "USD",
             "minValue": 160000,
             "maxValue": 190000
+          },
+          {
+            "id": "35f1abb1-6757-417b-9bf8-c76423f16021",
+            "summary": "Offers Bonus",
+            "compensationType": "Bonus",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": null,
+            "maxValue": null
           }
         ]
       }

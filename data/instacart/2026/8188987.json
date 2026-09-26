@@ -1,0 +1,66 @@
+{
+  "absolute_url": "https://instacart.careers/job/?gh_jid=8188987",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 2873394,
+  "location": {
+    "name": "Canada - Remote (ON, AB, BC, or NS Only)"
+  },
+  "metadata": [
+    {
+      "id": 16452,
+      "name": "Employment Type",
+      "value": "Regular",
+      "value_type": "single_select"
+    },
+    {
+      "id": 740030,
+      "name": "Exemption Status",
+      "value": "Exempt",
+      "value_type": "single_select"
+    },
+    {
+      "id": 235666,
+      "name": "Time Type",
+      "value": "Full time",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8188987,
+  "updated_at": "2026-09-09T12:56:03-04:00",
+  "requisition_id": "EG705",
+  "title": "Software Engineer II, - Ads",
+  "company_name": "Instacart",
+  "first_published": "2026-09-09T12:56:03-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;We&#39;re transforming the grocery industry&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span class=&quot;im&quot;&gt;At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;Instacart has become a lifeline for millions of people, and we’re building the team to help push our shopping cart forward. If you’re ready to do the best work of your life, come join our table.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Instacart is a Flex First team &lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;There’s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work—whether it’s from home, an office, or your favorite coffee shop—while staying connected and building community through regular in-person events. &lt;a href=&quot;https://www.instacart.careers/flex-first&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://instacart.careers/remote/&amp;amp;source=gmail&amp;amp;ust=1651869232122000&amp;amp;usg=AOvVaw37OlxP8hAKN7nq4YwHQH7e&quot;&gt;Learn more about our flexible approach to where we work.&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Carrot Ads is Instacart&#39;s publisher advertising platform and one of its fastest-growing businesses. We power ads for enterprise retail partners like Uber Eats, Hy-Vee, and Thrive Market on their own storefronts, spanning Storefront, Storefront Pro, and the Connect / Carrot Ads API. As the first vertical team inside a historically horizontal Ads org, our scope is unusually broad: we own the publisher customer end to end while building on top of shared serving, measurement, and quality systems.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Retail media is consolidating, and Instacart is positioned to win on cross-retailer reach. Our goal is to become the premier grocery ads ecosystem for partners and advertisers — and getting there means turning an early externalization into an enterprise-grade platform that the world&#39;s most sophisticated retailers trust with their own storefronts. That is the problem you will help solve.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;As a Software Engineer II on Carrot Ads, you will independently build and ship features across the publisher-facing stack: the Connect / Carrot Ads API, publisher serving inputs, reporting, and the tooling partners use to run their ad businesses. You will write efficient, observable, well-tested code, own what you ship through production and on-call, and work as an away team into shared systems when a feature needs changes there. This is a high-visibility role inside one of Instacart&#39;s top growth areas, with real opportunity to own meaningful surfaces early in your career here.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;About the Job&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Build and ship publisher-facing features end to end across Storefront, Storefront Pro, and API partners — including API endpoints, serving inputs, reporting views, and configuration tooling that partners depend on daily.&lt;/li&gt;\n&lt;li&gt;Extend the Connect / Carrot Ads API with clear contracts, robust event handling and dead-letter recovery, integration tests, and self-serve documentation that makes partner onboarding faster and more reliable.&lt;/li&gt;\n&lt;li&gt;Build the retailer control surface: relevance and quality-score inputs, reserve pricing, ad-load controls, and the trade-off signals retailers use to tune performance on their own sites.&lt;/li&gt;\n&lt;li&gt;Strengthen reporting and data integrity across partner systems — including attribution, catalog and product-ID mapping, reconciliation, and automated health checks that keep partner data trustworthy.&lt;/li&gt;\n&lt;li&gt;Raise reliability by helping define and meet partner SLAs, improving observability, reducing incident frequency and time to recovery, and contributing to a unified partner-health monitoring layer.&lt;/li&gt;\n&lt;li&gt;Debug partner-facing serving and reporting issues, tracing root causes across shared serving, measurement, and quality systems.&lt;/li&gt;\n&lt;li&gt;Collaborate across Product, Enterprise Solutions, and the horizontal Ads teams — including Serving, Measurement, Ads Quality, and Ads Manager — to land work that spans multiple stacks.&lt;/li&gt;\n&lt;li&gt;Use AI-assisted developer tools to move faster without lowering the bar on quality or security.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;About You&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;You work well in ambiguity, like owning features end to end, and want the surface area of a fast-growing business alongside the depth of hard systems problems.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Minimum Qualifications&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;3+ years of experience building and operating production backend services.&lt;/li&gt;\n&lt;li&gt;Strong API design and distributed-systems fundamentals, with fluency in a backend language such as Go, Ruby, or Python.&lt;/li&gt;\n&lt;li&gt;Demonstrated track record of shipping features end to end with solid testing, observability, and operational ownership.&lt;/li&gt;\n&lt;li&gt;Experience debugging across service boundaries and collaborating across cross-functional teams.&lt;/li&gt;\n&lt;li&gt;Bachelor&#39;s degree in Computer Science or a related field, or equivalent practical experience.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Preferred Qualifications&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience in ad tech, retail media, or other publisher- or partner-facing platforms.&lt;/li&gt;\n&lt;li&gt;Familiarity with event streaming and reliability patterns at scale (e.g., Kafka, dead-letter queues, idempotent processing).&lt;/li&gt;\n&lt;li&gt;Cloud infrastructure experience with AWS or GCP, including data or measurement-adjacent systems.&lt;/li&gt;\n&lt;li&gt;Experience with data reconciliation, attribution, or catalog and entity mapping.&lt;/li&gt;\n&lt;li&gt;Experience building partner- or customer-facing APIs, including documentation, error contracts, and integration test coverage.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;#LI-Remote&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Instacart provides highly market-competitive compensation and benefits in each location where our employees work. This role is remote and the base pay range for a successful candidate is dependent on their permanent work location. Please review our Flex First remote work policy &lt;a href=&quot;https://instacart.careers/flex-first/&quot;&gt;here&lt;/a&gt;. Currently, we are only hiring in the following provinces: Ontario, Alberta, British Columbia, and Nova Scotia.&lt;/p&gt;\n&lt;p&gt;Offers may vary based on many factors, such as candidate experience and skills required for the role. Additionally, this role is eligible for a new hire equity grant as well as annual refresh grants. Please read more about our benefits offerings &lt;a href=&quot;https://instacart.careers/taste-of-instacart/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;For Canadian based candidates, the base pay ranges for a successful candidate are listed below.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;CAN&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$145,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$153,000 CAD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 50238,
+      "name": "Software Engineering",
+      "child_ids": [],
+      "parent_id": 4132
+    }
+  ],
+  "offices": [
+    {
+      "id": 6140,
+      "name": "Toronto",
+      "location": "Toronto, ON, Canada",
+      "child_ids": [],
+      "parent_id": 88198
+    }
+  ],
+  "ai_disclaimer": "<p>Instacart (Maplebear Inc. d/b/a Instacart) uses Greenhouse's Real Talent technology as part of our hiring process. Select \"Learn more\" for information on how these tools work, what data is involved, and your rights.&nbsp;</p>",
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": "http://app.greenhouse.io/ai_opt_out_request/job_post/8188987/ai_opt_out"
+}

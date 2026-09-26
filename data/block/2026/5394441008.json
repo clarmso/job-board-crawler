@@ -1,0 +1,155 @@
+{
+  "absolute_url": "http://block.xyz/careers/jobs/5394441008?gh_jid=5394441008",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "education": "education_optional",
+  "internal_job_id": 4534708008,
+  "location": {
+    "name": "Bay Area, CA, United States of America"
+  },
+  "metadata": [
+    {
+      "id": 4185033008,
+      "name": "Career Site Function",
+      "value": "Artificial Intelligence",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4185041008,
+      "name": "Brands",
+      "value": "Cash App",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4185056008,
+      "name": "Position open to remote",
+      "value": true,
+      "value_type": "yes_no"
+    },
+    {
+      "id": 4004901008,
+      "name": "Employee Type",
+      "value": "Regular",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4185035008,
+      "name": "Job Family Group",
+      "value": "Artificial Intelligence - JFG",
+      "value_type": "single_select"
+    },
+    {
+      "id": 5039617008,
+      "name": "Business Unit",
+      "value": "Cash",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4289626008,
+      "name": "Zone A Salary Range",
+      "value": {
+        "unit": "USD",
+        "max_value": "343100.0",
+        "min_value": "228700.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 4289627008,
+      "name": "Zone B Salary Range",
+      "value": {
+        "unit": "USD",
+        "max_value": "325900.0",
+        "min_value": "217300.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 4289628008,
+      "name": "Zone C Salary Range",
+      "value": {
+        "unit": "USD",
+        "max_value": "308900.0",
+        "min_value": "205900.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 4364919008,
+      "name": "Zone D Salary Range",
+      "value": {
+        "unit": "USD",
+        "max_value": "291700.0",
+        "min_value": "194500.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 4599884008,
+      "name": "Canada Zone A Pay Range",
+      "value": {
+        "unit": "CAD",
+        "max_value": "304000.0",
+        "min_value": "202600.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 4599885008,
+      "name": "Canada Zone B Pay Range",
+      "value": {
+        "unit": "CAD",
+        "max_value": "304000.0",
+        "min_value": "202600.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 14729580008,
+      "name": "EU Min to Max",
+      "value": {
+        "unit": "EUR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    }
+  ],
+  "id": 5394441008,
+  "updated_at": "2026-08-19T14:24:19-04:00",
+  "requisition_id": "1747",
+  "title": "Senior ML/AI Modeler, Risk Automation Machine Learning",
+  "company_name": "Block",
+  "first_published": "2026-08-19T14:24:19-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;Block is one company built from many blocks, all united by the same purpose of economic empowerment. The blocks that form our foundational teams — People, Finance, Counsel, Hardware, Information Security, Platform Infrastructure Engineering, and more — provide support and guidance at the corporate level. They work across business groups and around the globe, spanning time zones and disciplines to develop inclusive People policies, forecast finances, give legal counsel, safeguard systems, nurture new initiatives, and more. Every challenge creates possibilities, and we need different perspectives to see them all. Bring yours to Block.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;The Role&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;The Risk Automation ML team automates Risk and Compliance investigations and decision making at Block through the application of agentic and generative AI technology. We work globally with partners in Product, Engineering and Operations to ensure that we are providing a safe user experience for our customers while minimizing or eliminating bad activity on our platform.&lt;/p&gt;\n&lt;p&gt;We are leveraging agentic and generative AI as an integral part of our toolkit to fulfill our mission. Block&#39;s machine learning systems monitor billions of payment transactions across traditional payment and blockchain networks and surface suspicious activity (fraudulent, suspicious, illegal activity and brand violations) for trained Operations analyst review and decisioning. We are leveraging generative AI to accelerate historically manually intensive analyst workflows; by adding features in the investigative UX to accelerate agent productivity and enable them to make faster, more informed and accurate decisions (aka Copilots). We also automate workflows end to end completely eliminating the need for manual reviews (aka Autopilots).&lt;/p&gt;\n&lt;p&gt;This is a new and significant opportunity to rethink and optimize Risk Operations at Block at scale. This is an IC role, but the senior level has significant leadership responsibilities that include owning, and driving strategic roadmaps &amp;amp; priorities to completion by collaborating with relevant cross functional stakeholders.&lt;/p&gt;\n&lt;p&gt;(Work from anywhere: This role can be performed from any location in the United States and Canada)&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;You Will&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Experiment and deploy AI copilot and autopilot systems at scale to improve analyst productivity and/or eliminate manual decision loops altogether.&lt;/li&gt;\n&lt;li&gt;Own the end to end system including API calls to disparate data sources, advanced prompt tuning, orchestration, metrics and evaluation, productionization and monitoring.&lt;/li&gt;\n&lt;li&gt;Leverage diverse data sets that include payment transactions, connected users and asset graphs, unstructured text data and user profile information to build transformer based ML models to improve downstream detection tasks.&lt;/li&gt;\n&lt;li&gt;Work cross functionally with product, platform, engineering and operational stakeholders to deploy production grade systems and monitor and tune ongoing performance.&lt;/li&gt;\n&lt;li&gt;Use Python ML stack, LLMs, Pytorch, Snowflake, Airflow based tools, data platform and cloud services (both GCP &amp;amp; AWS) to get the job done.&lt;/li&gt;\n&lt;li&gt;Leverage agentic tools (Claude Code/Codex/Openclaw) to supercharge your research, development, devOps and documentation work as part of your day to day.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;You Have&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;8+ years of Machine Learning modeling experience. Full stack ML experience is strongly preferred.&lt;/li&gt;\n&lt;li&gt;A Masters or advanced degree in computer science, data science, operations research, applied math, stats, physics, or a related technical field.&lt;/li&gt;\n&lt;li&gt;3+ yrs experience with AI engineering, Large language models, and a background in traditional NLP techniques is a strong plus for this role.&lt;/li&gt;\n&lt;li&gt;End to end experience of building and deploying ML/AI to production systems (batch and real time) that are performant at scale.&lt;/li&gt;\n&lt;li&gt;Experience of independently owning, influencing and driving programs with multiple cross functional stakeholders that have significant business impact.&lt;/li&gt;\n&lt;li&gt;Have a curious, growth-oriented mindset and the ability to think in first principles to identify creative solutions that demonstrate value.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;We&#39;re working to build a more inclusive economy where our customers have equal access to opportunity, and we strive to live by these same values in building our workplace. Block is an equal opportunity employer evaluating all employees and job applicants without regard to identity or any legally protected class. We will consider qualified applicants with arrest or conviction records for employment in accordance with state and local laws and &quot;fair chance&quot; ordinances.&lt;/p&gt;\n&lt;p&gt;We believe in being fair, and are committed to an inclusive interview experience, including providing reasonable accommodations to disabled applicants throughout the recruitment process. We encourage applicants to share any needed accommodations with their recruiter, who will treat these requests as confidentially as possible. &lt;strong&gt;Want to learn more about what we&#39;re doing to build a workplace that is fair and square? Check out our&lt;/strong&gt; &lt;a href=&quot;https://block.xyz/news/inclusion&quot; target=&quot;_blank&quot;&gt;I+D page&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;While there is no specific deadline to apply for this role, U.S. roles are typically open for an average of 55 days before being filled by a successful candidate. Please refer to the date listed at the top of this job page for when this role was first posted.&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Block takes a market-based approach to pay, and pay may vary depending on your location. U.S. locations are categorized into one of four zones based on a cost of labor index for that geographic area. The successful candidate’s starting pay will be determined based on job-related skills, experience, qualifications, work location, and market conditions. These ranges may be modified in the future.&lt;/p&gt;\n&lt;p&gt;To find a location’s zone designation, please refer to this&amp;nbsp;&lt;a href=&quot;https://block.xyz/documents/salaryzones.pdf&quot; target=&quot;_blank&quot;&gt;resource&lt;/a&gt;. If a location of interest is not listed, please speak with a recruiter for additional information.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;Zone A:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$228,700&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$343,100 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;title&quot;&gt;Zone B: &lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$217,300&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$325,900 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;title&quot;&gt;Zone C:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$205,900&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$308,900 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;title&quot;&gt;Zone D:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$194,500&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$291,700 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;Application Guidelines&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Candidates may submit up to 9 active applications within a 60-day period. Reapplications to the same role are accepted 90 days after a previous application has been reviewed.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Use of AI in Our Hiring Process&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We may use automated AI tools to evaluate job applications for efficiency and consistency. These tools comply with local regulations, including bias audits, and we handle all personal data in accordance with state and local privacy laws.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Contact us &lt;a href=&quot;https://privacy.block.xyz/privacyportal/form&quot;&gt;here&lt;/a&gt;&amp;nbsp;with hiring practice or data usage questions.&lt;/p&gt;\n&lt;p&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;Every benefit we offer is designed with one goal: empowering you to do the best work of your career while building the life you want. Remote work, medical insurance, flexible time off, retirement savings plans, and modern family planning are just some of our offering.&amp;nbsp;&lt;/em&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;&lt;a class=&quot;c-link c-link--underline&quot; href=&quot;https://block.xyz/employee-benefits&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://block.xyz/documents/benefits.pdf&quot; data-sk=&quot;tooltip_parent&quot;&gt;Check out our other benefits at Block.&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Block, Inc. (NYSE: XYZ) builds technology to increase access to the global economy. Each of our brands unlocks different aspects of the economy for more people.&amp;nbsp;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Square&lt;/strong&gt;&amp;nbsp;makes commerce and financial services accessible to sellers.&amp;nbsp;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Cash App&lt;/strong&gt;&amp;nbsp;is the easy way to spend, send, and store money.&amp;nbsp;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Afterpay&lt;/strong&gt;&amp;nbsp;is transforming the way customers manage their spending over time.&amp;nbsp;&lt;strong data-stringify-type=&quot;bold&quot;&gt;TIDAL&lt;/strong&gt;&amp;nbsp;is a music platform that empowers artists to thrive as entrepreneurs.&amp;nbsp;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Bitkey&lt;/strong&gt;&amp;nbsp;is a simple self-custody wallet built for bitcoin.&amp;nbsp;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Proto&lt;/strong&gt;&amp;nbsp;is a suite of bitcoin mining products and services. Together, we’re helping build a financial system that is open to everyone.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;a href=&quot;https://block.xyz/en/legal/applicant-privacy-notice&quot; target=&quot;_blank&quot;&gt;Privacy Policy&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4061229008,
+      "name": "10109 Risk - Risk ML & DS",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 4007802008,
+      "name": "US - CA - Bay Area - Remote",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 4004627008
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

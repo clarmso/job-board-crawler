@@ -1,0 +1,108 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6191923004",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": true,
+      "requires_processing_consent": false,
+      "requires_retention_consent": true,
+      "retention_period": 1460,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 5214905004,
+  "location": {
+    "name": "United States, Remote"
+  },
+  "metadata": [
+    {
+      "id": 4367803004,
+      "name": "Cost Center",
+      "value": "GAMES4US70-USN1950183 Global Sec Risk - AM",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167524004,
+      "name": "Career Page - Office Location",
+      "value": "United States, San Diego, CA",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167525004,
+      "name": "Career Page - Department",
+      "value": "Information Security",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9377282004,
+      "name": "Career Page - Sub Department",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 20089613004,
+      "name": "Career Page - Studio Project",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 4395289004,
+      "name": "Worker Type",
+      "value": "Employee",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4404049004,
+      "name": "Country",
+      "value": "United States of America",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9262269004,
+      "name": "Job Family",
+      "value": "Technical/Info Security",
+      "value_type": "short_text"
+    },
+    {
+      "id": 9262270004,
+      "name": "Job Family Group",
+      "value": "Information Technology",
+      "value_type": "short_text"
+    },
+    {
+      "id": 21724118004,
+      "name": "Bungie Geo Pay",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 6191923004,
+  "updated_at": "2026-09-25T15:11:10-04:00",
+  "requisition_id": "R-125315",
+  "title": "Senior Security AI Risk Analyst",
+  "company_name": "PlayStation Global",
+  "first_published": "2026-09-25T15:11:10-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Why Sony Interactive Entertainment?&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Sony Interactive Entertainment isn’t just the Best Place to Play — it’s also the Best Place to Work. Sony Interactive Entertainment (SIE) is the company behind the PlayStation brand. As a subsidiary of Sony Group Corporation, we’re part of a proud legacy of innovation and excellence. SIE is a dynamic technology company, delivering cutting-edge hardware and network services to more than 100 million people and an entertainment leader, home to some of the most beloved and recognizable intellectual properties (IP) in the world. Our role at SIE is to create and nurture the experiences under the PlayStation brand, a name synonymous with entertainment excellence and creativity.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;Are you a curiosity driven technologist who can quickly understand how an AI system works, identify where it could be misused or fail, and help a team find a practical path forward? Sony Interactive Entertainment is seeking a Senior AI Security Risk Analyst to provide hands-on security support for AI systems, agents, workflows, tools, and integrations across SIE.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Role Summary:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;In this role, you will operate at the intersection of modern AI technology, security risk, architecture, and enablement.&amp;nbsp;You will conduct AI security reviews using SIE’s established security risk assessment methodology, policies, standards, and control expectations, adapting their application to AI-enabled and agentic systems and identifying where AI-specific guidance or controls are needed. You will coordinate risk-focused design and architecture input and translate AI-specific weaknesses into decision-ready recommendations and engineering actions.&lt;/p&gt;\n&lt;p&gt;You will serve as an approachable security partner, working cross-functionally with teams across SIE’s business units and functions to support a diverse range of AI use cases, systems, and technologies. You will work especially closely with Responsible AI &amp;amp; Governance and coordinate expertise across Information Security teams and IT &amp;amp; Engineering organizations.&lt;/p&gt;\n&lt;p&gt;This is a highly collaborative, fast-moving role for someone who enjoys working directly with teams, navigating ambiguity, and using AI tools themselves. You will be the primary hands-on practitioner in an emerging AI Security capability, partnering with the AI Security strategy lead and specialist teams across SIE.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What you’ll be doing:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Lead hands-on security risk reviews of AI use cases and systems from early design through launch readiness.&lt;/li&gt;\n&lt;li&gt;Assess end-to-end designs to identify material security risks, control gaps, data lineage and classification, and operational concerns.&lt;/li&gt;\n&lt;li&gt;Translate findings into practical, risk-based recommendations and partner with stakeholders to track resolution.&lt;/li&gt;\n&lt;li&gt;Serve as a trusted security partner by providing early consultation, education, and reusable guidance.&lt;/li&gt;\n&lt;li&gt;Coordinate with Responsible AI &amp;amp; Governance, relevant security and technical teams to deliver consistent, well-informed reviews.&lt;/li&gt;\n&lt;li&gt;Use security tooling and discovery insights to identify emerging risks, engage owners, and support appropriate remediation. Document reviews and findings within SIE GRC systems.&lt;/li&gt;\n&lt;li&gt;Improve AI security requirements, review practices, reference patterns, and supporting tools as technologies and risks evolve.&lt;/li&gt;\n&lt;li&gt;Track portfolio trends, communicate significant risks and recurring gaps, and escalate matters requiring additional expertise or risk authority.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;What We’re Looking For:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;6+ years of experience building, integrating, assessing, or securing technical systems, including significant recent hands-on work with generative AI.&lt;/li&gt;\n&lt;li&gt;Strong working knowledge of modern AI application stacks and the ability to interrogate designs, trace data and system interactions, and identify meaningful security weaknesses.&lt;/li&gt;\n&lt;li&gt;Sound understanding of security fundamentals - including identity, permissions, data protection, integrations, and monitoring – and ability to apply these to AI-enabled and agentic systems as well as mapping back to existing security policies and frameworks.&lt;/li&gt;\n&lt;li&gt;A practical builder mindset, with experience using AI tools, APIs, cloud services, code, or automation to explore systems and improve workflows.&lt;/li&gt;\n&lt;li&gt;Proven ability to build trust and influence across engineering, product, creative, business, and security teams.&lt;/li&gt;\n&lt;li&gt;Familiarity and ability to stay current with emerging AI technologies, evolving security risks, AI risk frameworks, and industry trends.&lt;/li&gt;\n&lt;li&gt;Strong communication, empathy, and sound judgment, with the creativity to challenge assumptions, navigate ambiguity, and build trust while operating independently in a fast-moving environment.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Desirable:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience with AI red teaming, adversarial testing, threat modeling, or security evaluations of LLM and agentic systems.&lt;/li&gt;\n&lt;li&gt;Experience with cloud-based AI platforms, third-party AI services, or enterprise security tooling.&lt;/li&gt;\n&lt;li&gt;Experience in gaming, interactive entertainment, creator technology, or similarly innovative product environments.&lt;/li&gt;\n&lt;li&gt;Experience reviewing complex technical designs and translating identified weaknesses into practical, prioritized recommendations that support timely delivery.&lt;/li&gt;\n&lt;li&gt;Relevant certifications are desirable and may include GIAC AI Platform Security (GAIPS), CISSP, CRISC, IAPP AI Governance Professional (AIGP), CCSK, CCSP, or equivalent AI, cloud, or security credentials.&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;At SIE, we consider several factors when setting each role’s base pay range, including the competitive benchmarking data for the market and geographic location.&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;br&gt;Please note that the base pay range may vary in line with our hybrid working policy and individual base pay will be determined based on job-related factors which may include knowledge, skills, experience, and location.&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;br&gt;In addition, this role &lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;is eligible&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; for SIE’s top-tier benefits package that includes medical, dental, vision, matching 401(k), paid time off, wellness program and coveted employee discounts for Sony products. &lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;This role also may be eligible for a bonus package.&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; Click&amp;nbsp;&lt;/span&gt;&lt;a href=&quot;https://careers.playstation.com/benefits&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; to learn more.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;The estimated base pay range for this role is listed below.&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$167,500&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$251,300 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p class=&quot;p1&quot;&gt;Please note, Sony Interactive Entertainment conducts background checks at the offer stage for all new employees (which may include criminal background checks for some roles) and will need to process personal information to support these checks.&lt;/p&gt;\n&lt;p class=&quot;p1&quot;&gt;Please refer to our&amp;nbsp;&lt;a href=&quot;https://www.playstation.com/legal/careers-privacy-notice/&quot; target=&quot;_blank&quot;&gt;Candidate Privacy Notice&lt;/a&gt;&amp;nbsp;for more information about what personal information we collect, how we use it, who we share it with, and your data protection rights.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Equal Opportunity Statement:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Sony is an Equal Opportunity Employer. All persons will receive consideration for employment without regard to gender (including gender identity, gender expression and gender reassignment), race (including colour, nationality, ethnic or national origin), religion or belief, marital or civil partnership status, disability, age, sexual orientation, pregnancy, maternity or parental status, trade union membership or membership in any other legally protected category.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;We strive to create an inclusive environment, empower employees and embrace diversity. We encourage everyone to respond.&amp;nbsp;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Sony Interactive Entertainment is a Fair Chance employer and qualified applicants with arrest and conviction records will be considered for employment.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4037267004,
+      "name": "Information Security",
+      "child_ids": [],
+      "parent_id": 4037179004
+    }
+  ],
+  "offices": [
+    {
+      "id": 4012032004,
+      "name": "USA-CA-San Diego-Via Esprillo",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 4089335004
+    }
+  ],
+  "ai_disclaimer": "<p><strong>Use of AI in Recruiting&nbsp;</strong></p><p><br></p><p>We use artificial intelligence and other automated tools to assist with certain aspects of our recruiting process, including reviewing applications and supporting candidate evaluation. For example, we use Greenhouse's AI-powered Talent Matching tool to compare information in your application against job-related qualifications and criteria established by our recruiting team. More information about <a href=\"https://www.greenhouse.com/\" target=\"_blank\">Greenhouse</a>, including about its features and its Privacy Policy, may be found at its website. These tools assist our recruiting team and do not make hiring decisions.&nbsp;</p><p><br></p>",
+  "include_ai_disclaimer": true,
+  "ai_opt_out_request_url": "http://app4.greenhouse.io/ai_opt_out_request/job_post/6191923004/ai_opt_out"
+}

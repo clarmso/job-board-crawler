@@ -1,0 +1,66 @@
+{
+  "absolute_url": "https://instacart.careers/job/?gh_jid=8154479",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 3528851,
+  "location": {
+    "name": "Israel - Hybrid (3 days/week in office required)"
+  },
+  "metadata": [
+    {
+      "id": 16452,
+      "name": "Employment Type",
+      "value": "Regular",
+      "value_type": "single_select"
+    },
+    {
+      "id": 740030,
+      "name": "Exemption Status",
+      "value": "Exempt",
+      "value_type": "single_select"
+    },
+    {
+      "id": 235666,
+      "name": "Time Type",
+      "value": "Full time",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8154479,
+  "updated_at": "2026-08-24T16:50:35-04:00",
+  "requisition_id": "PR00116",
+  "title": "iOS Developer",
+  "company_name": "Instacart",
+  "first_published": "2026-08-24T13:50:21-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;We&#39;re transforming the grocery industry&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span class=&quot;im&quot;&gt;At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;Instacart has become a lifeline for millions of people, and we’re building the team to help push our shopping cart forward. If you’re ready to do the best work of your life, come join our table.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Instacart is a Flex First team &lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;There’s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work—whether it’s from home, an office, or your favorite coffee shop—while staying connected and building community through regular in-person events. &lt;a href=&quot;https://www.instacart.careers/flex-first&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://instacart.careers/remote/&amp;amp;source=gmail&amp;amp;ust=1651869232122000&amp;amp;usg=AOvVaw37OlxP8hAKN7nq4YwHQH7e&quot;&gt;Learn more about our flexible approach to where we work.&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;At Arpalus, recently acquired by Instacart,&amp;nbsp; we build AI-powered computer vision and AR technology that turns a phone camera into a precise sensing tool - real-time object detection, scanning, and spatial understanding shipped as a mobile product. Our tech runs on real devices, in real environments, under messy real-world conditions.&lt;/p&gt;\n&lt;p&gt;We&#39;re a small, fast-moving team and we&#39;re looking for an iOS Developer who already works that way too.&lt;/p&gt;\n&lt;p&gt;You&#39;ll join our iOS development team and help craft best-in-class mobile experiences via our mobile SDK and iOS app and help us solve genuinely hard problems in computer vision and AR. You&#39;ll work hands-on and leverage GenAI tools to speed up development cycles and&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;In this role, you’ll partner closely with product, design, data science and backend to deliver new and unique features. You’ll help shape the iOS strategy for the team, influence technical direction across codebases, and ship high-quality, observable software at scale.&lt;/p&gt;\n&lt;p&gt;We value clear communication, practical problem solving, and ownership. If you thrive in a fast-paced, evolving environment where you can roll up your sleeves, make thoughtful tradeoffs, and see your work move key metrics, you’ll feel right at home here.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;About the Job&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Own and evolve our native iOS SDK (Swift) for AR-based shelf scanning.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Work on the core product recognition engine that powers real-time retail analytics -from ARKit scene understanding to CoreML inference to App Store distribution.&lt;/li&gt;\n&lt;li&gt;Build and optimize computer vision pipelines using Vision framework and CoreML&lt;/li&gt;\n&lt;li&gt;Implement AR experiences with ARKit for real-time shelf scanning&lt;/li&gt;\n&lt;li&gt;Package and distribute the SDK as XCFramework with proper signing and versioning&lt;/li&gt;\n&lt;li&gt;Manage the full App Store submission and TestFlight distribution process&lt;/li&gt;\n&lt;li&gt;Design clean, well-documented public APIs for SDK consumers&lt;/li&gt;\n&lt;li&gt;Profile and optimize performance for real-time inference on device&lt;/li&gt;\n&lt;li&gt;Deliver features end to end: technical design and clean architecture, implementation, phased rollout, observability to confirm impact, and on-call/incident response when needed.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;About You&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Minimum Qualifications&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;3+ years of native iOS development in Swift&lt;/li&gt;\n&lt;li&gt;Experience building and distributing iOS SDKs (XCFramework packaging, API design, documentation)&lt;/li&gt;\n&lt;li&gt;Hands-on experience with App Store Connect, TestFlight, and the full submission process&lt;/li&gt;\n&lt;li&gt;Understanding of ARKit and building AR experiences&lt;/li&gt;\n&lt;li&gt;Experience with on-device ML using CoreML or similar frameworks&lt;/li&gt;\n&lt;li&gt;Familiarity with Vision framework for image analysis&lt;/li&gt;\n&lt;li&gt;Solid debugging and performance profiling skills (Instruments, Metal debugger)&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Preferred Qualifications&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience with computer vision beyond Apple frameworks&lt;/li&gt;\n&lt;li&gt;Background in retail tech or inventory management systems&lt;/li&gt;\n&lt;li&gt;Experience integrating native SDKs with React Native or Expo&lt;/li&gt;\n&lt;li&gt;Familiarity with Fastlane for CI/CD automation&lt;/li&gt;\n&lt;/ul&gt;",
+  "departments": [
+    {
+      "id": 50239,
+      "name": "Mobile",
+      "child_ids": [],
+      "parent_id": 4132
+    }
+  ],
+  "offices": [
+    {
+      "id": 412021,
+      "name": "Remote - Israel",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 412020
+    }
+  ],
+  "ai_disclaimer": "<p>Instacart (Maplebear Inc. d/b/a Instacart) uses Greenhouse's Real Talent technology as part of our hiring process. Select \"Learn more\" for information on how these tools work, what data is involved, and your rights.&nbsp;</p>",
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": "http://app.greenhouse.io/ai_opt_out_request/job_post/8154479/ai_opt_out"
+}

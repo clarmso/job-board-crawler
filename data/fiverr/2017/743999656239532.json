@@ -1,0 +1,61 @@
+{
+  "id": "743999656239532",
+  "name": "HVAC Subcontractor, Plumber Subcontractor, Electrician Subcontractor, All-around Handyman",
+  "uuid": "1cd01223-f0d9-45c5-b537-66265ad342e3",
+  "jobAdId": "f46aa51f-430c-4d3d-af54-252dd2abf4a8",
+  "defaultJobAd": true,
+  "refNumber": "REF3H",
+  "company": {
+    "identifier": "Fiverr",
+    "name": "Fiverr"
+  },
+  "releasedDate": "2017-07-23T20:36:27.000Z",
+  "location": {
+    "city": "New York",
+    "region": "NY",
+    "country": "us",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "40.7127837",
+    "longitude": "-74.00594130000002",
+    "fullLocation": "New York, NY, United States"
+  },
+  "industry": {
+    "id": "electrical_manufacturing",
+    "label": "Electrical And Electronic Manufacturing"
+  },
+  "department": {},
+  "function": {
+    "id": "other",
+    "label": "Other"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "entry_level",
+    "label": "Entry Level"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "us",
+      "valueLabel": "United States"
+    },
+    {
+      "fieldId": "59723e55a2b011519ecb4c7f",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Fiverr"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/fiverr/postings/743999656239532",
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

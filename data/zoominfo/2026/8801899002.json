@@ -1,0 +1,72 @@
+{
+  "absolute_url": "https://www.zoominfo.com/careers?gh_jid=8801899002",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 6521969002,
+  "location": {
+    "name": "Remote"
+  },
+  "metadata": [
+    {
+      "id": 24710929002,
+      "name": "Job Family Group",
+      "value": "Engineering",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24711071002,
+      "name": "Time Type",
+      "value": "Full time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 101751589002,
+      "name": "Work Shift",
+      "value": "General Shift",
+      "value_type": "short_text"
+    },
+    {
+      "id": 4203585002,
+      "name": "LEGACY - Employment Type",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8801899002,
+  "updated_at": "2026-09-16T16:34:47-04:00",
+  "requisition_id": "JR108120",
+  "title": "Principal Product Manager - Vertical Data",
+  "company_name": "ZoomInfo Technologies LLC",
+  "first_published": "2026-09-16T16:34:47-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen–fast.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;The Role&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Depth is a differentiator in go-to-market data. Knowing a company exists is table stakes. Knowing its fleet, its franchise structure, its lenders, its benefits plans, and its real estate is what closes deals. That kind of depth only works if every record from every source resolves back to the right company and the right person, and almost nobody can do that at scale. ZoomInfo can. The entity resolution infrastructure we&#39;ve spent years building lets us stitch specialized datasets together into a single connected view of a business, and it&#39;s why vertical data is becoming a core part of how we grow our monetizable data assets. We&#39;re investing in the team behind it.&lt;/p&gt;\n&lt;p&gt;We&#39;re hiring a Principal Product Manager to own datasets end to end: where the data comes from, how it&#39;s built and resolved to ZoomInfo&#39;s company and contact universe, how it shows up across every surface we sell through, how it&#39;s priced and packaged, and how much revenue it generates. You&#39;ll also be the internal subject matter expert on these datasets: the data itself, the sources, the competitive landscape, and how customers actually use it.&lt;/p&gt;\n&lt;p&gt;We spend a lot of our time close to our strategic customers, working strategic opportunities directly with customers and our sales teams, shaping deals, and figuring out what a dataset needs to look like for a customer to actually buy it. Increasingly that means thinking in solutions, not single datasets. The most valuable thing we can do is package datasets together into workflows for a strategic vertical or a strategic customer, in a way that displaces the point solutions they&#39;re using today.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What You&#39;ll Own&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;The full lifecycle of a set of vertical datasets, which breaks down into three parts:&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Dataset development.&lt;/em&gt; Define what the dataset is and who it&#39;s for. Source the data (public records, partner licensing, our own extraction and classification). Set the bar for coverage, accuracy, and entity resolution against ZoomInfo&#39;s company and contact graph, and work with our data analysts to hit it. Decide what &quot;done&quot; looks like for a dataset and hold the line on it.&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Platform delivery.&lt;/em&gt; Partner with data engineering and platform engineering to get datasets out of the warehouse, into the GTM Data Store, and live across every surface: our APIs, MCP, and our applications. Write the requirements, define the use case queries, own the testing, drive the handoffs. This is the stage where most data products die. You&#39;ll make sure ours don&#39;t.&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Commercialization.&lt;/em&gt; Own pricing and packaging: how a dataset shows up in the price book, what&#39;s licensed in bulk versus consumed per record, what needs supplemental terms, how it bundles with core data and with other vertical datasets. We&#39;re investing more and more in the product-led motion alongside the sales-led one, so this means enabling both: making datasets discoverable and consumable in-product, and building the sales materials our teams need to sell them by vertical: enablement content, data reference guides, use cases, positioning. Then go sell with them.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What You&#39;ll Do&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Work strategic deals.&lt;/em&gt; Sit with sales on the accounts that matter. Get in front of customers, understand what they&#39;re actually trying to do with the data, and shape the dataset and the offer to fit. Some of this is presenting. A lot of it is listening and then going back and changing the product.&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Build solutions, not just datasets.&lt;/em&gt; Figure out how UCC filings and commercial property data become a prospecting workflow for a commercial banker, or how Form 5500 and insurance producer data become a cohesive platform for the benefits and insurance market. Package datasets into something a vertical buyer recognizes as built for them.&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Run point across data, engineering, and go-to-market.&lt;/em&gt; You&#39;re the person who knows where a dataset stands at every stage and is accountable for moving it forward. That means working with analysts on data quality, with engineering on delivery, with pricing and legal on terms, and with marketing on how it shows up in market.&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Prioritize a portfolio.&lt;/em&gt; There are more datasets we could build than we can build well. You&#39;ll help decide which ones get investment based on revenue potential, customer pull, and what makes the core data more valuable.&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Close the loop.&lt;/em&gt; What you learn from customers goes back into what we build next. What you learn from delivery goes back into how we build faster.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What We&#39;re Looking For&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Commercially minded.&lt;/em&gt; You think about products in terms of who pays for them and why. You&#39;ve owned a number, or been close enough to one that it changed how you prioritized. You&#39;re comfortable in pricing conversations and you know packaging is a product decision.&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Heavy customer-facing background.&lt;/em&gt; You&#39;ve spent real time in front of customers: enterprise product management with a lot of customer contact, solutions consulting, professional services, or a customer-facing role at a data company. You like it. You don&#39;t see customer calls as time away from the &quot;real&quot; product work.&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Experience building data solutions.&lt;/em&gt; You&#39;ve taken multiple datasets and turned them into a product or workflow that served a specific market, ideally in financial services, insurance, or another data-heavy vertical. You understand why a bundle of datasets wrapped in a workflow beats a data feed, and you&#39;ve competed against point solutions on that basis.&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Enjoys all of product management.&lt;/em&gt; Discovery, requirements, working with engineers, launch, enablement, pricing, and the unglamorous work of getting something actually shipped across multiple teams. Principal here means you can run the whole thing without a lot of scaffolding.&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Data fluency.&lt;/em&gt; You can work in SQL, you understand entity resolution and the tradeoffs between coverage, accuracy, and freshness, and you can look at a dataset and form your own opinion about whether it&#39;s any good. Experience with B2B data, data licensing, or data-as-a-service is a strong plus. Experience with public records, regulatory filings, or vertical-specific data sources is a plus too.&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Ownership and urgency.&lt;/em&gt; These are the two traits that predict success here. You take responsibility for outcomes, not deliverables. You move fast, make calls with incomplete information, and don&#39;t wait for process to exist before getting things done.&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Proficient with AI tooling.&lt;/em&gt; AI tooling has let us move fast and compress work that historically took days and weeks down to hours and minutes. Your first instinct should be to reach for AI tools to work fast and produce an incredible amount of output. We use Claude Code and similar tools across the team for building, analysis, and writing, and you should be comfortable working that way.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Why This Role&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Vertical data is a growth area for the company with executive sponsorship and real investment behind it. The datasets are live and generating revenue, customers are pulling, and the infrastructure to deliver across surfaces is in place. What we need is someone to own more of it.&lt;/p&gt;\n&lt;p&gt;You&#39;ll work with some of the largest enterprises in the world on data problems they care about, alongside a team of analysts, forward-deployed engineers, and AI-native builders. You&#39;ll have a direct line to the revenue your work produces. And you&#39;ll help define how ZoomInfo builds and sells specialized data for years to come.&lt;/p&gt;\n&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;#LI-AR2&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;#LI-REMOTE&lt;/span&gt;&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Actual compensation offered will be based on factors such as the candidate’s work location, qualifications, skills, experience and/or training. Your recruiter can share more information about the specific salary range for your desired work location during the hiring process. We want our employees and their families to thrive.&lt;/p&gt;\n&lt;p&gt;In addition to comprehensive benefits we offer holistic mind, body and lifestyle programs designed for overall well-being. Learn more about ZoomInfo benefits &lt;a class=&quot;c-link&quot; href=&quot;https://www.zoominfo.com/careers#benefits&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.zoominfo.com/careers#benefits&quot; data-sk=&quot;tooltip_parent&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;Below is the US base salary for this position. Additional compensation such as Bonus, Commission, Equity and other benefits may also apply.&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$151,900&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$238,700 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;About us:&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;ZoomInfo (NASDAQ: GTM) is the Go-To-Market Intelligence Platform that empowers businesses to grow faster with AI-ready insights, trusted data, and advanced automation. Its solutions provide more than 35,000 companies worldwide with a complete view of their customers, making every seller their best seller.&lt;/p&gt;\n&lt;p&gt;ZoomInfo is committed to protecting your privacy when you apply for jobs with us. Please review our Job Applicant &lt;a href=&quot;https://drive.google.com/file/d/1yiG-k0YX_sW10PiJk_xliDc3W-veJCrK/view?usp=drive_link&quot; target=&quot;_blank&quot;&gt;Privacy Notice&lt;/a&gt; for more details on how we handle your personal information.&lt;/p&gt;\n&lt;p&gt;ZoomInfo may use a software-based assessment as part of the recruitment process. More information about this tool, including the results of the most recent bias audit, is available &lt;a href=&quot;https://www.zoominfo.com/legal/nyc-local-law-144-notice&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;ZoomInfo is proud to be an equal opportunity employer, hiring based on qualifications, merit, and business needs, and does not discriminate based on protected status. We welcome all applicants and are committed to providing equal employment opportunities regardless of sex, race, age, color, national origin, sexual orientation, gender identity, marital status, disability status, religion, protected military or veteran status, medical condition, or any other characteristic protected by applicable law. We also consider qualified candidates with criminal histories in accordance with legal requirements.&lt;/p&gt;\n&lt;p&gt;For Massachusetts Applicants: It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability. ZoomInfo does not administer lie detector tests to applicants in any location.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4074874002,
+      "name": "942 Product Management - Data Management",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 4016432002,
+      "name": "Waltham",
+      "location": "Waltham, Massachusetts, United States",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

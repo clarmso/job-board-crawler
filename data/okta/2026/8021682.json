@@ -65,7 +65,7 @@
     }
   ],
   "id": 8021682,
-  "updated_at": "2026-09-21T12:43:00-04:00",
+  "updated_at": "2026-09-25T16:15:07-04:00",
   "requisition_id": "P25183_3477628",
   "title": "Staff Software Engineer - UI Platform",
   "company_name": "Okta",
@@ -82,6 +82,13 @@
     }
   ],
   "offices": [
+    {
+      "id": 19611,
+      "name": "San Francisco",
+      "location": "San Francisco, CA, United States",
+      "child_ids": [],
+      "parent_id": 67252
+    },
     {
       "id": 19614,
       "name": "Toronto",

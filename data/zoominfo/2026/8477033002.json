@@ -1,0 +1,72 @@
+{
+  "absolute_url": "https://www.zoominfo.com/careers?gh_jid=8477033002",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 6386034002,
+  "location": {
+    "name": "Bethesda, Maryland, United States; Vancouver, Washington, United States; Waltham, Massachusetts, United States"
+  },
+  "metadata": [
+    {
+      "id": 24710929002,
+      "name": "Job Family Group",
+      "value": "Engineering",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24711071002,
+      "name": "Time Type",
+      "value": "Full time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 101751589002,
+      "name": "Work Shift",
+      "value": "General Shift",
+      "value_type": "short_text"
+    },
+    {
+      "id": 4203585002,
+      "name": "LEGACY - Employment Type",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8477033002,
+  "updated_at": "2026-09-24T12:31:04-04:00",
+  "requisition_id": "JR107341",
+  "title": "Principal Product Manager, Agentic Orchestration",
+  "company_name": "ZoomInfo Technologies LLC",
+  "first_published": "2026-03-30T16:30:08-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen–fast.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You&#39;ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won&#39;t just contribute. You&#39;ll make things happen—fast.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;The Opportunity&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;ZoomInfo isn&#39;t adding AI to our products—we&#39;ve rebuilt around it. Our multi-agent orchestration platform powers intelligent automation across every product surface: Copilot, GTM Studio, MarketingOS, and beyond. Now we need someone to own the capability layer that determines what our agents can actually &lt;em&gt;do&lt;/em&gt;.&lt;/p&gt;\n&lt;p&gt;This role owns the agentic tools ecosystem—the MCP servers, LangChain integrations, and composable building blocks that give our agents their superpowers. Every new capability our agents gain flows through your platform. Every integration that connects ZoomInfo&#39;s intelligence to the broader ecosystem ships through your roadmap. When our agents book meetings, enrich records, trigger sequences, or orchestrate complex GTM workflows, they&#39;re executing tools you&#39;ve defined, optimized, and deployed.&lt;/p&gt;\n&lt;p&gt;The agentic tools landscape evolves weekly. New standards emerge. New integration patterns prove themselves. New orchestration primitives unlock capabilities that seemed impossible months ago. You&#39;ll operate at this frontier—evaluating what&#39;s production-ready versus what&#39;s research curiosity, and making the calls that shape how ZoomInfo&#39;s agents interact with the world.&lt;/p&gt;\n&lt;p&gt;This is infrastructure work with exponential leverage. Build one tool well, and every agent across every product benefits. Define one integration pattern correctly, and it becomes the template for dozens that follow. Your architectural decisions don&#39;t just ship features—they compound.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;What You&#39;ll Do&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;&lt;strong&gt;Own the Agentic Tools Platform&lt;/strong&gt; Define, build, and evolve the tool ecosystem that powers ZoomInfo&#39;s multi-agent orchestration system. You&#39;ll own the registry of capabilities agents can invoke, the standards for how tools are built, and the governance for how they&#39;re deployed. Balance the tension between enabling rapid tool development and maintaining the reliability that production agents demand.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Architect Integration Strategy&lt;/strong&gt; ZoomInfo&#39;s agents don&#39;t operate in isolation—they connect to CRMs, marketing automation platforms, communication tools, and data providers. Own the integration roadmap that expands agent capabilities through MCP servers, API connections, and partner ecosystems. Determine which integrations unlock disproportionate value, negotiate technical partnerships, and define the abstraction layers that make integrations composable rather than brittle.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Drive Agentic Execution Excellence&lt;/strong&gt; Tools are only valuable if agents use them effectively. Partner with ML engineers on tool selection optimization, prompt engineering for reliable tool invocation, and error handling patterns that make agents resilient. Own the feedback loops that surface tool failures, identify capability gaps, and translate production signals into platform improvements.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Enable Internal Tool Development&lt;/strong&gt; Multiple product teams need to extend agent capabilities for their specific domains. Build the developer experience—documentation, templates, testing frameworks, deployment pipelines—that lets teams ship new tools without deep platform expertise. Measure success through tool development velocity: how quickly can a new capability go from idea to production agent invocation?&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Navigate the Agentic Frontier&lt;/strong&gt; The standards are still being written. MCP evolves. New orchestration patterns emerge from research. Tool-use benchmarks reveal new optimization opportunities. You&#39;ll continuously evaluate innovations—function calling improvements, multi-tool planning, tool composition patterns—determining which advances warrant immediate adoption versus patient observation. Bring external best practices to ZoomInfo while contributing learnings back to the community.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Orchestrate Cross-Functional Execution&lt;/strong&gt; Translate between worlds: ML engineers optimizing agent reasoning, platform engineers building scalable execution infrastructure, and product teams shipping customer-facing automation. Establish prioritization frameworks that balance &quot;keep the lights on&quot; reliability work against strategic capability expansion. Influence without authority through data, clear reasoning, and earned technical credibility.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;What You&#39;ll Bring&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;12+ years of product management experience with 5+ years focused on AI/ML infrastructure, developer platforms, or integration products&lt;/li&gt;\n&lt;li&gt;Direct experience with production agentic systems—you&#39;ve shipped products where LLMs invoke tools, not just generate text&lt;/li&gt;\n&lt;li&gt;Hands-on familiarity with agentic frameworks (LangChain, LangGraph, CrewAI, or similar) and emerging standards (MCP, function calling patterns)&lt;/li&gt;\n&lt;li&gt;Track record building platform products where engineering teams are your customers&lt;/li&gt;\n&lt;li&gt;Experience with integration architecture—APIs, webhooks, authentication patterns, rate limiting, error handling at scale&lt;/li&gt;\n&lt;li&gt;History of defining product direction in fast-moving technical domains where you&#39;re often months ahead of established best practices&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;Who You Are&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;&lt;strong&gt;Applied AI Practitioner&lt;/strong&gt; You&#39;ve moved beyond AI hype into practical application. You understand why agents fail—context window limits, hallucinated tool calls, poor error recovery—and you&#39;ve built systems that work anyway. You can discuss prompt engineering trade-offs, evaluate tool description effectiveness, and debug agent execution traces. Python proficiency lets you prototype, validate assumptions, and speak credibly with engineers.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Context Engineering Intuition&lt;/strong&gt; Tools are only as good as the context agents have when invoking them. You understand how to design tool interfaces that give agents what they need to succeed—clear descriptions, appropriate parameters, useful error messages. You think about context budgets, information density, and the cognitive load you&#39;re placing on the orchestrating model.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Integration Systems Thinker&lt;/strong&gt; You&#39;ve built products that connect systems. You understand the unglamorous realities: authentication flows, rate limits, webhook reliability, schema evolution, partial failures. You know that &quot;integrate with Salesforce&quot; is a six-month roadmap item, not a two-week task. You design abstractions that hide complexity without sacrificing capability.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Platform Product Mindset&lt;/strong&gt; Your customers are other engineers and product teams. You measure success through their velocity—how quickly they can ship new agent capabilities using your platform. You understand platform economics: each team adopting your tools increases their value through shared learnings, amortized maintenance, and network effects. You resist one-off solutions that don&#39;t generalize.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Intellectual Velocity&lt;/strong&gt; You read agent papers, follow framework releases, and prototype new patterns before they&#39;re mainstream. You maintain strong opinions weakly held—your architectural assumptions update as evidence accumulates. The agentic landscape moves too fast for static expertise; continuous learning is non-negotiable.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Strategic Communication&lt;/strong&gt; You translate between technical depth and business impact fluently. You can explain to executives why adopting a new tool standard takes three months but prevents six months of technical debt. You can communicate to engineers why business constraints require shipping &quot;works reliably&quot; before &quot;works optimally.&quot; You influence through clarity, not authority.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;#LI-VC1&lt;/p&gt;\n&lt;p&gt;#LI-Remote&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Actual compensation offered will be based on factors such as the candidate’s work location, qualifications, skills, experience and/or training. Your recruiter can share more information about the specific salary range for your desired work location during the hiring process. We want our employees and their families to thrive.&lt;/p&gt;\n&lt;p&gt;In addition to comprehensive benefits we offer holistic mind, body and lifestyle programs designed for overall well-being. Learn more about ZoomInfo benefits &lt;a class=&quot;c-link&quot; href=&quot;https://www.zoominfo.com/careers#benefits&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.zoominfo.com/careers#benefits&quot; data-sk=&quot;tooltip_parent&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;Below is the US base salary for this position. Additional compensation such as Bonus, Commission, Equity and other benefits may also apply.&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$151,900&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$238,700 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;About us:&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;ZoomInfo (NASDAQ: GTM) is the Go-To-Market Intelligence Platform that empowers businesses to grow faster with AI-ready insights, trusted data, and advanced automation. Its solutions provide more than 35,000 companies worldwide with a complete view of their customers, making every seller their best seller.&lt;/p&gt;\n&lt;p&gt;ZoomInfo is committed to protecting your privacy when you apply for jobs with us. Please review our Job Applicant &lt;a href=&quot;https://drive.google.com/file/d/1yiG-k0YX_sW10PiJk_xliDc3W-veJCrK/view?usp=drive_link&quot; target=&quot;_blank&quot;&gt;Privacy Notice&lt;/a&gt; for more details on how we handle your personal information.&lt;/p&gt;\n&lt;p&gt;ZoomInfo may use a software-based assessment as part of the recruitment process. More information about this tool, including the results of the most recent bias audit, is available &lt;a href=&quot;https://www.zoominfo.com/legal/nyc-local-law-144-notice&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;ZoomInfo is proud to be an equal opportunity employer, hiring based on qualifications, merit, and business needs, and does not discriminate based on protected status. We welcome all applicants and are committed to providing equal employment opportunities regardless of sex, race, age, color, national origin, sexual orientation, gender identity, marital status, disability status, religion, protected military or veteran status, medical condition, or any other characteristic protected by applicable law. We also consider qualified candidates with criminal histories in accordance with legal requirements.&lt;/p&gt;\n&lt;p&gt;For Massachusetts Applicants: It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability. ZoomInfo does not administer lie detector tests to applicants in any location.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4074878002,
+      "name": "946 Product Management - ZI Marketing",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 4087439002,
+      "name": "Remote-US-TX",
+      "location": null,
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

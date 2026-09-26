@@ -39,7 +39,7 @@
     }
   ],
   "id": 8136547,
-  "updated_at": "2026-09-04T10:59:17-04:00",
+  "updated_at": "2026-09-25T12:12:10-04:00",
   "requisition_id": null,
   "title": "Principal Integrated Marketing Program Manager",
   "company_name": "Cloudflare",
@@ -60,6 +60,13 @@
       "id": 19983,
       "name": "Austin, TX",
       "location": "Austin, TX, United States",
+      "child_ids": [],
+      "parent_id": 48752
+    },
+    {
+      "id": 19991,
+      "name": "San Francisco, CA",
+      "location": "San Francisco, CA, United States",
       "child_ids": [],
       "parent_id": 48752
     }

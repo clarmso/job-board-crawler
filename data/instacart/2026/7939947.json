@@ -1,0 +1,66 @@
+{
+  "absolute_url": "https://instacart.careers/job/?gh_jid=7939947",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 3449661,
+  "location": {
+    "name": "Canada - Remote (ON, AB, BC, or NS Only)"
+  },
+  "metadata": [
+    {
+      "id": 16452,
+      "name": "Employment Type",
+      "value": "Regular",
+      "value_type": "single_select"
+    },
+    {
+      "id": 740030,
+      "name": "Exemption Status",
+      "value": "Exempt",
+      "value_type": "single_select"
+    },
+    {
+      "id": 235666,
+      "name": "Time Type",
+      "value": "Full time",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 7939947,
+  "updated_at": "2026-08-24T13:15:00-04:00",
+  "requisition_id": "EG960",
+  "title": "Senior Software Engineer, Ads",
+  "company_name": "Instacart",
+  "first_published": "2026-05-29T18:54:24-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;We&#39;re transforming the grocery industry&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span class=&quot;im&quot;&gt;At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;Instacart has become a lifeline for millions of people, and we’re building the team to help push our shopping cart forward. If you’re ready to do the best work of your life, come join our table.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Instacart is a Flex First team &lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;There’s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work—whether it’s from home, an office, or your favorite coffee shop—while staying connected and building community through regular in-person events. &lt;a href=&quot;https://www.instacart.careers/flex-first&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://instacart.careers/remote/&amp;amp;source=gmail&amp;amp;ust=1651869232122000&amp;amp;usg=AOvVaw37OlxP8hAKN7nq4YwHQH7e&quot;&gt;Learn more about our flexible approach to where we work.&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Are you ready to take your development skills to the next level? We’re looking for a Senior Software Engineer to join our Ads team. You’ll play a critical role in the evolution of our Ads suite and help build world-class reporting solutions across various platforms, ensuring that advertisers and retailers receive timely, accurate, and actionable data insights. By working closely with Product Designers, Product Managers, Data Scientists, Machine Learning Engineers, and other cross-functional partners, you’ll contribute to the advancement of our Ads suite and guarantee a seamless flow of data to our users.&lt;/p&gt;\n&lt;p&gt;The Instacart Ads team is at the forefront of refining our Ads products and supporting infrastructure, so your work will directly enhance our capability to process petabyte-scale data and deliver reports essential for billing, strategic decision-making, and partner management.&lt;/p&gt;\n&lt;p&gt;Our products are used by millions of people every year. To meet–and exceed–expectations we are rapidly improving and modernizing our ads platform, helping raise the quality bar for our products across the entire organization. Sound exciting? Keep reading.&lt;/p&gt;\n&lt;p&gt;The Ads team is a diverse group of spirited and highly-dedicated engineers focused on crafting and delivering comprehensive reporting solutions to our advertisers and retailers.&lt;/p&gt;\n&lt;p&gt;Our team thrives on dynamic challenges, and we take pride in developing and maintaining scalable and fault-tolerant metrics delivery systems. We&#39;ve embraced a culture of open and candid collaboration where everyone&#39;s views matter, allowing us to continuously innovate and make substantial impact to the digital advertising industry through our work.&lt;/p&gt;\n&lt;p&gt;Our tech stack includes but is not limited to Rails, Go, DBT, Airflow, Scala, Apache Spark, Databricks, Delta Lake, Snowflake, Python and Terraform. We believe in constantly learning, growing and adopting the most efficient practices that enable us to deliver quality data services to our stakeholders. If you&#39;re a detective at heart, love solving complex problems, and are passionate about the intersection of data and technology, you&#39;ll fit right in!&lt;/p&gt;\n&lt;p&gt;Overview of the Ads teams that are currently hiring:&amp;nbsp;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Ads Measurement &amp;amp; Data:&lt;strong&gt; &lt;/strong&gt;Our cutting-edge data team is responsible for building scalable, reliable, and maintainable ETLs and its underlying architecture and platform. We directly support critical internal and external systems and metrics such as billing, attribution, spam detection, etc. Our non-functional requirements are achieved through streaming and batch processing using Scala-Spark, Airflow, DBT, Python, and Go. If you&#39;re interested in working cross-functionally with several key stakeholders, helping shape our data strategy, building distributed systems, and solving complex data architecture challenges in a fast-paced, high-impact environment, this could be the opportunity for you!&lt;/li&gt;\n&lt;li&gt;Advertiser Optimization:&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;We power Instacart’s advertising business by creating innovative solutions that maximize ad performance and deliver measurable value to our partners. Through advanced algorithms, machine learning, and a robust data ecosystem, the team helps advertisers achieve their goals while driving Instacart’s revenue growth. By fostering a cycle of success for advertisers, they play a pivotal role in the company’s overall business success.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;About the Job&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;We believe that high-quality data is essential for any business organization, as such we are looking for a strong software engineer excited to raise our efficiency, quality and scalability bar. You will be able to have extensive ownership and the ability to help set best practices and contribute to product and infrastructure features.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;As a craft leader, you&#39;ll be responsible for contributing to the vision, strategy and development of our multi-platform reporting system that is efficient, scalable, and meets diverse user needs. You will advocate for data quality, correctness, scalability and latency standards to ensure consistency in how we enable data-driven decisions and features across the organization.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;You will also be proactive in spearheading new initiatives, coding and documenting components, writing and reviewing system design documents and partnering with other teams and functions to gather and understand our customer&#39;s requirements. You will think and plan strategically for short and long term initiatives to continue shaping our platform and products.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;About You&lt;/strong&gt;&lt;/h2&gt;\n&lt;h3&gt;Minimum Qualifications&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Bachelor&#39;s degree or higher in Computer Science, Software Engineering, or a related field, or equivalent proven industry experience (4+ years).&lt;/li&gt;\n&lt;li&gt;5+ years of experience in software engineering.&lt;/li&gt;\n&lt;li&gt;Comprehensive understanding of distributed systems, proven experience with data processing technologies such as DBT and Airflow and common web frameworks such as Rails.&lt;/li&gt;\n&lt;li&gt;Highly proficient with SQL, capable of writing and reviewing complex queries for data analysis and debugging.&lt;/li&gt;\n&lt;li&gt;You can design for scale with the entire system in mind.&lt;/li&gt;\n&lt;li&gt;Solid communicator, comfortable seeking and receiving feedback.&lt;/li&gt;\n&lt;li&gt;Strong analytical and debugging skills.&lt;/li&gt;\n&lt;li&gt;Strong sense of ownership working with a large codebase and diverse suite of products.&lt;/li&gt;\n&lt;li&gt;A collaborative mindset to be able to partner with engineers, designers and PM&#39;s from multiple teams to co-create impactful solutions while supporting system contributions.&lt;/li&gt;\n&lt;li&gt;Strong organizational skills with the ability to communicate and present ideas clearly and influence key stakeholders at the manager, director, and VP level.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Preferred Qualifications&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Prior work experience in the digital advertising industry.&lt;/li&gt;\n&lt;li&gt;Experience with big data technologies such as Spark, Hadoop, Flink, Hive or Kafka, and with both streaming and batching data pipelines.&lt;/li&gt;\n&lt;li&gt;Proven experience with distributed system design.&lt;/li&gt;\n&lt;li&gt;Strong general programming and algorithm skills.&lt;/li&gt;\n&lt;li&gt;Strong attention to detail and accuracy in the implementation, keen eye for edge cases and code reviews.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Data driven mindset.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;#LI-Remote&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Instacart provides highly market-competitive compensation and benefits in each location where our employees work. This role is remote and the base pay range for a successful candidate is dependent on their permanent work location. Please review our Flex First remote work policy &lt;a href=&quot;https://instacart.careers/flex-first/&quot;&gt;here&lt;/a&gt;. Currently, we are only hiring in the following provinces: Ontario, Alberta, British Columbia, and Nova Scotia.&lt;/p&gt;\n&lt;p&gt;Offers may vary based on many factors, such as candidate experience and skills required for the role. Additionally, this role is eligible for a new hire equity grant as well as annual refresh grants. Please read more about our benefits offerings &lt;a href=&quot;https://instacart.careers/taste-of-instacart/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;For Canadian based candidates, the base pay ranges for a successful candidate are listed below.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;CAN&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$168,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$177,500 CAD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 50238,
+      "name": "Software Engineering",
+      "child_ids": [],
+      "parent_id": 4132
+    }
+  ],
+  "offices": [
+    {
+      "id": 88202,
+      "name": "Remote - Canada",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 88198
+    }
+  ],
+  "ai_disclaimer": "<p>Instacart (Maplebear Inc. d/b/a Instacart) uses Greenhouse's Real Talent technology as part of our hiring process. Select \"Learn more\" for information on how these tools work, what data is involved, and your rights.&nbsp;</p>",
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": "http://app.greenhouse.io/ai_opt_out_request/job_post/7939947/ai_opt_out"
+}

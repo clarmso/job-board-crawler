@@ -1,0 +1,72 @@
+{
+  "absolute_url": "https://www.zoominfo.com/careers?gh_jid=8243004002",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 6267522002,
+  "location": {
+    "name": "Remote-US-CA"
+  },
+  "metadata": [
+    {
+      "id": 24710929002,
+      "name": "Job Family Group",
+      "value": "Engineering",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24711071002,
+      "name": "Time Type",
+      "value": "Full time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 101751589002,
+      "name": "Work Shift",
+      "value": "General Shift",
+      "value_type": "short_text"
+    },
+    {
+      "id": 4203585002,
+      "name": "LEGACY - Employment Type",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8243004002,
+  "updated_at": "2026-09-23T12:53:10-04:00",
+  "requisition_id": "JR106864",
+  "title": "Senior Software Engineer",
+  "company_name": "ZoomInfo Technologies LLC",
+  "first_published": "2025-11-20T16:47:21-05:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen–fast.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Summary: &lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;As a Senior Software Engineer on our Go To Market Store (GTM Store) and ZoomInfo Data Platform (ZDP) team, you&#39;ll play a pivotal role in developing ZoomInfo&#39;s next-generation unified data platform. You&#39;ll architect and implement infrastructure that powers our GraphQL-based federated query system for seamless data access across platforms including BigTable, BigQuery, and Solr+. This is a unique opportunity to influence the technical direction of ZoomInfo&#39;s core data infrastructure, addressing complex challenges such as data freshness, multi-tenant isolation, and real-time data processing at scale.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Responsibilities:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Design and build scalable infrastructure for GTM Store and ZDP with sub-second query latency.&lt;/li&gt;\n&lt;li&gt;Architect and implement metadata-driven GraphQL APIs for dynamic schema generation and query federation.&lt;/li&gt;\n&lt;li&gt;Develop asynchronous secondary indexing systems for scaling capacity and reducing primary data store load.&lt;/li&gt;\n&lt;li&gt;Design real-time analytics streaming data pipelines from BigTable to BigQuery.&lt;/li&gt;\n&lt;li&gt;Develop data mutation and deletion frameworks supporting GDPR compliance and schema evolution.&lt;/li&gt;\n&lt;li&gt;Implement CDC pipelines and calculated field processing for derived data views.&lt;/li&gt;\n&lt;li&gt;Build observability and monitoring solutions for real-time issue diagnosis across distributed data systems.&lt;/li&gt;\n&lt;li&gt;Create batch and streaming data processing workflows for complex relationships at scale.&lt;/li&gt;\n&lt;li&gt;Collaborate with engineering leaders and product managers to define the technical roadmap.&lt;/li&gt;\n&lt;li&gt;Mentor engineers and establish best practices for cloud-native data infrastructure development.&lt;/li&gt;\n&lt;li&gt;Partner with cross-functional teams to address data platform requirements and challenges.&lt;/li&gt;\n&lt;li&gt;Drive solutions for data freshness, query performance, and system reliability challenges.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Qualifications:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Bachelor&#39;s degree in Computer Science, Software Engineering, or related field (or equivalent experience).&lt;/li&gt;\n&lt;li&gt;10+ years of software engineering experience building large-scale data platforms.&lt;/li&gt;\n&lt;li&gt;Expertise with distributed NoSQL databases and data warehousing systems.&lt;/li&gt;\n&lt;li&gt;Strong experience with Java 8+, Scala, Kotlin, GoLang for data systems development.&lt;/li&gt;\n&lt;li&gt;Proven experience with GCP or AWS and cloud-native architectures.&lt;/li&gt;\n&lt;li&gt;Experience with streaming/real-time data processing technologies.&lt;/li&gt;\n&lt;li&gt;Strong system design skills for architecting multi-tenant, distributed systems.&lt;/li&gt;\n&lt;li&gt;Hands-on experience with Google Cloud Platform services.&lt;/li&gt;\n&lt;li&gt;Knowledge of CDC patterns, event sourcing, and streaming architectures.&lt;/li&gt;\n&lt;li&gt;Experience solving data freshness and consistency challenges in distributed systems.&lt;/li&gt;\n&lt;li&gt;Background in building observability and monitoring solutions for data platforms.&lt;/li&gt;\n&lt;li&gt;Familiarity with metadata management and schema evolution.&lt;/li&gt;\n&lt;li&gt;Experience with Kubernetes for deploying data services.&lt;/li&gt;\n&lt;li&gt;SQL query optimization and performance tuning expertise.&lt;/li&gt;\n&lt;li&gt;Experience building GraphQL APIs with federated or metadata-driven schema generation.&lt;/li&gt;\n&lt;li&gt;Strong problem-solving skills and the ability to debug complex distributed systems issues.&lt;/li&gt;\n&lt;li&gt;Excellent communication skills for explaining technical decisions to diverse audiences.&lt;/li&gt;\n&lt;li&gt;Self-directed with the ability to drive initiatives independently while collaborating with teams.&lt;/li&gt;\n&lt;li&gt;Passion for building reliable, observable, and maintainable systems.&lt;/li&gt;\n&lt;li&gt;Experience promoting diverse, inclusive work environments.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;#LI-SK1&lt;/p&gt;\n&lt;p&gt;#LI-Remote&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Actual compensation offered will be based on factors such as the candidate’s work location, qualifications, skills, experience and/or training. Your recruiter can share more information about the specific salary range for your desired work location during the hiring process. We want our employees and their families to thrive.&lt;/p&gt;\n&lt;p&gt;In addition to comprehensive benefits we offer holistic mind, body and lifestyle programs designed for overall well-being. Learn more about ZoomInfo benefits &lt;a class=&quot;c-link&quot; href=&quot;https://www.zoominfo.com/careers#benefits&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.zoominfo.com/careers#benefits&quot; data-sk=&quot;tooltip_parent&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;Below is the US base salary for this position. Additional compensation such as Bonus, Commission, Equity and other benefits may also apply.&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$140,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$220,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;About us:&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;ZoomInfo (NASDAQ: GTM) is the Go-To-Market Intelligence Platform that empowers businesses to grow faster with AI-ready insights, trusted data, and advanced automation. Its solutions provide more than 35,000 companies worldwide with a complete view of their customers, making every seller their best seller.&lt;/p&gt;\n&lt;p&gt;ZoomInfo is committed to protecting your privacy when you apply for jobs with us. Please review our Job Applicant &lt;a href=&quot;https://drive.google.com/file/d/1yiG-k0YX_sW10PiJk_xliDc3W-veJCrK/view?usp=drive_link&quot; target=&quot;_blank&quot;&gt;Privacy Notice&lt;/a&gt; for more details on how we handle your personal information.&lt;/p&gt;\n&lt;p&gt;ZoomInfo may use a software-based assessment as part of the recruitment process. More information about this tool, including the results of the most recent bias audit, is available &lt;a href=&quot;https://www.zoominfo.com/legal/nyc-local-law-144-notice&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;ZoomInfo is proud to be an equal opportunity employer, hiring based on qualifications, merit, and business needs, and does not discriminate based on protected status. We welcome all applicants and are committed to providing equal employment opportunities regardless of sex, race, age, color, national origin, sexual orientation, gender identity, marital status, disability status, religion, protected military or veteran status, medical condition, or any other characteristic protected by applicable law. We also consider qualified candidates with criminal histories in accordance with legal requirements.&lt;/p&gt;\n&lt;p&gt;For Massachusetts Applicants: It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability. ZoomInfo does not administer lie detector tests to applicants in any location.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4074795002,
+      "name": "935 Engineering - ZDP",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 4085444002,
+      "name": "Remote-US-CA",
+      "location": null,
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

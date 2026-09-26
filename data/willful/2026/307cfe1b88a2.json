@@ -1,0 +1,49 @@
+{
+  "id": "307cfe1b88a2",
+  "friendly_id": "307cfe1b88a2-partnerships-coordinator",
+  "name": "Partnerships Coordinator",
+  "url": "https://willful.breezy.hr/p/307cfe1b88a2-partnerships-coordinator",
+  "published_date": "2026-09-09T15:27:28.695Z",
+  "type": {
+    "id": "fullTime",
+    "name": "Full-Time"
+  },
+  "location": {
+    "country": {
+      "name": "Canada",
+      "id": "CA"
+    },
+    "primary": true,
+    "is_remote": true,
+    "remote_details": {
+      "value": "remote",
+      "label": "Fully remote, no location restrictions"
+    },
+    "name": "Canada",
+    "id": "f758e0065e27"
+  },
+  "department": "Partnerships",
+  "salary": "$50,000 – $60,000 / year",
+  "company": {
+    "name": "Willful",
+    "logo_url": null,
+    "friendly_id": "willful",
+    "isMultipleLocationsEnabled": false
+  },
+  "locations": [
+    {
+      "country": {
+        "name": "Canada",
+        "id": "CA"
+      },
+      "primary": true,
+      "is_remote": true,
+      "remote_details": {
+        "value": "remote",
+        "label": "Fully remote, no location restrictions"
+      },
+      "name": "Canada",
+      "id": "f758e0065e27"
+    }
+  ]
+}

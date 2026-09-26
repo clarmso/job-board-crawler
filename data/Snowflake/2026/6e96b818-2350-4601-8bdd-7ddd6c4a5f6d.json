@@ -1,0 +1,84 @@
+{
+  "id": "6e96b818-2350-4601-8bdd-7ddd6c4a5f6d",
+  "title": "Software Engineer - Postgres",
+  "department": "Engineering",
+  "team": "Engineering",
+  "employmentType": "FullTime",
+  "location": "US-CA-Menlo Park",
+  "shouldDisplayCompensationOnJobPostings": true,
+  "secondaryLocations": [
+    {
+      "location": "US-WA-Bellevue",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "Washington",
+          "addressCountry": "United States",
+          "addressLocality": "Bellevue"
+        }
+      }
+    }
+  ],
+  "publishedAt": "2026-09-25T22:42:33.837+00:00",
+  "isListed": true,
+  "isRemote": null,
+  "workplaceType": null,
+  "address": {
+    "postalAddress": {
+      "addressRegion": "California",
+      "addressCountry": "United States",
+      "addressLocality": "Menlo Park"
+    }
+  },
+  "jobUrl": "https://jobs.ashbyhq.com/Snowflake/6e96b818-2350-4601-8bdd-7ddd6c4a5f6d",
+  "applyUrl": "https://jobs.ashbyhq.com/Snowflake/6e96b818-2350-4601-8bdd-7ddd6c4a5f6d/application",
+  "descriptionHtml": "<p style=\"min-height:1.5em\">At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don’t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset — who rapidly test emerging capabilities to discover simpler, more powerful ways to deliver results. At Snowflake, your role isn't just to execute a function, but to help redefine the future of how work gets done.</p><p style=\"min-height:1.5em\">The <strong>Snowflake Postgres team</strong> is building a managed Postgres experience inside Snowflake.<strong> </strong>This role is focused on the control plane, where you have the opportunity to work on both on distributed systems at scale and also to work on research grade optimizations at various layers of the software stack <strong>including but not limited to provisioning, managing, securing, and operating Postgres in Snowflake</strong>. You will work on core backend systems that sit at the intersection of distributed systems, database infrastructure, security, and operational excellence.</p><p style=\"min-height:1.5em\"></p><h2><strong>In this role, you will:</strong></h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Design and build backend services that power provisioning, lifecycle management, and configuration of Snowflake Postgres instances.</p></li><li><p style=\"min-height:1.5em\">Develop features in the access and user model, including authorization, secure administration flows, and customer-facing management capabilities.</p></li><li><p style=\"min-height:1.5em\">Improve the reliability, observability, and operability of asynchronous workflows and background systems that keep the service healthy.</p></li><li><p style=\"min-height:1.5em\">Partner with product, security, and adjacent engineering teams to deliver simple customer experiences on top of complex infrastructure.</p></li><li><p style=\"min-height:1.5em\">Investigate production issues, participate in on-call, and drive fixes that improve resilience and reduce operational burden.</p></li><li><p style=\"min-height:1.5em\">Contribute to technical design, code review, and mentoring while helping raise the engineering bar across the team.</p></li></ul><h2><strong>Our ideal candidate will have:</strong></h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">2+ years of experience building production software in backend, infrastructure, or distributed systems environments.</p></li><li><p style=\"min-height:1.5em\">Strong programming skills in one or more of Java, Go, C++, or Python.</p></li><li><p style=\"min-height:1.5em\">Strong computer science fundamentals, including concurrency, networking, APIs, and data structures.</p></li><li><p style=\"min-height:1.5em\">Experience designing and operating reliable services in production, including debugging, monitoring, and incident response.</p></li><li><p style=\"min-height:1.5em\">Experience working across technical boundaries with product, security, and other engineering teams.</p></li><li><p style=\"min-height:1.5em\">BS/MS in Computer Science, Engineering, or a related field, or equivalent practical experience.</p></li></ul><h2><strong>Nice to have:</strong></h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Experience with PostgreSQL, database internals, or managed database platforms.</p></li><li><p style=\"min-height:1.5em\">Experience with identity, authorization, RBAC, or other security-sensitive systems.</p></li><li><p style=\"min-height:1.5em\">Experience with cloud infrastructure on AWS, Azure, or GCP.</p></li><li><p style=\"min-height:1.5em\">Experience with workflow orchestration, control plane systems, or highly asynchronous service architectures.</p></li></ul><h2><strong>Why join this team?</strong></h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Work on a strategic product area that expands Snowflake into transactional and operational database workloads</p></li><li><p style=\"min-height:1.5em\">Build systems that directly shape how customers create, manage, and secure Postgres inside Snowflake</p></li><li><p style=\"min-height:1.5em\">Tackle a mix of product engineering, infrastructure, reliability, and security problems.</p></li><li><p style=\"min-height:1.5em\">Join a collaborative team with meaningful ownership, strong technical challenges, and room to grow</p></li></ul><p style=\"min-height:1.5em\">Snowflake is growing fast, and we’re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake.</p><p style=\"min-height:1.5em\">How do you want to make your impact?</p><p style=\"min-height:1.5em\">For jobs located in the United States, please visit the job posting on the Snowflake Careers Site for salary and benefits information: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://careers.snowflake.com\">careers.snowflake.com</a></p>",
+  "descriptionPlain": "At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don’t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset — who rapidly test emerging capabilities to discover simpler, more powerful ways to deliver results. At Snowflake, your role isn't just to execute a function, but to help redefine the future of how work gets done.\n\nThe Snowflake Postgres team is building a managed Postgres experience inside Snowflake. This role is focused on the control plane, where you have the opportunity to work on both on distributed systems at scale and also to work on research grade optimizations at various layers of the software stack including but not limited to provisioning, managing, securing, and operating Postgres in Snowflake. You will work on core backend systems that sit at the intersection of distributed systems, database infrastructure, security, and operational excellence.\n\n\n\n\nIN THIS ROLE, YOU WILL:\n\n - Design and build backend services that power provisioning, lifecycle management, and configuration of Snowflake Postgres instances.\n\n - Develop features in the access and user model, including authorization, secure administration flows, and customer-facing management capabilities.\n\n - Improve the reliability, observability, and operability of asynchronous workflows and background systems that keep the service healthy.\n\n - Partner with product, security, and adjacent engineering teams to deliver simple customer experiences on top of complex infrastructure.\n\n - Investigate production issues, participate in on-call, and drive fixes that improve resilience and reduce operational burden.\n\n - Contribute to technical design, code review, and mentoring while helping raise the engineering bar across the team.\n\n\nOUR IDEAL CANDIDATE WILL HAVE:\n\n - 2+ years of experience building production software in backend, infrastructure, or distributed systems environments.\n\n - Strong programming skills in one or more of Java, Go, C++, or Python.\n\n - Strong computer science fundamentals, including concurrency, networking, APIs, and data structures.\n\n - Experience designing and operating reliable services in production, including debugging, monitoring, and incident response.\n\n - Experience working across technical boundaries with product, security, and other engineering teams.\n\n - BS/MS in Computer Science, Engineering, or a related field, or equivalent practical experience.\n\n\nNICE TO HAVE:\n\n - Experience with PostgreSQL, database internals, or managed database platforms.\n\n - Experience with identity, authorization, RBAC, or other security-sensitive systems.\n\n - Experience with cloud infrastructure on AWS, Azure, or GCP.\n\n - Experience with workflow orchestration, control plane systems, or highly asynchronous service architectures.\n\n\nWHY JOIN THIS TEAM?\n\n - Work on a strategic product area that expands Snowflake into transactional and operational database workloads\n\n - Build systems that directly shape how customers create, manage, and secure Postgres inside Snowflake\n\n - Tackle a mix of product engineering, infrastructure, reliability, and security problems.\n\n - Join a collaborative team with meaningful ownership, strong technical challenges, and room to grow\n\nSnowflake is growing fast, and we’re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake.\n\nHow do you want to make your impact?\n\nFor jobs located in the United States, please visit the job posting on the Snowflake Careers Site for salary and benefits information: careers.snowflake.com http://careers.snowflake.com",
+  "compensation": {
+    "compensationTierSummary": "$160K – $230K • Offers Equity",
+    "scrapeableCompensationSalarySummary": "$160K - $230K",
+    "compensationTiers": [
+      {
+        "id": "b3d81966-8ac8-4d3a-aad0-88873136f66d",
+        "tierSummary": "$160K – $230K • Offers Equity",
+        "title": null,
+        "additionalInformation": null,
+        "components": [
+          {
+            "id": "8e0d9b38-6ad6-4082-bce0-e5b3adde2aee",
+            "summary": "$160K – $230K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 160000,
+            "maxValue": 230000
+          },
+          {
+            "id": "0603b105-e9dc-404d-89e6-e137b0ca098d",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
+          }
+        ]
+      }
+    ],
+    "summaryComponents": [
+      {
+        "compensationType": "Salary",
+        "interval": "1 YEAR",
+        "currencyCode": "USD",
+        "minValue": 160000,
+        "maxValue": 230000
+      },
+      {
+        "compensationType": "EquityPercentage",
+        "interval": "NONE",
+        "currencyCode": null,
+        "minValue": null,
+        "maxValue": null
+      }
+    ]
+  }
+}
