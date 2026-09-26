@@ -15,7 +15,7 @@ This repo queries the job boards of selected companies and saves the job posting
 
 ### Sources
 
-- Hacker News "Who is Hiring?" — [Nov 2025](https://news.ycombinator.com/item?id=45800465), [Dec 2025](https://news.ycombinator.com/item?id=46108941), [Jan 2026](https://news.ycombinator.com/item?id=46466074), [Feb 2026](https://news.ycombinator.com/item?id=46857488), [Mar 2026](https://news.ycombinator.com/item?id=47219668), [Apr 2026](https://news.ycombinator.com/item?id=47601859), [May 2026](https://news.ycombinator.com/item?id=47975571), [Jun 2026](https://news.ycombinator.com/item?id=48357725), [Jul 2026](https://news.ycombinator.com/item?id=48747976)
+- Hacker News "Who is Hiring?" — [Nov 2025](https://news.ycombinator.com/item?id=45800465), [Dec 2025](https://news.ycombinator.com/item?id=46108941), [Jan 2026](https://news.ycombinator.com/item?id=46466074), [Feb 2026](https://news.ycombinator.com/item?id=46857488), [Mar 2026](https://news.ycombinator.com/item?id=47219668), [Apr 2026](https://news.ycombinator.com/item?id=47601859), [May 2026](https://news.ycombinator.com/item?id=47975571), [Jun 2026](https://news.ycombinator.com/item?id=48357725), [Jul 2026](https://news.ycombinator.com/item?id=48747976), [Aug 2026](https://news.ycombinator.com/item?id=49156683)
 - [Communitech Work in Tech](https://www1.communitech.ca/companies) — Waterloo Region member directory
 - [BetaKit](https://betakit.com) — Canadian tech news coverage
 - [Terminal](https://www.terminal.io/success-stories) — nearshore talent platform customers
