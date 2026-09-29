@@ -1,0 +1,66 @@
+{
+  "absolute_url": "https://instacart.careers/job/?gh_jid=8237393",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 3564532,
+  "location": {
+    "name": "Canada - Remote (ON, AB, BC, or NS Only)"
+  },
+  "metadata": [
+    {
+      "id": 16452,
+      "name": "Employment Type",
+      "value": "Regular",
+      "value_type": "single_select"
+    },
+    {
+      "id": 740030,
+      "name": "Exemption Status",
+      "value": "Exempt",
+      "value_type": "single_select"
+    },
+    {
+      "id": 235666,
+      "name": "Time Type",
+      "value": "Full time",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8237393,
+  "updated_at": "2026-09-28T12:37:46-04:00",
+  "requisition_id": "R017530",
+  "title": "Sr Software Engineer II - Ads Manager (Front End)",
+  "company_name": "Instacart",
+  "first_published": "2026-09-28T12:37:46-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;We&#39;re transforming the grocery industry&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span class=&quot;im&quot;&gt;At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;Instacart has become a lifeline for millions of people, and we’re building the team to help push our shopping cart forward. If you’re ready to do the best work of your life, come join our table.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Instacart is a Flex First team &lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;There’s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work—whether it’s from home, an office, or your favorite coffee shop—while staying connected and building community through regular in-person events. &lt;a href=&quot;https://www.instacart.careers/flex-first&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://instacart.careers/remote/&amp;amp;source=gmail&amp;amp;ust=1651869232122000&amp;amp;usg=AOvVaw37OlxP8hAKN7nq4YwHQH7e&quot;&gt;Learn more about our flexible approach to where we work.&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;The Ads Manager team builds the core self-serve platform that brands, agencies, and retailers use to create, manage, and optimize their advertising campaigns on Instacart. We own the campaign creation flows, creative management, reporting dashboards, and design system foundations that power it.&lt;/p&gt;\n&lt;p&gt;We are hiring a Senior Frontend Engineer II (L6) to co-own the technical roadmap for our advertiser-facing experience, modernize our frontend architecture, and scale complex campaign management and reporting interfaces while elevating our component library, design system, performance, and accessibility across the platform.&lt;/p&gt;\n&lt;p&gt;You’ll partner closely with Product, Design, Backend, and Data Science teams to build reusable UI abstractions and deliver high-impact features across pillars such as Campaign Activation, Creative &amp;amp; Reporting, Design System &amp;amp; Platform, Performance &amp;amp; Accessibility, and novel AI initiatives.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;About the Job&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;As a Senior II Frontend Engineer (L6) on the Ads Manager team, you will own the team’s frontend technical direction and lead large, multi-quarter initiatives that shape how advertisers plan, launch, and optimize campaigns on Instacart. You’ll define key architectural patterns, improve developer productivity and observability, and act as a primary technical partner to product, design, data science, and backend teams.&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Lead the technical roadmap and architecture for Ads Manager’s web applications, balancing near-term delivery with long-term scalability and extensibility.&lt;/li&gt;\n&lt;li&gt;Design, build, and maintain high-quality React UIs for campaign creation, management, reporting, and optimization.&lt;/li&gt;\n&lt;li&gt;Define and evolve shared components, state management, and abstractions that make the surface easier to extend and maintain.&lt;/li&gt;\n&lt;li&gt;Partner with backend teams on API and data contracts that enable robust, observable, and cost-efficient systems.&lt;/li&gt;\n&lt;li&gt;Collaborate with other frontend leads and peers across the company to build alignment on frontend standards and best practices.&lt;/li&gt;\n&lt;li&gt;Champion observability, performance, and reliability for Ads Manager, including metrics, logging, tracing, and on-call readiness for critical flows.&lt;/li&gt;\n&lt;li&gt;Proactively drive modernization and technical debt paydown, including migrations and refactors of legacy frontend code.&lt;/li&gt;\n&lt;li&gt;Embed security-by-design into frontend architecture and lead response for significant security or reliability issues touching Ads Manager UI.&lt;/li&gt;\n&lt;li&gt;Propose and lead team-wide and cross-team initiatives on behalf of the EM, aligning stakeholders and driving execution across Ads and partner teams.&lt;/li&gt;\n&lt;li&gt;Actively work with designers to build a best-in-class experience for users.&lt;/li&gt;\n&lt;li&gt;Mentor and sponsor engineers up to L5, improve onboarding and team practices, and help resolve cross-team execution issues.&lt;/li&gt;\n&lt;li&gt;Help define how the team uses AI-assisted development tools (for code, tests, and refactors), including patterns and best practices.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;About You&lt;/strong&gt;&lt;/h3&gt;\n&lt;h4&gt;&lt;strong&gt;Minimum Qualifications&lt;/strong&gt;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;8+ years of experience building modern web applications, with substantial ownership of complex, user-facing products.&lt;/li&gt;\n&lt;li&gt;Deep expertise in &lt;a href=&quot;http://node.js&quot;&gt;Node.js&lt;/a&gt; and React (hooks, state management, performance tuning) in large codebases.&lt;/li&gt;\n&lt;li&gt;Strong skills in frontend architecture: modularization, shared components, routing, data fetching, and error handling.&lt;/li&gt;\n&lt;li&gt;Experience designing and integrating with REST and/or GraphQL APIs, working closely with backend teams.&lt;/li&gt;\n&lt;li&gt;Proven track record leading large, ambiguous, multi-stakeholder projects from design through rollout and operations.&lt;/li&gt;\n&lt;li&gt;Demonstrated impact on team productivity and code health through abstractions, tooling, testing, and CI improvements.&lt;/li&gt;\n&lt;li&gt;Experience with monitoring and observability for web apps (e.g., Datadog or similar).&lt;/li&gt;\n&lt;li&gt;Comfortable using AI-assisted developer tools in day-to-day work and interested in scaling their use across the team.&lt;/li&gt;\n&lt;li&gt;Excellent communication and collaboration skills with engineers, PMs, designers, and other partners.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;&lt;strong&gt;Preferred Qualifications&lt;/strong&gt;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience leading large-scale, data-heavy UIs such as analytics dashboards, editors, or complex workflows.&lt;/li&gt;\n&lt;li&gt;Hands-on experience with GraphQL at scale (schemas, client patterns, performance).&lt;/li&gt;\n&lt;li&gt;Experience with automation testing frameworks such as Selenium, Cypress, or Playwright.&lt;/li&gt;\n&lt;li&gt;Deep experience with frontend performance and reliability (bundle optimization, code-splitting, resiliency patterns).&lt;/li&gt;\n&lt;li&gt;Led modernization efforts or major migrations (framework upgrades, design system adoption, legacy deprecation).&lt;/li&gt;\n&lt;li&gt;Experience with common design tools such as Figma.&lt;/li&gt;\n&lt;li&gt;Track record mentoring L3–L5 engineers and acting as a go-to expert for a domain or surface area.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p class=&quot;p1&quot;&gt;#LI-Remote&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Instacart provides highly market-competitive compensation and benefits in each location where our employees work. This role is remote and the base pay range for a successful candidate is dependent on their permanent work location. Please review our Flex First remote work policy &lt;a href=&quot;https://instacart.careers/flex-first/&quot;&gt;here&lt;/a&gt;. Currently, we are only hiring in the following provinces: Ontario, Alberta, British Columbia, and Nova Scotia.&lt;/p&gt;\n&lt;p&gt;Offers may vary based on many factors, such as candidate experience and skills required for the role. Additionally, this role is eligible for a new hire equity grant as well as annual refresh grants. Please read more about our benefits offerings &lt;a href=&quot;https://instacart.careers/taste-of-instacart/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;For Canadian based candidates, the base pay ranges for a successful candidate are listed below.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;CAN&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$196,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$207,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 50238,
+      "name": "Software Engineering",
+      "child_ids": [],
+      "parent_id": 4132
+    }
+  ],
+  "offices": [
+    {
+      "id": 88202,
+      "name": "Remote - Canada",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 88198
+    }
+  ],
+  "ai_disclaimer": "<p>Instacart (Maplebear Inc. d/b/a Instacart) uses Greenhouse's Real Talent technology as part of our hiring process. Select \"Learn more\" for information on how these tools work, what data is involved, and your rights.&nbsp;</p>",
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": "http://app.greenhouse.io/ai_opt_out_request/job_post/8237393/ai_opt_out"
+}

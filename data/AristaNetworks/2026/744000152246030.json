@@ -1,0 +1,79 @@
+{
+  "id": "744000152246030",
+  "name": "Cloud Business Manager",
+  "uuid": "f467ae6a-7744-4d45-a973-9a2caf4ffb28",
+  "jobAdId": "2df6e845-25cd-45b8-90bc-dd6581dcb85e",
+  "defaultJobAd": true,
+  "refNumber": "REF3762Q",
+  "company": {
+    "identifier": "AristaNetworks",
+    "name": "Arista Networks"
+  },
+  "releasedDate": "2026-09-28T18:12:51.410Z",
+  "location": {
+    "city": "Guadalajara",
+    "region": "Jal.",
+    "country": "mx",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "20.6751707",
+    "longitude": "-103.3473385",
+    "fullLocation": "Guadalajara, Jal., Mexico"
+  },
+  "industry": {
+    "id": "computer_networking",
+    "label": "Computer Networking"
+  },
+  "department": {
+    "id": "1504864",
+    "label": "Customer Support"
+  },
+  "function": {
+    "id": "sales",
+    "label": "Sales"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "mx",
+      "valueLabel": "Mexico"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e1",
+      "fieldLabel": "Department",
+      "valueId": "1504864",
+      "valueLabel": "Customer Support"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e0",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Arista Networks"
+    },
+    {
+      "fieldId": "62a7845974fe2c08874d5452",
+      "fieldLabel": "Role",
+      "valueId": "4e150511-63af-4e42-850a-47ad805607cc",
+      "valueLabel": "Senior"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000152246030",
+  "creator": {
+    "name": "Edward Sheppard"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

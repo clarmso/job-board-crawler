@@ -1,7 +1,7 @@
 {
   "id": "e926bced-b09b-4f2b-a3da-37b2a634ac91",
   "title": "Customer Success Manager (EMEA)",
-  "department": "Go To Market",
+  "department": "Operations",
   "team": "Customer Success",
   "employmentType": "FullTime",
   "location": "EMEA",
@@ -69,15 +69,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "f1f7f7d2-493d-4cd2-804b-2e904c43f28b",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "20b1ab75-acbb-4962-aa5b-cb0ea54508ee",
             "summary": "€30K – €45K",
             "compensationType": "Salary",
@@ -85,6 +76,15 @@
             "currencyCode": "EUR",
             "minValue": 30000,
             "maxValue": 45000
+          },
+          {
+            "id": "f1f7f7d2-493d-4cd2-804b-2e904c43f28b",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           }
         ]
       },
@@ -95,15 +95,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "9529df80-a5d5-4337-ac50-56d5e9570227",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "65849985-8dbd-438b-8a7e-c4aed05f7d51",
             "summary": "€40K – €45K",
             "compensationType": "Salary",
@@ -111,6 +102,15 @@
             "currencyCode": "EUR",
             "minValue": 40000,
             "maxValue": 45000
+          },
+          {
+            "id": "9529df80-a5d5-4337-ac50-56d5e9570227",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           }
         ]
       },
@@ -160,17 +160,17 @@
     ],
     "summaryComponents": [
       {
-        "compensationType": "EquityPercentage",
-        "minValue": null,
-        "maxValue": null,
-        "interval": "1 YEAR"
-      },
-      {
         "minValue": 30000,
         "maxValue": 45000,
         "currencyCode": "EUR",
         "interval": "1 YEAR",
         "compensationType": "Salary"
+      },
+      {
+        "compensationType": "EquityPercentage",
+        "minValue": null,
+        "maxValue": null,
+        "interval": "1 YEAR"
       }
     ]
   }

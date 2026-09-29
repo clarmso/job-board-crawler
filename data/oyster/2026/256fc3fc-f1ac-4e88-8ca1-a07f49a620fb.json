@@ -83,15 +83,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "763ebcc2-af8f-4d13-a01b-6f6c1fc6d1c4",
-            "summary": "91 000  - 102 000 OTE $54.6K – $61.2K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "USD",
-            "minValue": 54600,
-            "maxValue": 61200
-          },
-          {
             "id": "3e8fac35-e2ed-4ade-8abe-b139a7a648a5",
             "summary": "Offers Equity",
             "compensationType": "EquityCashValue",
@@ -99,6 +90,15 @@
             "currencyCode": "USD",
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "763ebcc2-af8f-4d13-a01b-6f6c1fc6d1c4",
+            "summary": "91 000  - 102 000 OTE $54.6K – $61.2K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 54600,
+            "maxValue": 61200
           }
         ]
       },
@@ -131,17 +131,17 @@
     ],
     "summaryComponents": [
       {
+        "compensationType": "EquityCashValue",
+        "minValue": null,
+        "maxValue": null,
+        "interval": "1 YEAR"
+      },
+      {
         "compensationType": "Salary",
         "interval": "1 YEAR",
         "currencyCode": "USD",
         "minValue": 54600,
         "maxValue": 61200
-      },
-      {
-        "compensationType": "EquityCashValue",
-        "minValue": null,
-        "maxValue": null,
-        "interval": "1 YEAR"
       }
     ]
   }

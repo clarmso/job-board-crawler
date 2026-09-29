@@ -43,7 +43,7 @@
       "id": 4137836,
       "name": "Working Model Eligibility",
       "value": [
-        "2-Flexible"
+        "3-Fully Remote"
       ],
       "value_type": "multi_select"
     },
@@ -74,21 +74,13 @@
     {
       "id": 5525802,
       "name": "Baseline Budgeted Salary",
-      "value": {
-        "unit": "USD",
-        "max_value": "175000.0",
-        "min_value": "122000.0"
-      },
+      "value": null,
       "value_type": "currency_range"
     },
     {
       "id": 5525816,
       "name": "Other Large Market Budgeted Salary",
-      "value": {
-        "unit": "USD",
-        "max_value": "149000.0",
-        "min_value": "104000.0"
-      },
+      "value": null,
       "value_type": "currency_range"
     },
     {
@@ -125,7 +117,7 @@
     }
   ],
   "id": 8055126,
-  "updated_at": "2026-09-24T16:26:44-04:00",
+  "updated_at": "2026-09-28T17:50:14-04:00",
   "requisition_id": "2273491101",
   "title": "Senior Compensation Manager",
   "company_name": "MongoDB",
@@ -143,9 +135,9 @@
   ],
   "offices": [
     {
-      "id": 3960,
-      "name": "New York City",
-      "location": "New York, NY, United States",
+      "id": 95804,
+      "name": "Remote Indiana",
+      "location": "Indiana, United States",
       "child_ids": [],
       "parent_id": 23657
     }

@@ -1,0 +1,54 @@
+{
+  "absolute_url": "https://pantheon.io/about/careers/detail?gh_jid=8226934",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 3560436,
+  "location": {
+    "name": "United States (Remote)"
+  },
+  "metadata": null,
+  "id": 8226934,
+  "updated_at": "2026-09-28T14:19:51-04:00",
+  "requisition_id": "26-1267",
+  "title": "Senior Software Engineer, Connectivity & API Transformation",
+  "company_name": "Pantheon Systems, Inc",
+  "first_published": "2026-09-28T14:19:51-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;h2&gt;&lt;strong&gt;About Pantheon&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Pantheon is the WebOps platform for websites that deliver extraordinary results. We believe in putting the magic of the internet in everyone&#39;s hands. That&#39;s why we&#39;re so passionate about helping developers, IT and marketing develop, test, and release website changes faster and more reliably so they can build and maintain websites that create value for their organizations. Our cloud native software makes it easy to securely manage a single website or thousands of websites across multiple teams in one platform.&lt;/p&gt;\n&lt;p&gt;Pantheon&#39;s core company values are Trust, Teamwork, Passion, and Customers First. At Pantheon, we work hard and play harder, valuing individuality, humor, and balance. We&#39;re enthusiastic participants in several open-source communities and have real relationships with many of our most active customers. If all of this sounds interesting to you, read on!&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;The Role&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Pantheon is looking for a Senior Software Engineer to join our Connectivity &amp;amp; API Transformation team. We&#39;re expanding an impressive and growing platform that powers hundreds of thousands of websites, millions of containerized resources, billions of monthly page views, and development tools that professional website developers use.&lt;/p&gt;\n&lt;p&gt;Our team owns the connective tissue of that platform: the federated GraphQL API that every Pantheon surface is built on, the network layer and discovery patterns that let our services find and reach each other, the orchestration layer that runs customer-facing automation, and the ongoing work of decomposing our legacy core into well-bounded modern services. It&#39;s a role with unusual leverage — the interfaces and pathways you design become the contract that every other engineering team at Pantheon builds against.&lt;/p&gt;\n&lt;p&gt;Pantheon&#39;s core company values are &lt;strong&gt;Trust, Teamwork, Passion, and Customers First.&lt;/strong&gt; Additionally, the Pantheon engineering teams are built around a focus on collaboration, character, autonomy, and a no-blame culture. We&#39;re enthusiastic participants in several open-source communities and have real relationships with many of our most active customers.&lt;/p&gt;\n&lt;p&gt;If all of this sounds interesting to you, read on!&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;What You&#39;ll Be Doing&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Building and evolving Pantheon&#39;s unified API — a federated GraphQL supergraph (Grafbase, Federation v2) and the Go subgraphs behind it that serve our Dashboard and public API&lt;/li&gt;\n&lt;li&gt;Shaping how Pantheon&#39;s services find and reach one another — VPC and network architecture, service discovery strategy, and the connectivity standards our internal traffic runs on&lt;/li&gt;\n&lt;li&gt;Decomposing a large legacy Python monolith into well-bounded services, and owning the Cassandra data layer behind it — replication, backup, and disaster recovery&lt;/li&gt;\n&lt;li&gt;Designing and operating workflow orchestration at platform scale: GCP Workflows, Pub/Sub-driven job execution, and Go services on Cloud Run that run customer-facing automation&lt;/li&gt;\n&lt;li&gt;Setting the GraphQL, gRPC, and REST standards other Pantheon teams build against, and acting as a technical resource for initiatives across the org&lt;/li&gt;\n&lt;li&gt;Owning your team&#39;s production systems — tracking health with SLOs, resolving production issues, and balancing delivery speed against reliability&lt;/li&gt;\n&lt;li&gt;Supporting Pantheon as a member of our on-call engineering rotation and your team&#39;s alert response rotation&lt;/li&gt;\n&lt;li&gt;Raising the level of engineers around you through code review, design feedback, and mentorship&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;What You Need to Succeed&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Significant work experience building and operating production services in Go, and the adaptability to work in a polyglot codebase — our stack also includes Rust and Python&lt;/li&gt;\n&lt;li&gt;Experience designing APIs that other teams depend on, with real judgment about schema design, versioning, and backward compatibility. GraphQL, gRPC, or REST at scale all count&lt;/li&gt;\n&lt;li&gt;Work-related experience with large-scale, high-traffic distributed systems, and with designing scalable and robust services in the real world&lt;/li&gt;\n&lt;li&gt;Experience carving services out of a monolith, or otherwise evolving a legacy system incrementally while keeping it running&lt;/li&gt;\n&lt;li&gt;Working knowledge of cloud networking fundamentals — VPCs, DNS, load balancing, and service-to-service authentication — and the judgment to make network boundaries a deliberate design choice rather than an accident&lt;/li&gt;\n&lt;li&gt;Understanding and working knowledge of Kubernetes, Terraform, CI/CD pipelines, and release engineering practices&lt;/li&gt;\n&lt;li&gt;Experience with a major cloud provider; GCP especially welcome&lt;/li&gt;\n&lt;li&gt;Experience leveraging observability tooling like Grafana Cloud, Prometheus, and OpenTelemetry to understand systems in production&lt;/li&gt;\n&lt;li&gt;Experience supporting live sites and participating in on-call&lt;/li&gt;\n&lt;li&gt;Clear communication skills and the ability to represent your contributions and ideas with clarity while remaining open and giving space to the contributions and ideas of others&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;Bonus Points&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Hands-on experience with GraphQL Federation, a federation gateway or router (Grafbase, Apollo, Hive), or a schema registry&lt;/li&gt;\n&lt;li&gt;Working knowledge of Rust&lt;/li&gt;\n&lt;li&gt;Experience with Cassandra, or with running a stateful datastore in production — backups, DR, multi-region replication&lt;/li&gt;\n&lt;li&gt;Experience migrating off end-of-life language runtimes (for example, Python 2)&lt;/li&gt;\n&lt;li&gt;Hands-on experience with private service networking or a service mesh — Shared VPC, VPC peering, Private Service Connect, internal DNS, Istio/Envoy&lt;/li&gt;\n&lt;li&gt;Working knowledge of GCP Workflows, Pub/Sub, Cloud Run, Cloud Build&lt;/li&gt;\n&lt;li&gt;Working knowledge of AlloyDB, MySQL, Redis&lt;/li&gt;\n&lt;li&gt;Working knowledge of Docker, CircleCI, GitHub Actions, Vault&lt;/li&gt;\n&lt;li&gt;Working knowledge of WordPress, Drupal&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;What We Offer&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;We have all the usual perks and benefits but what we can really offer you is a fantastic work environment powered by an amazing team.&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Industry competitive compensation and equity plan&lt;/li&gt;\n&lt;li&gt;Paid Time Off (PTO), Paid Sick Leave (PSL) and 11 Paid Company Holidays&lt;/li&gt;\n&lt;li&gt;Full medical coverage (Extended health care, dental, vision)&lt;/li&gt;\n&lt;li&gt;Top-of-line equipment&lt;/li&gt;\n&lt;li&gt;Monthly allowance for wellness, reading and access to LinkedIn Learning for continued development&lt;/li&gt;\n&lt;li&gt;Events and activities both team-based and company wide that inspire, educate and cultivate&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Compensation:&lt;/strong&gt; $139,680-$174,600&lt;span class=&quot;Apple-converted-space&quot;&gt; USD annual salary plus bonus and equity&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;Pantheon is an equal opportunity action employer and we welcome applications from all backgrounds regardless of race, color, religion, sex, national origin, ancestry, age, marital status, sexual orientation, gender identity, veteran status, disability, or any other classification protected by law. Pantheon complies with federal and local disability laws and makes reasonable accommodations for applicants and employees with disabilities. If you need a reasonable accommodation due to a disability for any part of the interview process, please contact &lt;a href=&quot;mailto:talent@pantheon.io&quot;&gt;talent@pantheon.io&lt;/a&gt;. Pursuant to local and federal regulations, Pantheon will consider qualified applicants with arrest and conviction records for employment.&lt;/p&gt;\n&lt;p&gt;To review the Employee and Applicant&#39;s Privacy Policy, click &lt;a href=&quot;https://pantheon.pactsafe.io/employeeandapplicantprivacy.html&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;Visa Sponsorship is not available at this time.&lt;/p&gt;",
+  "departments": [
+    {
+      "id": 2645,
+      "name": "Engineering",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 398388,
+      "name": "Canada (Remote)",
+      "location": "Canada (Remote)",
+      "child_ids": [],
+      "parent_id": null
+    },
+    {
+      "id": 398387,
+      "name": "United States (Remote)",
+      "location": "United States (Remote)",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": "http://app.greenhouse.io/ai_opt_out_request/job_post/8226934/ai_opt_out"
+}

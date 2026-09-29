@@ -65,7 +65,7 @@
     }
   ],
   "id": 8220277,
-  "updated_at": "2026-09-24T10:46:48-04:00",
+  "updated_at": "2026-09-28T06:27:31-04:00",
   "requisition_id": "R21376",
   "title": "Mid Market Account Executive (Italy)",
   "company_name": "Datadog",
@@ -82,6 +82,13 @@
     }
   ],
   "offices": [
+    {
+      "id": 63481,
+      "name": "Amsterdam",
+      "location": "Amsterdam, Noord-Holland, Netherlands",
+      "child_ids": [],
+      "parent_id": 78096
+    },
     {
       "id": 25185,
       "name": "Dublin",

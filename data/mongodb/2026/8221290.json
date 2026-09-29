@@ -1,0 +1,148 @@
+{
+  "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=8221290",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3558097,
+  "location": {
+    "name": "Gurugram"
+  },
+  "metadata": [
+    {
+      "id": 22194060,
+      "name": "Position ID",
+      "value": "10015638",
+      "value_type": "short_text"
+    },
+    {
+      "id": 24918,
+      "name": "Department ID",
+      "value": "D85028-Enterprise Architecture",
+      "value_type": "single_select"
+    },
+    {
+      "id": 22194061,
+      "name": "Team",
+      "value": "T10505-Enterprise Architecture",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4914027,
+      "name": "Region",
+      "value": "APAC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4137836,
+      "name": "Working Model Eligibility",
+      "value": [
+        "2-Flexible"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 4914029,
+      "name": "Job Level",
+      "value": "Professional - IC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24109,
+      "name": "Employment Type",
+      "value": "Full-time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 1073551,
+      "name": "Job Type",
+      "value": "Standard",
+      "value_type": "single_select"
+    },
+    {
+      "id": 988684,
+      "name": "JD Link",
+      "value": "https://docs.google.com/document/d/1ylqg0R6ChN6unFXeVhbRtQTCdfCG8D5MCxuN7JWrr9k/edit?tab=t.0",
+      "value_type": "url"
+    },
+    {
+      "id": 5525802,
+      "name": "Baseline Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 5525816,
+      "name": "Other Large Market Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 13324394,
+      "name": "Job Post Range (United States)",
+      "value": {
+        "unit": "INR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 40497768,
+      "name": "Job Post Range (Canada)",
+      "value": {
+        "unit": "INR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 57694516,
+      "name": "Job Post Range (Poland)",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 64002488,
+      "name": "Job Post Range (Italy)",
+      "value": null,
+      "value_type": "currency_range"
+    }
+  ],
+  "id": 8221290,
+  "updated_at": "2026-09-28T01:07:13-04:00",
+  "requisition_id": "3273558097",
+  "title": "Software Engineer 3 - Enterprise Architecture",
+  "company_name": "MongoDB",
+  "first_published": "2026-09-28T01:07:13-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;MongoDB seeks an experienced Software Engineer to join Enterprise Architecture on a focused team dedicated to AI experimentation. You&#39;ll partner with teams across the organization, including Internal Engineering, to explore, prototype, and validate emerging AI capabilities before they become formal roadmap priorities.&lt;/p&gt;\n&lt;p&gt;We are looking to speak to candidates who are based in Gurugram for our hybrid working model.&lt;/p&gt;\n&lt;h3&gt;Our ideal candidate:&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Has 2-5 years of professional software engineering experience&lt;/li&gt;\n&lt;li&gt;Deep experience with at least one modern programming language (Python, Typescript, Go, Rust, etc.)&lt;/li&gt;\n&lt;li&gt;Strong technical judgment and the ability to independently solve complex engineering problems&lt;/li&gt;\n&lt;li&gt;Excellent communication skills and comfort collaborating across teams and disciplines&lt;/li&gt;\n&lt;li&gt;Comfortable operating in ambiguity, scoping and running experiments when the right approach isn&#39;t known yet&lt;/li&gt;\n&lt;li&gt;Hands-on experience prototyping with LLMs or agentic systems (evals, fine-tuning, RAG, tool use, orchestration frameworks)&lt;/li&gt;\n&lt;li&gt;Has the ability to iterate fast, specially in the case where requirements are not clear&lt;/li&gt;\n&lt;li&gt;Keeps up with emerging AI tooling and models, not just what&#39;s already mainstream&lt;/li&gt;\n&lt;li&gt;Collaborative, detail-oriented, and passionate about developing usable software&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Bonus Round:&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience building and maintaining full-stack applications, from front-end UIs to backend API to data pipelines&lt;/li&gt;\n&lt;li&gt;Experience designing systems or services used by other engineers or teams&lt;/li&gt;\n&lt;li&gt;Knowledge of any of the following technologies: Tanstack Start, Next.js, FastAPI, React&lt;/li&gt;\n&lt;li&gt;Experience with model evaluation frameworks, vector databases, or agent orchestration tooling (e.g., LangGraph)&lt;/li&gt;\n&lt;li&gt;Familiarity with transformer architecture and model internals&lt;/li&gt;\n&lt;li&gt;Familiarity with containerized applications, Kubernetes, and ability to design CI/CD pipelines&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Position Expectations:&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Design and run experiments that test emerging AI capabilities against real internal use cases, before they&#39;re formally prioritized. Condense the learnings of those experiments and document them so that the knowledge can be used across the org.&lt;/li&gt;\n&lt;li&gt;Build lightweight prototypes to validate or kill ideas quickly&lt;/li&gt;\n&lt;li&gt;Stay current on new AI tooling and models, and turn relevant developments into concrete internal proof points&lt;/li&gt;\n&lt;li&gt;Partner with product, platform, and internal engineering teams to hand off validated capabilities once they&#39;re ready to move from experiment to production&lt;/li&gt;\n&lt;li&gt;Maintain technical rigor and clear documentation of findings, even for work that doesn&#39;t ship&lt;/li&gt;\n&lt;li&gt;Identify and communicate risks, unknowns, and open questions clearly to stakeholders&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Success Measures:&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;In three months, have run and documented at least one AI capability experiment, with a clear recommendation on whether and how to pursue it further&lt;/li&gt;\n&lt;li&gt;In three months, demonstrate the ability to move quickly from idea to working prototype&lt;/li&gt;\n&lt;li&gt;In six months, have influenced the org&#39;s roadmap or tooling direction by surfacing a capability two to three steps ahead of current need, backed by evidence from your experimentation&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;About MongoDB&lt;/h3&gt;\n&lt;p&gt;MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure.&lt;/p&gt;\n&lt;p&gt;With offices worldwide and over 67,000 customers, including AI-native startups and approximately 75% of the Fortune 100, relying on MongoDB for their most important applications, we’re powering the next era of software.&lt;/p&gt;\n&lt;p&gt;Our compass at MongoDB is our &lt;a href=&quot;https://www.mongodb.com/company&quot;&gt;Leadership Commitment,&lt;/a&gt; guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. &lt;a href=&quot;https://www.mongodb.com/company/blog/culture/employee-benefits-that-make-a-difference-at-mongodb&quot;&gt;From employee affinity groups, to fertility assistance and a generous parental leave policy&lt;/a&gt;, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys.&lt;a href=&quot;https://www.mongodb.com/blog/channel/culture&quot;&gt; Learn more about what it’s like to work at MongoDB&lt;/a&gt;, and help us make an impact on the world!&lt;/p&gt;\n&lt;p&gt;MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.&lt;/p&gt;\n&lt;p&gt;MongoDB is an equal opportunities employer.&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Requisition ID - 3273558097&lt;/em&gt;&lt;/p&gt;",
+  "departments": [
+    {
+      "id": 327881,
+      "name": "Enterprise Architecture",
+      "child_ids": [],
+      "parent_id": 298006
+    }
+  ],
+  "offices": [
+    {
+      "id": 65909,
+      "name": "Gurugram",
+      "location": "Gurugram, Haryana, India",
+      "child_ids": [],
+      "parent_id": 23659
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": null
+}

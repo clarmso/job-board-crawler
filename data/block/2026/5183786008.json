@@ -57,8 +57,8 @@
       "name": "Zone A Salary Range",
       "value": {
         "unit": "USD",
-        "max_value": "202500.0",
-        "min_value": "135000.0"
+        "max_value": "152100.0",
+        "min_value": "101400.0"
       },
       "value_type": "currency_range"
     },
@@ -67,8 +67,8 @@
       "name": "Zone B Salary Range",
       "value": {
         "unit": "USD",
-        "max_value": "188370.0",
-        "min_value": "125580.0"
+        "max_value": "141480.0",
+        "min_value": "94320.0"
       },
       "value_type": "currency_range"
     },
@@ -77,8 +77,8 @@
       "name": "Zone C Salary Range",
       "value": {
         "unit": "USD",
-        "max_value": "178200.0",
-        "min_value": "118800.0"
+        "max_value": "133830.0",
+        "min_value": "89220.0"
       },
       "value_type": "currency_range"
     },
@@ -87,8 +87,8 @@
       "name": "Zone D Salary Range",
       "value": {
         "unit": "USD",
-        "max_value": "168120.0",
-        "min_value": "112080.0"
+        "max_value": "121680.0",
+        "min_value": "81120.0"
       },
       "value_type": "currency_range"
     },
@@ -97,8 +97,8 @@
       "name": "Canada Zone A Pay Range",
       "value": {
         "unit": "CAD",
-        "max_value": "179910.0",
-        "min_value": "119940.0"
+        "max_value": "119790.0",
+        "min_value": "79860.0"
       },
       "value_type": "currency_range"
     },
@@ -107,8 +107,8 @@
       "name": "Canada Zone B Pay Range",
       "value": {
         "unit": "CAD",
-        "max_value": "179910.0",
-        "min_value": "119940.0"
+        "max_value": "119790.0",
+        "min_value": "79860.0"
       },
       "value_type": "currency_range"
     },
@@ -117,14 +117,14 @@
       "name": "EU Min to Max",
       "value": {
         "unit": "EUR",
-        "max_value": "95040.0",
-        "min_value": "63360.0"
+        "max_value": "78570.0",
+        "min_value": "52380.0"
       },
       "value_type": "currency_range"
     }
   ],
   "id": 5183786008,
-  "updated_at": "2026-09-22T03:11:55-04:00",
+  "updated_at": "2026-09-28T12:03:24-04:00",
   "requisition_id": "R0006313",
   "title": "Indirect Sales Manager, France ",
   "company_name": "Block",

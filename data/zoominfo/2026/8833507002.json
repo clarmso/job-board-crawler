@@ -1,0 +1,72 @@
+{
+  "absolute_url": "https://www.zoominfo.com/careers?gh_jid=8833507002",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 6536239002,
+  "location": {
+    "name": "Waltham, Massachusetts, United States"
+  },
+  "metadata": [
+    {
+      "id": 24710929002,
+      "name": "Job Family Group",
+      "value": "Engineering",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24711071002,
+      "name": "Time Type",
+      "value": "Full time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 101751589002,
+      "name": "Work Shift",
+      "value": "General Shift",
+      "value_type": "short_text"
+    },
+    {
+      "id": 4203585002,
+      "name": "LEGACY - Employment Type",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8833507002,
+  "updated_at": "2026-09-28T12:56:06-04:00",
+  "requisition_id": "JR108148",
+  "title": "Principal Machine Learning Engineer",
+  "company_name": "ZoomInfo Technologies LLC",
+  "first_published": "2026-09-28T12:55:31-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen–fast.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;You&#39;ll set the technical direction for the intelligence layer every ZoomInfo AI agent reasons over — what&#39;s true about companies and the people in them, how they relate, and what they&#39;re buying. As a senior individual contributor with no direct reports, you will own strategy across the data graph, entity resolution, and buying intent, staying hands-on in the hardest of these problems. You&#39;ll decide when classical machine learning, statistics, or language models is the right tool, and turn good judgment into standards other teams adopt.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What You&#39;ll Do&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;You will set technical strategy for the data graph, entity resolution, buying intent, and agent context, deciding which problems to take on, in what order, and how the pieces connect.&lt;/li&gt;\n&lt;li&gt;You will frame and ship problems nobody has framed yet, such as extraction for companies with no public footprint or semantic intent at web scale, deciding what not to build as deliberately as what to build.&lt;/li&gt;\n&lt;li&gt;You will define evaluation standards that other teams adopt, including sampling methodology, human labels, validated LLM judges, and release gates, and know where each one breaks.&lt;/li&gt;\n&lt;li&gt;You will define the data contracts between the data graph, intent signals, and the agents that consume them, including agent memory, keeping the system cost-effective to run across the full dataset.&lt;/li&gt;\n&lt;li&gt;You will turn good choices into defaults across the group: the baseline every model must beat, how uncertainty is reported, and which metrics get retired when they mislead.&lt;/li&gt;\n&lt;li&gt;You will lead design reviews, mentor senior engineers, shape hiring, and represent the team&#39;s technical judgment to product and leadership.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;What You Bring&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Must-Have:&lt;/em&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;You have set technical direction as an individual contributor for a problem area spanning more than one team, with the resulting machine learning systems in production and owned after launch — depth of impact matters more than years or past titles.&lt;/li&gt;\n&lt;li&gt;You bring breadth across classical machine learning on large, messy tabular data, applied statistics, language processing at scale, and LLM agents or multi-step systems, with recognized depth in at least one.&lt;/li&gt;\n&lt;li&gt;You have defined and driven adoption of evaluation standards beyond your own team for systems with no single right answer, including LLM judges validated against human labels and results reported with their limits.&lt;/li&gt;\n&lt;li&gt;You have a track record of changing how a group builds or measures — for example, introducing a baseline or review practice that other teams now use.&lt;/li&gt;\n&lt;li&gt;You have made cost and capacity decisions for model training and serving, including when to self-host, distill, or call a hosted model, with cost tracked per unit of work.&lt;/li&gt;\n&lt;li&gt;You are hands-on in production Python and strong SQL with distributed data processing experience, and you use AI coding tools daily with rigorous review of their output.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;em&gt;Preferred:&lt;/em&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;You have experience with ranking and retrieval, including embeddings, learned re-ranking, and metrics such as recall@k, MRR, and nDCG.&lt;/li&gt;\n&lt;li&gt;You bring entity resolution, knowledge graph, or web-scale information extraction experience on messy, real-world data.&lt;/li&gt;\n&lt;li&gt;You have trained and served open-weight models in PyTorch or an equivalent framework, including GPU capacity planning.&lt;/li&gt;\n&lt;li&gt;You have built user memory or context systems for agents, or defended LLM systems against adversarial inputs and prompt injection.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;br&gt;&lt;br&gt;#LI-Remote&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;#LI-VC1&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Actual compensation offered will be based on factors such as the candidate’s work location, qualifications, skills, experience and/or training. Your recruiter can share more information about the specific salary range for your desired work location during the hiring process. We want our employees and their families to thrive.&lt;/p&gt;\n&lt;p&gt;In addition to comprehensive benefits we offer holistic mind, body and lifestyle programs designed for overall well-being. Learn more about ZoomInfo benefits &lt;a class=&quot;c-link&quot; href=&quot;https://www.zoominfo.com/careers#benefits&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.zoominfo.com/careers#benefits&quot; data-sk=&quot;tooltip_parent&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;Below is the US base salary for this position. Additional compensation such as Bonus, Commission, Equity and other benefits may also apply.&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$192,500&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$302,500 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;About us:&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;ZoomInfo (NASDAQ: GTM) is the Go-To-Market Intelligence Platform that empowers businesses to grow faster with AI-ready insights, trusted data, and advanced automation. Its solutions provide more than 35,000 companies worldwide with a complete view of their customers, making every seller their best seller.&lt;/p&gt;\n&lt;p&gt;ZoomInfo is committed to protecting your privacy when you apply for jobs with us. Please review our Job Applicant &lt;a href=&quot;https://drive.google.com/file/d/1yiG-k0YX_sW10PiJk_xliDc3W-veJCrK/view?usp=drive_link&quot; target=&quot;_blank&quot;&gt;Privacy Notice&lt;/a&gt; for more details on how we handle your personal information.&lt;/p&gt;\n&lt;p&gt;ZoomInfo may use a software-based assessment as part of the recruitment process. More information about this tool, including the results of the most recent bias audit, is available &lt;a href=&quot;https://www.zoominfo.com/legal/nyc-local-law-144-notice&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;ZoomInfo is proud to be an equal opportunity employer, hiring based on qualifications, merit, and business needs, and does not discriminate based on protected status. We welcome all applicants and are committed to providing equal employment opportunities regardless of sex, race, age, color, national origin, sexual orientation, gender identity, marital status, disability status, religion, protected military or veteran status, medical condition, or any other characteristic protected by applicable law. We also consider qualified candidates with criminal histories in accordance with legal requirements.&lt;/p&gt;\n&lt;p&gt;For Massachusetts Applicants: It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability. ZoomInfo does not administer lie detector tests to applicants in any location.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4074850002,
+      "name": "867 Engineering - Data Science",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 4016432002,
+      "name": "Waltham",
+      "location": "Waltham, Massachusetts, United States",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

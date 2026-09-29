@@ -1,0 +1,75 @@
+{
+  "id": "b6ea4f26-e93f-42c9-8887-8ad003450485",
+  "title": "Former & Future Founder",
+  "department": "GTM",
+  "team": "GTM",
+  "employmentType": "FullTime",
+  "location": "San Francisco",
+  "shouldDisplayCompensationOnJobPostings": true,
+  "secondaryLocations": [],
+  "publishedAt": "2026-09-28T23:10:40.219+00:00",
+  "isListed": true,
+  "isRemote": false,
+  "workplaceType": "OnSite",
+  "address": {
+    "postalAddress": {
+      "postalCode": "94105",
+      "addressRegion": "California",
+      "streetAddress": "156 2nd Street",
+      "addressCountry": "United States",
+      "addressLocality": "San Francisco"
+    }
+  },
+  "jobUrl": "https://jobs.ashbyhq.com/nango/b6ea4f26-e93f-42c9-8887-8ad003450485",
+  "applyUrl": "https://jobs.ashbyhq.com/nango/b6ea4f26-e93f-42c9-8887-8ad003450485/application",
+  "descriptionHtml": "<p style=\"min-height:1.5em\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://nango.dev/\">Nango</a> (YC W23) lets developers build product integrations with AI. It gives agents and applications access to the APIs their users rely on.</p><p style=\"min-height:1.5em\">More than 700 paying customers use Nango today, including ServiceNow, Monday, Replit, Ramp. We are a YC-backed team of 14 from AWS, GitHub, Okta, Snyk, Netlify, Uber, Samsara, Workato, and other leading developer-tool companies.</p><p style=\"min-height:1.5em\">We are looking for former founders, future founders, and people whose strengths span several roles to help build Nango. You’ll work directly with the founders on important problems across go-to-market, product, and operations. The scope will depend on what you do best and where you can make the biggest impact at this early stage.</p><p style=\"min-height:1.5em\"></p><h2>Location</h2><p style=\"min-height:1.5em\">This is an in-person role in San Francisco.</p>",
+  "descriptionPlain": "Nango https://nango.dev/ (YC W23) lets developers build product integrations with AI. It gives agents and applications access to the APIs their users rely on.\n\nMore than 700 paying customers use Nango today, including ServiceNow, Monday, Replit, Ramp. We are a YC-backed team of 14 from AWS, GitHub, Okta, Snyk, Netlify, Uber, Samsara, Workato, and other leading developer-tool companies.\n\nWe are looking for former founders, future founders, and people whose strengths span several roles to help build Nango. You’ll work directly with the founders on important problems across go-to-market, product, and operations. The scope will depend on what you do best and where you can make the biggest impact at this early stage.\n\n\n\n\nLOCATION\n\nThis is an in-person role in San Francisco.",
+  "compensation": {
+    "compensationTierSummary": "$150K – $200K • Offers Equity",
+    "scrapeableCompensationSalarySummary": "$150K - $200K",
+    "compensationTiers": [
+      {
+        "id": "b6b0ff12-0bee-4ab9-a344-36d8f2f1850f",
+        "tierSummary": "$150K – $200K • Offers Equity",
+        "title": null,
+        "additionalInformation": null,
+        "components": [
+          {
+            "id": "c71427ea-7229-4cf3-9095-728358e144ff",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "d1777a41-bccc-48fb-b625-4063eae2ed59",
+            "summary": "$150K – $200K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 150000,
+            "maxValue": 200000
+          }
+        ]
+      }
+    ],
+    "summaryComponents": [
+      {
+        "compensationType": "EquityPercentage",
+        "interval": "NONE",
+        "currencyCode": null,
+        "minValue": null,
+        "maxValue": null
+      },
+      {
+        "compensationType": "Salary",
+        "interval": "1 YEAR",
+        "currencyCode": "USD",
+        "minValue": 150000,
+        "maxValue": 200000
+      }
+    ]
+  }
+}

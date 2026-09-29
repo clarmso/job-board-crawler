@@ -1,0 +1,108 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6208606004",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": true,
+      "requires_processing_consent": false,
+      "requires_retention_consent": true,
+      "retention_period": 730,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 5223006004,
+  "location": {
+    "name": "Australia, Adelaide"
+  },
+  "metadata": [
+    {
+      "id": 4367803004,
+      "name": "Cost Center",
+      "value": "GAMES4AU70-AUI1070029 SRE AU",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167524004,
+      "name": "Career Page - Office Location",
+      "value": "Australia, Adelaide",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167525004,
+      "name": "Career Page - Department",
+      "value": "Network Engineering",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9377282004,
+      "name": "Career Page - Sub Department",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 20089613004,
+      "name": "Career Page - Studio Project",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 4395289004,
+      "name": "Worker Type",
+      "value": "Employee",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4404049004,
+      "name": "Country",
+      "value": "Australia",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9262269004,
+      "name": "Job Family",
+      "value": "Site Reliability Engineering",
+      "value_type": "short_text"
+    },
+    {
+      "id": 9262270004,
+      "name": "Job Family Group",
+      "value": "Engineering",
+      "value_type": "short_text"
+    },
+    {
+      "id": 21724118004,
+      "name": "Bungie Geo Pay",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 6208606004,
+  "updated_at": "2026-09-29T01:53:59-04:00",
+  "requisition_id": "R-125324",
+  "title": "Senior Site Reliability Engineer",
+  "company_name": "PlayStation Global",
+  "first_published": "2026-09-29T01:53:59-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Why Sony Interactive Entertainment?&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Sony Interactive Entertainment isn’t just the Best Place to Play — it’s also the Best Place to Work. Sony Interactive Entertainment (SIE) is the company behind the PlayStation brand. As a subsidiary of Sony Group Corporation, we’re part of a proud legacy of innovation and excellence. SIE is a dynamic technology company, delivering cutting-edge hardware and network services to more than 100 million people and an entertainment leader, home to some of the most beloved and recognizable intellectual properties (IP) in the world. Our role at SIE is to create and nurture the experiences under the PlayStation brand, a name synonymous with entertainment excellence and creativity.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Senior Site Reliability Engineer&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Our Site Reliability Engineering team plays a significant role in delivering on the promise of a great cloud gaming experience to our customers. We do this by influencing design and operational decisions towards the overall stability of the gaming service. Our SREs focus on three main things: overall ownership of production, production code quality, and deployments. The successful candidate will be self-directed and able to participate in the way we make decisions at different levels.&lt;/p&gt;\n&lt;p&gt;We expect our SREs to have opinions on the state of our service and provide critical feedback during different phases of the operational lifecycle. We are engaged throughout the software development lifecycle, ensuring operational readiness and stability.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Requirements&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Minimum of 7+ years working experience in Software Development and/or Linux Systems Administration role.&lt;/li&gt;\n&lt;li&gt;Strong interpersonal, written and verbal communication skills.&lt;/li&gt;\n&lt;li&gt;Available to be scheduled in on-call rotation.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Skills &amp;amp; Knowledge&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Proficient as a Linux Production Systems Engineer, with experience managing large scale Web Services infrastructure.&lt;/li&gt;\n&lt;li&gt;Development experience in one or more of the following programming languages:&lt;/li&gt;\n&lt;ul&gt;\n&lt;li&gt;Python (preferred)&lt;/li&gt;\n&lt;li&gt;Bash, Go, Java, C++, or Rust&lt;/li&gt;\n&lt;/ul&gt;\n&lt;li&gt;In addition, experience with at least 3 of the following topics:&lt;/li&gt;\n&lt;ul&gt;\n&lt;li&gt;Distributed data storage at scale (Hadoop, Ceph)&lt;/li&gt;\n&lt;li&gt;NoSQL at scale (MongoDB, Redis, Cassandra)&lt;/li&gt;\n&lt;li&gt;Data aggregation technologies. (ElasticSearch, Kafka)&lt;/li&gt;\n&lt;li&gt;Scaling and running traditional RDBMS (PostgreSQL, MySQL) with High Availability&lt;/li&gt;\n&lt;li&gt;Monitoring &amp;amp; alerting (Prometheus, Grafana), and Incident Management toolsets&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Kubernetes and/or AWS (deployment and management)&lt;/li&gt;\n&lt;li&gt;Software distribution (Package management and distribution at scale)&lt;/li&gt;\n&lt;li&gt;Configuration management (ansible, saltstack, puppet, chef)&lt;/li&gt;\n&lt;li&gt;Software performance analysis and load testing (QA or SDET experience: a plus)&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Taking a leadership role in ongoing improvements in Reliability and Scalability&lt;/li&gt;\n&lt;li&gt;Work closely with SRE Management to define KPIs, processes and drive continuous improvement&lt;/li&gt;\n&lt;li&gt;Influence the architecture and implementation of solutions within the division&lt;/li&gt;\n&lt;li&gt;Mentor more junior SRE staff and enable them for success&lt;/li&gt;\n&lt;li&gt;Act as a voice to represent SRE in the wider organisation&lt;/li&gt;\n&lt;li&gt;Represent the operational scalability of solutions in the wider division&lt;/li&gt;\n&lt;li&gt;Lead small-scale projects from inception to implementation&lt;/li&gt;\n&lt;li&gt;Design platform-wide solutions and provide technical leadership during their implementation&lt;/li&gt;\n&lt;li&gt;Demonstrate a high-level of organizational skills and initiative in the role&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p class=&quot;p1&quot;&gt;Please note, Sony Interactive Entertainment conducts background checks at the offer stage for all new employees (which may include criminal background checks for some roles) and will need to process personal information to support these checks.&lt;/p&gt;\n&lt;p class=&quot;p1&quot;&gt;Please refer to our&amp;nbsp;&lt;a href=&quot;https://www.playstation.com/legal/careers-privacy-notice/&quot; target=&quot;_blank&quot;&gt;Candidate Privacy Notice&lt;/a&gt;&amp;nbsp;for more information about what personal information we collect, how we use it, who we share it with, and your data protection rights.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Equal Opportunity Statement:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Sony is an Equal Opportunity Employer. All persons will receive consideration for employment without regard to gender (including gender identity, gender expression and gender reassignment), race (including colour, nationality, ethnic or national origin), religion or belief, marital or civil partnership status, disability, age, sexual orientation, pregnancy, maternity or parental status, trade union membership or membership in any other legally protected category.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;We strive to create an inclusive environment, empower employees and embrace diversity. We encourage everyone to respond.&amp;nbsp;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Sony Interactive Entertainment is a Fair Chance employer and qualified applicants with arrest and conviction records will be considered for employment.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4037262004,
+      "name": "Network / Core Engineering",
+      "child_ids": [],
+      "parent_id": 4037176004
+    }
+  ],
+  "offices": [
+    {
+      "id": 4012018004,
+      "name": "AUS-Adelaide-Hindmarsh",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 4012016004
+    }
+  ],
+  "ai_disclaimer": "<p><strong>Use of AI in Recruiting&nbsp;</strong></p><p><br></p><p>We use artificial intelligence and other automated tools to assist with certain aspects of our recruiting process, including reviewing applications and supporting candidate evaluation. For example, we use Greenhouse's AI-powered Talent Matching tool to compare information in your application against job-related qualifications and criteria established by our recruiting team. More information about <a href=\"https://www.greenhouse.com/\" target=\"_blank\">Greenhouse</a>, including about its features and its Privacy Policy, may be found at its website. These tools assist our recruiting team and do not make hiring decisions.&nbsp;</p><p><br></p>",
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": "http://app4.greenhouse.io/ai_opt_out_request/job_post/6208606004/ai_opt_out"
+}

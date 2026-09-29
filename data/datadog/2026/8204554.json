@@ -49,7 +49,7 @@
       "id": 29446322,
       "name": "Pay Transparency Range",
       "value": {
-        "unit": null,
+        "unit": "USD",
         "max_value": "132000.0",
         "min_value": "99000.0"
       },
@@ -64,12 +64,12 @@
     {
       "id": 58619948,
       "name": "IC or MG",
-      "value": null,
+      "value": "IC",
       "value_type": "single_select"
     }
   ],
   "id": 8204554,
-  "updated_at": "2026-09-22T16:40:11-04:00",
+  "updated_at": "2026-09-28T15:50:20-04:00",
   "requisition_id": "R21309",
   "title": "FP&A Analyst",
   "company_name": "Datadog",
