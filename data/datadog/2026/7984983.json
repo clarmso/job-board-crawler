@@ -69,7 +69,7 @@
     }
   ],
   "id": 7984983,
-  "updated_at": "2026-09-23T14:51:50-04:00",
+  "updated_at": "2026-09-29T13:18:57-04:00",
   "requisition_id": "R19393",
   "title": "Principal Partner Program Manager - Datadog Partner Network Solution Provider Program",
   "company_name": "Datadog",
@@ -94,6 +94,13 @@
       "parent_id": 78117
     },
     {
+      "id": 61865,
+      "name": "Denver",
+      "location": "Denver, Colorado, United States",
+      "child_ids": [],
+      "parent_id": 78231
+    },
+    {
       "id": 5664,
       "name": "New York",
       "location": "New York, NY, United States",
@@ -102,6 +109,13 @@
         76746
       ],
       "parent_id": 73429
+    },
+    {
+      "id": 57627,
+      "name": "San Francisco",
+      "location": "San Francisco, CA, United States",
+      "child_ids": [],
+      "parent_id": 78108
     }
   ],
   "ai_disclaimer": null,

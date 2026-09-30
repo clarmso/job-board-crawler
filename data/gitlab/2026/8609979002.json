@@ -23,7 +23,7 @@
     }
   ],
   "id": 8609979002,
-  "updated_at": "2026-09-14T16:01:39-04:00",
+  "updated_at": "2026-09-29T10:51:54-04:00",
   "requisition_id": "6538",
   "title": "Strategic Account Executive - Turkey ",
   "company_name": "GitLab",
@@ -41,27 +41,11 @@
   ],
   "offices": [
     {
-      "id": 4019553002,
-      "name": "EMEA",
+      "id": 4141035002,
+      "name": "Turkey",
       "location": null,
-      "child_ids": [
-        4042500002,
-        4040905002,
-        4040903002,
-        4112146002,
-        4112147002,
-        4112148002,
-        4040908002,
-        4112149002,
-        4112150002,
-        4040907002,
-        4112151002,
-        4112152002,
-        4112153002,
-        4112154002,
-        4041064002
-      ],
-      "parent_id": null
+      "child_ids": [],
+      "parent_id": 4019553002
     }
   ],
   "ai_disclaimer": null,

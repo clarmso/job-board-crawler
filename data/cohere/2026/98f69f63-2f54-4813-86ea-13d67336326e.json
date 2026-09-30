@@ -55,6 +55,13 @@
     ],
     "summaryComponents": [
       {
+        "compensationType": "Commission",
+        "interval": "1 YEAR",
+        "currencyCode": "USD",
+        "minValue": 150000,
+        "maxValue": null
+      },
+      {
         "compensationType": "Salary",
         "interval": "1 YEAR",
         "currencyCode": "USD",
@@ -66,13 +73,6 @@
         "interval": "1 YEAR",
         "currencyCode": "USD",
         "minValue": null,
-        "maxValue": null
-      },
-      {
-        "compensationType": "Commission",
-        "interval": "1 YEAR",
-        "currencyCode": "USD",
-        "minValue": 150000,
         "maxValue": null
       }
     ]

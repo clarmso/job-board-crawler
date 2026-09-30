@@ -1,0 +1,138 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/reddit/jobs/7950520",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3452564,
+  "location": {
+    "name": "Remote - United States"
+  },
+  "metadata": [
+    {
+      "id": 944668,
+      "name": "Position ID",
+      "value": null,
+      "value_type": "short_text"
+    },
+    {
+      "id": 956352,
+      "name": "Recruiting Start Date",
+      "value": "2026-05-21",
+      "value_type": "date"
+    },
+    {
+      "id": 944671,
+      "name": "Target Hire Date",
+      "value": "2026-08-24",
+      "value_type": "date"
+    },
+    {
+      "id": 944672,
+      "name": "Target Hire End Date",
+      "value": "",
+      "value_type": "date"
+    },
+    {
+      "id": 944673,
+      "name": "Job Profile",
+      "value": "Software Development Engineer 4",
+      "value_type": "single_select"
+    },
+    {
+      "id": 956351,
+      "name": "Management Level",
+      "value": "IC4",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944675,
+      "name": "Job Family",
+      "value": "Software Engineering",
+      "value_type": "single_select"
+    },
+    {
+      "id": 53341,
+      "name": "Worker Sub-Type",
+      "value": "Regular",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944676,
+      "name": "Time Type",
+      "value": "Full time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944682,
+      "name": "Pay Rate Type",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 944681,
+      "name": "Scheduled Weekly Hours",
+      "value": "0.0",
+      "value_type": "number"
+    },
+    {
+      "id": 944667,
+      "name": "Company",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 944677,
+      "name": "Cost Center",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 944669,
+      "name": "Worker Type",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 957961,
+      "name": "Department",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 7950520,
+  "updated_at": "2026-09-29T16:59:00-04:00",
+  "requisition_id": null,
+  "title": "Senior Software Engineer - DevX",
+  "company_name": "Reddit",
+  "first_published": "2026-05-21T12:03:27-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;div class=&quot;c-message_kit__blocks c-message_kit__blocks--rich_text&quot;&gt;\n&lt;div class=&quot;c-message__message_blocks c-message__message_blocks--rich_text&quot; data-qa=&quot;message-text&quot;&gt;\n&lt;div class=&quot;p-block_kit_renderer&quot; data-qa=&quot;block-kit-renderer&quot;&gt;\n&lt;div class=&quot;p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--first&quot;&gt;\n&lt;div class=&quot;p-rich_text_block&quot;&gt;\n&lt;div class=&quot;p-rich_text_section&quot;&gt;Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit &lt;a class=&quot;c-link&quot; href=&quot;http://www.redditinc.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;http://redditinc.com&quot; data-sk=&quot;tooltip_parent&quot;&gt;www.redditinc.com&lt;/a&gt;.&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;&lt;/div&gt;&lt;h2&gt;About the role&lt;/h2&gt;\n&lt;p&gt;AI-powered and agentic developer tools are changing what is possible, creating an opportunity to rethink how engineers write, test, review, ship, and operate software. At Reddit’s scale, that means building tools that are not only more intelligent, but also faster, more reliable, easier to use, and grounded in strong engineering fundamentals.&lt;/p&gt;\n&lt;p&gt;This role sits at the center of that work: designing and building the platforms, services, systems, and workflows that improve how Reddit engineers develop software. You’ll work across backend systems, infrastructure, developer tooling, and AI-powered workflows to solve problems that affect hundreds of engineers across the company. You’ll collaborate closely with teams that own CI/CD, infrastructure, security, and product systems, as well as engineering teams across Reddit that rely on these tools every day. We’re looking for someone with strong engineering fundamentals, infrastructure experience, product judgment, and a real interest in developer experience and developer productivity.&lt;/p&gt;\n&lt;p&gt;Some of our present and future challenges include:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Designing and building the next generation of developer tooling, including agentic and AI-powered workflows.&lt;/li&gt;\n&lt;li&gt;Improving developer velocity, confidence, and service reliability across Reddit Engineering.&lt;/li&gt;\n&lt;li&gt;Building tools and workflows that make writing, testing, reviewing, and shipping code easier.&lt;/li&gt;\n&lt;li&gt;Scaling our infrastructure, services, APIs, and processes to serve a growing engineering organization.&lt;/li&gt;\n&lt;li&gt;Understanding internal users’ needs and turning that understanding into meaningful product and technical improvements.&lt;/li&gt;\n&lt;li&gt;Building integrations across Reddit’s existing infrastructure, CI/CD, security, source control, deployment, and operational systems.&lt;/li&gt;\n&lt;li&gt;Investigating, building, and integrating novel technologies where they solve real problems for developers.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;You’ll draw on your backend, infrastructure, and platform engineering experience to build developer tooling that is scalable, reliable, easy to use, and valuable to a growing engineering organization. You’ll work directly with engineers across Reddit to understand their pain points, shape solutions, incorporate feedback, and communicate the impact of the team’s work.&lt;/p&gt;\n&lt;h2&gt;What You’ll Do&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Work cross-functionally across Reddit Engineering to understand developer needs, quickly prototype solutions, and iterate based on feedback.&lt;/li&gt;\n&lt;li&gt;Design and build backend systems, APIs, infrastructure, and platform capabilities that improve developer workflows across Reddit.&lt;/li&gt;\n&lt;li&gt;Build scalable and reliable systems across both AI-powered developer workflows and the core non-AI systems engineers rely on every day.&lt;/li&gt;\n&lt;li&gt;Lead high-impact projects across Reddit’s developer tooling ecosystem by writing and reviewing code and design docs, aligning stakeholders, and making pragmatic technical tradeoffs.&lt;/li&gt;\n&lt;li&gt;Build tools and integrations that connect developer workflows with Reddit’s existing infrastructure, CI/CD, security, source control, deployment, and operational systems.&lt;/li&gt;\n&lt;li&gt;Design and implement maintainable APIs, services, libraries, and platforms that support internal developer tooling at scale.&lt;/li&gt;\n&lt;li&gt;Improve the team’s tools, processes, and best practices while raising the bar for reliability, usability, scalability, and maintainability.&lt;/li&gt;\n&lt;li&gt;Mentor engineers and help shape a roadmap that reflects real developer needs and delivers meaningful improvements to Reddit’s engineering organization.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;You Have&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;5+ years of hands-on, post-grad, non-internship professional software development experience, with backend, infrastructure, or platform engineering as a core strength.&lt;/li&gt;\n&lt;li&gt;3+ years of industry experience working on large-scale distributed systems, including building and improving highly scalable and reliable services.&lt;/li&gt;\n&lt;li&gt;Strong proficiency with Go, and significant experience with Go in production systems.&lt;/li&gt;\n&lt;li&gt;Experience designing and implementing maintainable APIs using technologies such as GraphQL, REST, HTTP, or gRPC.&lt;/li&gt;\n&lt;li&gt;Experience building platforms, developer tools, libraries, frameworks, or internal systems used by other engineers.&lt;/li&gt;\n&lt;li&gt;Experience with infrastructure, Kubernetes, cloud providers, or other systems that support modern software development and delivery.&lt;/li&gt;\n&lt;li&gt;Hands-on experience using AI-powered developer tools and workflows, with curiosity and judgment about where these tools can meaningfully improve developer productivity.&lt;/li&gt;\n&lt;li&gt;A track record of leading large, ambiguous, high-impact projects that require cross-team collaboration, technical judgment, stakeholder alignment, and clear ownership from problem definition through delivery.&lt;/li&gt;\n&lt;li&gt;A user-focused mindset, with strong empathy for internal engineering users and a focus on usability, reliability, scalability, and quality.&lt;/li&gt;\n&lt;li&gt;Excellent communication skills, with the ability to influence technical direction and navigate complex requirements across technical and non-technical stakeholders.&lt;/li&gt;\n&lt;li&gt;Experience mentoring engineers, raising the technical bar, and helping teams make pragmatic tradeoffs.&lt;/li&gt;\n&lt;li&gt;A self-directed, action-oriented approach. You are comfortable operating in ambiguity, learning quickly, and driving work forward even when the path is not fully defined.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;Bonus Points&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience working in developer experience, developer productivity, internal platforms, or developer tooling.&lt;/li&gt;\n&lt;li&gt;Experience building tools or workflows for internal engineering users.&lt;/li&gt;\n&lt;li&gt;Experience building or extending CI/CD systems, and partnering with teams that own build, test, and release workflows.&lt;/li&gt;\n&lt;li&gt;Experience with GitHub Enterprise Server or large-scale source control platforms.&lt;/li&gt;\n&lt;li&gt;Experience with Python.&lt;/li&gt;\n&lt;li&gt;Experience measuring the impact of platform or developer productivity work through experimentation, measured rollouts, analytics, reliability metrics, or qualitative feedback.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;Benefits&lt;/h2&gt;\n&lt;ul class=&quot;ak-ul&quot; data-local-id=&quot;86bbada6-8a80-4310-ba0e-73f8a541fe22&quot; data-indent-level=&quot;1&quot;&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;5217&quot; data-local-id=&quot;7a8141b5-f7ba-4353-bdee-caf575fee079&quot;&gt;Comprehensive Healthcare Benefits and Income Replacement Programs&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;5286&quot; data-local-id=&quot;7a8141b5-f7ba-4353-bdee-caf575fee079&quot;&gt;401k with Employer Match&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;5314&quot; data-local-id=&quot;7a8141b5-f7ba-4353-bdee-caf575fee079&quot;&gt;Global Benefit programs that fit your lifestyle, from workspace to professional development to caregiving support&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;5431&quot; data-local-id=&quot;7a8141b5-f7ba-4353-bdee-caf575fee079&quot;&gt;Family Planning Support&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;5458&quot; data-local-id=&quot;7a8141b5-f7ba-4353-bdee-caf575fee079&quot;&gt;Gender-Affirming Care&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;5483&quot; data-local-id=&quot;7a8141b5-f7ba-4353-bdee-caf575fee079&quot;&gt;Mental Health &amp;amp; Coaching Benefits&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;5520&quot; data-local-id=&quot;7a8141b5-f7ba-4353-bdee-caf575fee079&quot;&gt;Flexible Vacation &amp;amp; Paid Volunteer Time Off&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;5567&quot; data-local-id=&quot;7a8141b5-f7ba-4353-bdee-caf575fee079&quot;&gt;Generous Paid Parental Leave&lt;/p&gt;\n&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&lt;strong&gt;Pay Transparency:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;This job posting may span more than one career level.&lt;/p&gt;\n&lt;p&gt;In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit &lt;a href=&quot;https://www.redditinc.com/careers/&quot; target=&quot;_blank&quot;&gt;https://www.redditinc.com/careers/&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;To provide greater transparency to candidates, we share base salary ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;The base salary range for this position is:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$190,800&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$267,100 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;In select roles and locations, the interviews will be recorded, transcribed and summarized by artificial intelligence (AI). You will have the opportunity to opt out of recording, transcription and summarization prior to any scheduled interviews.&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;During the interview, we will collect the following categories of personal information: Identifiers, Professional and Employment-Related Information, Sensory Information (audio/video recording), and any other categories of personal information you choose to share with us. We will use this information to evaluate your application for employment or an independent contractor role, as applicable.&amp;nbsp; We will not sell your personal information or disclose it to any third party for their marketing purposes.&amp;nbsp; We will delete any recording of your interview promptly after making a hiring decision.&amp;nbsp; For more information about how we will handle your personal information, including our retention of it, please refer to our &lt;a href=&quot;https://redditinc.com/policies/candidate-privacy-policy&quot;&gt;Candidate Privacy Policy for Potential Employees and Contractors&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Reddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.&amp;nbsp; Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If, due to a disability, you need an accommodation during the interview process, please let your recruiter know.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 86224,
+      "name": "DevPlatform",
+      "child_ids": [],
+      "parent_id": 16253
+    }
+  ],
+  "offices": [
+    {
+      "id": 10167,
+      "name": "San Francisco",
+      "location": "San Francisco, CA, United States",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

@@ -109,15 +109,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "5e6b9ea0-93c1-45c9-9d4f-102a9d274c0f",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "eb24a208-ce33-4910-809f-fcfd5438848d",
             "summary": "OTE €144.5K – €195.5K",
             "compensationType": "Salary",
@@ -134,6 +125,15 @@
             "currencyCode": "EUR",
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "5e6b9ea0-93c1-45c9-9d4f-102a9d274c0f",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           }
         ]
       },
@@ -143,15 +143,6 @@
         "title": "EMEA Tier 2 - Remote",
         "additionalInformation": null,
         "components": [
-          {
-            "id": "2c5f7aa0-67e9-4650-990f-618ed0afbf0c",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
           {
             "id": "d9c9f576-6845-4975-b447-b8248ba96713",
             "summary": "OTE €127.5K – €172.5K",
@@ -167,6 +158,15 @@
             "compensationType": "Commission",
             "interval": "1 YEAR",
             "currencyCode": "EUR",
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "2c5f7aa0-67e9-4650-990f-618ed0afbf0c",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
             "minValue": null,
             "maxValue": null
           }
@@ -280,12 +280,6 @@
     ],
     "summaryComponents": [
       {
-        "compensationType": "EquityPercentage",
-        "minValue": null,
-        "maxValue": null,
-        "interval": "1 YEAR"
-      },
-      {
         "minValue": 110000,
         "maxValue": 195500,
         "currencyCode": "EUR",
@@ -294,6 +288,12 @@
       },
       {
         "compensationType": "Commission",
+        "minValue": null,
+        "maxValue": null,
+        "interval": "1 YEAR"
+      },
+      {
+        "compensationType": "EquityPercentage",
         "minValue": null,
         "maxValue": null,
         "interval": "1 YEAR"

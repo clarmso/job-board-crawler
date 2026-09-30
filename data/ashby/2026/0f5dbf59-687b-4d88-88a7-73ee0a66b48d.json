@@ -222,15 +222,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "e78d65b7-2d68-4c0f-a211-66df408d1bc0",
-            "summary": "$272K – $323K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "USD",
-            "minValue": 272000,
-            "maxValue": 323000
-          },
-          {
             "id": "c2635d05-b222-4c1c-bfcb-199da1811ec1",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
@@ -238,6 +229,15 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "e78d65b7-2d68-4c0f-a211-66df408d1bc0",
+            "summary": "$272K – $323K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 272000,
+            "maxValue": 323000
           }
         ]
       },

@@ -79,6 +79,15 @@
         "additionalInformation": null,
         "components": [
           {
+            "id": "c9e0433b-5197-4064-a83c-32b5c75edb17",
+            "summary": "SF & NYC - OTE $103K – $129K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 103000,
+            "maxValue": 129000
+          },
+          {
             "id": "d64f582e-8fb0-4b88-bdf0-ede06e11e738",
             "summary": "Offers Commission",
             "compensationType": "Commission",
@@ -95,15 +104,6 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
-          },
-          {
-            "id": "c9e0433b-5197-4064-a83c-32b5c75edb17",
-            "summary": "SF & NYC - OTE $103K – $129K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "USD",
-            "minValue": 103000,
-            "maxValue": 129000
           }
         ]
       },

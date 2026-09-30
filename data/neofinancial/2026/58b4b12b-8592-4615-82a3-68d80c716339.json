@@ -6,7 +6,18 @@
   "employmentType": "FullTime",
   "location": "Calgary, AB",
   "shouldDisplayCompensationOnJobPostings": false,
-  "secondaryLocations": [],
+  "secondaryLocations": [
+    {
+      "location": "Toronto, ON",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "Ontario",
+          "addressCountry": "Canada",
+          "addressLocality": "Toronto"
+        }
+      }
+    }
+  ],
   "publishedAt": "2026-09-28T17:13:27.092+00:00",
   "isListed": true,
   "isRemote": false,

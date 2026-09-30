@@ -41,7 +41,7 @@
     }
   ],
   "id": 5233804007,
-  "updated_at": "2026-09-29T02:21:01-04:00",
+  "updated_at": "2026-09-29T07:15:01-04:00",
   "requisition_id": "260907_I86885",
   "title": "Principal, Regional Partner Programs",
   "company_name": "Zscaler",
@@ -87,9 +87,16 @@
   ],
   "offices": [
     {
-      "id": 4012867007,
-      "name": "Remote - Australia",
-      "location": "Remote - Australia",
+      "id": 4009708007,
+      "name": "Office - Melbourne, Australia",
+      "location": "Melbourne, AUS",
+      "child_ids": [],
+      "parent_id": 4009667007
+    },
+    {
+      "id": 4009709007,
+      "name": "Office - Sydney, Australia",
+      "location": "Sydney, AUS",
       "child_ids": [],
       "parent_id": 4009667007
     }

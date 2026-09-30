@@ -1,0 +1,54 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/twilio/jobs/8240276",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3565648,
+  "location": {
+    "name": "Remote - Ireland"
+  },
+  "metadata": [
+    {
+      "id": 259693,
+      "name": "Job Code",
+      "value": "TP5EG5105-1",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8240276,
+  "updated_at": "2026-09-29T16:48:00-04:00",
+  "requisition_id": "51069",
+  "title": "Principal, Software Engineer (L5)",
+  "company_name": "Twilio",
+  "first_published": "2026-09-29T16:48:00-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Who we are&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to&lt;a class=&quot;c-link&quot; href=&quot;https://customers.twilio.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://customers.twilio.com/&quot; data-sk=&quot;tooltip_parent&quot;&gt;&amp;nbsp;hundreds of thousands of businesses&amp;nbsp;&lt;/a&gt;and empower millions of developers worldwide to craft personalized customer experiences.&lt;/p&gt;\n&lt;p&gt;Our dedication to &lt;a class=&quot;c-link&quot; href=&quot;https://www.twilio.com/en-us/blog/open-work&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.twilio.com/en-us/blog/open-work&quot; data-sk=&quot;tooltip_parent&quot;&gt;remote-first work&lt;/a&gt;, and strong culture of connection and global inclusion means that no matter your location, you’re part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we’re acquiring new skills and experiences that make work feel truly rewarding. Your career at Twilio is in your hands.&lt;br&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Hiring and how we work&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We use Artificial Intelligence (AI) to help make our hiring process efficient. That said, every hiring decision is made by real Twilions!&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Also, while we are a remote-first company, you may be asked to report in person on an ad-hoc basis for team gatherings, functional off-sites or customer meetings.&amp;nbsp;&lt;br&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;See yourself at Twilio&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Join the team as Twilio’s next Principal Software Engineer.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;About the job&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;This position is needed to raise the technical depth of the systems that continuously test, measure, and assure the quality of Twilio&#39;s global carrier connections, and the operational platforms that Super Network&#39;s operations depend on.&lt;/p&gt;\n&lt;p&gt;Every call and message Twilio makes crosses a carrier network we don&#39;t control. This team is how we know those connections are healthy. We monitor and test them continuously, worldwide, for both voice and messaging reliability, and we build what our operations teams use to act on what we find. Increasingly that means LLM agents troubleshooting carrier problems without a human involved — and that&#39;s the part we most want to push further.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;In this role, you’ll:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Design and deliver major components of Twilio&#39;s carrier test and observability platform, covering active voice and messaging testing, quality scoring, and global test coverage.&lt;/li&gt;\n&lt;li&gt;Build high-throughput data and alerting systems that turn the data into signals operations teams can act on without drowning in noise.&lt;/li&gt;\n&lt;li&gt;Extend and harden our production LLM systems for automated carrier troubleshooting — expanding the classes of issue they resolve without human intervention, and owning the evaluation, observability, and guardrails that make autonomous action safe.&lt;/li&gt;\n&lt;li&gt;Diagnose cross-boundary failures where test results, carrier behavior, and platform telemetry disagree, and establish the observability needed to tell those cases apart.&lt;/li&gt;\n&lt;li&gt;Contribute to technical design and review across the team, mentor engineers, and help shape written standards that outlast any single project.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Qualifications&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Twilio values diverse experiences from all kinds of industries, and we encourage everyone who meets the required qualifications to apply. If your career is just starting or hasn&#39;t followed a traditional path, don&#39;t let that stop you from considering Twilio. We are always looking for people who will bring something new to the table!&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;*Required:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;12+ years of software engineering experience, including significant time at staff or principal level working on systems at large scale.&lt;/li&gt;\n&lt;li&gt;Deep expertise designing, operating, and debugging distributed systems that ingest and process high-volume time-series or event data in production, including alerting, anomaly detection, and failure isolation.&lt;/li&gt;\n&lt;li&gt;Hands-on experience taking LLM-based systems to production and keeping them there: context and tool design, evaluation against real outcomes, cost and latency management, and the guardrails required when model output triggers real actions rather than just producing text.&lt;/li&gt;\n&lt;li&gt;Strong proficiency in at least one backend language used at scale (Java, Go, Scala, or similar) and fluency with event streaming and cloud infrastructure (Kafka, AWS, Kubernetes).&lt;/li&gt;\n&lt;li&gt;Ability to communicate complex technical trade-offs clearly in writing and to influence peers through design review rather than authority.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Desired:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience with telecommunications, messaging, or voice systems&lt;/li&gt;\n&lt;li&gt;Experience with active network testing, monitoring, or quality-of-service measurement.&lt;/li&gt;\n&lt;li&gt;Experience with agentic systems that take action on live infrastructure, and with the evaluation practices that make that trustworthy.&amp;nbsp;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Location&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;&amp;nbsp;&lt;/em&gt;This role will be remote, and based in Ireland.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Travel&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We prioritize connection and opportunities to build relationships with our customers and each other. For this role, you may be required to travel occasionally to participate in project or team in-person meetings.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What We Offer&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Working at Twilio offers many benefits, including competitive pay, generous time off, ample parental and wellness leave, healthcare, a retirement savings program, and much more. Offerings vary by location.&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;Twilio thinks big. Do you?&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We like to solve problems, take initiative, pitch in when needed, and are always up for trying new things. That&#39;s why we seek out colleagues who embody our values — something we call &lt;a href=&quot;https://www.twilio.com/company/values&quot;&gt;Twilio Magic&lt;/a&gt;. Additionally, we empower employees to build &lt;a href=&quot;https://twilio.org/support-and-resources/impact-fund&quot;&gt;positive change in their communities&lt;/a&gt; by supporting their volunteering and donation efforts.&lt;/p&gt;\n&lt;p&gt;So, if you&#39;re ready to unleash your full potential, do your best work, and be the best version of yourself, apply now! If this role isn&#39;t what you&#39;re looking for, &lt;a href=&quot;https://www.twilio.com/company/jobs#open-positions&quot;&gt;please consider other open positions.&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Stay alert to recruitment fraud&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We care about your safety. Scammers sometimes impersonate Twilio recruiters through fake job postings, emails, websites, or messages. Please ensure you are engaging with an official @&lt;a href=&quot;http://twilio.com&quot;&gt;twilio.com&lt;/a&gt; email address. We will never ask for payment, gift cards, cryptocurrency, or banking information during the recruiting process. We do not make job offers without a formal interview process or conduct interviews exclusively through text-based messaging apps.&lt;br&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;.&lt;/span&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Twilio is proud to be an equal opportunity employer.&lt;/strong&gt; We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, reproductive health decisions, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, political views or activity, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Qualified applicants with arrest or conviction records will be considered for employment in accordance with the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Additionally, Twilio participates in the E-Verify program in certain locations, as required by law.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 637,
+      "name": "Engineering",
+      "child_ids": [],
+      "parent_id": 70437
+    }
+  ],
+  "offices": [
+    {
+      "id": 79092,
+      "name": "Remote - Ireland",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 74917
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

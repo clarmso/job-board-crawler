@@ -19,15 +19,14 @@
     {
       "id": 825338,
       "name": "Cost Center",
-      "value": "5210 - CS Engineers",
+      "value": "5200 - Solution Engineers",
       "value_type": "single_select"
     },
     {
       "id": 8654220,
       "name": "Job Posting Location",
       "value": [
-        "Seoul, South Korea",
-        "Singapore"
+        "Seoul, South Korea"
       ],
       "value_type": "multi_select"
     },
@@ -41,7 +40,7 @@
     }
   ],
   "id": 8140643,
-  "updated_at": "2026-09-28T04:56:11-04:00",
+  "updated_at": "2026-09-29T21:50:07-04:00",
   "requisition_id": null,
   "title": "Customer Engineer, Korea",
   "company_name": "Cloudflare",
@@ -62,13 +61,6 @@
       "id": 87627,
       "name": "Seoul, South Korea",
       "location": null,
-      "child_ids": [],
-      "parent_id": 74844
-    },
-    {
-      "id": 19992,
-      "name": "Singapore",
-      "location": "Singapore",
       "child_ids": [],
       "parent_id": 74844
     }

@@ -121,15 +121,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "87f9da26-18c3-4b79-8535-d09a06cfcb7d",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "c720e423-a34f-48af-b4d6-7c6cc56b4068",
             "summary": "PLN 130K – PLN 145K",
             "compensationType": "Salary",
@@ -137,6 +128,15 @@
             "currencyCode": "PLN",
             "minValue": 130000,
             "maxValue": 145000
+          },
+          {
+            "id": "87f9da26-18c3-4b79-8535-d09a06cfcb7d",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           }
         ]
       },

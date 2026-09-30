@@ -1,0 +1,148 @@
+{
+  "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=8206794",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3551917,
+  "location": {
+    "name": "Gurugram"
+  },
+  "metadata": [
+    {
+      "id": 22194060,
+      "name": "Position ID",
+      "value": "10010321",
+      "value_type": "short_text"
+    },
+    {
+      "id": 24918,
+      "name": "Department ID",
+      "value": "D22001-App Modernization ENG",
+      "value_type": "single_select"
+    },
+    {
+      "id": 22194061,
+      "name": "Team",
+      "value": "T10339-Modernization ENG",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4914027,
+      "name": "Region",
+      "value": "APAC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4137836,
+      "name": "Working Model Eligibility",
+      "value": [
+        "2-Flexible"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 4914029,
+      "name": "Job Level",
+      "value": "Professional - IC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24109,
+      "name": "Employment Type",
+      "value": "Full-time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 1073551,
+      "name": "Job Type",
+      "value": "Standard",
+      "value_type": "single_select"
+    },
+    {
+      "id": 988684,
+      "name": "JD Link",
+      "value": null,
+      "value_type": "url"
+    },
+    {
+      "id": 5525802,
+      "name": "Baseline Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 5525816,
+      "name": "Other Large Market Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 13324394,
+      "name": "Job Post Range (United States)",
+      "value": {
+        "unit": "INR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 40497768,
+      "name": "Job Post Range (Canada)",
+      "value": {
+        "unit": "INR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 57694516,
+      "name": "Job Post Range (Poland)",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 64002488,
+      "name": "Job Post Range (Italy)",
+      "value": null,
+      "value_type": "currency_range"
+    }
+  ],
+  "id": 8206794,
+  "updated_at": "2026-09-29T11:19:46-04:00",
+  "requisition_id": "3273551917",
+  "title": "Staff Engineer",
+  "company_name": "MongoDB",
+  "first_published": "2026-09-29T11:19:46-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;MongoDB&#39;s Application Modernization Platform (AMP) helps organizations modernize legacy applications and move their workloads and associated data from relational databases to MongoDB. Our customers need a dependable way to bring analysis, transformation, testing, and migration capabilities into their modernization workflows.&lt;/p&gt;\n&lt;p&gt;The Platform team builds the shared foundations that make AMP a cohesive product. We connect specialized tools and services through consistent interfaces, integrate them with AI agents and development environments, and make them secure, observable, and straightforward to deploy and operate. Our work enables product teams to deliver new capabilities without repeatedly solving the same integration and infrastructure problems.&lt;/p&gt;\n&lt;p&gt;We are looking for a Staff Engineer to set technical direction and lead delivery of this platform. You will combine deep systems engineering with product judgment, turning ambiguous requirements into reusable services and working integrations. You will define clear boundaries between platform, product teams, and external partners; make deliberate build-versus-integrate decisions; and contribute foundational code. Your impact will be measured by how reliably teams and customers can adopt and use AMP capabilities, and how much engineering effort the platform removes from their path.&lt;/p&gt;\n&lt;p&gt;We are looking to speak to candidates who are based in Gurugram for our hybrid working model.&lt;/p&gt;\n&lt;h3&gt;A strong candidate for this position will have:&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Technical Leadership: Over 8 years in software engineering and production operations, with a proven history of championing major technical strategies and deploying resilient, scalable architectures&lt;/li&gt;\n&lt;li&gt;Platform Engineering: Deep practical expertise architecting common frameworks, distributed architectures, or core developer tooling leveraged across multiple organizations or customer environments&lt;/li&gt;\n&lt;li&gt;API &amp;amp; System Design: Track record of establishing and refining service boundaries, interfaces, and data schemas with a sharp focus on backward compatibility, extensibility, and smooth adoption&lt;/li&gt;\n&lt;li&gt;Operational Rigor: Practical expertise maintaining mission-critical services, driving observability, incident recovery, performance tuning, automated test suites, and continuous delivery workflows&lt;/li&gt;\n&lt;li&gt;Security Integration: Demonstrated success constructing safe integrations, implementing strict auth mechanisms while protecting proprietary client code, sensitive data, and authentication tokens&lt;/li&gt;\n&lt;li&gt;Cross-Functional Impact: Ability to spearhead architectural direction across team boundaries, communicate complex tradeoffs, offer constructive guidance, and mentor engineers throughout execution&lt;/li&gt;\n&lt;li&gt;Product Sense: Sharp product judgment that converts developer requirements and user feedback into clear roadmaps, tangible milestones, and clear success criteria&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Not required but beneficial:&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;AI Agent &amp;amp; LLM Integration: Hands-on experience embedding intelligent agents or language model workflows into enterprise platforms, including defining execution contexts, robust tool interfaces, and mitigating nondeterministic operational behavior&lt;/li&gt;\n&lt;li&gt;Developer Tooling &amp;amp; Distribution: Expertise delivering developer-centric software—such as CLIs, custom SDKs, containerized architectures, or self-hosted components—deployed directly within client-managed infrastructure&lt;/li&gt;\n&lt;li&gt;Domain Expertise: In-depth background in application modernization, relational database systems, MongoDB ecosystems, automated code transformation, and enterprise data migration pipelines&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Position Expectations&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Architectural Vision &amp;amp; Strategy: Formulate core service layers and integration frameworks enabling seamless AMP functionality. Define strict service-level boundaries with collaborating engineering orgs, iteratively maturing platform primitives using production workloads&lt;/li&gt;\n&lt;li&gt;Agent &amp;amp; Tooling Integration: Spearhead engineering initiatives to expose platform capabilities via resilient CLI tools and APIs, connecting them cleanly with autonomous agent frameworks while managing tenant isolation, auth state, and operational context&lt;/li&gt;\n&lt;li&gt;Deployment &amp;amp; Lifecycle Engineering: Optimize distribution, automated upgrades, and runtime execution across client enterprise environments. Establish holistic telemetry, structured logging, and actionable diagnostics to streamline incident recovery and troubleshooting&lt;/li&gt;\n&lt;li&gt;Security &amp;amp; Enterprise Quality: Work closely alongside security engineers to safeguard customer intellectual property, ensuring robust execution isolation and embedding security controls directly into release pipelines&lt;/li&gt;\n&lt;li&gt;Cross-Functional Strategy Execution: Align product management, field teams, and external technical partners to translate user demands into high-impact roadmaps, driving implementation from discovery through widespread client adoption&lt;/li&gt;\n&lt;li&gt;Technical Leadership &amp;amp; Excellence: Author core infrastructure components, lead rigorous architectural reviews, and elevate team capabilities through shared design paradigms, thorough documentation, and hands-on mentoring&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Success Measures&lt;/h3&gt;\n&lt;p&gt;3 Months Objectives:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Develop comprehensive mastery of system architectures, user journeys, and technical constraints while fostering key cross-functional partnerships&lt;/li&gt;\n&lt;li&gt;Unify stakeholders around a strategic engineering initiative, defining architectural boundaries, delivery roadmaps, and baseline operational metrics&lt;/li&gt;\n&lt;li&gt;Deploy a high-impact core component that validates key design paradigms and eliminates key operational friction for internal adopters&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;6 Months Objectives:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Spearhead production rollout of major shared services with defined interfaces, comprehensive telemetry, and sustainable operational framework support&lt;/li&gt;\n&lt;li&gt;Drive quantifiable progress in target performance indicators, including onboarding speed, integration complexity, system resilience, and mean time to resolution&lt;/li&gt;\n&lt;li&gt;Influence overall technical direction alongside product partners, establishing systematic cadences for architectural reviews and execution milestones&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;12 Months Objectives:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Establish foundational platform primitives powering enterprise-wide capabilities, ensuring high-availability operations and seamless upgrade paths&lt;/li&gt;\n&lt;li&gt;Demonstrate tangible efficiency gains across product teams by significantly lowering maintenance overhead and accelerating modernization deployment speed&lt;/li&gt;\n&lt;li&gt;Serve as a key technical champion, mentoring talent, elevating engineering standards, and participating actively in talent acquisition&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;About MongoDB&lt;/h3&gt;\n&lt;p&gt;MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure.&lt;/p&gt;\n&lt;p&gt;With offices worldwide and over 67,000 customers, including AI-native startups and approximately 75% of the Fortune 100, relying on MongoDB for their most important applications, we’re powering the next era of software.&lt;/p&gt;\n&lt;p&gt;Our compass at MongoDB is our &lt;a href=&quot;https://www.mongodb.com/company&quot;&gt;Leadership Commitment,&lt;/a&gt; guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. &lt;a href=&quot;https://www.mongodb.com/company/blog/culture/employee-benefits-that-make-a-difference-at-mongodb&quot;&gt;From employee affinity groups, to fertility assistance and a generous parental leave policy&lt;/a&gt;, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys.&lt;a href=&quot;https://www.mongodb.com/blog/channel/culture&quot;&gt; Learn more about what it’s like to work at MongoDB&lt;/a&gt;, and help us make an impact on the world!&lt;/p&gt;\n&lt;p&gt;MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.&lt;/p&gt;\n&lt;p&gt;MongoDB is an equal opportunities employer.&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Requisition ID &amp;nbsp; &amp;nbsp;3273551917&lt;/em&gt;&lt;/p&gt;",
+  "departments": [
+    {
+      "id": 292718,
+      "name": "App Modernization ENG",
+      "child_ids": [],
+      "parent_id": 370707
+    }
+  ],
+  "offices": [
+    {
+      "id": 65909,
+      "name": "Gurugram",
+      "location": "Gurugram, Haryana, India",
+      "child_ids": [],
+      "parent_id": 23659
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": null
+}
