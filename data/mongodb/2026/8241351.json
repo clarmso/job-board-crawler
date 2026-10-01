@@ -1,0 +1,148 @@
+{
+  "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=8241351",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3566003,
+  "location": {
+    "name": "Dublin, Ireland"
+  },
+  "metadata": [
+    {
+      "id": 22194060,
+      "name": "Position ID",
+      "value": "10011306",
+      "value_type": "short_text"
+    },
+    {
+      "id": 24918,
+      "name": "Department ID",
+      "value": "D23040-Product Security",
+      "value_type": "single_select"
+    },
+    {
+      "id": 22194061,
+      "name": "Team",
+      "value": "458-Product Security",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4914027,
+      "name": "Region",
+      "value": "EMEA",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4137836,
+      "name": "Working Model Eligibility",
+      "value": [
+        "2-Flexible"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 4914029,
+      "name": "Job Level",
+      "value": "Professional - IC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24109,
+      "name": "Employment Type",
+      "value": "Full-time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 1073551,
+      "name": "Job Type",
+      "value": "Standard",
+      "value_type": "single_select"
+    },
+    {
+      "id": 988684,
+      "name": "JD Link",
+      "value": "https://docs.google.com/document/d/1zPDiyweijFzn_2o1WkLVAbmX6NSNjlD_SNvVQbV36t8/edit?tab=t.35tak4hcc48q",
+      "value_type": "url"
+    },
+    {
+      "id": 5525802,
+      "name": "Baseline Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 5525816,
+      "name": "Other Large Market Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 13324394,
+      "name": "Job Post Range (United States)",
+      "value": {
+        "unit": "EUR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 40497768,
+      "name": "Job Post Range (Canada)",
+      "value": {
+        "unit": "EUR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 57694516,
+      "name": "Job Post Range (Poland)",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 64002488,
+      "name": "Job Post Range (Italy)",
+      "value": null,
+      "value_type": "currency_range"
+    }
+  ],
+  "id": 8241351,
+  "updated_at": "2026-09-30T11:39:20-04:00",
+  "requisition_id": "3273566003",
+  "title": "Senior Software Engineer, Product Security",
+  "company_name": "MongoDB",
+  "first_published": "2026-09-30T11:39:20-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;The MongoDB Product Security team is looking for a full-stack senior software engineer to help us build and scale the next generation of security practices, enabling hundreds of MongoDB engineers to build secure products for our customers.&lt;/p&gt;\n&lt;p&gt;The Product Security team empowers product teams to build secure products for MongoDB customers by providing security enablement, such as AI-powered code analysis, threat modeling and security finding triaging and verification, fuzzing infrastructure, and finding management solutions. Our goal is to incorporate security early in product development at scale without introducing friction. With the emerging capabilities of AI models, we are proactively adopting our security practices to be prepared for the newly introduced challenges.&lt;/p&gt;\n&lt;p&gt;We are looking to speak to candidates who are based in Dublin for our hybrid working model. This role is expected to work with a distributed team that covers all time zones in the US.&lt;/p&gt;\n&lt;h3&gt;Key Responsibilities:&lt;/h3&gt;\n&lt;p&gt;As a software engineer on our team, you will help us develop and maintain security automations, such as:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Deliver features for an automated code analysis platform&lt;/li&gt;\n&lt;li&gt;Expand security findings triaging and verification platform to all products across MongoDB&lt;/li&gt;\n&lt;li&gt;Automate finding management process to be self-serve for engineering teams&lt;/li&gt;\n&lt;li&gt;Centralized security signal analytics platform to help teams focus on the most important security work&lt;/li&gt;\n&lt;li&gt;Design and build tooling solutions to shift security practices left in SDLC&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Baseline Qualifications:&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;5+ years of experience of production-level software development with Python and TypeScript in a cloud environment&lt;/li&gt;\n&lt;li&gt;Experience managing the end-to-end development lifecycle, including building, deploying and operating software at scale&lt;/li&gt;\n&lt;li&gt;Experience in micro-services, Kubernetes, and containers&lt;/li&gt;\n&lt;li&gt;Deep understanding of CI/CD systems, including linting, testing and various deployment strategies&lt;/li&gt;\n&lt;li&gt;The ability to independently prioritize and execute tasks after alignment with the team and stakeholders&lt;/li&gt;\n&lt;li&gt;A proven track record of identifying problems, implementing solutions and delivering complex projects&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Strong Understanding of building AI agents&lt;/li&gt;\n&lt;li&gt;Strong verbal and written technical communication skills&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Preferred Qualifications:&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Basic knowledge of what security practices are and how they work, such as threat modeling, secure code review, and CVE&lt;/li&gt;\n&lt;li&gt;Familiarity with C++ or Rust&lt;/li&gt;\n&lt;li&gt;Experience designing and operating systems that execute untrusted code safely — container/sandbox isolation, least-privilege credential handling, and network egress controls.&lt;/li&gt;\n&lt;li&gt;Experience with NoSQL or database development&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;About MongoDB&lt;/h3&gt;\n&lt;p&gt;MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure.&lt;/p&gt;\n&lt;p&gt;With offices worldwide and over 67,000 customers, including AI-native startups and approximately 75% of the Fortune 100, relying on MongoDB for their most important applications, we’re powering the next era of software.&lt;/p&gt;\n&lt;p&gt;Our compass at MongoDB is our &lt;a href=&quot;https://www.mongodb.com/company&quot;&gt;Leadership Commitment,&lt;/a&gt; guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. &lt;a href=&quot;https://www.mongodb.com/company/blog/culture/employee-benefits-that-make-a-difference-at-mongodb&quot;&gt;From employee affinity groups, to fertility assistance and a generous parental leave policy&lt;/a&gt;, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys.&lt;a href=&quot;https://www.mongodb.com/blog/channel/culture&quot;&gt; Learn more about what it’s like to work at MongoDB&lt;/a&gt;, and help us make an impact on the world!&lt;/p&gt;\n&lt;p&gt;MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.&lt;/p&gt;\n&lt;p&gt;MongoDB is an equal opportunities employer.&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Req ID: 3273566003&lt;/em&gt;&lt;/p&gt;",
+  "departments": [
+    {
+      "id": 85963,
+      "name": "Product Security",
+      "child_ids": [],
+      "parent_id": 371021
+    }
+  ],
+  "offices": [
+    {
+      "id": 3962,
+      "name": "Dublin",
+      "location": "Dublin, Ireland",
+      "child_ids": [],
+      "parent_id": 23658
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": null
+}

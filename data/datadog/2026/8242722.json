@@ -1,0 +1,96 @@
+{
+  "absolute_url": "https://careers.datadoghq.com/detail/8242722/?gh_jid=8242722",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3566533,
+  "location": {
+    "name": "Paris, France"
+  },
+  "metadata": [
+    {
+      "id": 33310,
+      "name": "Time Type",
+      "value": "Full time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 166208,
+      "name": "Area - Engineering",
+      "value": "Backend",
+      "value_type": "single_select"
+    },
+    {
+      "id": 498252,
+      "name": "Cost Center",
+      "value": "Engineering - Security",
+      "value_type": "single_select"
+    },
+    {
+      "id": 516515,
+      "name": "Geography",
+      "value": "EMEA",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9593635,
+      "name": "Early Career Time Type",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 29446322,
+      "name": "Pay Transparency Range",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 31273219,
+      "name": "Does this role require access to ITAR-controlled data?",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 58619948,
+      "name": "IC or MG",
+      "value": "IC",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8242722,
+  "updated_at": "2026-09-30T09:09:47-04:00",
+  "requisition_id": "R21544",
+  "title": "Senior Software Engineer, Chaos Engineering",
+  "company_name": "Datadog",
+  "first_published": "2026-09-30T09:09:47-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;Datadog’s Chaos Engineering team builds systems that surface reliability weaknesses before they become outages. As a Senior Software Engineer, you will initially focus on zonal resilience, building automation that helps services safely evacuate and recover from zonal failures, while also contributing to fault injection, incident replay, gameday orchestration, and reliability tooling. You will work across engineering teams to design systems that safely exercise production failure modes and turn findings into verified remediation. You will also help advance the use of AI and automation to identify, test, and close resilience gaps as Datadog’s software and infrastructure evolve.&lt;/p&gt;\n&lt;p&gt;At Datadog, we place value in our office culture - the relationships and collaboration it builds and the creativity it brings to the table. We operate as a hybrid workplace to ensure our Datadogs can create a work-life harmony that best fits them.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What You’ll Do:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Build zonal-resilience automation that coordinates safe workload evacuations, switchovers, and recovery in partnership with the teams that own affected services.&lt;/li&gt;\n&lt;li&gt;Design and build fault-injection systems for production environments, including infrastructure- and application-level testing, incident replay, and controlled resilience experiments.&lt;/li&gt;\n&lt;li&gt;Develop safeguards such as blast-radius controls, kill switches, validation mechanisms, and rollback paths that keep production experiments contained and reversible.&lt;/li&gt;\n&lt;li&gt;Build agents and automation that help propose failure scenarios, triage experiment results, and connect reliability findings to tracked remediation and verification.&lt;/li&gt;\n&lt;li&gt;Lead gamedays from hypothesis and scenario design through execution, documented findings, remediation tracking, and validation of completed fixes.&lt;/li&gt;\n&lt;li&gt;Design and implement reliable distributed systems, including gRPC services, Kubernetes controllers, and shared platform components, while contributing to technical design and mentoring other engineers.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Who You Are:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;You have strong distributed systems fundamentals and can reason about consistency, failure modes, backpressure, idempotency, quorum, retries, and failure recovery.&lt;/li&gt;\n&lt;li&gt;You understand Kubernetes workload lifecycles, including how pods, controllers, scheduling, draining, and eviction interact with resilient system design.&lt;/li&gt;\n&lt;li&gt;You have experience designing, building, or operating production systems where safety, availability, and controlled failure handling are important.&lt;/li&gt;\n&lt;li&gt;You communicate complex technical decisions clearly through design documents, runbooks, postmortems, and cross-functional technical discussions.&lt;/li&gt;\n&lt;li&gt;You are comfortable collaborating across engineering teams to understand unfamiliar systems, identify failure modes, and drive resilience improvements.&lt;/li&gt;\n&lt;li&gt;Experience with reliability engineering, chaos engineering, zonal failover, AI-assisted operational workflows, traffic interception, or large-scale observability systems is beneficial but not required.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Datadog values people from all walks of life. We know not everyone will meet all the above qualifications on day one. That’s okay. If you’re passionate about technology and want to grow your experience, we encourage you to apply.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Benefits and Growth:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Develop deep expertise in distributed systems, production resilience, Kubernetes, and large-scale infrastructure.&lt;/li&gt;\n&lt;li&gt;Work on reliability systems that operate across Datadog’s production environment and influence how engineering teams design for failure.&lt;/li&gt;\n&lt;li&gt;Grow your experience designing safe, automated approaches to fault injection, zonal resilience, and incident reproduction.&lt;/li&gt;\n&lt;li&gt;Explore practical applications of AI and automation to reliability engineering and operational workflows.&lt;/li&gt;\n&lt;li&gt;Collaborate with engineers across infrastructure, databases, observability, and service teams on complex systems challenges.&lt;/li&gt;\n&lt;li&gt;Mentor other engineers and contribute to technical designs, engineering practices, and platform strategy.&lt;/li&gt;\n&lt;li&gt;Benefits and Growth listed above may vary based on the country of your employment and the nature of your employment with Datadog.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p style=&quot;color: white;&quot;&gt;#LI-Hybrid&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;hr&gt;\n&lt;p&gt;&lt;strong&gt;About Datadog:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Datadog is the leading observability and security platform for the AI era, providing businesses with unified visibility across the technology stack to manage complexity at scale. It brings applications, infrastructure, data, models, and security into one place, using AI to detect and resolve issues before they impact customers. Trusted globally by Fortune 500 companies and high-growth AI leaders, Datadog enables businesses to move faster with clarity and confidence. Learn more about #DatadogLife on &lt;a href=&quot;https://www.instagram.com/datadoghq/?hl=en&quot; target=&quot;_blank&quot;&gt;Instagram&lt;/a&gt;, &lt;a href=&quot;https://www.linkedin.com/company/datadog&quot; target=&quot;_blank&quot;&gt;LinkedIn,&lt;/a&gt; and &lt;a href=&quot;https://learn.datadoghq.com/&quot; target=&quot;_blank&quot;&gt;Datadog Learning Center. &lt;/a&gt;&lt;/p&gt;\n&lt;hr&gt;\n&lt;p data-renderer-start-pos=&quot;215&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Equal Opportunity at Datadog:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Datadog is proud to offer &lt;a href=&quot;https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf&quot; target=&quot;_blank&quot;&gt;equal employment opportunity&lt;/a&gt; to everyone regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, veteran status, and other characteristics protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. Here are our &lt;a href=&quot;https://www.datadoghq.com/legal/candidate-legal-notices/&quot; target=&quot;_blank&quot;&gt;Candidate Legal Notices&lt;/a&gt; for your reference.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Datadog endeavors to make our Careers Page accessible to all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please complete &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSeoJeduEZ2NdZF_65uZmWUrCM-zee7yADXX1s6Xr9zAGq8iKA/viewform&quot; target=&quot;_blank&quot;&gt;this form&lt;/a&gt;. This form is for accommodation requests only and cannot be used to inquire about the status of applications.&amp;nbsp;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;662&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Privacy and AI Guidelines:&lt;/strong&gt;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;662&quot;&gt;Any information you submit to Datadog as part of your application will be processed in accordance with Datadog’s&amp;nbsp;&lt;a class=&quot;c-link&quot; href=&quot;https://www.datadoghq.com/legal/applicant-candidate-privacy/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.datadoghq.com/legal/applicant-candidate-privacy/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Applicant and Candidate Privacy Notice&lt;/a&gt;. For information on our AI policy, please visit &lt;a href=&quot;https://www.datadoghq.com/legal/interviewing-at-datadog-ai-guidelines/&quot; target=&quot;_blank&quot;&gt;Interviewing at Datadog AI Guidelines&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 72256,
+      "name": "Security",
+      "child_ids": [],
+      "parent_id": 9022
+    }
+  ],
+  "offices": [
+    {
+      "id": 8604,
+      "name": "Paris",
+      "location": "Paris, Paris, France",
+      "child_ids": [],
+      "parent_id": 78094
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

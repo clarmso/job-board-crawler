@@ -56,7 +56,7 @@
     }
   ],
   "id": 8044321,
-  "updated_at": "2026-09-10T20:07:01-04:00",
+  "updated_at": "2026-09-30T13:03:30-04:00",
   "requisition_id": "R11895",
   "title": "UK Commercial Counsel Public Sector",
   "company_name": "Elastic",
@@ -74,11 +74,13 @@
   ],
   "offices": [
     {
-      "id": 20739,
-      "name": "London, United Kingdom",
-      "location": "5 Southampton Street, London WC2E 7HA",
-      "child_ids": [],
-      "parent_id": 80195
+      "id": 80195,
+      "name": "United Kingdom",
+      "location": null,
+      "child_ids": [
+        20739
+      ],
+      "parent_id": 80176
     }
   ],
   "ai_disclaimer": null,

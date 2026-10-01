@@ -31,7 +31,7 @@
     {
       "id": 4185056008,
       "name": "Position open to remote",
-      "value": true,
+      "value": false,
       "value_type": "yes_no"
     },
     {
@@ -120,7 +120,7 @@
     }
   ],
   "id": 5193491008,
-  "updated_at": "2026-08-05T14:43:18-04:00",
+  "updated_at": "2026-09-30T14:03:45-04:00",
   "requisition_id": "R0006359",
   "title": "Business Development Rep",
   "company_name": "Block",
@@ -138,8 +138,8 @@
   ],
   "offices": [
     {
-      "id": 4007817008,
-      "name": "AU - NSW - Remote",
+      "id": 4007863008,
+      "name": "AU - VIC - Collins",
       "location": null,
       "child_ids": [],
       "parent_id": 4007684008

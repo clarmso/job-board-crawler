@@ -1,0 +1,138 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/reddit/jobs/8243010",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3566658,
+  "location": {
+    "name": "Remote - United States"
+  },
+  "metadata": [
+    {
+      "id": 944668,
+      "name": "Position ID",
+      "value": "P-100476",
+      "value_type": "short_text"
+    },
+    {
+      "id": 956352,
+      "name": "Recruiting Start Date",
+      "value": "2026-09-30",
+      "value_type": "date"
+    },
+    {
+      "id": 944671,
+      "name": "Target Hire Date",
+      "value": "2026-11-24",
+      "value_type": "date"
+    },
+    {
+      "id": 944672,
+      "name": "Target Hire End Date",
+      "value": "",
+      "value_type": "date"
+    },
+    {
+      "id": 944673,
+      "name": "Job Profile",
+      "value": "Machine Learning Engineer 6",
+      "value_type": "single_select"
+    },
+    {
+      "id": 956351,
+      "name": "Management Level",
+      "value": "IC6",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944675,
+      "name": "Job Family",
+      "value": "Machine Learning",
+      "value_type": "single_select"
+    },
+    {
+      "id": 53341,
+      "name": "Worker Sub-Type",
+      "value": "Regular",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944676,
+      "name": "Time Type",
+      "value": "Full time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944682,
+      "name": "Pay Rate Type",
+      "value": "Salary",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944681,
+      "name": "Scheduled Weekly Hours",
+      "value": "40.0",
+      "value_type": "number"
+    },
+    {
+      "id": 944667,
+      "name": "Company",
+      "value": "Reddit, Inc.",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944677,
+      "name": "Cost Center",
+      "value": "Tech-Search & Signals",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944669,
+      "name": "Worker Type",
+      "value": "Employee",
+      "value_type": "single_select"
+    },
+    {
+      "id": 957961,
+      "name": "Department",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8243010,
+  "updated_at": "2026-10-01T03:28:47-04:00",
+  "requisition_id": "R-105905",
+  "title": "Senior Staff Machine Learning Engineer, ML Understanding",
+  "company_name": "Reddit",
+  "first_published": "2026-09-30T10:22:33-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;div class=&quot;c-message_kit__blocks c-message_kit__blocks--rich_text&quot;&gt;\n&lt;div class=&quot;c-message__message_blocks c-message__message_blocks--rich_text&quot; data-qa=&quot;message-text&quot;&gt;\n&lt;div class=&quot;p-block_kit_renderer&quot; data-qa=&quot;block-kit-renderer&quot;&gt;\n&lt;div class=&quot;p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--first&quot;&gt;\n&lt;div class=&quot;p-rich_text_block&quot;&gt;\n&lt;div class=&quot;p-rich_text_section&quot;&gt;Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit &lt;a class=&quot;c-link&quot; href=&quot;http://www.redditinc.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;http://redditinc.com&quot; data-sk=&quot;tooltip_parent&quot;&gt;www.redditinc.com&lt;/a&gt;.&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;&lt;/div&gt;&lt;p&gt;We’re looking for a Senior Staff Machine Learning Engineer to lead Reddit’s next-generation user understanding initiative: building a unified, high-fidelity representation of each user that powers personalization across the platform.&lt;/p&gt;\n&lt;p&gt;This role requires deep expertise in mainstream ML user modeling approaches (e.g., large-scale embeddings, user interest modeling, affinities, behavioral signals) and the ability to reimagine these systems in the GenAI era—leveraging LLMs and foundation models to unlock step-change improvements in fidelity, adaptability, and expressiveness.&lt;/p&gt;\n&lt;p&gt;You will set the technical direction for this space, leading the design and implementation of Reddit’s core user representation layer—spanning embeddings, interest modeling, and key user attributes. You’ll ensure this foundation is scalable, reliable, and widely adopted across Feeds, Search, Notifications, and Ads, partnering closely with product, infrastructure, and downstream ML teams to drive measurable impact.&lt;/p&gt;\n&lt;p&gt;This is a high-impact role. The systems you build will shape how hundreds of millions of people experience Reddit every day—what they see, what they discover, and the communities they connect with. Your work will directly advance personalization and relevance at global scale, strengthening Reddit as a platform for meaningful connection and belonging.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What you&#39;ll do:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Design User Understanding Strategy: Define a unified user understanding framework and strategy: how users are represented (embeddings, tags, attributes, LLM-based user profile), how they are computed, stored, and exposed. Provide thought leadership in user understanding and user modeling by setting a long-term technical vision and advancing the state-of-the-art in the field.&lt;/li&gt;\n&lt;li&gt;Build Foundational User Models: Lead design and implementation of advanced user models, e.g. large-scale user representation learning (sequence-based, multi-interest, multi-task) that share representations across surfaces to improve personalization experience across key Reddit products e.g. Feeds, Notification, Search and Ads, balancing latency, cost, and performance.&lt;/li&gt;\n&lt;li&gt;Reimagine user understanding with LLM/Gen-AI: Evolve user modeling beyond traditional representations by leveraging LLMs to build richer user understanding (e.g., dynamic user profiles, intent inference, semantic reasoning over user behavior). Explore how LLMs can augment or unify embeddings, attributes, and taxonomies to enable more adaptive, interpretable, and context-aware personalization.&lt;/li&gt;\n&lt;li&gt;Ship Large Scale User Understanding as a System: Partner with platform teams to design and build core components for large-scale learning and serving: storage/retrieval for embeddings, feature pipelines, and APIs. Collaborate with ML/Ranking infra to ensure low-latency serving, high availability, and integration with MLOps systems.&lt;/li&gt;\n&lt;li&gt;Drive Cross-Team Integration &amp;amp; Impact: Partner with Feeds, Notification, Search and Ads teams to drive experimentation and adoption of new user understanding models with product teams across Reddit, ensuring measurable end-to-end impact on key metrics.&lt;/li&gt;\n&lt;li&gt;Set Technical Bar &amp;amp; Mentor: Mentor senior to staff engineers, lead design reviews, steward technical decisions across the user understanding domain, and champion and drive engineering processes and best practices&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Who you might be:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;You have at least 10 years experience building and scaling production-grade ML systems, particularly in user modeling, large-scale representation learning, or recommender systems.&lt;/li&gt;\n&lt;li&gt;You have a track record of driving ambiguous, high-impact initiatives from concept to production, shaping both technical direction and execution.&lt;/li&gt;\n&lt;li&gt;You are product- and impact-oriented: you care deeply about how your work moves real metrics (e.g., engagement, retention, revenue), not just model quality.&lt;/li&gt;\n&lt;li&gt;You bring strong fundamentals in mainstream user understanding ML approaches (e.g., representation learning, behavioral modeling, user clustering), and understand their trade-offs in real-world systems.&lt;/li&gt;\n&lt;li&gt;You are excited about the GenAI shift and have experience (or strong intuition) applying LLMs or foundation models to evolve existing systems,&amp;nbsp; going beyond incremental improvements.&lt;/li&gt;\n&lt;li&gt;You think in systems, not just models: you consider data, training, evaluation, serving, and adoption as a cohesive whole, and design with end-to-end impact in mind.&lt;/li&gt;\n&lt;li&gt;You influence beyond your immediate team: partnering effectively with product, infra, and other ML teams, and driving alignment across multiple stakeholders.&lt;/li&gt;\n&lt;li&gt;You raise the technical bar: mentoring senior engineers, leading design reviews, and establishing best practices for building reliable, scalable ML systems.&lt;/li&gt;\n&lt;li&gt;You are comfortable navigating trade-offs across quality, latency, cost, and safety, especially in large-scale, user-facing systems.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Benefits:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Comprehensive Healthcare Benefits and Income Replacement Programs&lt;/li&gt;\n&lt;li&gt;401k with Employer Match&lt;/li&gt;\n&lt;li&gt;Global Benefit programs that fit your lifestyle, from workspace to professional development to caregiving support&lt;/li&gt;\n&lt;li&gt;Family Planning Support&lt;/li&gt;\n&lt;li&gt;Gender-Affirming Care&lt;/li&gt;\n&lt;li&gt;Mental Health &amp;amp; Coaching Benefits&lt;/li&gt;\n&lt;li&gt;Flexible Vacation &amp;amp; Paid Volunteer Time Off&lt;/li&gt;\n&lt;li&gt;Generous Paid Parental Leave&amp;nbsp;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;#LI-remote, #LI-JS5&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&lt;strong&gt;Pay Transparency:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;This job posting may span more than one career level.&lt;/p&gt;\n&lt;p&gt;In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit &lt;a href=&quot;https://www.redditinc.com/careers/&quot; target=&quot;_blank&quot;&gt;https://www.redditinc.com/careers/&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;To provide greater transparency to candidates, we share base salary ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;The base salary range for this position is:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$266,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$372,400 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;In select roles and locations, the interviews will be recorded, transcribed and summarized by artificial intelligence (AI). You will have the opportunity to opt out of recording, transcription and summarization prior to any scheduled interviews.&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;During the interview, we will collect the following categories of personal information: Identifiers, Professional and Employment-Related Information, Sensory Information (audio/video recording), and any other categories of personal information you choose to share with us. We will use this information to evaluate your application for employment or an independent contractor role, as applicable.&amp;nbsp; We will not sell your personal information or disclose it to any third party for their marketing purposes.&amp;nbsp; We will delete any recording of your interview promptly after making a hiring decision.&amp;nbsp; For more information about how we will handle your personal information, including our retention of it, please refer to our &lt;a href=&quot;https://redditinc.com/policies/candidate-privacy-policy&quot;&gt;Candidate Privacy Policy for Potential Employees and Contractors&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Reddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.&amp;nbsp; Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If, due to a disability, you need an accommodation during the interview process, please let your recruiter know.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 79647,
+      "name": "Machine Learning",
+      "child_ids": [],
+      "parent_id": 16253
+    }
+  ],
+  "offices": [
+    {
+      "id": 88237,
+      "name": "Remote - United States",
+      "location": null,
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

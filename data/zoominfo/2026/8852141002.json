@@ -1,0 +1,72 @@
+{
+  "absolute_url": "https://www.zoominfo.com/careers?gh_jid=8852141002",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 6543624002,
+  "location": {
+    "name": "Bethesda, Maryland, United States"
+  },
+  "metadata": [
+    {
+      "id": 24710929002,
+      "name": "Job Family Group",
+      "value": "Engineering",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24711071002,
+      "name": "Time Type",
+      "value": "Full time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 101751589002,
+      "name": "Work Shift",
+      "value": "General Shift",
+      "value_type": "short_text"
+    },
+    {
+      "id": 4203585002,
+      "name": "LEGACY - Employment Type",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8852141002,
+  "updated_at": "2026-09-30T16:26:45-04:00",
+  "requisition_id": "JR108180",
+  "title": "Software Engineer III - Developer Productivity",
+  "company_name": "ZoomInfo Technologies LLC",
+  "first_published": "2026-09-30T16:26:45-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen–fast.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;div&gt;As a&amp;nbsp;&lt;strong&gt;Software Engineer III on the Developer Productivity team&lt;/strong&gt;, you&#39;ll help build systems on our Python-based agentic platform that turn inputs such as Jira tickets, Slack conversations, help-desk requests, and CRM signals into clearly scoped, human-supervised engineering work—then help implement, review, and improve that work.&lt;br&gt;You&#39;ll contribute to systems that clarify problem statements, generate implementation plans, run a conversational Slack intake experience, and assist engineers with repository discovery, plan execution, testing, and pull request creation. You&#39;ll also help build the platform behaviors—permissions, auditability, evaluation, observability, rollback, and cost controls—that make all of this dependable at scale.&lt;br&gt;&lt;br&gt;The Developer Productivity team owns the tooling, automation, and standards that make engineers across ZoomInfo more productive, and is becoming the company&#39;s center of gravity for AI-assisted development. You&#39;ll be working within an ecosystem of internal developer platforms, PR and workflow automation tools, and AI devex tooling that spans code review, dependency management, and agent orchestration.&lt;br&gt;&lt;br&gt;Our engineering culture values diversity, intellectual curiosity, problem-solving, and openness. We encourage collaboration, big thinking, and calculated risk-taking in a blame-free environment. You&#39;ll have the opportunity to work on meaningful projects while receiving the support and mentorship needed to grow your career..&lt;br&gt;&lt;br&gt;&lt;strong&gt;What You&#39;ll Do&lt;/strong&gt;&lt;/div&gt;\n&lt;ul&gt;\n&lt;li&gt;Help design and build systems that convert bug reports and feature requests into clarified problem statements, implementation plans, and approval gates before any execution&lt;/li&gt;\n&lt;li&gt;Contribute to a conversational Slack intake experience that notifies the right people, asks targeted follow-up questions, converts confirmed requirements into Jira, and hands work to the delivery workflow&lt;/li&gt;\n&lt;li&gt;Help normalize additional sources of demand—such as help desk, Salesforce, or operational alerts—while preserving provenance, urgency, ownership, and customer context&lt;/li&gt;\n&lt;li&gt;Build tooling that assists engineers with implementation: repository discovery, plan execution, automated testing, pull request creation, and concise evidence of what changed&lt;/li&gt;\n&lt;li&gt;Contribute to automated pull request review for correctness, regressions, test coverage, maintainability, and policy concerns, while keeping merge approval with people&lt;/li&gt;\n&lt;li&gt;Help build the platform behaviors that make agentic workflows dependable: permissions, auditability, evaluation, observability, rollback, and cost controls&lt;/li&gt;\n&lt;li&gt;Leverage AI-powered development tools (such as Claude, Cursor, GitHub Copilot) to accelerate development, improve code quality, and solve complex technical challenges&lt;/li&gt;\n&lt;li&gt;Collaborate with cross-functional teams to define, design, and ship new features&lt;/li&gt;\n&lt;li&gt;Write clean, maintainable, and well-tested code following best practices&lt;/li&gt;\n&lt;li&gt;Participate in code reviews and share knowledge with teammates&lt;/li&gt;\n&lt;li&gt;Troubleshoot and resolve issues across distributed, agentic systems&lt;/li&gt;\n&lt;/ul&gt;\n&lt;div&gt;&lt;strong&gt;What You Bring&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;Required Qualifications&lt;/strong&gt;&lt;/div&gt;\n&lt;ul&gt;\n&lt;li&gt;Bachelor&#39;s degree in Computer Science, a related field, or equivalent practical experience&lt;/li&gt;\n&lt;li&gt;3-5 years of backend software development experience, with strong proficiency in Typescript, NodeJs, and ReactJS&lt;/li&gt;\n&lt;li&gt;Experience designing and troubleshooting distributed systems&lt;/li&gt;\n&lt;li&gt;Experience with RESTful API design and microservices architecture&lt;/li&gt;\n&lt;li&gt;Proficiency with relational and NoSQL databases (e.g. MongoDB)&lt;/li&gt;\n&lt;li&gt;Familiarity integrating third-party APIs (e.g., Jira, Slack, Salesforce)&lt;/li&gt;\n&lt;li&gt;Experience with cloud platforms (AWS, GCP, or Azure)&lt;/li&gt;\n&lt;/ul&gt;\n&lt;div&gt;&lt;strong&gt;Preferred Qualifications&lt;/strong&gt;&lt;/div&gt;\n&lt;ul&gt;\n&lt;li&gt;Master&#39;s degree in Computer Science or Engineering&lt;/li&gt;\n&lt;li&gt;Hands-on experience building or working with LLM-based or agentic systems (agent orchestration, tool-calling, evaluation frameworks)&lt;/li&gt;\n&lt;li&gt;Hands-on experience with AI-assisted development tools (Claude, Cursor, GitHub Copilot, or similar platforms)&lt;/li&gt;\n&lt;li&gt;Familiarity with internal developer productivity platforms—data pipelines/lakes, PR automation and AI code review tooling, dependency management automation, or similar&lt;/li&gt;\n&lt;li&gt;Experience with Node.js or Java for backend development&lt;/li&gt;\n&lt;li&gt;Knowledge of containerization and orchestration (Docker, Kubernetes)&lt;/li&gt;\n&lt;li&gt;Experience with CI/CD pipelines and observability/monitoring practices&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;#LI-SK1&lt;/p&gt;\n&lt;p&gt;#LI-Hybrid&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Actual compensation offered will be based on factors such as the candidate’s work location, qualifications, skills, experience and/or training. Your recruiter can share more information about the specific salary range for your desired work location during the hiring process. We want our employees and their families to thrive.&lt;/p&gt;\n&lt;p&gt;In addition to comprehensive benefits we offer holistic mind, body and lifestyle programs designed for overall well-being. Learn more about ZoomInfo benefits &lt;a class=&quot;c-link&quot; href=&quot;https://www.zoominfo.com/careers#benefits&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.zoominfo.com/careers#benefits&quot; data-sk=&quot;tooltip_parent&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;Below is the US base salary for this position. Additional compensation such as Bonus, Commission, Equity and other benefits may also apply.&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$112,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$176,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;About us:&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;ZoomInfo (NASDAQ: GTM) is the Go-To-Market Intelligence Platform that empowers businesses to grow faster with AI-ready insights, trusted data, and advanced automation. Its solutions provide more than 35,000 companies worldwide with a complete view of their customers, making every seller their best seller.&lt;/p&gt;\n&lt;p&gt;ZoomInfo is committed to protecting your privacy when you apply for jobs with us. Please review our Job Applicant &lt;a href=&quot;https://drive.google.com/file/d/1yiG-k0YX_sW10PiJk_xliDc3W-veJCrK/view?usp=drive_link&quot; target=&quot;_blank&quot;&gt;Privacy Notice&lt;/a&gt; for more details on how we handle your personal information.&lt;/p&gt;\n&lt;p&gt;ZoomInfo may use a software-based assessment as part of the recruitment process. More information about this tool, including the results of the most recent bias audit, is available &lt;a href=&quot;https://www.zoominfo.com/legal/nyc-local-law-144-notice&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;ZoomInfo is proud to be an equal opportunity employer, hiring based on qualifications, merit, and business needs, and does not discriminate based on protected status. We welcome all applicants and are committed to providing equal employment opportunities regardless of sex, race, age, color, national origin, sexual orientation, gender identity, marital status, disability status, religion, protected military or veteran status, medical condition, or any other characteristic protected by applicable law. We also consider qualified candidates with criminal histories in accordance with legal requirements.&lt;/p&gt;\n&lt;p&gt;For Massachusetts Applicants: It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability. ZoomInfo does not administer lie detector tests to applicants in any location.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4074833002,
+      "name": "914 Engineering - Productivity Engineering",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 4011964002,
+      "name": "Bethesda",
+      "location": "Bethesda, Maryland, United States",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

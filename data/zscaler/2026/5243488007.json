@@ -1,0 +1,116 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/zscaler/jobs/5243488007",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 4683394007,
+  "location": {
+    "name": "Bellevue, Washington, USA; Remote - USA; San Jose, California, USA; Santa Clara, California, USA; USA - Update Location"
+  },
+  "metadata": [
+    {
+      "id": 4203262007,
+      "name": "Employment Type",
+      "value": "Fulltime Employee",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4363861007,
+      "name": "Additional Job Post Location",
+      "value": [],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 4363809007,
+      "name": "Division",
+      "value": "SecOps",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4391305007,
+      "name": "Geo/Region",
+      "value": "AMS",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 5243488007,
+  "updated_at": "2026-09-30T23:01:10-04:00",
+  "requisition_id": "260916_B39310",
+  "title": "Staff Threat Researcher",
+  "company_name": "Zscaler",
+  "first_published": "2026-09-30T23:01:10-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange™️ platform protects thousands of customers from cyberattacks and data loss by securely connecting users, devices, and applications in any location. Distributed across 160+ public exchanges globally and thousands of private exchanges at the edge, the SASE-based Zero Trust Exchange is the world’s largest in-line cloud security platform.&lt;/p&gt;\n&lt;p&gt;We believe the future of work is Human + AI and are building an AI-native enterprise where human potential is amplified by machine intelligence to solve the world’s hardest security challenges. Driven by deep customer obsession, we are committed to the mission, outcome, and to each other. We bring these commitments to life through three core behaviors: ownership and collaboration, trust through outcomes and impact, and a challenge culture with ongoing feedback. Ready to make an impact at the company pioneering security transformation in the AI era? Join us at Zscaler.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We are looking for a Staff Threat Researcher to join our team. This is a remote role, reporting to the Manager Threat Research in the Threat Research Team. As our Staff Threat Researcher, you will serve as a highly technical subject matter expert on adversary tradecraft across endpoint, cloud, and identity environments. You will apply formal research methodologies to dissect and replicate complex cyber attacks, answering the critical questions of exactly how techniques work and how we can best detect them. By transforming your deep technical discoveries into practical attack automations and scalable detection recommendations, you will bridge the gap between theoretical research and operational defense. In this role, your expertise will directly strengthen our defensive capabilities, inform our detection engineering priorities, contribute to broader product strategy, and keep our customers a step ahead of evolving evasion tactics.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What you’ll do (Role Expectations)&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Scope (with some guidance) and continuously refine research initiatives, applying an adversarial mindset to analyze emerging attack techniques, customer impact, and detection data sources across at least one operating system (Windows, macOS, Linux) and major Cloud/SaaS providers like AWS, Microsoft 365, and Okta&lt;/li&gt;\n&lt;li&gt;Dive deep into the technical components and detection optics underlying specific threats to fully comprehend how adversaries control and manipulate variations of a given technique&lt;/li&gt;\n&lt;li&gt;Leverage your endpoint and cloud expertise to engineer automated attack code, write test code to validate threat coverage, and develop proofs of concept for new detections&lt;/li&gt;\n&lt;li&gt;Collaborate across Zscaler to develop new detection methodologies and engineering recommendations, working closely with detection engineers, intelligence analysts, and threat hunters to prioritize and refine deliverables&lt;/li&gt;\n&lt;li&gt;Document and present your research findings and operational deliverables in an accessible, actionable manner to internal and external audiences, while serving as a technical mentor for colleagues pursuing research&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Who You Are (Success Profile)&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;You thrive in ambiguity and are comfortable building the path as you walk it, viewing dynamic environments as an opportunity to construct impactful solutions from scratch.&lt;/li&gt;\n&lt;li&gt;You act like an owner with a mission-driven bias for action, navigating seamlessly between high-level strategy and hands-on execution while operating with uncompromised integrity.&lt;/li&gt;\n&lt;li&gt;You are a dedicated problem-solver energized by tackling complex challenges, knowing that solving the toughest problems creates the greatest organizational impact.&lt;/li&gt;\n&lt;li&gt;You are a high-trust collaborator who values team success over individual accolades, actively giving and receiving candid feedback to build trust and elevate team performance.&lt;/li&gt;\n&lt;li&gt;You embody a growth mindset as a continuous learner, actively seeking feedback to hone your skills, support your peers, and deliver purposeful results.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;What We’re Looking for (Minimum Qualifications)&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Foundational understanding of AI/ML technologies and experience leveraging, securing, or positioning AI-driven solutions to optimize outcomes within your functional domain&lt;/li&gt;\n&lt;li&gt;Experience working with commercial Endpoint Detection &amp;amp; Response (EDR) and/or Cloud-based detection platforms&lt;/li&gt;\n&lt;li&gt;Software development experience in at least one scripting language (e.g. PowerShell, Python, etc.) and one compiled language (e.g. C, C++, Go, etc.)&lt;/li&gt;\n&lt;li&gt;Security experience in at least one cloud service provider (e.g. AWS, GCP, Azure) and Cloud architectures&lt;/li&gt;\n&lt;li&gt;Established record of public, community engagement (conference talks, blog posts, or webinars, etc.)&lt;/li&gt;\n&lt;li&gt;Experience managing code with git/GitHub&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;What Will Make You Stand Out (Preferred Qualifications)&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Proven ability to leverage AI technologies and workflows to drive measurable operational efficiency&lt;/li&gt;\n&lt;li&gt;An established record of public community engagement, such as conference talks, technical blog posts, or webinars&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;#LI-KM9 #LI-Remote&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Zscaler’s salary ranges are benchmarked and are determined by role and level. The range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position across all US locations and could be higher or lower based on a multitude of factors, including job-related skills, experience, and relevant education or training.&lt;/p&gt;\n&lt;p&gt;The base salary range listed for this full-time position excludes commission/ bonus/ equity (if applicable) + benefits.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;Base Pay Range&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$122,500&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$175,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p data-pm-slice=&quot;1 3 []&quot;&gt;At Zscaler, we are committed to building a team that reflects the communities we serve and the customers we work with. We foster an inclusive environment that values all backgrounds and perspectives, emphasizing collaboration and belonging. Join us in our mission to make doing business seamless and secure.&lt;/p&gt;\n&lt;p&gt;Our Benefits program is one of the most important ways we support our employees. Zscaler proudly offers comprehensive and inclusive benefits to meet the diverse needs of our employees and their families throughout their life stages, including:&lt;/p&gt;\n&lt;div class=&quot;has-nudge&quot; data-nudge-id=&quot;5eb9419b-6a4d-4451-bfa6-e2eb96084be0&quot;&gt;\n&lt;ul&gt;\n&lt;li&gt;Various health plans&lt;/li&gt;\n&lt;li&gt;Time off plans for vacation and sick time&lt;/li&gt;\n&lt;li&gt;Parental leave options&lt;/li&gt;\n&lt;li&gt;Retirement options&lt;/li&gt;\n&lt;li&gt;Education reimbursement&lt;/li&gt;\n&lt;li&gt;In-office perks, and more!&lt;/li&gt;\n&lt;/ul&gt;\n&lt;div class=&quot;has-nudge&quot; data-nudge-id=&quot;5eb9419b-6a4d-4451-bfa6-e2eb96084be0&quot;&gt;\n&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;Learn more about Zscaler&#39;s hybrid working model and benefits&amp;nbsp;&lt;a href=&quot;https://www.zscaler.com/candidate-resource-hub&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;p&gt;By applying for this role, you adhere to applicable laws, regulations, and Zscaler policies, including those related to security and privacy standards and guidelines.&lt;/p&gt;\n&lt;p class=&quot;p1&quot;&gt;Zscaler is committed to providing equal employment opportunities to all individuals. We strive to create a workplace where employees are treated with respect and have the chance to succeed. All qualified applicants will be considered for employment without regard to race, color, religion, sex (including pregnancy or related medical conditions), age, national origin, sexual orientation, gender identity or expression, genetic information, disability status, protected veteran status, or any other characteristic protected by federal, state, or local laws. &lt;em&gt;See more information by clicking on the &lt;/em&gt;&lt;a href=&quot;https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf&quot;&gt;&lt;em&gt;Know Your Rights: Workplace Discrimination is Illegal &lt;/em&gt;&lt;/a&gt;&lt;em&gt;link.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;Pay Transparency&lt;/p&gt;\n&lt;p&gt;Zscaler complies with all applicable federal, state, and local pay transparency rules.&lt;/p&gt;\n&lt;p&gt;Zscaler is committed to providing reasonable support (called accommodations or adjustments) in our recruiting processes for candidates who are differently abled, have long term conditions, mental health conditions or sincerely held religious beliefs, or who are neurodivergent or require pregnancy-related support.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4052361007,
+      "name": "Exposure Management & Security Operations",
+      "child_ids": [
+        4062974007,
+        4062972007,
+        4046241007,
+        4068063007,
+        4068064007,
+        4062973007,
+        4068065007,
+        4066351007,
+        4068062007,
+        4046313007,
+        4065753007,
+        4065754007,
+        4065755007,
+        4039383007,
+        4018523007,
+        4059035007,
+        4059036007,
+        4036108007,
+        4059037007,
+        4018304007,
+        4036107007,
+        4018295007,
+        4018283007,
+        4036109007,
+        4018316007,
+        4029175007,
+        4039382007,
+        4036110007,
+        4046171007,
+        4056724007,
+        4068066007,
+        4068067007,
+        4068068007,
+        4029172007,
+        4056721007,
+        4058554007
+      ],
+      "parent_id": 4017790007
+    }
+  ],
+  "offices": [
+    {
+      "id": 4007291007,
+      "name": "Office - San Jose, USA",
+      "location": "San Jose, California, USA",
+      "child_ids": [],
+      "parent_id": 4007290007
+    },
+    {
+      "id": 4007362007,
+      "name": "Remote - USA",
+      "location": "Remote - USA",
+      "child_ids": [],
+      "parent_id": 4007290007
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

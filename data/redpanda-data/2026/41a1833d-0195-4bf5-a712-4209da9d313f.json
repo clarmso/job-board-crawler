@@ -8,9 +8,10 @@
   "shouldDisplayCompensationOnJobPostings": false,
   "secondaryLocations": [
     {
-      "location": "Poland - Remote",
+      "location": "Warsaw-Poland",
       "address": {
         "postalAddress": {
+          "addressRegion": "Warsaw",
           "addressCountry": "Poland"
         }
       }
