@@ -6,7 +6,17 @@
   "employmentType": "FullTime",
   "location": "US-CA-Menlo Park",
   "shouldDisplayCompensationOnJobPostings": true,
-  "secondaryLocations": [],
+  "secondaryLocations": [
+    {
+      "location": "Sydney, Australia",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "Australia",
+          "addressLocality": "Sydney"
+        }
+      }
+    }
+  ],
   "publishedAt": "2026-09-29T20:36:30.301+00:00",
   "isListed": true,
   "isRemote": null,

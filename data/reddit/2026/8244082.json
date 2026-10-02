@@ -1,0 +1,163 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/reddit/jobs/8244082",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "education": "education_required",
+  "internal_job_id": 3567050,
+  "location": {
+    "name": "San Francisco, CA"
+  },
+  "metadata": [
+    {
+      "id": 944668,
+      "name": "Position ID",
+      "value": null,
+      "value_type": "short_text"
+    },
+    {
+      "id": 956352,
+      "name": "Recruiting Start Date",
+      "value": "",
+      "value_type": "date"
+    },
+    {
+      "id": 944671,
+      "name": "Target Hire Date",
+      "value": "",
+      "value_type": "date"
+    },
+    {
+      "id": 944672,
+      "name": "Target Hire End Date",
+      "value": "",
+      "value_type": "date"
+    },
+    {
+      "id": 944673,
+      "name": "Job Profile",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 956351,
+      "name": "Management Level",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 944675,
+      "name": "Job Family",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 53341,
+      "name": "Worker Sub-Type",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 944676,
+      "name": "Time Type",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 944682,
+      "name": "Pay Rate Type",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 944681,
+      "name": "Scheduled Weekly Hours",
+      "value": "0.0",
+      "value_type": "number"
+    },
+    {
+      "id": 944667,
+      "name": "Company",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 944677,
+      "name": "Cost Center",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 944669,
+      "name": "Worker Type",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 957961,
+      "name": "Department",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8244082,
+  "updated_at": "2026-10-01T13:56:48-04:00",
+  "requisition_id": "1016.125.2",
+  "title": "Machine Learning Engineer",
+  "company_name": "Reddit",
+  "first_published": "2026-10-01T13:56:48-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;div class=&quot;c-message_kit__blocks c-message_kit__blocks--rich_text&quot;&gt;\n&lt;div class=&quot;c-message__message_blocks c-message__message_blocks--rich_text&quot; data-qa=&quot;message-text&quot;&gt;\n&lt;div class=&quot;p-block_kit_renderer&quot; data-qa=&quot;block-kit-renderer&quot;&gt;\n&lt;div class=&quot;p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--first&quot;&gt;\n&lt;div class=&quot;p-rich_text_block&quot;&gt;\n&lt;div class=&quot;p-rich_text_section&quot;&gt;Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit &lt;a class=&quot;c-link&quot; href=&quot;http://www.redditinc.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;http://redditinc.com&quot; data-sk=&quot;tooltip_parent&quot;&gt;www.redditinc.com&lt;/a&gt;.&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;&lt;/div&gt;&lt;p data-renderer-start-pos=&quot;1&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Job Duties:&lt;/strong&gt; Design, build, and maintain scalable ML infrastructure to support notification relevance, targeting, ranking, and personalization across channels (e.g. push, email, in-app notifications) for millions of users. Architect and implement end-to-end ML pipelines for notifications, including data ingestion, feature computation, model training, evaluation, deployment, and online serving in production environments. Collaborate cross-functionally with data scientists, product managers, and engineers across teams to define requirements, align on priorities, and deliver end-to-end notification solutions. Lead design and implementation of experimentation frameworks (e.g. A/B testing, multi-armed bandits, or similar methods) to evaluate new notification models, ranking strategies, and targeting policies. Mentor and provide technical guidance to engineers, sharing best practices in machine learning engineering, distributed systems, and ML infrastructure design. &lt;strong data-renderer-mark=&quot;true&quot;&gt;Full-time telecommuting is an option.&lt;/strong&gt;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;1014&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Requirements: &lt;/strong&gt;Bachelor’s degree in Computer Science, Engineering (any field) or related quantitative discipline and five (5) years of experience in the job offered or related occupation.&lt;strong data-renderer-mark=&quot;true&quot;&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;1203&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Special Skill Requirements: &lt;/strong&gt;(1) designing, building, and iterating large-scale scalable software systems; (2) designing and building ML recommender systems at high scale; (3) Delivering large and complex systems with significant business impact; (4) Cross-functional collaboration on large-scale projects with complex dependencies across teams; (5) Object-oriented programming (Python, Golang, or Java); (6) Building ML models with PyTorch or TensorFlow; (7) API design and integration with REST, HTTP, Thrift, or gRPC; (8) Working with largescale key-value and NoSQL storage and caching systems (Redis, Cassandra, DynamoDB); (9) Working with large-scale messaging and event-driven systems (Apache Kafka, AWS SQS, SNS, &lt;span class=&quot;acronym-highlight&quot;&gt;SES&lt;/span&gt;); (10) Building workflows using orchestration systems (Kubeflow, Ray, Apache Airflow, AWS Step Functions); (11) Working with large-scale analytics and data warehousing platforms (Google BigQuery, Amazon Redshift); (12) Experience with observability, logging, tracing and monitoring tools such as Prometheus, Grafana, AWS Cloudwatch; (13) Designing, running, and analyzing A/B experiments to measure and optimize system performance&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Benefits:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Comprehensive Healthcare Benefits and Income Replacement Programs&lt;/li&gt;\n&lt;li&gt;401k with Employer Match&lt;/li&gt;\n&lt;li&gt;Global Benefit programs that fit your lifestyle, from workspace to professional development to caregiving support&lt;/li&gt;\n&lt;li&gt;Family Planning Support&lt;/li&gt;\n&lt;li&gt;Gender-Affirming Care&lt;/li&gt;\n&lt;li&gt;Mental Health &amp;amp; Coaching Benefits&lt;/li&gt;\n&lt;li&gt;Flexible Vacation &amp;amp; Paid Volunteer Time Off&lt;/li&gt;\n&lt;li&gt;Generous Paid Parental Leave&amp;nbsp;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Submit a resume with references using the apply button on this posting or by email at:&amp;nbsp;&lt;a class=&quot;_2hGPVj98eZ _2i3C1kYbGa _2kH23qT6kp _1ubuxoD6gn _34b3D2vc3e _1NDpvb6wH8 _2wtOC9vc3e _3e11vU6wH8 _0hSAgbHZdu _00uqCYyL8i _3xtjKN0Rl6 _0H9qDF6wH8 _24h04i2Njc _1mT5xdRAKS _0bjKvDcjp5 _0WKd3G4z3T _23rrnHo10F _1UtDYzM7Tp _32C2rkyL8i _0i9AWA0Rl6 _0mm6KQ6wH8 _10n1R5M7Tp _0DCa9Ds4Fm _3932vv0Rl6 _02cRtH6wH8 _1B4rbIo10F _0clgaMM7Tp _3WzCGis4Fm _0NqVRt0Rl6 _3BKYwu6wH8 _3sFUREDdj4 _0CMRbkAwSC _2nTuUYWfPD _3ADzdEWfPD _1warJ9WfPD _4scvAwWyeI&quot; href=&quot;mailto:applicationsreview@reddit.com&quot; data-renderer-mark=&quot;true&quot; data-is-router-link=&quot;false&quot; data-testid=&quot;link-with-safety&quot;&gt;applicationsreview@reddit.com&lt;/a&gt; at Req.# 1016.125.2.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Pay Transparency:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;This job posting may span more than one career level.&lt;/p&gt;\n&lt;p&gt;In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit&amp;nbsp;&lt;a href=&quot;https://www.redditinc.com/careers/&quot; target=&quot;_blank&quot;&gt;https://www.redditinc.com/careers/&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;The base pay range for this position is: $230,000.00 - $322,000.00 USD&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;#LI-DNI&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;In select roles and locations, the interviews will be recorded, transcribed and summarized by artificial intelligence (AI). You will have the opportunity to opt out of recording, transcription and summarization prior to any scheduled interviews.&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;During the interview, we will collect the following categories of personal information: Identifiers, Professional and Employment-Related Information, Sensory Information (audio/video recording), and any other categories of personal information you choose to share with us. We will use this information to evaluate your application for employment or an independent contractor role, as applicable.&amp;nbsp; We will not sell your personal information or disclose it to any third party for their marketing purposes.&amp;nbsp; We will delete any recording of your interview promptly after making a hiring decision.&amp;nbsp; For more information about how we will handle your personal information, including our retention of it, please refer to our &lt;a href=&quot;https://redditinc.com/policies/candidate-privacy-policy&quot;&gt;Candidate Privacy Policy for Potential Employees and Contractors&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Reddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.&amp;nbsp; Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If, due to a disability, you need an accommodation during the interview process, please let your recruiter know.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 16253,
+      "name": "Engineering",
+      "child_ids": [
+        81519,
+        312998,
+        70576,
+        70550,
+        231583,
+        70553,
+        70563,
+        79647,
+        70569,
+        70570,
+        70571,
+        70579,
+        70585,
+        70588,
+        77934,
+        70548,
+        70580,
+        70552,
+        81518,
+        81522,
+        81520,
+        217088,
+        86224
+      ],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 10167,
+      "name": "San Francisco",
+      "location": "San Francisco, CA, United States",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

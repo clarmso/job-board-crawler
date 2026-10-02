@@ -57,8 +57,8 @@
       "name": "Zone A Salary Range",
       "value": {
         "unit": "USD",
-        "max_value": "223100.0",
-        "min_value": "148700.0"
+        "max_value": "270000.0",
+        "min_value": "180000.0"
       },
       "value_type": "currency_range"
     },
@@ -67,8 +67,8 @@
       "name": "Zone B Salary Range",
       "value": {
         "unit": "USD",
-        "max_value": "207500.0",
-        "min_value": "138300.0"
+        "max_value": "251200.0",
+        "min_value": "167400.0"
       },
       "value_type": "currency_range"
     },
@@ -77,8 +77,8 @@
       "name": "Zone C Salary Range",
       "value": {
         "unit": "USD",
-        "max_value": "196300.0",
-        "min_value": "130900.0"
+        "max_value": "237600.0",
+        "min_value": "158400.0"
       },
       "value_type": "currency_range"
     },
@@ -87,8 +87,8 @@
       "name": "Zone D Salary Range",
       "value": {
         "unit": "USD",
-        "max_value": "185200.0",
-        "min_value": "123400.0"
+        "max_value": "224200.0",
+        "min_value": "149400.0"
       },
       "value_type": "currency_range"
     },
@@ -97,8 +97,8 @@
       "name": "Canada Zone A Pay Range",
       "value": {
         "unit": "CAD",
-        "max_value": "188900.0",
-        "min_value": "125900.0"
+        "max_value": "251300.0",
+        "min_value": "167500.0"
       },
       "value_type": "currency_range"
     },
@@ -107,8 +107,8 @@
       "name": "Canada Zone B Pay Range",
       "value": {
         "unit": "CAD",
-        "max_value": "188900.0",
-        "min_value": "125900.0"
+        "max_value": "251300.0",
+        "min_value": "167500.0"
       },
       "value_type": "currency_range"
     },
@@ -117,14 +117,14 @@
       "name": "EU Min to Max",
       "value": {
         "unit": "EUR",
-        "max_value": "121000.0",
-        "min_value": "80600.0"
+        "max_value": "146400.0",
+        "min_value": "97600.0"
       },
       "value_type": "currency_range"
     }
   ],
   "id": 5023197008,
-  "updated_at": "2026-09-22T03:10:19-04:00",
+  "updated_at": "2026-10-01T21:33:22-04:00",
   "requisition_id": "R0005391",
   "title": "Channel Expansion Manager",
   "company_name": "Block",

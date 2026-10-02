@@ -144,20 +144,20 @@
         "additionalInformation": "Offers Uncapped Commission",
         "components": [
           {
-            "id": "762d25e3-a97e-44a2-88e8-c2bb6e7841f8",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "6d9be86b-8253-48c0-9e41-1a8f47e373c1",
             "summary": "Offers Commission",
             "compensationType": "Commission",
             "interval": "1 YEAR",
             "currencyCode": "USD",
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "762d25e3-a97e-44a2-88e8-c2bb6e7841f8",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
             "minValue": null,
             "maxValue": null
           },
@@ -245,13 +245,13 @@
     ],
     "summaryComponents": [
       {
-        "compensationType": "EquityPercentage",
+        "compensationType": "Commission",
         "minValue": null,
         "maxValue": null,
         "interval": "1 YEAR"
       },
       {
-        "compensationType": "Commission",
+        "compensationType": "EquityPercentage",
         "minValue": null,
         "maxValue": null,
         "interval": "1 YEAR"

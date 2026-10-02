@@ -31,7 +31,7 @@
     {
       "id": 4185056008,
       "name": "Position open to remote",
-      "value": false,
+      "value": true,
       "value_type": "yes_no"
     },
     {
@@ -124,7 +124,7 @@
     }
   ],
   "id": 5412832008,
-  "updated_at": "2026-09-25T10:03:19-04:00",
+  "updated_at": "2026-10-01T14:03:25-04:00",
   "requisition_id": "R0006385",
   "title": "Software Engineer, Cash App Taxes",
   "company_name": "Block",
@@ -142,8 +142,8 @@
   ],
   "offices": [
     {
-      "id": 4007843008,
-      "name": "US - NY - New York - Crosby",
+      "id": 4007808008,
+      "name": "US - NY - NYC - Remote",
       "location": null,
       "child_ids": [],
       "parent_id": 4004627008

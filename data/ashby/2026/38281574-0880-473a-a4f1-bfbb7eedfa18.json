@@ -33,15 +33,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "e85fb041-7a14-4b0c-9001-00b29596e5e1",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "31cb94b9-fda2-4289-a1d3-ad958ba5f299",
             "summary": "US $110K – $140K",
             "compensationType": "Salary",
@@ -49,6 +40,15 @@
             "currencyCode": "USD",
             "minValue": 110000,
             "maxValue": 140000
+          },
+          {
+            "id": "e85fb041-7a14-4b0c-9001-00b29596e5e1",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           }
         ]
       },
@@ -85,15 +85,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "0f9d2e56-c32f-4eb4-98a4-4657f1c3dbed",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "f0413c2f-7e65-4a0b-99fc-06014da296ed",
             "summary": "Canada $110K – $140K",
             "compensationType": "Salary",
@@ -101,23 +92,32 @@
             "currencyCode": "USD",
             "minValue": 110000,
             "maxValue": 140000
+          },
+          {
+            "id": "0f9d2e56-c32f-4eb4-98a4-4657f1c3dbed",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           }
         ]
       }
     ],
     "summaryComponents": [
       {
-        "compensationType": "EquityPercentage",
-        "minValue": null,
-        "maxValue": null,
-        "interval": "1 YEAR"
-      },
-      {
         "minValue": 110000,
         "maxValue": 161000,
         "currencyCode": "USD",
         "interval": "1 YEAR",
         "compensationType": "Salary"
+      },
+      {
+        "compensationType": "EquityPercentage",
+        "minValue": null,
+        "maxValue": null,
+        "interval": "1 YEAR"
       }
     ]
   }

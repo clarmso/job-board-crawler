@@ -33,15 +33,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "344f5a67-1acf-4e5d-b243-47a7502d51a8",
-            "summary": "A$89K – A$105K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "AUD",
-            "minValue": 89000,
-            "maxValue": 105000
-          },
-          {
             "id": "7351f86b-911e-4c1b-b66f-3cd1d9a3169e",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
@@ -49,24 +40,33 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "344f5a67-1acf-4e5d-b243-47a7502d51a8",
+            "summary": "A$89K – A$105K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "AUD",
+            "minValue": 89000,
+            "maxValue": 105000
           }
         ]
       }
     ],
     "summaryComponents": [
       {
-        "compensationType": "Salary",
-        "interval": "1 YEAR",
-        "currencyCode": "AUD",
-        "minValue": 89000,
-        "maxValue": 105000
-      },
-      {
         "compensationType": "EquityPercentage",
         "interval": "NONE",
         "currencyCode": null,
         "minValue": null,
         "maxValue": null
+      },
+      {
+        "compensationType": "Salary",
+        "interval": "1 YEAR",
+        "currencyCode": "AUD",
+        "minValue": 89000,
+        "maxValue": 105000
       }
     ]
   }

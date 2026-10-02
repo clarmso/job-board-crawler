@@ -7,7 +7,7 @@
       "requires_processing_consent": false,
       "requires_retention_consent": true,
       "retention_period": 730,
-      "demographic_data_consent_applies": true
+      "demographic_data_consent_applies": false
     }
   ],
   "internal_job_id": 5212501004,
@@ -77,7 +77,7 @@
     }
   ],
   "id": 6186511004,
-  "updated_at": "2026-09-28T16:11:37-04:00",
+  "updated_at": "2026-10-01T09:54:04-04:00",
   "requisition_id": "R-125226",
   "title": "Engineering Services Support Engineer",
   "company_name": "PlayStation Global",

@@ -44,13 +44,13 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "1692f1ab-5b90-4a5b-a7e1-b6c8a469a991",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
+            "id": "e864fa73-72b5-400c-8860-fb696ed5fc41",
+            "summary": "OTE $155K – $220K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 155000,
+            "maxValue": 220000
           },
           {
             "id": "f51b3a1c-52e9-40a2-b0d5-aa545cbb7d85",
@@ -62,13 +62,13 @@
             "maxValue": null
           },
           {
-            "id": "e864fa73-72b5-400c-8860-fb696ed5fc41",
-            "summary": "OTE $155K – $220K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "USD",
-            "minValue": 155000,
-            "maxValue": 220000
+            "id": "1692f1ab-5b90-4a5b-a7e1-b6c8a469a991",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           }
         ]
       },
@@ -79,13 +79,13 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "34f0d608-3a88-4c13-8c20-a44854525094",
-            "summary": "OTE $178K – $245K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "USD",
-            "minValue": 178000,
-            "maxValue": 245000
+            "id": "b0b8c128-1b1c-4734-8e06-b542eb9bbc37",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           },
           {
             "id": "a4e27991-49fe-4b55-94fb-c5179cae2b2f",
@@ -97,13 +97,13 @@
             "maxValue": null
           },
           {
-            "id": "b0b8c128-1b1c-4734-8e06-b542eb9bbc37",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
+            "id": "34f0d608-3a88-4c13-8c20-a44854525094",
+            "summary": "OTE $178K – $245K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 178000,
+            "maxValue": 245000
           }
         ]
       },
@@ -145,10 +145,11 @@
     ],
     "summaryComponents": [
       {
-        "compensationType": "EquityPercentage",
-        "minValue": null,
-        "maxValue": null,
-        "interval": "1 YEAR"
+        "minValue": 155000,
+        "maxValue": 245000,
+        "currencyCode": "USD",
+        "interval": "1 YEAR",
+        "compensationType": "Salary"
       },
       {
         "compensationType": "Commission",
@@ -157,11 +158,10 @@
         "interval": "1 YEAR"
       },
       {
-        "minValue": 155000,
-        "maxValue": 245000,
-        "currencyCode": "USD",
-        "interval": "1 YEAR",
-        "compensationType": "Salary"
+        "compensationType": "EquityPercentage",
+        "minValue": null,
+        "maxValue": null,
+        "interval": "1 YEAR"
       }
     ]
   }

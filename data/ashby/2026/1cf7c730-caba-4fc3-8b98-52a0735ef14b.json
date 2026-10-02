@@ -86,15 +86,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "5f81a8f3-5156-4d44-a166-e01567469a7f",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "d68d2427-ae5a-4b73-adf1-0d11c63c5569",
             "summary": "Tier 3 (Ukraine, Lithuania, Romania, Bulgaria, etc) €62K – €81K",
             "compensationType": "Salary",
@@ -102,6 +93,15 @@
             "currencyCode": "EUR",
             "minValue": 62000,
             "maxValue": 81000
+          },
+          {
+            "id": "5f81a8f3-5156-4d44-a166-e01567469a7f",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           }
         ]
       },
@@ -112,15 +112,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "31999094-5f5c-4c3f-a81b-e6ed0d5563aa",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "aa1a3fd8-cc78-4691-9527-cb4d032e2806",
             "summary": "UK £110K – £136K",
             "compensationType": "Salary",
@@ -128,6 +119,15 @@
             "currencyCode": "GBP",
             "minValue": 110000,
             "maxValue": 136000
+          },
+          {
+            "id": "31999094-5f5c-4c3f-a81b-e6ed0d5563aa",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           }
         ]
       }

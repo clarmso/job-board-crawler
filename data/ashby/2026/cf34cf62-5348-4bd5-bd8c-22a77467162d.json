@@ -124,15 +124,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "3d9583a0-659b-4022-858e-f2ed60f86884",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "2e721dce-3543-4620-81c9-479acf30fc8a",
             "summary": "New Zealand NZ$138,000 – NZ$164,000",
             "compensationType": "Salary",
@@ -140,6 +131,15 @@
             "currencyCode": "NZD",
             "minValue": 138000,
             "maxValue": 164000
+          },
+          {
+            "id": "3d9583a0-659b-4022-858e-f2ed60f86884",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           }
         ]
       },
@@ -176,15 +176,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "06fd9060-1a7c-447b-9d78-9704def4272c",
-            "summary": "Australia A$136,000 – A$165,000",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "AUD",
-            "minValue": 136000,
-            "maxValue": 165000
-          },
-          {
             "id": "6b1c5104-3fed-4805-8c5d-62f2a57ef249",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
@@ -192,6 +183,15 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "06fd9060-1a7c-447b-9d78-9704def4272c",
+            "summary": "Australia A$136,000 – A$165,000",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "AUD",
+            "minValue": 136000,
+            "maxValue": 165000
           }
         ]
       }

@@ -135,15 +135,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "105d088b-d1ca-49c3-a6da-871cabbc61e0",
-            "summary": "Total OTE Range: 13 000 000 - 15 000 000 OTE / Base salary range: HUF 8M – HUF 9M",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "HUF",
-            "minValue": 8000000,
-            "maxValue": 9000000
-          },
-          {
             "id": "17a83d7a-7cd3-4520-a1b0-0ebbd80bf334",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
@@ -151,6 +142,15 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "105d088b-d1ca-49c3-a6da-871cabbc61e0",
+            "summary": "Total OTE Range: 13 000 000 - 15 000 000 OTE / Base salary range: HUF 8M – HUF 9M",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "HUF",
+            "minValue": 8000000,
+            "maxValue": 9000000
           }
         ]
       },

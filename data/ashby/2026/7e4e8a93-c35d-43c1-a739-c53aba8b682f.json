@@ -173,15 +173,6 @@
             "maxValue": null
           },
           {
-            "id": "c458b58b-b380-4360-8424-d09cc081c085",
-            "summary": "OTE €202.5K – €230K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "EUR",
-            "minValue": 202500,
-            "maxValue": 230000
-          },
-          {
             "id": "38a49125-c07b-4977-992f-85224b1a4b7e",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
@@ -189,6 +180,15 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "c458b58b-b380-4360-8424-d09cc081c085",
+            "summary": "OTE €202.5K – €230K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "EUR",
+            "minValue": 202500,
+            "maxValue": 230000
           }
         ]
       },
@@ -198,15 +198,6 @@
         "title": "EMEA Tier 3 - Remote",
         "additionalInformation": null,
         "components": [
-          {
-            "id": "f01ddab7-1e47-48f3-ba57-12e69d45144e",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
           {
             "id": "090b73ee-745a-48ad-81aa-2962647550bd",
             "summary": "Offers Commission",
@@ -224,6 +215,15 @@
             "currencyCode": "EUR",
             "minValue": 175500,
             "maxValue": 200000
+          },
+          {
+            "id": "f01ddab7-1e47-48f3-ba57-12e69d45144e",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           }
         ]
       },
@@ -234,15 +234,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "584819a5-49e9-4d0a-9eba-d09bfca996bc",
-            "summary": "Offers Commission",
-            "compensationType": "Commission",
-            "interval": "1 YEAR",
-            "currencyCode": "GBP",
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "3a97d7ad-f208-4cfe-bcc9-230cb7f2cf09",
             "summary": "OTE £229.5K – £261K",
             "compensationType": "Salary",
@@ -250,6 +241,15 @@
             "currencyCode": "GBP",
             "minValue": 229500,
             "maxValue": 261000
+          },
+          {
+            "id": "584819a5-49e9-4d0a-9eba-d09bfca996bc",
+            "summary": "Offers Commission",
+            "compensationType": "Commission",
+            "interval": "1 YEAR",
+            "currencyCode": "GBP",
+            "minValue": null,
+            "maxValue": null
           },
           {
             "id": "91e89112-d1d6-4418-97fb-da3cd9149eb2",

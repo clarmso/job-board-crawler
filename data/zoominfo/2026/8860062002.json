@@ -1,0 +1,72 @@
+{
+  "absolute_url": "https://www.zoominfo.com/careers?gh_jid=8860062002",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 6546931002,
+  "location": {
+    "name": "Toronto, Ontario, Canada"
+  },
+  "metadata": [
+    {
+      "id": 24710929002,
+      "name": "Job Family Group",
+      "value": "Engineering",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24711071002,
+      "name": "Time Type",
+      "value": "Full time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 101751589002,
+      "name": "Work Shift",
+      "value": "General Shift",
+      "value_type": "short_text"
+    },
+    {
+      "id": 4203585002,
+      "name": "LEGACY - Employment Type",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8860062002,
+  "updated_at": "2026-10-01T11:48:20-04:00",
+  "requisition_id": "JR108192",
+  "title": "Senior DevOps Engineer - PA145",
+  "company_name": "ZoomInfo Technologies LLC",
+  "first_published": "2026-10-01T11:48:20-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen–fast.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;What You&#39;ll do:&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;Drive initiatives to implement and enforce best practices for data streaming, processing, analytics and monitoring infrastructure.&lt;/li&gt;\n&lt;li&gt;Deploy and manage services on Kubernetes-based platforms such as Amazon EKS and Google Kubernetes Engine (GKE).&lt;/li&gt;\n&lt;li&gt;Provision and manage cloud infrastructure using Terraform, ensuring best practices in security, scalability, and cost-efficiency.&lt;/li&gt;\n&lt;li&gt;Maintain and optimize CI/CD pipelines using Jenkins, ArgoCD, and GitHub Enterprise Actions to support automated deployments and testing.&lt;/li&gt;\n&lt;li&gt;Work with cloud-native data services such as AWS Kinesis, AWS Glue, Google Dataflow, and Google Pub/Sub, BigQuery, BigTable&lt;/li&gt;\n&lt;li&gt;Familiarity with&amp;nbsp; workflow orchestration services such as Apache Airflow and Google Cloud Composer.&lt;/li&gt;\n&lt;li&gt;Develop and maintain automation scripts and tooling using Python to support DevOps processes.&lt;/li&gt;\n&lt;li&gt;Monitor system performance, troubleshoot issues, and implement proactive solutions to enhance reliability and efficiency.&lt;/li&gt;\n&lt;li&gt;Implement SRE practices to improve service reliability, scalability, and cost-effectiveness.&lt;/li&gt;\n&lt;li&gt;Analyze and optimize cloud costs, identifying areas for improvement and implementing cost-saving strategies.&lt;/li&gt;\n&lt;li&gt;Ensure compliance with security policies and best practices in cloud environments.&lt;/li&gt;\n&lt;li&gt;Drive adoption of company standards and influence data teams to align with best DevOps and SRE practices.&lt;/li&gt;\n&lt;li&gt;Collaborate with cross-functional teams to improve development workflows and infrastructure.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;What you bring:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Required Qualifications:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;7+ years of experience in a DevOps, Site Reliability Engineering, or Cloud Infrastructure role.&lt;/li&gt;\n&lt;li&gt;Strong experience with AWS and GCP data services, including Kinesis, Glue, Pub/Sub, and Dataflow.&lt;/li&gt;\n&lt;li&gt;Proficiency in deploying and managing workloads on Kubernetes (EKS/GKE) in production environments.&lt;/li&gt;\n&lt;li&gt;Hands-on experience with Infrastructure-as-Code (IaC) using Terraform.&lt;/li&gt;\n&lt;li&gt;Expertise in CI/CD pipeline management using Jenkins, ArgoCD, and GitHub Enterprise Actions.&lt;/li&gt;\n&lt;li&gt;Programming skills in Python for automation and scripting.&lt;/li&gt;\n&lt;li&gt;Experience with observability and monitoring tools (e.g., Prometheus, Grafana, Datadog, or CloudWatch).&lt;/li&gt;\n&lt;li&gt;Strong understanding of SRE principles, including performance monitoring, incident response, and reliability engineering.&lt;/li&gt;\n&lt;li&gt;Experience with cost optimization strategies for cloud infrastructure.&lt;/li&gt;\n&lt;li&gt;Self-motivated and driven, with a strong ability to influence and drive changes across multiple teams.&lt;/li&gt;\n&lt;li&gt;Ability to work collaboratively in an agile environment and support multiple teams.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Preferred Qualifications:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience with data lake architectures and big data processing frameworks (e.g., Apache Spark, Flink, Snowflake, BigQuery).&lt;/li&gt;\n&lt;li&gt;Familiarity with event-driven architectures and message queues (e.g., Kafka, RabbitMQ).&lt;/li&gt;\n&lt;li&gt;Experience with workflow orchestration tools such as Apache Airflow and Google Cloud Composer.&lt;/li&gt;\n&lt;li&gt;Knowledge of service mesh technologies like Istio.&lt;/li&gt;\n&lt;li&gt;Experience with GitOps workflows and Kubernetes-native tooling.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;#LI- RA1&lt;/p&gt;\n&lt;p&gt;#LI-Hybrid&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;About us:&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;ZoomInfo (NASDAQ: GTM) is the Go-To-Market Intelligence Platform that empowers businesses to grow faster with AI-ready insights, trusted data, and advanced automation. Its solutions provide more than 35,000 companies worldwide with a complete view of their customers, making every seller their best seller.&lt;/p&gt;\n&lt;p&gt;ZoomInfo is committed to protecting your privacy when you apply for jobs with us. Please review our Job Applicant &lt;a href=&quot;https://drive.google.com/file/d/1yiG-k0YX_sW10PiJk_xliDc3W-veJCrK/view?usp=drive_link&quot; target=&quot;_blank&quot;&gt;Privacy Notice&lt;/a&gt; for more details on how we handle your personal information.&lt;/p&gt;\n&lt;p&gt;ZoomInfo may use a software-based assessment as part of the recruitment process. More information about this tool, including the results of the most recent bias audit, is available &lt;a href=&quot;https://www.zoominfo.com/legal/nyc-local-law-144-notice&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;ZoomInfo is proud to be an equal opportunity employer, hiring based on qualifications, merit, and business needs, and does not discriminate based on protected status. We welcome all applicants and are committed to providing equal employment opportunities regardless of sex, race, age, color, national origin, sexual orientation, gender identity, marital status, disability status, religion, protected military or veteran status, medical condition, or any other characteristic protected by applicable law. We also consider qualified candidates with criminal histories in accordance with legal requirements.&lt;/p&gt;\n&lt;p&gt;For Massachusetts Applicants: It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability. ZoomInfo does not administer lie detector tests to applicants in any location.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4074831002,
+      "name": "831 Engineering - Infrastructure Engineering",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 4042990002,
+      "name": "Toronto",
+      "location": "Toronto, Ontario, Canada",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

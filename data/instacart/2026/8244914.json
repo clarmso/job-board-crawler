@@ -1,0 +1,66 @@
+{
+  "absolute_url": "https://instacart.careers/job/?gh_jid=8244914",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 3457512,
+  "location": {
+    "name": "Canada - Remote (ON, AB, BC, or NS Only)"
+  },
+  "metadata": [
+    {
+      "id": 16452,
+      "name": "Employment Type",
+      "value": "Regular",
+      "value_type": "single_select"
+    },
+    {
+      "id": 740030,
+      "name": "Exemption Status",
+      "value": "Exempt",
+      "value_type": "single_select"
+    },
+    {
+      "id": 235666,
+      "name": "Time Type",
+      "value": "Full time",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8244914,
+  "updated_at": "2026-10-01T12:24:52-04:00",
+  "requisition_id": "MH166",
+  "title": "Software Engineer II, CRM & SEO",
+  "company_name": "Instacart",
+  "first_published": "2026-10-01T12:24:52-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;We&#39;re transforming the grocery industry&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span class=&quot;im&quot;&gt;At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;Instacart has become a lifeline for millions of people, and we’re building the team to help push our shopping cart forward. If you’re ready to do the best work of your life, come join our table.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Instacart is a Flex First team &lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;There’s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work—whether it’s from home, an office, or your favorite coffee shop—while staying connected and building community through regular in-person events. &lt;a href=&quot;https://www.instacart.careers/flex-first&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://instacart.careers/remote/&amp;amp;source=gmail&amp;amp;ust=1651869232122000&amp;amp;usg=AOvVaw37OlxP8hAKN7nq4YwHQH7e&quot;&gt;Learn more about our flexible approach to where we work.&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;The Marketing Enablement &amp;amp; Technology (MET) team sits within Instacart&#39;s Marketing organization, building the systems, data pipelines, and platforms that power how Instacart markets, measures, and grows. Operating at the intersection of Marketing, Product, and Engineering, we own the platforms behind organic search visibility, campaign feeds, audience targeting, event pipelines, and QA automation.&lt;/p&gt;\n&lt;p&gt;We&#39;re seeking a Software Engineer II who will build across two of our highest-leverage growth surfaces: Technical Search Visibility (SEO) and CRM Enablement. On the SEO side, you&#39;ll ship full-stack features that improve Instacart&#39;s search engine and AI answer engine visibility across millions of web pages and drive organic traffic. On the CRM side, you&#39;ll build and evolve the componentized email system and execution tooling that gets lifecycle campaigns from brief to send across email, push, SMS, and in-app. You&#39;ll own features from build through rollout, contribute to technical decisions, and partner closely with Marketing and Product to turn growth requirements into scalable, testable customer experiences.&lt;/p&gt;\n&lt;p&gt;This is a hands-on role that spans both pods. You&#39;ll move between organic-traffic engineering and CRM execution tooling, so we&#39;re looking for someone who&#39;s comfortable being a full-stack generalist and going deep in whichever surface the work calls for.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;About the Job&amp;nbsp;&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Design, build, and ship high-quality full-stack features that enhance search engine visibility, AI answer engine performance, and organic traffic, with a strong sense of urgency and ownership.&lt;/li&gt;\n&lt;li&gt;Build and evolve a modular React email component library that compiles to secure, client-safe HTML with simple, reusable abstractions.&lt;/li&gt;\n&lt;li&gt;Develop responsive, accessible HTML/CSS emails that render consistently across clients, devices, and dark mode, and enhance our Next.js compilation pipeline (preview, compile, validate, export) for speed, reliability, and observability.&lt;/li&gt;\n&lt;li&gt;Contribute to data pipelines for SEO and AEO ingestion, transformation, and delivery, keeping the system healthy as it grows.&lt;/li&gt;\n&lt;li&gt;Own execution of dynamic CRM campaigns (email, push, in-app) using structured blocks, templating languages, and JSON/YAML config, integrating with ESPs like Braze and REST APIs/webhooks for personalization and targeting with secure data handling.&lt;/li&gt;\n&lt;li&gt;Build automation and internal tooling that cuts QA and setup time across both surfaces, from SEO experimentation to CRM deep-link and token coverage.&lt;/li&gt;\n&lt;li&gt;Apply technical best practices to deliver performant, observable, and cost-aware code that improves search rankings, LLM visibility, campaign rendering fidelity, and user experience.&lt;/li&gt;\n&lt;li&gt;Troubleshoot rendering and logic issues across devices and states, leading triage, root-cause analysis, and system-level fixes.&lt;/li&gt;\n&lt;li&gt;Collaborate with product managers, designers, and marketing partners to translate user needs into technical requirements, surface trade-offs, and deliver on shared goals.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;About You&lt;/strong&gt;&lt;/h2&gt;\n&lt;h3&gt;Minimum Qualifications&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;3-5 years of software engineering experience with proficiency in React, TypeScript, Ruby, Python, PostgreSQL, and SQL.&lt;/li&gt;\n&lt;li&gt;Demonstrated ability to build and launch complete full-stack features with minimal oversight, from development through experimentation and production rollout.&lt;/li&gt;\n&lt;li&gt;Hands-on use of React and Next.js to componentize UI and email and compile to production HTML with scalable abstractions.&lt;/li&gt;\n&lt;li&gt;Expertise in HTML/CSS and responsive email development, with strong rendering fidelity, performance, and accessibility across clients, devices, and dark mode.&lt;/li&gt;\n&lt;li&gt;Experience with distributed systems and data engineering, designing pipelines, optimizing schemas, and ensuring data quality, with exposure to Airflow or dbt.&lt;/li&gt;\n&lt;li&gt;Comfort building and testing REST API integrations (JSON, webhooks) for personalization and orchestration, including hands-on API testing and validation, with secure, privacy-compliant data handling.&lt;/li&gt;\n&lt;li&gt;Ability to write performant code and improve observability through logging and metrics, identifying and resolving bottlenecks as they arise.&lt;/li&gt;\n&lt;li&gt;Strong product mindset with the ability to translate user needs into technical requirements and understand how your work impacts business metrics.&lt;/li&gt;\n&lt;li&gt;Effective communicator who can collaborate across marketing, product, creative, and engineering partners to align on requirements and deliver solutions.&lt;/li&gt;\n&lt;li&gt;Systems mindset: you improve the whole ecosystem you work in, leave code and docs better than you found them, and surface technical debt proactively&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Preferred Qualifications&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience with SEO/AEO initiatives or familiarity with SEO best practices, answer engine optimization for LLMs, structured data (Schema.org), search engine crawling and indexing, and Core Web Vitals.&lt;/li&gt;\n&lt;li&gt;Familiarity with how AI-powered search engines and LLMs consume and surface content, with curiosity about optimizing for AI answer generation.&lt;/li&gt;\n&lt;li&gt;Familiarity with templating and personalization languages (e.g., Liquid, AMPscript) and ESP platforms such as Braze or Salesforce Marketing Cloud.&lt;/li&gt;\n&lt;li&gt;Experience with QA tools and workflows for email testing (e.g., Litmus, Email on Acid) and link/UTM validation.&lt;/li&gt;\n&lt;li&gt;Testing experience with Jest, React Testing Library, and Cypress/Playwright.&lt;/li&gt;\n&lt;li&gt;Experience with big data technologies (Apache Spark, Hadoop), NoSQL databases, and data warehousing platforms (Snowflake, Redshift).&lt;/li&gt;\n&lt;li&gt;Experience building design systems or shared component libraries for marketing surfaces.&lt;/li&gt;\n&lt;li&gt;Track record of launching experiments and analyzing results, including A/B testing frameworks for measuring SEO/AEO or CRM impact.&lt;/li&gt;\n&lt;li&gt;Experience implementing solutions that leverage AI to enhance developer or marketer workflows.&lt;/li&gt;\n&lt;li&gt;Previous experience partnering with marketing teams on growth initiatives in fast-paced environments.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p class=&quot;p1&quot;&gt;#LI-Remote&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Instacart provides highly market-competitive compensation and benefits in each location where our employees work. This role is remote and the base pay range for a successful candidate is dependent on their permanent work location. Please review our Flex First remote work policy &lt;a href=&quot;https://instacart.careers/flex-first/&quot;&gt;here&lt;/a&gt;. Currently, we are only hiring in the following provinces: Ontario, Alberta, British Columbia, and Nova Scotia.&lt;/p&gt;\n&lt;p&gt;Offers may vary based on many factors, such as candidate experience and skills required for the role. Additionally, this role is eligible for a new hire equity grant as well as annual refresh grants. Please read more about our benefits offerings &lt;a href=&quot;https://instacart.careers/taste-of-instacart/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;For Canadian based candidates, the base pay ranges for a successful candidate are listed below.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;CAN&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$145,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$153,000 CAD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 76611,
+      "name": "Marketing ",
+      "child_ids": [],
+      "parent_id": 13607
+    }
+  ],
+  "offices": [
+    {
+      "id": 88202,
+      "name": "Remote - Canada",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 88198
+    }
+  ],
+  "ai_disclaimer": "<p>Instacart (Maplebear Inc. d/b/a Instacart) uses Greenhouse's Real Talent technology as part of our hiring process. Select \"Learn more\" for information on how these tools work, what data is involved, and your rights.&nbsp;</p>",
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": "http://app.greenhouse.io/ai_opt_out_request/job_post/8244914/ai_opt_out"
+}
