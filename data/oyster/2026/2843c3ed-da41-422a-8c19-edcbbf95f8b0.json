@@ -109,15 +109,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "8d90c7da-5b32-4b6a-9712-0bacf35fd9de",
-            "summary": "Total OTE Range: 226 667- 266 667 OTE / Base salary range: RON 136K – RON 160K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "RON",
-            "minValue": 136000,
-            "maxValue": 160000
-          },
-          {
             "id": "1c208bc8-37aa-4670-a72a-6cd6f784a8e2",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
@@ -125,6 +116,15 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "8d90c7da-5b32-4b6a-9712-0bacf35fd9de",
+            "summary": "Total OTE Range: 226 667- 266 667 OTE / Base salary range: RON 136K – RON 160K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "RON",
+            "minValue": 136000,
+            "maxValue": 160000
           }
         ]
       },
@@ -204,15 +204,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "2b2e5753-1917-449d-933a-9024d4387264",
-            "summary": "Total OTE Range: 48 333 - 58 333 OTE / Base salary range: €29K – €35K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "EUR",
-            "minValue": 29000,
-            "maxValue": 35000
-          },
-          {
             "id": "5040630a-b063-4e5c-a657-40b14b66097e",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
@@ -220,6 +211,15 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "2b2e5753-1917-449d-933a-9024d4387264",
+            "summary": "Total OTE Range: 48 333 - 58 333 OTE / Base salary range: €29K – €35K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "EUR",
+            "minValue": 29000,
+            "maxValue": 35000
           }
         ]
       },
@@ -230,15 +230,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "755e2b8a-dd47-4885-9aba-67ff802db515",
-            "summary": "Total OTE Range: 170 000 - 200 000 OTE / Base salary range: PLN 102K – PLN 120K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "PLN",
-            "minValue": 102000,
-            "maxValue": 120000
-          },
-          {
             "id": "d19b6a46-21c7-4d9f-a368-cc13cd3a5c4a",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
@@ -246,6 +237,15 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "755e2b8a-dd47-4885-9aba-67ff802db515",
+            "summary": "Total OTE Range: 170 000 - 200 000 OTE / Base salary range: PLN 102K – PLN 120K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "PLN",
+            "minValue": 102000,
+            "maxValue": 120000
           }
         ]
       },
@@ -269,17 +269,17 @@
     ],
     "summaryComponents": [
       {
+        "compensationType": "EquityPercentage",
+        "minValue": null,
+        "maxValue": null,
+        "interval": "1 YEAR"
+      },
+      {
         "compensationType": "Salary",
         "interval": "1 YEAR",
         "currencyCode": "RON",
         "minValue": 136000,
         "maxValue": 160000
-      },
-      {
-        "compensationType": "EquityPercentage",
-        "minValue": null,
-        "maxValue": null,
-        "interval": "1 YEAR"
       }
     ]
   }

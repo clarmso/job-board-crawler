@@ -4,18 +4,18 @@
   "department": "Solution Engineering",
   "team": "Solution Engineering",
   "employmentType": "FullTime",
-  "location": "US-NY-New York",
+  "location": "US-NY-New York City-Remote",
   "shouldDisplayCompensationOnJobPostings": true,
   "secondaryLocations": [],
   "publishedAt": "2026-08-14T22:22:41.572+00:00",
   "isListed": true,
-  "isRemote": null,
-  "workplaceType": null,
+  "isRemote": true,
+  "workplaceType": "Remote",
   "address": {
     "postalAddress": {
       "addressRegion": "New York",
       "addressCountry": "United States",
-      "addressLocality": "New York"
+      "addressLocality": "Remote"
     }
   },
   "jobUrl": "https://jobs.ashbyhq.com/Snowflake/ef881134-59a9-42f4-ba77-f5e7a9ddaf89",

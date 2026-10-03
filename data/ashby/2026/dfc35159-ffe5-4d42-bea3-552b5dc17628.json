@@ -44,6 +44,15 @@
         "additionalInformation": "75/25 Split",
         "components": [
           {
+            "id": "b89a4dc1-6749-4f3c-993e-5b5db445ad26",
+            "summary": "On Target Earnings $293,250 – $319,125",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 293250,
+            "maxValue": 319125
+          },
+          {
             "id": "0f75fbd0-434c-48aa-bcb8-23111e96ef53",
             "summary": "Offers Commission",
             "compensationType": "Commission",
@@ -60,15 +69,6 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
-          },
-          {
-            "id": "b89a4dc1-6749-4f3c-993e-5b5db445ad26",
-            "summary": "On Target Earnings $293,250 – $319,125",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "USD",
-            "minValue": 293250,
-            "maxValue": 319125
           }
         ]
       },
@@ -79,11 +79,11 @@
         "additionalInformation": "75/25 Split",
         "components": [
           {
-            "id": "c738b369-9dbc-4598-b52c-0a9260c9c732",
-            "summary": "Offers Commission",
-            "compensationType": "Commission",
-            "interval": "1 YEAR",
-            "currencyCode": "USD",
+            "id": "311cadb2-862f-4aa4-a798-443590937c71",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
             "minValue": null,
             "maxValue": null
           },
@@ -97,11 +97,11 @@
             "maxValue": 277500
           },
           {
-            "id": "311cadb2-862f-4aa4-a798-443590937c71",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
+            "id": "c738b369-9dbc-4598-b52c-0a9260c9c732",
+            "summary": "Offers Commission",
+            "compensationType": "Commission",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
             "minValue": null,
             "maxValue": null
           }
@@ -113,6 +113,15 @@
         "title": "Canada",
         "additionalInformation": "75/25 Split",
         "components": [
+          {
+            "id": "4b82393a-00a1-44d9-bd02-5bfcc3d29f1d",
+            "summary": "On Target Earnings CA$280,500 – CA$305,250",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "CAD",
+            "minValue": 280500,
+            "maxValue": 305250
+          },
           {
             "id": "b9530c9f-2e45-425e-afdc-2c85d86fc5d5",
             "summary": "Offers Equity",
@@ -130,20 +139,18 @@
             "currencyCode": "CAD",
             "minValue": null,
             "maxValue": null
-          },
-          {
-            "id": "4b82393a-00a1-44d9-bd02-5bfcc3d29f1d",
-            "summary": "On Target Earnings CA$280,500 – CA$305,250",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "CAD",
-            "minValue": 280500,
-            "maxValue": 305250
           }
         ]
       }
     ],
     "summaryComponents": [
+      {
+        "minValue": 255000,
+        "maxValue": 319125,
+        "currencyCode": "USD",
+        "interval": "1 YEAR",
+        "compensationType": "Salary"
+      },
       {
         "compensationType": "Commission",
         "minValue": null,
@@ -155,13 +162,6 @@
         "minValue": null,
         "maxValue": null,
         "interval": "1 YEAR"
-      },
-      {
-        "minValue": 255000,
-        "maxValue": 319125,
-        "currencyCode": "USD",
-        "interval": "1 YEAR",
-        "compensationType": "Salary"
       }
     ]
   }

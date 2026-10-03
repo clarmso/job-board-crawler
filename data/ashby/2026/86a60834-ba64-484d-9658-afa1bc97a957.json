@@ -128,20 +128,20 @@
             "maxValue": 195500
           },
           {
-            "id": "659f2f29-2e52-4d0c-8b4c-51727268a659",
-            "summary": "Offers Commission",
-            "compensationType": "Commission",
-            "interval": "1 YEAR",
-            "currencyCode": "EUR",
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "3376fe86-7d18-47ef-acf7-0da9f67d78bc",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
             "interval": "NONE",
             "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "659f2f29-2e52-4d0c-8b4c-51727268a659",
+            "summary": "Offers Commission",
+            "compensationType": "Commission",
+            "interval": "1 YEAR",
+            "currencyCode": "EUR",
             "minValue": null,
             "maxValue": null
           }
@@ -189,15 +189,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "b8121303-1856-416c-882b-2ae3e5b41b95",
-            "summary": "Offers Commission",
-            "compensationType": "Commission",
-            "interval": "1 YEAR",
-            "currencyCode": "EUR",
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "692a5c75-70ee-4bfb-81da-d20a5eb9a63f",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
@@ -214,6 +205,15 @@
             "currencyCode": "EUR",
             "minValue": 110000,
             "maxValue": 149500
+          },
+          {
+            "id": "b8121303-1856-416c-882b-2ae3e5b41b95",
+            "summary": "Offers Commission",
+            "compensationType": "Commission",
+            "interval": "1 YEAR",
+            "currencyCode": "EUR",
+            "minValue": null,
+            "maxValue": null
           }
         ]
       },
@@ -259,15 +259,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "6c767299-d44d-48fb-856e-bc89e7e9bc22",
-            "summary": "OTE £127.5K – £172.5K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "GBP",
-            "minValue": 127500,
-            "maxValue": 172500
-          },
-          {
             "id": "f101a32a-537d-408b-b7bf-f945cfb2f906",
             "summary": "Offers Commission",
             "compensationType": "Commission",
@@ -275,6 +266,15 @@
             "currencyCode": "GBP",
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "6c767299-d44d-48fb-856e-bc89e7e9bc22",
+            "summary": "OTE £127.5K – £172.5K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "GBP",
+            "minValue": 127500,
+            "maxValue": 172500
           },
           {
             "id": "617c392f-dfba-4f15-becd-4caf1584eda3",
@@ -297,13 +297,13 @@
         "compensationType": "Salary"
       },
       {
-        "compensationType": "Commission",
+        "compensationType": "EquityPercentage",
         "minValue": null,
         "maxValue": null,
         "interval": "1 YEAR"
       },
       {
-        "compensationType": "EquityPercentage",
+        "compensationType": "Commission",
         "minValue": null,
         "maxValue": null,
         "interval": "1 YEAR"

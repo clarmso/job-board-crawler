@@ -64,15 +64,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "7d88836a-f592-44da-a27d-e32f275f8b2f",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "a1a144a3-b6f7-4ad9-89df-3a3adea2c213",
             "summary": "SGD 80,000 – SGD 96,000",
             "compensationType": "Salary",
@@ -80,6 +71,15 @@
             "currencyCode": "SGD",
             "minValue": 80000,
             "maxValue": 96000
+          },
+          {
+            "id": "7d88836a-f592-44da-a27d-e32f275f8b2f",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           }
         ]
       },
@@ -142,15 +142,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "4912f2e9-ab44-416f-bb39-da8a801bfe17",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "ce57a72e-e9db-4853-821b-a5694f7a0b42",
             "summary": "₩45,518,000 – ₩58,540,000",
             "compensationType": "Salary",
@@ -158,23 +149,32 @@
             "currencyCode": "KRW",
             "minValue": 45518000,
             "maxValue": 58540000
+          },
+          {
+            "id": "4912f2e9-ab44-416f-bb39-da8a801bfe17",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           }
         ]
       }
     ],
     "summaryComponents": [
       {
-        "compensationType": "EquityPercentage",
-        "minValue": null,
-        "maxValue": null,
-        "interval": "1 YEAR"
-      },
-      {
         "compensationType": "Salary",
         "interval": "1 YEAR",
         "currencyCode": "SGD",
         "minValue": 80000,
         "maxValue": 96000
+      },
+      {
+        "compensationType": "EquityPercentage",
+        "minValue": null,
+        "maxValue": null,
+        "interval": "1 YEAR"
       }
     ]
   }

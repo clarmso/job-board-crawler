@@ -79,13 +79,13 @@
         "additionalInformation": "75/25 Split",
         "components": [
           {
-            "id": "e38cc680-be0a-427d-a0ae-e52e52a5600d",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
+            "id": "36c8527c-af96-4534-a900-3baa1e2bf92b",
+            "summary": "On Target Earnings $210,000 – $243,750",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 210000,
+            "maxValue": 243750
           },
           {
             "id": "95d08e93-cf6a-4336-ac47-ac2df331405c",
@@ -97,13 +97,13 @@
             "maxValue": null
           },
           {
-            "id": "36c8527c-af96-4534-a900-3baa1e2bf92b",
-            "summary": "On Target Earnings $210,000 – $243,750",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "USD",
-            "minValue": 210000,
-            "maxValue": 243750
+            "id": "e38cc680-be0a-427d-a0ae-e52e52a5600d",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           }
         ]
       },
@@ -114,13 +114,13 @@
         "additionalInformation": "75/25 Split",
         "components": [
           {
-            "id": "82d1bcb5-fee3-4fd0-bf41-26086d950987",
-            "summary": "On Target Earnings $231,000 – $268,125",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "USD",
-            "minValue": 231000,
-            "maxValue": 268125
+            "id": "70b4dff9-29da-465f-a390-20807671e7e8",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           },
           {
             "id": "521cf87f-871a-4005-9db1-8dc48547a976",
@@ -132,13 +132,13 @@
             "maxValue": null
           },
           {
-            "id": "70b4dff9-29da-465f-a390-20807671e7e8",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
+            "id": "82d1bcb5-fee3-4fd0-bf41-26086d950987",
+            "summary": "On Target Earnings $231,000 – $268,125",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 231000,
+            "maxValue": 268125
           }
         ]
       }

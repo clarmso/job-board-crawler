@@ -23,7 +23,7 @@
     }
   ],
   "id": 8811842002,
-  "updated_at": "2026-09-30T13:11:13-04:00",
+  "updated_at": "2026-10-02T09:12:39-04:00",
   "requisition_id": "6995",
   "title": "Senior Contracts Manager, Commercial (EMEA)",
   "company_name": "GitLab",
@@ -42,6 +42,13 @@
     }
   ],
   "offices": [
+    {
+      "id": 4040905002,
+      "name": "Ireland",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 4019553002
+    },
     {
       "id": 4040908002,
       "name": "United Kingdom",

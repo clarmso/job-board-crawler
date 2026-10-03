@@ -90,15 +90,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "3d925ab0-d730-4924-a68f-c0e47bf74a2c",
-            "summary": "IC5 OTE $210.7K – $263.4K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "USD",
-            "minValue": 210700,
-            "maxValue": 263400
-          },
-          {
             "id": "d62e9ee1-d134-4360-9401-8fd07de15088",
             "summary": "Offers Commission",
             "compensationType": "Commission",
@@ -106,6 +97,15 @@
             "currencyCode": "USD",
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "3d925ab0-d730-4924-a68f-c0e47bf74a2c",
+            "summary": "IC5 OTE $210.7K – $263.4K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 210700,
+            "maxValue": 263400
           }
         ]
       }

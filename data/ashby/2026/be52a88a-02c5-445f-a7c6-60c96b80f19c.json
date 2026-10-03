@@ -70,15 +70,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "8fa0f75d-ff68-47aa-ba3d-8debfed341e9",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "933ad460-452b-4699-9842-c1fa4c8e46f3",
             "summary": "Base Salary $120,000 – $140,000",
             "compensationType": "Salary",
@@ -86,6 +77,15 @@
             "currencyCode": "USD",
             "minValue": 120000,
             "maxValue": 140000
+          },
+          {
+            "id": "8fa0f75d-ff68-47aa-ba3d-8debfed341e9",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           }
         ]
       },
@@ -96,15 +96,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "a8b5225f-6ff2-451d-b370-8d7c633ad6e1",
-            "summary": "Base Salary CA$120,000 – CA$138,750",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "CAD",
-            "minValue": 120000,
-            "maxValue": 138750
-          },
-          {
             "id": "fadb4b0a-a29c-44df-b81d-8e1ecf197e99",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
@@ -112,6 +103,15 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "a8b5225f-6ff2-451d-b370-8d7c633ad6e1",
+            "summary": "Base Salary CA$120,000 – CA$138,750",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "CAD",
+            "minValue": 120000,
+            "maxValue": 138750
           }
         ]
       }

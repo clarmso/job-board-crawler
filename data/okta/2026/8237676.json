@@ -1,0 +1,96 @@
+{
+  "absolute_url": "https://www.okta.com/company/careers/opportunity/8237676?gh_jid=8237676",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 3564651,
+  "location": {
+    "name": "Toronto, Ontario, Canada"
+  },
+  "metadata": [
+    {
+      "id": 58735330,
+      "name": "Naukri Job URL",
+      "value": null,
+      "value_type": "long_text"
+    },
+    {
+      "id": 58735350,
+      "name": "Naukri Job Error",
+      "value": null,
+      "value_type": "long_text"
+    },
+    {
+      "id": 58735367,
+      "name": "Minimum Salary",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735368,
+      "name": "Maximum Salary",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735369,
+      "name": "Minimum Work Experience",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735370,
+      "name": "Maximum Work Experience",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735384,
+      "name": "City",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 58735385,
+      "name": "Job Description",
+      "value": null,
+      "value_type": "long_text"
+    }
+  ],
+  "id": 8237676,
+  "updated_at": "2026-10-02T14:18:42-04:00",
+  "requisition_id": "P25830_3564651",
+  "title": "Principal Software Engineer, SecureAI",
+  "company_name": "Okta",
+  "first_published": "2026-10-02T14:18:42-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Secure Every Identity, from AI to Human&lt;br&gt;&lt;br&gt;&lt;/strong&gt;Identity is the key to unlocking the potential of AI. Okta secures AI by building the trusted, neutral infrastructure that enables organizations to safely embrace this new era. This work requires a relentless drive to solve complex challenges with real-world stakes. We are looking for builders and owners who operate with speed and urgency and execute with excellence.&lt;br&gt;&lt;br&gt;This is an opportunity to do career-defining work. We&#39;re all in on this mission. If you are too, let&#39;s talk.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;About Okta Secures AI Team&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;The Okta for AI Agents Team is building the future of digital identity management. The way companies are using agents and allowing them access is undergoing a fundamental shift, enabling teams to move fast while staying secure.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Our North Star is clear: To get AI right, you have to get identity right. We are not just managing identities; we are building the industry&#39;s first Identity Security Fabric for the agentic era. As organizations rapidly deploy AI, these non-human entities are acting with access to critical tools, often bypassing traditional perimeters and creating a &#39;Shadow AI&#39; crisis. Our mission is to move identity from a reactive gatekeeper to a unified control plane, transforming AI risk into business ROI.&lt;/p&gt;\n&lt;p&gt;We are tackling this by implementing a comprehensive four-pillar maturity model: Discover, Onboard, Protect, and Govern. We are driving innovation by defining the standards for Agentic Identity—including pioneer work with securing AI Agents and support for protocols like MCP. You will be helping us build the infrastructure that allows enterprises to scale AI safely, ensuring every access decision—whether made by a human or an automated agent—is authenticated, authorized, and audited at scale.&lt;/p&gt;\n&lt;p&gt;We are a diverse team of engineers, product managers, and designers who are bringing Okta’s expertise in identity to define the future of Agent Identity management, focusing on enablement while staying secure.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;About the role&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;As a Principal Software Engineer on the Agent Access Policies sub-team in the Okta Secures AI, you will serve as the technical leader and compass for the Okta Secures AI Team. You&#39;ll work across the breadth of the platform, tackling the highly complex, vaguely specified problems that span it and turning them into clear technical directions the team can execute against, without day-to-day oversight.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Above all, you&#39;ll own how the platform is architected to scale: the distributed systems behind it, the reliability and consistency guarantees developers depend on, and the coherence that keeps it easy to build on as usage grows. You&#39;ll champion the team&#39;s technical execution, raise the engineering bar, mentor the people around you, and partner with tech leads across teams to keep the wider platform aligned. You&#39;ll have real influence over how our platform holds up in a world where developers and agents are both first-class consumers.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What you’ll be doing&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Set the technical direction for the Agent Access Policies framework, and make the cross-cutting decisions that keep it coherent and easy to build on as it grows.&lt;/li&gt;\n&lt;li&gt;Design the distributed systems behind the platform for throughput, reliability, and consistency, so the guarantees developers depend on hold up under real load.&lt;/li&gt;\n&lt;li&gt;Take the hardest, most vaguely specified platform problems and turn them into clear, modular technical designs the team can execute against.&lt;/li&gt;\n&lt;li&gt;Shape the platform so it holds up whether a person or an agent is calling it, and so both can build and automate their work against Okta for AI Agents.&lt;/li&gt;\n&lt;li&gt;Set the standard for how the team designs, builds, and operates the platform, and lead deep, constructive reviews that grow the engineers around you.&lt;/li&gt;\n&lt;li&gt;Operate peer-to-peer with tech leads in adjacent teams to review major architectural decisions and keep the wider platform aligned.&lt;/li&gt;\n&lt;li&gt;Drive continual evolution in the adoption of AI-native development practices, helping the team rethink how we design, review, and ship software with AI as a core part of the workflow.&lt;/li&gt;\n&lt;li&gt;Proactively identify and prioritize tech debt; drive improvements in areas beyond feature work - CI/CD, observability, documentation, reliability, and support processes.&lt;/li&gt;\n&lt;li&gt;Partner with Product and Design to understand and own the desired customer outcome, not just the technical deliverable.&lt;/li&gt;\n&lt;li&gt;Actively invest in the growth of peer engineers, taking responsibility for raising the technical bar of the team as a whole.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;What you’ll bring to the role&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;10+ years of software engineering experience, with a proven track record as a Principal or Staff level individual contributor.&lt;/li&gt;\n&lt;li&gt;Extensive experience designing and operating high-scale, reliable backend and event-driven systems, with a strong grasp of the tradeoffs in throughput, consistency, and failure handling.&lt;/li&gt;\n&lt;li&gt;You can own vaguely specified problems and drive them to a clear technical direction without heavy top-down scoping.&lt;/li&gt;\n&lt;li&gt;Experience working across engineering, product, and architecture in a fast-moving environment, and a habit of raising the bar for the people around you.&lt;/li&gt;\n&lt;li&gt;Proven experience defining scalable backend architectures and integrating complex APIs with modern web technologies - including the ability to make and defend architectural decisions with lasting org-wide impact.&lt;/li&gt;\n&lt;li&gt;Solid understanding of web authentication and authorization fundamentals - how auth flows work, and best practices for securing sensitive user data.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Architectural expertise: Proven experience defining scalable backend architectures and integrating complex APIs with modern web technologies, including making decisions with lasting, org-wide impact.&lt;/li&gt;\n&lt;li&gt;Backend proficiency: Deep expertise in building reliable, secure, enterprise-grade software in Java or another type-safe language.&lt;/li&gt;\n&lt;li&gt;Prior experience leading a team of engineers through a meaningful shift in ways of working - whether around AI adoption, developer tooling, or engineering culture change is a strong plus.&lt;/li&gt;\n&lt;li&gt;Bachelor’s or Master&#39;s degree in Computer Science or related field&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Extra credit&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience with identity, authorization, or IAM protocols&amp;nbsp; (e.g., OAuth, OIDC, SAML)&lt;/li&gt;\n&lt;li&gt;Hands-on familiarity with agentic tooling, MCP, or LLM-facing design, and a sense for how agents consume a platform.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;(P25830_3564651)&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;\n&lt;p&gt;#LI-Hybrid&lt;/p&gt;\n&lt;p&gt;#LI-BB1&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Below is the annual salary range for candidates located in Canada. Your actual salary will depend on factors such as your skills, qualifications, and experience. In addition, Okta offers equity (where applicable), bonus, and benefits, including health, dental, and vision insurance, RRSP with a match, healthcare spending, telemedicine, and paid leave (including PTO and parental leave) in accordance with our applicable plans and policies. To learn more about our Total Rewards program, please visit:&amp;nbsp;&lt;a href=&quot;https://rewards.okta.com/can&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://rewards.okta.com/can&amp;amp;source=gmail&amp;amp;ust=1705181614985000&amp;amp;usg=AOvVaw29oi6BOXve4rhySFpzzvao&quot;&gt;https://rewards.okta.com/can&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;The annual base salary range for this position for candidates located in Canada is between:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$184,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$253,000 CAD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;The Okta Experience&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;a href=&quot;http://rewards.okta.com&quot;&gt;Supporting Your Well-Being&lt;/a&gt;&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;&lt;a href=&quot;https://www.okta.com/company/okta-for-good/&quot;&gt;Driving Social Impact&amp;nbsp;&lt;/a&gt;&lt;/li&gt;\n&lt;li&gt;&lt;a href=&quot;https://www.okta.com/company/talent-connection-community/&quot;&gt;Developing Talent and Fostering Connection + Community&lt;/a&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;We are intentional about connection. Our global community, spanning over 20 offices worldwide, is united by a drive to innovate. Your journey begins with an immersive, in-person onboarding experience designed to accelerate your impact and connect you to our mission and team from day one.&lt;br&gt;&lt;br&gt;Okta is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, marital status, age, physical or mental disability, or status as a protected veteran. We also consider for employment qualified applicants with arrest and convictions records, consistent with applicable laws.&lt;br&gt;&lt;br&gt;If reasonable accommodation is needed to complete any part of the job application, interview process, or onboarding please&amp;nbsp;&lt;a href=&quot;https://docs.google.com/forms/d/1EfiEYZrIyhA2X4Fijk0R3RKYOzNoS3wtvyM4nhbZnXE/edit&quot;&gt;use this Form&lt;/a&gt; to request an accommodation.&lt;br&gt;&lt;br&gt;Notice for New York City Applicants &amp;amp; Employees: Okta may use Automated Employment Decision Tools (AEDT), as defined by New York City Local Law 144, that use artificial intelligence, machine learning, or other automated processes to assist in our recruitment and hiring process. In accordance with NYC Local Law 144, if you are an applicant or employee residing in New York City, please&amp;nbsp;&lt;a href=&quot;https://talent.okta.com/new-york-city-aedt-notice.html&quot;&gt;click here&lt;/a&gt; to view our full NYC AEDT Notice.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 44028,
+      "name": "SW Eng - Applications-674",
+      "child_ids": [],
+      "parent_id": 396304
+    }
+  ],
+  "offices": [
+    {
+      "id": 19614,
+      "name": "Toronto",
+      "location": "Toronto, ON, Canada",
+      "child_ids": [],
+      "parent_id": 67251
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

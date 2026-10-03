@@ -44,7 +44,7 @@
       }
     }
   ],
-  "publishedAt": "2026-10-02T07:18:21.226+00:00",
+  "publishedAt": "2026-10-02T10:26:30.247+00:00",
   "isListed": true,
   "isRemote": true,
   "workplaceType": "Remote",
@@ -69,15 +69,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "ed559a36-d203-4252-b5b4-e0296a371d0e",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "b28e91a1-f4e1-4164-b936-059e1f4f5708",
             "summary": "€62K – €68K",
             "compensationType": "Salary",
@@ -85,6 +76,15 @@
             "currencyCode": "EUR",
             "minValue": 62000,
             "maxValue": 68000
+          },
+          {
+            "id": "ed559a36-d203-4252-b5b4-e0296a371d0e",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           }
         ]
       },
@@ -164,15 +164,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "440714d7-57d1-409e-815b-cb414e61b8be",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "55bc1d46-0717-4d60-a933-cc96d624d2cc",
             "summary": "€68K – €70K",
             "compensationType": "Salary",
@@ -180,23 +171,32 @@
             "currencyCode": "EUR",
             "minValue": 68000,
             "maxValue": 70000
+          },
+          {
+            "id": "440714d7-57d1-409e-815b-cb414e61b8be",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           }
         ]
       }
     ],
     "summaryComponents": [
       {
-        "compensationType": "EquityPercentage",
-        "minValue": null,
-        "maxValue": null,
-        "interval": "1 YEAR"
-      },
-      {
         "minValue": 44000,
         "maxValue": 70000,
         "currencyCode": "EUR",
         "interval": "1 YEAR",
         "compensationType": "Salary"
+      },
+      {
+        "compensationType": "EquityPercentage",
+        "minValue": null,
+        "maxValue": null,
+        "interval": "1 YEAR"
       }
     ]
   }

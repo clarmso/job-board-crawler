@@ -59,15 +59,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "b9754b3c-256e-4cd8-b33a-b841bb9245db",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "84081c2b-c532-4867-aaac-020d85c9a96f",
             "summary": "US Average $160K – $209K",
             "compensationType": "Salary",
@@ -75,6 +66,15 @@
             "currencyCode": "USD",
             "minValue": 160000,
             "maxValue": 209000
+          },
+          {
+            "id": "b9754b3c-256e-4cd8-b33a-b841bb9245db",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           }
         ]
       }

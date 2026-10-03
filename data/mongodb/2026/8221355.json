@@ -1,0 +1,152 @@
+{
+  "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=8221355",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3558125,
+  "location": {
+    "name": "New York City"
+  },
+  "metadata": [
+    {
+      "id": 22194060,
+      "name": "Position ID",
+      "value": "10012770",
+      "value_type": "short_text"
+    },
+    {
+      "id": 24918,
+      "name": "Department ID",
+      "value": "D85024-FIN Tech",
+      "value_type": "single_select"
+    },
+    {
+      "id": 22194061,
+      "name": "Team",
+      "value": "388-ERP",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4914027,
+      "name": "Region",
+      "value": "North America",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4137836,
+      "name": "Working Model Eligibility",
+      "value": [
+        "2-Flexible"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 4914029,
+      "name": "Job Level",
+      "value": "Professional - IC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24109,
+      "name": "Employment Type",
+      "value": "Full-time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 1073551,
+      "name": "Job Type",
+      "value": "Standard",
+      "value_type": "single_select"
+    },
+    {
+      "id": 988684,
+      "name": "JD Link",
+      "value": "https://docs.google.com/document/d/1640LFdxLYb1rwajtwEd_JLFpnH_Yac79IxfV3mJSK3g/edit?tab=t.0#heading=h.mz82e2wozbf7",
+      "value_type": "url"
+    },
+    {
+      "id": 5525802,
+      "name": "Baseline Budgeted Salary",
+      "value": {
+        "unit": "USD",
+        "max_value": "245000.0",
+        "min_value": "171000.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 5525816,
+      "name": "Other Large Market Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 13324394,
+      "name": "Job Post Range (United States)",
+      "value": {
+        "unit": "USD",
+        "max_value": "270000.0",
+        "min_value": "137000.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 40497768,
+      "name": "Job Post Range (Canada)",
+      "value": {
+        "unit": "USD",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 57694516,
+      "name": "Job Post Range (Poland)",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 64002488,
+      "name": "Job Post Range (Italy)",
+      "value": null,
+      "value_type": "currency_range"
+    }
+  ],
+  "id": 8221355,
+  "updated_at": "2026-10-02T11:02:16-04:00",
+  "requisition_id": "3273558125",
+  "title": "Staff Engineer - Business Systems",
+  "company_name": "MongoDB",
+  "first_published": "2026-10-01T18:40:20-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;We are seeking a highly skilled Staff NetSuite Engineer with deep expertise in Order-to-Cash(O2C) &amp;amp; Record-to-Report (R2R) processes and accounting best practices. This role will serve as the technical and functional bridge between Finance and Technology, driving automation, process optimization, and scalability within our NetSuite environment.The successful candidate will lead the design, enhancement, and support of accounting systems that power our General Ledger (GL), Record-to-Report (R2R), Accounts Payable (AP), Accounts Receivable (AR), including credit card process, Tax, and Treasury operations. As a senior member of the Finance Technology team, you will design and implement solutions that streamline accounting workflows, ensure compliance, and enhance financial reporting accuracy.&lt;/p&gt;\n&lt;p&gt;We are looking to speak to candidates who are based in New York City, NY for our hybrid working model.&lt;/p&gt;\n&lt;h3&gt;Key Responsibilities&lt;/h3&gt;\n&lt;h3&gt;System Architecture &amp;amp; Development&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Lead the design, configuration, and customization of NetSuite to support R2R and accounting processes (GL, journals, allocations, consolidations, fixed assets, intercompany eliminations)&lt;/li&gt;\n&lt;li&gt;Architect scalable NetSuite solutions that integrate seamlessly with upstream and downstream systems (e.g., procurement, billing, expense management, data lake)&lt;/li&gt;\n&lt;li&gt;Develop and maintain SuiteScript, SuiteFlow, SuiteTalk (Web Services), and RESTlets to support automation and integrations&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Process &amp;amp; Accounting Alignment&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Partner with Finance, Accounting, and Audit teams to translate accounting policies into system-enforced controls within NetSuite&lt;/li&gt;\n&lt;li&gt;Act as the primary point of contact for Finance teams including Accounting, Tax, Treasury and RevOps&lt;/li&gt;\n&lt;li&gt;Ensure compliance with SOX, GAAP, and audit requirements through configuration of role-based security, approvals, reconciliations, and audit trails&lt;/li&gt;\n&lt;li&gt;Optimize financial close processes (journals, reconciliations, accruals, consolidations) to reduce close cycle time&lt;/li&gt;\n&lt;li&gt;Build and enhance reporting frameworks (saved searches, financial reports, dashboards) to support accurate and timely financial reporting&lt;/li&gt;\n&lt;li&gt;Support compliance and audit requirements through appropriate controls and documentation&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Technical Leadership&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Serve as the subject matter expert (SME) for NetSuite R2R and OTC processes, guiding engineers, administrators, and analysts&lt;/li&gt;\n&lt;li&gt;Serve as the primary technical advisor for business stakeholders&lt;/li&gt;\n&lt;li&gt;Translate business requirements into scalable technical solutions with clear documentation&lt;/li&gt;\n&lt;li&gt;Establish engineering best practices in NetSuite development, including coding standards, testing, version control, and deployment&lt;/li&gt;\n&lt;li&gt;Drive system performance, scalability, and reliability improvements&lt;/li&gt;\n&lt;li&gt;Mentor junior engineers and provide architectural oversight for NetSuite-related initiatives&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Integration &amp;amp; Data Management&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Oversee integrations with external systems (e.g., payroll, banking, consolidation tools, CRM platforms like Salesforce, Coupa, Concur)&lt;/li&gt;\n&lt;li&gt;Partner with Data Engineering teams to ensure accurate data flow into finance data lake/warehouse for analytics and compliance reporting&lt;/li&gt;\n&lt;li&gt;Support data governance, master data management (chart of accounts, dimensions, entity hierarchy) in alignment with accounting standards&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Qualifications&lt;/h3&gt;\n&lt;h3&gt;Required&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;10+ years of NetSuite development/engineering experience with a focus on General Ledger and accounting modules&lt;/li&gt;\n&lt;li&gt;Strong knowledge of OTC and R2R processes including journal entries, close cycle, reconciliations, consolidations, and intercompany accounting&lt;/li&gt;\n&lt;li&gt;Proficiency in SuiteScript 1.0/2.0, SuiteFlow, SuiteTalk, REST APIs, and NetSuite integration patterns&lt;/li&gt;\n&lt;li&gt;Demonstrated experience implementing system-enforced financial controls and supporting SOX compliance&lt;/li&gt;\n&lt;li&gt;Solid understanding of US GAAP and accounting workflows&lt;/li&gt;\n&lt;li&gt;Experience with role-based security design, segregation of duties, and audit requirements&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Preferred&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience with global accounting operations (multi-entity, multi-currency, consolidations)&lt;/li&gt;\n&lt;li&gt;Bachelor’s degree in Computer Science, Information Systems, Finance, or related field (or equivalent experience)&lt;/li&gt;\n&lt;li&gt;Familiarity with modern finance data stacks and BI/reporting tools&lt;/li&gt;\n&lt;li&gt;Prior experience in a high-growth, SaaS or technology company&lt;/li&gt;\n&lt;li&gt;Exposure to AI/automation in Finance (e.g., reconciliations, anomaly detection)&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Soft Skills&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Strong problem-solving and cross-functional collaboration abilities&lt;/li&gt;\n&lt;li&gt;Excellent communication skills, able to translate technical details into business terms&lt;/li&gt;\n&lt;li&gt;Leadership mindset with the ability to mentor and influence stakeholders&lt;/li&gt;\n&lt;li&gt;Detail-oriented with a commitment to accuracy and compliance&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Why Join Us?&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Impact at Scale: Play a strategic role in modernizing Finance Technology for a growing global organization&lt;/li&gt;\n&lt;li&gt;Innovation: Work at the intersection of Finance, Technology, and Compliance to deliver scalable impact&lt;/li&gt;\n&lt;li&gt;Cross-Functional Collaboration: Partner with senior leaders in Finance, Procurement, and Technology to deliver systems that enable smarter decisions&lt;/li&gt;\n&lt;li&gt;Opportunity to lead technical strategy and influence how core accounting processes are automated and optimized&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;About MongoDB&lt;/h3&gt;\n&lt;p&gt;MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure.&lt;/p&gt;\n&lt;p&gt;With offices worldwide and over 67,000 customers, including AI-native startups and approximately 75% of the Fortune 100, relying on MongoDB for their most important applications, we’re powering the next era of software.&lt;/p&gt;\n&lt;p&gt;Our compass at MongoDB is our &lt;a href=&quot;https://www.mongodb.com/company&quot;&gt;Leadership Commitment,&lt;/a&gt; guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. &lt;a href=&quot;https://www.mongodb.com/company/blog/culture/employee-benefits-that-make-a-difference-at-mongodb&quot;&gt;From employee affinity groups, to fertility assistance and a generous parental leave policy&lt;/a&gt;, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys.&lt;a href=&quot;https://www.mongodb.com/blog/channel/culture&quot;&gt; Learn more about what it’s like to work at MongoDB&lt;/a&gt;, and help us make an impact on the world!&lt;/p&gt;\n&lt;p&gt;MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.&lt;/p&gt;\n&lt;p&gt;MongoDB, Inc. provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type and makes all hiring decisions without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.&lt;/p&gt;\n&lt;p&gt;Req ID: 3273558125&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;MongoDB’s base salary range for this role is posted below. Compensation at the time of offer is unique to each candidate and based on a variety of factors such as skill set, experience, qualifications, and work location. Salary is one part of MongoDB’s total compensation and benefits package. Other benefits for eligible employees may include: equity, participation in the employee stock purchase program, flexible paid time off, 20 weeks fully-paid gender-neutral parental leave, fertility and adoption assistance, 401(k) plan, mental health counseling, access to transgender-inclusive health insurance coverage, and health benefits offerings. Please note, the base salary range listed below and the benefits in this paragraph are only applicable to U.S.-based candidates.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;MongoDB’s base salary range for this role in the U.S. is:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$137,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$270,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 289353,
+      "name": "FIN Tech",
+      "child_ids": [],
+      "parent_id": 298006
+    }
+  ],
+  "offices": [
+    {
+      "id": 3960,
+      "name": "New York City",
+      "location": "New York, NY, United States",
+      "child_ids": [],
+      "parent_id": 23657
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": null
+}

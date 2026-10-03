@@ -43,7 +43,7 @@
       "id": 4137836,
       "name": "Working Model Eligibility",
       "value": [
-        "3-Fully Remote"
+        "2-Flexible"
       ],
       "value_type": "multi_select"
     },
@@ -74,7 +74,11 @@
     {
       "id": 5525802,
       "name": "Baseline Budgeted Salary",
-      "value": null,
+      "value": {
+        "unit": "USD",
+        "max_value": "195000.0",
+        "min_value": "136000.0"
+      },
       "value_type": "currency_range"
     },
     {
@@ -97,9 +101,9 @@
       "id": 40497768,
       "name": "Job Post Range (Canada)",
       "value": {
-        "unit": "CAD",
-        "max_value": "149000.0",
-        "min_value": "108000.0"
+        "unit": "USD",
+        "max_value": "0.0",
+        "min_value": "0.0"
       },
       "value_type": "currency_range"
     },
@@ -117,7 +121,7 @@
     }
   ],
   "id": 8089124,
-  "updated_at": "2026-09-28T12:28:24-04:00",
+  "updated_at": "2026-10-02T14:40:58-04:00",
   "requisition_id": "2273504602",
   "title": "Software Engineer 3",
   "company_name": "MongoDB",
@@ -135,9 +139,9 @@
   ],
   "offices": [
     {
-      "id": 95844,
-      "name": "Remote Vermont",
-      "location": "Vermont, United States",
+      "id": 3960,
+      "name": "New York City",
+      "location": "New York, NY, United States",
       "child_ids": [],
       "parent_id": 23657
     }

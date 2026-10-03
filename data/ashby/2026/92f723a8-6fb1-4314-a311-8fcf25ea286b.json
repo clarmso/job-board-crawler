@@ -136,15 +136,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "1ae41f88-f137-49b3-b528-4670dfb7970e",
-            "summary": "USD OTE $207,000 – $280,313",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "USD",
-            "minValue": 207000,
-            "maxValue": 280313
-          },
-          {
             "id": "3bfbbf16-3c42-4946-a015-0e654d2f264d",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
@@ -152,6 +143,15 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "1ae41f88-f137-49b3-b528-4670dfb7970e",
+            "summary": "USD OTE $207,000 – $280,313",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 207000,
+            "maxValue": 280313
           }
         ]
       }

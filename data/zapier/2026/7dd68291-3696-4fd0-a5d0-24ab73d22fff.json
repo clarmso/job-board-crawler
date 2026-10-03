@@ -33,13 +33,13 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "ec6dff90-8841-4df3-9be0-5c669b9323d3",
-            "summary": "Offers Bonus",
-            "compensationType": "Bonus",
+            "id": "13b3c3e9-2106-41ff-b73e-801cc33af870",
+            "summary": "Base Salary $174.2K – $261.3K",
+            "compensationType": "Salary",
             "interval": "1 YEAR",
             "currencyCode": "USD",
-            "minValue": null,
-            "maxValue": null
+            "minValue": 174200,
+            "maxValue": 261300
           },
           {
             "id": "ee917d66-c92d-4978-b6b0-1d8561ed7962",
@@ -51,13 +51,13 @@
             "maxValue": null
           },
           {
-            "id": "13b3c3e9-2106-41ff-b73e-801cc33af870",
-            "summary": "Base Salary $174.2K – $261.3K",
-            "compensationType": "Salary",
+            "id": "ec6dff90-8841-4df3-9be0-5c669b9323d3",
+            "summary": "Offers Bonus",
+            "compensationType": "Bonus",
             "interval": "1 YEAR",
             "currencyCode": "USD",
-            "minValue": 174200,
-            "maxValue": 261300
+            "minValue": null,
+            "maxValue": null
           }
         ]
       },
@@ -99,10 +99,11 @@
     ],
     "summaryComponents": [
       {
-        "compensationType": "Bonus",
-        "minValue": null,
-        "maxValue": null,
-        "interval": "1 YEAR"
+        "compensationType": "Salary",
+        "interval": "1 YEAR",
+        "currencyCode": "USD",
+        "minValue": 174200,
+        "maxValue": 261300
       },
       {
         "compensationType": "EquityPercentage",
@@ -111,11 +112,10 @@
         "interval": "1 YEAR"
       },
       {
-        "compensationType": "Salary",
-        "interval": "1 YEAR",
-        "currencyCode": "USD",
-        "minValue": 174200,
-        "maxValue": 261300
+        "compensationType": "Bonus",
+        "minValue": null,
+        "maxValue": null,
+        "interval": "1 YEAR"
       }
     ]
   }

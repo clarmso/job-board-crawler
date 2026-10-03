@@ -6,16 +6,7 @@
   "employmentType": "FullTime",
   "location": "Toronto",
   "shouldDisplayCompensationOnJobPostings": false,
-  "secondaryLocations": [
-    {
-      "location": "Remote USA ",
-      "address": {
-        "postalAddress": {
-          "addressCountry": "USA"
-        }
-      }
-    }
-  ],
+  "secondaryLocations": [],
   "publishedAt": "2026-09-11T21:31:52.681+00:00",
   "isListed": true,
   "isRemote": true,

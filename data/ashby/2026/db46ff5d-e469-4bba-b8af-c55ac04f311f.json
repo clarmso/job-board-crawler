@@ -1,0 +1,221 @@
+{
+  "id": "db46ff5d-e469-4bba-b8af-c55ac04f311f",
+  "title": "Data Analytics Manager",
+  "department": "Data",
+  "team": "Data",
+  "employmentType": "FullTime",
+  "location": "Remote - US",
+  "shouldDisplayCompensationOnJobPostings": true,
+  "secondaryLocations": [
+    {
+      "location": "Austin",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "Texas",
+          "addressCountry": "USA",
+          "addressLocality": "Austin"
+        }
+      }
+    },
+    {
+      "location": "Los Angeles",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "California",
+          "addressCountry": "USA",
+          "addressLocality": "Los Angeles"
+        }
+      }
+    },
+    {
+      "location": "Remote - Canada",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "",
+          "addressCountry": "Canada",
+          "addressLocality": ""
+        }
+      }
+    },
+    {
+      "location": "Seattle",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "Washington",
+          "addressCountry": "USA",
+          "addressLocality": "Seattle"
+        }
+      }
+    },
+    {
+      "location": "New York",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "New York",
+          "addressCountry": "USA",
+          "addressLocality": "New York"
+        }
+      }
+    },
+    {
+      "location": "San Francisco",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "CA",
+          "addressCountry": "USA",
+          "addressLocality": "San Francisco"
+        }
+      }
+    },
+    {
+      "location": "Denver",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "Colorado",
+          "addressCountry": "USA",
+          "addressLocality": "Denver"
+        }
+      }
+    }
+  ],
+  "publishedAt": "2026-10-02T23:44:15.683+00:00",
+  "isListed": true,
+  "isRemote": true,
+  "workplaceType": "Remote",
+  "address": {
+    "postalAddress": {
+      "addressRegion": "",
+      "addressCountry": "United States",
+      "addressLocality": ""
+    }
+  },
+  "jobUrl": "https://jobs.ashbyhq.com/ashby/db46ff5d-e469-4bba-b8af-c55ac04f311f",
+  "applyUrl": "https://jobs.ashbyhq.com/ashby/db46ff5d-e469-4bba-b8af-c55ac04f311f/application",
+  "descriptionHtml": "<h2><strong>About this Role</strong></h2><p style=\"min-height:1.5em\">👋 Hi, I’m <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.linkedin.com/in/adamantine/\"><u>Kevin</u></a>. I manage the Data team and our analytics products at Ashby. I’m hiring our first <strong>Data Analytics Manager</strong> at an important point in Ashby’s growth, and I hope you have the patience to read a job posting that may be a little unconventional.</p><p style=\"min-height:1.5em\">You will manage Ashby’s three Data Analysts: two core analysts and one analyst focused on Revenue Operations. Our Data Engineer will initially continue to report directly to me, so this role is deliberately more focused on the analytical side of the team while remaining a close partner in the broader data ecosystem.</p><p style=\"min-height:1.5em\">The primary result of your successful management will be a team of analysts with excellent judgment, strong technical methods, clear communication, and a deep sense of ownership. I am looking for someone who can help that team do better work, choose better work, and grow into the next stage of Ashby alongside the company.</p><p style=\"min-height:1.5em\">Rather than begin with a long list of tools or years of experience, I want to share four questions that sit at the center of this role. If you apply, your answer should be “yes” to each. Should we get a chance to talk, what I will really want to understand is the nuance: your unique how, why, and what behind your answers.</p><ol style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>Can you identify and hire talented people?</strong></p><p style=\"min-height:1.5em\">We will continue to grow the analyst team, and you will play a meaningful role in finding and assessing future teammates. Great analysts combine technical judgment, curiosity, communication, business context, and a willingness to own work end to end. Can you recognize that combination in others?</p></li><li><p style=\"min-height:1.5em\"><strong>Can you develop and amplify the data practices that let a small team do excellent work?</strong></p><p style=\"min-height:1.5em\">Ashby’s Data team is lean, and our practices will need to evolve as the company becomes more complex. I see this role as an opportunity to improve the ways we prioritize work, review it, share knowledge, maintain quality, and collaborate.</p></li><li><p style=\"min-height:1.5em\"><strong>Can you lead the team through the transition from broad shared context to meaningful specialization?</strong></p><p style=\"min-height:1.5em\">Today, each analyst can know a great deal about the company and data stack. That will become more challenging as Ashby grows across products, regions, systems, and business functions. We will need to develop stronger domain context and clearer ways of working without turning the team into a set of narrow, disconnected specialists.</p></li><li><p style=\"min-height:1.5em\"><strong>Can you help the Data team navigate the rapidly evolving implications of AI?</strong></p><p style=\"min-height:1.5em\">AI will affect how our analysts work, how the company self-serves analytical questions, and how other teams use internal business data. Much of that work depends on trusted, well-modeled, appropriately accessible warehouse-derived data. You will help the Data team explore and evaluate the relevant tools, workflows, and partnerships—bringing ambition, practicality, and a high bar for accuracy.</p></li></ol><p style=\"min-height:1.5em\">These questions add up to a simple reality: Ashby is growing quickly, and the surrounding data needs are becoming more complex. We are becoming a multi-product, global company with more business systems and larger team dynamics. This is a great opportunity at a great company, but it will be hard and consequential work. I am looking for a manager who is excited to help shape the Data function and build an excellent team for its current and future members.</p><h2><br /><strong>Your responsibilities as a Data Analytics Manager</strong></h2><p style=\"min-height:1.5em\">To understand the role, it helps to understand how our team works today.</p><p style=\"min-height:1.5em\">Data Analysts at Ashby are full-stack members of the Data team. We do not have a traditional split where Analytics Engineers build models and Data Analysts perform analysis only on prepared datasets. Our analysts work across raw and modeled data, contribute to dbt models and metric definitions, conduct deep analysis, build dashboards and other internal data products, and collaborate directly with partners throughout the company.</p><p style=\"min-height:1.5em\">As a rough sketch, the team receives work through a standardized request process. Anyone can make a request; we triage it, assess the actual need, and decide whether it can be addressed quickly or should become a more deliberate project with a kickoff and plan. We do not currently organize ourselves around universal SLAs, sprints, or points. Instead, we aim to be good partners: communicate clearly, assess capacity honestly, prioritize thoughtfully, and make deliberate choices about what not to do. You will have a lot of leverage in aiding this process well.</p><p style=\"min-height:1.5em\">Ashby’s <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.ashbyhq.com/blog/culture/ashbys-operating-principles\"><u>Operating Principles</u></a> place principled thinking ahead of reflexively leaning on prior experience or convention. In practice, that means work at Ashby does not always start with “let’s get all the data and metrics.” Data is one useful tool for resolving uncertainty; it is not automatically the first or only tool. That said, as the company matures and more teams optimize their work, demand for data will likely continue to grow. You will help us meet that demand with good judgment.<br /></p><h2><strong>Why You Should or Shouldn’t Apply</strong></h2><p style=\"min-height:1.5em\">At Ashby’s current size, this is a player-coach role. You should expect to get hands-on with analytical work as you learn the business and the team, and to remain close enough to the work to guide its quality well.</p><p style=\"min-height:1.5em\">You could be a strong fit if you:</p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Have exceptional analytical judgment. You can calibrate the depth and rigor of an analysis to the decision at hand: knowing when precision matters, when uncertainty is material, and when additional work would not change the outcome.</p></li><li><p style=\"min-height:1.5em\">Can produce and evaluate transparent, rigorous analysis. You bring readers along through the problem context, data considered, assumptions, meaningful cleaning or reduction steps, caveats, statistical pitfalls, and practical conclusion.</p></li><li><p style=\"min-height:1.5em\">Are a strong visual and written communicator. You care about clear tables and charts, meaningful labels and definitions, coherent narratives, and making complex work understandable without overstating certainty.</p></li><li><p style=\"min-height:1.5em\">Have deep hands-on SQL experience, plus working fluency with dbt-style data modeling, cloud data warehouses, and BI tools. You do not need to have owned a warehouse as a Data Engineer, but you should be comfortable working across the analytical data stack.</p></li><li><p style=\"min-height:1.5em\">Have led, managed, or functionally acted as a manager for data practitioners in a high-growth company. Formal people-management experience is valuable, but not required if you have demonstrated equivalent judgment, coaching, hiring, and team-leadership abilities.</p></li><li><p style=\"min-height:1.5em\">Bring a product-manager-like instinct for finding the core need behind a request, understanding users and business context, and turning ambiguous questions into useful work.</p></li><li><p style=\"min-height:1.5em\">Are pragmatic and intellectually flexible. You see data as one important input to good judgment alongside qualitative research, collaboration, user understanding, and clear thinking.</p></li><li><p style=\"min-height:1.5em\">Are intimately familiar with the B2B SaaS industry, workflows and organizational structures.</p></li><li><p style=\"min-height:1.5em\">Have an eye and instinct for simplicity over complexity in all matters.</p></li><li><p style=\"min-height:1.5em\">Have experience in a growth-stage, product-oriented technology company and are energized by helping a lean team scale.</p></li><li><p style=\"min-height:1.5em\">You can appreciate the whole distribution as much as a point estimator.</p></li></ul><h2><strong>Put another way, you shouldn’t apply if:</strong></h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">You are looking for a pure-management role removed from the details of analytical work. You will need to be comfortable getting hands-on as you learn the team and helping analysts work through difficult problems.</p></li><li><p style=\"min-height:1.5em\">You have only worked in an environment where analysis begins after another team has fully prepared the data. Ashby analysts are expected to work across the stack, from modeling through final analysis and dashboards.</p></li><li><p style=\"min-height:1.5em\">Spreadsheet-only analytical work is your preferred mode. Fluency with SQL in a modern data warehouse is essential.</p></li><li><p style=\"min-height:1.5em\">You would rather use a metric, dashboard, experiment, or process by default than first ask what degree of evidence is actually needed to make a good decision.</p></li><li><p style=\"min-height:1.5em\">You are looking for consumer-scale data infrastructure projects. We have a large and interesting dataset (see our <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.ashbyhq.com/talent-trends-report\"><u>Talent Trends</u></a> reports!), but we are a B2B SaaS company. Relative to many B2C services, we are small but mighty.</p></li><li><p style=\"min-height:1.5em\">You are seeking an in-person work experience. Ashby is remote, although there are employee hotspots around the world and we meet in person at various events throughout the year.</p></li><li><p style=\"min-height:1.5em\">You have never formally managed a data team.</p></li></ul><p style=\"min-height:1.5em\">Naturally, this role is important and represents a combination of different skills. You may not meet every dimension perfectly, and that’s OK. If the dot product of your skill vector with this requirements vector is close to 1, please consider applying, but please note it does not have to be 1.0.<br /></p><h2><strong>Data Culture at Ashby</strong></h2><p style=\"min-height:1.5em\">At Ashby, we draw a clear distinction between when to look to data for \"the answer\" and when to use data to aid principled thinking for decision making. In general, a primary consideration is whether or not data is needed to help clarify points of uncertainty. When data is considered necessary, a secondary consideration is to what depth data will be required. Data questions lend themselves to ongoing \"what about...\" or \"what if...\" explorations, which can be important in some situations but are not always necessary.<br /><br />With these dynamics in mind, we do not foster an environment where every decision we make should be backed by data, but we do foster an environment where teammates ask whether or not data will fit the task at hand well. This, in turn, allows us to operate a lean team focused on projects where data provides true leverage to our overall business and product goals.<br /><br />As a related but distinct point, Ashby’s data culture, as far as transparency and access goes, is very open. We share company-wide access to our financial standings, progress, goals, and generally make any data and reporting results broadly available. Outside of constraints related to whether a teammate has access to a particular tool, there are close to no constraints on access the state of the company as told by data or reporting. In general, we would like to continue and extend open access to data throughout the company (with your help!), but with consideration and not as a substitute for principled thinking :)</p><p style=\"min-height:1.5em\"></p><h2><strong>Interview Process</strong></h2><p style=\"min-height:1.5em\">Our interview process is thorough, but we aim to be respectful of the total candidate time invested. We aim to ensure each person that joins the team is the right fit for Ashby and will provide ample information for you to determine if Ashby is the right fit for you. The expected process for this role is as follows:</p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Hiring Manager Screen (30 mins)</p></li><li><p style=\"min-height:1.5em\">Technical Screen (45 min)</p></li><li><p style=\"min-height:1.5em\">Assessment: Mini Analysis and Write-up (45min)</p></li><li><p style=\"min-height:1.5em\">Final Round - Virtual Onsite (~2.5, can be split into multiple days)</p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">(45 mins) Data Team: Analysis and Productivity</p></li><li><p style=\"min-height:1.5em\">(45 mins) Data Team: Analysis and Collaboration</p></li><li><p style=\"min-height:1.5em\">(30 mins) Business Partnership</p></li><li><p style=\"min-height:1.5em\">(30 mins) Chat with a Founder</p></li><li><p style=\"min-height:1.5em\">(15 mins) Follow-Up Conversation + Debrief with the Hiring Manager</p></li></ul></li></ul><p style=\"min-height:1.5em\"><strong>Note:</strong> please do not reach out to the broader Ashby team requesting more information or time to connect. We will diligently review all applications in detail after the public posting period is over.<br /></p><h2><strong>Benefits</strong></h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Competitive salary and equity.</p></li><li><p style=\"min-height:1.5em\">10-year exercise window for stock options. You shouldn’t feel pressure to purchase stock options if you leave Ashby - do it when you feel financially comfortable.</p></li><li><p style=\"min-height:1.5em\">Unlimited PTO, and we will encourage you to take it.</p></li><li><p style=\"min-height:1.5em\">A minimum of 12 weeks of fully paid parental leave, covered by Ashby. For folks outside the US, it may be longer to be in line with regional requirements.</p></li><li><p style=\"min-height:1.5em\">Generous equipment, software, and office furniture budget. Get what you need to be happy and productive!</p></li><li><p style=\"min-height:1.5em\">$100/month education budget with more expensive items (like conferences) covered with manager approval.</p></li><li><p style=\"min-height:1.5em\">If you’re in the US, we offer top-tier health insurance for you and your dependents, with 100% of premiums covered by Ashby. In other countries, we provide high-quality supplemental health insurance for you and your dependents, also fully covered by us.</p></li></ul><p style=\"min-height:1.5em\">Ashby’s success hinges on hiring great people and creating an environment where we can be happy, feel challenged, and do our best work. We’re being deliberate about building that environment from the ground up. I hope that excites you enough to apply.</p><p style=\"min-height:1.5em\"><br />If you've made it this far and are excited about Ashby, please apply and<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.linkedin.com/company/ashbyhq\"> <u>follow us on LinkedIn</u></a> to stay up to date!</p><p style=\"min-height:1.5em\"><em>Ashby provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability, genetics, sexual orientation, gender identity, or gender expression. We are committed to a diverse and inclusive workforce and welcome people from all backgrounds, experiences, perspectives, and abilities.</em></p><p style=\"min-height:1.5em\"><em>Ashby is committed to a fair and transparent hiring process. We confirm that this advertisement is for an active, existing vacancy within our organization. Please be advised that we may use artificial intelligence-driven tools to assist our recruitment team in screening, assessing, and selecting candidates for this position.</em></p>",
+  "descriptionPlain": "ABOUT THIS ROLE\n\n👋 Hi, I’m Kevin https://www.linkedin.com/in/adamantine/. I manage the Data team and our analytics products at Ashby. I’m hiring our first Data Analytics Manager at an important point in Ashby’s growth, and I hope you have the patience to read a job posting that may be a little unconventional.\n\nYou will manage Ashby’s three Data Analysts: two core analysts and one analyst focused on Revenue Operations. Our Data Engineer will initially continue to report directly to me, so this role is deliberately more focused on the analytical side of the team while remaining a close partner in the broader data ecosystem.\n\nThe primary result of your successful management will be a team of analysts with excellent judgment, strong technical methods, clear communication, and a deep sense of ownership. I am looking for someone who can help that team do better work, choose better work, and grow into the next stage of Ashby alongside the company.\n\nRather than begin with a long list of tools or years of experience, I want to share four questions that sit at the center of this role. If you apply, your answer should be “yes” to each. Should we get a chance to talk, what I will really want to understand is the nuance: your unique how, why, and what behind your answers.\n\n 1. Can you identify and hire talented people?\n    \n    We will continue to grow the analyst team, and you will play a meaningful role in finding and assessing future teammates. Great analysts combine technical judgment, curiosity, communication, business context, and a willingness to own work end to end. Can you recognize that combination in others?\n\n 2. Can you develop and amplify the data practices that let a small team do excellent work?\n    \n    Ashby’s Data team is lean, and our practices will need to evolve as the company becomes more complex. I see this role as an opportunity to improve the ways we prioritize work, review it, share knowledge, maintain quality, and collaborate.\n\n 3. Can you lead the team through the transition from broad shared context to meaningful specialization?\n    \n    Today, each analyst can know a great deal about the company and data stack. That will become more challenging as Ashby grows across products, regions, systems, and business functions. We will need to develop stronger domain context and clearer ways of working without turning the team into a set of narrow, disconnected specialists.\n\n 4. Can you help the Data team navigate the rapidly evolving implications of AI?\n    \n    AI will affect how our analysts work, how the company self-serves analytical questions, and how other teams use internal business data. Much of that work depends on trusted, well-modeled, appropriately accessible warehouse-derived data. You will help the Data team explore and evaluate the relevant tools, workflows, and partnerships—bringing ambition, practicality, and a high bar for accuracy.\n\nThese questions add up to a simple reality: Ashby is growing quickly, and the surrounding data needs are becoming more complex. We are becoming a multi-product, global company with more business systems and larger team dynamics. This is a great opportunity at a great company, but it will be hard and consequential work. I am looking for a manager who is excited to help shape the Data function and build an excellent team for its current and future members.\n\n\n\nYOUR RESPONSIBILITIES AS A DATA ANALYTICS MANAGER\n\nTo understand the role, it helps to understand how our team works today.\n\nData Analysts at Ashby are full-stack members of the Data team. We do not have a traditional split where Analytics Engineers build models and Data Analysts perform analysis only on prepared datasets. Our analysts work across raw and modeled data, contribute to dbt models and metric definitions, conduct deep analysis, build dashboards and other internal data products, and collaborate directly with partners throughout the company.\n\nAs a rough sketch, the team receives work through a standardized request process. Anyone can make a request; we triage it, assess the actual need, and decide whether it can be addressed quickly or should become a more deliberate project with a kickoff and plan. We do not currently organize ourselves around universal SLAs, sprints, or points. Instead, we aim to be good partners: communicate clearly, assess capacity honestly, prioritize thoughtfully, and make deliberate choices about what not to do. You will have a lot of leverage in aiding this process well.\n\nAshby’s Operating Principles https://www.ashbyhq.com/blog/culture/ashbys-operating-principles place principled thinking ahead of reflexively leaning on prior experience or convention. In practice, that means work at Ashby does not always start with “let’s get all the data and metrics.” Data is one useful tool for resolving uncertainty; it is not automatically the first or only tool. That said, as the company matures and more teams optimize their work, demand for data will likely continue to grow. You will help us meet that demand with good judgment.\n\n\n\nWHY YOU SHOULD OR SHOULDN’T APPLY\n\nAt Ashby’s current size, this is a player-coach role. You should expect to get hands-on with analytical work as you learn the business and the team, and to remain close enough to the work to guide its quality well.\n\nYou could be a strong fit if you:\n\n - Have exceptional analytical judgment. You can calibrate the depth and rigor of an analysis to the decision at hand: knowing when precision matters, when uncertainty is material, and when additional work would not change the outcome.\n\n - Can produce and evaluate transparent, rigorous analysis. You bring readers along through the problem context, data considered, assumptions, meaningful cleaning or reduction steps, caveats, statistical pitfalls, and practical conclusion.\n\n - Are a strong visual and written communicator. You care about clear tables and charts, meaningful labels and definitions, coherent narratives, and making complex work understandable without overstating certainty.\n\n - Have deep hands-on SQL experience, plus working fluency with dbt-style data modeling, cloud data warehouses, and BI tools. You do not need to have owned a warehouse as a Data Engineer, but you should be comfortable working across the analytical data stack.\n\n - Have led, managed, or functionally acted as a manager for data practitioners in a high-growth company. Formal people-management experience is valuable, but not required if you have demonstrated equivalent judgment, coaching, hiring, and team-leadership abilities.\n\n - Bring a product-manager-like instinct for finding the core need behind a request, understanding users and business context, and turning ambiguous questions into useful work.\n\n - Are pragmatic and intellectually flexible. You see data as one important input to good judgment alongside qualitative research, collaboration, user understanding, and clear thinking.\n\n - Are intimately familiar with the B2B SaaS industry, workflows and organizational structures.\n\n - Have an eye and instinct for simplicity over complexity in all matters.\n\n - Have experience in a growth-stage, product-oriented technology company and are energized by helping a lean team scale.\n\n - You can appreciate the whole distribution as much as a point estimator.\n\n\nPUT ANOTHER WAY, YOU SHOULDN’T APPLY IF:\n\n - You are looking for a pure-management role removed from the details of analytical work. You will need to be comfortable getting hands-on as you learn the team and helping analysts work through difficult problems.\n\n - You have only worked in an environment where analysis begins after another team has fully prepared the data. Ashby analysts are expected to work across the stack, from modeling through final analysis and dashboards.\n\n - Spreadsheet-only analytical work is your preferred mode. Fluency with SQL in a modern data warehouse is essential.\n\n - You would rather use a metric, dashboard, experiment, or process by default than first ask what degree of evidence is actually needed to make a good decision.\n\n - You are looking for consumer-scale data infrastructure projects. We have a large and interesting dataset (see our Talent Trends https://www.ashbyhq.com/talent-trends-report reports!), but we are a B2B SaaS company. Relative to many B2C services, we are small but mighty.\n\n - You are seeking an in-person work experience. Ashby is remote, although there are employee hotspots around the world and we meet in person at various events throughout the year.\n\n - You have never formally managed a data team.\n\nNaturally, this role is important and represents a combination of different skills. You may not meet every dimension perfectly, and that’s OK. If the dot product of your skill vector with this requirements vector is close to 1, please consider applying, but please note it does not have to be 1.0.\n\n\n\nDATA CULTURE AT ASHBY\n\nAt Ashby, we draw a clear distinction between when to look to data for \"the answer\" and when to use data to aid principled thinking for decision making. In general, a primary consideration is whether or not data is needed to help clarify points of uncertainty. When data is considered necessary, a secondary consideration is to what depth data will be required. Data questions lend themselves to ongoing \"what about...\" or \"what if...\" explorations, which can be important in some situations but are not always necessary.\n\nWith these dynamics in mind, we do not foster an environment where every decision we make should be backed by data, but we do foster an environment where teammates ask whether or not data will fit the task at hand well. This, in turn, allows us to operate a lean team focused on projects where data provides true leverage to our overall business and product goals.\n\nAs a related but distinct point, Ashby’s data culture, as far as transparency and access goes, is very open. We share company-wide access to our financial standings, progress, goals, and generally make any data and reporting results broadly available. Outside of constraints related to whether a teammate has access to a particular tool, there are close to no constraints on access the state of the company as told by data or reporting. In general, we would like to continue and extend open access to data throughout the company (with your help!), but with consideration and not as a substitute for principled thinking :)\n\n\n\n\nINTERVIEW PROCESS\n\nOur interview process is thorough, but we aim to be respectful of the total candidate time invested. We aim to ensure each person that joins the team is the right fit for Ashby and will provide ample information for you to determine if Ashby is the right fit for you. The expected process for this role is as follows:\n\n - Hiring Manager Screen (30 mins)\n\n - Technical Screen (45 min)\n\n - Assessment: Mini Analysis and Write-up (45min)\n\n - Final Round - Virtual Onsite (~2.5, can be split into multiple days)\n   \n   - (45 mins) Data Team: Analysis and Productivity\n   \n   - (45 mins) Data Team: Analysis and Collaboration\n   \n   - (30 mins) Business Partnership\n   \n   - (30 mins) Chat with a Founder\n   \n   - (15 mins) Follow-Up Conversation + Debrief with the Hiring Manager\n\nNote: please do not reach out to the broader Ashby team requesting more information or time to connect. We will diligently review all applications in detail after the public posting period is over.\n\n\n\nBENEFITS\n\n - Competitive salary and equity.\n\n - 10-year exercise window for stock options. You shouldn’t feel pressure to purchase stock options if you leave Ashby - do it when you feel financially comfortable.\n\n - Unlimited PTO, and we will encourage you to take it.\n\n - A minimum of 12 weeks of fully paid parental leave, covered by Ashby. For folks outside the US, it may be longer to be in line with regional requirements.\n\n - Generous equipment, software, and office furniture budget. Get what you need to be happy and productive!\n\n - $100/month education budget with more expensive items (like conferences) covered with manager approval.\n\n - If you’re in the US, we offer top-tier health insurance for you and your dependents, with 100% of premiums covered by Ashby. In other countries, we provide high-quality supplemental health insurance for you and your dependents, also fully covered by us.\n\nAshby’s success hinges on hiring great people and creating an environment where we can be happy, feel challenged, and do our best work. We’re being deliberate about building that environment from the ground up. I hope that excites you enough to apply.\n\n\nIf you've made it this far and are excited about Ashby, please apply and follow us on LinkedIn https://www.linkedin.com/company/ashbyhq to stay up to date!\n\nAshby provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability, genetics, sexual orientation, gender identity, or gender expression. We are committed to a diverse and inclusive workforce and welcome people from all backgrounds, experiences, perspectives, and abilities.\n\nAshby is committed to a fair and transparent hiring process. We confirm that this advertisement is for an active, existing vacancy within our organization. Please be advised that we may use artificial intelligence-driven tools to assist our recruitment team in screening, assessing, and selecting candidates for this position.",
+  "compensation": {
+    "compensationTierSummary": "$150K – $240K • Offers Equity • Multiple Ranges",
+    "scrapeableCompensationSalarySummary": "$150K - $240K",
+    "compensationTiers": [
+      {
+        "id": "5bd76a37-2f71-454b-aeb9-82afd4e503e5",
+        "tierSummary": "$190K – $240K • Offers Equity",
+        "title": "US (SF & NYC)",
+        "additionalInformation": null,
+        "components": [
+          {
+            "id": "f7df0908-92c3-4ac9-83eb-e673e02b0870",
+            "summary": "$190K – $240K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 190000,
+            "maxValue": 240000
+          },
+          {
+            "id": "36df14b8-cd06-44d2-a850-dc1160fae431",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
+          }
+        ]
+      },
+      {
+        "id": "65ce6dba-0622-419e-8be0-2360c1380758",
+        "tierSummary": "$160K – $200K • Offers Equity",
+        "title": "US (All Other Locations)",
+        "additionalInformation": null,
+        "components": [
+          {
+            "id": "b992007d-a5b6-4451-937f-bd210acdaf0c",
+            "summary": "$160K – $200K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 160000,
+            "maxValue": 200000
+          },
+          {
+            "id": "99ea2629-a54e-47c0-80bd-52f3abef378f",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
+          }
+        ]
+      },
+      {
+        "id": "6978eb42-8ad9-4239-9a99-67a3e35c8794",
+        "tierSummary": "$160K – $195K • Offers Equity",
+        "title": "Canada (Toronto & Vancouver) ",
+        "additionalInformation": null,
+        "components": [
+          {
+            "id": "62ec7493-e2b8-4ce9-ae34-ee3b3363b97a",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "ab0f1964-c590-44a7-a462-21a709acf114",
+            "summary": "$160K – $195K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 160000,
+            "maxValue": 195000
+          }
+        ]
+      },
+      {
+        "id": "6eb0b2f7-46fa-4a3a-ab40-24b53fa47332",
+        "tierSummary": "$150K – $185K • Offers Equity",
+        "title": "Canada (All Other Locations)",
+        "additionalInformation": null,
+        "components": [
+          {
+            "id": "c955c021-78a6-42e7-a17b-314c393e7687",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "ac44e814-78ab-4a5a-9dae-ccfab55b1ec1",
+            "summary": "$150K – $185K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 150000,
+            "maxValue": 185000
+          }
+        ]
+      }
+    ],
+    "summaryComponents": [
+      {
+        "minValue": 150000,
+        "maxValue": 240000,
+        "currencyCode": "USD",
+        "interval": "1 YEAR",
+        "compensationType": "Salary"
+      },
+      {
+        "compensationType": "EquityPercentage",
+        "minValue": null,
+        "maxValue": null,
+        "interval": "1 YEAR"
+      }
+    ]
+  }
+}

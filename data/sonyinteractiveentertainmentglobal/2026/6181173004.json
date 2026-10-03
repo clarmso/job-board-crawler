@@ -1,0 +1,108 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6181173004",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": true,
+      "requires_processing_consent": false,
+      "requires_retention_consent": true,
+      "retention_period": 730,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 5210780004,
+  "location": {
+    "name": "Ireland, Dublin"
+  },
+  "metadata": [
+    {
+      "id": 4367803004,
+      "name": "Cost Center",
+      "value": "GAMES4IE62-IEL1060034 SIEE IT Ireland",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167524004,
+      "name": "Career Page - Office Location",
+      "value": "Ireland, Dublin",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167525004,
+      "name": "Career Page - Department",
+      "value": "Network Engineering",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9377282004,
+      "name": "Career Page - Sub Department",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 20089613004,
+      "name": "Career Page - Studio Project",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 4395289004,
+      "name": "Worker Type",
+      "value": "Employee",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4404049004,
+      "name": "Country",
+      "value": "Ireland",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9262269004,
+      "name": "Job Family",
+      "value": "Technical/LAN Network",
+      "value_type": "short_text"
+    },
+    {
+      "id": 9262270004,
+      "name": "Job Family Group",
+      "value": "Information Technology",
+      "value_type": "short_text"
+    },
+    {
+      "id": 21724118004,
+      "name": "Bungie Geo Pay",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 6181173004,
+  "updated_at": "2026-10-02T12:13:19-04:00",
+  "requisition_id": "R-124988",
+  "title": "Staff Network Systems Engineer - Network Automation & DevOps",
+  "company_name": "PlayStation Global",
+  "first_published": "2026-09-23T16:12:36-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Why Sony Interactive Entertainment?&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Sony Interactive Entertainment isn’t just the Best Place to Play — it’s also the Best Place to Work. Sony Interactive Entertainment (SIE) is the company behind the PlayStation brand. As a subsidiary of Sony Group Corporation, we’re part of a proud legacy of innovation and excellence. SIE is a dynamic technology company, delivering cutting-edge hardware and network services to more than 100 million people and an entertainment leader, home to some of the most beloved and recognizable intellectual properties (IP) in the world. Our role at SIE is to create and nurture the experiences under the PlayStation brand, a name synonymous with entertainment excellence and creativity.&lt;/p&gt;&lt;/div&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Role overview&lt;/span&gt;&lt;/h1&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;We&#39;re looking for a Staff Network Systems Engineer to help drive the transition of our global network infrastructure from manually managed and inconsistent configurations to a standardised, version-controlled and increasingly automated operating model.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;This hands-on staff-level individual contributor will establish Infrastructure as Code practices, reusable automation, automated validation and safe delivery pipelines. The role will reduce configuration drift, make changes repeatable and auditable, and help the wider team adopt modern software-engineering practices.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Working across network engineering, security, architecture and platform teams, you&#39;ll help frame and influence technical direction, create practical standards and guardrails, and remain actively involved in enterprise network engineering and operational delivery.&lt;/span&gt;&lt;/p&gt;\n&lt;h1&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;What you&#39;ll be doing:&lt;/span&gt;&lt;/h1&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Assess the network estate, toolchain and operational workflows; identify sources of configuration variance, manual effort and change risk; and help define a phased modernisation roadmap.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Establish the Infrastructure as Code operating model, including the authoritative source of truth, configuration standards, source control, peer review, testing, release governance and secure handling of credentials.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Build reusable automation using object-oriented or comparable programming languages such as Python and Go (Golang), together with Terraform, Ansible, APIs and configuration-management tooling.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Develop CI/CD pipelines with automated linting, testing, intended-state validation, drift detection, policy checks, approvals, controlled rollout and reliable rollback patterns.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Partner with engineering, architecture and security teams to translate network intent into version-controlled implementations and influence reference architectures, standards, lifecycle plans and service roadmaps.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Lead the safe migration of existing services into the automated model while remaining hands-on during complex delivery, business-as-usual operations, critical changes, troubleshooting and major incidents.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Participate in technical authority and design-review forums, mentor engineers, and ensure automation becomes a sustainable team capability rather than knowledge held by a single specialist.&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h1&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;What we are looking for:&lt;/span&gt;&lt;/h1&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;A strong track record of modernising network infrastructure through automation or Infrastructure as Code in a large, complex production environment.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Strong software-engineering skills in object-oriented or comparable programming languages such as Python and Go (Golang), including maintainable code, structured data, API integration, testing, error handling and documentation.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Practical experience with Terraform, Ansible or comparable tooling, including reusable, idempotent automation components and controlled infrastructure delivery.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Strong working knowledge of Git, pull-request workflows, CI/CD pipelines, automated testing, release controls, policy enforcement and secrets management.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Deep enterprise networking knowledge across routing, switching, wireless, resilient design, network access control and secure remote connectivity, together with advanced Juniper Mist, EX Series and Junos experience or equivalent platform expertise.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Expert troubleshooting and engineering judgement, with experience supporting operational delivery, complex changes, major incidents and root-cause improvement.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Staff-level influence and communication skills, including shaping technical direction across teams, building consensus, contributing to governance forums and developing other engineers.&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h1&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Desirable Experience&lt;/span&gt;&lt;/h1&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Network APIs and data models, including REST, NETCONF, RESTCONF, JSON, YAML and YANG-based workflows.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;GitHub Enterprise, GitHub Actions, automated policy enforcement, artefact management and developer enablement.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Azure or AWS networking, enterprise authentication, Zero Trust principles and network observability platforms.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Architecture governance, technical authority panels, strategic vendor engagement and globally delivered service operations.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;High-availability gaming, digital-media, creative or similarly demanding production environments.&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h1&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Work Expectations and Measures of Success&lt;/span&gt;&lt;/h1&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;This is a staff-level role combining hands-on engineering with technical leadership across a global network environment. You&#39;ll build production automation, guide others and remain engaged with operational delivery. The objective is to establish an engineering system the team can operate and improve over time while maintaining secure, resilient and supportable network services.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Success will be demonstrated through:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Increased coverage of network infrastructure managed through version-controlled automation.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Reduced configuration drift, manual intervention, operational toil and dependency on individual subject-matter experts.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Shorter and more predictable change lead times, with improved auditability, validation and rollback confidence.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Lower change-failure rates, maintained service reliability and faster recovery from configuration-related incidents.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Sustained adoption of automation standards, modules and delivery practices across the wider engineering team.&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;At SIE, we consider several factors when setting each role’s base pay range, including the competitive benchmarking data for the market and geographic location.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Please note that the base pay range may vary in line with our hybrid working policy and individual base pay will be determined based on job-related factors which may include knowledge, skills, experience, and location.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;In addition, this role is eligible for SIE’s top-tier benefits package that includes paid time off, wellness program and coveted employee discounts for Sony products. This role also may be eligible for a bonus package. Click &lt;strong&gt;&lt;a href=&quot;https://careers.playstation.com/benefits&quot;&gt;here&lt;/a&gt;&lt;/strong&gt; to learn more.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Base $109,400 - $164,000 + Bonus &amp;amp; Benefits.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p class=&quot;p1&quot;&gt;Please note, Sony Interactive Entertainment conducts background checks at the offer stage for all new employees (which may include criminal background checks for some roles) and will need to process personal information to support these checks.&lt;/p&gt;\n&lt;p class=&quot;p1&quot;&gt;Please refer to our&amp;nbsp;&lt;a href=&quot;https://www.playstation.com/legal/careers-privacy-notice/&quot; target=&quot;_blank&quot;&gt;Candidate Privacy Notice&lt;/a&gt;&amp;nbsp;for more information about what personal information we collect, how we use it, who we share it with, and your data protection rights.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Equal Opportunity Statement:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Sony is an Equal Opportunity Employer. All persons will receive consideration for employment without regard to gender (including gender identity, gender expression and gender reassignment), race (including colour, nationality, ethnic or national origin), religion or belief, marital or civil partnership status, disability, age, sexual orientation, pregnancy, maternity or parental status, trade union membership or membership in any other legally protected category.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;We strive to create an inclusive environment, empower employees and embrace diversity. We encourage everyone to respond.&amp;nbsp;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Sony Interactive Entertainment is a Fair Chance employer and qualified applicants with arrest and conviction records will be considered for employment.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4065076004,
+      "name": "Corporate Systems Services",
+      "child_ids": [],
+      "parent_id": 4065067004
+    }
+  ],
+  "offices": [
+    {
+      "id": 4011950004,
+      "name": "IRL-Dublin",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 4011949004
+    }
+  ],
+  "ai_disclaimer": "<p><strong>Use of AI in Recruiting&nbsp;</strong></p><p><br></p><p>We use artificial intelligence and other automated tools to assist with certain aspects of our recruiting process, including reviewing applications and supporting candidate evaluation. For example, we use Greenhouse's AI-powered Talent Matching tool to compare information in your application against job-related qualifications and criteria established by our recruiting team. More information about <a href=\"https://www.greenhouse.com/\" target=\"_blank\">Greenhouse</a>, including about its features and its Privacy Policy, may be found at its website. These tools assist our recruiting team and do not make hiring decisions.&nbsp;</p><p><br></p>",
+  "include_ai_disclaimer": true,
+  "ai_opt_out_request_url": "http://app4.greenhouse.io/ai_opt_out_request/job_post/6181173004/ai_opt_out"
+}

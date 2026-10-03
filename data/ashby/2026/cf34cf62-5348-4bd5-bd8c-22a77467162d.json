@@ -150,15 +150,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "05fc82f8-14d8-4068-88aa-e000cae40e67",
-            "summary": "Singapore SGD 127,000 – SGD 156,000",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "SGD",
-            "minValue": 127000,
-            "maxValue": 156000
-          },
-          {
             "id": "8aae3c3e-aefc-4866-b644-7abd16a09edd",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
@@ -166,6 +157,15 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "05fc82f8-14d8-4068-88aa-e000cae40e67",
+            "summary": "Singapore SGD 127,000 – SGD 156,000",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "SGD",
+            "minValue": 127000,
+            "maxValue": 156000
           }
         ]
       },
@@ -176,15 +176,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "6b1c5104-3fed-4805-8c5d-62f2a57ef249",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "06fd9060-1a7c-447b-9d78-9704def4272c",
             "summary": "Australia A$136,000 – A$165,000",
             "compensationType": "Salary",
@@ -192,6 +183,15 @@
             "currencyCode": "AUD",
             "minValue": 136000,
             "maxValue": 165000
+          },
+          {
+            "id": "6b1c5104-3fed-4805-8c5d-62f2a57ef249",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           }
         ]
       }

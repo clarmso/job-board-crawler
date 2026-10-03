@@ -68,13 +68,13 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "57b7f5dc-fea0-4b3e-b628-f81edb2ae05b",
-            "summary": "Offers Commission",
-            "compensationType": "Commission",
+            "id": "2fd2cb95-6c17-48a6-9ff1-ba5ad47749a9",
+            "summary": "OTE $178K – $245K",
+            "compensationType": "Salary",
             "interval": "1 YEAR",
             "currencyCode": "USD",
-            "minValue": null,
-            "maxValue": null
+            "minValue": 178000,
+            "maxValue": 245000
           },
           {
             "id": "6a301798-0cfb-4297-a9e6-f2d2e1809595",
@@ -86,13 +86,13 @@
             "maxValue": null
           },
           {
-            "id": "2fd2cb95-6c17-48a6-9ff1-ba5ad47749a9",
-            "summary": "OTE $178K – $245K",
-            "compensationType": "Salary",
+            "id": "57b7f5dc-fea0-4b3e-b628-f81edb2ae05b",
+            "summary": "Offers Commission",
+            "compensationType": "Commission",
             "interval": "1 YEAR",
             "currencyCode": "USD",
-            "minValue": 178000,
-            "maxValue": 245000
+            "minValue": null,
+            "maxValue": null
           }
         ]
       },

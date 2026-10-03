@@ -88,15 +88,6 @@
             "maxValue": null
           },
           {
-            "id": "a4e27991-49fe-4b55-94fb-c5179cae2b2f",
-            "summary": "Offers Commission",
-            "compensationType": "Commission",
-            "interval": "1 YEAR",
-            "currencyCode": "USD",
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "34f0d608-3a88-4c13-8c20-a44854525094",
             "summary": "OTE $178K – $245K",
             "compensationType": "Salary",
@@ -104,6 +95,15 @@
             "currencyCode": "USD",
             "minValue": 178000,
             "maxValue": 245000
+          },
+          {
+            "id": "a4e27991-49fe-4b55-94fb-c5179cae2b2f",
+            "summary": "Offers Commission",
+            "compensationType": "Commission",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": null,
+            "maxValue": null
           }
         ]
       },

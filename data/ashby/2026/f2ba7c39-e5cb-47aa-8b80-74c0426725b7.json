@@ -39,19 +39,10 @@
     "compensationTiers": [
       {
         "id": "7b85add1-4818-44fa-a123-e092bc2cbd73",
-        "tierSummary": "$130K – $160K • Offers Equity",
+        "tierSummary": "$130K – $153K • Offers Equity",
         "title": "US - Remote",
         "additionalInformation": null,
         "components": [
-          {
-            "id": "06ed098d-32b3-413c-8982-1a03226064f4",
-            "summary": "$130K – $160K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "USD",
-            "minValue": 130000,
-            "maxValue": 160000
-          },
           {
             "id": "390c326e-52c2-4192-b0eb-b28be1f0cfc8",
             "summary": "Offers Equity",
@@ -60,15 +51,33 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "06ed098d-32b3-413c-8982-1a03226064f4",
+            "summary": "$130K – $153K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 130000,
+            "maxValue": 153000
           }
         ]
       },
       {
         "id": "5dd23b7a-e570-4c11-a8df-4738b51b27e7",
-        "tierSummary": "CA$130K – CA$160K • Offers Equity",
+        "tierSummary": "CA$130K – CA$153K • Offers Equity",
         "title": "Canada - Remote",
         "additionalInformation": null,
         "components": [
+          {
+            "id": "c6006903-74a0-4f17-a513-9e811810cd28",
+            "summary": "CA$130K – CA$153K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "CAD",
+            "minValue": 130000,
+            "maxValue": 153000
+          },
           {
             "id": "01c54d49-b140-4075-b318-3f6e872d4373",
             "summary": "Offers Equity",
@@ -77,15 +86,6 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
-          },
-          {
-            "id": "c6006903-74a0-4f17-a513-9e811810cd28",
-            "summary": "CA$130K – CA$160K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "CAD",
-            "minValue": 130000,
-            "maxValue": 160000
           }
         ]
       },
@@ -96,15 +96,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "d15d5836-ebee-4612-b5b3-f40b82a06585",
-            "summary": "$150K – $175K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "USD",
-            "minValue": 150000,
-            "maxValue": 175000
-          },
-          {
             "id": "03b4db31-92dd-4592-ac0e-0ff9fb485752",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
@@ -112,23 +103,32 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "d15d5836-ebee-4612-b5b3-f40b82a06585",
+            "summary": "$150K – $175K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 150000,
+            "maxValue": 175000
           }
         ]
       }
     ],
     "summaryComponents": [
       {
+        "compensationType": "EquityPercentage",
+        "minValue": null,
+        "maxValue": null,
+        "interval": "1 YEAR"
+      },
+      {
         "minValue": 130000,
         "maxValue": 175000,
         "currencyCode": "USD",
         "interval": "1 YEAR",
         "compensationType": "Salary"
-      },
-      {
-        "compensationType": "EquityPercentage",
-        "minValue": null,
-        "maxValue": null,
-        "interval": "1 YEAR"
       }
     ]
   }
