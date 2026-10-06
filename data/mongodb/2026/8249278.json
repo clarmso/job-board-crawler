@@ -1,0 +1,148 @@
+{
+  "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=8249278",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3569106,
+  "location": {
+    "name": "Dublin, Ireland"
+  },
+  "metadata": [
+    {
+      "id": 22194060,
+      "name": "Position ID",
+      "value": "10014108",
+      "value_type": "short_text"
+    },
+    {
+      "id": 24918,
+      "name": "Department ID",
+      "value": "D22100-Clusters & Interfaces",
+      "value_type": "single_select"
+    },
+    {
+      "id": 22194061,
+      "name": "Team",
+      "value": "T10342-Server Programmability",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4914027,
+      "name": "Region",
+      "value": "EMEA",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4137836,
+      "name": "Working Model Eligibility",
+      "value": [
+        "2-Flexible"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 4914029,
+      "name": "Job Level",
+      "value": "Professional - IC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24109,
+      "name": "Employment Type",
+      "value": "Full-time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 1073551,
+      "name": "Job Type",
+      "value": "Standard",
+      "value_type": "single_select"
+    },
+    {
+      "id": 988684,
+      "name": "JD Link",
+      "value": "https://docs.google.com/document/d/1s9XfgbLmwAiQIBhE0ayHy9f_Cxjd9PCCo8uCUcxXBk4/edit?tab=t.0",
+      "value_type": "url"
+    },
+    {
+      "id": 5525802,
+      "name": "Baseline Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 5525816,
+      "name": "Other Large Market Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 13324394,
+      "name": "Job Post Range (United States)",
+      "value": {
+        "unit": "EUR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 40497768,
+      "name": "Job Post Range (Canada)",
+      "value": {
+        "unit": "EUR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 57694516,
+      "name": "Job Post Range (Poland)",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 64002488,
+      "name": "Job Post Range (Italy)",
+      "value": null,
+      "value_type": "currency_range"
+    }
+  ],
+  "id": 8249278,
+  "updated_at": "2026-10-05T19:30:53-04:00",
+  "requisition_id": "3273569106",
+  "title": "Software Engineer 3, Server Programmability",
+  "company_name": "MongoDB",
+  "first_published": "2026-10-05T10:14:57-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;The Server Programmability team is focused on programming velocity and safety in the core MongoDB Server. We own low-level libraries, runtimes, and tools that allow internal MongoDB developers to develop features in C++ and Rust quickly and safely.&lt;/p&gt;\n&lt;p&gt;We are an agile and small team looking for an experienced engineer to join us. We are looking for someone who is excited about operating systems, development tools, programming languages and low-level C++ libraries.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;We are looking to speak to candidates who are based in Dublin for our hybrid working model.&lt;/p&gt;\n&lt;h3&gt;Candidate Profile&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;3+ years of experience in Systems programming in C++ or other low-level programming languages&lt;/li&gt;\n&lt;li&gt;Hands-on experience with building production-level code. Experience in C++ is required&lt;/li&gt;\n&lt;li&gt;Passionate about delivering and deploying a product with cross-team stakeholders&lt;/li&gt;\n&lt;li&gt;Solid computer science fundamentals, with strong competencies in data structures, algorithms, and software design/architecture&lt;/li&gt;\n&lt;li&gt;Passion for learning new things in the domains of software engineering, distributed systems, and performance&lt;/li&gt;\n&lt;li&gt;Solid verbal and written communication skills and highly motivated to collaborate with colleagues&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Position Expectations&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Understand and improve the current functionality of the MongoDB Server’s Programmability features&lt;/li&gt;\n&lt;li&gt;Lead medium sized projects related to the team’s charter&lt;/li&gt;\n&lt;li&gt;Collaborate with colleagues at all stages of project lifecycle (ideation, requirements gathering, design, execution, and delivery)&lt;/li&gt;\n&lt;li&gt;Own our &lt;a href=&quot;https://www.mongodb.com/company/leadership-principles&quot;&gt;leadership principles&lt;/a&gt;, and exemplify them in your work&lt;/li&gt;\n&lt;li&gt;Continue to learn and be curious in growing your career!&lt;/li&gt;\n&lt;li&gt;Write production-ready code in C++&lt;/li&gt;\n&lt;li&gt;Write unit tests and integration tests in C++, Javascript, and Python to demonstrate application correctness&lt;/li&gt;\n&lt;li&gt;Investigate the performance characteristics of the server and write performance regression tests&lt;/li&gt;\n&lt;li&gt;Interview candidates for software engineering positions&lt;/li&gt;\n&lt;li&gt;Handle customer escalations&lt;/li&gt;\n&lt;li&gt;Collaborate with stakeholders and engineering teams across the company to jointly work on large initiatives&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Success Measures&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;In the first month, you will have understood the high level architecture of MongoDB and fixed a few bugs&lt;/li&gt;\n&lt;li&gt;In three months, you will have contributed to the development of a project slated for the next major release of MongoDB, and diagnosed and fixed a few customer or testing-reported issues&lt;/li&gt;\n&lt;li&gt;In six months, you will have taken on code review responsibilities and are involved in reviewing the design for new features&lt;/li&gt;\n&lt;li&gt;In twelve months, you will be leading the development of a new feature and helping to mentor new engineers on the team&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;About MongoDB&lt;/h3&gt;\n&lt;p&gt;MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure.&lt;/p&gt;\n&lt;p&gt;With offices worldwide and over 67,000 customers, including AI-native startups and approximately 75% of the Fortune 100, relying on MongoDB for their most important applications, we’re powering the next era of software.&lt;/p&gt;\n&lt;p&gt;Our compass at MongoDB is our &lt;a href=&quot;https://www.mongodb.com/company&quot;&gt;Leadership Commitment,&lt;/a&gt; guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. &lt;a href=&quot;https://www.mongodb.com/company/blog/culture/employee-benefits-that-make-a-difference-at-mongodb&quot;&gt;From employee affinity groups, to fertility assistance and a generous parental leave policy&lt;/a&gt;, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys.&lt;a href=&quot;https://www.mongodb.com/blog/channel/culture&quot;&gt; Learn more about what it’s like to work at MongoDB&lt;/a&gt;, and help us make an impact on the world!&lt;/p&gt;\n&lt;p&gt;MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.&lt;/p&gt;\n&lt;p&gt;MongoDB is an equal opportunities employer.&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Req ID: 3273569106&lt;/em&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;",
+  "departments": [
+    {
+      "id": 85971,
+      "name": "Clusters & Interfaces",
+      "child_ids": [],
+      "parent_id": 371021
+    }
+  ],
+  "offices": [
+    {
+      "id": 3962,
+      "name": "Dublin",
+      "location": "Dublin, Ireland",
+      "child_ids": [],
+      "parent_id": 23658
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": null
+}

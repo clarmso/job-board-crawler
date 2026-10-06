@@ -42,7 +42,7 @@
     {
       "id": 944673,
       "name": "Job Profile",
-      "value": "Information Security Engineer 5",
+      "value": "Non Technical Project Manager 5",
       "value_type": "single_select"
     },
     {
@@ -54,13 +54,13 @@
     {
       "id": 944675,
       "name": "Job Family",
-      "value": "Information Security Engineer",
+      "value": "Non Technical Project Manager",
       "value_type": "single_select"
     },
     {
       "id": 53341,
       "name": "Worker Sub-Type",
-      "value": "Fixed Term",
+      "value": "Regular",
       "value_type": "single_select"
     },
     {
@@ -84,7 +84,7 @@
     {
       "id": 944667,
       "name": "Company",
-      "value": "Reddit Netherlands B.V.",
+      "value": "Reddit Ireland Limited",
       "value_type": "single_select"
     },
     {
@@ -98,16 +98,10 @@
       "name": "Worker Type",
       "value": "Employee",
       "value_type": "single_select"
-    },
-    {
-      "id": 957961,
-      "name": "Department",
-      "value": null,
-      "value_type": "single_select"
     }
   ],
   "id": 8108528,
-  "updated_at": "2026-10-02T11:33:20-04:00",
+  "updated_at": "2026-10-05T16:47:31-04:00",
   "requisition_id": "R-105761",
   "title": "Lead Physical Security Engineer",
   "company_name": "Reddit",
@@ -125,9 +119,9 @@
   ],
   "offices": [
     {
-      "id": 80517,
-      "name": "Amsterdam",
-      "location": "Amsterdam, North Holland, Netherlands",
+      "id": 18696,
+      "name": "Dublin",
+      "location": "Dublin, Ireland",
       "child_ids": [],
       "parent_id": null
     }

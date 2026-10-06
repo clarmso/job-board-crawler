@@ -4,18 +4,17 @@
   "department": "Solution Engineering",
   "team": "Solution Engineering",
   "employmentType": "FullTime",
-  "location": "US-CA-Menlo Park",
+  "location": "US, Remote",
   "shouldDisplayCompensationOnJobPostings": true,
   "secondaryLocations": [],
   "publishedAt": "2026-09-29T17:56:28.647+00:00",
   "isListed": true,
-  "isRemote": null,
-  "workplaceType": null,
+  "isRemote": true,
+  "workplaceType": "Remote",
   "address": {
     "postalAddress": {
-      "addressRegion": "California",
       "addressCountry": "United States",
-      "addressLocality": "Menlo Park"
+      "addressLocality": "Remote"
     }
   },
   "jobUrl": "https://jobs.ashbyhq.com/Snowflake/a4d05466-3c2e-4509-bfec-8830bccc885b",

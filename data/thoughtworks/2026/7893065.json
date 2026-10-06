@@ -1,0 +1,98 @@
+{
+  "absolute_url": "https://www.thoughtworks.com/careers/jobs/7893065?gh_jid=7893065",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 3431427,
+  "location": {
+    "name": "Bangkok, Thailand"
+  },
+  "metadata": [
+    {
+      "id": 17181,
+      "name": "Employment Type",
+      "value": "Employee",
+      "value_type": "single_select"
+    },
+    {
+      "id": 25173,
+      "name": "Job Role",
+      "value": "Solution Architect",
+      "value_type": "single_select"
+    },
+    {
+      "id": 61790,
+      "name": "Job Grade",
+      "value": "Principal",
+      "value_type": "single_select"
+    },
+    {
+      "id": 25172,
+      "name": "Country",
+      "value": "Thailand",
+      "value_type": "single_select"
+    },
+    {
+      "id": 38057280,
+      "name": "Job Category",
+      "value": "Technology",
+      "value_type": "single_select"
+    },
+    {
+      "id": 15975856,
+      "name": "Function",
+      "value": [
+        "Sales"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 25175,
+      "name": "Link to Video",
+      "value": null,
+      "value_type": "url"
+    },
+    {
+      "id": 53682232,
+      "name": "No. of days in office",
+      "value": "Fully On-site",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 7893065,
+  "updated_at": "2026-10-06T04:15:29-04:00",
+  "requisition_id": "R13367",
+  "title": "Principal Solutions Architect/Engineer (pre-sales)",
+  "company_name": "Thoughtworks",
+  "first_published": "2026-05-26T10:17:13-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;description content&quot;&gt;\n&lt;p&gt;&lt;em&gt;*Due to the nature of the projects and specific client security clearance requirements, this role requires the successful candidate to be Thai Citizen Only&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;As a Principal Solution Architect, you turn complex client problems into well-reasoned, scalable and buildable technology designs for enterprises across the dynamic Thai market.&lt;/p&gt;\n&lt;p&gt;This is a senior, hands-on engineering role at the intersection of system design, pre-sales and delivery. You work with business development, solution architects and delivery leaders to take opportunities from a whiteboard sketch to a credible solution: a clear architecture, explicit trade-offs, realistic estimates and a practical path to production. You engage directly with client technology leaders across Thai enterprises, from large conglomerates and financial institutions to retail powerhouses, and you earn credibility by going deep on how systems really work: at scale, under failure and within real-world constraints.&lt;/p&gt;\n&lt;p&gt;You should be comfortable moving between discovery workshops, design reviews, proof-of-concept builds and early delivery support. You design across the full stack of modern systems, including APIs, data stores, caching, messaging, cloud infrastructure, security and observability. You also bring AI into the picture in a practical way, designing ML and LLM-powered solutions that are reliable, cost-aware and responsible.&lt;/p&gt;\n&lt;h1&gt;&lt;strong&gt;Job responsibilities&lt;/strong&gt;&lt;/h1&gt;\n&lt;ul&gt;\n&lt;li&gt;Translate business goals and non-functional requirements (scale, latency, availability, security and cost) into clear solution designs, using back-of-the-envelope estimation to size systems early.&lt;/li&gt;\n&lt;li&gt;Design end-to-end architectures covering API design, service decomposition, data modelling and storage, caching, messaging and event-driven integration.&lt;/li&gt;\n&lt;li&gt;Make architecture trade-offs explicit, such as consistency vs. availability, SQL vs. NoSQL, sync vs. async and build vs. buy, and document them through design reviews and architecture decision records.&lt;/li&gt;\n&lt;li&gt;Design for resilience and scale, including high availability, fault tolerance, horizontal scaling, replication, sharding, rate limiting and disaster recovery.&lt;/li&gt;\n&lt;li&gt;Shape cloud-native solutions on AWS, Azure or GCP, including containers, Kubernetes, infrastructure as code, CI/CD and safe deployment strategies.&lt;/li&gt;\n&lt;li&gt;Build security, identity and observability into designs from the start, covering authentication and authorization, encryption, secrets management, logging, metrics and tracing.&lt;/li&gt;\n&lt;li&gt;Design AI-enabled solutions, from ML systems (data pipelines, training, serving and monitoring) to GenAI applications (RAG, agents, evaluation, guardrails, and cost and latency optimization).&lt;/li&gt;\n&lt;li&gt;Build proofs of concept, reference implementations and technical spikes to validate critical design choices and de-risk proposals before commitment.&lt;/li&gt;\n&lt;li&gt;Support pursuits with solution designs, architecture diagrams, estimations and the technical sections of proposals and RFP responses in both Thai and English.&lt;/li&gt;\n&lt;li&gt;Present designs clearly to technical and non-technical audiences, using simple visual explanations of how a system works and why it is built that way.&lt;/li&gt;\n&lt;li&gt;Partner with delivery teams to hand over designs, guide early implementation and ensure what is designed can be built, operated and evolved.&lt;/li&gt;\n&lt;li&gt;Mentor engineers, run design clinics and contribute reusable design patterns and thought leadership that strengthen Thoughtworks’ engineering reputation in the Thailand market.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h1&gt;&lt;strong&gt;Job qualifications&lt;/strong&gt;&lt;/h1&gt;\n&lt;h2&gt;&lt;strong&gt;Technical Skills&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;System Design Fundamentals: Strong grasp of scalability, latency, throughput, availability and consistency, including CAP theorem, consistent hashing, load balancing, CDNs and capacity estimation.&lt;/li&gt;\n&lt;li&gt;API &amp;amp; Integration Design: Experience designing REST, GraphQL, gRPC, WebSocket and webhook interfaces, API gateways, pagination, idempotency and versioning.&lt;/li&gt;\n&lt;li&gt;Data &amp;amp; Storage: Practical knowledge of relational and NoSQL databases, indexing, replication, sharding, transactions and isolation levels, object storage and change data capture.&lt;/li&gt;\n&lt;li&gt;Caching &amp;amp; Performance: Ability to apply caching strategies, eviction policies and Redis/CDN patterns to reduce latency and improve performance at scale.&lt;/li&gt;\n&lt;li&gt;Messaging &amp;amp; Distributed Systems: Experience with message queues and event streaming (e.g., Kafka, RabbitMQ), event-driven architecture, delivery semantics, retries, distributed locks and sagas.&lt;/li&gt;\n&lt;li&gt;Software Architecture &amp;amp; Design: Solid understanding of microservices, domain-driven design, object-oriented design, SOLID principles and design patterns, and when simpler is better.&lt;/li&gt;\n&lt;li&gt;Cloud &amp;amp; DevOps: Hands-on experience with at least one major cloud platform, containers and Kubernetes, infrastructure as code, CI/CD and deployment strategies such as blue-green and canary.&lt;/li&gt;\n&lt;li&gt;Security: Working knowledge of OAuth 2.0, JWT, SSO, encryption in transit and at rest, API security and secure-by-design practices.&lt;/li&gt;\n&lt;li&gt;Observability &amp;amp; Reliability: Experience designing logging, metrics, tracing and alerting, and applying resiliency patterns such as circuit breakers, timeouts and retries.&lt;/li&gt;\n&lt;li&gt;ML &amp;amp; GenAI System Design: Familiarity with end-to-end ML systems (recommendation, search and ranking) and LLM-based applications, including RAG, agents, evaluation and guardrails.&lt;/li&gt;\n&lt;li&gt;Hands-on Engineering: Proficiency in at least one modern programming language, strong data structures and algorithms, clean coding habits and the ability to build working prototypes.&lt;/li&gt;\n&lt;li&gt;Domain Awareness: Exposure to systems common in Thailand/SEA, such as payments and QR payment, digital banking, e-commerce, telco or mobile apps, is a strong plus.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;Professional Skills&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Structured Problem Solving: Ability to clarify ambiguous requirements, define scope and constraints, and work through a design step by step.&lt;/li&gt;\n&lt;li&gt;Trade-off Communication: Ability to explain options, risks and trade-offs clearly and justify recommendations with evidence.&lt;/li&gt;\n&lt;li&gt;Visual Communication: Strength in producing clear architecture diagrams and visual explanations that make complex systems easy to understand.&lt;/li&gt;\n&lt;li&gt;Stakeholder Engagement: Confidence working with client technology leaders, architects and engineering teams in workshops and design reviews.&lt;/li&gt;\n&lt;li&gt;Commercial Awareness: Understanding of how design choices affect estimates, cost, delivery risk and client value.&lt;/li&gt;\n&lt;li&gt;Collaboration &amp;amp; Mentoring: Experience coaching engineers and working across business development, architecture and delivery teams.&lt;/li&gt;\n&lt;li&gt;Continuous Learning: Curiosity to keep up with evolving architectures, cloud services and AI, and to apply them pragmatically.&lt;/li&gt;\n&lt;li&gt;Language Skills: Proficiency in Thai is highly preferred, English for global collaboration.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h1&gt;&lt;strong&gt;Other things to know&lt;/strong&gt;&lt;/h1&gt;\n&lt;h2&gt;&lt;strong&gt;Learning &amp;amp; Development&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;There is no one-size-fits-all career path at Thoughtworks: however you want to develop your career is entirely up to you. But we also balance autonomy with the strength of our cultivation culture. This means your career is supported by interactive tools, numerous development programs and teammates who want to help you grow. We see value in helping each other be our best and that extends to empowering our employees in their career journeys.&lt;/p&gt;\n&lt;h1&gt;&lt;strong&gt;About Thoughtworks&lt;/strong&gt;&lt;/h1&gt;\n&lt;p&gt;Thoughtworks is a dynamic and inclusive community of bright and supportive colleagues who are revolutionizing tech. As a leading technology consultancy, we’re pushing boundaries through our purposeful and impactful work. For 30+ years, we’ve delivered extraordinary impact together with our clients by helping them solve complex business problems with technology as the differentiator. Bring your brilliant expertise and commitment for continuous learning to Thoughtworks. Together, let’s be extraordinary.&lt;/p&gt;\n&lt;/div&gt;\n&lt;p style=&quot;display: none;&quot;&gt;#LI-Onsite&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p style=&quot;text-align: center;&quot;&gt;&lt;a href=&quot;https://www.thoughtworks.com/careers/ai-policy-for-recruitment&quot;&gt;See here our AI policy.&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 314816,
+      "name": "1S_TWTHA DEC Region",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 20998,
+      "name": "Bangkok",
+      "location": "Bangkok Thailand",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

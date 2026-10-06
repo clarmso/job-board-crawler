@@ -74,21 +74,13 @@
     {
       "id": 5525802,
       "name": "Baseline Budgeted Salary",
-      "value": {
-        "unit": "CAD",
-        "max_value": "0.0",
-        "min_value": "0.0"
-      },
+      "value": null,
       "value_type": "currency_range"
     },
     {
       "id": 5525816,
       "name": "Other Large Market Budgeted Salary",
-      "value": {
-        "unit": "CAD",
-        "max_value": "0.0",
-        "min_value": "0.0"
-      },
+      "value": null,
       "value_type": "currency_range"
     },
     {
@@ -125,7 +117,7 @@
     }
   ],
   "id": 8122634,
-  "updated_at": "2026-09-24T16:26:44-04:00",
+  "updated_at": "2026-10-05T19:30:53-04:00",
   "requisition_id": "3273518058",
   "title": "Pricing & Monetization Associate",
   "company_name": "MongoDB",
@@ -143,9 +135,9 @@
   ],
   "offices": [
     {
-      "id": 9444,
-      "name": "Toronto",
-      "location": "Toronto, ON, Canada",
+      "id": 14323,
+      "name": "Vancouver",
+      "location": "Vancouver, BC, Canada",
       "child_ids": [],
       "parent_id": 23657
     }

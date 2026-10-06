@@ -80,11 +80,7 @@
     {
       "id": 5525816,
       "name": "Other Large Market Budgeted Salary",
-      "value": {
-        "unit": "USD",
-        "max_value": "157000.0",
-        "min_value": "110000.0"
-      },
+      "value": null,
       "value_type": "currency_range"
     },
     {
@@ -121,7 +117,7 @@
     }
   ],
   "id": 8023944,
-  "updated_at": "2026-09-24T16:26:44-04:00",
+  "updated_at": "2026-10-05T19:30:53-04:00",
   "requisition_id": "2273478590",
   "title": "Senior Manager, Brand Design",
   "company_name": "MongoDB",
@@ -139,9 +135,9 @@
   ],
   "offices": [
     {
-      "id": 3964,
-      "name": "Austin",
-      "location": "Austin, TX, United States",
+      "id": 4044,
+      "name": "Los Angeles ",
+      "location": "Los Angeles, CA, United States",
       "child_ids": [],
       "parent_id": 23657
     }

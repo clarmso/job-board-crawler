@@ -18,7 +18,7 @@
     {
       "id": 22194060,
       "name": "Position ID",
-      "value": "T10000532",
+      "value": "10000532",
       "value_type": "short_text"
     },
     {
@@ -74,21 +74,13 @@
     {
       "id": 5525802,
       "name": "Baseline Budgeted Salary",
-      "value": {
-        "unit": "SGD",
-        "max_value": "0.0",
-        "min_value": "0.0"
-      },
+      "value": null,
       "value_type": "currency_range"
     },
     {
       "id": 5525816,
       "name": "Other Large Market Budgeted Salary",
-      "value": {
-        "unit": "SGD",
-        "max_value": "0.0",
-        "min_value": "0.0"
-      },
+      "value": null,
       "value_type": "currency_range"
     },
     {
@@ -125,7 +117,7 @@
     }
   ],
   "id": 8184727,
-  "updated_at": "2026-09-25T15:05:39-04:00",
+  "updated_at": "2026-10-05T19:30:53-04:00",
   "requisition_id": "3273541820",
   "title": "Enterprise Account Executive, Growth (Vietnam)",
   "company_name": "MongoDB",

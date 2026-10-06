@@ -4,7 +4,7 @@
   "department": "Customer Success",
   "team": "Dedicated Customer Success",
   "employmentType": "FullTime",
-  "location": "Remote - US",
+  "location": "Remote - European Union",
   "shouldDisplayCompensationOnJobPostings": true,
   "secondaryLocations": [],
   "publishedAt": "2026-10-02T20:58:21.430+00:00",
@@ -13,8 +13,9 @@
   "workplaceType": "Remote",
   "address": {
     "postalAddress": {
+      "postalCode": "",
       "addressRegion": "",
-      "addressCountry": "United States",
+      "addressCountry": "European Union",
       "addressLocality": ""
     }
   },
@@ -33,15 +34,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "59be5bf1-f2da-411f-b523-9e8698b5c9f1",
-            "summary": "Salary €102,000 – €142,375",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "EUR",
-            "minValue": 102000,
-            "maxValue": 142375
-          },
-          {
             "id": "8960c722-4e47-4b2c-a4f3-2a721d58c858",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
@@ -49,6 +41,15 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "59be5bf1-f2da-411f-b523-9e8698b5c9f1",
+            "summary": "Salary €102,000 – €142,375",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "EUR",
+            "minValue": 102000,
+            "maxValue": 142375
           }
         ]
       },
@@ -59,15 +60,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "62e4dfe0-fd57-4bd9-89e4-470a5e1336de",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "6ecfdb27-a4fe-4ad5-ab4e-1b650784ac26",
             "summary": "Salary €90,000 – €125,625",
             "compensationType": "Salary",
@@ -75,6 +67,15 @@
             "currencyCode": "EUR",
             "minValue": 90000,
             "maxValue": 125625
+          },
+          {
+            "id": "62e4dfe0-fd57-4bd9-89e4-470a5e1336de",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           }
         ]
       },
@@ -159,17 +160,17 @@
     ],
     "summaryComponents": [
       {
+        "compensationType": "EquityPercentage",
+        "minValue": null,
+        "maxValue": null,
+        "interval": "1 YEAR"
+      },
+      {
         "minValue": 78000,
         "maxValue": 142375,
         "currencyCode": "EUR",
         "interval": "1 YEAR",
         "compensationType": "Salary"
-      },
-      {
-        "compensationType": "EquityPercentage",
-        "minValue": null,
-        "maxValue": null,
-        "interval": "1 YEAR"
       }
     ]
   }

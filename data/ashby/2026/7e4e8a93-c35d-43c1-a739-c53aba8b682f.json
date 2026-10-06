@@ -164,13 +164,13 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "c458b58b-b380-4360-8424-d09cc081c085",
-            "summary": "OTE €202.5K – €230K",
-            "compensationType": "Salary",
+            "id": "d360e436-d2cf-4a0d-8f0b-986f256c9563",
+            "summary": "Offers Commission",
+            "compensationType": "Commission",
             "interval": "1 YEAR",
             "currencyCode": "EUR",
-            "minValue": 202500,
-            "maxValue": 230000
+            "minValue": null,
+            "maxValue": null
           },
           {
             "id": "38a49125-c07b-4977-992f-85224b1a4b7e",
@@ -182,13 +182,13 @@
             "maxValue": null
           },
           {
-            "id": "d360e436-d2cf-4a0d-8f0b-986f256c9563",
-            "summary": "Offers Commission",
-            "compensationType": "Commission",
+            "id": "c458b58b-b380-4360-8424-d09cc081c085",
+            "summary": "OTE €202.5K – €230K",
+            "compensationType": "Salary",
             "interval": "1 YEAR",
             "currencyCode": "EUR",
-            "minValue": null,
-            "maxValue": null
+            "minValue": 202500,
+            "maxValue": 230000
           }
         ]
       },
@@ -269,15 +269,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "abd169c9-950f-4dea-bee5-aef261189dba",
-            "summary": "Offers Commission",
-            "compensationType": "Commission",
-            "interval": "1 YEAR",
-            "currencyCode": "GBP",
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "cc66e1d8-b50b-4caf-8133-3f6aa1ecf0e7",
             "summary": "OTE £202.5K – £230K",
             "compensationType": "Salary",
@@ -285,6 +276,15 @@
             "currencyCode": "GBP",
             "minValue": 202500,
             "maxValue": 230000
+          },
+          {
+            "id": "abd169c9-950f-4dea-bee5-aef261189dba",
+            "summary": "Offers Commission",
+            "compensationType": "Commission",
+            "interval": "1 YEAR",
+            "currencyCode": "GBP",
+            "minValue": null,
+            "maxValue": null
           },
           {
             "id": "3e5c3612-16da-44ab-bf1c-a6ff4635ebf2",

@@ -124,15 +124,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "2e721dce-3543-4620-81c9-479acf30fc8a",
-            "summary": "New Zealand NZ$138,000 – NZ$164,000",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "NZD",
-            "minValue": 138000,
-            "maxValue": 164000
-          },
-          {
             "id": "3d9583a0-659b-4022-858e-f2ed60f86884",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
@@ -140,6 +131,15 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "2e721dce-3543-4620-81c9-479acf30fc8a",
+            "summary": "New Zealand NZ$138,000 – NZ$164,000",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "NZD",
+            "minValue": 138000,
+            "maxValue": 164000
           }
         ]
       },

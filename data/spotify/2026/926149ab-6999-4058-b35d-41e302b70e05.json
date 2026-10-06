@@ -1,0 +1,41 @@
+{
+  "additionalPlain": "Spotify is an equal opportunity employer. You are welcome at Spotify for who you are, no matter where you come from, what you look like, or what’s playing in your headphones. Our platform is for everyone, and so is our workplace. The more voices we have represented and amplified in our business, the more we will all thrive, contribute, and be forward-thinking! So bring us your personal experience, your perspectives, and your background. It’s in our differences that we will find the power to keep revolutionizing the way the world listens.\n \nAt Spotify, we are passionate about inclusivity and making sure our entire recruitment process is accessible to everyone. We have ways to request reasonable accommodations during the interview process and help assist in what you need. If you need accommodations at any stage of the application or interview process, please let us know - we’re here to support you in any way we can.\n \n",
+  "additional": "<div><span style=\"font-size: 11pt;\">Spotify is an equal opportunity employer. You are welcome at Spotify for who you are, no matter where you come from, what you look like, or what’s playing in your headphones. Our platform is for everyone, and so is our workplace. The more voices we have represented and amplified in our business, the more we will all thrive, contribute, and be forward-thinking! So bring us your personal experience, your perspectives, and your background. It’s in our differences that we will find the power to keep revolutionizing the way the world listens.</span></div>\n<div>&nbsp;</div>\n<div><span style=\"font-size: 11pt;\">At Spotify, we are passionate about inclusivity and making sure our entire recruitment process is accessible to everyone. We have ways to request reasonable accommodations during the interview process and help assist in what you need. If you need accommodations at any stage of the application or interview process, please let us know - we’re here to support you in any way we can.</span></div>\n<div>&nbsp;</div>",
+  "categories": {
+    "commitment": "Permanent",
+    "department": "Engineering",
+    "location": "Stockholm",
+    "team": "Platform",
+    "allLocations": [
+      "Stockholm",
+      "London"
+    ]
+  },
+  "createdAt": 1790854925650,
+  "descriptionPlain": "",
+  "description": "<div>\n<p>LilEngine is leading the Lakehouse, a company-strategic effort to make Apache Iceberg a first-class citizen in Spotify's data ecosystem. We're building it in close collaboration with Google, on open standards, so that different kinds of data are queryable the same way and teams can bring the right engine, from BigQuery to Dataflow to Trino, to the job.</p>\n<p>The work has two parts. Hecate enables Iceberg for the Parquet datasets that already exist across Spotify, so teams get the benefits without rewriting their data. Alongside it, we're building the foundations of a new Lakehouse architecture that lets workflows write Iceberg tables natively. We're shipping the MVP this cycle, and you'll help shape what comes next.</p>\n<p>We also own BigQuery for all of Spotify. Thousands of engineers, data scientists and pipelines depend on it every day, which puts us on the critical path for storing, finding and querying data. We're judged on reliability, cost efficiency and how quickly we unblock users when something breaks. This backend role sits where open table formats, cloud data warehouses and processing engines meet.</p>\n<p>&nbsp;</p>\n</div>",
+  "id": "926149ab-6999-4058-b35d-41e302b70e05",
+  "lists": [
+    {
+      "text": "What You'll Do",
+      "content": "<div>\n\n<li><strong>Build and evolve the lakehouse:</strong> Help build the foundations that let data workflows read and write Iceberg tables directly, from this cycle's MVP to a production-grade platform.</li>\n<li><strong>Drive adoption:&nbsp;</strong>Help migrate data pipelines from across Spotify onto the new stack, making the move as painless as possible through tooling, standards and hands-on support.</li>\n<li><strong>Own BigQuery at Spotify scale:</strong> Manage reservations and capacity, build monitoring and anti-pattern detection, and develop tooling like the BigQuery MCP server so teams can use BigQuery well.</li>\n<li><strong>Keep the platform healthy:</strong> Take part in a weekly support rotation and shared on-call. You'll debug production issues that span storage formats, catalog APIs, Kubernetes reconciliation, GCP IAM and BigQuery internals, and you'll automate away recurring toil.</li>\n\n</div>"
+    },
+    {
+      "text": "Who You Are",
+      "content": "<div>\n\n<li>You have solid experience building and operating backend services in production with Java or Scala.</li>\n<li>You're comfortable on GCP and Kubernetes. You can read kubectl output, reason about IAM and quotas, and work with CRDs and operators. You don't need deep expertise in all of these on day one.</li>\n<li>You've worked with Apache Iceberg or JVM-based processing frameworks like Spark, Beam or Flink, or with a cloud data warehouse such as BigQuery, Snowflake or Databricks.</li>\n<li>You think in systems and can connect the dots when a problem crosses several layers of the stack.</li>\n<li>You like owning things in production, and you're motivated by seeing your systems run reliably for thousands of users.</li>\n<li>You communicate clearly in writing and work well asynchronously across US and EU time zones.</li>\n<li>You own the quality of what you ship, including code written with AI assistance.</li>\n\n</div>"
+    },
+    {
+      "text": "Where You'll Be",
+      "content": "<div>This role is based in London or Stockholm.</div>\n<div>&nbsp;</div>\n<div>We offer the flexibility to work where you work best! There will be some in person meeetings, but still allows for flexibility to work from home.&nbsp;</div>"
+    }
+  ],
+  "text": "Backend Engineer - Data Platform",
+  "country": "SE",
+  "workplaceType": "hybrid",
+  "opening": "",
+  "openingPlain": "",
+  "descriptionBody": "<div>\n<p>LilEngine is leading the Lakehouse, a company-strategic effort to make Apache Iceberg a first-class citizen in Spotify's data ecosystem. We're building it in close collaboration with Google, on open standards, so that different kinds of data are queryable the same way and teams can bring the right engine, from BigQuery to Dataflow to Trino, to the job.</p>\n<p>The work has two parts. Hecate enables Iceberg for the Parquet datasets that already exist across Spotify, so teams get the benefits without rewriting their data. Alongside it, we're building the foundations of a new Lakehouse architecture that lets workflows write Iceberg tables natively. We're shipping the MVP this cycle, and you'll help shape what comes next.</p>\n<p>We also own BigQuery for all of Spotify. Thousands of engineers, data scientists and pipelines depend on it every day, which puts us on the critical path for storing, finding and querying data. We're judged on reliability, cost efficiency and how quickly we unblock users when something breaks. This backend role sits where open table formats, cloud data warehouses and processing engines meet.</p>\n<p>&nbsp;</p>\n</div>",
+  "descriptionBodyPlain": "",
+  "hostedUrl": "https://jobs.lever.co/spotify/926149ab-6999-4058-b35d-41e302b70e05",
+  "applyUrl": "https://jobs.lever.co/spotify/926149ab-6999-4058-b35d-41e302b70e05/apply"
+}

@@ -204,15 +204,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "5040630a-b063-4e5c-a657-40b14b66097e",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "2b2e5753-1917-449d-933a-9024d4387264",
             "summary": "Total OTE Range: 48 333 - 58 333 OTE / Base salary range: €29K – €35K",
             "compensationType": "Salary",
@@ -220,6 +211,15 @@
             "currencyCode": "EUR",
             "minValue": 29000,
             "maxValue": 35000
+          },
+          {
+            "id": "5040630a-b063-4e5c-a657-40b14b66097e",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           }
         ]
       },

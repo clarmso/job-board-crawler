@@ -77,20 +77,20 @@
             "maxValue": 245000
           },
           {
-            "id": "6a301798-0cfb-4297-a9e6-f2d2e1809595",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "57b7f5dc-fea0-4b3e-b628-f81edb2ae05b",
             "summary": "Offers Commission",
             "compensationType": "Commission",
             "interval": "1 YEAR",
             "currencyCode": "USD",
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "6a301798-0cfb-4297-a9e6-f2d2e1809595",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
             "minValue": null,
             "maxValue": null
           }

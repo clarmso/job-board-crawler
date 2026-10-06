@@ -65,7 +65,7 @@
     }
   ],
   "id": 8239380,
-  "updated_at": "2026-09-29T15:47:34-04:00",
+  "updated_at": "2026-10-05T10:58:44-04:00",
   "requisition_id": "P25909_3565301",
   "title": "Senior Software Engineer, Data Platform",
   "company_name": "Okta",
@@ -83,22 +83,11 @@
   ],
   "offices": [
     {
-      "id": 67252,
-      "name": "United States",
-      "location": null,
-      "child_ids": [
-        85788,
-        73666,
-        19613,
-        61722,
-        19611,
-        22604,
-        21495,
-        19612,
-        21497,
-        21496
-      ],
-      "parent_id": 67248
+      "id": 19613,
+      "name": "Bellevue",
+      "location": "Bellevue, WA, United States",
+      "child_ids": [],
+      "parent_id": 67252
     }
   ],
   "ai_disclaimer": null,

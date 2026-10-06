@@ -135,15 +135,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "665f242b-4811-4fca-a1a2-b9a86d514f2b",
-            "summary": "Base Salary $205K – $380K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "USD",
-            "minValue": 205000,
-            "maxValue": 380000
-          },
-          {
             "id": "82e2a73b-8d18-4ce8-8e13-dda22ec97be9",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
@@ -151,6 +142,15 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "665f242b-4811-4fca-a1a2-b9a86d514f2b",
+            "summary": "Base Salary $205K – $380K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 205000,
+            "maxValue": 380000
           }
         ]
       },

@@ -44,6 +44,15 @@
         "additionalInformation": "75/25 Split",
         "components": [
           {
+            "id": "4db95ae5-ce78-4ef7-9afd-4f37517cdf55",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
+          },
+          {
             "id": "b89a4dc1-6749-4f3c-993e-5b5db445ad26",
             "summary": "On Target Earnings $293,250 – $319,125",
             "compensationType": "Salary",
@@ -60,15 +69,6 @@
             "currencyCode": "USD",
             "minValue": null,
             "maxValue": null
-          },
-          {
-            "id": "4db95ae5-ce78-4ef7-9afd-4f37517cdf55",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
           }
         ]
       },
@@ -79,11 +79,11 @@
         "additionalInformation": "75/25 Split",
         "components": [
           {
-            "id": "311cadb2-862f-4aa4-a798-443590937c71",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
+            "id": "c738b369-9dbc-4598-b52c-0a9260c9c732",
+            "summary": "Offers Commission",
+            "compensationType": "Commission",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
             "minValue": null,
             "maxValue": null
           },
@@ -97,11 +97,11 @@
             "maxValue": 277500
           },
           {
-            "id": "c738b369-9dbc-4598-b52c-0a9260c9c732",
-            "summary": "Offers Commission",
-            "compensationType": "Commission",
-            "interval": "1 YEAR",
-            "currencyCode": "USD",
+            "id": "311cadb2-862f-4aa4-a798-443590937c71",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
             "minValue": null,
             "maxValue": null
           }
@@ -123,15 +123,6 @@
             "maxValue": 305250
           },
           {
-            "id": "b9530c9f-2e45-425e-afdc-2c85d86fc5d5",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "f6b1fe95-d805-46af-a17a-e098be2b6fb2",
             "summary": "Offers Commission",
             "compensationType": "Commission",
@@ -139,11 +130,26 @@
             "currencyCode": "CAD",
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "b9530c9f-2e45-425e-afdc-2c85d86fc5d5",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           }
         ]
       }
     ],
     "summaryComponents": [
+      {
+        "compensationType": "EquityPercentage",
+        "minValue": null,
+        "maxValue": null,
+        "interval": "1 YEAR"
+      },
       {
         "minValue": 255000,
         "maxValue": 319125,
@@ -153,12 +159,6 @@
       },
       {
         "compensationType": "Commission",
-        "minValue": null,
-        "maxValue": null,
-        "interval": "1 YEAR"
-      },
-      {
-        "compensationType": "EquityPercentage",
         "minValue": null,
         "maxValue": null,
         "interval": "1 YEAR"

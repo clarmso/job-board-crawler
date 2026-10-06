@@ -1,12 +1,33 @@
 {
   "id": "314c1a13-5961-44cc-9e70-30513ee28c55",
-  "title": "Sales Representative - Grocery (West)",
+  "title": "Sales Representative - Grocery (Brampton/Mississauga/Etobicoke)",
   "department": "Sales",
   "team": "Sales",
   "employmentType": "Contract",
-  "location": "Toronto, ON",
+  "location": "Brampton, ON",
   "shouldDisplayCompensationOnJobPostings": true,
-  "secondaryLocations": [],
+  "secondaryLocations": [
+    {
+      "location": "Etobicoke, ON",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "Onatrio",
+          "addressCountry": "Canada",
+          "addressLocality": "Etobicoke"
+        }
+      }
+    },
+    {
+      "location": "Mississauga, ON",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "Ontario",
+          "addressCountry": "Canada",
+          "addressLocality": "Mississauga"
+        }
+      }
+    }
+  ],
   "publishedAt": "2026-09-10T17:58:04.734+00:00",
   "isListed": true,
   "isRemote": false,
@@ -15,7 +36,7 @@
     "postalAddress": {
       "addressRegion": "Ontario",
       "addressCountry": "Canada",
-      "addressLocality": "Toronto"
+      "addressLocality": "Brampton"
     }
   },
   "jobUrl": "https://jobs.ashbyhq.com/neofinancial/314c1a13-5961-44cc-9e70-30513ee28c55",

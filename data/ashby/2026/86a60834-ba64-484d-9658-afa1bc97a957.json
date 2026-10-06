@@ -128,20 +128,20 @@
             "maxValue": 195500
           },
           {
-            "id": "3376fe86-7d18-47ef-acf7-0da9f67d78bc",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "659f2f29-2e52-4d0c-8b4c-51727268a659",
             "summary": "Offers Commission",
             "compensationType": "Commission",
             "interval": "1 YEAR",
             "currencyCode": "EUR",
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "3376fe86-7d18-47ef-acf7-0da9f67d78bc",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
             "minValue": null,
             "maxValue": null
           }
@@ -259,11 +259,11 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "f101a32a-537d-408b-b7bf-f945cfb2f906",
-            "summary": "Offers Commission",
-            "compensationType": "Commission",
-            "interval": "1 YEAR",
-            "currencyCode": "GBP",
+            "id": "617c392f-dfba-4f15-becd-4caf1584eda3",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
             "minValue": null,
             "maxValue": null
           },
@@ -277,11 +277,11 @@
             "maxValue": 172500
           },
           {
-            "id": "617c392f-dfba-4f15-becd-4caf1584eda3",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
+            "id": "f101a32a-537d-408b-b7bf-f945cfb2f906",
+            "summary": "Offers Commission",
+            "compensationType": "Commission",
+            "interval": "1 YEAR",
+            "currencyCode": "GBP",
             "minValue": null,
             "maxValue": null
           }
@@ -297,13 +297,13 @@
         "compensationType": "Salary"
       },
       {
-        "compensationType": "EquityPercentage",
+        "compensationType": "Commission",
         "minValue": null,
         "maxValue": null,
         "interval": "1 YEAR"
       },
       {
-        "compensationType": "Commission",
+        "compensationType": "EquityPercentage",
         "minValue": null,
         "maxValue": null,
         "interval": "1 YEAR"

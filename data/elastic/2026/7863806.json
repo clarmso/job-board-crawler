@@ -54,7 +54,7 @@
     }
   ],
   "id": 7863806,
-  "updated_at": "2026-10-01T12:57:36-04:00",
+  "updated_at": "2026-10-05T16:32:45-04:00",
   "requisition_id": "R11571",
   "title": "Enterprise Account Executive (Public Sector)",
   "company_name": "Elastic",
@@ -72,10 +72,12 @@
   ],
   "offices": [
     {
-      "id": 57089,
-      "name": "Distributed, AMER",
+      "id": 79985,
+      "name": "Canada",
       "location": null,
-      "child_ids": [],
+      "child_ids": [
+        57134
+      ],
       "parent_id": 79984
     }
   ],

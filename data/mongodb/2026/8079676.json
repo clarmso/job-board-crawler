@@ -74,21 +74,13 @@
     {
       "id": 5525802,
       "name": "Baseline Budgeted Salary",
-      "value": {
-        "unit": "AUD",
-        "max_value": "0.0",
-        "min_value": "0.0"
-      },
+      "value": null,
       "value_type": "currency_range"
     },
     {
       "id": 5525816,
       "name": "Other Large Market Budgeted Salary",
-      "value": {
-        "unit": "AUD",
-        "max_value": "0.0",
-        "min_value": "0.0"
-      },
+      "value": null,
       "value_type": "currency_range"
     },
     {
@@ -125,7 +117,7 @@
     }
   ],
   "id": 8079676,
-  "updated_at": "2026-09-25T00:37:31-04:00",
+  "updated_at": "2026-10-05T19:30:53-04:00",
   "requisition_id": "2273500447",
   "title": "Enterprise Account Executive, Acquisition",
   "company_name": "MongoDB",
