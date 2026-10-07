@@ -142,15 +142,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "4912f2e9-ab44-416f-bb39-da8a801bfe17",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "ce57a72e-e9db-4853-821b-a5694f7a0b42",
             "summary": "₩45,518,000 – ₩58,540,000",
             "compensationType": "Salary",
@@ -158,6 +149,15 @@
             "currencyCode": "KRW",
             "minValue": 45518000,
             "maxValue": 58540000
+          },
+          {
+            "id": "4912f2e9-ab44-416f-bb39-da8a801bfe17",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           }
         ]
       }

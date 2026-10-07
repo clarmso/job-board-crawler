@@ -27,8 +27,7 @@
       "value": [
         "Madison, WI",
         "Milwaukee, WI",
-        "Minneapolis, MN",
-        "US"
+        "Minneapolis, MN"
       ],
       "value_type": "multi_select"
     },
@@ -42,7 +41,7 @@
     }
   ],
   "id": 8201404,
-  "updated_at": "2026-10-02T14:24:13-04:00",
+  "updated_at": "2026-10-07T00:16:13-04:00",
   "requisition_id": "GTM_PIPELINE_AMER US NMD CNTL GLKS#23771",
   "title": "Senior Named Account Executive,  (MN or WI)",
   "company_name": "Cloudflare",
@@ -117,6 +116,13 @@
         84342
       ],
       "parent_id": null
+    },
+    {
+      "id": 77305,
+      "name": "Minneapolis, MN",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 48752
     }
   ],
   "ai_disclaimer": null,

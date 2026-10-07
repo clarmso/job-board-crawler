@@ -38,15 +38,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "3a5b0fc4-7176-4e8e-9333-c78befb5b31e",
-            "summary": "Offers Commission",
-            "compensationType": "Commission",
-            "interval": "1 YEAR",
-            "currencyCode": "USD",
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "dc8c70dc-a759-4e93-8259-1ffe1c3959dc",
             "summary": "IC4 OTE $158.3K – $237.5K",
             "compensationType": "Salary",
@@ -54,6 +45,15 @@
             "currencyCode": "USD",
             "minValue": 158300,
             "maxValue": 237500
+          },
+          {
+            "id": "3a5b0fc4-7176-4e8e-9333-c78befb5b31e",
+            "summary": "Offers Commission",
+            "compensationType": "Commission",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": null,
+            "maxValue": null
           }
         ]
       },
@@ -64,15 +64,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "7addee24-347c-42cb-bd05-993963f6f24d",
-            "summary": "IC4 OTE CA$174.2K – CA$261.2K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "CAD",
-            "minValue": 174200,
-            "maxValue": 261200
-          },
-          {
             "id": "390ea9b4-4c22-4310-a989-f4aeb6571f00",
             "summary": "Offers Commission",
             "compensationType": "Commission",
@@ -80,6 +71,15 @@
             "currencyCode": "CAD",
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "7addee24-347c-42cb-bd05-993963f6f24d",
+            "summary": "IC4 OTE CA$174.2K – CA$261.2K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "CAD",
+            "minValue": 174200,
+            "maxValue": 261200
           }
         ]
       },
@@ -112,17 +112,17 @@
     ],
     "summaryComponents": [
       {
-        "compensationType": "Commission",
-        "minValue": null,
-        "maxValue": null,
-        "interval": "1 YEAR"
-      },
-      {
         "minValue": 158300,
         "maxValue": 263400,
         "currencyCode": "USD",
         "interval": "1 YEAR",
         "compensationType": "Salary"
+      },
+      {
+        "compensationType": "Commission",
+        "minValue": null,
+        "maxValue": null,
+        "interval": "1 YEAR"
       }
     ]
   }

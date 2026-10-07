@@ -24,13 +24,13 @@
     {
       "id": 956352,
       "name": "Recruiting Start Date",
-      "value": "2026-08-25",
+      "value": "2026-10-01",
       "value_type": "date"
     },
     {
       "id": 944671,
       "name": "Target Hire Date",
-      "value": "2026-11-10",
+      "value": "2026-10-01",
       "value_type": "date"
     },
     {
@@ -101,7 +101,7 @@
     }
   ],
   "id": 8157275,
-  "updated_at": "2026-10-05T20:12:13-04:00",
+  "updated_at": "2026-10-06T20:15:15-04:00",
   "requisition_id": "R-105820",
   "title": "Senior Staff Machine Learning Systems Engineer, Ads ML Platform",
   "company_name": "Reddit",
@@ -112,16 +112,16 @@
   "departments": [
     {
       "id": 70548,
-      "name": "Ads Engineering",
+      "name": "Ads Product & Engineering",
       "child_ids": [],
       "parent_id": 16253
     }
   ],
   "offices": [
     {
-      "id": 88237,
-      "name": "Remote - United States",
-      "location": null,
+      "id": 10168,
+      "name": "New York",
+      "location": "New York, NY, United States",
       "child_ids": [],
       "parent_id": null
     }

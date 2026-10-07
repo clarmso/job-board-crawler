@@ -6,7 +6,29 @@
   "employmentType": "FullTime",
   "location": "Spain",
   "shouldDisplayCompensationOnJobPostings": false,
-  "secondaryLocations": [],
+  "secondaryLocations": [
+    {
+      "location": "Ireland",
+      "address": {
+        "postalAddress": {}
+      }
+    },
+    {
+      "location": "London",
+      "address": {
+        "postalAddress": {}
+      }
+    },
+    {
+      "location": "Portugal",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "Portugal",
+          "addressLocality": ""
+        }
+      }
+    }
+  ],
   "publishedAt": "2026-09-30T20:05:56.499+00:00",
   "isListed": true,
   "isRemote": true,

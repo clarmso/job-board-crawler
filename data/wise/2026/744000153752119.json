@@ -1,0 +1,130 @@
+{
+  "id": "744000153752119",
+  "name": " Internal Audit India Lead ",
+  "uuid": "b1045dfa-8211-40f2-83e6-bd6cc519f095",
+  "jobAdId": "1a9b0b01-128d-4349-a325-f57bfd4886d1",
+  "defaultJobAd": true,
+  "refNumber": "R11029",
+  "company": {
+    "identifier": "Wise",
+    "name": "Wise"
+  },
+  "releasedDate": "2026-10-06T12:42:16.373Z",
+  "location": {
+    "city": "Hyderabad",
+    "country": "in",
+    "address": "Table Space Suites, Raheja Mindspace, Building 4, HITEC City",
+    "postalCode": "500081",
+    "remote": false,
+    "hybrid": false,
+    "fullLocation": "Hyderabad, , India"
+  },
+  "industry": {
+    "id": "financial_services",
+    "label": "Financial Services"
+  },
+  "department": {},
+  "function": {
+    "id": "accounting_auditing",
+    "label": "Accounting/Auditing"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "customField": [
+    {
+      "fieldId": "65d3d0e0d37044292ef9549b",
+      "fieldLabel": "Job Profile",
+      "valueId": "711c823e7943019eb6bc4d4c98011091",
+      "valueLabel": "Internal Audit Lead - JP100745"
+    },
+    {
+      "fieldId": "65d3d0a7d37044292ef9549a",
+      "fieldLabel": "Job Family",
+      "valueId": "711c823e794301a25336ea809601eb8f",
+      "valueLabel": "Internal Audit"
+    },
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "in",
+      "valueLabel": "India"
+    },
+    {
+      "fieldId": "65d3d05c735007771b14e932",
+      "fieldLabel": "Worker Type",
+      "valueId": "EE",
+      "valueLabel": "Wiser"
+    },
+    {
+      "fieldId": "65cea5ac287e8d0651481809",
+      "fieldLabel": "Time Type",
+      "valueId": "d2f4dafccd5101059b6cf09e12278400",
+      "valueLabel": "Full time"
+    },
+    {
+      "fieldId": "65d3d06b2865b46cfa4f0ec3",
+      "fieldLabel": "Worker Sub Type",
+      "valueId": "046034784a4d016f1889ba8863278f0d",
+      "valueLabel": "Permanent"
+    },
+    {
+      "fieldId": "65d3d141c86c2f3257de414c",
+      "fieldLabel": "Cost Center Hierarchy",
+      "valueId": "9c5cdc93af5c01464a24f652e001fea3",
+      "valueLabel": "Internal Audit"
+    },
+    {
+      "fieldId": "658553f79a81b00900831a80",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Wise"
+    },
+    {
+      "fieldId": "65d3d0374c34974b271801f9",
+      "fieldLabel": "Management Level",
+      "valueId": "e82698b9419501dd6959b9d6f100d810",
+      "valueLabel": "7"
+    },
+    {
+      "fieldId": "65d3d0926435ba43bdb089ac",
+      "fieldLabel": "Job Family Group",
+      "valueId": "cf8ed98297e201710f9a70edb9007e14",
+      "valueLabel": "Finance"
+    },
+    {
+      "fieldId": "65d3d151a5d3185b4341a7ab",
+      "fieldLabel": "Cost Center",
+      "valueId": "3899ab2a4200011efef84ec1a9017838",
+      "valueLabel": "Internal Audit"
+    },
+    {
+      "fieldId": "65cec407735007771b14e92d",
+      "fieldLabel": "Company",
+      "valueId": "8928081b6a9e014945dcd4299c012074",
+      "valueLabel": "Wise Payments India Private Limited"
+    },
+    {
+      "fieldId": "65d90823f2e6436af25814c2",
+      "fieldLabel": "Job Ad Salary Range",
+      "valueLabel": "6017000 - 8141000 INR Annual"
+    },
+    {
+      "fieldId": "65d9080b4aa2f46927dfc1f3",
+      "fieldLabel": "WD Target Hire Date",
+      "valueLabel": "2026-10-28"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/wise/postings/744000153752119",
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

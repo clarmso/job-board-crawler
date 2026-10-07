@@ -57,8 +57,8 @@
       "name": "Zone A Salary Range",
       "value": {
         "unit": "USD",
-        "max_value": "46.61",
-        "min_value": "31.07"
+        "max_value": "56.38",
+        "min_value": "37.58"
       },
       "value_type": "currency_range"
     },
@@ -67,8 +67,8 @@
       "name": "Zone B Salary Range",
       "value": {
         "unit": "USD",
-        "max_value": "43.33",
-        "min_value": "28.89"
+        "max_value": "52.42",
+        "min_value": "34.94"
       },
       "value_type": "currency_range"
     },
@@ -77,8 +77,8 @@
       "name": "Zone C Salary Range",
       "value": {
         "unit": "USD",
-        "max_value": "39.61",
-        "min_value": "26.41"
+        "max_value": "49.6",
+        "min_value": "33.06"
       },
       "value_type": "currency_range"
     },
@@ -87,8 +87,8 @@
       "name": "Zone D Salary Range",
       "value": {
         "unit": "USD",
-        "max_value": "34.97",
-        "min_value": "23.31"
+        "max_value": "45.11",
+        "min_value": "30.07"
       },
       "value_type": "currency_range"
     },
@@ -97,8 +97,8 @@
       "name": "Canada Zone A Pay Range",
       "value": {
         "unit": "CAD",
-        "max_value": "90300.0",
-        "min_value": "60200.0"
+        "max_value": "109284.0",
+        "min_value": "72856.0"
       },
       "value_type": "currency_range"
     },
@@ -107,8 +107,8 @@
       "name": "Canada Zone B Pay Range",
       "value": {
         "unit": "CAD",
-        "max_value": "90300.0",
-        "min_value": "60200.0"
+        "max_value": "109284.0",
+        "min_value": "72856.0"
       },
       "value_type": "currency_range"
     },
@@ -120,7 +120,7 @@
     }
   ],
   "id": 5385490008,
-  "updated_at": "2026-10-01T13:09:55-04:00",
+  "updated_at": "2026-10-06T11:48:32-04:00",
   "requisition_id": "R0006892",
   "title": "SMB Account Executive",
   "company_name": "Block",
@@ -138,8 +138,8 @@
   ],
   "offices": [
     {
-      "id": 4016731008,
-      "name": "AU - NSW - Sydney - The Brewery",
+      "id": 4007863008,
+      "name": "AU - VIC - Collins",
       "location": null,
       "child_ids": [],
       "parent_id": 4007684008

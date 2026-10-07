@@ -138,15 +138,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "43a8c6db-1a75-4251-a5be-0a27e6ac478f",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "fb71802d-d5e5-4de7-bacf-42b50f9e7b6f",
             "summary": "Salary £90,000 – £125,625",
             "compensationType": "Salary",
@@ -154,6 +145,15 @@
             "currencyCode": "GBP",
             "minValue": 90000,
             "maxValue": 125625
+          },
+          {
+            "id": "43a8c6db-1a75-4251-a5be-0a27e6ac478f",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           }
         ]
       }

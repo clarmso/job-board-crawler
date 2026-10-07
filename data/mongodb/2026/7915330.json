@@ -24,7 +24,7 @@
     {
       "id": 24918,
       "name": "Department ID",
-      "value": "D21010-Query",
+      "value": "D22104-Online Transaction Processing",
       "value_type": "single_select"
     },
     {
@@ -74,21 +74,13 @@
     {
       "id": 5525802,
       "name": "Baseline Budgeted Salary",
-      "value": {
-        "unit": "USD",
-        "max_value": "270000.0",
-        "min_value": "189000.0"
-      },
+      "value": null,
       "value_type": "currency_range"
     },
     {
       "id": 5525816,
       "name": "Other Large Market Budgeted Salary",
-      "value": {
-        "unit": "USD",
-        "max_value": "230000.0",
-        "min_value": "161000.0"
-      },
+      "value": null,
       "value_type": "currency_range"
     },
     {
@@ -125,7 +117,7 @@
     }
   ],
   "id": 7915330,
-  "updated_at": "2026-10-05T19:30:53-04:00",
+  "updated_at": "2026-10-07T00:39:17-04:00",
   "requisition_id": "2273440785",
   "title": "Staff Software Engineer - Query Execution",
   "company_name": "MongoDB",

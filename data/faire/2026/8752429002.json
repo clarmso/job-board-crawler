@@ -23,7 +23,7 @@
     }
   ],
   "id": 8752429002,
-  "updated_at": "2026-09-29T17:21:13-04:00",
+  "updated_at": "2026-10-06T12:31:46-04:00",
   "requisition_id": "1476",
   "title": "Senior Security Engineer - Application Security",
   "company_name": "Faire",
@@ -40,6 +40,16 @@
     }
   ],
   "offices": [
+    {
+      "id": 4049475002,
+      "name": "Canada",
+      "location": null,
+      "child_ids": [
+        4000905002,
+        4037984002
+      ],
+      "parent_id": null
+    },
     {
       "id": 4000905002,
       "name": "Kitchener-Waterloo, ON",

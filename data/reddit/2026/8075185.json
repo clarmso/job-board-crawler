@@ -24,13 +24,13 @@
     {
       "id": 956352,
       "name": "Recruiting Start Date",
-      "value": "2026-07-20",
+      "value": "2026-10-01",
       "value_type": "date"
     },
     {
       "id": 944671,
       "name": "Target Hire Date",
-      "value": "2026-10-30",
+      "value": "2026-10-01",
       "value_type": "date"
     },
     {
@@ -101,7 +101,7 @@
     }
   ],
   "id": 8075185,
-  "updated_at": "2026-10-05T16:12:43-04:00",
+  "updated_at": "2026-10-06T20:15:19-04:00",
   "requisition_id": "R-105712",
   "title": "Group Product Manager, Finance Technology",
   "company_name": "Reddit",
@@ -113,23 +113,15 @@
     {
       "id": 49738,
       "name": "Finance & Accounting",
-      "child_ids": [
-        231588,
-        70565,
-        82537,
-        70564,
-        82539,
-        70582,
-        82538
-      ],
+      "child_ids": [],
       "parent_id": null
     }
   ],
   "offices": [
     {
-      "id": 88237,
-      "name": "Remote - United States",
-      "location": null,
+      "id": 10167,
+      "name": "San Francisco",
+      "location": "San Francisco, CA, United States",
       "child_ids": [],
       "parent_id": null
     }

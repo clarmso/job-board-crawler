@@ -1,0 +1,96 @@
+{
+  "absolute_url": "https://www.okta.com/company/careers/opportunity/8258803?gh_jid=8258803",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 3573615,
+  "location": {
+    "name": "Bengaluru, India"
+  },
+  "metadata": [
+    {
+      "id": 58735330,
+      "name": "Naukri Job URL",
+      "value": null,
+      "value_type": "long_text"
+    },
+    {
+      "id": 58735350,
+      "name": "Naukri Job Error",
+      "value": null,
+      "value_type": "long_text"
+    },
+    {
+      "id": 58735367,
+      "name": "Minimum Salary",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735368,
+      "name": "Maximum Salary",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735369,
+      "name": "Minimum Work Experience",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735370,
+      "name": "Maximum Work Experience",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735384,
+      "name": "City",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 58735385,
+      "name": "Job Description",
+      "value": null,
+      "value_type": "long_text"
+    }
+  ],
+  "id": 8258803,
+  "updated_at": "2026-10-07T01:50:03-04:00",
+  "requisition_id": "P17928_3573615",
+  "title": "Staff Software Engineer, Platform & Infrastructure",
+  "company_name": "Okta",
+  "first_published": "2026-10-07T01:50:03-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Secure Every Identity, from AI to Human&lt;br&gt;&lt;br&gt;&lt;/strong&gt;Identity is the key to unlocking the potential of AI. Okta secures AI by building the trusted, neutral infrastructure that enables organizations to safely embrace this new era. This work requires a relentless drive to solve complex challenges with real-world stakes. We are looking for builders and owners who operate with speed and urgency and execute with excellence.&lt;br&gt;&lt;br&gt;This is an opportunity to do career-defining work. We&#39;re all in on this mission. If you are too, let&#39;s talk.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Staff Software Engineer, Platform &amp;amp; Infrastructure&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;Tagline:&lt;/strong&gt; Build the engine that builds Okta.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;🚀 Your Mission: Define the Future of Developer Velocity at Okta&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Are you a software engineer who believes that an exceptional developer platform is the key to unlocking engineering-wide innovation? Are you obsessed with building the high-leverage tools, services, and automated infrastructure that make building, testing, and deploying software a seamless experience?&lt;/p&gt;\n&lt;p&gt;Okta&#39;s &lt;strong&gt;Platform &amp;amp; Infrastructure&lt;/strong&gt; team is the central nervous system for all of Okta Engineering. We build and own the entire internal developer platform—the CI/CD pipelines, the build-and-test orchestration, and the multi-cloud infrastructure that powers it all.&lt;/p&gt;\n&lt;p&gt;This isn&#39;t just about maintaining systems. It&#39;s about building a scalable, resilient, and blazing-fast &quot;paved road&quot; that empowers hundreds of engineers to ship high-quality code, multiple times a day.&lt;/p&gt;\n&lt;p&gt;Our scale is immense. We run &lt;strong&gt;tens of thousands of automated tests for every single commit&lt;/strong&gt;. As Okta grows, this CI/CD workload presents a monumental engineering challenge.&lt;/p&gt;\n&lt;p&gt;Your primary goal will be to attack this problem head-on. You will be a key builder&amp;nbsp; in our quest to shrink massive, distributed compute jobs &lt;strong&gt;from hours or days down to just minutes&lt;/strong&gt;. This role requires deep systems thinking, clever orchestration, and a passion for wringing every last drop of performance out of the infrastructure.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;💻 What You&#39;ll Do (The Impact)&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;As a Staff Engineer, you are a technical leader, architect, and hands-on builder. You will:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Architect &amp;amp; Build:&lt;/strong&gt; Design, code, and operate the next generation of our CI/CD platform, primarily using &lt;strong&gt;Go (Golang) and Python&lt;/strong&gt;.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Master Kubernetes:&lt;/strong&gt; Leverage your deep &lt;strong&gt;Kubernetes (K8s)&lt;/strong&gt; expertise to orchestrate our complex and ephemeral build, test, and deployment workflows at massive scale.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Own the Multi-Cloud:&lt;/strong&gt; Build services and automation that abstract and manage workloads &lt;strong&gt;extensively across AWS, GCP, and Azure&lt;/strong&gt;, optimizing for cost, speed, and reliability.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Build a Platform, Not Just Tools:&lt;/strong&gt; Create robust, self-service, and elegant internal products for our engineers. You&#39;ll treat our internal developers as your first-class customers.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Drive Innovation:&lt;/strong&gt; You will not just &lt;em&gt;use&lt;/em&gt; our build and CI systems, you will be responsible for &lt;em&gt;building and scaling&lt;/em&gt; them.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Mentor &amp;amp; Lead:&lt;/strong&gt; Collaborate with peers, mentor other engineers, and set the technical direction for major platform initiatives.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;✅ What You&#39;ll Bring (The Requirements)&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;We are looking for a seasoned engineer who has built and scaled internal platforms before.&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;5+ years of experience in Software Engineering&amp;nbsp;&lt;/strong&gt;&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Coding Skills:&lt;/strong&gt; You are a strong software engineer first, with proven experience building and maintaining complex systems in &lt;strong&gt;Go (Golang)&lt;/strong&gt; and/or &lt;strong&gt;Python&lt;/strong&gt;.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Kubernetes is a Must:&lt;/strong&gt; You have deep, practical experience building, running, and troubleshooting workloads on Kubernetes. You understand pods, operators, scheduling, and networking inside and out.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;CI/CD as a Platform:&lt;/strong&gt; You have architected, built, and/or significantly scaled CI/CD pipelines (e.g., Jenkins, GitLab, Tekton, ArgoCD) as a &lt;em&gt;platform&lt;/em&gt; for other engineers, not just as an end-user.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Cloud Expertise:&lt;/strong&gt; You have demonstrable experience working in major cloud providers (AWS, GCP, Azure) and understand the nuances of their core services.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;The Platform Ecosystem:&lt;/strong&gt; You&#39;re fluent in the tools of the trade: &lt;strong&gt;Docker&lt;/strong&gt;, container registries (like Artifactory), and modern build systems (like &lt;strong&gt;Gradle&lt;/strong&gt; or &lt;strong&gt;Bazel&lt;/strong&gt;).&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Platform Mindset:&lt;/strong&gt; You are customer-obsessed (your customers are other engineers) and have a proven ability to lead complex, cross-functional projects to completion.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Education:&lt;/strong&gt; B.S. in Computer Science, equivalent technical experience, or just a proven track record of shipping incredible systems.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;L1-Hybrid&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;P17928_3573615&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;The Okta Experience&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;a href=&quot;http://rewards.okta.com&quot;&gt;Supporting Your Well-Being&lt;/a&gt;&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;&lt;a href=&quot;https://www.okta.com/company/okta-for-good/&quot;&gt;Driving Social Impact&amp;nbsp;&lt;/a&gt;&lt;/li&gt;\n&lt;li&gt;&lt;a href=&quot;https://www.okta.com/company/talent-connection-community/&quot;&gt;Developing Talent and Fostering Connection + Community&lt;/a&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;We are intentional about connection. Our global community, spanning over 20 offices worldwide, is united by a drive to innovate. Your journey begins with an immersive, in-person onboarding experience designed to accelerate your impact and connect you to our mission and team from day one.&lt;br&gt;&lt;br&gt;Okta is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, marital status, age, physical or mental disability, or status as a protected veteran. We also consider for employment qualified applicants with arrest and convictions records, consistent with applicable laws.&lt;br&gt;&lt;br&gt;If reasonable accommodation is needed to complete any part of the job application, interview process, or onboarding please&amp;nbsp;&lt;a href=&quot;https://docs.google.com/forms/d/1EfiEYZrIyhA2X4Fijk0R3RKYOzNoS3wtvyM4nhbZnXE/edit&quot;&gt;use this Form&lt;/a&gt; to request an accommodation.&lt;br&gt;&lt;br&gt;Notice for New York City Applicants &amp;amp; Employees: Okta may use Automated Employment Decision Tools (AEDT), as defined by New York City Local Law 144, that use artificial intelligence, machine learning, or other automated processes to assist in our recruitment and hiring process. In accordance with NYC Local Law 144, if you are an applicant or employee residing in New York City, please&amp;nbsp;&lt;a href=&quot;https://talent.okta.com/new-york-city-aedt-notice.html&quot;&gt;click here&lt;/a&gt; to view our full NYC AEDT Notice.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 44029,
+      "name": "SW - Engineering Services-676",
+      "child_ids": [],
+      "parent_id": 396304
+    }
+  ],
+  "offices": [
+    {
+      "id": 89126,
+      "name": "Bengaluru ",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 89122
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

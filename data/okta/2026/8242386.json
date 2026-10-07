@@ -1,0 +1,96 @@
+{
+  "absolute_url": "https://www.okta.com/company/careers/opportunity/8242386?gh_jid=8242386",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 3566386,
+  "location": {
+    "name": "Bengaluru, India"
+  },
+  "metadata": [
+    {
+      "id": 58735330,
+      "name": "Naukri Job URL",
+      "value": null,
+      "value_type": "long_text"
+    },
+    {
+      "id": 58735350,
+      "name": "Naukri Job Error",
+      "value": null,
+      "value_type": "long_text"
+    },
+    {
+      "id": 58735367,
+      "name": "Minimum Salary",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735368,
+      "name": "Maximum Salary",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735369,
+      "name": "Minimum Work Experience",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735370,
+      "name": "Maximum Work Experience",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735384,
+      "name": "City",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 58735385,
+      "name": "Job Description",
+      "value": null,
+      "value_type": "long_text"
+    }
+  ],
+  "id": 8242386,
+  "updated_at": "2026-10-07T05:27:28-04:00",
+  "requisition_id": "P25952_3566386",
+  "title": "Staff Software Engineer - Advanced Threat Protection",
+  "company_name": "Okta",
+  "first_published": "2026-10-07T05:27:28-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Secure Every Identity, from AI to Human&lt;br&gt;&lt;br&gt;&lt;/strong&gt;Identity is the key to unlocking the potential of AI. Okta secures AI by building the trusted, neutral infrastructure that enables organizations to safely embrace this new era. This work requires a relentless drive to solve complex challenges with real-world stakes. We are looking for builders and owners who operate with speed and urgency and execute with excellence.&lt;br&gt;&lt;br&gt;This is an opportunity to do career-defining work. We&#39;re all in on this mission. If you are too, let&#39;s talk.&lt;/p&gt;&lt;/div&gt;&lt;h1&gt;Security Engineer, Customer Identity, Advanced Threat Protection&lt;/h1&gt;\n&lt;p&gt;&lt;strong&gt;Get to know Okta&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Okta is The World’s Identity Company. We free everyone to safely use any technology—anywhere, on any device or app. Our Workforce and Customer Identity Clouds enable secure yet flexible access, authentication, and automation that transforms how people move through the digital world, putting Identity at the heart of business security and growth.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;At Okta, we celebrate a variety of perspectives and experiences. We are not looking for someone who checks every single box - we’re looking for lifelong learners and people who can make us better with their unique experiences.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Join our team! We’re building a world where Identity belongs to you.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;The Role&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We seek a knowledgeable and research-focused Security Engineer to join a new Advanced Threat Protection team within Auth0 Customer Identity. This role does two things at once: it researches how attackers will use AI against identity systems, and it researches and builds how we use AI to defend our products, our infrastructure, and — most importantly — our customers&#39; tenants.&lt;/p&gt;\n&lt;p&gt;This role is a key member of the Security team embedded within the Customer Identity product unit and works across multiple functions to get ahead of emerging AI threats, supporting the growth of our global Customer Identity business.&lt;/p&gt;\n&lt;p&gt;We are an engineering-focused team that seeks to stay on the cutting edge of security technology and the threat landscape. In this role you won&#39;t just assess our current AI security offering — you&#39;ll research what we should be protecting customers from one to two years ahead, turn that research into concrete protections, and help put AI-assisted defenses into the hands of the teams and customers who protect their tenants.&lt;/p&gt;\n&lt;p&gt;In this role you will work as part of a globally distributed team of talented engineers who share a passion for security and enjoy solving complex problems at scale. This role works closely with and alongside the members of the broader Okta Security team in support of Okta&#39;s company-wide security strategy and &lt;a href=&quot;https://www.okta.com/blog/2024/02/introducing-the-okta-secure-identity-commitment/#:~:text=The%20Okta%20Secure%20Identity%20Commitment%20is%20our%20long%2Dterm%20plan,ensure%20they%20are%20best%20protected&quot;&gt;Okta’s Secure Identity Commitment&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;This is a level-agnostic description; scope, autonomy, and leadership expectations scale with level (Senior through Staff).&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Responsibilities:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Research and lead how we can use AI to protect customer tenants — both proactively (hardening posture before an attack) and during active incidents (accelerating detection, triage, and response)&amp;nbsp;&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Research and build protections against novel AI attacks that Auth0 and Auth0&#39;s customers can be subjected to — adversarial ML, prompt injection, abuse of agentic protocols (MCP, A2A, UCP, and emerging equivalents), model and data poisoning — as they apply to identity systems and customer tenants&lt;/li&gt;\n&lt;li&gt;Partner with the identity security teams to help customers strengthen their own tenant security posture through AI-assisted defenses&amp;nbsp;&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Research the emerging AI threat landscape and translate it into a forward-looking (12–24 month) view of what we need to protect ourselves and our customers from — then architect, recommend, and build the tooling to get there&amp;nbsp;&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Review and harden Auth0&#39;s AI security offering, identifying gaps and recommending mitigations before they&#39;re exploited&amp;nbsp;&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Partner across a globally distributed product-aligned team of security engineers to turn research into shipped protections for customer tenants&amp;nbsp;&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Establish and execute a long-term engineering and threat research roadmap for Advanced Threat Protection aligned with company-wide business and security goals.&lt;/li&gt;\n&lt;li&gt;Own high-impact security architecture designs and decisions across Auth0 and Okta Customer Identity infrastructure to support long-term threat resilience.&lt;/li&gt;\n&lt;li&gt;Drive cross-functional security strategies and partner across engineering, product, and enterprise security leadership across Okta to influence platform-wide standards and policies.&lt;/li&gt;\n&lt;li&gt;Actively coach, mentor, and level up Senior (P3) engineers and team members, fostering technical excellence, research discipline, and leadership growth.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;What this position is not:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Dedicated application security, code review, or compliance-focused work&amp;nbsp;&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Reactive patch and vulnerability management as a primary function — this role is about getting ahead of threats, not chasing them&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Requirements:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;You have hands-on experience with AI/ML security — attacking, defending, or both (e.g., adversarial ML, LLM/prompt-injection attacks, agentic-system or model abuse), and an interest in using AI to build defenses, not just to study attacks&amp;nbsp;&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;8+ years of experience in security engineering, with a proven track record of setting technical vision, driving cross-organizational initiatives, and leading architectural choices in cloud/product security.&lt;/li&gt;\n&lt;li&gt;Demonstrated experience mentoring senior-level engineers, defining multi-quarter technical strategy, driving architectural consensus, and influencing cross-organizational security initiatives.&amp;nbsp;&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;You have hands-on development experience — Go preferred — sufficient to prototype tooling, build AI-powered defenses, and operationalize your research&amp;nbsp;&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;You have working knowledge and hands-on experience with one or more of the following:&amp;nbsp;&amp;nbsp;&lt;/li&gt;\n&lt;ul&gt;\n&lt;li&gt;AWS and/or Azure security&amp;nbsp;&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Kubernetes&amp;nbsp;&amp;nbsp;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;li&gt;You have strong knowledge of OWASP (including the OWASP Top 10 for LLM Applications) and secure coding best practices&amp;nbsp;&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;You have a strong foundation in secure software development lifecycle best practices&amp;nbsp;&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;You have strong written and verbal communication skills, with the ability to turn research into clear guidance for engineering and product teams&amp;nbsp;&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;You have experience working with a globally distributed and remote team&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Bonus points if:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;You have published threat research, CVEs, or conference talks in AI/ML security or identity security&amp;nbsp;&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;You have built AI/ML-powered security tooling or defensive automation in a production environment&amp;nbsp;&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;You have working knowledge and experience with one or more of the following:&amp;nbsp;&amp;nbsp;&lt;/li&gt;\n&lt;ul&gt;\n&lt;li&gt;Adversarial ML, model red-teaming, or AI safety research&amp;nbsp;&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;The AI agent / MCP ecosystem and its security implications&amp;nbsp;&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Identity and access management&amp;nbsp;&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Full-stack engineering&amp;nbsp;&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Site reliability engineering&amp;nbsp;&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Vulnerability and threat management&amp;nbsp;&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Governance, risk and compliance&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/ul&gt;\n&lt;p&gt;#PID: P25952&lt;br&gt;#LI-Hybrid&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;The Okta Experience&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;a href=&quot;http://rewards.okta.com&quot;&gt;Supporting Your Well-Being&lt;/a&gt;&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;&lt;a href=&quot;https://www.okta.com/company/okta-for-good/&quot;&gt;Driving Social Impact&amp;nbsp;&lt;/a&gt;&lt;/li&gt;\n&lt;li&gt;&lt;a href=&quot;https://www.okta.com/company/talent-connection-community/&quot;&gt;Developing Talent and Fostering Connection + Community&lt;/a&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;We are intentional about connection. Our global community, spanning over 20 offices worldwide, is united by a drive to innovate. Your journey begins with an immersive, in-person onboarding experience designed to accelerate your impact and connect you to our mission and team from day one.&lt;br&gt;&lt;br&gt;Okta is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, marital status, age, physical or mental disability, or status as a protected veteran. We also consider for employment qualified applicants with arrest and convictions records, consistent with applicable laws.&lt;br&gt;&lt;br&gt;If reasonable accommodation is needed to complete any part of the job application, interview process, or onboarding please&amp;nbsp;&lt;a href=&quot;https://docs.google.com/forms/d/1EfiEYZrIyhA2X4Fijk0R3RKYOzNoS3wtvyM4nhbZnXE/edit&quot;&gt;use this Form&lt;/a&gt; to request an accommodation.&lt;br&gt;&lt;br&gt;Notice for New York City Applicants &amp;amp; Employees: Okta may use Automated Employment Decision Tools (AEDT), as defined by New York City Local Law 144, that use artificial intelligence, machine learning, or other automated processes to assist in our recruitment and hiring process. In accordance with NYC Local Law 144, if you are an applicant or employee residing in New York City, please&amp;nbsp;&lt;a href=&quot;https://talent.okta.com/new-york-city-aedt-notice.html&quot;&gt;click here&lt;/a&gt; to view our full NYC AEDT Notice.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 79377,
+      "name": "Security Engineering-695",
+      "child_ids": [],
+      "parent_id": 396304
+    }
+  ],
+  "offices": [
+    {
+      "id": 89126,
+      "name": "Bengaluru ",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 89122
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

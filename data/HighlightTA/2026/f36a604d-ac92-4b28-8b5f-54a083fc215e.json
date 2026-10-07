@@ -4,29 +4,18 @@
   "department": "Neon One",
   "team": "Neon One",
   "employmentType": "FullTime",
-  "location": "United States",
+  "location": "Canada",
   "shouldDisplayCompensationOnJobPostings": true,
-  "secondaryLocations": [
-    {
-      "location": "Canada",
-      "address": {
-        "postalAddress": {
-          "addressRegion": "",
-          "addressCountry": "Canada",
-          "addressLocality": ""
-        }
-      }
-    }
-  ],
+  "secondaryLocations": [],
   "publishedAt": "2026-09-24T17:10:31.508+00:00",
   "isListed": true,
   "isRemote": true,
   "workplaceType": "Remote",
   "address": {
     "postalAddress": {
-      "addressRegion": "United States",
-      "addressCountry": "United States",
-      "addressLocality": "United States"
+      "addressRegion": "",
+      "addressCountry": "Canada",
+      "addressLocality": ""
     }
   },
   "jobUrl": "https://jobs.ashbyhq.com/HighlightTA/f36a604d-ac92-4b28-8b5f-54a083fc215e",

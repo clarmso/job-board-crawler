@@ -38,20 +38,20 @@
             "maxValue": 139000
           },
           {
-            "id": "81f316d9-5577-4ad0-a9a1-aace4a56fdfa",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "6bdc91b1-4e12-4674-a468-2ad7bad37127",
             "summary": "Offers Bonus",
             "compensationType": "Bonus",
             "interval": "1 YEAR",
             "currencyCode": "EUR",
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "81f316d9-5577-4ad0-a9a1-aace4a56fdfa",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
             "minValue": null,
             "maxValue": null
           }
@@ -67,16 +67,16 @@
         "maxValue": 139000
       },
       {
-        "compensationType": "EquityPercentage",
-        "interval": "NONE",
-        "currencyCode": null,
+        "compensationType": "Bonus",
+        "interval": "1 YEAR",
+        "currencyCode": "EUR",
         "minValue": null,
         "maxValue": null
       },
       {
-        "compensationType": "Bonus",
-        "interval": "1 YEAR",
-        "currencyCode": "EUR",
+        "compensationType": "EquityPercentage",
+        "interval": "NONE",
+        "currencyCode": null,
         "minValue": null,
         "maxValue": null
       }

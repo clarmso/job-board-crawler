@@ -96,15 +96,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "fadb4b0a-a29c-44df-b81d-8e1ecf197e99",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "a8b5225f-6ff2-451d-b370-8d7c633ad6e1",
             "summary": "Base Salary CA$120,000 – CA$138,750",
             "compensationType": "Salary",
@@ -112,6 +103,15 @@
             "currencyCode": "CAD",
             "minValue": 120000,
             "maxValue": 138750
+          },
+          {
+            "id": "fadb4b0a-a29c-44df-b81d-8e1ecf197e99",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           }
         ]
       }

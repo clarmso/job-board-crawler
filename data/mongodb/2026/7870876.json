@@ -24,13 +24,13 @@
     {
       "id": 24918,
       "name": "Department ID",
-      "value": "D21010-Query",
+      "value": "D22104-Online Transaction Processing",
       "value_type": "single_select"
     },
     {
       "id": 22194061,
       "name": "Team",
-      "value": "T10061-North America",
+      "value": "T10509-Query Optimization",
       "value_type": "single_select"
     },
     {
@@ -74,21 +74,13 @@
     {
       "id": 5525802,
       "name": "Baseline Budgeted Salary",
-      "value": {
-        "unit": "USD",
-        "max_value": "225000.0",
-        "min_value": "157000.0"
-      },
+      "value": null,
       "value_type": "currency_range"
     },
     {
       "id": 5525816,
       "name": "Other Large Market Budgeted Salary",
-      "value": {
-        "unit": "USD",
-        "max_value": "191000.0",
-        "min_value": "134000.0"
-      },
+      "value": null,
       "value_type": "currency_range"
     },
     {
@@ -125,7 +117,7 @@
     }
   ],
   "id": 7870876,
-  "updated_at": "2026-10-05T19:30:53-04:00",
+  "updated_at": "2026-10-07T00:42:38-04:00",
   "requisition_id": "1273425622",
   "title": "Senior Software Engineer, Query Optimization",
   "company_name": "MongoDB",

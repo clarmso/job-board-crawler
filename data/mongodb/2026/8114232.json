@@ -1,0 +1,148 @@
+{
+  "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=8114232",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3514738,
+  "location": {
+    "name": "Mexico City"
+  },
+  "metadata": [
+    {
+      "id": 22194060,
+      "name": "Position ID",
+      "value": "10015528",
+      "value_type": "short_text"
+    },
+    {
+      "id": 24918,
+      "name": "Department ID",
+      "value": "D11100-Technical Support AMER",
+      "value_type": "single_select"
+    },
+    {
+      "id": 22194061,
+      "name": "Team",
+      "value": "T10354-Technical Services - Infrastructure",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4914027,
+      "name": "Region",
+      "value": "North America",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4137836,
+      "name": "Working Model Eligibility",
+      "value": [
+        "2-Flexible"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 4914029,
+      "name": "Job Level",
+      "value": "Professional - IC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24109,
+      "name": "Employment Type",
+      "value": "Full-time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 1073551,
+      "name": "Job Type",
+      "value": "Standard",
+      "value_type": "single_select"
+    },
+    {
+      "id": 988684,
+      "name": "JD Link",
+      "value": "https://docs.google.com/document/d/1ozbUGjTFcOC-qrAlD_Nn88RQNMQ8oYlhFn1aFvU0-EM/edit?tab=t.0",
+      "value_type": "url"
+    },
+    {
+      "id": 5525802,
+      "name": "Baseline Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 5525816,
+      "name": "Other Large Market Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 13324394,
+      "name": "Job Post Range (United States)",
+      "value": {
+        "unit": "MXN",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 40497768,
+      "name": "Job Post Range (Canada)",
+      "value": {
+        "unit": "MXN",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 57694516,
+      "name": "Job Post Range (Poland)",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 64002488,
+      "name": "Job Post Range (Italy)",
+      "value": null,
+      "value_type": "currency_range"
+    }
+  ],
+  "id": 8114232,
+  "updated_at": "2026-10-06T17:20:49-04:00",
+  "requisition_id": "3273514738",
+  "title": "Senior Technical Services Engineer",
+  "company_name": "MongoDB",
+  "first_published": "2026-10-06T17:20:49-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;We are building a new Technical Services capability in Mexico to support a platform that helps customers build, deploy, and operate AI applications using MongoDB. This is an early hire on a growing team, and you will have the opportunity to help shape how we support customers, collaborate with Engineering and Product, and build the team’s technical practices from the start.&lt;/p&gt;\n&lt;p&gt;The platform brings together AI application workflows, orchestration, model and tool integrations, cloud infrastructure, data services, and observability. The support team will work across these layers to help customers troubleshoot complex issues and operate their applications successfully.&lt;/p&gt;\n&lt;p&gt;We are looking to speak to candidates based in Mexico City for our hybrid working model.&lt;/p&gt;\n&lt;h3&gt;The role&lt;/h3&gt;\n&lt;p&gt;As a Senior Technical Services Engineer, you will provide technical leadership for customers operating AI applications on a new MongoDB platform. You will own complex investigations across application behavior, agent workflows, APIs, cloud infrastructure, security, and data services, and help shape how Technical Services supports the platform as it scales.&lt;/p&gt;\n&lt;p&gt;This is a senior individual contributor role where you lead through technical judgment, customer ownership, written communication, and influence across teams.&lt;/p&gt;\n&lt;h3&gt;What you’ll do&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Owning complex and high-impact customer investigations involving AI applications and agentic workflows&lt;/li&gt;\n&lt;li&gt;Leading structured investigations, root-cause analysis, and recovery efforts across multiple technical layers&lt;/li&gt;\n&lt;li&gt;Leading investigations into agent workflows, tool calls, model-provider integrations, memory, checkpoints, streaming, retries, and timeouts&lt;/li&gt;\n&lt;li&gt;Reading and debugging Go, Typescript, Python services and agent implementations; using logs, metrics, traces, and diagnostic tooling to develop evidence-based conclusions&lt;/li&gt;\n&lt;li&gt;Troubleshoot Kubernetes and containerized workloads, including deployments, images, secrets, resource failures, and networking&lt;/li&gt;\n&lt;li&gt;Serving as a technical subject-matter expert for AI application support and related distributed-system issues&lt;/li&gt;\n&lt;li&gt;Creating and improving troubleshooting methodologies, knowledge articles, diagnostic scripts, and reusable runbooks&lt;/li&gt;\n&lt;li&gt;Mentoring and coaching engineers in AI fundamentals, cloud-native operations, customer communication, and troubleshooting methodology&lt;/li&gt;\n&lt;li&gt;Partnering with Engineering, Product, Security, and other Technical Services teams to communicate customer impact and influence product improvements&lt;/li&gt;\n&lt;li&gt;Reviewing recurring issues and identifying opportunities to improve support processes, tooling, and customer self-service&lt;/li&gt;\n&lt;li&gt;Contributing to the broader MongoDB database and cloud support cases when needed&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Experience level&lt;/h3&gt;\n&lt;p&gt;Typically 8+ years of relevant technical experience, including significant experience troubleshooting production systems, supporting complex customers, or leading technical escalations. Equivalent demonstrated expertise will also be considered.&lt;/p&gt;\n&lt;h3&gt;What you’ll bring&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;AI and agent platforms: Hands-on experience building or troubleshooting agentic AI applications, including LangGraph, A2A, MCP, tool calling, model-provider integrations, memory, checkpoints, streaming, and human-in-the-loop workflows&lt;/li&gt;\n&lt;li&gt;Programming and systems troubleshooting: Ability to read and debug Go, TypeScript, and Python services, SDKs, and agent workflows, including asynchronous execution, HTTP clients, retries, and timeouts&lt;/li&gt;\n&lt;li&gt;Cloud-native platforms: Experience with Docker and Kubernetes, including deployments, containers, networking, secrets, resource management, and deployment troubleshooting&lt;/li&gt;\n&lt;li&gt;API, identity, and security: Familiarity with REST/JSON APIs, streaming protocols, API keys, OAuth/JWT, RBAC, and service accounts&lt;/li&gt;\n&lt;li&gt;Observability and incident response: Experience using metrics, events, logs, traces, error monitoring, and alerting to diagnose production issues&lt;/li&gt;\n&lt;li&gt;Distributed-systems troubleshooting: Experience investigating issues across application, platform, and data layers, communicating clearly with customers, and driving problems through resolution&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Bonus Points&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience with MongoDB, MongoDB Atlas, Atlas Vector Search, Voyage AI or another distributed database&lt;/li&gt;\n&lt;li&gt;Experience using any cloud services stack such as AWS, Azure or GCP&lt;/li&gt;\n&lt;li&gt;Experience with Control/Data-plane architecture services&lt;/li&gt;\n&lt;li&gt;Experience with Terraform, GitHub Actions, CodeBuild, or other CI/CD systems&lt;/li&gt;\n&lt;li&gt;Experience with Helm, operators, container registries, or advanced Kubernetes networking&lt;/li&gt;\n&lt;li&gt;Broad awareness of customer workloads and use cases, including performance, availability, and scalability&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;How you work&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Customer-centered problem solving: You have a genuine desire to help people and are motivated by achieving successful customer outcomes&lt;/li&gt;\n&lt;li&gt;Calm, structured judgment: You can think on your feet, remain calm under pressure, form hypotheses, use evidence, and solve problems in real time&lt;/li&gt;\n&lt;li&gt;Learning agility: You rapidly build expertise across new technologies, especially AI platforms, distributed systems, and cloud infrastructure&lt;/li&gt;\n&lt;li&gt;Collaborative ownership: You know when to work independently, when to seek help, and how to provide others with the context needed to move an issue forward&lt;/li&gt;\n&lt;li&gt;Clear communication: You can explain complex technical issues clearly to customers, engineers, and cross-functional partners&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;About MongoDB&lt;/h3&gt;\n&lt;p&gt;MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure.&lt;/p&gt;\n&lt;p&gt;With offices worldwide and over 67,000 customers, including AI-native startups and approximately 75% of the Fortune 100, relying on MongoDB for their most important applications, we’re powering the next era of software.&lt;/p&gt;\n&lt;p&gt;Our compass at MongoDB is our &lt;a href=&quot;https://www.mongodb.com/company&quot;&gt;Leadership Commitment,&lt;/a&gt; guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. &lt;a href=&quot;https://www.mongodb.com/company/blog/culture/employee-benefits-that-make-a-difference-at-mongodb&quot;&gt;From employee affinity groups, to fertility assistance and a generous parental leave policy&lt;/a&gt;, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys.&lt;a href=&quot;https://www.mongodb.com/blog/channel/culture&quot;&gt; Learn more about what it’s like to work at MongoDB&lt;/a&gt;, and help us make an impact on the world!&lt;/p&gt;\n&lt;p&gt;MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.&lt;/p&gt;\n&lt;p&gt;MongoDB is an equal opportunities employer.&lt;/p&gt;\n&lt;p&gt;REQ. ID: 3273514738&lt;/p&gt;",
+  "departments": [
+    {
+      "id": 38814,
+      "name": "Technical Support AMER",
+      "child_ids": [],
+      "parent_id": 268135
+    }
+  ],
+  "offices": [
+    {
+      "id": 13025,
+      "name": "Mexico City",
+      "location": "Mexico City, Mexico",
+      "child_ids": [],
+      "parent_id": 23657
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": null
+}

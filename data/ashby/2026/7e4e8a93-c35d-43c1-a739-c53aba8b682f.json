@@ -269,6 +269,15 @@
         "additionalInformation": null,
         "components": [
           {
+            "id": "3e5c3612-16da-44ab-bf1c-a6ff4635ebf2",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
+          },
+          {
             "id": "cc66e1d8-b50b-4caf-8133-3f6aa1ecf0e7",
             "summary": "OTE £202.5K – £230K",
             "compensationType": "Salary",
@@ -283,15 +292,6 @@
             "compensationType": "Commission",
             "interval": "1 YEAR",
             "currencyCode": "GBP",
-            "minValue": null,
-            "maxValue": null
-          },
-          {
-            "id": "3e5c3612-16da-44ab-bf1c-a6ff4635ebf2",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
             "minValue": null,
             "maxValue": null
           }

@@ -18,7 +18,7 @@
     {
       "id": 9740521002,
       "name": "Company Assignment",
-      "value": "Databricks, Inc.",
+      "value": "Databricks Canada ULC",
       "value_type": "single_select"
     },
     {
@@ -31,7 +31,7 @@
     }
   ],
   "id": 8735557002,
-  "updated_at": "2026-09-30T19:09:42-04:00",
+  "updated_at": "2026-10-06T21:14:25-04:00",
   "requisition_id": "CSQ427R305",
   "title": "Delivery Solutions Architect",
   "company_name": "Databricks",
@@ -49,11 +49,14 @@
   ],
   "offices": [
     {
-      "id": 4056363002,
-      "name": "Remote - California",
-      "location": "Remote - California",
-      "child_ids": [],
-      "parent_id": 4033534002
+      "id": 4033854002,
+      "name": "Ontario, Canada",
+      "location": "Ontario, Canada",
+      "child_ids": [
+        4056724002,
+        4013297002
+      ],
+      "parent_id": 4002841002
     }
   ],
   "ai_disclaimer": null,

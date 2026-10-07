@@ -152,15 +152,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "d40f5b0d-be80-4d82-be7d-1d0a2aa14003",
-            "summary": "South Korea ₩122,500,000 – ₩172,720,000",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "KRW",
-            "minValue": 122500000,
-            "maxValue": 172720000
-          },
-          {
             "id": "60ca29f4-8a47-4817-a1e0-4b73312b6f61",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
@@ -168,6 +159,15 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "d40f5b0d-be80-4d82-be7d-1d0a2aa14003",
+            "summary": "South Korea ₩122,500,000 – ₩172,720,000",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "KRW",
+            "minValue": 122500000,
+            "maxValue": 172720000
           }
         ]
       },
