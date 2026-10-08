@@ -1,0 +1,94 @@
+{
+  "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=8261532&gh_jid=8261532",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "education": "education_optional",
+  "internal_job_id": 3552488,
+  "location": {
+    "name": "Spain"
+  },
+  "metadata": [
+    {
+      "id": 32131013,
+      "name": "Requisition open date",
+      "value": "2026-09-16",
+      "value_type": "date"
+    },
+    {
+      "id": 168141,
+      "name": "Target Remote Countries / States Locations [For Job Wrapping]",
+      "value": [
+        "Canada",
+        "Greece",
+        "Norway",
+        "Poland",
+        "Portugal",
+        "Spain"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 33574685,
+      "name": "Types of Hiring",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 20164553,
+      "name": "FADV_Account",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 20164588,
+      "name": "FADV_Package",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 30595384,
+      "name": "Seniority",
+      "value": "Mid-Senior Level",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8261532,
+  "updated_at": "2026-10-07T11:19:56-04:00",
+  "requisition_id": "R12377",
+  "title": "Senior Software Engineer - Security Integrations - Prompt Engineering",
+  "company_name": "Elastic",
+  "first_published": "2026-10-07T11:19:56-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Elastic, the Search AI Company, enables everyone to find the answers they need in real time, using all their data, at scale — unleashing the potential of businesses and people. The Elastic Search AI Platform, used by more than 50% of the Fortune 500, brings together the precision of search and the intelligence of AI to enable everyone to accelerate the results that matter. By taking advantage of all structured and unstructured data — securing and protecting private information more effectively — Elastic’s complete, cloud-based solutions for search, security, and observability help organizations deliver on the promise of AI.&lt;/p&gt;&lt;/div&gt;&lt;h3&gt;&lt;strong&gt;What is The Role&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;We are looking for a Senior Software Engineer to join the Integrations Platform team and build the tools that make engineers&#39; lives easier, both when they&#39;re building integrations and when they&#39;re pulling data together to actually make sense of it. This role is about developer experience: understanding what developers actually struggle with day to day, and building tools that remove that friction so they can move faster and get more done.&lt;/p&gt;\n&lt;p&gt;The Integrations Platform team owns the tooling that supports how integrations get built, deployed, and understood. That includes infrastructure and deployment tooling built on Terraform, telemetry pipelines running through BigQuery, and the AI-driven tools and evaluations we use to interpret that data and turn it into something people can actually act on. You&#39;ll build and maintain these tools, listen closely to the engineers who rely on them, and take ownership of projects that span infrastructure, telemetry, and AI-assisted data interpretation, from first idea to shipped result.&lt;/p&gt;\n&lt;p&gt;This is fast-moving, often ambiguous work. We are looking for someone who is comfortable operating without a fixed spec, listens thoughtfully, and collaborates well across teams. You should drive effectively toward outcomes while supporting your teammates, bring clear ideas on what should be built, care about the developers using your tools, and feel equally comfortable working independently or alongside product teams and partners.&lt;/p&gt;\n&lt;p&gt;Prior experience with the Elastic product suite isn&#39;t required, but it helps.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;What you will be doing:&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Lead green-field initiatives that shape the future of the developer experience for building and maintaining Security Integrations&lt;/li&gt;\n&lt;li&gt;Architect and drive the tooling and automation strategy, leveraging Gen AI to solve problems at scale rather than one-off fixes&lt;/li&gt;\n&lt;li&gt;Set a collaborative tone for the team by fostering open communication, mutual respect, and thoughtful decision-making, while mentoring engineers along the way&lt;/li&gt;\n&lt;li&gt;Represent the team in the open, working closely with Security and Ingest teams, Elastic users, and the broader open source community to shape direction and build trust&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;What you bring:&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience building and running evals for AI systems at scale, with a strong sense of measuring output quality and catching regressions&lt;/li&gt;\n&lt;li&gt;Strong proficiency in Python and Go, with hands-on Terraform for infrastructure and deployment, and BigQuery for telemetry and data analysis&lt;/li&gt;\n&lt;li&gt;Proven ability to run projects end to end with autonomy, alongside the judgment to bring others along and seek input when needed&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Bonus Points:&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Production experience with the general Elastic ingest model&lt;/li&gt;\n&lt;li&gt;Experience in cybersecurity&lt;/li&gt;\n&lt;li&gt;Experience parsing logs and events, ideally with exposure to OpenTelemetry, ECS, or OCSF in a security or observability context&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Compensation for this role is in the form of base salary.&amp;nbsp; This role does not have a variable compensation component.&amp;nbsp;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;At Elastic, our compensation philosophy aims to provide fair, competitive and transparent remuneration. Salary ranges are established based on a combination of external market benchmarks, internal pay equity considerations, and the responsibilities and complexity associated with each role. This approach helps ensure consistency across comparable roles while remaining competitive within the relevant labour markets.&lt;/p&gt;\n&lt;p&gt;The final compensation offered within the applicable range will be determined based on several objective factors, including relevant professional experience, level of skills and expertise, alignment with the role requirements, and the overall scope and complexity of the position.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;The typical starting salary range for this role is:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;€67.000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;€106.000 EUR&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;Additional Information - We Take Care of Our People&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;As a distributed company, diversity drives our identity. Whether you’re looking to launch a new career or grow an existing one, Elastic is the type of company where you can balance great work with great life. Your age is only a number. It doesn’t matter if you’re just out of college or your children are; we need you for what you can do.&lt;/p&gt;\n&lt;p&gt;We strive to have parity of benefits across regions and while regulations differ from place to place, we believe taking care of our people is the right thing to do.&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Competitive pay based on the work you do here and not your previous salary&lt;/li&gt;\n&lt;li&gt;Health coverage for you and your family in many locations&lt;/li&gt;\n&lt;li&gt;Ability to craft your calendar with flexible locations and schedules for many roles&lt;/li&gt;\n&lt;li&gt;Generous number of vacation days each year&lt;/li&gt;\n&lt;li&gt;Increase your impact - We match up to $2000 (or local currency equivalent) for financial donations and service&lt;/li&gt;\n&lt;li&gt;Up to 40 hours each year to use toward volunteer projects you love&lt;/li&gt;\n&lt;li&gt;Embracing parenthood with minimum of 16 weeks of parental leave&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Different people approach problems differently. We need that. Elastic is an equal opportunity employer and is committed to creating an inclusive culture that celebrates different perspectives, experiences, and backgrounds. Qualified applicants will receive consideration for employment without regard to race, ethnicity, color, religion, sex, pregnancy, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, disability status, or any other basis protected by federal, state or local law, ordinance or regulation.&lt;/p&gt;\n&lt;p&gt;We welcome individuals with disabilities and strive to create an accessible and inclusive experience for all individuals. To request an accommodation during the application or the recruiting process, please email &lt;a href=&quot;mailto:candidate_accessibility@elastic.co&quot; target=&quot;_blank&quot;&gt;candidate_accessibility@elastic.co&lt;/a&gt;&lt;span class=&quot;gmail_default&quot;&gt;.&lt;/span&gt;&amp;nbsp;We will reply to your request within 24 business hours of submission.&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Applicants have rights under Federal Employment Laws, view posters linked below:&lt;/span&gt; &lt;a href=&quot;https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/fmlaen.pdf&quot; target=&quot;_blank&quot;&gt;Family and Medical Leave Act (FMLA)&lt;/a&gt; &lt;span style=&quot;color: #000000;&quot;&gt;Poster;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&amp;nbsp;&lt;a href=&quot;https://www.dol.gov/sites/dolgov/files/ofccp/pdf/pay-transp_%20English_formattedESQA508c.pdf&quot; target=&quot;_blank&quot;&gt;Pay Transparency Nondiscrimination Provision&lt;/a&gt; Poster; &lt;/span&gt;&lt;a href=&quot;https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/eppabw.pdf&quot; target=&quot;_blank&quot;&gt;Employee Polygraph Protection Act (EPPA)&lt;/a&gt; &lt;span style=&quot;color: #000000;&quot;&gt;Poster and &lt;a href=&quot;https://www.dol.gov/sites/dolgov/files/OFCCP/regs/compliance/posters/pdf/22-088_EEOC_KnowYourRights.pdf&quot; target=&quot;_blank&quot;&gt;Know Your Rights&lt;/a&gt; (Poster)&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Elasticsearch develops and distributes technology and information that is subject to U.S. and other countries’ export controls and licensing requirements for individuals who are located in or are nationals of the following sanctioned countries and regions: Belarus, Cuba, Iran, North Korea, Syria, or Russia, including the Ukrainian territories annexed by Russia (The Crimea region of Ukraine, The Donetsk People&#39;s Republic (DNR), The Luhansk People&#39;s Republic (LNR), Kherson or Zaporizhzhia). If you are located in or are a national of one of the listed countries or regions, an export license may be required as a condition of your employment in this role. Please note that national origin and/or nationality do not affect eligibility for employment with Elastic.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;Please see&amp;nbsp;&lt;a href=&quot;https://www.elastic.co/legal/applicant-privacy-statement&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://www.elastic.co/legal/applicant-privacy-statement&amp;amp;source=gmail&amp;amp;ust=1611068262479000&amp;amp;usg=AFQjCNG3orAPk5sJIr9WVm0ZDxYw82c5DA&quot;&gt;here&lt;/a&gt;&amp;nbsp;for our Privacy Statement.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 69093,
+      "name": "Security - Integrations",
+      "child_ids": [],
+      "parent_id": 69101
+    }
+  ],
+  "offices": [
+    {
+      "id": 79985,
+      "name": "Canada",
+      "location": null,
+      "child_ids": [
+        57134
+      ],
+      "parent_id": 79984
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

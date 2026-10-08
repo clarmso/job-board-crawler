@@ -1,0 +1,146 @@
+{
+  "id": "744000154129500",
+  "name": "Senior Analytics Engineering Manager - Send Experience Pod ",
+  "uuid": "54298b30-aa5b-4468-9e1d-996048b90060",
+  "jobAdId": "4bce12d2-1550-4a0d-97f1-aa55b8f73f69",
+  "defaultJobAd": true,
+  "refNumber": "R11123",
+  "company": {
+    "identifier": "Wise",
+    "name": "Wise"
+  },
+  "releasedDate": "2026-10-07T14:57:46.643Z",
+  "location": {
+    "city": "London",
+    "region": "England",
+    "country": "gb",
+    "address": "65 Clifton Street",
+    "postalCode": "EC2A 4JE",
+    "remote": false,
+    "hybrid": true,
+    "hybridDescription": "£ days a week in the Office",
+    "latitude": "51.5223964",
+    "longitude": "-0.08359899999999999",
+    "fullLocation": "London, England, United Kingdom"
+  },
+  "industry": {
+    "id": "financial_services",
+    "label": "Financial Services"
+  },
+  "department": {},
+  "function": {
+    "id": "analyst",
+    "label": "Analyst"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "customField": [
+    {
+      "fieldId": "65d3d0e0d37044292ef9549b",
+      "fieldLabel": "Job Profile",
+      "valueId": "031d60c1f3b201a7a59e2cc79501f509",
+      "valueLabel": "Analyst Lead 2 - JP100425"
+    },
+    {
+      "fieldId": "65cea5ac287e8d0651481809",
+      "fieldLabel": "Time Type",
+      "valueId": "d2f4dafccd5101059b6cf09e12278400",
+      "valueLabel": "Full time"
+    },
+    {
+      "fieldId": "65d3d06b2865b46cfa4f0ec3",
+      "fieldLabel": "Worker Sub Type",
+      "valueId": "046034784a4d016f1889ba8863278f0d",
+      "valueLabel": "Permanent"
+    },
+    {
+      "fieldId": "65d3d141c86c2f3257de414c",
+      "fieldLabel": "Cost Center Hierarchy",
+      "valueId": "6d8f1bd75a70018bf711a731c712ad1c",
+      "valueLabel": "Product"
+    },
+    {
+      "fieldId": "65d3d1796435ba43bdb089ad",
+      "fieldLabel": "Squad",
+      "valueId": "c23f18fabbcf1001b62c5b30baab0001",
+      "valueLabel": "Send (Squad)"
+    },
+    {
+      "fieldId": "658553f79a81b00900831a80",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Wise"
+    },
+    {
+      "fieldId": "65d3d0374c34974b271801f9",
+      "fieldLabel": "Management Level",
+      "valueId": "e82698b941950169671e99d5f100d710",
+      "valueLabel": "6"
+    },
+    {
+      "fieldId": "65d3d16de5ae4c7be012a87e",
+      "fieldLabel": "Tribe",
+      "valueId": "2508138664ba1001b4eeef7e41fa0000",
+      "valueLabel": "Global Product (Tribe)"
+    },
+    {
+      "fieldId": "65d3d151a5d3185b4341a7ab",
+      "fieldLabel": "Cost Center",
+      "valueId": "6d8f1bd75a70019ffe01a132c712981d",
+      "valueLabel": "Product Analysts"
+    },
+    {
+      "fieldId": "65d3d0a7d37044292ef9549a",
+      "fieldLabel": "Job Family",
+      "valueId": "e380f86fa0b2014f17894886bc001600",
+      "valueLabel": "Analytics - General"
+    },
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "gb",
+      "valueLabel": "United Kingdom"
+    },
+    {
+      "fieldId": "65d3d05c735007771b14e932",
+      "fieldLabel": "Worker Type",
+      "valueId": "EE",
+      "valueLabel": "Wiser"
+    },
+    {
+      "fieldId": "65d3d0926435ba43bdb089ac",
+      "fieldLabel": "Job Family Group",
+      "valueId": "cf8ed98297e201f1fb5fc5e3b9006c14",
+      "valueLabel": "Analytics"
+    },
+    {
+      "fieldId": "65cec407735007771b14e92d",
+      "fieldLabel": "Company",
+      "valueId": "046034784a4d01f4134f114764273117",
+      "valueLabel": "Wise Payments Limited"
+    },
+    {
+      "fieldId": "65d90823f2e6436af25814c2",
+      "fieldLabel": "Job Ad Salary Range",
+      "valueLabel": "105000 - 150000 GBP Annual"
+    },
+    {
+      "fieldId": "65d9080b4aa2f46927dfc1f3",
+      "fieldLabel": "WD Target Hire Date",
+      "valueLabel": "2026-12-31"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/wise/postings/744000154129500",
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

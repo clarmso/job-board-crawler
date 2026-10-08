@@ -1,0 +1,80 @@
+{
+  "id": "744000154118269",
+  "name": "Financial Accountant",
+  "uuid": "7ee56e23-08f3-4422-beb6-631bd713bd8b",
+  "jobAdId": "3ace81b3-8325-4826-9052-20184109ef66",
+  "defaultJobAd": true,
+  "refNumber": "REF3782X",
+  "company": {
+    "identifier": "AristaNetworks",
+    "name": "Arista Networks"
+  },
+  "releasedDate": "2026-10-07T14:15:05.968Z",
+  "location": {
+    "city": "Shannon Airport",
+    "region": "CE",
+    "country": "ie",
+    "remote": false,
+    "hybrid": true,
+    "hybridDescription": "",
+    "latitude": "52.69063999999999",
+    "longitude": "-8.91708",
+    "fullLocation": "Shannon Airport, CE, Ireland"
+  },
+  "industry": {
+    "id": "computer_networking",
+    "label": "Computer Networking"
+  },
+  "department": {
+    "id": "1650367",
+    "label": "Finance"
+  },
+  "function": {
+    "id": "information_technology",
+    "label": "Information Technology"
+  },
+  "typeOfEmployment": {
+    "id": "contract",
+    "label": "Contract"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "ie",
+      "valueLabel": "Ireland"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e1",
+      "fieldLabel": "Department",
+      "valueId": "1650367",
+      "valueLabel": "Finance"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e0",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Arista Networks"
+    },
+    {
+      "fieldId": "62a7845974fe2c08874d5452",
+      "fieldLabel": "Role",
+      "valueId": "4e150511-63af-4e42-850a-47ad805607cc",
+      "valueLabel": "Senior"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000154118269",
+  "creator": {
+    "name": "Emer OKelly"
+  },
+  "language": {
+    "code": "en-GB",
+    "label": "English (UK)",
+    "labelNative": "English (UK)"
+  }
+}

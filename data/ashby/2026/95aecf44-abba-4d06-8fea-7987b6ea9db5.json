@@ -126,15 +126,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "831e39ec-b737-41e5-8954-e5f2e5d8fd8f",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "e307d324-f2a8-4baf-9fac-17180cb3d0ff",
             "summary": "₱2,415,000 – ₱3,722,000",
             "compensationType": "Salary",
@@ -142,6 +133,15 @@
             "currencyCode": "PHP",
             "minValue": 2415000,
             "maxValue": 3722000
+          },
+          {
+            "id": "831e39ec-b737-41e5-8954-e5f2e5d8fd8f",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           }
         ]
       },
@@ -152,15 +152,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "4fb3a7a8-c862-4eb2-8548-d482ab3cd7bd",
-            "summary": "¥14,395,500 – ¥18,724,000",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "JPY",
-            "minValue": 14395500,
-            "maxValue": 18724000
-          },
-          {
             "id": "c7e14ac7-d97f-4f57-80a0-cfe1590b362d",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
@@ -168,6 +159,15 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "4fb3a7a8-c862-4eb2-8548-d482ab3cd7bd",
+            "summary": "¥14,395,500 – ¥18,724,000",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "JPY",
+            "minValue": 14395500,
+            "maxValue": 18724000
           }
         ]
       },

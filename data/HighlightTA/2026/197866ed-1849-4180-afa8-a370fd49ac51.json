@@ -33,15 +33,6 @@
         "additionalInformation": "+ 2,000 options + 20% Variable",
         "components": [
           {
-            "id": "132adc98-4051-4ec1-a7b2-eb6ddd195297",
-            "summary": "£28,880 – £36,100",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "GBP",
-            "minValue": 28880,
-            "maxValue": 36100
-          },
-          {
             "id": "8af88318-1ebe-4a85-8f6e-834b0efd156d",
             "summary": "Offers Commission",
             "compensationType": "Commission",
@@ -49,24 +40,33 @@
             "currencyCode": "GBP",
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "132adc98-4051-4ec1-a7b2-eb6ddd195297",
+            "summary": "£28,880 – £36,100",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "GBP",
+            "minValue": 28880,
+            "maxValue": 36100
           }
         ]
       }
     ],
     "summaryComponents": [
       {
-        "compensationType": "Salary",
-        "interval": "1 YEAR",
-        "currencyCode": "GBP",
-        "minValue": 28880,
-        "maxValue": 36100
-      },
-      {
         "compensationType": "Commission",
         "interval": "1 YEAR",
         "currencyCode": "GBP",
         "minValue": null,
         "maxValue": null
+      },
+      {
+        "compensationType": "Salary",
+        "interval": "1 YEAR",
+        "currencyCode": "GBP",
+        "minValue": 28880,
+        "maxValue": 36100
       }
     ]
   }

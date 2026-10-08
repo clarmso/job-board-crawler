@@ -1,0 +1,79 @@
+{
+  "id": "744000154388529",
+  "name": "Contracts Lead ",
+  "uuid": "1d5c6fdc-06db-4415-aec4-dcfd172b9157",
+  "jobAdId": "812285eb-00b2-4fd9-a11d-ba3ca2304fa2",
+  "defaultJobAd": true,
+  "refNumber": "REF3784T",
+  "company": {
+    "identifier": "AristaNetworks",
+    "name": "Arista Networks"
+  },
+  "releasedDate": "2026-10-08T09:29:33.306Z",
+  "location": {
+    "city": "Bengaluru",
+    "region": "KA",
+    "country": "in",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "12.9628957",
+    "longitude": "77.57754",
+    "fullLocation": "Bengaluru, KA, India"
+  },
+  "industry": {
+    "id": "computer_networking",
+    "label": "Computer Networking"
+  },
+  "department": {
+    "id": "1392035",
+    "label": "Legal"
+  },
+  "function": {
+    "id": "legal",
+    "label": "Legal"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "in",
+      "valueLabel": "India"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e1",
+      "fieldLabel": "Department",
+      "valueId": "1392035",
+      "valueLabel": "Legal"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e0",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Arista Networks"
+    },
+    {
+      "fieldId": "62a7845974fe2c08874d5452",
+      "fieldLabel": "Role",
+      "valueId": "4e150511-63af-4e42-850a-47ad805607cc",
+      "valueLabel": "Senior"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000154388529",
+  "creator": {
+    "name": "Isha Anand"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

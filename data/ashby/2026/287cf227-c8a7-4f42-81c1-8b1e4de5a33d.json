@@ -179,6 +179,15 @@
         "additionalInformation": null,
         "components": [
           {
+            "id": "63b4436b-deb2-4cc3-807c-30409ac8290e",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
+          },
+          {
             "id": "d154749f-57b8-4c9a-8c49-5c550495d453",
             "summary": "Offers Commission",
             "compensationType": "Commission",
@@ -195,15 +204,6 @@
             "currencyCode": "EUR",
             "minValue": 110000,
             "maxValue": 149500
-          },
-          {
-            "id": "63b4436b-deb2-4cc3-807c-30409ac8290e",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
           }
         ]
       },

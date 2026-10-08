@@ -43,7 +43,7 @@
       "id": 4137836,
       "name": "Working Model Eligibility",
       "value": [
-        "2-Flexible"
+        "3-Fully Remote"
       ],
       "value_type": "multi_select"
     },
@@ -80,11 +80,7 @@
     {
       "id": 5525816,
       "name": "Other Large Market Budgeted Salary",
-      "value": {
-        "unit": "USD",
-        "max_value": "201000.0",
-        "min_value": "141000.0"
-      },
+      "value": null,
       "value_type": "currency_range"
     },
     {
@@ -121,7 +117,7 @@
     }
   ],
   "id": 8053153,
-  "updated_at": "2026-10-05T19:30:53-04:00",
+  "updated_at": "2026-10-07T13:20:19-04:00",
   "requisition_id": "2273490298",
   "title": "Manager, Technical Services",
   "company_name": "MongoDB",
@@ -139,9 +135,9 @@
   ],
   "offices": [
     {
-      "id": 3964,
-      "name": "Austin",
-      "location": "Austin, TX, United States",
+      "id": 95825,
+      "name": "Remote New York",
+      "location": "New York, United States",
       "child_ids": [],
       "parent_id": 23657
     }

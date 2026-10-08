@@ -12,7 +12,7 @@
   ],
   "internal_job_id": 3551023,
   "location": {
-    "name": "Chicago, Illinois; New York, New York; Washington, DC"
+    "name": "Chicago, Illinois; New York, New York; Toronto, Ontario, Canada; Washington, DC"
   },
   "metadata": [
     {
@@ -65,7 +65,7 @@
     }
   ],
   "id": 8204750,
-  "updated_at": "2026-09-21T12:43:00-04:00",
+  "updated_at": "2026-10-07T13:52:21-04:00",
   "requisition_id": "P25702_3551023",
   "title": "Senior Product Acceleration Specialist - Auth0",
   "company_name": "Okta",
@@ -95,6 +95,13 @@
       "location": "New York, New York, United States",
       "child_ids": [],
       "parent_id": 67252
+    },
+    {
+      "id": 19614,
+      "name": "Toronto",
+      "location": "Toronto, ON, Canada",
+      "child_ids": [],
+      "parent_id": 67251
     },
     {
       "id": 22604,

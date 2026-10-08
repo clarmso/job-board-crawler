@@ -1,0 +1,96 @@
+{
+  "absolute_url": "https://www.okta.com/company/careers/opportunity/8110447?gh_jid=8110447",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 3513316,
+  "location": {
+    "name": "Bellevue, Washington; Chicago, Illinois; New York, New York; Washington, DC"
+  },
+  "metadata": [
+    {
+      "id": 58735330,
+      "name": "Naukri Job URL",
+      "value": null,
+      "value_type": "long_text"
+    },
+    {
+      "id": 58735350,
+      "name": "Naukri Job Error",
+      "value": null,
+      "value_type": "long_text"
+    },
+    {
+      "id": 58735367,
+      "name": "Minimum Salary",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735368,
+      "name": "Maximum Salary",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735369,
+      "name": "Minimum Work Experience",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735370,
+      "name": "Maximum Work Experience",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735384,
+      "name": "City",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 58735385,
+      "name": "Job Description",
+      "value": null,
+      "value_type": "long_text"
+    }
+  ],
+  "id": 8110447,
+  "updated_at": "2026-10-07T11:50:56-04:00",
+  "requisition_id": "P-2375_3513316",
+  "title": "Product Architect, AI (Auth0)",
+  "company_name": "Okta",
+  "first_published": "2026-10-07T11:50:56-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Secure Every Identity, from AI to Human&lt;br&gt;&lt;br&gt;&lt;/strong&gt;Identity is the key to unlocking the potential of AI. Okta secures AI by building the trusted, neutral infrastructure that enables organizations to safely embrace this new era. This work requires a relentless drive to solve complex challenges with real-world stakes. We are looking for builders and owners who operate with speed and urgency and execute with excellence.&lt;br&gt;&lt;br&gt;This is an opportunity to do career-defining work. We&#39;re all in on this mission. If you are too, let&#39;s talk.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;Get to know Okta&lt;/h2&gt;\n&lt;p&gt;Okta is The World’s Identity Company. We free everyone to safely use any technology, anywhere, on any device or app. Our Workforce and Customer Identity Clouds enable secure yet flexible access, authentication, and automation that transforms how people move through the digital world, putting Identity at the heart of business security and growth.&lt;/p&gt;\n&lt;p&gt;At Auth0, an Okta company, we help organizations build secure, seamless customer experiences. As AI agents become active participants in software systems (acting on behalf of people, organizations, and other agents) identity becomes even more foundational. We are building for a future where agents can securely authenticate, access resources, delegate authority, and operate within clear, auditable boundaries.&lt;/p&gt;\n&lt;p&gt;We’re building a world where Identity belongs to you.&lt;/p&gt;\n&lt;h2&gt;The Opportunity&lt;/h2&gt;\n&lt;p&gt;We are looking for a Product Architect, AI to help define how Auth0 and Okta lead the market in agentic identity, secure AI application development, and standards-based access for agents.&lt;/p&gt;\n&lt;p&gt;This is a senior, highly strategic, and deeply hands-on role. You will work across Product, Engineering, Security, Developer Relations, Design, Go-to-Market, and our customer community to shape the technical and product direction for AI-native identity capabilities.&lt;/p&gt;\n&lt;p&gt;You will bring a strong point of view on where the industry is going, grounded in real experience building AI-powered and agentic systems. You will help us translate fast-moving technical developments (including MCP, A2A, agentic commerce, delegated authorization, and emerging agent identity standards) into secure, practical product capabilities that customers can adopt with confidence.&lt;/p&gt;\n&lt;p&gt;This role is for someone who enjoys moving between strategy and implementation: setting a long-term vision, designing platform primitives, engaging directly with customers and partners, contributing to standards and open source communities, and occasionally writing production-quality code or prototypes to prove what is possible.&lt;/p&gt;\n&lt;h2&gt;What you’ll be doing&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Define and evolve Auth0’s strategy for building, operating, and securing AI agents and agentic applications.&lt;/li&gt;\n&lt;li&gt;Shape the product and technical strategy for agentic identity, including how agents authenticate, receive delegated authority, access resources, establish trust, and maintain auditable boundaries.&lt;/li&gt;\n&lt;li&gt;Define approaches for securely exposing protected resources (including APIs, tools, data services, and MCP servers) to authorized agents.&lt;/li&gt;\n&lt;li&gt;Partner closely with Product Management and Engineering leaders to turn strategic opportunities into clear product bets, architectural principles, product requirements, and durable platform capabilities.&lt;/li&gt;\n&lt;li&gt;Help design and, where valuable, implement core identity capabilities that enable secure agent-to-resource and agent-to-agent interactions.&lt;/li&gt;\n&lt;li&gt;Develop an informed perspective on emerging technologies and standards such as Model Context Protocol (MCP), agent-to-agent protocols, agentic commerce, AAuth, authorization frameworks, workload identity, and related specifications.&lt;/li&gt;\n&lt;li&gt;Deep curiosity and a disciplined approach to staying ahead of the AI landscape, including foundation models, agent harnesses, AI frameworks, orchestration tools, evaluation and observability platforms, and rapidly evolving developer practices. You can distinguish durable shifts from short-lived hype and articulate their implications for customers, developers, and Auth0’s product strategy.&lt;/li&gt;\n&lt;li&gt;Identify important industry shifts early, assess their implications for customers and the identity ecosystem, and communicate a clear point of view internally and externally.&lt;/li&gt;\n&lt;li&gt;Work directly with strategic customers to understand their AI and identity architectures, uncover unmet needs, validate product direction, and help them build securely.&lt;/li&gt;\n&lt;li&gt;Collaborate with Security, Legal, Privacy, and Trust teams to ensure that AI-related identity capabilities are secure, responsible, compliant, and usable in real-world enterprise environments.&lt;/li&gt;\n&lt;li&gt;Represent Auth0 and Okta in the developer and identity communities through technical content, speaking engagements, customer conversations, standards participation, and open-source engagement.&lt;/li&gt;\n&lt;li&gt;Build prototypes, reference implementations, and technical demonstrations using technologies such as Node.js, React, Python, and Go.&lt;/li&gt;\n&lt;li&gt;Partner with Developer Relations and Go-to-Market teams to make complex identity and AI concepts approachable for developers, architects, customers, and partners.&lt;/li&gt;\n&lt;li&gt;Raise the technical bar across the organization by mentoring others, documenting architectural patterns, and creating clarity in an evolving technical landscape.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;What you’ll bring&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Significant experience in product architecture, technical product management, software architecture, platform engineering, developer platforms, or a similarly customer- and technology-facing leadership role.&lt;/li&gt;\n&lt;li&gt;Experience building and shipping AI-powered applications, agentic systems, developer tools, or platforms used by developers to build them.&lt;/li&gt;\n&lt;li&gt;Deep expertise in modern identity and authorization standards, especially OAuth 2.0, OpenID Connect, workload identity, token exchange, delegated authorization, API authorization, and related identity protocols.&lt;/li&gt;\n&lt;li&gt;A strong understanding of how to securely design access to APIs, tools, data, and services in distributed systems.&lt;/li&gt;\n&lt;li&gt;Practical familiarity with the emerging agent ecosystem, including MCP, agent-to-agent interactions, tool invocation, AI application architectures, and the evolving questions around agent identity, authorization, delegation, consent, intent, and auditability.&lt;/li&gt;\n&lt;li&gt;Demonstrated ability to develop a strategy in ambiguous, quickly evolving markets and turn it into concrete product and technical decisions.&lt;/li&gt;\n&lt;li&gt;Experience working directly with enterprise customers, developers, and partners to solve complex technical problems and influence product direction.&lt;/li&gt;\n&lt;li&gt;Excellent communication skills, with the ability to explain deeply technical topics to technical and non-technical audiences alike.&lt;/li&gt;\n&lt;li&gt;A strong external presence in relevant technical communities through speaking, standards work, open-source contributions, technical writing, or other visible contributions.&lt;/li&gt;\n&lt;li&gt;Comfort operating as a senior individual contributor across organizational boundaries, influencing without direct authority and driving alignment among diverse stakeholders.&lt;/li&gt;\n&lt;li&gt;Strong software development skills and comfort writing code in one or more of Node.js/TypeScript, React, Python, or Go.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;And extra credit if you have&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience contributing to or participating in identity, security, AI, or agent-related standards organizations and open-source projects.&lt;/li&gt;\n&lt;li&gt;Experience designing developer-facing authentication, authorization, API security, or identity platform products.&lt;/li&gt;\n&lt;li&gt;Experience with enterprise SaaS, B2B platforms, consumer-facing applications, or both.&lt;/li&gt;\n&lt;li&gt;Experience with authorization policy systems, fine-grained authorization, consent, entitlements, and delegated access models.&lt;/li&gt;\n&lt;li&gt;Experience building or operating MCP servers, AI agent platforms, AI-enabled workflows, or agent-to-agent systems.&lt;/li&gt;\n&lt;li&gt;Experience with cloud security, workload identity, zero trust, API gateways, service-to-service authorization, or secure software supply chains.&lt;/li&gt;\n&lt;li&gt;A track record of helping organizations navigate major platform shifts, such as cloud, mobile, API-first development, or AI.&lt;/li&gt;\n&lt;li&gt;A pragmatic approach to innovation: excitement about emerging technology paired with a clear understanding of security, customer value, operational realities, and adoption barriers.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;What you can look forward to as a Full-Time Okta employee&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Amazing Benefits&lt;/li&gt;\n&lt;li&gt;Making Social Impact&lt;/li&gt;\n&lt;li&gt;Developing Talent and Fostering Connection&lt;/li&gt;\n&lt;li&gt;Promoting Work-Life Flexibility and Inclusivity&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Okta cultivates a dynamic work environment, providing the best tools, technology, and benefits to empower employees to work productively in a setting that best and uniquely suits their needs.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;P-2375&lt;/p&gt;\n&lt;p&gt;#LI-EZ1&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Below is the annual base salary range for candidates located in California (excluding San Francisco Bay Area), Colorado, Illinois, New York and Washington. Your actual base salary will depend on factors such as your skills, qualifications, experience, and work location. In addition, Okta offers equity (where applicable), bonus, and benefits, including health, dental and vision insurance, 401(k), flexible spending account, and paid leave (including PTO and parental leave) in accordance with our applicable plans and policies. To learn more about our Total Rewards program please visit:&lt;a href=&quot;https://rewards.okta.com/us&quot;&gt; https://rewards.okta.com/us&lt;/a&gt;.&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;The annual base salary range for this position for candidates located in California (excluding San Francisco Bay Area), Colorado, Illinois, New York, and Washington is between:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$226,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$311,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;The Okta Experience&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;a href=&quot;http://rewards.okta.com&quot;&gt;Supporting Your Well-Being&lt;/a&gt;&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;&lt;a href=&quot;https://www.okta.com/company/okta-for-good/&quot;&gt;Driving Social Impact&amp;nbsp;&lt;/a&gt;&lt;/li&gt;\n&lt;li&gt;&lt;a href=&quot;https://www.okta.com/company/talent-connection-community/&quot;&gt;Developing Talent and Fostering Connection + Community&lt;/a&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;We are intentional about connection. Our global community, spanning over 20 offices worldwide, is united by a drive to innovate. Your journey begins with an immersive, in-person onboarding experience designed to accelerate your impact and connect you to our mission and team from day one.&lt;br&gt;&lt;br&gt;Okta is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, marital status, age, physical or mental disability, or status as a protected veteran. We also consider for employment qualified applicants with arrest and convictions records, consistent with applicable laws.&lt;br&gt;&lt;br&gt;If reasonable accommodation is needed to complete any part of the job application, interview process, or onboarding please&amp;nbsp;&lt;a href=&quot;https://docs.google.com/forms/d/1EfiEYZrIyhA2X4Fijk0R3RKYOzNoS3wtvyM4nhbZnXE/edit&quot;&gt;use this Form&lt;/a&gt; to request an accommodation.&lt;br&gt;&lt;br&gt;Notice for New York City Applicants &amp;amp; Employees: Okta may use Automated Employment Decision Tools (AEDT), as defined by New York City Local Law 144, that use artificial intelligence, machine learning, or other automated processes to assist in our recruitment and hiring process. In accordance with NYC Local Law 144, if you are an applicant or employee residing in New York City, please&amp;nbsp;&lt;a href=&quot;https://talent.okta.com/new-york-city-aedt-notice.html&quot;&gt;click here&lt;/a&gt; to view our full NYC AEDT Notice.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 28480,
+      "name": "Product Management-810",
+      "child_ids": [],
+      "parent_id": 396304
+    }
+  ],
+  "offices": [
+    {
+      "id": 19613,
+      "name": "Bellevue",
+      "location": "Bellevue, WA, United States",
+      "child_ids": [],
+      "parent_id": 67252
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

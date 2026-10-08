@@ -1,0 +1,72 @@
+{
+  "absolute_url": "https://www.zoominfo.com/careers?gh_jid=8833505002",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 6536238002,
+  "location": {
+    "name": "Bengaluru, Karnataka, India"
+  },
+  "metadata": [
+    {
+      "id": 24710929002,
+      "name": "Job Family Group",
+      "value": "Engineering",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24711071002,
+      "name": "Time Type",
+      "value": "Full time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 101751589002,
+      "name": "Work Shift",
+      "value": "General Shift (09:00 AM - 06:00 PM, 10:00 AM - 07:00 PM, 11:00 AM - 08:00 PM)",
+      "value_type": "short_text"
+    },
+    {
+      "id": 4203585002,
+      "name": "LEGACY - Employment Type",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8833505002,
+  "updated_at": "2026-10-08T03:38:57-04:00",
+  "requisition_id": "JR108157",
+  "title": "Software Engineer II - Full Stack",
+  "company_name": "ZoomInfo Technologies LLC",
+  "first_published": "2026-10-07T10:39:06-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen–fast.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Title: &lt;/strong&gt;Software Engineer II, Full-Stack Engineer&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What you&#39;ll do&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Ship user-facing features end to end — schema and endpoint through to the screen, the empty state, the loading state, and the error someone will actually hit.&lt;/li&gt;\n&lt;li&gt;Turn a loosely worded request into a written spec precise enough that an agent, or a new teammate, can build from it without guessing.&lt;/li&gt;\n&lt;li&gt;Review hard. Your own pull requests, your teammates&#39;, and the ones an agent opened. Catching a plausible-looking mistake before it merges is the highest-value hour of your week.&lt;/li&gt;\n&lt;li&gt;Write tests that would genuinely fail if the feature broke, and verify the change in the running product rather than trusting a green checkmark.&lt;/li&gt;\n&lt;li&gt;Work inside conventions the repository already encodes — house rules, lint rules, coverage thresholds, component patterns — and improve those conventions when they turn out to be wrong.&lt;/li&gt;\n&lt;li&gt;Roll changes out behind feature flags and watch what monitoring says afterwards.&lt;/li&gt;\n&lt;li&gt;Pick up whatever is in front of the team. Priorities here move; a bug in a service you have never opened is still yours if it is the most useful thing to fix.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What we&#39;re looking for&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;3–5 years building and shipping production web software that real users depended on.&lt;/li&gt;\n&lt;li&gt;Strong TypeScript. You use types to catch mistakes before they reach production, not just to keep the compiler quiet. You can work out what an unfamiliar type is describing, write one that matches the real shape of your data, and recognise when a simpler type would do the same job.&lt;/li&gt;\n&lt;li&gt;Real React depth. Component composition, where state should live, why something re-rendered, and how to test a component the way a user meets it.&lt;/li&gt;\n&lt;li&gt;Enough server-side experience to be useful on day one in NestJS or a comparable framework: dependency injection, request validation, REST design, and talking to a database, a cache and a queue.&lt;/li&gt;\n&lt;li&gt;You have worked in a large shared codebase and can find your way around unfamiliar code without waiting for a tour.&lt;/li&gt;\n&lt;li&gt;You have used AI coding agents on real work and have opinions about where they fail.&lt;/li&gt;\n&lt;li&gt;Clear written English. Specifications, pull request descriptions, review comments. In this workflow, writing is load-bearing rather than a soft skill.&lt;/li&gt;\n&lt;li&gt;Comfortable being told the priority changed — and able to put down something half-finished cleanly.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Nice to have&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Nx, Turborepo or another monorepo toolchain.&lt;/li&gt;\n&lt;li&gt;Data-dense interfaces: virtualised or enterprise data grids, charting, filter builders.&lt;/li&gt;\n&lt;li&gt;GCP, Kafka, BullMQ, Prisma, MongoDB, Redis.&lt;/li&gt;\n&lt;li&gt;Feature flags and production observability (LaunchDarkly, Datadog, or equivalents).&lt;/li&gt;\n&lt;li&gt;Go-to-market, sales technology or B2B data as a domain.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;#LI-SG2&lt;/p&gt;\n&lt;p&gt;&lt;br&gt;#LI-Hybrid&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;About us:&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;ZoomInfo (NASDAQ: GTM) is the Go-To-Market Intelligence Platform that empowers businesses to grow faster with AI-ready insights, trusted data, and advanced automation. Its solutions provide more than 35,000 companies worldwide with a complete view of their customers, making every seller their best seller.&lt;/p&gt;\n&lt;p&gt;ZoomInfo is committed to protecting your privacy when you apply for jobs with us. Please review our Job Applicant &lt;a href=&quot;https://drive.google.com/file/d/1yiG-k0YX_sW10PiJk_xliDc3W-veJCrK/view?usp=drive_link&quot; target=&quot;_blank&quot;&gt;Privacy Notice&lt;/a&gt; for more details on how we handle your personal information.&lt;/p&gt;\n&lt;p&gt;ZoomInfo may use a software-based assessment as part of the recruitment process. More information about this tool, including the results of the most recent bias audit, is available &lt;a href=&quot;https://www.zoominfo.com/legal/nyc-local-law-144-notice&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;ZoomInfo is proud to be an equal opportunity employer, hiring based on qualifications, merit, and business needs, and does not discriminate based on protected status. We welcome all applicants and are committed to providing equal employment opportunities regardless of sex, race, age, color, national origin, sexual orientation, gender identity, marital status, disability status, religion, protected military or veteran status, medical condition, or any other characteristic protected by applicable law. We also consider qualified candidates with criminal histories in accordance with legal requirements.&lt;/p&gt;\n&lt;p&gt;For Massachusetts Applicants: It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability. ZoomInfo does not administer lie detector tests to applicants in any location.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4074783002,
+      "name": "933 Engineering - ZI Products",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 4058415002,
+      "name": "Bangalore, India",
+      "location": "Bengaluru, Karnataka, India",
+      "child_ids": [],
+      "parent_id": 4141596002
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}
