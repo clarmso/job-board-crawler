@@ -2,7 +2,7 @@
   "id": "2d03f0fe-2f3c-4c8e-9b89-7c6a35f9e7a4",
   "title": "Product Support Engineer - EMEA",
   "department": "Customer Success",
-  "team": "Customer Support",
+  "team": "Support Engineering",
   "employmentType": "FullTime",
   "location": "United Kingdom",
   "shouldDisplayCompensationOnJobPostings": true,
@@ -159,15 +159,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "a28f835e-15b6-4822-a7ff-c61c3a914df7",
-            "summary": "£85K – £104K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "GBP",
-            "minValue": 85000,
-            "maxValue": 104000
-          },
-          {
             "id": "643234d2-1f2e-45b8-bcd2-4469ace1d2b3",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
@@ -175,6 +166,15 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "a28f835e-15b6-4822-a7ff-c61c3a914df7",
+            "summary": "£85K – £104K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "GBP",
+            "minValue": 85000,
+            "maxValue": 104000
           }
         ]
       },
@@ -263,15 +263,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "06678704-5536-497d-a882-fe27497db5bf",
-            "summary": "€65K – €79K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "EUR",
-            "minValue": 65000,
-            "maxValue": 79000
-          },
-          {
             "id": "f75b0170-dd0f-494b-a493-994890b637be",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
@@ -279,23 +270,32 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "06678704-5536-497d-a882-fe27497db5bf",
+            "summary": "€65K – €79K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "EUR",
+            "minValue": 65000,
+            "maxValue": 79000
           }
         ]
       }
     ],
     "summaryComponents": [
       {
+        "compensationType": "EquityPercentage",
+        "minValue": null,
+        "maxValue": null,
+        "interval": "1 YEAR"
+      },
+      {
         "minValue": 75000,
         "maxValue": 104000,
         "currencyCode": "GBP",
         "interval": "1 YEAR",
         "compensationType": "Salary"
-      },
-      {
-        "compensationType": "EquityPercentage",
-        "minValue": null,
-        "maxValue": null,
-        "interval": "1 YEAR"
       }
     ]
   }

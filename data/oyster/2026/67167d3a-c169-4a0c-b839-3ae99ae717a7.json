@@ -96,15 +96,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "a3f6486a-9802-4fbe-82a0-ff1534def084",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "1a745fb6-bfe5-46df-9d4b-21ae355b0508",
             "summary": "RON 225K – RON 280K",
             "compensationType": "Salary",
@@ -112,6 +103,15 @@
             "currencyCode": "RON",
             "minValue": 225000,
             "maxValue": 280000
+          },
+          {
+            "id": "a3f6486a-9802-4fbe-82a0-ff1534def084",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           }
         ]
       },
@@ -196,17 +196,17 @@
     ],
     "summaryComponents": [
       {
-        "compensationType": "EquityPercentage",
-        "minValue": null,
-        "maxValue": null,
-        "interval": "1 YEAR"
-      },
-      {
         "compensationType": "Salary",
         "interval": "1 YEAR",
         "currencyCode": "RON",
         "minValue": 225000,
         "maxValue": 280000
+      },
+      {
+        "compensationType": "EquityPercentage",
+        "minValue": null,
+        "maxValue": null,
+        "interval": "1 YEAR"
       }
     ]
   }

@@ -2,7 +2,7 @@
   "id": "32d634ed-b34b-41cc-980b-aa7a8b8f6b3a",
   "title": "Sr. Support Operations Manager",
   "department": "Customer Success",
-  "team": "Customer Support",
+  "team": "Support Operations",
   "employmentType": "FullTime",
   "location": "Remote - US",
   "shouldDisplayCompensationOnJobPostings": true,
@@ -44,15 +44,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "6599f3e2-47cc-48be-a148-ac94fe03b916",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "91088e7e-86d0-4d00-939f-3e0439984ca9",
             "summary": "$130K – $152K",
             "compensationType": "Salary",
@@ -60,6 +51,15 @@
             "currencyCode": "USD",
             "minValue": 130000,
             "maxValue": 152000
+          },
+          {
+            "id": "6599f3e2-47cc-48be-a148-ac94fe03b916",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           }
         ]
       },
@@ -70,15 +70,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "ad434140-5d22-4a41-929a-0668390c9fb3",
-            "summary": "CA$130K – CA$152K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "CAD",
-            "minValue": 130000,
-            "maxValue": 152000
-          },
-          {
             "id": "eba4d224-bb7b-4520-9572-e9c4041410f4",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
@@ -86,6 +77,15 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "ad434140-5d22-4a41-929a-0668390c9fb3",
+            "summary": "CA$130K – CA$152K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "CAD",
+            "minValue": 130000,
+            "maxValue": 152000
           }
         ]
       },
@@ -96,15 +96,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "f410ec21-4a90-460c-97f4-7116220e8e7d",
-            "summary": "CA$150K – CA$175K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "CAD",
-            "minValue": 150000,
-            "maxValue": 175000
-          },
-          {
             "id": "2942f88c-b29f-4314-aecf-1788dba7b8ce",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
@@ -112,23 +103,32 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "f410ec21-4a90-460c-97f4-7116220e8e7d",
+            "summary": "CA$150K – CA$175K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "CAD",
+            "minValue": 150000,
+            "maxValue": 175000
           }
         ]
       }
     ],
     "summaryComponents": [
       {
-        "compensationType": "EquityPercentage",
-        "minValue": null,
-        "maxValue": null,
-        "interval": "1 YEAR"
-      },
-      {
         "compensationType": "Salary",
         "interval": "1 YEAR",
         "currencyCode": "USD",
         "minValue": 130000,
         "maxValue": 152000
+      },
+      {
+        "compensationType": "EquityPercentage",
+        "minValue": null,
+        "maxValue": null,
+        "interval": "1 YEAR"
       }
     ]
   }

@@ -2,7 +2,7 @@
   "id": "f2ba7c39-e5cb-47aa-8b80-74c0426725b7",
   "title": "Support Engineering Manager - Americas",
   "department": "Customer Success",
-  "team": "Customer Support",
+  "team": "Support Engineering",
   "employmentType": "FullTime",
   "location": "Remote - US",
   "shouldDisplayCompensationOnJobPostings": true,
@@ -96,15 +96,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "d15d5836-ebee-4612-b5b3-f40b82a06585",
-            "summary": "$150K – $175K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "USD",
-            "minValue": 150000,
-            "maxValue": 175000
-          },
-          {
             "id": "03b4db31-92dd-4592-ac0e-0ff9fb485752",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
@@ -112,6 +103,15 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "d15d5836-ebee-4612-b5b3-f40b82a06585",
+            "summary": "$150K – $175K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 150000,
+            "maxValue": 175000
           }
         ]
       }

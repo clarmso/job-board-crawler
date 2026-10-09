@@ -43,7 +43,7 @@
       "id": 4137836,
       "name": "Working Model Eligibility",
       "value": [
-        "2-Flexible"
+        "3-Fully Remote"
       ],
       "value_type": "multi_select"
     },
@@ -117,7 +117,7 @@
     }
   ],
   "id": 8221353,
-  "updated_at": "2026-10-05T20:39:14-04:00",
+  "updated_at": "2026-10-08T20:14:23-04:00",
   "requisition_id": "3273558124",
   "title": "Renewals Specialist",
   "company_name": "MongoDB",
@@ -135,9 +135,9 @@
   ],
   "offices": [
     {
-      "id": 95842,
-      "name": "Tysons",
-      "location": "Tysons, Virginia, United States",
+      "id": 95845,
+      "name": "Remote Virginia",
+      "location": "Virginia, United States",
       "child_ids": [],
       "parent_id": 23657
     }

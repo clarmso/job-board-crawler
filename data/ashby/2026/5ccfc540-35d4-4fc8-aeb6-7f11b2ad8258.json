@@ -64,11 +64,11 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "dd57f7e2-7cc9-48f4-aaf3-95639e41d553",
-            "summary": "Offers Bonus",
-            "compensationType": "Bonus",
-            "interval": "1 YEAR",
-            "currencyCode": "CAD",
+            "id": "00840df4-d677-41f1-9272-d91407f92c8b",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
             "minValue": null,
             "maxValue": null
           },
@@ -82,11 +82,11 @@
             "maxValue": 280000
           },
           {
-            "id": "00840df4-d677-41f1-9272-d91407f92c8b",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
+            "id": "dd57f7e2-7cc9-48f4-aaf3-95639e41d553",
+            "summary": "Offers Bonus",
+            "compensationType": "Bonus",
+            "interval": "1 YEAR",
+            "currencyCode": "CAD",
             "minValue": null,
             "maxValue": null
           }
@@ -95,9 +95,9 @@
     ],
     "summaryComponents": [
       {
-        "compensationType": "Bonus",
-        "interval": "1 YEAR",
-        "currencyCode": "CAD",
+        "compensationType": "EquityPercentage",
+        "interval": "NONE",
+        "currencyCode": null,
         "minValue": null,
         "maxValue": null
       },
@@ -109,9 +109,9 @@
         "maxValue": 280000
       },
       {
-        "compensationType": "EquityPercentage",
-        "interval": "NONE",
-        "currencyCode": null,
+        "compensationType": "Bonus",
+        "interval": "1 YEAR",
+        "currencyCode": "CAD",
         "minValue": null,
         "maxValue": null
       }

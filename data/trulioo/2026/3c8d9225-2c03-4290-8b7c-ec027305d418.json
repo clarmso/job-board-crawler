@@ -74,15 +74,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "4b984064-1c48-4b7f-8dda-10aeb04d8b35",
-            "summary": "Estimated base salary CA$130K – CA$160K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "CAD",
-            "minValue": 130000,
-            "maxValue": 160000
-          },
-          {
             "id": "364673fd-b3dd-403f-a45a-eeb0cdb5b8dd",
             "summary": "Offers Commission",
             "compensationType": "Commission",
@@ -90,6 +81,15 @@
             "currencyCode": "CAD",
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "4b984064-1c48-4b7f-8dda-10aeb04d8b35",
+            "summary": "Estimated base salary CA$130K – CA$160K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "CAD",
+            "minValue": 130000,
+            "maxValue": 160000
           }
         ]
       },
@@ -122,17 +122,17 @@
     ],
     "summaryComponents": [
       {
+        "compensationType": "Commission",
+        "minValue": null,
+        "maxValue": null,
+        "interval": "1 YEAR"
+      },
+      {
         "compensationType": "Salary",
         "interval": "1 YEAR",
         "currencyCode": "CAD",
         "minValue": 130000,
         "maxValue": 160000
-      },
-      {
-        "compensationType": "Commission",
-        "minValue": null,
-        "maxValue": null,
-        "interval": "1 YEAR"
       }
     ]
   }

@@ -50,7 +50,7 @@
     {
       "id": 4914029,
       "name": "Job Level",
-      "value": "Senior Manager",
+      "value": "Director",
       "value_type": "single_select"
     },
     {
@@ -74,21 +74,13 @@
     {
       "id": 5525802,
       "name": "Baseline Budgeted Salary",
-      "value": {
-        "unit": "EUR",
-        "max_value": "0.0",
-        "min_value": "0.0"
-      },
+      "value": null,
       "value_type": "currency_range"
     },
     {
       "id": 5525816,
       "name": "Other Large Market Budgeted Salary",
-      "value": {
-        "unit": "EUR",
-        "max_value": "0.0",
-        "min_value": "0.0"
-      },
+      "value": null,
       "value_type": "currency_range"
     },
     {
@@ -125,7 +117,7 @@
     }
   ],
   "id": 8056742,
-  "updated_at": "2026-10-05T19:30:53-04:00",
+  "updated_at": "2026-10-08T20:14:23-04:00",
   "requisition_id": "2273491681",
   "title": "Senior Manager, Sales Operations",
   "company_name": "MongoDB",
@@ -143,9 +135,9 @@
   ],
   "offices": [
     {
-      "id": 95769,
-      "name": "Remote Ireland",
-      "location": "Ireland",
+      "id": 3962,
+      "name": "Dublin",
+      "location": "Dublin, Ireland",
       "child_ids": [],
       "parent_id": 23658
     }

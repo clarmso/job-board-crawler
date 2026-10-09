@@ -74,21 +74,13 @@
     {
       "id": 5525802,
       "name": "Baseline Budgeted Salary",
-      "value": {
-        "unit": "SGD",
-        "max_value": "0.0",
-        "min_value": "0.0"
-      },
+      "value": null,
       "value_type": "currency_range"
     },
     {
       "id": 5525816,
       "name": "Other Large Market Budgeted Salary",
-      "value": {
-        "unit": "SGD",
-        "max_value": "0.0",
-        "min_value": "0.0"
-      },
+      "value": null,
       "value_type": "currency_range"
     },
     {
@@ -125,7 +117,7 @@
     }
   ],
   "id": 7974991,
-  "updated_at": "2026-10-05T19:30:53-04:00",
+  "updated_at": "2026-10-08T20:14:23-04:00",
   "requisition_id": "2273461411",
   "title": "Enablement Delivery Specialist",
   "company_name": "MongoDB",
@@ -143,9 +135,9 @@
   ],
   "offices": [
     {
-      "id": 95753,
-      "name": "Remote Singapore",
-      "location": "Singapore",
+      "id": 67634,
+      "name": "Singapore",
+      "location": "Singapore, Central Singapore, Singapore",
       "child_ids": [],
       "parent_id": 23659
     }

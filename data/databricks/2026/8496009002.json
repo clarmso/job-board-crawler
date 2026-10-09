@@ -31,7 +31,7 @@
     }
   ],
   "id": 8496009002,
-  "updated_at": "2026-10-06T06:23:59-04:00",
+  "updated_at": "2026-10-08T19:30:37-04:00",
   "requisition_id": "FEQ227R292",
   "title": "Sr. Manager, Field Engineering - Digital Native Business",
   "company_name": "Databricks",
@@ -49,11 +49,13 @@
   ],
   "offices": [
     {
-      "id": 4056363002,
-      "name": "Remote - California",
-      "location": "Remote - California",
-      "child_ids": [],
-      "parent_id": 4033534002
+      "id": 4006260002,
+      "name": "Florida",
+      "location": "Florida",
+      "child_ids": [
+        4058274002
+      ],
+      "parent_id": 4056357002
     }
   ],
   "ai_disclaimer": null,

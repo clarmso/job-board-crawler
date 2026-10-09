@@ -43,7 +43,7 @@
       "id": 4137836,
       "name": "Working Model Eligibility",
       "value": [
-        "1-In Office"
+        "2-Flexible"
       ],
       "value_type": "multi_select"
     },
@@ -74,11 +74,7 @@
     {
       "id": 5525802,
       "name": "Baseline Budgeted Salary",
-      "value": {
-        "unit": "USD",
-        "max_value": "225000.0",
-        "min_value": "157000.0"
-      },
+      "value": null,
       "value_type": "currency_range"
     },
     {
@@ -125,7 +121,7 @@
     }
   ],
   "id": 8094523,
-  "updated_at": "2026-10-05T19:30:53-04:00",
+  "updated_at": "2026-10-08T20:14:23-04:00",
   "requisition_id": "2273506591",
   "title": "Senior Forward Deployed Engineer",
   "company_name": "MongoDB",
@@ -143,9 +139,9 @@
   ],
   "offices": [
     {
-      "id": 95842,
-      "name": "Tysons",
-      "location": "Tysons, Virginia, United States",
+      "id": 4043,
+      "name": "Denver",
+      "location": "Denver, CO, United States",
       "child_ids": [],
       "parent_id": 23657
     }

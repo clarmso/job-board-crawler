@@ -90,15 +90,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "7d3f76b5-5dab-4168-af04-d01fc8ac6866",
-            "summary": "₱801,000 – ₱1,061,000",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "PHP",
-            "minValue": 801000,
-            "maxValue": 1061000
-          },
-          {
             "id": "dca8e938-93de-410c-ba29-e950df9698e7",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
@@ -106,6 +97,15 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "7d3f76b5-5dab-4168-af04-d01fc8ac6866",
+            "summary": "₱801,000 – ₱1,061,000",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "PHP",
+            "minValue": 801000,
+            "maxValue": 1061000
           }
         ]
       },
@@ -142,15 +142,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "4912f2e9-ab44-416f-bb39-da8a801bfe17",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "ce57a72e-e9db-4853-821b-a5694f7a0b42",
             "summary": "₩45,518,000 – ₩58,540,000",
             "compensationType": "Salary",
@@ -158,6 +149,15 @@
             "currencyCode": "KRW",
             "minValue": 45518000,
             "maxValue": 58540000
+          },
+          {
+            "id": "4912f2e9-ab44-416f-bb39-da8a801bfe17",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           }
         ]
       }

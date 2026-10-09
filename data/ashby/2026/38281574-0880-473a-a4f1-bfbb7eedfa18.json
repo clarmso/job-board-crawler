@@ -85,15 +85,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "f0413c2f-7e65-4a0b-99fc-06014da296ed",
-            "summary": "Canada $110K – $140K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "USD",
-            "minValue": 110000,
-            "maxValue": 140000
-          },
-          {
             "id": "0f9d2e56-c32f-4eb4-98a4-4657f1c3dbed",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
@@ -101,6 +92,15 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "f0413c2f-7e65-4a0b-99fc-06014da296ed",
+            "summary": "Canada $110K – $140K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 110000,
+            "maxValue": 140000
           }
         ]
       }
