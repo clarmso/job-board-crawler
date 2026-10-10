@@ -74,17 +74,17 @@
     {
       "id": 5525802,
       "name": "Baseline Budgeted Salary",
-      "value": null,
+      "value": {
+        "unit": "USD",
+        "max_value": "225000.0",
+        "min_value": "157000.0"
+      },
       "value_type": "currency_range"
     },
     {
       "id": 5525816,
       "name": "Other Large Market Budgeted Salary",
-      "value": {
-        "unit": "USD",
-        "max_value": "191000.0",
-        "min_value": "134000.0"
-      },
+      "value": null,
       "value_type": "currency_range"
     },
     {
@@ -101,9 +101,9 @@
       "id": 40497768,
       "name": "Job Post Range (Canada)",
       "value": {
-        "unit": "CAD",
-        "max_value": "220000.0",
-        "min_value": "158000.0"
+        "unit": "USD",
+        "max_value": "0.0",
+        "min_value": "0.0"
       },
       "value_type": "currency_range"
     },
@@ -121,7 +121,7 @@
     }
   ],
   "id": 8221182,
-  "updated_at": "2026-10-08T20:14:23-04:00",
+  "updated_at": "2026-10-09T13:30:16-04:00",
   "requisition_id": "3273558049",
   "title": "Senior Software Engineer, Cluster Scalability",
   "company_name": "MongoDB",
@@ -131,17 +131,17 @@
   "content": "&lt;p&gt;Join Cluster Scalability, one of MongoDB&#39;s Online Transaction Processing teams, and help build the core infrastructure that makes MongoDB a world-class distributed database. The team builds the infrastructure and tools that let customers scale their workloads past what a single node can handle. We take pride in building clean abstractions over hard distributed systems problems, so users can focus on their data instead of worrying about where it lives or how it&#39;s accessed. Our work has a big impact: it solves the hardest data challenges faced by MongoDB&#39;s largest customers.&lt;/p&gt;\n&lt;p&gt;As a Senior Software Engineer on Cluster Scalability, you&#39;ll work on data partitioning, one of the hardest and most impactful problem areas at MongoDB today. You&#39;ll collaboratively design and build the distributed machinery that turns independent query-processing and storage nodes into a single, unified database system. Your team’s work will be to build the data-movement and dynamic-scaling features that run on top of it. Current work includes seamless horizontal scaling with minimal tradeoffs, better cluster elasticity and smarter workload execution. You&#39;ll solve complex performance problems and design protocols for moving and placing data without disruption. Your work will help the architecture scale reliably to meet customer demand at any volume.&lt;/p&gt;\n&lt;p&gt;Our team champions a strong culture of inclusivity, diversity, and collaboration. If you want to work on a collaborative team that applies distributed systems fundamentals to deliver core features of a popular database, join us! Let’s change what’s possible for application developers, system architects, and database operators.&lt;/p&gt;\n&lt;p&gt;This role can be based remotely in the United States.&lt;/p&gt;\n&lt;h3&gt;Candidate Profile&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;5+ years of experience building distributed systems&lt;/li&gt;\n&lt;li&gt;Experience with building production-level code with a large user base, robust design structure and rigorous code quality, written in C++.&lt;/li&gt;\n&lt;li&gt;Degree in Computer Science or similar field, or equivalent practical experience, with strong competencies in data structures, algorithms, and software design/architecture&lt;/li&gt;\n&lt;li&gt;Passion for the theory and practice of system design for large-scale distributed systems, as well as hands-on or academic experience in the domain&lt;/li&gt;\n&lt;li&gt;Understands modern computer architecture and internals to the degree that they can reason about how specific design choices plays out in a system like MongoDB&lt;/li&gt;\n&lt;li&gt;Has demonstrated industry success or academic research in areas such as:&lt;/li&gt;\n&lt;ul&gt;\n&lt;li&gt;High performance / low latency networking&lt;/li&gt;\n&lt;li&gt;Performance tuning&lt;/li&gt;\n&lt;li&gt;Distributed systems&lt;/li&gt;\n&lt;li&gt;System observability&lt;/li&gt;\n&lt;li&gt;System resiliency&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Success Measures&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;In your first month, you’ll understand the high-level architecture of MongoDB, dive into the details of your team’s components, and resolve a few bugs&lt;/li&gt;\n&lt;li&gt;In the first three months, you’ll contribute to the development of a project slated for the next release of MongoDB, take on code review responsibilities, and participate in design reviews for new features&lt;/li&gt;\n&lt;li&gt;In the first six months, you’ll lead the development of a new feature and help mentor new engineers on the team&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;About MongoDB&lt;/h3&gt;\n&lt;p&gt;MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure.&lt;/p&gt;\n&lt;p&gt;With offices worldwide and over 67,000 customers, including AI-native startups and approximately 75% of the Fortune 100, relying on MongoDB for their most important applications, we’re powering the next era of software.&lt;/p&gt;\n&lt;p&gt;Our compass at MongoDB is our &lt;a href=&quot;https://www.mongodb.com/company&quot;&gt;Leadership Commitment,&lt;/a&gt; guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. &lt;a href=&quot;https://www.mongodb.com/company/blog/culture/employee-benefits-that-make-a-difference-at-mongodb&quot;&gt;From employee affinity groups, to fertility assistance and a generous parental leave policy&lt;/a&gt;, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys.&lt;a href=&quot;https://www.mongodb.com/blog/channel/culture&quot;&gt; Learn more about what it’s like to work at MongoDB&lt;/a&gt;, and help us make an impact on the world!&lt;/p&gt;\n&lt;p&gt;MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.&lt;/p&gt;\n&lt;p&gt;MongoDB, Inc. provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type and makes all hiring decisions without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.&lt;/p&gt;\n&lt;p&gt;Req ID: 3273558049&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;MongoDB’s base salary range for this role is posted below. Compensation at the time of offer is unique to each candidate and based on a variety of factors such as skill set, experience, qualifications, and work location. Salary is one part of MongoDB’s total compensation and benefits package. Other benefits for eligible employees may include: equity, participation in the employee stock purchase program, flexible paid time off, 20 weeks fully-paid gender-neutral parental leave, fertility and adoption assistance, 401(k) plan, mental health counseling, access to transgender-inclusive health insurance coverage, and health benefits offerings. Please note, the base salary range listed below and the benefits in this paragraph are only applicable to U.S.-based candidates.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;MongoDB’s base salary range for this role in the U.S. is:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$126,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$248,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;",
   "departments": [
     {
-      "id": 85971,
-      "name": "Clusters & Interfaces",
+      "id": 406858,
+      "name": "Online Transaction Processing ",
       "child_ids": [],
       "parent_id": 371021
     }
   ],
   "offices": [
     {
-      "id": 3964,
-      "name": "Austin",
-      "location": "Austin, TX, United States",
+      "id": 3960,
+      "name": "New York City",
+      "location": "New York, NY, United States",
       "child_ids": [],
       "parent_id": 23657
     }

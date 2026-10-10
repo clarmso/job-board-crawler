@@ -44,8 +44,8 @@
     {
       "fieldId": "60345fa28b4ba8595bef1863",
       "fieldLabel": "Recruiting Team",
-      "valueId": "early-in-career",
-      "valueLabel": "Global Emerging Talent"
+      "valueId": "professional",
+      "valueLabel": "Professional"
     },
     {
       "fieldId": "60345d5c5165a31b17288279",
@@ -94,6 +94,12 @@
       "fieldLabel": "Work Persona",
       "valueId": "e5efb1ea-f0e1-4bc5-94b6-d5072787c528",
       "valueLabel": "Required in Office"
+    },
+    {
+      "fieldId": "690cc0e8c682c3dbadaa7d73",
+      "fieldLabel": "Job Posting Type",
+      "valueId": "early-career",
+      "valueLabel": "Early Career"
     }
   ],
   "visibility": "PUBLIC",

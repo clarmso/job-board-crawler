@@ -1,0 +1,72 @@
+{
+  "absolute_url": "https://www.zoominfo.com/careers?gh_jid=8876309002",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 6554360002,
+  "location": {
+    "name": "Remote-US"
+  },
+  "metadata": [
+    {
+      "id": 24710929002,
+      "name": "Job Family Group",
+      "value": "Engineering",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24711071002,
+      "name": "Time Type",
+      "value": "Full time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 101751589002,
+      "name": "Work Shift",
+      "value": "General Shift",
+      "value_type": "short_text"
+    },
+    {
+      "id": 4203585002,
+      "name": "LEGACY - Employment Type",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8876309002,
+  "updated_at": "2026-10-10T03:46:19-04:00",
+  "requisition_id": "JR108201",
+  "title": "Senior Director, Product Management, Agentic Platform",
+  "company_name": "ZoomInfo Technologies LLC",
+  "first_published": "2026-10-09T13:48:12-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen–fast.&lt;/p&gt;&lt;/div&gt;&lt;div&gt;\n&lt;p class=&quot;markdown-p&quot;&gt;ZoomInfo has rebuilt itself around AI, and every agentic experience we ship runs on one shared platform — Copilot chat, agent teams, bots, GTM Studio, MarketingOS, and products that don&#39;t exist yet. As Senior Director of Product Management for the Agentic Platform, you&#39;ll be the right hand to our VP of Agents &amp;amp; Orchestration, owning the core primitives every agent depends on and the forward-looking R&amp;amp;D that keeps our agents ahead of what off-the-shelf models and frameworks can do. The best practices for agentic platforms are being written right now, and you&#39;ll help write them.&lt;/p&gt;\n&lt;p class=&quot;markdown-p&quot;&gt;&lt;strong class=&quot;markdown-strong&quot;&gt;What You&#39;ll Do&lt;/strong&gt;&lt;/p&gt;\n&lt;ul class=&quot;markdown-ul&quot;&gt;\n&lt;li class=&quot;markdown-li&quot;&gt;You will set the multi-year Agentic Platform strategy and turn it into a roadmap that balances reliability, speed for product teams, and bets on the frontier.&lt;/li&gt;\n&lt;li class=&quot;markdown-li&quot;&gt;You will own core platform primitives — multi-agent orchestration, planning and execution runtimes, memory and context management, tool and MCP infrastructure, guardrails, and observability — and define the abstractions that let product teams compose new agents quickly.&lt;/li&gt;\n&lt;li class=&quot;markdown-li&quot;&gt;You will lead the product side of custom model training and fine-tuning on ZoomInfo&#39;s proprietary data, deciding where custom models create lasting advantage versus frontier models.&lt;/li&gt;\n&lt;li class=&quot;markdown-li&quot;&gt;You will build the decisioning-model layer that lets agents choose the right action, partnering with data science to turn ZoomInfo&#39;s signals into models agents invoke as first-class capabilities.&lt;/li&gt;\n&lt;li class=&quot;markdown-li&quot;&gt;You will run a structured orchestration R&amp;amp;D program that tracks emerging research and moves the winners into production.&lt;/li&gt;\n&lt;li class=&quot;markdown-li&quot;&gt;You will identify and ship net-new platform capabilities that unlock new product surfaces and revenue, taking ideas from whiteboard sketch to production primitive.&lt;/li&gt;\n&lt;li class=&quot;markdown-li&quot;&gt;You will partner with engineering to make agent infrastructure production-grade — measurable on execution at scale, latency, cost per task, security, and compliance.&lt;/li&gt;\n&lt;li class=&quot;markdown-li&quot;&gt;You will build and grow a team of senior and principal PMs, hiring for technical depth and ownership and developing leaders who run their own areas with the same bar you hold.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p class=&quot;markdown-p&quot;&gt;&lt;strong class=&quot;markdown-strong&quot;&gt;What You Bring&lt;/strong&gt;&lt;/p&gt;\n&lt;p class=&quot;markdown-p&quot;&gt;&lt;em class=&quot;markdown-em&quot;&gt;Must-Have:&lt;/em&gt;&lt;/p&gt;\n&lt;ul class=&quot;markdown-ul&quot;&gt;\n&lt;li class=&quot;markdown-li&quot;&gt;At least 10 years building technical products, including at least 3 years leading teams of PMs or running a company&lt;/li&gt;\n&lt;li class=&quot;markdown-li&quot;&gt;Deep, hands-on experience with production agentic systems — agents that plan, invoke tools, and take real actions, not just chat interfaces&lt;/li&gt;\n&lt;li class=&quot;markdown-li&quot;&gt;A track record of taking an AI or agentic product from 0→1, either as a founder or as the product leader who owned it end to end&lt;/li&gt;\n&lt;li class=&quot;markdown-li&quot;&gt;Fluency across the modern agentic stack, including orchestration frameworks (LangGraph, CrewAI, or custom), MCP and tool-calling patterns, RAG and memory architectures, and evals and observability&lt;/li&gt;\n&lt;li class=&quot;markdown-li&quot;&gt;Enough technical depth to review architecture docs, read agent traces, and prototype in code yourself&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p class=&quot;markdown-p&quot;&gt;&lt;em class=&quot;markdown-em&quot;&gt;Preferred:&lt;/em&gt;&lt;/p&gt;\n&lt;ul class=&quot;markdown-ul&quot;&gt;\n&lt;li class=&quot;markdown-li&quot;&gt;Working knowledge of model development, including fine-tuning, post-training, evaluation design, and the economics of custom versus frontier models&lt;/li&gt;\n&lt;li class=&quot;markdown-li&quot;&gt;Experience building platform products where engineering and product teams are your customers&lt;/li&gt;\n&lt;li class=&quot;markdown-li&quot;&gt;Experience shipping decisioning, ranking, or recommendation models into production&lt;/li&gt;\n&lt;li class=&quot;markdown-li&quot;&gt;Experience in B2B, GTM, or data platform businesses&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p class=&quot;markdown-p&quot;&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p class=&quot;markdown-p&quot;&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p class=&quot;markdown-p&quot;&gt;#LI-Remote&lt;/p&gt;\n&lt;p class=&quot;markdown-p&quot;&gt;#LI-VC1&lt;/p&gt;\n&lt;/div&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Actual compensation offered will be based on factors such as the candidate’s work location, qualifications, skills, experience and/or training. Your recruiter can share more information about the specific salary range for your desired work location during the hiring process. We want our employees and their families to thrive.&lt;/p&gt;\n&lt;p&gt;In addition to comprehensive benefits we offer holistic mind, body and lifestyle programs designed for overall well-being. Learn more about ZoomInfo benefits &lt;a class=&quot;c-link&quot; href=&quot;https://www.zoominfo.com/careers#benefits&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.zoominfo.com/careers#benefits&quot; data-sk=&quot;tooltip_parent&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;Below is the US base salary for this position. Additional compensation such as Bonus, Commission, Equity and other benefits may also apply.&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$192,920&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$303,160 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;About us:&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;ZoomInfo (NASDAQ: GTM) is the Go-To-Market Intelligence Platform that empowers businesses to grow faster with AI-ready insights, trusted data, and advanced automation. Its solutions provide more than 35,000 companies worldwide with a complete view of their customers, making every seller their best seller.&lt;/p&gt;\n&lt;p&gt;ZoomInfo is committed to protecting your privacy when you apply for jobs with us. Please review our Job Applicant &lt;a href=&quot;https://drive.google.com/file/d/1yiG-k0YX_sW10PiJk_xliDc3W-veJCrK/view?usp=drive_link&quot; target=&quot;_blank&quot;&gt;Privacy Notice&lt;/a&gt; for more details on how we handle your personal information.&lt;/p&gt;\n&lt;p&gt;ZoomInfo may use a software-based assessment as part of the recruitment process. More information about this tool, including the results of the most recent bias audit, is available &lt;a href=&quot;https://www.zoominfo.com/legal/nyc-local-law-144-notice&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;ZoomInfo is proud to be an equal opportunity employer, hiring based on qualifications, merit, and business needs, and does not discriminate based on protected status. We welcome all applicants and are committed to providing equal employment opportunities regardless of sex, race, age, color, national origin, sexual orientation, gender identity, marital status, disability status, religion, protected military or veteran status, medical condition, or any other characteristic protected by applicable law. We also consider qualified candidates with criminal histories in accordance with legal requirements.&lt;/p&gt;\n&lt;p&gt;For Massachusetts Applicants: It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability. ZoomInfo does not administer lie detector tests to applicants in any location.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4074872002,
+      "name": "940 Product Management - Leadership",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 4085444002,
+      "name": "Remote-US-CA",
+      "location": null,
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

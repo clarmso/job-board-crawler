@@ -74,11 +74,7 @@
     {
       "id": 5525802,
       "name": "Baseline Budgeted Salary",
-      "value": {
-        "unit": "USD",
-        "max_value": "270000.0",
-        "min_value": "189000.0"
-      },
+      "value": null,
       "value_type": "currency_range"
     },
     {
@@ -101,9 +97,9 @@
       "id": 40497768,
       "name": "Job Post Range (Canada)",
       "value": {
-        "unit": "CAD",
-        "max_value": "215000.0",
-        "min_value": "155000.0"
+        "unit": "USD",
+        "max_value": "0.0",
+        "min_value": "0.0"
       },
       "value_type": "currency_range"
     },
@@ -121,7 +117,7 @@
     }
   ],
   "id": 8129885,
-  "updated_at": "2026-10-08T20:14:23-04:00",
+  "updated_at": "2026-10-09T19:40:22-04:00",
   "requisition_id": "3273520423",
   "title": "Staff Product Manager, AI Builder Experience",
   "company_name": "MongoDB",
@@ -139,9 +135,9 @@
   ],
   "offices": [
     {
-      "id": 3960,
-      "name": "New York City",
-      "location": "New York, NY, United States",
+      "id": 3961,
+      "name": "Palo Alto",
+      "location": "Palo Alto, CA, United States",
       "child_ids": [],
       "parent_id": 23657
     }

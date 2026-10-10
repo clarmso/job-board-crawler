@@ -1,0 +1,103 @@
+{
+  "absolute_url": "https://careers.datadoghq.com/detail/8267561/?gh_jid=8267561",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 3577243,
+  "location": {
+    "name": "New York, New York, USA"
+  },
+  "metadata": [
+    {
+      "id": 33310,
+      "name": "Time Type",
+      "value": "Full time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 166208,
+      "name": "Area - Engineering",
+      "value": "Enterprise Technology",
+      "value_type": "single_select"
+    },
+    {
+      "id": 498252,
+      "name": "Cost Center",
+      "value": "Engineering - Enterprise Technology",
+      "value_type": "single_select"
+    },
+    {
+      "id": 516515,
+      "name": "Geography",
+      "value": "North America",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9593635,
+      "name": "Early Career Time Type",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 29446322,
+      "name": "Pay Transparency Range",
+      "value": {
+        "unit": null,
+        "max_value": "165000.0",
+        "min_value": "132000.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 31273219,
+      "name": "Does this role require access to ITAR-controlled data?",
+      "value": "Yes",
+      "value_type": "single_select"
+    },
+    {
+      "id": 58619948,
+      "name": "IC or MG",
+      "value": "IC",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8267561,
+  "updated_at": "2026-10-09T12:45:03-04:00",
+  "requisition_id": "R22020",
+  "title": "Senior Network Engineer, Office Technology",
+  "company_name": "Datadog",
+  "first_published": "2026-10-09T12:45:03-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p data-local-id=&quot;dadf7524ddc7&quot; data-renderer-start-pos=&quot;1&quot;&gt;&amp;nbsp;&lt;/p&gt;\n&lt;h1 data-local-id=&quot;dadf7524ddc7&quot; data-renderer-start-pos=&quot;1&quot;&gt;About the Team&lt;/h1&gt;\n&lt;p data-renderer-start-pos=&quot;17&quot; data-local-id=&quot;29727fd169dc&quot;&gt;The Office Technology team designs, deploys, and operates the network infrastructure that keeps Datadog’s global offices connected, secure, and reliable. The team owns routing, switching, wireless, office firewalls, connectivity, and the observability and operational practices needed to provide a dependable employee experience at scale.&lt;/p&gt;\n&lt;h1 data-local-id=&quot;214a9e3c17ea&quot; data-renderer-start-pos=&quot;357&quot;&gt;About the Role&lt;/h1&gt;\n&lt;p data-renderer-start-pos=&quot;373&quot; data-local-id=&quot;23026c9816e4&quot;&gt;As a Senior Network Engineer on the Office Technology team, you will own major network services and complex multi-site initiatives from problem definition and design through implementation, migration, and stable operations. You will act as a technical anchor for the team, leading design reviews and difficult troubleshooting, improving standards and automation, and helping other engineers deliver high-quality work.&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;792&quot; data-local-id=&quot;3493d8042a48&quot;&gt;This is a senior level role that combines hands-on engineering with technical leadership. You will shape team roadmap proposals and technical decisions through evidence and clear tradeoffs, while remaining accountable for reliable delivery and day-to-day operability.&lt;/p&gt;\n&lt;h1 data-local-id=&quot;d38fbfa6e15f&quot; data-renderer-start-pos=&quot;1061&quot;&gt;What You’ll Do&lt;/h1&gt;\n&lt;ul&gt;\n&lt;li data-renderer-start-pos=&quot;1079&quot; data-local-id=&quot;b29f0ba5d931&quot;&gt;Design resilient, scalable solutions across &lt;span class=&quot;acronym-highlight&quot;&gt;LAN&lt;/span&gt;, Wi-Fi, routing, switching, and office firewalls, with explicit failure domains, capacity assumptions, security controls, and migration paths&lt;/li&gt;\n&lt;li data-renderer-start-pos=&quot;1272&quot; data-local-id=&quot;f3b9e10fb069&quot;&gt;Author RFCs and lead design reviews, clearly documenting goals, constraints, alternatives, decisions, risks, validation, rollout, and rollback&lt;/li&gt;\n&lt;li data-renderer-start-pos=&quot;1418&quot; data-local-id=&quot;341675a35de0&quot;&gt;Build production readiness into network changes through meaningful service objectives, monitoring, alerting, runbooks, capacity planning, failure testing, and operational handoff&lt;/li&gt;\n&lt;li data-renderer-start-pos=&quot;1600&quot; data-local-id=&quot;1233ea2c1949&quot;&gt;Design reusable automation for provisioning, configuration, policy, compliance, telemetry, and change validation, with appropriate testing, peer review, drift detection, staged rollout, and safe rollback&lt;/li&gt;\n&lt;li data-renderer-start-pos=&quot;1807&quot; data-local-id=&quot;021911cd50bb&quot;&gt;Own, alongside other senior engineers and leadership, the health and lifecycle of major network services, using data to improve reliability, coverage, performance, security, supportability, and cost&lt;/li&gt;\n&lt;li data-renderer-start-pos=&quot;2009&quot; data-local-id=&quot;7c6027dc11d9&quot;&gt;Lead difficult incidents and root-cause investigations, communicate clearly during high-impact events, and ensure follow-up work addresses systemic causes&lt;/li&gt;\n&lt;li data-renderer-start-pos=&quot;2167&quot; data-local-id=&quot;889a2226996f&quot;&gt;Evaluate technology and vendor options and make pragmatic recommendations grounded in operability, security, scalability, and business impact&lt;/li&gt;\n&lt;li data-renderer-start-pos=&quot;2312&quot; data-local-id=&quot;7ce9cfdc51e7&quot;&gt;Partner closely with Security, IT Support, Endpoints, &lt;span class=&quot;acronym-highlight&quot;&gt;AV&lt;/span&gt;, Workplace, Construction, Infrastructure teams, and external vendors on cross-functional initiatives&lt;/li&gt;\n&lt;li data-renderer-start-pos=&quot;2473&quot; data-local-id=&quot;a199623a1687&quot;&gt;Mentor other engineers, delegate effectively, improve team standards and documentation, and raise the quality of design and operational practices&lt;/li&gt;\n&lt;li data-renderer-start-pos=&quot;2622&quot; data-local-id=&quot;55e3a984ac5e&quot;&gt;Participate in operational support, incident response, and planned maintenance activities as appropriate for the team&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h1 data-local-id=&quot;4dbd32522637&quot; data-renderer-start-pos=&quot;2743&quot;&gt;Who You Are&lt;/h1&gt;\n&lt;ul&gt;\n&lt;li data-renderer-start-pos=&quot;2758&quot; data-local-id=&quot;86754b6867bd&quot;&gt;A deeply experienced, hands-on network engineer with strong knowledge of TCP/IP, routing, switching, VLANs, wireless, DNS, &lt;span class=&quot;acronym-highlight&quot;&gt;DHCP&lt;/span&gt;, firewalls, and enterprise network security&lt;/li&gt;\n&lt;li data-renderer-start-pos=&quot;2933&quot; data-local-id=&quot;6c6510387d97&quot;&gt;Experienced designing and operating resilient network infrastructure across distributed offices or campus environments&lt;/li&gt;\n&lt;li data-renderer-start-pos=&quot;3055&quot; data-local-id=&quot;1cea20626058&quot;&gt;Skilled at diagnosing complex issues using packet captures, logs, flow data, dashboards, and vendor telemetry, and at reasoning from protocols and failure modes&lt;/li&gt;\n&lt;li data-renderer-start-pos=&quot;3219&quot; data-local-id=&quot;3fbbf489a9e5&quot;&gt;Comfortable building maintainable automation using scripting, APIs, infrastructure-as-code, version control, testing, and CI/CD practices&lt;/li&gt;\n&lt;li data-renderer-start-pos=&quot;3360&quot; data-local-id=&quot;57cde0425653&quot;&gt;Strong in production engineering practices, including observability, service objectives, capacity planning, change safety, incident response, and post-incident improvement&lt;/li&gt;\n&lt;li data-renderer-start-pos=&quot;3535&quot; data-local-id=&quot;4c179706f18f&quot;&gt;Able to take ambiguous problems from problem statement to durable solution, balancing reliability, security, user experience, cost, and delivery speed&lt;/li&gt;\n&lt;li data-renderer-start-pos=&quot;3689&quot; data-local-id=&quot;74e8d971b0e0&quot;&gt;A clear, concise communicator who can lead technical discussions, explain tradeoffs, and build alignment with technical and non-technical partners&lt;/li&gt;\n&lt;li data-renderer-start-pos=&quot;3839&quot; data-local-id=&quot;fad51673f551&quot;&gt;A thoughtful mentor who raises the quality of others’ work without becoming a bottleneck or creating unnecessary process&lt;/li&gt;\n&lt;li data-renderer-start-pos=&quot;3963&quot; data-local-id=&quot;7062dac8c0c0&quot;&gt;Responsible in your use of AI-assisted engineering tools: you protect sensitive data, validate outputs, and know when deterministic automation is the safer choice&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p data-renderer-start-pos=&quot;4129&quot; data-local-id=&quot;728d7f024048&quot;&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;4131&quot; data-local-id=&quot;3d85cac69d79&quot;&gt;&lt;em data-renderer-mark=&quot;true&quot;&gt;Datadog values people from all walks of life. We understand not everyone will meet all the above qualifications on day one. That&#39;s okay. If you&#39;re passionate about technology and want to grow your skills, we encourage you to apply.&lt;/em&gt;&lt;/p&gt;\n&lt;h1 data-local-id=&quot;82d19dd40acd&quot; data-renderer-start-pos=&quot;4364&quot;&gt;Bonus Points&lt;/h1&gt;\n&lt;ul&gt;\n&lt;li data-renderer-start-pos=&quot;4380&quot; data-local-id=&quot;3cc66f553124&quot;&gt;Experience with Datadog or other observability platforms, including network device monitoring, flow analytics, synthetic testing, and service-level reporting&lt;/li&gt;\n&lt;li data-renderer-start-pos=&quot;4541&quot; data-local-id=&quot;d32e5f6d5048&quot;&gt;Experience with Python, Ansible, Terraform, Git-based workflows, or network automation frameworks&lt;/li&gt;\n&lt;li data-renderer-start-pos=&quot;4642&quot; data-local-id=&quot;a254d677cc64&quot;&gt;Experience with network access control, RADIUS or 802.1X, segmentation, VPNs, or identity-aware and zero-trust networking&lt;/li&gt;\n&lt;li data-renderer-start-pos=&quot;4767&quot; data-local-id=&quot;a67bde8f9d5e&quot;&gt;Experience delivering global office expansions, infrastructure refreshes, or complex migrations in a rapidly scaling organization&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;To conform to US export control regulations, candidates should be eligible for any required authorizations from the US government. This job is available in various departments within our company; to conform to US export control regulations, some of these roles may require candidates to be eligible for any required authorizations from the US government.&lt;/em&gt;&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Datadog offers a competitive salary and equity package, and may include variable compensation. Actual compensation is based on factors such as the candidate&#39;s skills, qualifications, and experience. In addition, Datadog offers a wide range of best in class, comprehensive and inclusive employee benefits for this role including healthcare, dental, parental planning, and mental health benefits, a 401(k) plan and match, paid time off, fitness reimbursements, and a discounted employee stock purchase plan.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;The reasonably estimated yearly salary for this role at Datadog is:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$132,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$165,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;hr&gt;\n&lt;p&gt;&lt;strong&gt;About Datadog:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Datadog is the leading observability and security platform for the AI era, providing businesses with unified visibility across the technology stack to manage complexity at scale. It brings applications, infrastructure, data, models, and security into one place, using AI to detect and resolve issues before they impact customers. Trusted globally by Fortune 500 companies and high-growth AI leaders, Datadog enables businesses to move faster with clarity and confidence. Learn more about #DatadogLife on &lt;a href=&quot;https://www.instagram.com/datadoghq/?hl=en&quot; target=&quot;_blank&quot;&gt;Instagram&lt;/a&gt;, &lt;a href=&quot;https://www.linkedin.com/company/datadog&quot; target=&quot;_blank&quot;&gt;LinkedIn,&lt;/a&gt; and &lt;a href=&quot;https://learn.datadoghq.com/&quot; target=&quot;_blank&quot;&gt;Datadog Learning Center. &lt;/a&gt;&lt;/p&gt;\n&lt;hr&gt;\n&lt;p data-renderer-start-pos=&quot;215&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Equal Opportunity at Datadog:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Datadog is proud to offer &lt;a href=&quot;https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf&quot; target=&quot;_blank&quot;&gt;equal employment opportunity&lt;/a&gt; to everyone regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, veteran status, and other characteristics protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. Here are our &lt;a href=&quot;https://www.datadoghq.com/legal/candidate-legal-notices/&quot; target=&quot;_blank&quot;&gt;Candidate Legal Notices&lt;/a&gt; for your reference.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Datadog endeavors to make our Careers Page accessible to all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please complete &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSeoJeduEZ2NdZF_65uZmWUrCM-zee7yADXX1s6Xr9zAGq8iKA/viewform&quot; target=&quot;_blank&quot;&gt;this form&lt;/a&gt;. This form is for accommodation requests only and cannot be used to inquire about the status of applications.&amp;nbsp;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;662&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Privacy and AI Guidelines:&lt;/strong&gt;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;662&quot;&gt;Any information you submit to Datadog as part of your application will be processed in accordance with Datadog’s&amp;nbsp;&lt;a class=&quot;c-link&quot; href=&quot;https://www.datadoghq.com/legal/applicant-candidate-privacy/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.datadoghq.com/legal/applicant-candidate-privacy/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Applicant and Candidate Privacy Notice&lt;/a&gt;. For information on our AI policy, please visit &lt;a href=&quot;https://www.datadoghq.com/legal/interviewing-at-datadog-ai-guidelines/&quot; target=&quot;_blank&quot;&gt;Interviewing at Datadog AI Guidelines&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 72252,
+      "name": "Enterprise Technology",
+      "child_ids": [],
+      "parent_id": 9022
+    }
+  ],
+  "offices": [
+    {
+      "id": 5664,
+      "name": "New York",
+      "location": "New York, NY, United States",
+      "child_ids": [
+        81327,
+        76746
+      ],
+      "parent_id": 73429
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

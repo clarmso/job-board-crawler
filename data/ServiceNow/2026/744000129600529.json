@@ -12,13 +12,13 @@
   "releasedDate": "2026-06-01T22:35:18.274Z",
   "location": {
     "city": "Mountain View",
-    "region": "California",
+    "region": "CALIFORNIA",
     "country": "us",
     "address": "1400 Terra Bella Avenue",
     "postalCode": "94043",
     "remote": false,
     "hybrid": false,
-    "fullLocation": "Mountain View, California, United States"
+    "fullLocation": "Mountain View, CALIFORNIA, United States"
   },
   "industry": {
     "id": "it_and_services",
@@ -94,6 +94,12 @@
       "fieldLabel": "Work Persona",
       "valueId": "e5efb1ea-f0e1-4bc5-94b6-d5072787c528",
       "valueLabel": "Required in Office"
+    },
+    {
+      "fieldId": "690cc0e8c682c3dbadaa7d73",
+      "fieldLabel": "Job Posting Type",
+      "valueId": "professional",
+      "valueLabel": "Professional"
     }
   ],
   "visibility": "PUBLIC",

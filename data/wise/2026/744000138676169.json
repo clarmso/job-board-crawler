@@ -16,7 +16,7 @@
     "address": "Worship Square, 65 Clifton Street",
     "postalCode": "EC2A 4JE",
     "remote": false,
-    "hybrid": true,
+    "hybrid": false,
     "fullLocation": "London, , United Kingdom"
   },
   "industry": {
@@ -40,8 +40,8 @@
     {
       "fieldId": "65d3d0e0d37044292ef9549b",
       "fieldLabel": "Job Profile",
-      "valueId": "031d60c1f3b20140dc0dd3bf9501c503",
-      "valueLabel": "Group Design Lead - JP100243"
+      "valueId": "031d60c1f3b201600d8d96bf95017d03",
+      "valueLabel": "Design Director - JP100237"
     },
     {
       "fieldId": "65cea5ac287e8d0651481809",
@@ -76,8 +76,8 @@
     {
       "fieldId": "65d3d0374c34974b271801f9",
       "fieldLabel": "Management Level",
-      "valueId": "e82698b9419501dd6959b9d6f100d810",
-      "valueLabel": "7"
+      "valueId": "e82698b941950132d4c2f6d7f100d910",
+      "valueLabel": "8"
     },
     {
       "fieldId": "65d3d16de5ae4c7be012a87e",
@@ -90,12 +90,6 @@
       "fieldLabel": "Cost Center",
       "valueId": "6d8f1bd75a70018c6649f331c712f31c",
       "valueLabel": "Design Product Copy Research"
-    },
-    {
-      "fieldId": "697ecac4054e02cef8c7a2ce",
-      "fieldLabel": "ORGANIZATION_TYPE-3-84 L1",
-      "valueId": "1a996433adb41001d77f89dee2560000",
-      "valueLabel": "Wise Start"
     },
     {
       "fieldId": "65d3d0a7d37044292ef9549a",
@@ -114,12 +108,6 @@
       "fieldLabel": "Worker Type",
       "valueId": "EE",
       "valueLabel": "Wiser"
-    },
-    {
-      "fieldId": "697ecac2a597b90c91f0575a",
-      "fieldLabel": "Matrix L1",
-      "valueId": "96f473f16f7a1001051277e92e010000",
-      "valueLabel": "APAC Regional Operations"
     },
     {
       "fieldId": "65d3d0926435ba43bdb089ac",

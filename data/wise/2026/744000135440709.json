@@ -11,14 +11,13 @@
   },
   "releasedDate": "2026-07-02T08:21:30.547Z",
   "location": {
-    "city": "Tallinn",
-    "country": "ee",
-    "address": "Kopli tn 68a",
-    "postalCode": "10412",
+    "city": "London",
+    "country": "gb",
+    "address": "Worship Square, 65 Clifton Street",
+    "postalCode": "EC2A 4JE",
     "remote": false,
-    "hybrid": true,
-    "hybridDescription": "3 days on-site in our Tallinn office",
-    "fullLocation": "Tallinn, , Estonia"
+    "hybrid": false,
+    "fullLocation": "London, , United Kingdom"
   },
   "industry": {
     "id": "financial_services",
@@ -101,8 +100,8 @@
     {
       "fieldId": "COUNTRY",
       "fieldLabel": "Country/Region",
-      "valueId": "ee",
-      "valueLabel": "Estonia"
+      "valueId": "gb",
+      "valueLabel": "United Kingdom"
     },
     {
       "fieldId": "65d3d05c735007771b14e932",
@@ -119,8 +118,8 @@
     {
       "fieldId": "65cec407735007771b14e92d",
       "fieldLabel": "Company",
-      "valueId": "046034784a4d01afa89d0f4764272117",
-      "valueLabel": "Wise Payments Limited Eesti filiaal"
+      "valueId": "046034784a4d01f4134f114764273117",
+      "valueLabel": "Wise Payments Limited"
     },
     {
       "fieldId": "65d90823f2e6436af25814c2",

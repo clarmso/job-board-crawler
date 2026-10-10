@@ -1,0 +1,108 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6208569004",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": true,
+      "requires_processing_consent": false,
+      "requires_retention_consent": true,
+      "retention_period": 1460,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 5222991004,
+  "location": {
+    "name": "United States, San Mateo, CA"
+  },
+  "metadata": [
+    {
+      "id": 4367803004,
+      "name": "Cost Center",
+      "value": "GAMES4US70-USN1950081 GIS Technology",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167524004,
+      "name": "Career Page - Office Location",
+      "value": "United States, San Diego, CA",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167525004,
+      "name": "Career Page - Department",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 9377282004,
+      "name": "Career Page - Sub Department",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 20089613004,
+      "name": "Career Page - Studio Project",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 4395289004,
+      "name": "Worker Type",
+      "value": "Employee",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4404049004,
+      "name": "Country",
+      "value": "United States of America",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9262269004,
+      "name": "Job Family",
+      "value": "System Design",
+      "value_type": "short_text"
+    },
+    {
+      "id": 9262270004,
+      "name": "Job Family Group",
+      "value": "Engineering",
+      "value_type": "short_text"
+    },
+    {
+      "id": 21724118004,
+      "name": "Bungie Geo Pay",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 6208569004,
+  "updated_at": "2026-10-09T09:54:59-04:00",
+  "requisition_id": "R-125258",
+  "title": "Staff Security Architect",
+  "company_name": "PlayStation Global",
+  "first_published": "2026-10-09T09:54:59-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Why Sony Interactive Entertainment?&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Sony Interactive Entertainment isn’t just the Best Place to Play — it’s also the Best Place to Work. Sony Interactive Entertainment (SIE) is the company behind the PlayStation brand. As a subsidiary of Sony Group Corporation, we’re part of a proud legacy of innovation and excellence. SIE is a dynamic technology company, delivering cutting-edge hardware and network services to more than 100 million people and an entertainment leader, home to some of the most beloved and recognizable intellectual properties (IP) in the world. Our role at SIE is to create and nurture the experiences under the PlayStation brand, a name synonymous with entertainment excellence and creativity.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;strong&gt;Sony Interactive Entertainment&lt;/strong&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;Security Architecture | Cloud | AI Security | Enterprise Platforms&lt;/p&gt;\n&lt;p&gt;We are seeking a Staff Security Architect to help shape and secure the next generation of enterprise, cloud, platform, and AI-enabled technology. This role combines deep security architecture expertise with strong engineering judgment and the ability to influence technical direction across complex, global environments. The successful candidate will partner with engineering, infrastructure, product, and security teams to identify systemic risk, develop scalable security patterns, and guide secure adoption of emerging technologies, including generative AI and agentic systems.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;h3&gt;Key Responsibilities&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Design, review, and approve security architecture for enterprise, cloud, SaaS, platform, and application environments, balancing business objectives, engineering constraints, and risk.&lt;/li&gt;\n&lt;li&gt;Lead cloud security architecture across AWS, Google Cloud, and hybrid environments, including identity, network security, data protection, logging and monitoring, key management, workload isolation, security posture management, and the effective use of native and third-party cloud security controls.&lt;/li&gt;\n&lt;li&gt;Define and review security architecture for SaaS and PaaS platforms, including identity federation, privileged access, tenant configuration, data protection, API and integration security, logging, third-party risk, and secure adoption of enterprise SaaS services.&lt;/li&gt;\n&lt;li&gt;Drive security throughout the software delivery lifecycle, including source control, CI/CD pipelines, build systems, artifact repositories, infrastructure as code, secrets management, code and artifact signing, software provenance, deployment automation, and security controls for developer platforms.&lt;/li&gt;\n&lt;li&gt;Lead security architecture for AI-enabled systems, including generative AI, large language models, retrieval-augmented generation, AI agents, model-serving platforms, and AI-assisted developer workflows.&lt;/li&gt;\n&lt;li&gt;Design mitigations for risks such as prompt injection, insecure tool use, excessive agency, sensitive-data disclosure, model or supply-chain compromise, unsafe output handling, and abuse of AI services.&lt;/li&gt;\n&lt;li&gt;Define security requirements for AI data, models, prompts, embeddings, vector stores, APIs, tools, and agent identities, including least-privilege access, secrets management, encryption, isolation, provenance, logging, monitoring, and lifecycle controls.&lt;/li&gt;\n&lt;li&gt;Architect and improve identity, authentication, authorization, network security, key management, cryptography, application security, and production security controls across complex environments.&lt;/li&gt;\n&lt;li&gt;Identify security design gaps in existing and proposed systems; translate findings into practical architecture improvements, reference patterns, hardening standards, preventative controls, and responsible automation that improves repeatability and operational effectiveness.&lt;/li&gt;\n&lt;li&gt;Provide technical leadership across multi-disciplinary teams, clearly articulating risks, tradeoffs, and recommended solutions to engineering leaders, business stakeholders, and audiences without a security background.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;h3&gt;Required Qualifications&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;15+ years of relevant experience in security architecture, security engineering, product security, cloud security, infrastructure security, or related disciplines, with demonstrated leadership at senior or staff level.&lt;/li&gt;\n&lt;li&gt;Deep knowledge of security architecture principles across cloud, application, network, identity, platform, infrastructure, and enterprise environments.&lt;/li&gt;\n&lt;li&gt;Hands-on experience designing or securing cloud-based and containerized environments, including major cloud platforms such as AWS or Google Cloud.&lt;/li&gt;\n&lt;li&gt;Strong understanding of modern identity and access management, PKI, OAuth/OIDC, SAML, TLS, VPNs, secrets management, key management systems, cloud KMS, and HSMs.&lt;/li&gt;\n&lt;li&gt;Expertise in network and application security controls such as WAFs, NGFWs, segmentation, DMZ design, DDoS mitigation, load balancing, proxies, intrusion detection/prevention, and host-based controls.&lt;/li&gt;\n&lt;li&gt;Experience with secure software development, threat modeling, CI/CD and developer platforms, application security, and engineering mitigations across the software lifecycle.&lt;/li&gt;\n&lt;li&gt;Working knowledge of AI/ML security concepts and the ability to evaluate security risks in generative AI, LLM, and agentic system architectures, including data flows, trust boundaries, model access, and tool integrations.&lt;/li&gt;\n&lt;li&gt;Strong critical thinking, risk prioritization, communication, and influence skills, with the ability to lead through ambiguity and work effectively across global, cross-functional teams.&lt;/li&gt;\n&lt;li&gt;Bachelor&#39;s degree in Computer Science, Mathematics, Engineering, Information Security, or equivalent practical experience.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;h3&gt;Preferred Qualifications&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience securing AI/ML platforms, generative AI applications, model gateways, RAG architectures, vector databases, or agentic workflows in production environments.&lt;/li&gt;\n&lt;li&gt;Experience with AI security evaluation, red teaming, adversarial testing, model abuse testing, or control validation for AI-enabled systems.&lt;/li&gt;\n&lt;li&gt;Experience securing large-scale Linux, distributed, multi-tenant, or high-availability production environments.&lt;/li&gt;\n&lt;li&gt;Development or automation experience in Python, C++, Java, or similar languages.&lt;/li&gt;\n&lt;li&gt;Recognized technical leadership through patents, publications, open-source contributions, conference participation, teaching, or security community involvement.&lt;/li&gt;\n&lt;li&gt;Penetration testing, adversarial security, or attacker-minded design experience.&lt;/li&gt;\n&lt;li&gt;Master&#39;s degree or Ph.D. in Computer Science, Mathematics, Engineering, Information Security, or a related field.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p class=&quot;p1&quot;&gt;Please note, Sony Interactive Entertainment conducts background checks at the offer stage for all new employees (which may include criminal background checks for some roles) and will need to process personal information to support these checks.&lt;/p&gt;\n&lt;p class=&quot;p1&quot;&gt;Please refer to our&amp;nbsp;&lt;a href=&quot;https://www.playstation.com/legal/careers-privacy-notice/&quot; target=&quot;_blank&quot;&gt;Candidate Privacy Notice&lt;/a&gt;&amp;nbsp;for more information about what personal information we collect, how we use it, who we share it with, and your data protection rights.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Equal Opportunity Statement:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Sony is an Equal Opportunity Employer. All persons will receive consideration for employment without regard to gender (including gender identity, gender expression and gender reassignment), race (including colour, nationality, ethnic or national origin), religion or belief, marital or civil partnership status, disability, age, sexual orientation, pregnancy, maternity or parental status, trade union membership or membership in any other legally protected category.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;We strive to create an inclusive environment, empower employees and embrace diversity. We encourage everyone to respond.&amp;nbsp;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Sony Interactive Entertainment is a Fair Chance employer and qualified applicants with arrest and conviction records will be considered for employment.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4037267004,
+      "name": "Information Security",
+      "child_ids": [],
+      "parent_id": 4037179004
+    }
+  ],
+  "offices": [
+    {
+      "id": 4012032004,
+      "name": "USA-CA-San Diego-Via Esprillo",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 4089335004
+    }
+  ],
+  "ai_disclaimer": "<p><strong>Use of AI in Recruiting&nbsp;</strong></p><p><br></p><p>We use artificial intelligence and other automated tools to assist with certain aspects of our recruiting process, including reviewing applications and supporting candidate evaluation. For example, we use Greenhouse's AI-powered Talent Matching tool to compare information in your application against job-related qualifications and criteria established by our recruiting team. More information about <a href=\"https://www.greenhouse.com/\" target=\"_blank\">Greenhouse</a>, including about its features and its Privacy Policy, may be found at its website. These tools assist our recruiting team and do not make hiring decisions.&nbsp;</p><p><br></p>",
+  "include_ai_disclaimer": true,
+  "ai_opt_out_request_url": "http://app4.greenhouse.io/ai_opt_out_request/job_post/6208569004/ai_opt_out"
+}
