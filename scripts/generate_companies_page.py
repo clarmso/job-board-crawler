@@ -486,7 +486,6 @@ HTML_TEMPLATE = """<!DOCTYPE html>
   }}
   .badge.unsupported {{ color: #b91c1c; border-color: #fecaca; background: #fef2f2; }}
   .badge.canada {{ color: #b91c1c; border-color: #fecaca; background: #fef2f2; }}
-  .badge.remote {{ color: #4338ca; border-color: #c7d2fe; background: #eef2ff; }}
   #empty-filter {{
     display: none;
     color: var(--muted);
@@ -575,8 +574,6 @@ def _render_row(c):
         badges = ""
         if c["canada_job_count"] > 0:
             badges += '<span class="badge canada">🇨🇦 Canada</span> '
-        if c["remote_job_count"] > 0:
-            badges += '<span class="badge remote">Remote</span> '
         jobs_cell = f"{badges}{c['job_count']}"
     else:
         jobs_cell = '<span class="badge unsupported">not yet supported</span>'

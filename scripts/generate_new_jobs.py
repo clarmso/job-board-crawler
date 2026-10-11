@@ -519,17 +519,6 @@ HTML_TEMPLATE = """<!DOCTYPE html>
     margin-left: 0.5rem;
     white-space: nowrap;
   }}
-  .job-mode {{
-    display: inline-block;
-    margin-left: 0.4rem;
-    padding: 0.05rem 0.5rem;
-    border-radius: 999px;
-    border: 1px solid var(--border);
-    font-size: 0.75rem;
-  }}
-  .job-mode.remote {{ color: #047857; border-color: #a7f3d0; background: #ecfdf5; }}
-  .job-mode.hybrid {{ color: #b45309; border-color: #fde68a; background: #fffbeb; }}
-  .job-mode.on-site {{ color: #4338ca; border-color: #c7d2fe; background: #eef2ff; }}
   .job-canada {{
     display: inline-block;
     margin-left: 0.4rem;
@@ -580,15 +569,11 @@ def _render_job_item(job):
     title = html.escape(job["title"])
     url = html.escape(job["url"])
     location = job.get("location") or ""
-    mode = job.get("mode") or ""
     is_canada = job.get("canada")
 
     badges = []
     if is_canada:
         badges.append('<span class="job-canada">🇨🇦 Canada</span>')
-    if mode:
-        mode_class = mode.lower().replace(" ", "-")
-        badges.append(f'<span class="job-mode {mode_class}">{html.escape(mode)}</span>')
     badges_html = " ".join(badges)
 
     meta_parts = []
