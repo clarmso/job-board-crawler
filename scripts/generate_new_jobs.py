@@ -562,10 +562,10 @@ HTML_TEMPLATE = """<!DOCTYPE html>
   <header id="top">
     <a id="brand" href="index.html">openings.info</a>
     <div id="meta">{meta}</div>
-    <nav id="nav"><a href="companies.html">Companies crawled &rarr;</a></nav>
   </header>
 
 {toc}
+  <nav id="nav"><a href="companies.html">Companies crawled &rarr;</a></nav>
   <main id="results">
 {results}
   </main>
