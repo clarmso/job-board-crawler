@@ -561,7 +561,6 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 <body>
   <header id="top">
     <a id="brand" href="index.html">openings.info</a>
-    <h1>New Jobs</h1>
     <div id="meta">{meta}</div>
     <nav id="nav"><a href="companies.html">Companies crawled &rarr;</a></nav>
   </header>
