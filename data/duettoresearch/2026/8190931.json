@@ -1,0 +1,63 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/duettoresearch/jobs/8190931",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 3544542,
+  "location": {
+    "name": "Croatia; Spain ; United Kingdom"
+  },
+  "metadata": null,
+  "id": 8190931,
+  "updated_at": "2026-09-16T03:24:53-04:00",
+  "requisition_id": "535",
+  "title": "Senior DevOps Engineer (AWS)",
+  "company_name": "Duetto Research",
+  "first_published": "2026-09-16T03:24:53-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p class=&quot;p1&quot;&gt;Thousands of hotels, resorts, and casinos around the world depend on Duetto’s platform to run their revenue strategy — and you’ll be one of the people making sure it never lets them down. As a Senior DevOps Engineer, you’ll own the infrastructure that powers our global SaaS platform: designing for scale, building for reliability, and driving the kind of security-first culture that keeps us ahead of the curve. If you thrive in complex cloud environments, love solving hard problems, and want your work to have real, tangible impact — this is the role.&lt;/p&gt;\n&lt;p class=&quot;p2&quot;&gt;&lt;strong&gt;What makes us different?&lt;/strong&gt;&lt;/p&gt;\n&lt;p class=&quot;p1&quot;&gt;Duetto is the hospitality industry’s leading revenue management platform, founded in 2012 by former Wynn Resorts executives who knew the industry needed better technology. We built the world’s first Revenue &amp;amp; Profit Operating System — a suite of tools (GameChanger, ScoreBoard, BlockBuster, Advance and more) that goes beyond room pricing to give hotels, resorts and casinos a complete picture of their revenue and profitability.&lt;/p&gt;\n&lt;p class=&quot;p1&quot;&gt;Trusted by clients ranging from independent boutique hotels to global chains, we’ve been named the #1 Revenue Management Software by HotelTechAwards four years running and the #1 Best Place to Work in Hotel Tech in 2025. Backed by GrowthCurve Capital since 2024, we’re accelerating our investment in AI — and we’re genuinely passionate about the industry we serve. We build products we’re proud of, for customers we care about.&lt;/p&gt;\n&lt;p class=&quot;p3&quot;&gt;&lt;strong&gt;What you’ll be doing&lt;/strong&gt;&lt;/p&gt;\n&lt;ul class=&quot;ul1&quot;&gt;\n&lt;li&gt;Design and implement robust, scalable AWS infrastructure — supporting key system migrations, platform growth, and the reliability our customers depend on.&lt;/li&gt;\n&lt;li&gt;Own the reliability, performance, and security of our production environment: high uptime, rapid incident resolution, and proactive capacity planning.&lt;/li&gt;\n&lt;li&gt;Build and maintain CI/CD pipelines, deployment automation, and infrastructure-as-code using Terraform, Terragrunt, and Chef.&lt;/li&gt;\n&lt;li&gt;Monitor system health using enterprise observability tools (Prometheus, Grafana, DataDog), defining metrics and response playbooks that get ahead of incidents before they happen.&lt;/li&gt;\n&lt;li&gt;Lead security-first practices across the infrastructure estate — proactively addressing vulnerabilities and driving SOC 2 compliance.&lt;/li&gt;\n&lt;li&gt;Partner with engineering teams to integrate operational requirements into the development lifecycle and align on architecture decisions.&lt;/li&gt;\n&lt;li&gt;Champion AI adoption within DevOps and SRE workflows, evaluating tooling that increases team velocity and reduces toil.&lt;/li&gt;\n&lt;li&gt;Respond to on-call incidents with urgency — troubleshoot complex issues, lead detailed root cause analyses, and implement fixes that prevent recurrence.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p class=&quot;p3&quot;&gt;&lt;strong&gt;What we’re looking for&lt;/strong&gt;&lt;/p&gt;\n&lt;p class=&quot;p5&quot;&gt;&lt;strong&gt;You may be a great fit if you have:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul class=&quot;ul1&quot;&gt;\n&lt;li&gt;5+ years in a DevOps, SRE, or infrastructure engineering role.&lt;/li&gt;\n&lt;li&gt;Hands-on AWS experience across IAM, VPC, EC2, ELB, RDS, S3, Lambda, API Gateway, Secrets Manager, KMS, CloudWatch, and CloudTrail — including multi-account management and SSO.&lt;/li&gt;\n&lt;li&gt;Proficiency with Terraform for infrastructure-as-code, plus experience with configuration management tools like Chef or Ansible.&lt;/li&gt;\n&lt;li&gt;Experience with CI/CD tooling including GitHub, GitHub Actions, JFrog Artifactory, and Jenkins, with familiarity with GitOps methodologies.&lt;/li&gt;\n&lt;li&gt;Experience with container and orchestration technologies — Docker, ECS, or EKS.&lt;/li&gt;\n&lt;li&gt;Strong working knowledge of enterprise monitoring platforms — Prometheus, Grafana, or DataDog.&lt;/li&gt;\n&lt;li&gt;Solid troubleshooting skills and a track record of leading root cause analyses and implementing durable fixes.&lt;/li&gt;\n&lt;li&gt;Proficiency reading Java, Ruby, Bash/Zsh, HCL, Python, and JavaScript.&lt;/li&gt;\n&lt;li&gt;Experience with SOC 2 compliance and security-first infrastructure practices.&lt;/li&gt;\n&lt;li&gt;Comfort with a weekly on-call rotation.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p class=&quot;p5&quot;&gt;&lt;strong&gt;Strong candidates may also have:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul class=&quot;ul1&quot;&gt;\n&lt;li&gt;Experience migrating workloads from on-prem or colocation environments to AWS.&lt;/li&gt;\n&lt;li&gt;Familiarity with Windows Server, SQL Server, IIS, and .NET environments.&lt;/li&gt;\n&lt;li&gt;Experience administering and synchronising MongoDB replica sets.&lt;/li&gt;\n&lt;li&gt;Knowledge of ISO 27001, Layer 7 load balancing, or Terragrunt.&lt;/li&gt;\n&lt;li&gt;Background in hospitality technology.&lt;/li&gt;\n&lt;li&gt;A degree in Computer Science or a related field — or equivalent experience.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p class=&quot;p3&quot;&gt;&lt;strong&gt;Why Duetto?&lt;/strong&gt;&lt;/p&gt;\n&lt;ul class=&quot;ul1&quot;&gt;\n&lt;li class=&quot;li4&quot;&gt;&lt;strong&gt;Infrastructure that matters — &lt;/strong&gt;your work directly underpins a platform that hotel operators around the world rely on every day. The stakes are real, and so is the satisfaction.&lt;/li&gt;\n&lt;li class=&quot;li4&quot;&gt;&lt;strong&gt;AI is how we work — &lt;/strong&gt;we’re not just talking about AI adoption; we’re actively investing in it across every function, including DevOps. You’ll have space to evaluate and implement tooling that makes a genuine difference.&lt;/li&gt;\n&lt;li class=&quot;li4&quot;&gt;&lt;strong&gt;A team that moves fast — &lt;/strong&gt;you’ll report into the Senior DevOps Manager and work alongside engineers who are serious about craft, reliability, and continuous improvement.&lt;/li&gt;\n&lt;li class=&quot;li4&quot;&gt;&lt;strong&gt;Growth with purpose — &lt;/strong&gt;backed by GrowthCurve Capital, we’re scaling our platform and our team. There’s a lot being built here, and senior engineers have real influence over how it’s done.&lt;/li&gt;\n&lt;li class=&quot;li4&quot;&gt;&lt;strong&gt;Come as you are — &lt;/strong&gt;we’re a diverse, distributed team that values different perspectives and builds inclusively.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p class=&quot;p3&quot;&gt;&lt;strong&gt;The details&lt;/strong&gt;&lt;/p&gt;\n&lt;p class=&quot;p4&quot;&gt;&lt;span class=&quot;s1&quot;&gt;&lt;strong&gt;Location:&lt;span class=&quot;Apple-converted-space&quot;&gt;&amp;nbsp; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;Croatia&lt;/p&gt;\n&lt;p class=&quot;p6&quot;&gt;&lt;strong&gt;Work model:&lt;span class=&quot;Apple-converted-space&quot;&gt;&amp;nbsp; &lt;/span&gt;&lt;/strong&gt;&lt;span class=&quot;s2&quot;&gt;Remote&lt;/span&gt;&lt;/p&gt;\n&lt;p class=&quot;p4&quot;&gt;&lt;span class=&quot;s1&quot;&gt;&lt;strong&gt;Reports to:&lt;span class=&quot;Apple-converted-space&quot;&gt;&amp;nbsp; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;Senior DevOps Manager&lt;/p&gt;\n&lt;p class=&quot;p7&quot;&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p class=&quot;p8&quot;&gt;&lt;em&gt;Duetto is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, colour, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, or any other characteristic protected by applicable law.&lt;/em&gt;&lt;/p&gt;\n&lt;p class=&quot;p3&quot;&gt;&lt;strong&gt;Sound like you?&lt;/strong&gt;&lt;/p&gt;\n&lt;p class=&quot;p4&quot;&gt;We’d love to hear from you — even if you don’t tick every box. Diverse perspectives and non-traditional paths make our team stronger. Apply and let’s talk.&lt;/p&gt;\n&lt;p class=&quot;p4&quot;&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p class=&quot;p4&quot;&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p class=&quot;p4&quot;&gt;#LI-REMOTE&lt;/p&gt;",
+  "departments": [
+    {
+      "id": 30508,
+      "name": "Engineering",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 337794,
+      "name": "Croatia",
+      "location": "Croatia",
+      "child_ids": [],
+      "parent_id": null
+    },
+    {
+      "id": 21161,
+      "name": "Spain ",
+      "location": null,
+      "child_ids": [],
+      "parent_id": null
+    },
+    {
+      "id": 337796,
+      "name": "United Kingdom",
+      "location": null,
+      "child_ids": [
+        344336
+      ],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

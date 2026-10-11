@@ -25,8 +25,8 @@
     "label": "Computer Networking"
   },
   "department": {
-    "id": "1650418",
-    "label": "Engineering & Operations"
+    "id": "1455224",
+    "label": "Software Engineering"
   },
   "function": {
     "id": "engineering",
@@ -50,14 +50,20 @@
     {
       "fieldId": "58b81d3de4b06dbf7dd514e1",
       "fieldLabel": "Department",
-      "valueId": "1650418",
-      "valueLabel": "Engineering & Operations"
+      "valueId": "1455224",
+      "valueLabel": "Software Engineering"
     },
     {
       "fieldId": "58b81d3de4b06dbf7dd514e0",
       "fieldLabel": "Brands",
       "valueId": "default",
       "valueLabel": "Arista Networks"
+    },
+    {
+      "fieldId": "62a7845974fe2c08874d5452",
+      "fieldLabel": "Role",
+      "valueId": "4e150511-63af-4e42-850a-47ad805607cc",
+      "valueLabel": "Senior"
     }
   ],
   "visibility": "PUBLIC",

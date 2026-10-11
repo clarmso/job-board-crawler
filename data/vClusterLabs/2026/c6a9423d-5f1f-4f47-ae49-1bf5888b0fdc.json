@@ -1,0 +1,170 @@
+{
+  "id": "c6a9423d-5f1f-4f47-ae49-1bf5888b0fdc",
+  "title": "Engineering Tech Lead (vNode)",
+  "department": "Engineering",
+  "team": "Engineering",
+  "employmentType": "FullTime",
+  "location": "United States",
+  "shouldDisplayCompensationOnJobPostings": true,
+  "secondaryLocations": [
+    {
+      "location": "EMEA",
+      "address": {
+        "postalAddress": {}
+      }
+    },
+    {
+      "location": "Germany",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "Germany"
+        }
+      }
+    }
+  ],
+  "publishedAt": "2026-05-27T14:11:57.634+00:00",
+  "isListed": true,
+  "isRemote": true,
+  "workplaceType": "Remote",
+  "address": {
+    "postalAddress": {
+      "addressCountry": "United States"
+    }
+  },
+  "jobUrl": "https://jobs.ashbyhq.com/vClusterLabs/c6a9423d-5f1f-4f47-ae49-1bf5888b0fdc",
+  "applyUrl": "https://jobs.ashbyhq.com/vClusterLabs/c6a9423d-5f1f-4f47-ae49-1bf5888b0fdc/application",
+  "descriptionHtml": "<p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">As an <strong>Engineering Tech Lead </strong>at vCluster Labs, you aren't just shipping container runtime features; you are defining how Kubernetes operators get VM-grade tenant isolation without the VM tax. vNode replaces virtual kubelets and microVMs with a runtime built on Linux user namespaces and seccomp, and the person in this seat owns where that runtime goes next. You will partner directly with the vNode founding engineers, run the technical bar for the team, and ship the work that decides whether AI Clouds and regulated enterprises can adopt vNode as their default isolation layer.</p><p style=\"min-height:1.5em\"><strong>As an Engineering Tech Lead, your role will include:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>Owning the vNode technical execution:</strong> Drive the architecture for how vNode wraps containerd, integrates with the kubelet, and exposes safe isolation primitives. You will set the bar for what ships, what gets deferred, and what gets redesigned.</p></li><li><p style=\"min-height:1.5em\"><strong>Going deep on container runtimes and isolation:</strong> Lead the work where vNode meets containerd, Kata Containers, gVisor, runc, and the kernel. You will be the person who can explain (and improve) exactly what happens between a Pod spec and a process running under a constrained user namespace with a tight seccomp profile.</p></li><li><p style=\"min-height:1.5em\"><strong>Shipping the kubelet integration surface:</strong> Own how vNode plugs into the node lifecycle: CRI, kubelet device plugins, cgroups v2, eviction, and the rough edges between Kubernetes' node model and a runtime that does not assume one tenant per node.</p></li><li><p style=\"min-height:1.5em\"><strong>Raising the engineering bar:</strong> Run technical design reviews, set the pattern for testing isolation guarantees, and mentor the engineers shipping alongside you. You are not a people manager, but you are the engineer the team copies.</p></li><li><p style=\"min-height:1.5em\"><strong>Being Customer Zero for vNode:</strong> Run vNode against vCluster Platform tenant clusters internally before customers see it. You will close the loop between what AI Cloud operators need and what vNode actually does in production.</p></li><li><p style=\"min-height:1.5em\"><strong>Representing vNode externally:</strong> Contribute upstream where it matters (containerd, runc, Kubernetes SIG-Node), write the technical posts that explain why namespace-based isolation is the right answer, and represent vCluster Labs at KubeCon-class venues when the timing is right.</p></li></ul><p style=\"min-height:1.5em\"><strong>This role could be a fit for you if you bring:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>Deep container runtime experience:</strong> You have shipped production work against containerd directly, not just consumed it through Docker or Kubernetes. Direct experience with Kata Containers, gVisor, or another sandboxed/isolated runtime is a strong plus.</p></li><li><p style=\"min-height:1.5em\"><strong>Kubernetes node-level depth:</strong> You have worked inside the kubelet, the CRI layer, or a node-resident agent. You know what cgroups v2, OCI hooks, and the kubelet's PLEG do and where they break.</p></li><li><p style=\"min-height:1.5em\"><strong>Go systems programming chops:</strong> You write production Go for systems-level code (syscalls, namespaces, file descriptors, process lifecycle), not just service handlers.</p></li><li><p style=\"min-height:1.5em\"><strong>Linux isolation fluency:</strong> User namespaces, seccomp-bpf, capabilities, and Landlock are not abstract concepts; you have shipped against them and can reason about their failure modes.</p></li><li><p style=\"min-height:1.5em\"><strong>Tech Lead instincts:</strong> You set technical direction by writing the design doc, prototyping the hard part, and then bringing the team along. You raise the bar without becoming the bottleneck.</p></li></ul><p style=\"min-height:1.5em\"><strong>Bonus points for:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>Upstream contribution history:</strong> Meaningful commits to containerd, runc, Kata, gVisor, Kubernetes SIG-Node, or related projects.</p></li><li><p style=\"min-height:1.5em\"><strong>Tenant Isolation domain expertise:</strong> You have built or operated infrastructure where the threat model includes hostile workloads on shared hosts (AI Cloud operators, multi-tenant SaaS, regulated industries).</p></li><li><p style=\"min-height:1.5em\"><strong>Public technical voice:</strong> Talks, posts, or RFCs that move the conversation on container isolation.</p></li></ul><h2><strong>About vCluster Labs</strong></h2><p style=\"min-height:1.5em\">We're the #1 platform for AI infrastructure, trusted by the world's fastest-growing AI cloud builders. We're a venture-backed startup that's raised over $28M from top-tier investors including Khosla Ventures (first investor in OpenAI, GitLab, Stripe, and DoorDash), and we're in a hyper-growth phase looking for motivated people to join our team. Our headquarters are in San Francisco (Salesforce Tower), but our team is distributed around the globe with a remote-first culture.</p><p style=\"min-height:1.5em\">We give AI Cloud providers and AI factories a hyperscaler-like experience on their own GPU infrastructure. Our platform runs the full stack an operator needs, from bare metal provisioning and node lifecycle management up through managed Kubernetes, Slurm, Ray, and inference clusters, so they can turn raw GPUs into cluster products they can sell in days instead of spending 12+ months building it themselves. Today we power over 100,000 GPUs and 1 million CPUs across 50+ AI clouds and Fortune 500 companies, backed by a team of 40+ infrastructure engineers who build alongside our customers rather than just shipping them software.</p><p style=\"min-height:1.5em\">We're the company behind vCluster, the open source technology for tenant isolation on Kubernetes, with 11,000+ GitHub stars and 40M+ tenant clusters created since 2021. Open source is part of our DNA. At KubeCon North America 2025, we launched our Infrastructure Tenancy Platform for AI, a Kubernetes-native framework built for running AI, ML, and GPU-intensive workloads anywhere, with an NVIDIA-validated reference architecture for DGX systems.</p><p style=\"min-height:1.5em\"><strong>Benefits</strong></p><p style=\"min-height:1.5em\">We offer the following benefits:</p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>Competitive Salary</strong>: We offer a competitive compensation package, including equity.</p></li><li><p style=\"min-height:1.5em\"><strong>Premium Insurance</strong>: Health, dental, vision, and life Insurance, including plans for you and eligible dependents (benefits vary depending on country).</p></li><li><p style=\"min-height:1.5em\"><strong>Flexible Working Schedule:  </strong>You have a doctor’s appointment or need to head to the supermarket to get groceries at 2pm? We won’t have an issue with that. To us, results matter more than clocking in and out at the same time every day.</p></li><li><p style=\"min-height:1.5em\"><strong>Workplace Flexibility: </strong> We’re very flexible about where you work. We know things can change in life and we’re happy to adjust the work environment for you along the way.</p></li></ul><h2></h2><h2><strong>Culture &amp; Values</strong></h2><p style=\"min-height:1.5em\">At vCluster Labs, we value and stand for:</p><ol style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>Make it Happen: </strong>We have a relentless bias for action and the grit to push through obstacles. We do whatever it takes to figure it out, put in the work, and ruthlessly prioritize the actions that drive measurable impact for the business.</p></li><li><p style=\"min-height:1.5em\"><strong>Own the Outcome: </strong>We understand that our responsibility doesn't end when a task is checked off; it ends when the value is delivered. We connect our daily individual actions to the broader success of the company and our customers.</p></li><li><p style=\"min-height:1.5em\"><strong>Create Wow: </strong>We measure success by the experience we generate, both inside and outside the company. For our customers, this means impressive speed and intuitive experiences. For our team, this means going the extra mile to support one another and to continuously drive each other to new heights.</p></li><li><p style=\"min-height:1.5em\"><strong>Open Source, Open Mind:</strong> We are actively contributing to and maintaining open-source projects. Internally, we foster meritocracy — the strongest ideas win, no matter who or where they come from.</p></li><li><p style=\"min-height:1.5em\"><strong>Build Tomorrow’s Standards, Intentionally:</strong> We don't just ship software; we define the state-of-the-art of tomorrow. We are fearless in tearing down old approaches to build something better, but we are disciplined in how we do it because we know our users rely on our technology to run mission-critical infrastructure platforms.</p><p style=\"min-height:1.5em\"></p></li></ol><p style=\"min-height:1.5em\"></p>",
+  "descriptionPlain": "As an Engineering Tech Lead at vCluster Labs, you aren't just shipping container runtime features; you are defining how Kubernetes operators get VM-grade tenant isolation without the VM tax. vNode replaces virtual kubelets and microVMs with a runtime built on Linux user namespaces and seccomp, and the person in this seat owns where that runtime goes next. You will partner directly with the vNode founding engineers, run the technical bar for the team, and ship the work that decides whether AI Clouds and regulated enterprises can adopt vNode as their default isolation layer.\n\nAs an Engineering Tech Lead, your role will include:\n\n - Owning the vNode technical execution: Drive the architecture for how vNode wraps containerd, integrates with the kubelet, and exposes safe isolation primitives. You will set the bar for what ships, what gets deferred, and what gets redesigned.\n\n - Going deep on container runtimes and isolation: Lead the work where vNode meets containerd, Kata Containers, gVisor, runc, and the kernel. You will be the person who can explain (and improve) exactly what happens between a Pod spec and a process running under a constrained user namespace with a tight seccomp profile.\n\n - Shipping the kubelet integration surface: Own how vNode plugs into the node lifecycle: CRI, kubelet device plugins, cgroups v2, eviction, and the rough edges between Kubernetes' node model and a runtime that does not assume one tenant per node.\n\n - Raising the engineering bar: Run technical design reviews, set the pattern for testing isolation guarantees, and mentor the engineers shipping alongside you. You are not a people manager, but you are the engineer the team copies.\n\n - Being Customer Zero for vNode: Run vNode against vCluster Platform tenant clusters internally before customers see it. You will close the loop between what AI Cloud operators need and what vNode actually does in production.\n\n - Representing vNode externally: Contribute upstream where it matters (containerd, runc, Kubernetes SIG-Node), write the technical posts that explain why namespace-based isolation is the right answer, and represent vCluster Labs at KubeCon-class venues when the timing is right.\n\nThis role could be a fit for you if you bring:\n\n - Deep container runtime experience: You have shipped production work against containerd directly, not just consumed it through Docker or Kubernetes. Direct experience with Kata Containers, gVisor, or another sandboxed/isolated runtime is a strong plus.\n\n - Kubernetes node-level depth: You have worked inside the kubelet, the CRI layer, or a node-resident agent. You know what cgroups v2, OCI hooks, and the kubelet's PLEG do and where they break.\n\n - Go systems programming chops: You write production Go for systems-level code (syscalls, namespaces, file descriptors, process lifecycle), not just service handlers.\n\n - Linux isolation fluency: User namespaces, seccomp-bpf, capabilities, and Landlock are not abstract concepts; you have shipped against them and can reason about their failure modes.\n\n - Tech Lead instincts: You set technical direction by writing the design doc, prototyping the hard part, and then bringing the team along. You raise the bar without becoming the bottleneck.\n\nBonus points for:\n\n - Upstream contribution history: Meaningful commits to containerd, runc, Kata, gVisor, Kubernetes SIG-Node, or related projects.\n\n - Tenant Isolation domain expertise: You have built or operated infrastructure where the threat model includes hostile workloads on shared hosts (AI Cloud operators, multi-tenant SaaS, regulated industries).\n\n - Public technical voice: Talks, posts, or RFCs that move the conversation on container isolation.\n\n\nABOUT VCLUSTER LABS\n\nWe're the #1 platform for AI infrastructure, trusted by the world's fastest-growing AI cloud builders. We're a venture-backed startup that's raised over $28M from top-tier investors including Khosla Ventures (first investor in OpenAI, GitLab, Stripe, and DoorDash), and we're in a hyper-growth phase looking for motivated people to join our team. Our headquarters are in San Francisco (Salesforce Tower), but our team is distributed around the globe with a remote-first culture.\n\nWe give AI Cloud providers and AI factories a hyperscaler-like experience on their own GPU infrastructure. Our platform runs the full stack an operator needs, from bare metal provisioning and node lifecycle management up through managed Kubernetes, Slurm, Ray, and inference clusters, so they can turn raw GPUs into cluster products they can sell in days instead of spending 12+ months building it themselves. Today we power over 100,000 GPUs and 1 million CPUs across 50+ AI clouds and Fortune 500 companies, backed by a team of 40+ infrastructure engineers who build alongside our customers rather than just shipping them software.\n\nWe're the company behind vCluster, the open source technology for tenant isolation on Kubernetes, with 11,000+ GitHub stars and 40M+ tenant clusters created since 2021. Open source is part of our DNA. At KubeCon North America 2025, we launched our Infrastructure Tenancy Platform for AI, a Kubernetes-native framework built for running AI, ML, and GPU-intensive workloads anywhere, with an NVIDIA-validated reference architecture for DGX systems.\n\nBenefits\n\nWe offer the following benefits:\n\n - Competitive Salary: We offer a competitive compensation package, including equity.\n\n - Premium Insurance: Health, dental, vision, and life Insurance, including plans for you and eligible dependents (benefits vary depending on country).\n\n - Flexible Working Schedule:  You have a doctor’s appointment or need to head to the supermarket to get groceries at 2pm? We won’t have an issue with that. To us, results matter more than clocking in and out at the same time every day.\n\n - Workplace Flexibility:  We’re very flexible about where you work. We know things can change in life and we’re happy to adjust the work environment for you along the way.\n\n\n\n\n\nCULTURE & VALUES\n\nAt vCluster Labs, we value and stand for:\n\n 1. Make it Happen: We have a relentless bias for action and the grit to push through obstacles. We do whatever it takes to figure it out, put in the work, and ruthlessly prioritize the actions that drive measurable impact for the business.\n\n 2. Own the Outcome: We understand that our responsibility doesn't end when a task is checked off; it ends when the value is delivered. We connect our daily individual actions to the broader success of the company and our customers.\n\n 3. Create Wow: We measure success by the experience we generate, both inside and outside the company. For our customers, this means impressive speed and intuitive experiences. For our team, this means going the extra mile to support one another and to continuously drive each other to new heights.\n\n 4. Open Source, Open Mind: We are actively contributing to and maintaining open-source projects. Internally, we foster meritocracy — the strongest ideas win, no matter who or where they come from.\n\n 5. Build Tomorrow’s Standards, Intentionally: We don't just ship software; we define the state-of-the-art of tomorrow. We are fearless in tearing down old approaches to build something better, but we are disciplined in how we do it because we know our users rely on our technology to run mission-critical infrastructure platforms.\n    \n    \n\n",
+  "compensation": {
+    "compensationTierSummary": "$138K – $220K • Offers Equity • Offers Bonus • Multiple Ranges",
+    "scrapeableCompensationSalarySummary": "$138K - $220K",
+    "compensationTiers": [
+      {
+        "id": "be400dda-c720-4a5f-a5f5-f6574cf65e03",
+        "tierSummary": "$138K – $220K • Offers Equity • Offers Bonus",
+        "title": "US",
+        "additionalInformation": null,
+        "components": [
+          {
+            "id": "834975a2-5248-4d0b-9002-2d0b1d001fc9",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "28fbd429-563e-4b19-a1d3-c53a84118c0e",
+            "summary": "Offers Bonus",
+            "compensationType": "Bonus",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "71e1a706-a239-4c1a-a76d-a1aedcaeda52",
+            "summary": "$138K – $220K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 138000,
+            "maxValue": 220000
+          }
+        ]
+      },
+      {
+        "id": "99502f51-e04a-47d2-89c2-3222824f6c1b",
+        "tierSummary": "€75K – €150K • Offers Equity • Offers Bonus",
+        "title": "Germany",
+        "additionalInformation": null,
+        "components": [
+          {
+            "id": "12e539f4-8c2f-4e23-94d3-f39ae2b027f0",
+            "summary": "€75K – €150K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "EUR",
+            "minValue": 75000,
+            "maxValue": 150000
+          },
+          {
+            "id": "0c15b3e7-85f6-48b2-83f6-5ca64c32c5c1",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "781914a1-4167-4e4e-a3f3-6c1a53e0f520",
+            "summary": "Offers Bonus",
+            "compensationType": "Bonus",
+            "interval": "1 YEAR",
+            "currencyCode": "EUR",
+            "minValue": null,
+            "maxValue": null
+          }
+        ]
+      },
+      {
+        "id": "957989b8-2b2c-45cd-967a-6e4115a23dbe",
+        "tierSummary": "CA$190K – CA$220K • Offers Equity • Offers Bonus",
+        "title": "Canada",
+        "additionalInformation": null,
+        "components": [
+          {
+            "id": "26d68290-9f66-4c8d-8f3f-3a701e12d768",
+            "summary": "Offers Bonus",
+            "compensationType": "Bonus",
+            "interval": "1 YEAR",
+            "currencyCode": "CAD",
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "86e0f534-faaf-45f6-9af1-699672c59eff",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "56abe289-bf55-46ac-b105-80fdb60f7c35",
+            "summary": "CA$190K – CA$220K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "CAD",
+            "minValue": 190000,
+            "maxValue": 220000
+          }
+        ]
+      }
+    ],
+    "summaryComponents": [
+      {
+        "compensationType": "EquityPercentage",
+        "minValue": null,
+        "maxValue": null,
+        "interval": "1 YEAR"
+      },
+      {
+        "compensationType": "Bonus",
+        "minValue": null,
+        "maxValue": null,
+        "interval": "1 YEAR"
+      },
+      {
+        "compensationType": "Salary",
+        "interval": "1 YEAR",
+        "currencyCode": "USD",
+        "minValue": 138000,
+        "maxValue": 220000
+      }
+    ]
+  }
+}
