@@ -431,6 +431,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
     --border: #e2e2e2;
     --muted: #6b7280;
     --accent: #2563eb;
+    --accent-orange: #e69f00;
     --bg: #ffffff;
     --brand: #1c2829;
     --font-brand: "Atkinson Hyperlegible", "Inter", sans-serif;
@@ -474,7 +475,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
   #nav a:hover {{ text-decoration: underline; }}
   #toc {{
     background: #f9fafb;
-    border: 1px solid var(--border);
+    border: 2px solid var(--accent-orange);
     border-radius: 8px;
     padding: 1rem 1.25rem;
     margin-bottom: 2rem;
