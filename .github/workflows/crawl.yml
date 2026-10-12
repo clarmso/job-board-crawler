@@ -41,6 +41,15 @@ jobs:
         if: always()
         run: python scripts/generate_companies_page.py
 
+      - name: Post new jobs digest to social media
+        if: always()
+        env:
+          MASTODON_INSTANCE_URL: ${{ secrets.MASTODON_INSTANCE_URL }}
+          MASTODON_ACCESS_TOKEN: ${{ secrets.MASTODON_ACCESS_TOKEN }}
+          BLUESKY_HANDLE: ${{ secrets.BLUESKY_HANDLE }}
+          BLUESKY_APP_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD }}
+        run: python scripts/post_social.py
+
       - name: Commit changes
         if: always()
         run: |
