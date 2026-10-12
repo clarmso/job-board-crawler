@@ -83,9 +83,9 @@ def _find_new_jobs(manifest, already_announced):
 
 
 def _build_message(job_count, company_names, url, max_len=MAX_MESSAGE_LEN):
-    prefix = f"{job_count} new job{'s' if job_count != 1 else ''} today on openings.info: "
-    suffix = f" {url}"
-    budget = max_len - len(prefix) - len(suffix) - 1  # -1 for the trailing period
+    prefix = f"{job_count} new #job{'s' if job_count != 1 else ''} today:\n"
+    suffix = f"\n{url}"
+    budget = max_len - len(prefix) - len(suffix)
 
     included = []
     remaining = list(company_names)
@@ -101,7 +101,7 @@ def _build_message(job_count, company_names, url, max_len=MAX_MESSAGE_LEN):
     more_count = len(remaining)
     trailer = f" +{more_count} more" if more_count else ""
     body = ", ".join(included) + trailer
-    return f"{prefix}{body}.{suffix}"
+    return f"{prefix}{body}{suffix}"
 
 
 def _post_mastodon(message):
