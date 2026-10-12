@@ -436,17 +436,6 @@ HTML_TEMPLATE = """<!DOCTYPE html>
     border-radius: 8px;
     margin-bottom: 0.75rem;
   }}
-  #canada-toggle, #remote-toggle {{
-    display: inline-flex;
-    align-items: center;
-    gap: 0.4rem;
-    font-size: 0.9rem;
-    color: #374151;
-    margin-bottom: 1.25rem;
-    margin-right: 1.25rem;
-    cursor: pointer;
-  }}
-  #canada-toggle input, #remote-toggle input {{ cursor: pointer; }}
   table {{
     width: 100%;
     border-collapse: collapse;
@@ -502,12 +491,6 @@ HTML_TEMPLATE = """<!DOCTYPE html>
   </header>
 
   <input id="search" type="search" placeholder="Filter by company or ATS..." autocomplete="off" />
-  <label id="canada-toggle">
-    <input type="checkbox" id="canada-only" /> Only show companies with openings based in Canada
-  </label>
-  <label id="remote-toggle">
-    <input type="checkbox" id="remote-only" /> Only show companies with worldwide-remote openings
-  </label>
 
   <table id="companies-table">
     <thead>
@@ -526,8 +509,6 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 
   <script>
     const input = document.getElementById("search");
-    const canadaOnly = document.getElementById("canada-only");
-    const remoteOnly = document.getElementById("remote-only");
     const rows = Array.from(document.querySelectorAll("#companies-table tbody tr"));
     const emptyMsg = document.getElementById("empty-filter");
 
@@ -535,10 +516,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
       const q = input.value.trim().toLowerCase();
       let visible = 0;
       rows.forEach((row) => {{
-        const matchesSearch = row.dataset.search.includes(q);
-        const matchesCanada = !canadaOnly.checked || row.dataset.canada === "true";
-        const matchesRemote = !remoteOnly.checked || row.dataset.remote === "true";
-        const match = matchesSearch && matchesCanada && matchesRemote;
+        const match = row.dataset.search.includes(q);
         row.style.display = match ? "" : "none";
         if (match) visible++;
       }});
@@ -546,8 +524,6 @@ HTML_TEMPLATE = """<!DOCTYPE html>
     }}
 
     input.addEventListener("input", applyFilters);
-    canadaOnly.addEventListener("change", applyFilters);
-    remoteOnly.addEventListener("change", applyFilters);
   </script>
 </body>
 </html>
@@ -559,8 +535,6 @@ def _render_row(c):
     ats = html.escape(c["ats"])
     hq = html.escape(c["hq_country"]) if c["hq_country"] else "&mdash;"
     search_key = html.escape(f"{c['name']} {c['ats']} {c['hq_country']}".lower())
-    is_canada = "true" if c["canada_job_count"] > 0 else "false"
-    is_remote = "true" if c["remote_job_count"] > 0 else "false"
 
     if c["careers_url"]:
         name_cell = (
@@ -579,7 +553,7 @@ def _render_row(c):
         jobs_cell = '<span class="badge unsupported">not yet supported</span>'
 
     return (
-        f'      <tr data-search="{search_key}" data-canada="{is_canada}" data-remote="{is_remote}">\n'
+        f'      <tr data-search="{search_key}">\n'
         f"        <td>{name_cell}</td>\n"
         f"        <td>{ats}</td>\n"
         f"        <td>{hq}</td>\n"
