@@ -433,7 +433,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
     --accent: #2563eb;
     --accent-vermillion: #d55e00;
     --bg: #ffffff;
-    --brand: #1c2829;
+    --brand: var(--accent-vermillion);
     --font-brand: "Atkinson Hyperlegible", "Inter", sans-serif;
     --font-body: "Inter", "Atkinson Hyperlegible", sans-serif;
   }}
