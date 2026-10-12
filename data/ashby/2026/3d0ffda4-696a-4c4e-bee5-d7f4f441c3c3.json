@@ -162,15 +162,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "b01f44cf-fc58-4674-b0c6-4e51ce9825e3",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "30209457-b2e5-44ec-a68b-10505b071505",
             "summary": "Base Salary €94K – €108K",
             "compensationType": "Salary",
@@ -178,6 +169,15 @@
             "currencyCode": "EUR",
             "minValue": 94000,
             "maxValue": 108000
+          },
+          {
+            "id": "b01f44cf-fc58-4674-b0c6-4e51ce9825e3",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           }
         ]
       },
