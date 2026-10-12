@@ -535,9 +535,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
   }}
   .company li {{
     padding: 0.4rem 0;
-    border-bottom: 1px dashed var(--border);
   }}
-  .company li:last-child {{ border-bottom: none; }}
   .company a {{
     color: #111827;
     text-decoration: none;
