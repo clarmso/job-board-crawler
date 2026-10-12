@@ -440,7 +440,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
   * {{ box-sizing: border-box; }}
   body {{
     font-family: var(--font-body);
-    max-width: 860px;
+    max-width: 900px;
     margin: 0 auto;
     padding: 2rem 1.25rem 4rem;
     color: #111827;
@@ -462,7 +462,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
   #meta {{
     color: var(--muted);
     font-size: 0.9rem;
-    margin-bottom: 0.5rem;
+    margin-bottom: 0.75rem;
   }}
   #nav {{
     margin-bottom: 1.5rem;
