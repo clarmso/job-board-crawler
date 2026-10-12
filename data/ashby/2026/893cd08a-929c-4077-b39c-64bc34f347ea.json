@@ -152,15 +152,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "d40f5b0d-be80-4d82-be7d-1d0a2aa14003",
-            "summary": "South Korea ₩122,500,000 – ₩172,720,000",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "KRW",
-            "minValue": 122500000,
-            "maxValue": 172720000
-          },
-          {
             "id": "60ca29f4-8a47-4817-a1e0-4b73312b6f61",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
@@ -168,6 +159,15 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "d40f5b0d-be80-4d82-be7d-1d0a2aa14003",
+            "summary": "South Korea ₩122,500,000 – ₩172,720,000",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "KRW",
+            "minValue": 122500000,
+            "maxValue": 172720000
           }
         ]
       },
@@ -178,15 +178,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "c7bd72b4-ff0c-48fd-8af2-55e39eb6c3b2",
-            "summary": "PHP ₱1,805,000 – ₱2,562,000",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "PHP",
-            "minValue": 1805000,
-            "maxValue": 2562000
-          },
-          {
             "id": "29cc1ce1-4cfb-445d-8658-dca31e8a25b5",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
@@ -194,6 +185,15 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "c7bd72b4-ff0c-48fd-8af2-55e39eb6c3b2",
+            "summary": "PHP ₱1,805,000 – ₱2,562,000",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "PHP",
+            "minValue": 1805000,
+            "maxValue": 2562000
           }
         ]
       }

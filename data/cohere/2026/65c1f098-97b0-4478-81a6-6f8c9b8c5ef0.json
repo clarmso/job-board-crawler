@@ -33,15 +33,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "2f733a8a-3961-4d89-bca2-920d724f8576",
-            "summary": "Ottowa CA$115K – CA$140K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "CAD",
-            "minValue": 115000,
-            "maxValue": 140000
-          },
-          {
             "id": "8a06e3a3-fd84-4f02-b02e-414d7be8deae",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
@@ -49,24 +40,33 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "2f733a8a-3961-4d89-bca2-920d724f8576",
+            "summary": "Ottowa CA$115K – CA$140K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "CAD",
+            "minValue": 115000,
+            "maxValue": 140000
           }
         ]
       }
     ],
     "summaryComponents": [
       {
-        "compensationType": "Salary",
-        "interval": "1 YEAR",
-        "currencyCode": "CAD",
-        "minValue": 115000,
-        "maxValue": 140000
-      },
-      {
         "compensationType": "EquityPercentage",
         "interval": "NONE",
         "currencyCode": null,
         "minValue": null,
         "maxValue": null
+      },
+      {
+        "compensationType": "Salary",
+        "interval": "1 YEAR",
+        "currencyCode": "CAD",
+        "minValue": 115000,
+        "maxValue": 140000
       }
     ]
   }

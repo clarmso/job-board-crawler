@@ -189,15 +189,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "85eeb725-0cd4-463e-af57-6505a6fbc78c",
-            "summary": "OTE €110K – €149.5K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "EUR",
-            "minValue": 110000,
-            "maxValue": 149500
-          },
-          {
             "id": "692a5c75-70ee-4bfb-81da-d20a5eb9a63f",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
@@ -214,6 +205,15 @@
             "currencyCode": "EUR",
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "85eeb725-0cd4-463e-af57-6505a6fbc78c",
+            "summary": "OTE €110K – €149.5K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "EUR",
+            "minValue": 110000,
+            "maxValue": 149500
           }
         ]
       },

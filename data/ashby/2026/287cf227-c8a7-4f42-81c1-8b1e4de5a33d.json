@@ -214,6 +214,15 @@
         "additionalInformation": null,
         "components": [
           {
+            "id": "9c5f54f8-9e9f-4851-8f07-35e9a092d850",
+            "summary": "OTE £144.5K – £195.5K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "GBP",
+            "minValue": 144500,
+            "maxValue": 195500
+          },
+          {
             "id": "dbfcf212-e36b-41d1-89ec-36dd0952c5dc",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
@@ -230,15 +239,6 @@
             "currencyCode": "GBP",
             "minValue": null,
             "maxValue": null
-          },
-          {
-            "id": "9c5f54f8-9e9f-4851-8f07-35e9a092d850",
-            "summary": "OTE £144.5K – £195.5K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "GBP",
-            "minValue": 144500,
-            "maxValue": 195500
           }
         ]
       },
@@ -249,15 +249,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "99590179-8bee-48ec-af64-eb29a58a3ff1",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "02ce6fb7-b659-424b-80b7-5d565b11c1c5",
             "summary": "OTE £127.5K – £172.5K",
             "compensationType": "Salary",
@@ -265,6 +256,15 @@
             "currencyCode": "GBP",
             "minValue": 127500,
             "maxValue": 172500
+          },
+          {
+            "id": "99590179-8bee-48ec-af64-eb29a58a3ff1",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           },
           {
             "id": "666b5735-7074-4699-97f1-565fbf4d4274",

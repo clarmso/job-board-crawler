@@ -1,0 +1,75 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/mozilla/jobs/8239656",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 3565398,
+  "location": {
+    "name": "Remote Canada; Remote Germany; Remote UK"
+  },
+  "metadata": null,
+  "id": 8239656,
+  "updated_at": "2026-10-12T10:34:38-04:00",
+  "requisition_id": "187",
+  "title": "Sr Data Analyst",
+  "company_name": "Mozilla",
+  "first_published": "2026-10-12T10:34:38-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The Gecko platform is the core engine of our product experience. To maintain competitiveness and user satisfaction, we must move beyond surface-level metrics to understand the deep correlations between engine performance and real-world user behavior. We currently face challenges with data quality, such as bot contamination in nightly telemetry, which obscures our understanding of true performance trends. A dedicated analyst is required to bridge the gap between engineering telemetry and actionable product strategy, ensuring that leadership has high-fidelity data to prioritize performance guardrails and technical budgets.&lt;/span&gt;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Engineering Deliverables&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;strong&gt;Automated Dashboards:&lt;/strong&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; Create and maintain high-level overview dashboards that translate complex performance data into consumable formats for Product Managers and leadership.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;strong&gt;Telemetry Gap Analysis:&lt;/strong&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; Audit the Gecko codebase to identify missing collection points or &quot;probes&quot; necessary for a complete understanding of the product experience.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;strong&gt;Data Sanitization Frameworks:&lt;/strong&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; Develop methodologies and tools to identify and filter data inconsistencies, specifically focusing on isolating bot traffic and hardware-specific noise from telemetry streams.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;strong&gt;Behavioral Inference Reports:&lt;/strong&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; Deliver deep-dive analyses correlating technical performance shifts (e.g., LCP, eTLD+1) with user-facing pain points and engagement trends.&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Scope, Skills, and Effort Estimate&lt;/strong&gt;&lt;/h3&gt;\n&lt;h3&gt;&lt;strong&gt;Scope&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The analyst will focus exclusively on Gecko engine telemetry across multiple platforms (Desktop and Android), collaborating with the Performance Team, Data Team, and Product Leadership.&lt;/span&gt;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Required Skills&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;strong&gt;Technical:&lt;/strong&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; Advanced SQL (BigQuery/Redash), proficiency in data visualization using AI tooling, and experience with statistical analysis (e.g., Pearson’s correlation, multivariate analysis). Knowledge of Rust/C++ is a strong plus. Strong proficiency with AI tools like Claude Code, Codex, or similar is highly desirable.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;strong&gt;Domain Knowledge:&lt;/strong&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; Ability to understand browser component interactions and their impact on user experience.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;strong&gt;Soft Skills:&lt;/strong&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; Proven ability to work independently, translating technical requirements into business insights.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;strong&gt;Independent problem solving:&lt;/strong&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; Comfortable working in unfamiliar technical problem spaces and figuring out a path forward with minimal guidance, using documentation, experimentation, source code, data, and other available resources&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;.&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&lt;strong&gt;Hiring Ranges:&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;Canada Tier 1 Locations&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$93,450&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$124,600 CAD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;title&quot;&gt;Canada Tier 2 Locations&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$84,600&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$112,800 CAD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&lt;strong&gt;Hiring Ranges:&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;Remote Germany&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;€62.100&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;€82.800 EUR&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&lt;strong&gt;Hiring Ranges:&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;Remote UK&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;£58,500&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;£78,000 GBP&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 128309,
+      "name": "Firefox",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 52711,
+      "name": "Remote Canada",
+      "location": null,
+      "child_ids": [],
+      "parent_id": null
+    },
+    {
+      "id": 101500,
+      "name": "Remote Denmark",
+      "location": null,
+      "child_ids": [],
+      "parent_id": null
+    },
+    {
+      "id": 77539,
+      "name": "Remote France",
+      "location": null,
+      "child_ids": [],
+      "parent_id": null
+    },
+    {
+      "id": 52713,
+      "name": "Remote Germany",
+      "location": null,
+      "child_ids": [],
+      "parent_id": null
+    },
+    {
+      "id": 75722,
+      "name": "Remote UK",
+      "location": null,
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

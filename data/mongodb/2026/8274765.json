@@ -1,0 +1,156 @@
+{
+  "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=8274765",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3374882,
+  "location": {
+    "name": "Austin; New York City"
+  },
+  "metadata": [
+    {
+      "id": 22194060,
+      "name": "Position ID",
+      "value": "10014653",
+      "value_type": "short_text"
+    },
+    {
+      "id": 24918,
+      "name": "Department ID",
+      "value": "D23050-Site Reliability Engineering",
+      "value_type": "single_select"
+    },
+    {
+      "id": 22194061,
+      "name": "Team",
+      "value": "43-SRE Atlas & InfraSec",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4914027,
+      "name": "Region",
+      "value": "North America",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4137836,
+      "name": "Working Model Eligibility",
+      "value": [
+        "1-In Office"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 4914029,
+      "name": "Job Level",
+      "value": "Professional - IC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24109,
+      "name": "Employment Type",
+      "value": "Full-time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 1073551,
+      "name": "Job Type",
+      "value": "Standard",
+      "value_type": "single_select"
+    },
+    {
+      "id": 988684,
+      "name": "JD Link",
+      "value": "https://docs.google.com/document/d/1VLDEKvSU89CELn0okECtevMDPzwlXnNL1SaLAQexlE8/edit?tab=t.0",
+      "value_type": "url"
+    },
+    {
+      "id": 5525802,
+      "name": "Baseline Budgeted Salary",
+      "value": {
+        "unit": "USD",
+        "max_value": "225000.0",
+        "min_value": "157000.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 5525816,
+      "name": "Other Large Market Budgeted Salary",
+      "value": {
+        "unit": "USD",
+        "max_value": "191000.0",
+        "min_value": "134000.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 13324394,
+      "name": "Job Post Range (United States)",
+      "value": {
+        "unit": "USD",
+        "max_value": "248000.0",
+        "min_value": "126000.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 40497768,
+      "name": "Job Post Range (Canada)",
+      "value": {
+        "unit": "USD",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 57694516,
+      "name": "Job Post Range (Poland)",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 64002488,
+      "name": "Job Post Range (Italy)",
+      "value": null,
+      "value_type": "currency_range"
+    }
+  ],
+  "id": 8274765,
+  "updated_at": "2026-10-12T14:34:30-04:00",
+  "requisition_id": "1273374882",
+  "title": "Senior Software Engineer (SRE), Infrastructure Security",
+  "company_name": "MongoDB",
+  "first_published": "2026-10-12T14:32:12-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;h3&gt;&lt;strong&gt;Who We Are&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;At MongoDB, we are building the future of data platforms with MongoDB Atlas; our fully managed, multi-cloud database service. The Infrastructure Security (InfraSec) team sits within Site Reliability Engineering (SRE) in the CTO organization. We are an engineering team dedicated to building the security infrastructure, primitives, and reusable controls that protect MongoDB Atlas across AWS, Azure, and Google Cloud (GCP).&lt;/p&gt;\n&lt;p&gt;InfraSec operates on a preventative, enabling model: rather than acting as a manual approval gatekeeper or compliance auditor, we develop automated guardrails and platform capabilities. We integrate security directly into the platform runtime, CI/CD, and Infrastructure-as-Code (IaC) workflows so engineering teams can operate securely at scale without friction.&lt;/p&gt;\n&lt;p&gt;This role can be based out of our New York City office or remotely in the eastern or central timezone.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;What You’ll Do&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Harden hosts and containerized workloads using Linux security mechanisms (AppArmor, SELinux, seccomp, cgroups) and eBPF-based tooling (Cilium, Tetragon)&lt;/li&gt;\n&lt;li&gt;Secure containerized infrastructure across multi-cloud environments via RBAC, network policies, admission controls (Gatekeeper), and runtime threat detection.&lt;/li&gt;\n&lt;li&gt;Build and manage automated services for Cloud Security Posture Management (CSPM), workload identity, vulnerability management, and access controls across AWS, Azure, and GCP&lt;/li&gt;\n&lt;li&gt;Write production-quality code and leverage Infrastructure-as-Code (Terraform) to version, test, and deploy security controls as code&lt;/li&gt;\n&lt;li&gt;Build real-time security monitoring, logging, and alerting systems to detect anomalies and track security posture at Atlas scale&lt;/li&gt;\n&lt;li&gt;Lead initiatives across their full lifecycle; from threat modeling and architectural design to implementation, rollout, and long-term production reliability&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;What We’re Looking For&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;Minimum Qualifications:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;5+ years in SRE, Infrastructure Engineering, or Cloud Security Engineering&lt;/li&gt;\n&lt;li&gt;Strong coding skills in Go (Golang), Python, C, C++, or Rust.&lt;/li&gt;\n&lt;li&gt;Proven track record of building and operating large-scale distributed systems or cloud platform infrastructure.&lt;/li&gt;\n&lt;li&gt;Hands-on experience using Terraform, CloudFormation, or Ansible for automated infrastructure provisioning.&lt;/li&gt;\n&lt;li&gt;Demonstrated experience owning infrastructure in Linux, Kubernetes, and at least one major cloud provider (AWS, GCP, or Azure)&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Preferred Qualifications:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Practical experience with eBPF-based security tooling (Cilium, Falco, Tetragon)&lt;/li&gt;\n&lt;li&gt;Direct ownership of Cloud Security and Workload Identity platforms&lt;/li&gt;\n&lt;li&gt;Multi-cloud expertise spanning AWS, Azure, and GCP&lt;/li&gt;\n&lt;li&gt;Production exposure to low-level Linux security mechanisms (seccomp, AppArmor, SELinux, cgroups)&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;span style=&quot;color: #000000; background-color: transparent;&quot;&gt;About MongoDB&lt;/span&gt;&lt;/h3&gt;\n&lt;p style=&quot;font-family: Helvetica, Arial, sans-serif; font-style: normal; font-weight: 400; color: rgb(0, 0, 0); margin: 0px !important; padding: 0px !important;&quot;&gt;&lt;span style=&quot;color: #000000; background-color: transparent;&quot;&gt;MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the database for the AI era, enabling innovators to create, transform, and disrupt industries with software. MongoDB’s unified database platform—the most widely available, globally distributed database on the market—helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud database and is available across AWS, Google Cloud, and Microsoft Azure.&lt;/span&gt;&lt;/p&gt;\n&lt;p style=&quot;font-family: Helvetica, Arial, sans-serif; font-style: normal; font-weight: 400; color: rgb(0, 0, 0); margin: 0px !important; padding: 0px !important;&quot;&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p style=&quot;font-family: Helvetica, Arial, sans-serif; font-style: normal; font-weight: 400; color: rgb(0, 0, 0); margin: 0px !important; padding: 0px !important;&quot;&gt;&lt;span style=&quot;color: #000000; background-color: transparent;&quot;&gt;With offices worldwide and nearly 60,000 customers—including 75% of the Fortune 100 and AI-native startups—relying on MongoDB for their most important applications, we’re powering the next era of software.&lt;/span&gt;&lt;/p&gt;\n&lt;p style=&quot;font-family: Helvetica, Arial, sans-serif; font-style: normal; font-weight: 400; color: rgb(0, 0, 0); margin: 0px !important; padding: 0px !important;&quot;&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p style=&quot;font-family: Helvetica, Arial, sans-serif; font-style: normal; font-weight: 400; color: rgb(0, 0, 0); margin: 0px !important; padding: 0px !important;&quot;&gt;&lt;span style=&quot;color: #000000; background-color: transparent;&quot;&gt;Our compass at MongoDB is our &lt;/span&gt;&lt;u style=&quot;color: #1155cc; background-color: transparent;&quot;&gt;&lt;a href=&quot;https://www.mongodb.com/company&quot;&gt;Leadership Commitment,&lt;/a&gt;&lt;/u&gt;&lt;span style=&quot;color: #000000; background-color: transparent;&quot;&gt; guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p style=&quot;font-family: Helvetica, Arial, sans-serif; font-style: normal; font-weight: 400; color: rgb(0, 0, 0); margin: 0px !important; padding: 0px !important;&quot;&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p style=&quot;font-family: Helvetica, Arial, sans-serif; font-style: normal; font-weight: 400; color: rgb(0, 0, 0); margin: 0px !important; padding: 0px !important;&quot;&gt;&lt;span style=&quot;color: #000000; background-color: transparent;&quot;&gt;To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. &lt;/span&gt;&lt;u style=&quot;color: #1155cc; background-color: transparent;&quot;&gt;&lt;a href=&quot;https://www.mongodb.com/company/blog/culture/employee-benefits-that-make-a-difference-at-mongodb&quot;&gt;From employee affinity groups, to fertility assistance and a generous parental leave policy&lt;/a&gt;&lt;/u&gt;&lt;span style=&quot;color: #000000; background-color: transparent;&quot;&gt;, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys.&lt;/span&gt;&lt;a style=&quot;color: #000000; background-color: transparent;&quot; href=&quot;https://www.mongodb.com/blog/channel/culture&quot;&gt; &lt;/a&gt;&lt;u style=&quot;color: #1155cc; background-color: transparent;&quot;&gt;&lt;a href=&quot;https://www.mongodb.com/blog/channel/culture&quot;&gt;Learn more about what it’s like to work at MongoDB&lt;/a&gt;&lt;/u&gt;&lt;span style=&quot;color: #000000; background-color: transparent;&quot;&gt;, and help us make an impact on the world!&lt;/span&gt;&lt;/p&gt;\n&lt;p style=&quot;font-family: Helvetica, Arial, sans-serif; font-style: normal; font-weight: 400; color: rgb(0, 0, 0); margin: 0px !important; padding: 0px !important;&quot;&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p style=&quot;font-family: Helvetica, Arial, sans-serif; font-style: normal; font-weight: 400; color: rgb(0, 0, 0); margin: 0px !important; padding: 0px !important;&quot;&gt;&lt;span style=&quot;color: #000000; background-color: transparent;&quot;&gt;MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.&lt;/span&gt;&lt;/p&gt;\n&lt;p style=&quot;font-family: Helvetica, Arial, sans-serif; font-style: normal; font-weight: 400; color: rgb(0, 0, 0); margin: 0px !important; padding: 0px !important;&quot;&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p style=&quot;font-family: Helvetica, Arial, sans-serif; font-style: normal; font-weight: 400; color: rgb(0, 0, 0); margin: 0px !important; padding: 0px !important;&quot;&gt;&lt;span style=&quot;color: #000000; background-color: transparent;&quot;&gt;MongoDB, Inc. provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type and makes all hiring decisions without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.&lt;/span&gt;&lt;/p&gt;\n&lt;p style=&quot;font-family: Helvetica, Arial, sans-serif; font-style: normal; font-weight: 400; color: rgb(0, 0, 0); margin: 0px !important; padding: 0px !important;&quot;&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p style=&quot;font-family: Helvetica, Arial, sans-serif; font-style: normal; font-weight: 400; color: rgb(0, 0, 0); margin: 0px !important; padding: 0px !important;&quot;&gt;&lt;span style=&quot;color: #000000; background-color: transparent;&quot;&gt;Req ID: 1273374882&lt;/span&gt;&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;MongoDB’s base salary range for this role is posted below. Compensation at the time of offer is unique to each candidate and based on a variety of factors such as skill set, experience, qualifications, and work location. Salary is one part of MongoDB’s total compensation and benefits package. Other benefits for eligible employees may include: equity, participation in the employee stock purchase program, flexible paid time off, 20 weeks fully-paid gender-neutral parental leave, fertility and adoption assistance, 401(k) plan, mental health counseling, access to transgender-inclusive health insurance coverage, and health benefits offerings. Please note, the base salary range listed below and the benefits in this paragraph are only applicable to U.S.-based candidates.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;MongoDB’s base salary range for this role in the U.S. is:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$126,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$248,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 85965,
+      "name": "Site Reliability Engineering",
+      "child_ids": [],
+      "parent_id": 371021
+    }
+  ],
+  "offices": [
+    {
+      "id": 3960,
+      "name": "New York City",
+      "location": "New York, NY, United States",
+      "child_ids": [],
+      "parent_id": 23657
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": null
+}
