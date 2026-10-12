@@ -489,7 +489,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
     <nav id="nav"><a href="index.html">&larr; New Jobs</a></nav>
   </header>
 
-  <input id="search" type="search" placeholder="Filter by company or ATS..." autocomplete="off" />
+  <input id="search" type="search" placeholder="Filter by company..." autocomplete="off" />
 
   <table id="companies-table">
     <thead>
@@ -531,7 +531,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 def _render_row(c):
     name = html.escape(c["name"])
     hq = html.escape(c["hq_country"]) if c["hq_country"] else "&mdash;"
-    search_key = html.escape(f"{c['name']} {c['ats']} {c['hq_country']}".lower())
+    search_key = html.escape(f"{c['name']} {c['hq_country']}".lower())
 
     if c["careers_url"]:
         name_cell = (
