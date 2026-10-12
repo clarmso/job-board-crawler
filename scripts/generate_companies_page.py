@@ -474,7 +474,6 @@ HTML_TEMPLATE = """<!DOCTYPE html>
     color: var(--muted);
   }}
   .badge.unsupported {{ color: #b91c1c; border-color: #fecaca; background: #fef2f2; }}
-  .badge.canada {{ color: #b91c1c; border-color: #fecaca; background: #fef2f2; }}
   #empty-filter {{
     display: none;
     color: var(--muted);
@@ -496,7 +495,6 @@ HTML_TEMPLATE = """<!DOCTYPE html>
     <thead>
       <tr>
         <th>Company</th>
-        <th>ATS</th>
         <th>HQ</th>
         <th class="jobs">Open jobs</th>
       </tr>
@@ -532,7 +530,6 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 
 def _render_row(c):
     name = html.escape(c["name"])
-    ats = html.escape(c["ats"])
     hq = html.escape(c["hq_country"]) if c["hq_country"] else "&mdash;"
     search_key = html.escape(f"{c['name']} {c['ats']} {c['hq_country']}".lower())
 
@@ -545,17 +542,13 @@ def _render_row(c):
         name_cell = name
 
     if c["supported"]:
-        badges = ""
-        if c["canada_job_count"] > 0:
-            badges += '<span class="badge canada">🇨🇦 Canada</span> '
-        jobs_cell = f"{badges}{c['job_count']}"
+        jobs_cell = str(c["job_count"])
     else:
         jobs_cell = '<span class="badge unsupported">not yet supported</span>'
 
     return (
         f'      <tr data-search="{search_key}">\n'
         f"        <td>{name_cell}</td>\n"
-        f"        <td>{ats}</td>\n"
         f"        <td>{hq}</td>\n"
         f'        <td class="jobs">{jobs_cell}</td>\n'
         f"      </tr>"
