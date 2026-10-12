@@ -484,7 +484,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
     font-size: 0.95rem;
     text-transform: uppercase;
     letter-spacing: 0.03em;
-    color: var(--muted);
+    color: #111827;
     margin: 0 0 0.5rem;
   }}
   #toc ul {{
