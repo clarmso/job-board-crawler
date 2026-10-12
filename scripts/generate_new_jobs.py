@@ -428,7 +428,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&family=Inter:ital,wght@0,400;0,500;0,700;1,400&display=swap" rel="stylesheet" />
 <style>
   :root {{
-    --border: #e2e2e2;
+    --border: var(--accent-vermillion);
     --muted: #6b7280;
     --accent: #2563eb;
     --accent-vermillion: #d55e00;
