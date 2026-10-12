@@ -425,7 +425,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 <title>openings.info - New jobs in tech</title>
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-<link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,400;0,500;0,700;1,400&family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet" />
+<link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&family=Inter:ital,wght@0,400;0,500;0,700;1,400&display=swap" rel="stylesheet" />
 <style>
   :root {{
     --border: #e2e2e2;
@@ -433,8 +433,8 @@ HTML_TEMPLATE = """<!DOCTYPE html>
     --accent: #2563eb;
     --bg: #ffffff;
     --brand: #1c2829;
-    --font-brand: "Space Mono", "Roboto Mono", monospace;
-    --font-body: "Roboto Mono", "Space Mono", monospace;
+    --font-brand: "Atkinson Hyperlegible", "Inter", sans-serif;
+    --font-body: "Inter", "Atkinson Hyperlegible", sans-serif;
   }}
   * {{ box-sizing: border-box; }}
   body {{
