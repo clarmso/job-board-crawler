@@ -464,15 +464,22 @@ HTML_TEMPLATE = """<!DOCTYPE html>
     font-size: 0.9rem;
     margin-bottom: 0.75rem;
   }}
-  #nav {{
-    margin-bottom: 1.5rem;
+  #site-footer {{
+    margin-top: 3rem;
+    padding-top: 1.25rem;
+    border-top: 1px solid var(--border);
+    color: var(--muted);
+    font-size: 0.85rem;
+  }}
+  #footer-nav {{
+    margin-bottom: 0.5rem;
     font-size: 0.9rem;
   }}
-  #nav a {{
+  #footer-nav a, #footer-credit a {{
     color: var(--accent);
     text-decoration: none;
   }}
-  #nav a:hover {{ text-decoration: underline; }}
+  #footer-nav a:hover, #footer-credit a:hover {{ text-decoration: underline; }}
   #toc {{
     background: #f9fafb;
     border: 2px solid var(--accent-vermillion);
@@ -577,12 +584,20 @@ HTML_TEMPLATE = """<!DOCTYPE html>
   </header>
 
 {toc}
-  <nav id="nav"><a href="companies.html">Companies crawled &rarr;</a></nav>
   <main id="results">
 {results}
   </main>
 
   <a class="top" href="#top">↑ Top</a>
+
+  <footer id="site-footer">
+    <nav id="footer-nav"><a href="companies.html">Companies crawled &rarr;</a></nav>
+    <p id="footer-credit">
+      <a href="https://github.com/clarmso/openings.info" target="_blank" rel="noopener noreferrer">GitHub repository</a>
+      &middot;
+      Created by <a href="https://clarmso.ca" target="_blank" rel="noopener noreferrer">@clarmso</a>
+    </p>
+  </footer>
 </body>
 </html>
 """
