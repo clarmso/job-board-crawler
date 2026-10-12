@@ -461,10 +461,8 @@ HTML_TEMPLATE = """<!DOCTYPE html>
   }}
   tbody td {{
     padding: 0.55rem 0.6rem;
-    border-bottom: 1px dashed var(--border);
     vertical-align: middle;
   }}
-  tbody tr:last-child td {{ border-bottom: none; }}
   tbody tr:hover {{ background: #f9fafb; }}
   td.jobs, th.jobs {{ text-align: right; }}
   a.company-link {{
