@@ -378,22 +378,38 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Companies — Job Board Crawler</title>
+<title>openings.info - Companies</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&family=Inter:ital,wght@0,400;0,500;0,700;1,400&display=swap" rel="stylesheet" />
 <style>
   :root {{
-    --border: #e2e2e2;
+    --border: var(--accent-vermillion);
     --muted: #6b7280;
     --accent: #2563eb;
+    --accent-vermillion: #d55e00;
     --bg: #ffffff;
+    --brand: var(--accent-vermillion);
+    --font-brand: "Atkinson Hyperlegible", "Inter", sans-serif;
+    --font-body: "Inter", "Atkinson Hyperlegible", sans-serif;
   }}
   * {{ box-sizing: border-box; }}
   body {{
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    font-family: var(--font-body);
     max-width: 900px;
     margin: 0 auto;
     padding: 2rem 1.25rem 4rem;
     color: #111827;
     background: var(--bg);
+  }}
+  #brand {{
+    display: inline-block;
+    font-family: var(--font-brand);
+    font-weight: 700;
+    font-size: 1.1rem;
+    color: var(--brand);
+    text-decoration: none;
+    margin-bottom: 0.75rem;
   }}
   header h1 {{
     margin: 0 0 0.25rem;
@@ -404,15 +420,22 @@ HTML_TEMPLATE = """<!DOCTYPE html>
     font-size: 0.9rem;
     margin-bottom: 0.75rem;
   }}
-  #nav {{
-    margin-bottom: 1.5rem;
+  #site-footer {{
+    margin-top: 3rem;
+    padding-top: 1.25rem;
+    border-top: 1px solid var(--border);
+    color: var(--muted);
+    font-size: 0.85rem;
+  }}
+  #footer-nav {{
+    margin-bottom: 0.5rem;
     font-size: 0.9rem;
   }}
-  #nav a {{
+  #footer-nav a, #footer-credit a {{
     color: var(--accent);
     text-decoration: none;
   }}
-  #nav a:hover {{ text-decoration: underline; }}
+  #footer-nav a:hover, #footer-credit a:hover {{ text-decoration: underline; }}
   #search {{
     width: 100%;
     padding: 0.6rem 0.8rem;
@@ -421,17 +444,6 @@ HTML_TEMPLATE = """<!DOCTYPE html>
     border-radius: 8px;
     margin-bottom: 0.75rem;
   }}
-  #canada-toggle, #remote-toggle {{
-    display: inline-flex;
-    align-items: center;
-    gap: 0.4rem;
-    font-size: 0.9rem;
-    color: #374151;
-    margin-bottom: 1.25rem;
-    margin-right: 1.25rem;
-    cursor: pointer;
-  }}
-  #canada-toggle input, #remote-toggle input {{ cursor: pointer; }}
   table {{
     width: 100%;
     border-collapse: collapse;
@@ -470,8 +482,6 @@ HTML_TEMPLATE = """<!DOCTYPE html>
     color: var(--muted);
   }}
   .badge.unsupported {{ color: #b91c1c; border-color: #fecaca; background: #fef2f2; }}
-  .badge.canada {{ color: #b91c1c; border-color: #fecaca; background: #fef2f2; }}
-  .badge.remote {{ color: #4338ca; border-color: #c7d2fe; background: #eef2ff; }}
   #empty-filter {{
     display: none;
     color: var(--muted);
@@ -481,24 +491,17 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 </head>
 <body>
   <header id="top">
+    <a id="brand" href="index.html">openings.info</a>
     <h1>Companies</h1>
     <div id="meta">{meta}</div>
-    <nav id="nav"><a href="index.html">&larr; New Jobs</a></nav>
   </header>
 
-  <input id="search" type="search" placeholder="Filter by company or ATS..." autocomplete="off" />
-  <label id="canada-toggle">
-    <input type="checkbox" id="canada-only" /> Only show companies with openings based in Canada
-  </label>
-  <label id="remote-toggle">
-    <input type="checkbox" id="remote-only" /> Only show companies with worldwide-remote openings
-  </label>
+  <input id="search" type="search" placeholder="Filter by company..." autocomplete="off" />
 
   <table id="companies-table">
     <thead>
       <tr>
         <th>Company</th>
-        <th>ATS</th>
         <th>HQ</th>
         <th class="jobs">Open jobs</th>
       </tr>
@@ -511,8 +514,6 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 
   <script>
     const input = document.getElementById("search");
-    const canadaOnly = document.getElementById("canada-only");
-    const remoteOnly = document.getElementById("remote-only");
     const rows = Array.from(document.querySelectorAll("#companies-table tbody tr"));
     const emptyMsg = document.getElementById("empty-filter");
 
@@ -520,10 +521,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
       const q = input.value.trim().toLowerCase();
       let visible = 0;
       rows.forEach((row) => {{
-        const matchesSearch = row.dataset.search.includes(q);
-        const matchesCanada = !canadaOnly.checked || row.dataset.canada === "true";
-        const matchesRemote = !remoteOnly.checked || row.dataset.remote === "true";
-        const match = matchesSearch && matchesCanada && matchesRemote;
+        const match = row.dataset.search.includes(q);
         row.style.display = match ? "" : "none";
         if (match) visible++;
       }});
@@ -531,9 +529,16 @@ HTML_TEMPLATE = """<!DOCTYPE html>
     }}
 
     input.addEventListener("input", applyFilters);
-    canadaOnly.addEventListener("change", applyFilters);
-    remoteOnly.addEventListener("change", applyFilters);
   </script>
+
+  <footer id="site-footer">
+    <nav id="footer-nav"><a href="index.html">&larr; New Jobs</a></nav>
+    <p id="footer-credit">
+      <a href="https://github.com/clarmso/openings.info" target="_blank" rel="noopener noreferrer">GitHub repository</a>
+      &middot;
+      Created by <a href="https://clarmso.ca" target="_blank" rel="noopener noreferrer">@clarmso</a>
+    </p>
+  </footer>
 </body>
 </html>
 """
@@ -541,11 +546,8 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 
 def _render_row(c):
     name = html.escape(c["name"])
-    ats = html.escape(c["ats"])
     hq = html.escape(c["hq_country"]) if c["hq_country"] else "&mdash;"
-    search_key = html.escape(f"{c['name']} {c['ats']} {c['hq_country']}".lower())
-    is_canada = "true" if c["canada_job_count"] > 0 else "false"
-    is_remote = "true" if c["remote_job_count"] > 0 else "false"
+    search_key = html.escape(f"{c['name']} {c['hq_country']}".lower())
 
     if c["careers_url"]:
         name_cell = (
@@ -556,19 +558,13 @@ def _render_row(c):
         name_cell = name
 
     if c["supported"]:
-        badges = ""
-        if c["canada_job_count"] > 0:
-            badges += '<span class="badge canada">🇨🇦 Canada</span> '
-        if c["remote_job_count"] > 0:
-            badges += '<span class="badge remote">Remote</span> '
-        jobs_cell = f"{badges}{c['job_count']}"
+        jobs_cell = str(c["job_count"])
     else:
         jobs_cell = '<span class="badge unsupported">not yet supported</span>'
 
     return (
-        f'      <tr data-search="{search_key}" data-canada="{is_canada}" data-remote="{is_remote}">\n'
+        f'      <tr data-search="{search_key}">\n'
         f"        <td>{name_cell}</td>\n"
-        f"        <td>{ats}</td>\n"
         f"        <td>{hq}</td>\n"
         f'        <td class="jobs">{jobs_cell}</td>\n'
         f"      </tr>"

@@ -21,6 +21,8 @@ import sys
 import urllib.parse
 from datetime import datetime, timedelta, timezone
 
+import ai_canada
+
 DATA_DIR = "data"
 LOOKBACK_HOURS = 48
 
@@ -344,6 +346,24 @@ def _display_name(slug, extracted_name):
     return decoded.replace("-", " ").replace("_", " ").title()
 
 
+def _apply_ai_canada_classification(companies):
+    """Override each job's regex-based "canada" flag with Copilot CLI's
+    classification of its location string, wherever the AI has an opinion
+    (see ai_canada.py). Jobs whose location wasn't classified — e.g. the
+    CLI isn't available — keep their existing regex-based result.
+    """
+    all_locations = [
+        job["location"] for data in companies.values() for job in data["jobs"]
+    ]
+    classifications = ai_canada.classify(all_locations)
+    if not classifications:
+        return
+    for data in companies.values():
+        for job in data["jobs"]:
+            if job["location"] in classifications:
+                job["canada"] = classifications[job["location"]]
+
+
 def _build_manifest():
     ats_by_slug = _load_ats_by_slug()
     all_files = _all_data_files()
@@ -382,6 +402,8 @@ def _build_manifest():
             "canada": _is_canada_job(platform, job, is_remote=(mode == "Remote")),
         })
 
+    _apply_ai_canada_classification(companies)
+
     return {
         "generated_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "total_new_jobs": sum(len(c["jobs"]) for c in companies.values()),
@@ -400,22 +422,38 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>New Jobs — Job Board Crawler</title>
+<title>openings.info - New jobs in tech</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&family=Inter:ital,wght@0,400;0,500;0,700;1,400&display=swap" rel="stylesheet" />
 <style>
   :root {{
-    --border: #e2e2e2;
+    --border: var(--accent-vermillion);
     --muted: #6b7280;
     --accent: #2563eb;
+    --accent-vermillion: #d55e00;
     --bg: #ffffff;
+    --brand: var(--accent-vermillion);
+    --font-brand: "Atkinson Hyperlegible", "Inter", sans-serif;
+    --font-body: "Inter", "Atkinson Hyperlegible", sans-serif;
   }}
   * {{ box-sizing: border-box; }}
   body {{
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-    max-width: 860px;
+    font-family: var(--font-body);
+    max-width: 900px;
     margin: 0 auto;
     padding: 2rem 1.25rem 4rem;
     color: #111827;
     background: var(--bg);
+  }}
+  #brand {{
+    display: inline-block;
+    font-family: var(--font-brand);
+    font-weight: 700;
+    font-size: 1.1rem;
+    color: var(--brand);
+    text-decoration: none;
+    margin-bottom: 0.75rem;
   }}
   header h1 {{
     margin: 0 0 0.25rem;
@@ -424,20 +462,27 @@ HTML_TEMPLATE = """<!DOCTYPE html>
   #meta {{
     color: var(--muted);
     font-size: 0.9rem;
-    margin-bottom: 0.5rem;
+    margin-bottom: 0.75rem;
   }}
-  #nav {{
-    margin-bottom: 1.5rem;
+  #site-footer {{
+    margin-top: 3rem;
+    padding-top: 1.25rem;
+    border-top: 1px solid var(--border);
+    color: var(--muted);
+    font-size: 0.85rem;
+  }}
+  #footer-nav {{
+    margin-bottom: 0.5rem;
     font-size: 0.9rem;
   }}
-  #nav a {{
+  #footer-nav a, #footer-credit a {{
     color: var(--accent);
     text-decoration: none;
   }}
-  #nav a:hover {{ text-decoration: underline; }}
+  #footer-nav a:hover, #footer-credit a:hover {{ text-decoration: underline; }}
   #toc {{
     background: #f9fafb;
-    border: 1px solid var(--border);
+    border: 2px solid var(--accent-vermillion);
     border-radius: 8px;
     padding: 1rem 1.25rem;
     margin-bottom: 2rem;
@@ -446,7 +491,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
     font-size: 0.95rem;
     text-transform: uppercase;
     letter-spacing: 0.03em;
-    color: var(--muted);
+    color: #111827;
     margin: 0 0 0.5rem;
   }}
   #toc ul {{
@@ -504,17 +549,6 @@ HTML_TEMPLATE = """<!DOCTYPE html>
     margin-left: 0.5rem;
     white-space: nowrap;
   }}
-  .job-mode {{
-    display: inline-block;
-    margin-left: 0.4rem;
-    padding: 0.05rem 0.5rem;
-    border-radius: 999px;
-    border: 1px solid var(--border);
-    font-size: 0.75rem;
-  }}
-  .job-mode.remote {{ color: #047857; border-color: #a7f3d0; background: #ecfdf5; }}
-  .job-mode.hybrid {{ color: #b45309; border-color: #fde68a; background: #fffbeb; }}
-  .job-mode.on-site {{ color: #4338ca; border-color: #c7d2fe; background: #eef2ff; }}
   .job-canada {{
     display: inline-block;
     margin-left: 0.4rem;
@@ -545,9 +579,8 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 </head>
 <body>
   <header id="top">
-    <h1>New Jobs</h1>
+    <a id="brand" href="index.html">openings.info</a>
     <div id="meta">{meta}</div>
-    <nav id="nav"><a href="companies.html">Companies crawled &rarr;</a></nav>
   </header>
 
 {toc}
@@ -556,6 +589,15 @@ HTML_TEMPLATE = """<!DOCTYPE html>
   </main>
 
   <a class="top" href="#top">↑ Top</a>
+
+  <footer id="site-footer">
+    <nav id="footer-nav"><a href="companies.html">Companies crawled &rarr;</a></nav>
+    <p id="footer-credit">
+      <a href="https://github.com/clarmso/openings.info" target="_blank" rel="noopener noreferrer">GitHub repository</a>
+      &middot;
+      Created by <a href="https://clarmso.ca" target="_blank" rel="noopener noreferrer">@clarmso</a>
+    </p>
+  </footer>
 </body>
 </html>
 """
@@ -565,15 +607,11 @@ def _render_job_item(job):
     title = html.escape(job["title"])
     url = html.escape(job["url"])
     location = job.get("location") or ""
-    mode = job.get("mode") or ""
     is_canada = job.get("canada")
 
     badges = []
     if is_canada:
         badges.append('<span class="job-canada">🇨🇦 Canada</span>')
-    if mode:
-        mode_class = mode.lower().replace(" ", "-")
-        badges.append(f'<span class="job-mode {mode_class}">{html.escape(mode)}</span>')
     badges_html = " ".join(badges)
 
     meta_parts = []
