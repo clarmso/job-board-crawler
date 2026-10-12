@@ -1,21 +1,7 @@
 {
-  "generated_at": "2026-10-12T00:26:39Z",
-  "total_new_jobs": 17,
+  "generated_at": "2026-10-12T02:15:39Z",
+  "total_new_jobs": 14,
   "companies": [
-    {
-      "slug": "coursera",
-      "name": "Coursera",
-      "careers_url": "https://job-boards.greenhouse.io/coursera",
-      "jobs": [
-        {
-          "title": "Accounts Payable Specialist",
-          "url": "https://job-boards.greenhouse.io/coursera/jobs/6220312004",
-          "location": "India",
-          "mode": "On-site",
-          "canada": false
-        }
-      ]
-    },
     {
       "slug": "databricks",
       "name": "Databricks",
@@ -27,27 +13,6 @@
           "location": "Singapore",
           "mode": "On-site",
           "canada": false
-        }
-      ]
-    },
-    {
-      "slug": "gitlab",
-      "name": "GitLab",
-      "careers_url": "https://job-boards.greenhouse.io/gitlab",
-      "jobs": [
-        {
-          "title": "Senior Software Engineer, Security Factory: Code Security",
-          "url": "https://job-boards.greenhouse.io/gitlab/jobs/8738179002",
-          "location": "Remote, Canada; Remote, United States",
-          "mode": "Remote",
-          "canada": true
-        },
-        {
-          "title": "Staff Software Engineer, Security Factory: Static Analysis",
-          "url": "https://job-boards.greenhouse.io/gitlab/jobs/8693563002",
-          "location": "Remote, Canada; Remote, Israel; Remote, United Kingdom; Remote, United States",
-          "mode": "Remote",
-          "canada": true
         }
       ]
     },
@@ -74,20 +39,6 @@
           "title": "Senior DevOps Engineer (India)",
           "url": "https://job-boards.greenhouse.io/karat/jobs/8880872002",
           "location": "Remote (India - Bangalore ONLY)",
-          "mode": "Remote",
-          "canada": false
-        }
-      ]
-    },
-    {
-      "slug": "magnetforensics",
-      "name": "Magnetforensics",
-      "careers_url": "https://jobs.lever.co/magnetforensics",
-      "jobs": [
-        {
-          "title": "Account Executive",
-          "url": "https://jobs.lever.co/magnetforensics/15ba8574-a84e-426d-a188-b8dba737a0b6",
-          "location": "Sweden",
           "mode": "Remote",
           "canada": false
         }
@@ -182,6 +133,13 @@
       "name": "Wise",
       "careers_url": "https://careers.smartrecruiters.com/wise/",
       "jobs": [
+        {
+          "title": "Global Arbitration Lead",
+          "url": "https://jobs.smartrecruiters.com/Wise/744000154912488",
+          "location": "Singapore, , Singapore",
+          "mode": "On-site",
+          "canada": false
+        },
         {
           "title": "Principal Product Manager - APAC Onboarding & KYC",
           "url": "https://jobs.smartrecruiters.com/Wise/744000154880709",
