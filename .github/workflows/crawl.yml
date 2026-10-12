@@ -21,11 +21,20 @@ jobs:
         with:
           python-version: '3.12'
 
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Install Copilot CLI
+        run: npm install -g @github/copilot
+
       - name: Run crawler
         run: python crawl.py
 
       - name: Generate new jobs manifest
         if: always()
+        env:
+          COPILOT_GITHUB_TOKEN: ${{ secrets.COPILOT_PAT }}
         run: python scripts/generate_new_jobs.py
 
       - name: Generate companies page

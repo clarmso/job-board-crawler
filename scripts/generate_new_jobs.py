@@ -21,6 +21,8 @@ import sys
 import urllib.parse
 from datetime import datetime, timedelta, timezone
 
+import ai_canada
+
 DATA_DIR = "data"
 LOOKBACK_HOURS = 48
 
@@ -344,6 +346,24 @@ def _display_name(slug, extracted_name):
     return decoded.replace("-", " ").replace("_", " ").title()
 
 
+def _apply_ai_canada_classification(companies):
+    """Override each job's regex-based "canada" flag with Copilot CLI's
+    classification of its location string, wherever the AI has an opinion
+    (see ai_canada.py). Jobs whose location wasn't classified — e.g. the
+    CLI isn't available — keep their existing regex-based result.
+    """
+    all_locations = [
+        job["location"] for data in companies.values() for job in data["jobs"]
+    ]
+    classifications = ai_canada.classify(all_locations)
+    if not classifications:
+        return
+    for data in companies.values():
+        for job in data["jobs"]:
+            if job["location"] in classifications:
+                job["canada"] = classifications[job["location"]]
+
+
 def _build_manifest():
     ats_by_slug = _load_ats_by_slug()
     all_files = _all_data_files()
@@ -381,6 +401,8 @@ def _build_manifest():
             "title": title, "url": url, "location": location, "mode": mode,
             "canada": _is_canada_job(platform, job, is_remote=(mode == "Remote")),
         })
+
+    _apply_ai_canada_classification(companies)
 
     return {
         "generated_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
