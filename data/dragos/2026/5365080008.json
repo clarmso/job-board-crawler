@@ -1,0 +1,47 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/dragos/jobs/5365080008",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 4520096008,
+  "location": {
+    "name": "United States"
+  },
+  "metadata": null,
+  "id": 5365080008,
+  "updated_at": "2026-09-23T16:37:33-04:00",
+  "requisition_id": "A-527",
+  "title": "Data Engineering Manager",
+  "company_name": "Dragos",
+  "first_published": "2026-07-24T15:53:02-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span class=&quot;TextRun SCXW107525881 BCX8&quot; lang=&quot;EN-US&quot; data-contrast=&quot;none&quot;&gt;&lt;span class=&quot;NormalTextRun SCXW107525881 BCX8&quot;&gt;At Dragos, the mission is personal. The systems we protect deliver the water you drink, power your home, and keep the hospitals your community depends on running. Those critical infrastructure systems that power our civilization around the world are under attack every day by adversaries. When those systems fail, people are&amp;nbsp;&lt;/span&gt;&lt;span class=&quot;NormalTextRun SCXW107525881 BCX8&quot;&gt;immediately&lt;/span&gt;&lt;span class=&quot;NormalTextRun SCXW107525881 BCX8&quot;&gt;&amp;nbsp;at risk.&amp;nbsp;&lt;/span&gt;&lt;span class=&quot;NormalTextRun SCXW107525881 BCX8&quot;&gt;We are the global leader in&amp;nbsp;&lt;/span&gt;&lt;span class=&quot;NormalTextRun SCXW107525881 BCX8&quot;&gt;xOT&lt;/span&gt;&lt;span class=&quot;NormalTextRun SCXW107525881 BCX8&quot;&gt;&amp;nbsp;cybersecurity, combining technology, threat intelligence, and expert services. The people here chose this work because they understand&amp;nbsp;&lt;/span&gt;&lt;span class=&quot;NormalTextRun SCXW107525881 BCX8&quot;&gt;what is&lt;/span&gt;&lt;span class=&quot;NormalTextRun SCXW107525881 BCX8&quot;&gt;&amp;nbsp;at stake&lt;/span&gt;&lt;span class=&quot;NormalTextRun SCXW107525881 BCX8&quot;&gt;. Here, you will find a remote-first mission-driven team across North America, Europe, the Middle East, and APAC built on authenticity, transparency, and trust. If safeguarding the systems that protect your family, friends, and community is the kind of work that matters to you, you are in the right place.&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;EOP Selected SCXW107525881 BCX8&quot; data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;201341983&amp;quot;:0,&amp;quot;335551550&amp;quot;:1,&amp;quot;335551620&amp;quot;:1,&amp;quot;335559685&amp;quot;:0,&amp;quot;335559737&amp;quot;:0,&amp;quot;335559738&amp;quot;:120,&amp;quot;335559739&amp;quot;:160,&amp;quot;335559740&amp;quot;:360}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;About the Role:&lt;/span&gt;&lt;/strong&gt;&lt;span data-ccp-props=&quot;{}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;We are looking for a Data Engineering Manager to lead the engineering teams responsible for the detection engines, alerting, and case-management backbone that turns raw OT/ICS telemetry into something a SOC analyst can act on, along with the pipeline that ingests, baselines, and serves network-communications data. You&#39;ll take on a data platform that&#39;s actively consolidating and modernizing its datastore footprint, with real room to help shape what that architecture looks like going forward. The ideal candidate has deep technical knowledge of data-intensive systems, hands-on experience leading a team through a legacy-datastore migration, and a track record of championing AI-assisted engineering adoption.&lt;br&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Responsibilities:&amp;nbsp;&lt;/span&gt;&lt;/strong&gt;&lt;span data-ccp-props=&quot;{}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Lead and mentor a team of data engineers, driving their technical growth and professional development.&lt;/li&gt;\n&lt;li&gt;Drive hiring and team growth to scale with roadmap demands.&lt;/li&gt;\n&lt;li&gt;Own the technical strategy for the data platform: database version upgrades, migrating off legacy datastores, and shaping what powers heavy analytics going forward.&lt;/li&gt;\n&lt;li&gt;Collaborate with product and engineering to define data models, schemas, and analytics architecture.&lt;/li&gt;\n&lt;li&gt;Plan migration and reindex timing with product for customer-operated, on-prem deployments.&lt;/li&gt;\n&lt;li&gt;Drive performance optimization across the data platform these teams own.&lt;/li&gt;\n&lt;li&gt;Champion the adoption of AI-assisted development tools and workflows.&lt;/li&gt;\n&lt;li&gt;Own production support for fielded deployments, including incident response.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Qualifications:&amp;nbsp;&lt;/span&gt;&lt;/strong&gt;&lt;span data-ccp-props=&quot;{}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;7+ years of engineering management experience.&lt;/li&gt;\n&lt;li&gt;Management experience with Agile and working in cross-functional Product Teams.&lt;/li&gt;\n&lt;li&gt;Strong technical background in data-intensive systems, including production experience with PostgreSQL at scale.&lt;/li&gt;\n&lt;li&gt;Prior experience as an engineer with some combination of Elasticsearch, Airflow, Docker, Kubernetes, Python, and Rust.&lt;/li&gt;\n&lt;li&gt;Direct experience leading a team through migrating off a legacy datastore (MongoDB, MariaDB, or similar) into a modern architecture.&lt;/li&gt;\n&lt;li&gt;Experience shipping software onto customer-managed or on-prem infrastructure.&lt;/li&gt;\n&lt;li&gt;Hands-on daily use of AI-assisted development tools.&lt;/li&gt;\n&lt;li&gt;Comfortable reading code and debugging production issues directly.&lt;/li&gt;\n&lt;li&gt;Cybersecurity, SOC, or OT/ICS domain exposure is a plus.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Compensation:&amp;nbsp;&lt;/span&gt;&lt;span data-ccp-props=&quot;{}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Salary: $220,000&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Competitive Equity Package &lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Comprehensive Benefits Plan &lt;/span&gt;&lt;span data-ccp-props=&quot;{}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;span data-ccp-props=&quot;{}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span data-ccp-props=&quot;{}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;span data-ccp-props=&quot;{}&quot;&gt;&lt;span data-contrast=&quot;none&quot;&gt;#LI-NH1 #LI-REMOTE&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;335551550&amp;quot;:0,&amp;quot;335551620&amp;quot;:0,&amp;quot;335557856&amp;quot;:16777215,&amp;quot;335559738&amp;quot;:240,&amp;quot;335559739&amp;quot;:240}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;Dragos is an Equal Opportunity Employer and considers applicants for employment without regard to race, color, religion, sex, orientation, national origin, age, disability, genetics, or any other basis forbidden under federal, state, or local laws. All new hires must pass a background check as a condition of employment.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4045738008,
+      "name": "Data Engineering",
+      "child_ids": [],
+      "parent_id": 4044793008
+    }
+  ],
+  "offices": [
+    {
+      "id": 4037562008,
+      "name": "Dragos USA",
+      "location": null,
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": "<p>As part of our hiring process, The Dragos team uses Greenhouse’s AI-powered Talent Matching tool to compare your application against our job requirements.&nbsp;A human is always in the loop and is the final decision maker.&nbsp;</p>",
+  "include_ai_disclaimer": true,
+  "ai_opt_out_request_url": "http://app8.greenhouse.io/ai_opt_out_request/job_post/5365080008/ai_opt_out"
+}

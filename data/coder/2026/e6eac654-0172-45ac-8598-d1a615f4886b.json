@@ -1,0 +1,178 @@
+{
+  "id": "e6eac654-0172-45ac-8598-d1a615f4886b",
+  "title": "Senior Software Engineer (Multiple Teams, Europe)",
+  "department": "Research & Development",
+  "team": "Enterprise Engineering",
+  "employmentType": "FullTime",
+  "location": "United Kingdom",
+  "shouldDisplayCompensationOnJobPostings": true,
+  "secondaryLocations": [
+    {
+      "location": "Ireland",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "Ireland",
+          "addressCountry": "Ireland",
+          "addressLocality": "Dublin"
+        }
+      }
+    },
+    {
+      "location": "Poland",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "Poland",
+          "addressCountry": "Poland",
+          "addressLocality": "Warsaw"
+        }
+      }
+    }
+  ],
+  "publishedAt": "2026-08-26T21:53:13.835+00:00",
+  "isListed": true,
+  "isRemote": true,
+  "workplaceType": "Remote",
+  "address": {
+    "postalAddress": {
+      "addressRegion": "",
+      "addressCountry": "United Kingdom",
+      "addressLocality": ""
+    }
+  },
+  "jobUrl": "https://jobs.ashbyhq.com/coder/e6eac654-0172-45ac-8598-d1a615f4886b",
+  "applyUrl": "https://jobs.ashbyhq.com/coder/e6eac654-0172-45ac-8598-d1a615f4886b/application",
+  "descriptionHtml": "<p style=\"min-height:1.5em\">As a Senior Software Engineer on Coder’s Engineering team, you’ll build and evolve the systems behind our agentic development experience. You’ll work across the agent harness, integrations, and workflows that connect agents with real development environments.</p><p style=\"min-height:1.5em\">You’ll stay hands-on, solve complex technical problems, and work closely with Product, Design, and other engineers to ship reliable agentic experiences.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>What you’ll do here</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Design and build production systems in Go, with work across React and TypeScript where needed.</p></li><li><p style=\"min-height:1.5em\">Improve agent execution, tool use, context management, streaming, and long-running workflows.</p></li><li><p style=\"min-height:1.5em\">Extend our provider-agnostic architecture as models and capabilities change.</p></li><li><p style=\"min-height:1.5em\">Build reliable integrations between agents, workspaces, tools, and developer infrastructure.</p></li><li><p style=\"min-height:1.5em\">Own projects from implementation through rollout and iteration.</p></li><li><p style=\"min-height:1.5em\">Contribute to design reviews, code reviews, and technical discussions.</p></li><li><p style=\"min-height:1.5em\">Partner with Product and Design to turn agent capabilities into useful developer experiences.</p></li><li><p style=\"min-height:1.5em\">Improve the reliability, performance, and operability of agentic systems.</p></li></ul><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>What we’re looking for</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Strong experience building and operating production software systems.</p></li><li><p style=\"min-height:1.5em\">Hands-on experience with Go.</p></li><li><p style=\"min-height:1.5em\">Experience with React and TypeScript.</p></li><li><p style=\"min-height:1.5em\">Experience building systems around LLMs or agentic workflows.</p></li><li><p style=\"min-height:1.5em\">Familiarity with model APIs, tool calling, context management, or agent loops.</p></li><li><p style=\"min-height:1.5em\">Good understanding of distributed systems and production reliability.</p></li><li><p style=\"min-height:1.5em\">Working knowledge of AWS.</p></li><li><p style=\"min-height:1.5em\">Strong problem-solving skills and comfort working through technical ambiguity.</p></li><li><p style=\"min-height:1.5em\">Someone who contributes beyond their own code through reviews, collaboration, and knowledge sharing.</p></li></ul><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>Bonus tacos if you have</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Experience building coding agents, developer tools, or cloud development environments.</p></li><li><p style=\"min-height:1.5em\">Experience with MCP, agent tools, or multi-agent systems.</p></li><li><p style=\"min-height:1.5em\">Experience with remote execution, sandboxing, or isolated compute.</p></li><li><p style=\"min-height:1.5em\">Experience building integrations across multiple model providers.</p></li><li><p style=\"min-height:1.5em\">Experience with AWS, Kubernetes, Docker, or Linux.</p></li><li><p style=\"min-height:1.5em\">Open-source contributions or experience working directly with customers.</p></li></ul><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>Our tech stack</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>Backend:</strong> Go, Postgres</p></li><li><p style=\"min-height:1.5em\"><strong>Frontend:</strong> TypeScript, React</p></li><li><p style=\"min-height:1.5em\"><strong>Infrastructure:</strong> AWS, Kubernetes</p></li><li><p style=\"min-height:1.5em\"><strong>Observability:</strong> Prometheus, Grafana</p></li><li><p style=\"min-height:1.5em\"><strong>CI/CD:</strong> GitHub Actions</p></li></ul><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">Coder’s agentic architecture is provider-agnostic. The foundation is built; this role helps extend it, improve it, and ship the next set of agentic capabilities.</p><p style=\"min-height:1.5em\"></p><h2><strong>About Coder</strong></h2><p style=\"min-height:1.5em\">Coder is the leading platform for AI development Infrastructure, enabling enterprises to securely run human and AI-driven development workflows in consistent, governed environments. Coder provides self-hosted, agent-ready workspaces that unify developer productivity and platform governance. With Coder, enterprises can confidently evolve from human-only development to AI-assisted and autonomous workflows, without sacrificing security, compliance, or performance. Learn more at <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://coder.com\"><u>coder.com</u></a>.</p><p style=\"min-height:1.5em\"></p><h2><strong>Interview process </strong></h2><p style=\"min-height:1.5em\">We believe that the interview process should be transparent, consistent, and enjoyable. We value your time and hope to complete the interview process in two to four weeks, if schedules allow.  Through your interviews, you will meet a mix of individual contributors, managers, and senior leaders. </p><p style=\"min-height:1.5em\"></p><h2><strong>AI use during the interview process</strong></h2><p style=\"min-height:1.5em\">As an AI company, Coder embraces the use of AI tools, and we want to be transparent about our expectations as you navigate our interview process.  </p><p style=\"min-height:1.5em\"><strong>Not permitted</strong>: Using AI assistance during conversational interviews.</p><p style=\"min-height:1.5em\"><strong>Permitted</strong>: Using AI tooling for take-home assessments. Please flag where and to what extent it was used in your take-home. Your submission will not be penalized for using AI as long as it is done honestly.</p><p style=\"min-height:1.5em\"></p><h2><strong>Our use of AI in hiring</strong></h2><p style=\"min-height:1.5em\">We use AI tools to help manage our recruitment process efficiently and fairly. Specifically:</p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>Ashby</strong> helps us review inbound applications by surfacing candidates who best match the role requirements we've defined. This tool does not make hiring decisions; it helps our team prioritize which applications to review first.</p></li><li><p style=\"min-height:1.5em\"><strong>Granola</strong> takes notes during our interview calls so our team can focus on the conversation with you.</p></li></ul><p style=\"min-height:1.5em\">All hiring decisions are made by humans. Our team reviews applications, conducts interviews, and makes final selections. AI tools assist us but never replace human judgment, and these practices are conducted in compliance with applicable data protection, AI governance, and labor laws. Your data is not used to train AI models.</p><p style=\"min-height:1.5em\">In accordance with New York City Local Law 144, an independent bias audit has been conducted on \"Automated Employment Decision Tools\"; results are available for <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.ashbyhq.com/downloadables/ashby-bias-audit-08-2024.pdf\">Ashby</a>.</p><p style=\"min-height:1.5em\">If you're applying for a role at Coder and have questions about how we use AI in our process, or if you'd like to request information about the data we collect, please contact <a target=\"_blank\" rel=\"noopener noreferrer\" class=\"c-link c-link--focus-visible\" href=\"mailto:careers@coder.com\">careers@coder.com</a>.</p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\"> </div><h2><strong>Coder is a proud Equal Opportunity Employer</strong></h2><p style=\"min-height:1.5em\">We are committed to providing equal employment opportunities to qualified applicants and do not discriminate on the basis of race, color, ancestry, religion, sex, pregnancy, gender, gender identity, gender expression, sexual orientation, national origin, age, marital status, genetic information, disability, protected veteran status or any other characteristic protected by federal, state, or local laws.</p>",
+  "descriptionPlain": "As a Senior Software Engineer on Coder’s Engineering team, you’ll build and evolve the systems behind our agentic development experience. You’ll work across the agent harness, integrations, and workflows that connect agents with real development environments.\n\nYou’ll stay hands-on, solve complex technical problems, and work closely with Product, Design, and other engineers to ship reliable agentic experiences.\n\n\n\nWhat you’ll do here\n\n - Design and build production systems in Go, with work across React and TypeScript where needed.\n\n - Improve agent execution, tool use, context management, streaming, and long-running workflows.\n\n - Extend our provider-agnostic architecture as models and capabilities change.\n\n - Build reliable integrations between agents, workspaces, tools, and developer infrastructure.\n\n - Own projects from implementation through rollout and iteration.\n\n - Contribute to design reviews, code reviews, and technical discussions.\n\n - Partner with Product and Design to turn agent capabilities into useful developer experiences.\n\n - Improve the reliability, performance, and operability of agentic systems.\n\n\n\nWhat we’re looking for\n\n - Strong experience building and operating production software systems.\n\n - Hands-on experience with Go.\n\n - Experience with React and TypeScript.\n\n - Experience building systems around LLMs or agentic workflows.\n\n - Familiarity with model APIs, tool calling, context management, or agent loops.\n\n - Good understanding of distributed systems and production reliability.\n\n - Working knowledge of AWS.\n\n - Strong problem-solving skills and comfort working through technical ambiguity.\n\n - Someone who contributes beyond their own code through reviews, collaboration, and knowledge sharing.\n\n\n\nBonus tacos if you have\n\n - Experience building coding agents, developer tools, or cloud development environments.\n\n - Experience with MCP, agent tools, or multi-agent systems.\n\n - Experience with remote execution, sandboxing, or isolated compute.\n\n - Experience building integrations across multiple model providers.\n\n - Experience with AWS, Kubernetes, Docker, or Linux.\n\n - Open-source contributions or experience working directly with customers.\n\n\n\nOur tech stack\n\n - Backend: Go, Postgres\n\n - Frontend: TypeScript, React\n\n - Infrastructure: AWS, Kubernetes\n\n - Observability: Prometheus, Grafana\n\n - CI/CD: GitHub Actions\n\n\n\nCoder’s agentic architecture is provider-agnostic. The foundation is built; this role helps extend it, improve it, and ship the next set of agentic capabilities.\n\n\n\n\nABOUT CODER\n\nCoder is the leading platform for AI development Infrastructure, enabling enterprises to securely run human and AI-driven development workflows in consistent, governed environments. Coder provides self-hosted, agent-ready workspaces that unify developer productivity and platform governance. With Coder, enterprises can confidently evolve from human-only development to AI-assisted and autonomous workflows, without sacrificing security, compliance, or performance. Learn more at coder.com http://coder.com.\n\n\n\n\nINTERVIEW PROCESS \n\nWe believe that the interview process should be transparent, consistent, and enjoyable. We value your time and hope to complete the interview process in two to four weeks, if schedules allow.  Through your interviews, you will meet a mix of individual contributors, managers, and senior leaders. \n\n\n\n\nAI USE DURING THE INTERVIEW PROCESS\n\nAs an AI company, Coder embraces the use of AI tools, and we want to be transparent about our expectations as you navigate our interview process.  \n\nNot permitted: Using AI assistance during conversational interviews.\n\nPermitted: Using AI tooling for take-home assessments. Please flag where and to what extent it was used in your take-home. Your submission will not be penalized for using AI as long as it is done honestly.\n\n\n\n\nOUR USE OF AI IN HIRING\n\nWe use AI tools to help manage our recruitment process efficiently and fairly. Specifically:\n\n - Ashby helps us review inbound applications by surfacing candidates who best match the role requirements we've defined. This tool does not make hiring decisions; it helps our team prioritize which applications to review first.\n\n - Granola takes notes during our interview calls so our team can focus on the conversation with you.\n\nAll hiring decisions are made by humans. Our team reviews applications, conducts interviews, and makes final selections. AI tools assist us but never replace human judgment, and these practices are conducted in compliance with applicable data protection, AI governance, and labor laws. Your data is not used to train AI models.\n\nIn accordance with New York City Local Law 144, an independent bias audit has been conducted on \"Automated Employment Decision Tools\"; results are available for Ashby https://www.ashbyhq.com/downloadables/ashby-bias-audit-08-2024.pdf.\n\nIf you're applying for a role at Coder and have questions about how we use AI in our process, or if you'd like to request information about the data we collect, please contact careers@coder.com.\n\n \n\n\nCODER IS A PROUD EQUAL OPPORTUNITY EMPLOYER\n\nWe are committed to providing equal employment opportunities to qualified applicants and do not discriminate on the basis of race, color, ancestry, religion, sex, pregnancy, gender, gender identity, gender expression, sexual orientation, national origin, age, marital status, genetic information, disability, protected veteran status or any other characteristic protected by federal, state, or local laws.",
+  "compensation": {
+    "compensationTierSummary": "£69K – £126K • Offers Equity • Offers Bonus • Multiple Ranges",
+    "scrapeableCompensationSalarySummary": "£69K - £126K",
+    "compensationTiers": [
+      {
+        "id": "13f4e61e-752a-49fd-8dfa-9fdaa9f2308b",
+        "tierSummary": "£69K – £126K • Offers Equity • Offers Bonus",
+        "title": "United Kingdom",
+        "additionalInformation": null,
+        "components": [
+          {
+            "id": "0e5a1537-b263-4d4d-9086-64c7d4407450",
+            "summary": "Offers Bonus",
+            "compensationType": "Bonus",
+            "interval": "1 YEAR",
+            "currencyCode": "GBP",
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "f796d6e6-c528-4992-8875-1a4e99eaae17",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "4a57abfa-cf98-4425-b7d0-a851545b27ee",
+            "summary": "£69K – £126K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "GBP",
+            "minValue": 69000,
+            "maxValue": 126000
+          }
+        ]
+      },
+      {
+        "id": "42858410-a34d-454d-80c2-af136292e764",
+        "tierSummary": "€111K – €188K • Offers Equity • Offers Bonus",
+        "title": "Ireland",
+        "additionalInformation": null,
+        "components": [
+          {
+            "id": "9cff842f-71c3-4608-b517-e3e963540da3",
+            "summary": "€111K – €188K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "EUR",
+            "minValue": 111000,
+            "maxValue": 188000
+          },
+          {
+            "id": "6b7d8ef9-ff6a-455b-a378-e1f4cdf288a0",
+            "summary": "Offers Bonus",
+            "compensationType": "Bonus",
+            "interval": "1 YEAR",
+            "currencyCode": "EUR",
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "db7d0539-bec4-4ec9-82d8-c1c977702607",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
+          }
+        ]
+      },
+      {
+        "id": "0b3cbe2b-b7da-4f7e-bc96-78e236e3fec0",
+        "tierSummary": "PLN 372K – PLN 661K • Offers Equity • Offers Bonus",
+        "title": "Poland",
+        "additionalInformation": null,
+        "components": [
+          {
+            "id": "56c6c66e-d76a-40c4-ba01-57012c4f5ad7",
+            "summary": "Offers Bonus",
+            "compensationType": "Bonus",
+            "interval": "1 YEAR",
+            "currencyCode": "PLN",
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "7c0a5434-7176-4ffe-8a03-d053c770153d",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "1e6a3b03-a225-4ae7-9f53-d5bcd434fd9c",
+            "summary": "PLN 372K – PLN 661K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "PLN",
+            "minValue": 372000,
+            "maxValue": 661000
+          }
+        ]
+      }
+    ],
+    "summaryComponents": [
+      {
+        "compensationType": "Bonus",
+        "minValue": null,
+        "maxValue": null,
+        "interval": "1 YEAR"
+      },
+      {
+        "compensationType": "EquityPercentage",
+        "minValue": null,
+        "maxValue": null,
+        "interval": "1 YEAR"
+      },
+      {
+        "compensationType": "Salary",
+        "interval": "1 YEAR",
+        "currencyCode": "GBP",
+        "minValue": 69000,
+        "maxValue": 126000
+      }
+    ]
+  }
+}

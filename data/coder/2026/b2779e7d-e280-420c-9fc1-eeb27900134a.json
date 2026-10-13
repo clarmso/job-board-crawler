@@ -1,0 +1,155 @@
+{
+  "id": "b2779e7d-e280-420c-9fc1-eeb27900134a",
+  "title": "Staff Software Engineer (AI Governance)",
+  "department": "Research & Development",
+  "team": "Enterprise Engineering",
+  "employmentType": "FullTime",
+  "location": "United States",
+  "shouldDisplayCompensationOnJobPostings": true,
+  "secondaryLocations": [],
+  "publishedAt": "2026-08-11T20:08:28.613+00:00",
+  "isListed": true,
+  "isRemote": true,
+  "workplaceType": "Remote",
+  "address": {
+    "postalAddress": {
+      "addressCountry": "United States"
+    }
+  },
+  "jobUrl": "https://jobs.ashbyhq.com/coder/b2779e7d-e280-420c-9fc1-eeb27900134a",
+  "applyUrl": "https://jobs.ashbyhq.com/coder/b2779e7d-e280-420c-9fc1-eeb27900134a/application",
+  "descriptionHtml": "<p style=\"min-height:1.5em\">We’re looking for a Staff Software Engineer to help shape AI governance for developer tooling at Coder. This role sits on our AI Governance team, which builds and maintains two enterprise-grade components of Coder's AI governance stack.</p><p style=\"min-height:1.5em\">AI Gateway is a centralized LLM gateway that sits between coding agents and providers such as OpenAI or Anthropic, providing organizations with audit trails, token tracking, cost control, and centralized authentication. Agent Firewall wraps those agents with default-deny network policies, controlling which domains and methods they can reach inside workspaces.</p><p style=\"min-height:1.5em\">This team works across the full stack - from Go backend and React frontend to integrating with LLM provider APIs. Day to day, you'll be shipping features, hardening security boundaries, collaborating with enterprise customers on real-world policy needs, and contributing to Coder's open-source ecosystem.</p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\"> </div><p style=\"min-height:1.5em\"><strong>What you'll do here</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Design and build product features that push the standard for remote development in self-hosted environments</p></li><li><p style=\"min-height:1.5em\">Create and improve upon popular open source projects that integrate with VS Code, JetBrains, and other developer tools</p></li><li><p style=\"min-height:1.5em\">Champion best practices to both internal team members and external contributors</p></li><li><p style=\"min-height:1.5em\">Collaborate with Product and Design teams at Coder, as well as with partners like JetBrains, to execute key product integrations</p></li><li><p style=\"min-height:1.5em\">Document the design, implementation, and operations of systems for knowledge sharing within the team</p></li><li><p style=\"min-height:1.5em\">Work alongside Customer Success teams to support Coder’s enterprise user base</p></li><li><p style=\"min-height:1.5em\">Work with cutting-edge AI technologies to create seamless, painless developer experiences</p></li><li><p style=\"min-height:1.5em\">Rapidly iterate from prototype to implementation in a highly adaptive, reactive team environment</p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\"> </div></li></ul><p style=\"min-height:1.5em\"><strong>What we're looking for</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">8+ years of full-stack experience writing code in a professional setting, with 1+ year(s) writing Go (ideally in current or most recent position)</p></li><li><p style=\"min-height:1.5em\">Proficiency in building distributed systems in Go</p></li><li><p style=\"min-height:1.5em\">Excellent verbal and written communication skills</p></li><li><p style=\"min-height:1.5em\">Exceptional debugging and troubleshooting skills, and the tenacity to drive a solution to a conclusion</p></li><li><p style=\"min-height:1.5em\">You are self-motivated with a creative and analytical mindset</p></li></ul><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\"> </div><p style=\"min-height:1.5em\"><strong>Our tech stack</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Frontend: Typescript, React, Vite</p></li><li><p style=\"min-height:1.5em\">Backend: Go, Postgres, GCP, Kubernetes, gRPC</p></li><li><p style=\"min-height:1.5em\">Observability: Prometheus, Grafana</p></li><li><p style=\"min-height:1.5em\">CI/CD: GitHub Actions</p></li><li><p style=\"min-height:1.5em\">General: GitHub, Slack, Discord, Notion</p></li></ul><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\"> </div><p style=\"min-height:1.5em\"><strong>Bonus tacos if you have</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">(Tacos? If you need an ice-breaker, ask how we say thanks by giving tacos!)</p></li><li><p style=\"min-height:1.5em\">Experience with TypeScript and React</p></li><li><p style=\"min-height:1.5em\">You have a background in developer tooling, platform engineering, or IaC</p></li><li><p style=\"min-height:1.5em\">You have a curiosity about the latest tech trends and what is going on in the world of developer tools</p></li></ul><p style=\"min-height:1.5em\"></p><h2><strong>About Coder</strong></h2><p style=\"min-height:1.5em\">Coder is the leading platform for AI development Infrastructure, enabling enterprises to securely run human and AI-driven development workflows in consistent, governed environments. Coder provides self-hosted, agent-ready workspaces that unify developer productivity and platform governance. With Coder, enterprises can confidently evolve from human-only development to AI-assisted and autonomous workflows, without sacrificing security, compliance, or performance. Learn more at <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://coder.com\"><u>coder.com</u></a>.</p><p style=\"min-height:1.5em\"></p><h2><strong>Interview process </strong></h2><p style=\"min-height:1.5em\">We believe that the interview process should be transparent, consistent, and enjoyable. We value your time and hope to complete the interview process in two to four weeks, if schedules allow.  Through your interviews, you will meet a mix of individual contributors, managers, and senior leaders. </p><p style=\"min-height:1.5em\"></p><h2><strong>AI use during the interview process</strong></h2><p style=\"min-height:1.5em\">As an AI company, Coder embraces the use of AI tools, and we want to be transparent about our expectations as you navigate our interview process.  </p><p style=\"min-height:1.5em\"><strong>Not permitted</strong>: Using AI assistance during conversational interviews.</p><p style=\"min-height:1.5em\"><strong>Permitted</strong>: Using AI tooling for take-home assessments. Please flag where and to what extent it was used in your take-home. Your submission will not be penalized for using AI as long as it is done honestly.</p><p style=\"min-height:1.5em\"></p><h2><strong>Our use of AI in hiring</strong></h2><p style=\"min-height:1.5em\">We use AI tools to help manage our recruitment process efficiently and fairly. Specifically:</p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>Ashby</strong> helps us review inbound applications by surfacing candidates who best match the role requirements we've defined. This tool does not make hiring decisions; it helps our team prioritize which applications to review first.</p></li><li><p style=\"min-height:1.5em\"><strong>Granola</strong> takes notes during our interview calls so our team can focus on the conversation with you.</p></li></ul><p style=\"min-height:1.5em\">All hiring decisions are made by humans. Our team reviews applications, conducts interviews, and makes final selections. AI tools assist us but never replace human judgment, and these practices are conducted in compliance with applicable data protection, AI governance, and labor laws. Your data is not used to train AI models.</p><p style=\"min-height:1.5em\">In accordance with New York City Local Law 144, an independent bias audit has been conducted on \"Automated Employment Decision Tools\"; results are available for <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.ashbyhq.com/downloadables/ashby-bias-audit-08-2024.pdf\">Ashby</a>.</p><p style=\"min-height:1.5em\">If you're applying for a role at Coder and have questions about how we use AI in our process, or if you'd like to request information about the data we collect, please contact <a target=\"_blank\" rel=\"noopener noreferrer\" class=\"c-link c-link--focus-visible\" href=\"mailto:careers@coder.com\">careers@coder.com</a>.</p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\"> </div><h2><strong>Coder is a proud Equal Opportunity Employer</strong></h2><p style=\"min-height:1.5em\">We are committed to providing equal employment opportunities to qualified applicants and do not discriminate on the basis of race, color, ancestry, religion, sex, pregnancy, gender, gender identity, gender expression, sexual orientation, national origin, age, marital status, genetic information, disability, protected veteran status or any other characteristic protected by federal, state, or local laws.</p>",
+  "descriptionPlain": "We’re looking for a Staff Software Engineer to help shape AI governance for developer tooling at Coder. This role sits on our AI Governance team, which builds and maintains two enterprise-grade components of Coder's AI governance stack.\n\nAI Gateway is a centralized LLM gateway that sits between coding agents and providers such as OpenAI or Anthropic, providing organizations with audit trails, token tracking, cost control, and centralized authentication. Agent Firewall wraps those agents with default-deny network policies, controlling which domains and methods they can reach inside workspaces.\n\nThis team works across the full stack - from Go backend and React frontend to integrating with LLM provider APIs. Day to day, you'll be shipping features, hardening security boundaries, collaborating with enterprise customers on real-world policy needs, and contributing to Coder's open-source ecosystem.\n\n \n\nWhat you'll do here\n\n - Design and build product features that push the standard for remote development in self-hosted environments\n\n - Create and improve upon popular open source projects that integrate with VS Code, JetBrains, and other developer tools\n\n - Champion best practices to both internal team members and external contributors\n\n - Collaborate with Product and Design teams at Coder, as well as with partners like JetBrains, to execute key product integrations\n\n - Document the design, implementation, and operations of systems for knowledge sharing within the team\n\n - Work alongside Customer Success teams to support Coder’s enterprise user base\n\n - Work with cutting-edge AI technologies to create seamless, painless developer experiences\n\n - Rapidly iterate from prototype to implementation in a highly adaptive, reactive team environment\n   \n    \n\nWhat we're looking for\n\n - 8+ years of full-stack experience writing code in a professional setting, with 1+ year(s) writing Go (ideally in current or most recent position)\n\n - Proficiency in building distributed systems in Go\n\n - Excellent verbal and written communication skills\n\n - Exceptional debugging and troubleshooting skills, and the tenacity to drive a solution to a conclusion\n\n - You are self-motivated with a creative and analytical mindset\n\n \n\nOur tech stack\n\n - Frontend: Typescript, React, Vite\n\n - Backend: Go, Postgres, GCP, Kubernetes, gRPC\n\n - Observability: Prometheus, Grafana\n\n - CI/CD: GitHub Actions\n\n - General: GitHub, Slack, Discord, Notion\n\n \n\nBonus tacos if you have\n\n - (Tacos? If you need an ice-breaker, ask how we say thanks by giving tacos!)\n\n - Experience with TypeScript and React\n\n - You have a background in developer tooling, platform engineering, or IaC\n\n - You have a curiosity about the latest tech trends and what is going on in the world of developer tools\n\n\n\n\nABOUT CODER\n\nCoder is the leading platform for AI development Infrastructure, enabling enterprises to securely run human and AI-driven development workflows in consistent, governed environments. Coder provides self-hosted, agent-ready workspaces that unify developer productivity and platform governance. With Coder, enterprises can confidently evolve from human-only development to AI-assisted and autonomous workflows, without sacrificing security, compliance, or performance. Learn more at coder.com http://coder.com.\n\n\n\n\nINTERVIEW PROCESS \n\nWe believe that the interview process should be transparent, consistent, and enjoyable. We value your time and hope to complete the interview process in two to four weeks, if schedules allow.  Through your interviews, you will meet a mix of individual contributors, managers, and senior leaders. \n\n\n\n\nAI USE DURING THE INTERVIEW PROCESS\n\nAs an AI company, Coder embraces the use of AI tools, and we want to be transparent about our expectations as you navigate our interview process.  \n\nNot permitted: Using AI assistance during conversational interviews.\n\nPermitted: Using AI tooling for take-home assessments. Please flag where and to what extent it was used in your take-home. Your submission will not be penalized for using AI as long as it is done honestly.\n\n\n\n\nOUR USE OF AI IN HIRING\n\nWe use AI tools to help manage our recruitment process efficiently and fairly. Specifically:\n\n - Ashby helps us review inbound applications by surfacing candidates who best match the role requirements we've defined. This tool does not make hiring decisions; it helps our team prioritize which applications to review first.\n\n - Granola takes notes during our interview calls so our team can focus on the conversation with you.\n\nAll hiring decisions are made by humans. Our team reviews applications, conducts interviews, and makes final selections. AI tools assist us but never replace human judgment, and these practices are conducted in compliance with applicable data protection, AI governance, and labor laws. Your data is not used to train AI models.\n\nIn accordance with New York City Local Law 144, an independent bias audit has been conducted on \"Automated Employment Decision Tools\"; results are available for Ashby https://www.ashbyhq.com/downloadables/ashby-bias-audit-08-2024.pdf.\n\nIf you're applying for a role at Coder and have questions about how we use AI in our process, or if you'd like to request information about the data we collect, please contact careers@coder.com.\n\n \n\n\nCODER IS A PROUD EQUAL OPPORTUNITY EMPLOYER\n\nWe are committed to providing equal employment opportunities to qualified applicants and do not discriminate on the basis of race, color, ancestry, religion, sex, pregnancy, gender, gender identity, gender expression, sexual orientation, national origin, age, marital status, genetic information, disability, protected veteran status or any other characteristic protected by federal, state, or local laws.",
+  "compensation": {
+    "compensationTierSummary": "$193K – $294K • Offers Equity • Offers Bonus • Multiple Ranges",
+    "scrapeableCompensationSalarySummary": "$193K - $294K",
+    "compensationTiers": [
+      {
+        "id": "e03243b5-164c-43bd-ac9c-832badac8cb3",
+        "tierSummary": "$217K – $294K • Offers Equity • Offers Bonus",
+        "title": "Tier 1",
+        "additionalInformation": null,
+        "components": [
+          {
+            "id": "350bda97-7d46-4402-8484-adba94234c0b",
+            "summary": "$217K – $294K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 217000,
+            "maxValue": 294000
+          },
+          {
+            "id": "12a1de3d-a574-4bec-8b80-e6bdb9280875",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "3457ca54-986a-4419-b591-9ceae78cb6b3",
+            "summary": "Offers Bonus",
+            "compensationType": "Bonus",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": null,
+            "maxValue": null
+          }
+        ]
+      },
+      {
+        "id": "b1fb0c1d-917d-4516-b367-ef7e15936add",
+        "tierSummary": "$201K – $272K • Offers Equity • Offers Bonus",
+        "title": "Tier 2",
+        "additionalInformation": null,
+        "components": [
+          {
+            "id": "b2efe5db-4936-4891-88b4-3c9ed46963ba",
+            "summary": "$201K – $272K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 201000,
+            "maxValue": 272000
+          },
+          {
+            "id": "d09372f3-73c4-43d2-9042-8b2e8661a014",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "7a4d8dc6-86d3-4c58-a6b3-8cea4f6b7075",
+            "summary": "Offers Bonus",
+            "compensationType": "Bonus",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": null,
+            "maxValue": null
+          }
+        ]
+      },
+      {
+        "id": "dd54b538-2d54-4698-951c-9a2aca92af82",
+        "tierSummary": "$193K – $261K • Offers Equity • Offers Bonus",
+        "title": "Tier 3",
+        "additionalInformation": null,
+        "components": [
+          {
+            "id": "a0733c75-b556-430a-a48e-713a75b31b8a",
+            "summary": "$193K – $261K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 193000,
+            "maxValue": 261000
+          },
+          {
+            "id": "38e0e8a1-21d0-418b-a419-52b341c48513",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "e55afdf7-e1d7-418f-a4a5-ae7010c70c61",
+            "summary": "Offers Bonus",
+            "compensationType": "Bonus",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": null,
+            "maxValue": null
+          }
+        ]
+      }
+    ],
+    "summaryComponents": [
+      {
+        "minValue": 193000,
+        "maxValue": 294000,
+        "currencyCode": "USD",
+        "interval": "1 YEAR",
+        "compensationType": "Salary"
+      },
+      {
+        "compensationType": "EquityPercentage",
+        "minValue": null,
+        "maxValue": null,
+        "interval": "1 YEAR"
+      },
+      {
+        "compensationType": "Bonus",
+        "minValue": null,
+        "maxValue": null,
+        "interval": "1 YEAR"
+      }
+    ]
+  }
+}

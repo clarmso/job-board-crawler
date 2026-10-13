@@ -1,0 +1,54 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/anthropic/jobs/4926242008",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 4341906008,
+  "location": {
+    "name": "San Francisco, CA | New York City, NY | Seattle, WA"
+  },
+  "metadata": [
+    {
+      "id": 4036944008,
+      "name": "Location Type",
+      "value": "On-Site",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 4926242008,
+  "updated_at": "2026-08-21T12:49:40-04:00",
+  "requisition_id": "10260",
+  "title": "Software Engineer, ML Networking",
+  "company_name": "Anthropic",
+  "first_published": "2025-09-23T17:02:55-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Anthropic&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;strong&gt;Role Summary&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;A systems-level engineer specializing in network infrastructure and network optimization, with expertise in building and maintaining software that interacts with networks. You will be responsible for writing and maintaining software that interfaces between our accelerators and our high-speed networks. This role requires deep technical knowledge of network protocols, kernel-space and/or user-space networks, interfacing with hardware, and the ability to debug and optimize distributed software at the network level.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;You may be a good fit if you have:&lt;/strong&gt;&lt;/h2&gt;\n&lt;h3&gt;&lt;strong&gt;Networking Systems Engineering:&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Expert-level proficiency with network protocols and networking concepts&lt;/li&gt;\n&lt;li&gt;Deep kernel networking: TCP/IP stack internals, XDP, eBPF, io_uring, and epoll&lt;/li&gt;\n&lt;li&gt;User-space networking: DPDK, RDMA, kernel bypass techniques&lt;/li&gt;\n&lt;li&gt;Understanding of how to build higher-level abstractions like collectives and RPC&lt;/li&gt;\n&lt;li&gt;Skilled at diagnosing and resolving networking issues in distributed systems, especially at OSI model layers 2-4&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Low-Level Systems and OS Programming:&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Strong programming skills in a systems programming language, including memory management, lock-free data structures, and NUMA-aware programming&lt;/li&gt;\n&lt;li&gt;Software, driver, and OS performance optimization tools and techniques&lt;/li&gt;\n&lt;li&gt;Comfort with or desire to learn Rust&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;Strong candidates may have:&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Understanding of ML accelerators and accelerator drivers&lt;/li&gt;\n&lt;li&gt;Demonstrated ability to design new network protocols&lt;/li&gt;\n&lt;li&gt;Experience with PCIe and drivers for PCIe devices&lt;/li&gt;\n&lt;li&gt;Expertise in algorithms used in networking, including compression and graph algorithms&lt;/li&gt;\n&lt;li&gt;Experience programming on SmartNICs&lt;/li&gt;\n&lt;li&gt;5+ years of experience in systems programming or network programming&lt;/li&gt;\n&lt;li&gt;Often comes from backgrounds in: HPC, telecommunications, host networking software, OS/kernel engineering, or embedded systems&lt;/li&gt;\n&lt;li&gt;Strong debugging mindset with patience for complex, multi-layered issues&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;Representative Projects:&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Build a system for accelerator-initiated tensor movement over the network&lt;/li&gt;\n&lt;li&gt;Benchmark software for a new networking environment&lt;/li&gt;\n&lt;li&gt;Implement a new collective algorithm to improve latency&lt;/li&gt;\n&lt;li&gt;Optimize congestion control algorithms for large-scale synchronous workloads&lt;/li&gt;\n&lt;li&gt;Debug kernel-level network latency spikes&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;The annual compensation range for this role is listed below.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;For sales roles, the range provided is the role’s On Target Earnings (&quot;OTE&quot;) range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;Annual Salary:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$280,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$850,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;Logistics&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;&lt;strong&gt;Minimum education: &lt;/strong&gt;Bachelor’s degree or an equivalent combination of education, training, and/or experience&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Required field of study:&amp;nbsp;&lt;/strong&gt;A field relevant to the role as demonstrated through coursework, training, or professional experience&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Minimum years of experience: &lt;/strong&gt;Years of experience required will correlate with the internal job level requirements for the position&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Location-based hybrid policy:&lt;/strong&gt; Currently, we expect all staff to be in one of our offices at least 25% of the time. However, some roles may require more time in our offices.&lt;/p&gt;\n&lt;p&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Visa sponsorship:&lt;/strong&gt;&amp;nbsp;We do sponsor visas! However, we aren&#39;t able to successfully sponsor visas for every role and every candidate. But if we make you an offer, we will make every reasonable effort to get you a visa, and we retain an immigration lawyer to help with this.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;We encourage you to apply even if you do not believe you meet every single qualification.&lt;/strong&gt; Not all strong candidates will meet every single qualification as listed.&amp;nbsp; Research shows that people who identify as being from underrepresented groups are more prone to experiencing imposter syndrome and doubting the strength of their candidacy, so we urge you not to exclude yourself prematurely and to submit an application if you&#39;re interested in this work. We think AI systems like the ones we&#39;re building have enormous social and ethical implications. We think this makes representation even more important, and we strive to include a range of diverse perspectives on our team.&lt;br&gt;&lt;br&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Your safety matters to us.&lt;/strong&gt; To protect yourself from potential scams, remember that Anthropic recruiters only contact you from&amp;nbsp;@anthropic.com&amp;nbsp;email addresses. In some cases, we may partner with vetted recruiting agencies who will identify themselves as working on behalf of Anthropic. Be cautious of emails from other domains. Legitimate Anthropic recruiters will never ask for money, fees, or banking information before your first day. If you&#39;re ever unsure about a communication, don&#39;t click any links—visit&amp;nbsp;&lt;u data-stringify-type=&quot;underline&quot;&gt;&lt;a class=&quot;c-link c-link--underline&quot; href=&quot;http://anthropic.com/careers&quot; target=&quot;_blank&quot; data-stringify-link=&quot;http://anthropic.com/careers&quot; data-sk=&quot;tooltip_parent&quot; data-remove-tab-index=&quot;true&quot;&gt;anthropic.com/careers&lt;/a&gt;&lt;/u&gt;&amp;nbsp;directly for confirmed position openings.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;How we&#39;re different&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;We believe that the highest-impact AI research will be big science. At Anthropic we work as a single cohesive team on just a few large-scale research efforts. And we value impact — advancing our long-term goals of steerable, trustworthy AI — rather than work on smaller and more specific puzzles. We view AI research as an empirical science, which has as much in common with physics and biology as with traditional efforts in computer science. We&#39;re an extremely collaborative group, and we host frequent research discussions to ensure that we are pursuing the highest-impact work at any given time. As such, we greatly value communication skills.&lt;/p&gt;\n&lt;p&gt;The easiest way to understand our research directions is to read our recent research. This research continues many of the directions our team worked on prior to Anthropic, including: GPT-3, Circuit-Based Interpretability, Multimodal Neurons, Scaling Laws, AI &amp;amp; Compute, Concrete Problems in AI Safety, and Learning from Human Preferences.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;Come work with us!&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Anthropic is a public benefit corporation headquartered in San Francisco. We offer competitive compensation and benefits, optional equity donation matching, generous vacation and parental leave, flexible working hours, and a lovely office space in which to collaborate with colleagues. &lt;strong data-stringify-type=&quot;bold&quot;&gt;Guidance on Candidates&#39; AI Usage:&lt;/strong&gt;&amp;nbsp;Learn about&amp;nbsp;&lt;a class=&quot;c-link&quot; href=&quot;https://www.anthropic.com/candidate-ai-guidance&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.anthropic.com/candidate-ai-guidance&quot; data-sk=&quot;tooltip_parent&quot;&gt;our policy&lt;/a&gt; for using AI in our application process.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4002061008,
+      "name": "AI Research & Engineering",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 4001218008,
+      "name": "San Francisco, CA",
+      "location": "San Francisco, California, United States",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

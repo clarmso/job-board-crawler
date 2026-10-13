@@ -4,18 +4,18 @@
   "department": "Marketing",
   "team": "Marketing",
   "employmentType": "FullTime",
-  "location": "US-CA-Menlo Park",
+  "location": "US-CA-Remote",
   "shouldDisplayCompensationOnJobPostings": true,
   "secondaryLocations": [],
   "publishedAt": "2026-07-02T21:00:03.764+00:00",
   "isListed": true,
-  "isRemote": null,
-  "workplaceType": null,
+  "isRemote": true,
+  "workplaceType": "Remote",
   "address": {
     "postalAddress": {
       "addressRegion": "California",
       "addressCountry": "United States",
-      "addressLocality": "Menlo Park"
+      "addressLocality": "Remote"
     }
   },
   "jobUrl": "https://jobs.ashbyhq.com/Snowflake/7a870f64-3f8c-437e-9f51-c389fd17a594",

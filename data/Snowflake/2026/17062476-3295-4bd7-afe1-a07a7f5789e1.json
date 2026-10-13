@@ -4,17 +4,18 @@
   "department": "Professional Services",
   "team": "Professional Services",
   "employmentType": "FullTime",
-  "location": "NZ-New Zealand-Remote",
+  "location": "NZ-Auckland-MSO",
   "shouldDisplayCompensationOnJobPostings": false,
   "secondaryLocations": [],
   "publishedAt": "2026-10-12T08:11:15.588+00:00",
   "isListed": true,
-  "isRemote": true,
-  "workplaceType": "Remote",
+  "isRemote": null,
+  "workplaceType": null,
   "address": {
     "postalAddress": {
+      "addressRegion": "Auckland",
       "addressCountry": "New Zealand",
-      "addressLocality": "Remote"
+      "addressLocality": "Auckland"
     }
   },
   "jobUrl": "https://jobs.ashbyhq.com/Snowflake/17062476-3295-4bd7-afe1-a07a7f5789e1",

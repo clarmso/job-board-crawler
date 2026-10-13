@@ -1,0 +1,75 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/anthropic/jobs/5422950008",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 4547554008,
+  "location": {
+    "name": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY"
+  },
+  "metadata": [
+    {
+      "id": 4036944008,
+      "name": "Location Type",
+      "value": "On-Site",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 5422950008,
+  "updated_at": "2026-09-19T19:21:00-04:00",
+  "requisition_id": "267476",
+  "title": "Security Technology Deployment Specialist",
+  "company_name": "Anthropic",
+  "first_published": "2026-09-19T19:21:00-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Anthropic&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;strong&gt;About the Role:&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;As part of Anthropic’s Global Safety, Intelligence, and Security (GSIS) team, the Security Technology Deployment Engineer will own the validation, standardization, and deployment of physical security technology across Anthropic’s rapidly expanding global office portfolio. This role bridges the gap between technology selection and production-ready operation — ensuring that every security platform deployed is rigorously tested, properly integrated with enterprise infrastructure, fully documented, and built for scale.&lt;/p&gt;\n&lt;p&gt;You’ll define the installation standards, configuration baselines, and deployment processes that the broader team executes against — from access control migrations and intercom replacements to AI analytics onboarding and new application integrations. You’ll work across InfoSec, IT, Networking, and Identity Management to ensure every security application passes review, integrates with SSO, and is supported within Anthropic’s infrastructure before going live. Your work will directly determine whether Anthropic’s security technology stack scales reliably as the company grows from dozens of locations to a global enterprise footprint.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;Responsibilities:&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Validate and deploy new and replacement security technology platforms including access control systems, intercom solutions, video management, visitor management, and AI/analytics tools across all Anthropic locations&lt;/li&gt;\n&lt;li&gt;Build and maintain staging environments for pre-production testing and validation of all security applications, hardware, firmware, and system configurations&lt;/li&gt;\n&lt;li&gt;Define installation standards, configuration baselines, licensing structures, update procedures, and maintenance requirements for every deployed security platform&lt;/li&gt;\n&lt;li&gt;Deploy integrations between security applications, validating that platforms communicate and share data correctly before transitioning to production&lt;/li&gt;\n&lt;li&gt;Support colleagues’ security applications through InfoSec review processes, ensuring new tools meet Anthropic’s information security and compliance requirements&lt;/li&gt;\n&lt;li&gt;Coordinate SSO integration for newly deployed security applications with Identity Management and IT teams&lt;/li&gt;\n&lt;li&gt;Transition applications requiring custom integration or data pipeline development to the IT Engineering team with documented technical requirements for roadmap inclusion&lt;/li&gt;\n&lt;li&gt;Initiate onboarding of deployed hardware and systems into Anthropic’s health monitoring platform to ensure operational visibility from day one&lt;/li&gt;\n&lt;li&gt;Develop standardized deployment playbooks, checklists, configuration templates, and handoff documentation that enable repeatable installations across all current and future sites&lt;/li&gt;\n&lt;li&gt;Evaluate security platforms for scalability, identifying capacity constraints, single points of failure, and architectural limitations before they impact operations at scale&lt;/li&gt;\n&lt;li&gt;Coordinate with Networking, IT Infrastructure, and Facilities teams to ensure all infrastructure prerequisites (network, power, rack space, cloud resources) are met prior to deployment&lt;/li&gt;\n&lt;li&gt;Execute structured handoffs to Project Management (for site programming), Break-Fix Support (for maintenance), and Access Control Administration (for ongoing system management), ensuring each team has the standards and documentation to execute independently&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;You may be a good fit if you:&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Have 5+ years of hands-on experience deploying, validating, and managing enterprise physical security technology across a large or rapidly growing organization&lt;/li&gt;\n&lt;li&gt;Have deployed security technology across 50 or more sites, or have demonstrated experience in a high-growth environment where deployment velocity and repeatability were essential&lt;/li&gt;\n&lt;li&gt;Have built standardized deployment processes, playbooks, and configuration templates that enabled others to execute installations independently and consistently&lt;/li&gt;\n&lt;li&gt;Have experience working across InfoSec, IT, Networking, and Identity Management teams to onboard and integrate security applications into enterprise environments&lt;/li&gt;\n&lt;li&gt;Have supported SSO integration, InfoSec reviews, and enterprise application onboarding workflows for security tools&lt;/li&gt;\n&lt;li&gt;Possess broad technology experience across access control, video management, intercoms, visitor management, AI/analytics, and alarm monitoring platforms&lt;/li&gt;\n&lt;li&gt;Are a strong technical communicator who can define standards clearly enough that PMs, integrators, and service teams execute against them without ambiguity&lt;/li&gt;\n&lt;li&gt;Have experience with IP networking, VLANs, PoE, and infrastructure requirements for security devices&lt;/li&gt;\n&lt;li&gt;Are comfortable with 25% travel for site deployments, commissioning, and validation&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;Strong candidates may have:&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Previous experience at a hyper-growth technology company or managing security technology programs for high-profile corporate environments&lt;/li&gt;\n&lt;li&gt;Experience with Anthropic’s specific technology stack: Genetec Security Center, Axis cameras, Wavelynx, Commend Symphony Cloud, &lt;a href=&quot;http://Alcatraz.ai&quot; target=&quot;_blank&quot;&gt;Alcatraz.ai&lt;/a&gt;, &lt;a href=&quot;http://Ambient.ai&quot; target=&quot;_blank&quot;&gt;Ambient.ai&lt;/a&gt;, SureView, Envoy&lt;/li&gt;\n&lt;li&gt;Industry certifications: Genetec, Axis, CCNA, PSP, CPP, or PMP&lt;/li&gt;\n&lt;li&gt;Experience with OSDP, modern credential technologies, and encryption protocols for physical security systems&lt;/li&gt;\n&lt;li&gt;Familiarity with scripting or automation (Python, PowerShell) for configuration management and deployment automation&lt;/li&gt;\n&lt;li&gt;Experience with health monitoring and observability platforms&lt;/li&gt;\n&lt;li&gt;Knowledge of SOC 2 compliance, GDPR, and physical security compliance frameworks&lt;/li&gt;\n&lt;li&gt;Experience with change management, configuration control, and version-controlled infrastructure documentation&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Deadline to apply: None. Applications will be received on a rolling basis.&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;The annual compensation range for this role is listed below.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;For sales roles, the range provided is the role’s On Target Earnings (&quot;OTE&quot;) range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;Annual Salary:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$180,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$230,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;Logistics&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;&lt;strong&gt;Minimum education: &lt;/strong&gt;Bachelor’s degree or an equivalent combination of education, training, and/or experience&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Required field of study:&amp;nbsp;&lt;/strong&gt;A field relevant to the role as demonstrated through coursework, training, or professional experience&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Minimum years of experience: &lt;/strong&gt;Years of experience required will correlate with the internal job level requirements for the position&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Location-based hybrid policy:&lt;/strong&gt; Currently, we expect all staff to be in one of our offices at least 25% of the time. However, some roles may require more time in our offices.&lt;/p&gt;\n&lt;p&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Visa sponsorship:&lt;/strong&gt;&amp;nbsp;We do sponsor visas! However, we aren&#39;t able to successfully sponsor visas for every role and every candidate. But if we make you an offer, we will make every reasonable effort to get you a visa, and we retain an immigration lawyer to help with this.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;We encourage you to apply even if you do not believe you meet every single qualification.&lt;/strong&gt; Not all strong candidates will meet every single qualification as listed.&amp;nbsp; Research shows that people who identify as being from underrepresented groups are more prone to experiencing imposter syndrome and doubting the strength of their candidacy, so we urge you not to exclude yourself prematurely and to submit an application if you&#39;re interested in this work. We think AI systems like the ones we&#39;re building have enormous social and ethical implications. We think this makes representation even more important, and we strive to include a range of diverse perspectives on our team.&lt;br&gt;&lt;br&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Your safety matters to us.&lt;/strong&gt; To protect yourself from potential scams, remember that Anthropic recruiters only contact you from&amp;nbsp;@anthropic.com&amp;nbsp;email addresses. In some cases, we may partner with vetted recruiting agencies who will identify themselves as working on behalf of Anthropic. Be cautious of emails from other domains. Legitimate Anthropic recruiters will never ask for money, fees, or banking information before your first day. If you&#39;re ever unsure about a communication, don&#39;t click any links—visit&amp;nbsp;&lt;u data-stringify-type=&quot;underline&quot;&gt;&lt;a class=&quot;c-link c-link--underline&quot; href=&quot;http://anthropic.com/careers&quot; target=&quot;_blank&quot; data-stringify-link=&quot;http://anthropic.com/careers&quot; data-sk=&quot;tooltip_parent&quot; data-remove-tab-index=&quot;true&quot;&gt;anthropic.com/careers&lt;/a&gt;&lt;/u&gt;&amp;nbsp;directly for confirmed position openings.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;How we&#39;re different&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;We believe that the highest-impact AI research will be big science. At Anthropic we work as a single cohesive team on just a few large-scale research efforts. And we value impact — advancing our long-term goals of steerable, trustworthy AI — rather than work on smaller and more specific puzzles. We view AI research as an empirical science, which has as much in common with physics and biology as with traditional efforts in computer science. We&#39;re an extremely collaborative group, and we host frequent research discussions to ensure that we are pursuing the highest-impact work at any given time. As such, we greatly value communication skills.&lt;/p&gt;\n&lt;p&gt;The easiest way to understand our research directions is to read our recent research. This research continues many of the directions our team worked on prior to Anthropic, including: GPT-3, Circuit-Based Interpretability, Multimodal Neurons, Scaling Laws, AI &amp;amp; Compute, Concrete Problems in AI Safety, and Learning from Human Preferences.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;Come work with us!&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Anthropic is a public benefit corporation headquartered in San Francisco. We offer competitive compensation and benefits, optional equity donation matching, generous vacation and parental leave, flexible working hours, and a lovely office space in which to collaborate with colleagues. &lt;strong data-stringify-type=&quot;bold&quot;&gt;Guidance on Candidates&#39; AI Usage:&lt;/strong&gt;&amp;nbsp;Learn about&amp;nbsp;&lt;a class=&quot;c-link&quot; href=&quot;https://www.anthropic.com/candidate-ai-guidance&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.anthropic.com/candidate-ai-guidance&quot; data-sk=&quot;tooltip_parent&quot;&gt;our policy&lt;/a&gt; for using AI in our application process.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4002063008,
+      "name": "Security",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 4001219008,
+      "name": "New York City, NY",
+      "location": "New York, New York, United States",
+      "child_ids": [],
+      "parent_id": null
+    },
+    {
+      "id": 4008537008,
+      "name": "Remote-Friendly US (Travel Required)",
+      "location": null,
+      "child_ids": [],
+      "parent_id": null
+    },
+    {
+      "id": 4001218008,
+      "name": "San Francisco, CA",
+      "location": "San Francisco, California, United States",
+      "child_ids": [],
+      "parent_id": null
+    },
+    {
+      "id": 4001217008,
+      "name": "Seattle, WA",
+      "location": "Seattle, Washington, United States",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

@@ -1,0 +1,157 @@
+{
+  "id": "8d76dce2-97f7-413e-a93e-9e3f0ba8d259",
+  "title": "Software Engineer (Enterprise Experience, Backend)",
+  "department": "Research & Development",
+  "team": "Enterprise Engineering",
+  "employmentType": "FullTime",
+  "location": "Europe",
+  "shouldDisplayCompensationOnJobPostings": true,
+  "secondaryLocations": [],
+  "publishedAt": "2026-09-16T03:35:13.090+00:00",
+  "isListed": true,
+  "isRemote": true,
+  "workplaceType": "Remote",
+  "address": {
+    "postalAddress": {
+      "addressRegion": "",
+      "addressCountry": "Poland",
+      "addressLocality": "Warsaw"
+    }
+  },
+  "jobUrl": "https://jobs.ashbyhq.com/coder/8d76dce2-97f7-413e-a93e-9e3f0ba8d259",
+  "applyUrl": "https://jobs.ashbyhq.com/coder/8d76dce2-97f7-413e-a93e-9e3f0ba8d259/application",
+  "descriptionHtml": "<p style=\"min-height:1.5em\">As a Backend Engineer on Coder's Enterprise Experience team, you'll build the features that help large organizations run Coder in production with confidence. The team owns what administrators and operators need to run Coder well. That covers how it scales, how it's upgraded, how reliably it performs, how it's observed and reported on, how activity is held accountable, and how it's secured.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">You'll join a cross-functional team of backend, platform, and QA engineers who own the operator experience end to end. You'll ship features from design through production and partner with product and design to solve real operator problems.</p><p style=\"min-height:1.5em\"></p><h2>What you'll do here</h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Build features end to end, from a design you write within the team's existing approach through production rollout.</p></li><li><p style=\"min-height:1.5em\">Write database migrations that follow the team's patterns for schema compatibility and safe upgrades.</p></li><li><p style=\"min-height:1.5em\">Build the observability, reporting, and audit features administrators rely on to see what their deployment is doing.</p></li><li><p style=\"min-height:1.5em\">Build features that keep enterprise deployments secure, following the team's security practices.</p></li><li><p style=\"min-height:1.5em\">Help investigate and resolve scalability bottlenecks under production-like load, from database access patterns to concurrency in coderd.</p></li><li><p style=\"min-height:1.5em\">Help resolve backend issues surfaced by Coder operators and administrators.</p></li><li><p style=\"min-height:1.5em\">Document the features you build so a reviewer and the next engineer do not have to decode them.</p></li><li><p style=\"min-height:1.5em\">Participate in code reviews, contribute to RFC-style design discussions, and join the on-call rotation.</p></li></ul><p style=\"min-height:1.5em\"></p><h2>What we're looking for</h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">2+ years of professional software engineering experience.</p></li><li><p style=\"min-height:1.5em\">Professional experience writing and shipping Go.</p></li><li><p style=\"min-height:1.5em\">Working understanding of Go's concurrency model, including goroutines, channels, and the sync package.</p></li><li><p style=\"min-height:1.5em\">Comfortable with SQL, schema changes, and writing migrations.</p></li><li><p style=\"min-height:1.5em\">Strong verbal and written communication skills, including surfacing blockers and uncertainty early.</p></li><li><p style=\"min-height:1.5em\">Solid debugging skills and the persistence to work a problem, and to escalate early when stuck.</p></li><li><p style=\"min-height:1.5em\">A self-motivated, analytical engineer who enjoys difficult technical challenges.</p></li></ul><p style=\"min-height:1.5em\"></p><h2>Bonus tacos if you have</h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">(Tacos? If you need an ice-breaker, ask how we say thanks by giving tacos!)</p></li><li><p style=\"min-height:1.5em\">Experience investigating performance under real-world load, including debugging race conditions.</p></li><li><p style=\"min-height:1.5em\">Experience with observability, audit, or security features in an enterprise product.</p></li><li><p style=\"min-height:1.5em\">Experience with major cloud providers, Kubernetes, and container orchestration.</p></li><li><p style=\"min-height:1.5em\">Experience building or operating distributed systems at a meaningful scale.</p></li><li><p style=\"min-height:1.5em\">Curiosity about the latest developer tooling.</p></li></ul><p style=\"min-height:1.5em\"></p><h2>Our tech stack</h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>Backend:</strong> Go, Postgres, Kubernetes, gRPC</p></li><li><p style=\"min-height:1.5em\"><strong>Observability:</strong> Prometheus, Grafana</p></li><li><p style=\"min-height:1.5em\"><strong>CI/CD:</strong> GitHub Actions</p></li><li><p style=\"min-height:1.5em\"><strong>General:</strong> GitHub, Slack, Discord, Notion</p></li></ul><p style=\"min-height:1.5em\"></p><h2><strong>About Coder</strong></h2><p style=\"min-height:1.5em\">Coder is the leading platform for AI development Infrastructure, enabling enterprises to securely run human and AI-driven development workflows in consistent, governed environments. Coder provides self-hosted, agent-ready workspaces that unify developer productivity and platform governance. With Coder, enterprises can confidently evolve from human-only development to AI-assisted and autonomous workflows, without sacrificing security, compliance, or performance. Learn more at <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://coder.com\"><u>coder.com</u></a>.</p><p style=\"min-height:1.5em\"></p><h2><strong>Interview process </strong></h2><p style=\"min-height:1.5em\">We believe that the interview process should be transparent, consistent, and enjoyable. We value your time and hope to complete the interview process in two to four weeks, if schedules allow.  Through your interviews, you will meet a mix of individual contributors, managers, and senior leaders. </p><p style=\"min-height:1.5em\"></p><h2><strong>AI use during the interview process</strong></h2><p style=\"min-height:1.5em\">As an AI company, Coder embraces the use of AI tools, and we want to be transparent about our expectations as you navigate our interview process.  </p><p style=\"min-height:1.5em\"><strong>Not permitted</strong>: Using AI assistance during conversational interviews.</p><p style=\"min-height:1.5em\"><strong>Permitted</strong>: Using AI tooling for take-home assessments. Please flag where and to what extent it was used in your take-home. Your submission will not be penalized for using AI as long as it is done honestly.</p><p style=\"min-height:1.5em\"></p><h2><strong>Our use of AI in hiring</strong></h2><p style=\"min-height:1.5em\">We use AI tools to help manage our recruitment process efficiently and fairly. Specifically:</p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>Ashby</strong> helps us review inbound applications by surfacing candidates who best match the role requirements we've defined. This tool does not make hiring decisions; it helps our team prioritize which applications to review first.</p></li><li><p style=\"min-height:1.5em\"><strong>Granola</strong> takes notes during our interview calls so our team can focus on the conversation with you.</p></li></ul><p style=\"min-height:1.5em\">All hiring decisions are made by humans. Our team reviews applications, conducts interviews, and makes final selections. AI tools assist us but never replace human judgment, and these practices are conducted in compliance with applicable data protection, AI governance, and labor laws. Your data is not used to train AI models.</p><p style=\"min-height:1.5em\">In accordance with New York City Local Law 144, an independent bias audit has been conducted on \"Automated Employment Decision Tools\"; results are available for <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.ashbyhq.com/downloadables/ashby-bias-audit-08-2024.pdf\">Ashby</a>.</p><p style=\"min-height:1.5em\">If you're applying for a role at Coder and have questions about how we use AI in our process, or if you'd like to request information about the data we collect, please contact <a target=\"_blank\" rel=\"noopener noreferrer\" class=\"c-link c-link--focus-visible\" href=\"mailto:careers@coder.com\">careers@coder.com</a>.</p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\"> </div><h2><strong>Coder is a proud Equal Opportunity Employer</strong></h2><p style=\"min-height:1.5em\">We are committed to providing equal employment opportunities to qualified applicants and do not discriminate on the basis of race, color, ancestry, religion, sex, pregnancy, gender, gender identity, gender expression, sexual orientation, national origin, age, marital status, genetic information, disability, protected veteran status or any other characteristic protected by federal, state, or local laws.</p>",
+  "descriptionPlain": "As a Backend Engineer on Coder's Enterprise Experience team, you'll build the features that help large organizations run Coder in production with confidence. The team owns what administrators and operators need to run Coder well. That covers how it scales, how it's upgraded, how reliably it performs, how it's observed and reported on, how activity is held accountable, and how it's secured.\n\n\n\nYou'll join a cross-functional team of backend, platform, and QA engineers who own the operator experience end to end. You'll ship features from design through production and partner with product and design to solve real operator problems.\n\n\n\n\nWHAT YOU'LL DO HERE\n\n - Build features end to end, from a design you write within the team's existing approach through production rollout.\n\n - Write database migrations that follow the team's patterns for schema compatibility and safe upgrades.\n\n - Build the observability, reporting, and audit features administrators rely on to see what their deployment is doing.\n\n - Build features that keep enterprise deployments secure, following the team's security practices.\n\n - Help investigate and resolve scalability bottlenecks under production-like load, from database access patterns to concurrency in coderd.\n\n - Help resolve backend issues surfaced by Coder operators and administrators.\n\n - Document the features you build so a reviewer and the next engineer do not have to decode them.\n\n - Participate in code reviews, contribute to RFC-style design discussions, and join the on-call rotation.\n\n\n\n\nWHAT WE'RE LOOKING FOR\n\n - 2+ years of professional software engineering experience.\n\n - Professional experience writing and shipping Go.\n\n - Working understanding of Go's concurrency model, including goroutines, channels, and the sync package.\n\n - Comfortable with SQL, schema changes, and writing migrations.\n\n - Strong verbal and written communication skills, including surfacing blockers and uncertainty early.\n\n - Solid debugging skills and the persistence to work a problem, and to escalate early when stuck.\n\n - A self-motivated, analytical engineer who enjoys difficult technical challenges.\n\n\n\n\nBONUS TACOS IF YOU HAVE\n\n - (Tacos? If you need an ice-breaker, ask how we say thanks by giving tacos!)\n\n - Experience investigating performance under real-world load, including debugging race conditions.\n\n - Experience with observability, audit, or security features in an enterprise product.\n\n - Experience with major cloud providers, Kubernetes, and container orchestration.\n\n - Experience building or operating distributed systems at a meaningful scale.\n\n - Curiosity about the latest developer tooling.\n\n\n\n\nOUR TECH STACK\n\n - Backend: Go, Postgres, Kubernetes, gRPC\n\n - Observability: Prometheus, Grafana\n\n - CI/CD: GitHub Actions\n\n - General: GitHub, Slack, Discord, Notion\n\n\n\n\nABOUT CODER\n\nCoder is the leading platform for AI development Infrastructure, enabling enterprises to securely run human and AI-driven development workflows in consistent, governed environments. Coder provides self-hosted, agent-ready workspaces that unify developer productivity and platform governance. With Coder, enterprises can confidently evolve from human-only development to AI-assisted and autonomous workflows, without sacrificing security, compliance, or performance. Learn more at coder.com http://coder.com.\n\n\n\n\nINTERVIEW PROCESS \n\nWe believe that the interview process should be transparent, consistent, and enjoyable. We value your time and hope to complete the interview process in two to four weeks, if schedules allow.  Through your interviews, you will meet a mix of individual contributors, managers, and senior leaders. \n\n\n\n\nAI USE DURING THE INTERVIEW PROCESS\n\nAs an AI company, Coder embraces the use of AI tools, and we want to be transparent about our expectations as you navigate our interview process.  \n\nNot permitted: Using AI assistance during conversational interviews.\n\nPermitted: Using AI tooling for take-home assessments. Please flag where and to what extent it was used in your take-home. Your submission will not be penalized for using AI as long as it is done honestly.\n\n\n\n\nOUR USE OF AI IN HIRING\n\nWe use AI tools to help manage our recruitment process efficiently and fairly. Specifically:\n\n - Ashby helps us review inbound applications by surfacing candidates who best match the role requirements we've defined. This tool does not make hiring decisions; it helps our team prioritize which applications to review first.\n\n - Granola takes notes during our interview calls so our team can focus on the conversation with you.\n\nAll hiring decisions are made by humans. Our team reviews applications, conducts interviews, and makes final selections. AI tools assist us but never replace human judgment, and these practices are conducted in compliance with applicable data protection, AI governance, and labor laws. Your data is not used to train AI models.\n\nIn accordance with New York City Local Law 144, an independent bias audit has been conducted on \"Automated Employment Decision Tools\"; results are available for Ashby https://www.ashbyhq.com/downloadables/ashby-bias-audit-08-2024.pdf.\n\nIf you're applying for a role at Coder and have questions about how we use AI in our process, or if you'd like to request information about the data we collect, please contact careers@coder.com.\n\n \n\n\nCODER IS A PROUD EQUAL OPPORTUNITY EMPLOYER\n\nWe are committed to providing equal employment opportunities to qualified applicants and do not discriminate on the basis of race, color, ancestry, religion, sex, pregnancy, gender, gender identity, gender expression, sexual orientation, national origin, age, marital status, genetic information, disability, protected veteran status or any other characteristic protected by federal, state, or local laws.",
+  "compensation": {
+    "compensationTierSummary": "£52K – £71K • Offers Equity • Offers Bonus • Multiple Ranges",
+    "scrapeableCompensationSalarySummary": "£52K - £71K",
+    "compensationTiers": [
+      {
+        "id": "c4fae5b4-3fe2-4a5e-824e-31ed7da2692c",
+        "tierSummary": "£52K – £71K • Offers Equity • Offers Bonus",
+        "title": "United Kingdom",
+        "additionalInformation": null,
+        "components": [
+          {
+            "id": "04ca22da-9cfd-40ec-84dc-25b17b30f8e4",
+            "summary": "£52K – £71K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "GBP",
+            "minValue": 52000,
+            "maxValue": 71000
+          },
+          {
+            "id": "c55defb9-06d2-4e2b-a7b0-6b17d2ce592f",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "d8724730-d557-4045-9ef8-966f0d7083a3",
+            "summary": "Offers Bonus",
+            "compensationType": "Bonus",
+            "interval": "1 YEAR",
+            "currencyCode": "GBP",
+            "minValue": null,
+            "maxValue": null
+          }
+        ]
+      },
+      {
+        "id": "8d6a5368-37ba-419c-8548-84973766b035",
+        "tierSummary": "€94K – €128K • Offers Equity • Offers Bonus",
+        "title": "Ireland",
+        "additionalInformation": null,
+        "components": [
+          {
+            "id": "06b94271-fe1a-4229-84aa-949733701021",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "2d1f3105-7479-4dac-9dbe-fff2c93ef7a8",
+            "summary": "Offers Bonus",
+            "compensationType": "Bonus",
+            "interval": "1 YEAR",
+            "currencyCode": "EUR",
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "1fbabf68-c6da-4ee7-82d8-c183d1aad276",
+            "summary": "€94K – €128K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "EUR",
+            "minValue": 94000,
+            "maxValue": 128000
+          }
+        ]
+      },
+      {
+        "id": "79f2e429-180d-4785-a32f-b6900b9ed305",
+        "tierSummary": "PLN 303K – PLN 410K • Offers Equity • Offers Bonus",
+        "title": "Poland",
+        "additionalInformation": null,
+        "components": [
+          {
+            "id": "00bf52fa-266b-4610-9ee0-d1a1b67c4c1a",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "dac64cf5-066a-4f16-ab03-cc545e4ff37c",
+            "summary": "Offers Bonus",
+            "compensationType": "Bonus",
+            "interval": "1 YEAR",
+            "currencyCode": "PLN",
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "0b8dd68a-21b8-46cf-86b3-bb76ab3e6ae7",
+            "summary": "PLN 303K – PLN 410K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "PLN",
+            "minValue": 303000,
+            "maxValue": 410000
+          }
+        ]
+      }
+    ],
+    "summaryComponents": [
+      {
+        "compensationType": "Salary",
+        "interval": "1 YEAR",
+        "currencyCode": "GBP",
+        "minValue": 52000,
+        "maxValue": 71000
+      },
+      {
+        "compensationType": "EquityPercentage",
+        "minValue": null,
+        "maxValue": null,
+        "interval": "1 YEAR"
+      },
+      {
+        "compensationType": "Bonus",
+        "minValue": null,
+        "maxValue": null,
+        "interval": "1 YEAR"
+      }
+    ]
+  }
+}

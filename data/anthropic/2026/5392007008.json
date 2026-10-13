@@ -1,0 +1,68 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/anthropic/jobs/5392007008",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 4533418008,
+  "location": {
+    "name": "San Francisco, CA | New York City, NY | Seattle, WA"
+  },
+  "metadata": [
+    {
+      "id": 4036944008,
+      "name": "Location Type",
+      "value": "On-Site",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 5392007008,
+  "updated_at": "2026-09-09T07:57:03-04:00",
+  "requisition_id": "266859",
+  "title": "User Experience Researcher, Platform",
+  "company_name": "Anthropic",
+  "first_published": "2026-09-09T07:57:03-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Anthropic&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;strong&gt;About the role&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;UX research at Anthropic works across products used by millions of people, on interactions that don&#39;t have established conventions yet. We inform critical decisions through rigorous research, working closely with curious, open-minded stakeholders who are eager to learn along with us. We combine qualitative and quantitative methods to understand user needs in a space that&#39;s evolving faster than anyone can track. We move fast, favor impact over polish, and increasingly build our own tools, deeply leveraging Claude to do research at the speed and rigor this environment demands.&lt;/p&gt;\n&lt;p&gt;This role is on the Platform research team, embedded in Anthropic&#39;s Platform organization, which comprises the API, the agent and connector infrastructure developers build on top of it, and the Console, SDKs, and documentation they use to do it. A large share of what gets built with Claude is built on this platform, including many of Anthropic&#39;s own products, and the people who use it range from individual developers to the largest enterprises.&lt;/p&gt;\n&lt;p&gt;The teams that build the platform are deeply technical, move quickly, and are deeply curious about and engaged with users. User research&#39;s job here is to give them a deeper and more systematic understanding of those users than they can get on their own, and to help the organization decide what to build for them next.&lt;/p&gt;\n&lt;p&gt;This is a senior individual-contributor role with a great deal of autonomy. You&#39;ll work with the rest of the Platform user research team and with Platform&#39;s leaders to decide where research can make the biggest difference, and then lead that work yourself.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;Key responsibilities&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Work with Platform&#39;s leaders and teams to understand what they most need to know about the people building on Claude, decide what is and isn&#39;t worth studying, and own that agenda&lt;/li&gt;\n&lt;li&gt;Design and run the research yourself using both qualitative and quantitative methods&lt;/li&gt;\n&lt;li&gt;Study the full range of people the platform serves: developers, the teams and companies building products on it, and the people who administer and buy it&lt;/li&gt;\n&lt;li&gt;Communicate findings to product managers, designers, and engineers and follow them through to product decisions, while building the shared understanding of users that lets teams make good calls on their own&lt;/li&gt;\n&lt;li&gt;Build the tools and infrastructure that let research keep pace with the platform, using Claude heavily and inventing methods where the existing ones don&#39;t fit&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;Minimum qualifications&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Industry UX research experience independently scoping, designing, running, and reporting end-to-end studies&lt;/li&gt;\n&lt;li&gt;Mixed-methods expertise: interviewing technical users well, and designing and analyzing surveys rigorously&lt;/li&gt;\n&lt;li&gt;A technical background, in one of these forms: you&#39;ve worked as a software engineer; you have a sustained body of developer-experience research on APIs, SDKs, or developer tools; or you have a sustained track record of researching deeply technical products. In practice: you can read our documentation, build something small on the platform, and keep up with very technical teams without translation&lt;/li&gt;\n&lt;li&gt;Hands-on use of AI in your own research: you already run your work through it and use it to build your own analyses and tooling&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;Preferred qualifications&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;8+ years of industry UX research experience&lt;/li&gt;\n&lt;li&gt;Experience setting the research strategy for a product or product area, with a track record of research that changed direction at the strategy level, not just the feature level, in direct partnership with product or organization leaders&lt;/li&gt;\n&lt;li&gt;Experience embedding with engineering-led product teams that ship fast and earning influence there, from the engineer who owns the endpoint up to the head of the organization&lt;/li&gt;\n&lt;li&gt;Excellent storytelling, calibrated to audience: you can discuss a finding with the head of the organization as effectively as with the engineer who owns the endpoint&lt;/li&gt;\n&lt;li&gt;Experience building with AI yourself using coding tools and agents, and an appetite to help build the research tools that don&#39;t exist yet&lt;/li&gt;\n&lt;li&gt;Experience researching pricing, packaging, or how customers decide what a product is worth, especially for usage-based or developer products&lt;/li&gt;\n&lt;li&gt;Background in API-ecosystem or developer-platform research&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;The annual compensation range for this role is listed below.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;For sales roles, the range provided is the role’s On Target Earnings (&quot;OTE&quot;) range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;Annual Salary:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$305,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$385,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;Logistics&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;&lt;strong&gt;Minimum education: &lt;/strong&gt;Bachelor’s degree or an equivalent combination of education, training, and/or experience&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Required field of study:&amp;nbsp;&lt;/strong&gt;A field relevant to the role as demonstrated through coursework, training, or professional experience&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Minimum years of experience: &lt;/strong&gt;Years of experience required will correlate with the internal job level requirements for the position&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Location-based hybrid policy:&lt;/strong&gt; Currently, we expect all staff to be in one of our offices at least 25% of the time. However, some roles may require more time in our offices.&lt;/p&gt;\n&lt;p&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Visa sponsorship:&lt;/strong&gt;&amp;nbsp;We do sponsor visas! However, we aren&#39;t able to successfully sponsor visas for every role and every candidate. But if we make you an offer, we will make every reasonable effort to get you a visa, and we retain an immigration lawyer to help with this.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;We encourage you to apply even if you do not believe you meet every single qualification.&lt;/strong&gt; Not all strong candidates will meet every single qualification as listed.&amp;nbsp; Research shows that people who identify as being from underrepresented groups are more prone to experiencing imposter syndrome and doubting the strength of their candidacy, so we urge you not to exclude yourself prematurely and to submit an application if you&#39;re interested in this work. We think AI systems like the ones we&#39;re building have enormous social and ethical implications. We think this makes representation even more important, and we strive to include a range of diverse perspectives on our team.&lt;br&gt;&lt;br&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Your safety matters to us.&lt;/strong&gt; To protect yourself from potential scams, remember that Anthropic recruiters only contact you from&amp;nbsp;@anthropic.com&amp;nbsp;email addresses. In some cases, we may partner with vetted recruiting agencies who will identify themselves as working on behalf of Anthropic. Be cautious of emails from other domains. Legitimate Anthropic recruiters will never ask for money, fees, or banking information before your first day. If you&#39;re ever unsure about a communication, don&#39;t click any links—visit&amp;nbsp;&lt;u data-stringify-type=&quot;underline&quot;&gt;&lt;a class=&quot;c-link c-link--underline&quot; href=&quot;http://anthropic.com/careers&quot; target=&quot;_blank&quot; data-stringify-link=&quot;http://anthropic.com/careers&quot; data-sk=&quot;tooltip_parent&quot; data-remove-tab-index=&quot;true&quot;&gt;anthropic.com/careers&lt;/a&gt;&lt;/u&gt;&amp;nbsp;directly for confirmed position openings.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;How we&#39;re different&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;We believe that the highest-impact AI research will be big science. At Anthropic we work as a single cohesive team on just a few large-scale research efforts. And we value impact — advancing our long-term goals of steerable, trustworthy AI — rather than work on smaller and more specific puzzles. We view AI research as an empirical science, which has as much in common with physics and biology as with traditional efforts in computer science. We&#39;re an extremely collaborative group, and we host frequent research discussions to ensure that we are pursuing the highest-impact work at any given time. As such, we greatly value communication skills.&lt;/p&gt;\n&lt;p&gt;The easiest way to understand our research directions is to read our recent research. This research continues many of the directions our team worked on prior to Anthropic, including: GPT-3, Circuit-Based Interpretability, Multimodal Neurons, Scaling Laws, AI &amp;amp; Compute, Concrete Problems in AI Safety, and Learning from Human Preferences.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;Come work with us!&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Anthropic is a public benefit corporation headquartered in San Francisco. We offer competitive compensation and benefits, optional equity donation matching, generous vacation and parental leave, flexible working hours, and a lovely office space in which to collaborate with colleagues. &lt;strong data-stringify-type=&quot;bold&quot;&gt;Guidance on Candidates&#39; AI Usage:&lt;/strong&gt;&amp;nbsp;Learn about&amp;nbsp;&lt;a class=&quot;c-link&quot; href=&quot;https://www.anthropic.com/candidate-ai-guidance&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.anthropic.com/candidate-ai-guidance&quot; data-sk=&quot;tooltip_parent&quot;&gt;our policy&lt;/a&gt; for using AI in our application process.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4050633008,
+      "name": "Engineering & Design - Product",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 4001219008,
+      "name": "New York City, NY",
+      "location": "New York, New York, United States",
+      "child_ids": [],
+      "parent_id": null
+    },
+    {
+      "id": 4001218008,
+      "name": "San Francisco, CA",
+      "location": "San Francisco, California, United States",
+      "child_ids": [],
+      "parent_id": null
+    },
+    {
+      "id": 4001217008,
+      "name": "Seattle, WA",
+      "location": "Seattle, Washington, United States",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

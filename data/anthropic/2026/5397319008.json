@@ -1,0 +1,75 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/anthropic/jobs/5397319008",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 4536080008,
+  "location": {
+    "name": "San Francisco, CA | Seattle, WA | New York City, NY | Washington, DC"
+  },
+  "metadata": [
+    {
+      "id": 4036944008,
+      "name": "Location Type",
+      "value": "On-Site",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 5397319008,
+  "updated_at": "2026-08-21T12:51:10-04:00",
+  "requisition_id": "PIP-267014",
+  "title": "Security Engineer, Corporate Security",
+  "company_name": "Anthropic",
+  "first_published": "2026-08-20T20:41:05-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Anthropic&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;strong&gt;About the role&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Corporate Security protects the environment Anthropic&#39;s people work in every day: their laptops and phones, their identities, the tools they collaborate in and the company data that flows through all of it. Everything that makes Claude what it is sits behind that environment. We keep company access on devices we manage, make those devices hard to compromise and right-size what any one of them can reach, while caring a great deal about the day-to-day experience of the people using them. The company is growing quickly and this team is growing with it, so we treat the work as an engineering discipline: controls as code and automation over queues, built to scale with headcount rather than strain against it.&lt;/p&gt;\n&lt;p&gt;As a Security Engineer here you&#39;ll drive significant parts of that work end to end. You&#39;ll set technical direction and turn it into shipped tooling. When a control collides with someone&#39;s workflow, you&#39;ll find the path that keeps them moving without giving up the protection. You&#39;ll be handed problems rather than task lists and you&#39;ll find as many yourself: threat-modeling the environment to surface what matters, fixing it and bringing the evidence that shapes what the team prioritizes next. This is a senior, hands-on individual contributor role.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;Key responsibilities&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Drive endpoint hardening across macOS, Windows, Linux, and ChromeOS, including device management configuration, application allowlisting, patching, and browser policy, favoring controls that are versioned, reviewable, and repeatable over one-off configuration&lt;/li&gt;\n&lt;li&gt;Extend device-trust and zero-trust access controls so company systems are reached from managed devices bound to the right person and carrying the right level of access, treating the experience of fellow employees as a design constraint rather than an afterthought&lt;/li&gt;\n&lt;li&gt;Build the automation and integrations that let the team scale with the company: joiner/mover/leaver automation across identity and device management, exception and expiry workflows, posture-driven policy, and Claude-assisted triage of review queues&lt;/li&gt;\n&lt;li&gt;Lead SaaS and identity governance, including third-party OAuth grants, delegated admin access, chat-platform apps, browser extensions, and software security reviews, turning recurring decisions into policy and tooling&lt;/li&gt;\n&lt;li&gt;Partner across the wider Security team, IT, and Engineering on telemetry, detections, and shared standards, and help define how a company that increasingly runs on AI agents does so securely and at scale&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;Minimum qualifications&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Hands-on endpoint security engineering on macOS, Windows, Linux, or ChromeOS, such as MDM and declarative device management profile engineering, application allowlisting or binary authorization, system extensions and endpoint security frameworks, or their platform equivalents&lt;/li&gt;\n&lt;li&gt;Proficiency in Python and scripting languages generally; you architect and build integrations, automation, and internal tooling as a normal part of the job, and can write a detection when the work calls for it&lt;/li&gt;\n&lt;li&gt;Working depth in identity and access management, SaaS security, and zero-trust access&lt;/li&gt;\n&lt;li&gt;Threat-modeling judgment that finds the problems worth solving and the ability to scope them, define &quot;done,&quot; and drive them to completion&lt;/li&gt;\n&lt;li&gt;Care for Anthropic&#39;s mission and the part corporate security plays in it&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;Preferred qualifications&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience defining the scope and choosing the tooling for a security program rather than inheriting it&lt;/li&gt;\n&lt;li&gt;Experience shipping an enforcement change to a large user population: using data to find what will break before it does, staging the rollout, building the alternative path for affected workflows, and moving people onto it ahead of enforcement&lt;/li&gt;\n&lt;li&gt;Endpoint depth across more than one of macOS, Windows, Linux, and ChromeOS, with the judgment to harden for the threats that matter rather than to a checklist&lt;/li&gt;\n&lt;li&gt;Mobile security across managed and BYOD contexts, including protecting people and devices in higher-risk settings such as international travel&lt;/li&gt;\n&lt;li&gt;Experience bringing security governance to a modern SaaS environment, including third-party integrations, delegated access, and the long tail of internally built and AI-generated apps, in a way that speeds decisions up rather than slowing them down&lt;/li&gt;\n&lt;li&gt;Configuration-as-code, infrastructure-as-code, and CI/CD applied to corporate infrastructure&lt;/li&gt;\n&lt;li&gt;LLM-assisted security tooling you built that materially changed what a team could cover, and the judgment to know which work to hand to a model, which to keep, and how to combine the two&lt;/li&gt;\n&lt;li&gt;A track record of getting security controls adopted across an organization through influence and partnership rather than authority&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Deadline to apply: None. Applications will be received on a rolling basis.&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;The annual compensation range for this role is listed below.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;For sales roles, the range provided is the role’s On Target Earnings (&quot;OTE&quot;) range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;Annual Salary:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$320,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$405,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;Logistics&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;&lt;strong&gt;Minimum education: &lt;/strong&gt;Bachelor’s degree or an equivalent combination of education, training, and/or experience&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Required field of study:&amp;nbsp;&lt;/strong&gt;A field relevant to the role as demonstrated through coursework, training, or professional experience&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Minimum years of experience: &lt;/strong&gt;Years of experience required will correlate with the internal job level requirements for the position&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Location-based hybrid policy:&lt;/strong&gt; Currently, we expect all staff to be in one of our offices at least 25% of the time. However, some roles may require more time in our offices.&lt;/p&gt;\n&lt;p&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Visa sponsorship:&lt;/strong&gt;&amp;nbsp;We do sponsor visas! However, we aren&#39;t able to successfully sponsor visas for every role and every candidate. But if we make you an offer, we will make every reasonable effort to get you a visa, and we retain an immigration lawyer to help with this.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;We encourage you to apply even if you do not believe you meet every single qualification.&lt;/strong&gt; Not all strong candidates will meet every single qualification as listed.&amp;nbsp; Research shows that people who identify as being from underrepresented groups are more prone to experiencing imposter syndrome and doubting the strength of their candidacy, so we urge you not to exclude yourself prematurely and to submit an application if you&#39;re interested in this work. We think AI systems like the ones we&#39;re building have enormous social and ethical implications. We think this makes representation even more important, and we strive to include a range of diverse perspectives on our team.&lt;br&gt;&lt;br&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Your safety matters to us.&lt;/strong&gt; To protect yourself from potential scams, remember that Anthropic recruiters only contact you from&amp;nbsp;@anthropic.com&amp;nbsp;email addresses. In some cases, we may partner with vetted recruiting agencies who will identify themselves as working on behalf of Anthropic. Be cautious of emails from other domains. Legitimate Anthropic recruiters will never ask for money, fees, or banking information before your first day. If you&#39;re ever unsure about a communication, don&#39;t click any links—visit&amp;nbsp;&lt;u data-stringify-type=&quot;underline&quot;&gt;&lt;a class=&quot;c-link c-link--underline&quot; href=&quot;http://anthropic.com/careers&quot; target=&quot;_blank&quot; data-stringify-link=&quot;http://anthropic.com/careers&quot; data-sk=&quot;tooltip_parent&quot; data-remove-tab-index=&quot;true&quot;&gt;anthropic.com/careers&lt;/a&gt;&lt;/u&gt;&amp;nbsp;directly for confirmed position openings.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;How we&#39;re different&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;We believe that the highest-impact AI research will be big science. At Anthropic we work as a single cohesive team on just a few large-scale research efforts. And we value impact — advancing our long-term goals of steerable, trustworthy AI — rather than work on smaller and more specific puzzles. We view AI research as an empirical science, which has as much in common with physics and biology as with traditional efforts in computer science. We&#39;re an extremely collaborative group, and we host frequent research discussions to ensure that we are pursuing the highest-impact work at any given time. As such, we greatly value communication skills.&lt;/p&gt;\n&lt;p&gt;The easiest way to understand our research directions is to read our recent research. This research continues many of the directions our team worked on prior to Anthropic, including: GPT-3, Circuit-Based Interpretability, Multimodal Neurons, Scaling Laws, AI &amp;amp; Compute, Concrete Problems in AI Safety, and Learning from Human Preferences.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;Come work with us!&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Anthropic is a public benefit corporation headquartered in San Francisco. We offer competitive compensation and benefits, optional equity donation matching, generous vacation and parental leave, flexible working hours, and a lovely office space in which to collaborate with colleagues. &lt;strong data-stringify-type=&quot;bold&quot;&gt;Guidance on Candidates&#39; AI Usage:&lt;/strong&gt;&amp;nbsp;Learn about&amp;nbsp;&lt;a class=&quot;c-link&quot; href=&quot;https://www.anthropic.com/candidate-ai-guidance&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.anthropic.com/candidate-ai-guidance&quot; data-sk=&quot;tooltip_parent&quot;&gt;our policy&lt;/a&gt; for using AI in our application process.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4002063008,
+      "name": "Security",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 4001219008,
+      "name": "New York City, NY",
+      "location": "New York, New York, United States",
+      "child_ids": [],
+      "parent_id": null
+    },
+    {
+      "id": 4001218008,
+      "name": "San Francisco, CA",
+      "location": "San Francisco, California, United States",
+      "child_ids": [],
+      "parent_id": null
+    },
+    {
+      "id": 4001217008,
+      "name": "Seattle, WA",
+      "location": "Seattle, Washington, United States",
+      "child_ids": [],
+      "parent_id": null
+    },
+    {
+      "id": 4011228008,
+      "name": "Washington, D.C.",
+      "location": "Washington, District of Columbia, United States",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-12T21:01:22Z",
-  "total_companies": 152,
-  "total_open_jobs": 10553,
+  "generated_at": "2026-10-13T10:23:54Z",
+  "total_companies": 162,
+  "total_open_jobs": 11464,
   "companies": [
     {
       "slug": "1password",
@@ -48,11 +48,22 @@
       "supported": true
     },
     {
+      "slug": "anthropic",
+      "name": "Anthropic",
+      "ats": "greenhouse",
+      "hq_country": "US",
+      "job_count": 644,
+      "canada_job_count": 3,
+      "remote_job_count": 53,
+      "careers_url": "https://job-boards.greenhouse.io/anthropic",
+      "supported": true
+    },
+    {
       "slug": "AristaNetworks",
       "name": "Arista Networks",
       "ats": "smartrecruiters",
       "hq_country": "US",
-      "job_count": 250,
+      "job_count": 249,
       "canada_job_count": 24,
       "remote_job_count": 43,
       "careers_url": "https://careers.smartrecruiters.com/AristaNetworks/",
@@ -74,9 +85,9 @@
       "name": "Ashby",
       "ats": "ashby",
       "hq_country": "US",
-      "job_count": 67,
+      "job_count": 66,
       "canada_job_count": 24,
-      "remote_job_count": 43,
+      "remote_job_count": 42,
       "careers_url": "https://jobs.ashbyhq.com/ashby",
       "supported": true
     },
@@ -100,6 +111,17 @@
       "canada_job_count": 12,
       "remote_job_count": 0,
       "careers_url": "https://job-boards.greenhouse.io/auviknetworks",
+      "supported": true
+    },
+    {
+      "slug": "benchling",
+      "name": "Benchling",
+      "ats": "ashby",
+      "hq_country": "US",
+      "job_count": 59,
+      "canada_job_count": 0,
+      "remote_job_count": 10,
+      "careers_url": "https://jobs.ashbyhq.com/benchling",
       "supported": true
     },
     {
@@ -192,10 +214,10 @@
     },
     {
       "slug": "bungalow",
-      "name": "bungalow",
+      "name": "Bungalow",
       "ats": "breezy",
       "hq_country": "US",
-      "job_count": 3,
+      "job_count": 0,
       "canada_job_count": 0,
       "remote_job_count": 0,
       "careers_url": "https://bungalow.breezy.hr/",
@@ -239,10 +261,21 @@
       "name": "Cloudflare",
       "ats": "greenhouse",
       "hq_country": "US",
-      "job_count": 434,
+      "job_count": 436,
       "canada_job_count": 0,
       "remote_job_count": 3,
       "careers_url": "https://job-boards.greenhouse.io/cloudflare",
+      "supported": true
+    },
+    {
+      "slug": "coder",
+      "name": "Coder",
+      "ats": "ashby",
+      "hq_country": "US",
+      "job_count": 25,
+      "canada_job_count": 3,
+      "remote_job_count": 21,
+      "careers_url": "https://jobs.ashbyhq.com/coder",
       "supported": true
     },
     {
@@ -250,9 +283,9 @@
       "name": "Cohere",
       "ats": "ashby",
       "hq_country": "Canada",
-      "job_count": 119,
+      "job_count": 118,
       "canada_job_count": 72,
-      "remote_job_count": 31,
+      "remote_job_count": 30,
       "careers_url": "https://jobs.ashbyhq.com/cohere",
       "supported": true
     },
@@ -305,7 +338,7 @@
       "name": "Datadog",
       "ats": "greenhouse",
       "hq_country": "US",
-      "job_count": 433,
+      "job_count": 435,
       "canada_job_count": 0,
       "remote_job_count": 55,
       "careers_url": "https://job-boards.greenhouse.io/datadog",
@@ -316,10 +349,21 @@
       "name": "Docker",
       "ats": "ashby",
       "hq_country": "US",
-      "job_count": 63,
-      "canada_job_count": 23,
+      "job_count": 64,
+      "canada_job_count": 24,
       "remote_job_count": 38,
       "careers_url": "https://jobs.ashbyhq.com/docker",
+      "supported": true
+    },
+    {
+      "slug": "dragos",
+      "name": "Dragos",
+      "ats": "greenhouse",
+      "hq_country": "US",
+      "job_count": 53,
+      "canada_job_count": 0,
+      "remote_job_count": 0,
+      "careers_url": "https://job-boards.greenhouse.io/dragos",
       "supported": true
     },
     {
@@ -338,9 +382,9 @@
       "name": "Duck Duck Go",
       "ats": "ashby",
       "hq_country": "US",
-      "job_count": 9,
+      "job_count": 8,
       "canada_job_count": 4,
-      "remote_job_count": 5,
+      "remote_job_count": 4,
       "careers_url": "https://jobs.ashbyhq.com/duck-duck-go",
       "supported": true
     },
@@ -371,9 +415,9 @@
       "name": "Element451",
       "ats": "ashby",
       "hq_country": "US",
-      "job_count": 6,
+      "job_count": 7,
       "canada_job_count": 0,
-      "remote_job_count": 6,
+      "remote_job_count": 7,
       "careers_url": "https://jobs.ashbyhq.com/element451",
       "supported": true
     },
@@ -525,10 +569,21 @@
       "name": "Gopuff",
       "ats": "lever",
       "hq_country": "",
-      "job_count": 799,
+      "job_count": 801,
       "canada_job_count": 0,
       "remote_job_count": 9,
       "careers_url": "https://jobs.lever.co/gopuff",
+      "supported": true
+    },
+    {
+      "slug": "greatquestion",
+      "name": "Greatquestion",
+      "ats": "ashby",
+      "hq_country": "US",
+      "job_count": 3,
+      "canada_job_count": 2,
+      "remote_job_count": 1,
+      "careers_url": "https://jobs.ashbyhq.com/greatquestion",
       "supported": true
     },
     {
@@ -580,8 +635,8 @@
       "name": "Hive.Co",
       "ats": "ashby",
       "hq_country": "Canada",
-      "job_count": 2,
-      "canada_job_count": 2,
+      "job_count": 1,
+      "canada_job_count": 1,
       "remote_job_count": 0,
       "careers_url": "https://jobs.ashbyhq.com/hive.co",
       "supported": true
@@ -646,7 +701,7 @@
       "name": "Industrious",
       "ats": "ashby",
       "hq_country": "US",
-      "job_count": 63,
+      "job_count": 61,
       "canada_job_count": 0,
       "remote_job_count": 0,
       "careers_url": "https://jobs.ashbyhq.com/industrious",
@@ -657,9 +712,9 @@
       "name": "Instacart",
       "ats": "greenhouse",
       "hq_country": "United States",
-      "job_count": 121,
-      "canada_job_count": 49,
-      "remote_job_count": 67,
+      "job_count": 117,
+      "canada_job_count": 47,
+      "remote_job_count": 65,
       "careers_url": "https://job-boards.greenhouse.io/instacart",
       "supported": true
     },
@@ -683,6 +738,17 @@
       "canada_job_count": 39,
       "remote_job_count": 2,
       "careers_url": "https://jobs.ashbyhq.com/jobber",
+      "supported": true
+    },
+    {
+      "slug": "justworks",
+      "name": "Justworks",
+      "ats": "greenhouse",
+      "hq_country": "US",
+      "job_count": 91,
+      "canada_job_count": 3,
+      "remote_job_count": 16,
+      "careers_url": "https://job-boards.greenhouse.io/justworks",
       "supported": true
     },
     {
@@ -866,7 +932,7 @@
       "name": "MongoDB",
       "ats": "greenhouse",
       "hq_country": "US",
-      "job_count": 395,
+      "job_count": 393,
       "canada_job_count": 0,
       "remote_job_count": 0,
       "careers_url": "https://job-boards.greenhouse.io/mongodb",
@@ -877,8 +943,8 @@
       "name": "Mozilla",
       "ats": "greenhouse",
       "hq_country": "US",
-      "job_count": 96,
-      "canada_job_count": 19,
+      "job_count": 95,
+      "canada_job_count": 18,
       "remote_job_count": 77,
       "careers_url": "https://job-boards.greenhouse.io/mozilla",
       "supported": true
@@ -943,10 +1009,21 @@
       "name": "Okta",
       "ats": "greenhouse",
       "hq_country": "US",
-      "job_count": 377,
+      "job_count": 378,
       "canada_job_count": 81,
       "remote_job_count": 0,
       "careers_url": "https://job-boards.greenhouse.io/okta",
+      "supported": true
+    },
+    {
+      "slug": "oscilar",
+      "name": "Oscilar",
+      "ats": "ashby",
+      "hq_country": "US",
+      "job_count": 22,
+      "canada_job_count": 3,
+      "remote_job_count": 17,
+      "careers_url": "https://jobs.ashbyhq.com/oscilar",
       "supported": true
     },
     {
@@ -954,7 +1031,7 @@
       "name": "Outreach",
       "ats": "lever",
       "hq_country": "US",
-      "job_count": 24,
+      "job_count": 25,
       "canada_job_count": 0,
       "remote_job_count": 17,
       "careers_url": "https://jobs.lever.co/outreach",
@@ -976,7 +1053,7 @@
       "name": "Palantir",
       "ats": "lever",
       "hq_country": "US",
-      "job_count": 309,
+      "job_count": 310,
       "canada_job_count": 0,
       "remote_job_count": 0,
       "careers_url": "https://jobs.lever.co/palantir",
@@ -1031,7 +1108,7 @@
       "name": "PlayStation Global",
       "ats": "greenhouse",
       "hq_country": "US",
-      "job_count": 203,
+      "job_count": 202,
       "canada_job_count": 15,
       "remote_job_count": 14,
       "careers_url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal",
@@ -1068,6 +1145,17 @@
       "canada_job_count": 46,
       "remote_job_count": 27,
       "careers_url": "https://jobs.lever.co/pointclickcare",
+      "supported": true
+    },
+    {
+      "slug": "postscript",
+      "name": "Postscript",
+      "ats": "greenhouse",
+      "hq_country": "US",
+      "job_count": 5,
+      "canada_job_count": 0,
+      "remote_job_count": 5,
+      "careers_url": "https://job-boards.greenhouse.io/postscript",
       "supported": true
     },
     {
@@ -1108,9 +1196,9 @@
       "name": "Reddit",
       "ats": "greenhouse",
       "hq_country": "US",
-      "job_count": 142,
+      "job_count": 147,
       "canada_job_count": 10,
-      "remote_job_count": 99,
+      "remote_job_count": 103,
       "careers_url": "https://job-boards.greenhouse.io/reddit",
       "supported": true
     },
@@ -1203,12 +1291,23 @@
       "supported": true
     },
     {
+      "slug": "snout",
+      "name": "Snout",
+      "ats": "gem",
+      "hq_country": "US",
+      "job_count": 13,
+      "canada_job_count": 0,
+      "remote_job_count": 9,
+      "careers_url": "https://jobs.gem.com/snout",
+      "supported": true
+    },
+    {
       "slug": "Snowflake",
       "name": "Snowflake",
       "ats": "ashby",
       "hq_country": "US",
-      "job_count": 357,
-      "canada_job_count": 8,
+      "job_count": 356,
+      "canada_job_count": 10,
       "remote_job_count": 50,
       "careers_url": "https://jobs.ashbyhq.com/Snowflake",
       "supported": true
@@ -1218,9 +1317,9 @@
       "name": "Sophos",
       "ats": "lever",
       "hq_country": "UK",
-      "job_count": 89,
+      "job_count": 87,
       "canada_job_count": 18,
-      "remote_job_count": 62,
+      "remote_job_count": 60,
       "careers_url": "https://jobs.lever.co/sophos",
       "supported": true
     },
@@ -1244,6 +1343,17 @@
       "canada_job_count": 41,
       "remote_job_count": 0,
       "careers_url": "https://job-boards.greenhouse.io/stackadapt",
+      "supported": true
+    },
+    {
+      "slug": "stream",
+      "name": "Stream",
+      "ats": "ashby",
+      "hq_country": "US",
+      "job_count": 5,
+      "canada_job_count": 1,
+      "remote_job_count": 1,
+      "careers_url": "https://jobs.ashbyhq.com/stream",
       "supported": true
     },
     {
@@ -1284,8 +1394,8 @@
       "name": "Superhuman Platform Inc",
       "ats": "ashby",
       "hq_country": "US",
-      "job_count": 71,
-      "canada_job_count": 7,
+      "job_count": 72,
+      "canada_job_count": 8,
       "remote_job_count": 22,
       "careers_url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc",
       "supported": true
@@ -1471,9 +1581,9 @@
       "name": "Twilio",
       "ats": "greenhouse",
       "hq_country": "US",
-      "job_count": 146,
+      "job_count": 148,
       "canada_job_count": 10,
-      "remote_job_count": 136,
+      "remote_job_count": 138,
       "careers_url": "https://job-boards.greenhouse.io/twilio",
       "supported": true
     },
@@ -1526,8 +1636,8 @@
       "name": "Venn",
       "ats": "ashby",
       "hq_country": "Canada",
-      "job_count": 12,
-      "canada_job_count": 10,
+      "job_count": 13,
+      "canada_job_count": 11,
       "remote_job_count": 2,
       "careers_url": "https://jobs.ashbyhq.com/venn",
       "supported": true
@@ -1592,8 +1702,8 @@
       "name": "Wealthsimple",
       "ats": "ashby",
       "hq_country": "Canada",
-      "job_count": 48,
-      "canada_job_count": 48,
+      "job_count": 46,
+      "canada_job_count": 46,
       "remote_job_count": 0,
       "careers_url": "https://jobs.ashbyhq.com/wealthsimple",
       "supported": true
@@ -1636,7 +1746,7 @@
       "name": "Wise",
       "ats": "smartrecruiters",
       "hq_country": "UK",
-      "job_count": 404,
+      "job_count": 401,
       "canada_job_count": 0,
       "remote_job_count": 3,
       "careers_url": "https://careers.smartrecruiters.com/wise/",
@@ -1669,9 +1779,9 @@
       "name": "Zscaler",
       "ats": "greenhouse",
       "hq_country": "US",
-      "job_count": 377,
-      "canada_job_count": 7,
-      "remote_job_count": 151,
+      "job_count": 374,
+      "canada_job_count": 6,
+      "remote_job_count": 150,
       "careers_url": "https://job-boards.greenhouse.io/zscaler",
       "supported": true
     }
