@@ -29,9 +29,9 @@ _PROMPT_TEMPLATE = """You are classifying job location signals for a job board t
 
 Read the JSON array of distinct location signal strings from the file at {input_path}. Each string combines every location-ish field the job posting's ATS provided for one job — e.g. an explicit address country, the display location, and any secondary/additional office locations — joined with " | " (verbatim text copied from the real posting: city/region/country names, remote-work wording, etc). A single field like "Hybrid" alone is ambiguous, but seeing it alongside the job's actual country (e.g. "United States | Hybrid") should resolve that ambiguity.
 
-For EVERY string in that array, decide true or false:
-- true: the location is a Canadian city/province, says "Canada" outright, is remote/worldwide/North-America-wide wording that a Canada-based person could reasonably apply under (e.g. "Remote", "Remote - Global", "North America", "Americas", "Remote (US or Canada)"), or otherwise doesn't rule out Canada.
-- false: the location clearly restricts the role to a specific non-Canadian place with no remote/global option (e.g. "San Francisco, CA", "London, UK", "Remote (US only)", "APAC").
+For EVERY string in that array, decide true or false. When genuinely unsure, decide false — it's better to omit the Canada badge than to show it incorrectly:
+- true: the location is a Canadian city/province, says "Canada" outright, or is explicitly worldwide/unrestricted/multi-regional wording that plainly includes Canada (e.g. "Remote - Global", "Remote, Worldwide", "North America", "Americas", "Remote (US or Canada)").
+- false: anything that doesn't positively establish Canada — including postings that clearly restrict to a specific non-Canadian place (e.g. "San Francisco, CA", "London, UK", "Remote (US only)", "APAC"), AND postings that are simply too vague/underspecified to tell (e.g. bare "Remote", bare "Hybrid", "Distributed", "In-Office", a timezone name) with no country or region actually named.
 
 Write a JSON object to the file at {output_path} mapping EACH input string (used verbatim as the key) to its boolean classification. Do not add, omit, or reword any keys. Do not write any other output. Do not ask me any questions.
 """
