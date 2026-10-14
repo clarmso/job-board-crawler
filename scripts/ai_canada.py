@@ -25,9 +25,9 @@ import tempfile
 
 CACHE_PATH = os.path.join("state", "canada_ai_cache.json")
 
-_PROMPT_TEMPLATE = """You are classifying job location strings for a job board that only cares about one thing: could a candidate who is physically based in Canada realistically apply to and be hired for this specific posting?
+_PROMPT_TEMPLATE = """You are classifying job location signals for a job board that only cares about one thing: could a candidate who is physically based in Canada realistically apply to and be hired for this specific posting?
 
-Read the JSON array of distinct location strings from the file at {input_path}. Each string is copied verbatim from a real job posting (city/region names, remote-work wording, etc).
+Read the JSON array of distinct location signal strings from the file at {input_path}. Each string combines every location-ish field the job posting's ATS provided for one job — e.g. an explicit address country, the display location, and any secondary/additional office locations — joined with " | " (verbatim text copied from the real posting: city/region/country names, remote-work wording, etc). A single field like "Hybrid" alone is ambiguous, but seeing it alongside the job's actual country (e.g. "United States | Hybrid") should resolve that ambiguity.
 
 For EVERY string in that array, decide true or false:
 - true: the location is a Canadian city/province, says "Canada" outright, is remote/worldwide/North-America-wide wording that a Canada-based person could reasonably apply under (e.g. "Remote", "Remote - Global", "North America", "Americas", "Remote (US or Canada)"), or otherwise doesn't rule out Canada.

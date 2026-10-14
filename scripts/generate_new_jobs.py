@@ -156,6 +156,52 @@ def _is_canada_job(platform, job, is_remote=False):
     return False
 
 
+def _canada_signal_texts(platform, job):
+    """Return every location-ish raw text fragment the ATS provides for
+    this job, for use as the AI classifier's input signal (ai_canada.py).
+
+    Deliberately broader than what _is_canada_job inspects: this is pure
+    text-gathering (no keyword matching, no exact-match shortcuts), so it's
+    safe to add fields here without touching the regex heuristic above.
+    The point is to give the AI the same (or better) context the regex
+    heuristic already has, instead of just the single bare display string
+    (e.g. many Ashby postings display only "Hybrid", while the real
+    country lives in a separate address field).
+    """
+    if platform == "greenhouse":
+        return [(job.get("location") or {}).get("name")]
+
+    if platform == "lever":
+        categories = job.get("categories") or {}
+        return [job.get("country"), categories.get("location"), *(categories.get("allLocations") or [])]
+
+    if platform == "ashby":
+        address = ((job.get("address") or {}).get("postalAddress") or {})
+        texts = [address.get("addressCountry"), job.get("location")]
+        for secondary in job.get("secondaryLocations") or []:
+            secondary_address = ((secondary.get("address") or {}).get("postalAddress") or {})
+            texts.extend([secondary.get("location"), secondary_address.get("addressCountry")])
+        return texts
+
+    if platform == "workable":
+        texts = [job.get("country"), job.get("city"), job.get("state")]
+        for loc in job.get("locations") or []:
+            texts.extend([loc.get("country"), loc.get("city"), loc.get("region")])
+        return texts
+
+    if platform == "smartrecruiters":
+        loc = job.get("location") or {}
+        return [loc.get("country"), loc.get("fullLocation"), loc.get("city")]
+
+    if platform == "gem":
+        return [(job.get("location") or {}).get("name")]
+
+    if platform == "rippling":
+        return list(job.get("workLocations") or [])
+
+    return []
+
+
 CAREERS_URL_BY_PLATFORM = {
     "greenhouse": "https://job-boards.greenhouse.io/{slug}",
     "lever": "https://jobs.lever.co/{slug}",
@@ -346,22 +392,37 @@ def _display_name(slug, extracted_name):
     return decoded.replace("-", " ").replace("_", " ").title()
 
 
+def _ai_signal_key(platform, job, fallback):
+    """Build the composite string sent to the AI classifier for one job:
+    every available location-ish field (see _canada_signal_texts), joined
+    so the AI sees the full picture rather than just the bare display
+    location. Falls back to that bare display string when no richer
+    signal is available (e.g. unsupported platform), so we never send an
+    empty string.
+    """
+    texts = _canada_signal_texts(platform, job)
+    combined = " | ".join(
+        dict.fromkeys(t.strip() for t in texts if t and str(t).strip())
+    )
+    return combined or fallback
+
+
 def _apply_ai_canada_classification(companies):
     """Override each job's regex-based "canada" flag with Copilot CLI's
-    classification of its location string, wherever the AI has an opinion
-    (see ai_canada.py). Jobs whose location wasn't classified — e.g. the
-    CLI isn't available — keep their existing regex-based result.
+    classification of its composite location signal (see
+    _ai_signal_key/ai_canada.py), wherever the AI has an opinion. Jobs
+    whose signal wasn't classified — e.g. the CLI isn't available — keep
+    their existing regex-based result.
     """
-    all_locations = [
-        job["location"] for data in companies.values() for job in data["jobs"]
+    all_keys = [
+        job["_ai_key"] for data in companies.values() for job in data["jobs"]
     ]
-    classifications = ai_canada.classify(all_locations)
-    if not classifications:
-        return
+    classifications = ai_canada.classify(all_keys)
     for data in companies.values():
         for job in data["jobs"]:
-            if job["location"] in classifications:
-                job["canada"] = classifications[job["location"]]
+            key = job.pop("_ai_key")
+            if key in classifications:
+                job["canada"] = classifications[key]
 
 
 def _build_manifest():
@@ -400,6 +461,7 @@ def _build_manifest():
         entry["jobs"].append({
             "title": title, "url": url, "location": location, "mode": mode,
             "canada": _is_canada_job(platform, job, is_remote=(mode == "Remote")),
+            "_ai_key": _ai_signal_key(platform, job, location),
         })
 
     _apply_ai_canada_classification(companies)
