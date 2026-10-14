@@ -8,7 +8,7 @@ on:
   workflow_dispatch:   # Allow manual trigger
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -36,3 +36,30 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+      # Posting happens only after the site is confirmed live, so the
+      # digest never links to a page that hasn't been deployed yet.
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Post new jobs digest to social media
+        env:
+          MASTODON_INSTANCE_URL: ${{ secrets.MASTODON_INSTANCE_URL }}
+          MASTODON_ACCESS_TOKEN: ${{ secrets.MASTODON_ACCESS_TOKEN }}
+          BLUESKY_HANDLE: ${{ secrets.BLUESKY_HANDLE }}
+          BLUESKY_APP_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD }}
+        run: python scripts/post_social.py
+
+      - name: Commit social posting state
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add state/posted_new_jobs.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "🔔 social: update posted-jobs state"
+            git pull --rebase
+            git push
+          fi
