@@ -157,47 +157,64 @@ def _is_canada_job(platform, job, is_remote=False):
 
 
 def _canada_signal_texts(platform, job):
-    """Return every location-ish raw text fragment the ATS provides for
-    this job, for use as the AI classifier's input signal (ai_canada.py).
+    """Return every raw text fragment that could help determine whether
+    this job is open to a Canada-based candidate, for use as the AI
+    classifier's input signal (ai_canada.py): the job title, every
+    location-ish field, and — where the ATS exposes them — arbitrary
+    per-company metadata/custom fields (which sometimes hold the *real*
+    location when the display location is generic, e.g. Greenhouse jobs
+    with location.name="Hybrid"/"Distributed" but a "Job Posting Location"
+    metadata entry or a structured `offices` entry naming the actual city).
 
     Deliberately broader than what _is_canada_job inspects: this is pure
     text-gathering (no keyword matching, no exact-match shortcuts), so it's
     safe to add fields here without touching the regex heuristic above.
-    The point is to give the AI the same (or better) context the regex
-    heuristic already has, instead of just the single bare display string
-    (e.g. many Ashby postings display only "Hybrid", while the real
-    country lives in a separate address field).
     """
     if platform == "greenhouse":
-        return [(job.get("location") or {}).get("name")]
+        texts = [job.get("title"), (job.get("location") or {}).get("name")]
+        for office in job.get("offices") or []:
+            texts.extend([office.get("name"), office.get("location")])
+        for meta in job.get("metadata") or []:
+            value = meta.get("value")
+            if isinstance(value, list):
+                texts.extend(value)
+            else:
+                texts.append(value)
+        return texts
 
     if platform == "lever":
         categories = job.get("categories") or {}
-        return [job.get("country"), categories.get("location"), *(categories.get("allLocations") or [])]
+        return [
+            job.get("text"), job.get("country"),
+            categories.get("location"), *(categories.get("allLocations") or []),
+        ]
 
     if platform == "ashby":
         address = ((job.get("address") or {}).get("postalAddress") or {})
-        texts = [address.get("addressCountry"), job.get("location")]
+        texts = [job.get("title"), address.get("addressCountry"), job.get("location")]
         for secondary in job.get("secondaryLocations") or []:
             secondary_address = ((secondary.get("address") or {}).get("postalAddress") or {})
             texts.extend([secondary.get("location"), secondary_address.get("addressCountry")])
         return texts
 
     if platform == "workable":
-        texts = [job.get("country"), job.get("city"), job.get("state")]
+        texts = [job.get("title"), job.get("country"), job.get("city"), job.get("state")]
         for loc in job.get("locations") or []:
             texts.extend([loc.get("country"), loc.get("city"), loc.get("region")])
         return texts
 
     if platform == "smartrecruiters":
         loc = job.get("location") or {}
-        return [loc.get("country"), loc.get("fullLocation"), loc.get("city")]
+        texts = [job.get("name"), loc.get("country"), loc.get("fullLocation"), loc.get("city")]
+        for field in job.get("customField") or []:
+            texts.append(field.get("valueLabel"))
+        return texts
 
     if platform == "gem":
-        return [(job.get("location") or {}).get("name")]
+        return [job.get("title"), (job.get("location") or {}).get("name")]
 
     if platform == "rippling":
-        return list(job.get("workLocations") or [])
+        return [job.get("name"), *(job.get("workLocations") or [])]
 
     return []
 
@@ -401,9 +418,8 @@ def _ai_signal_key(platform, job, fallback):
     empty string.
     """
     texts = _canada_signal_texts(platform, job)
-    combined = " | ".join(
-        dict.fromkeys(t.strip() for t in texts if t and str(t).strip())
-    )
+    normalized = (str(t).strip() for t in texts if t and str(t).strip())
+    combined = " | ".join(dict.fromkeys(normalized))
     return combined or fallback
 
 
