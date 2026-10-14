@@ -40,13 +40,13 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "865ed675-4dbf-4dc2-91d3-b76b1e118fda",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
+            "id": "6e47b657-9659-4828-842d-b9c17f2b7e57",
+            "summary": "$199K – $270K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 199000,
+            "maxValue": 270000
           },
           {
             "id": "0a47ffb1-ac09-46b4-85ac-2ea1b03d8bac",
@@ -58,13 +58,13 @@
             "maxValue": null
           },
           {
-            "id": "6e47b657-9659-4828-842d-b9c17f2b7e57",
-            "summary": "$199K – $270K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "USD",
-            "minValue": 199000,
-            "maxValue": 270000
+            "id": "865ed675-4dbf-4dc2-91d3-b76b1e118fda",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           }
         ]
       },
@@ -110,15 +110,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "9fd3a950-d72f-4f43-8e4c-0f7767cbda35",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "54baac88-a67a-448a-9782-4179db0dc740",
             "summary": "Offers Bonus",
             "compensationType": "Bonus",
@@ -135,6 +126,15 @@
             "currencyCode": "USD",
             "minValue": 171000,
             "maxValue": 232000
+          },
+          {
+            "id": "9fd3a950-d72f-4f43-8e4c-0f7767cbda35",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           }
         ]
       },
@@ -144,15 +144,6 @@
         "title": "Canada",
         "additionalInformation": null,
         "components": [
-          {
-            "id": "28ed8194-f0a8-46b6-aac0-230e6809c563",
-            "summary": "CA$162K – CA$220K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "CAD",
-            "minValue": 162000,
-            "maxValue": 220000
-          },
           {
             "id": "52a0b196-406c-4faf-a506-62a787370589",
             "summary": "Offers Bonus",
@@ -170,16 +161,26 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "28ed8194-f0a8-46b6-aac0-230e6809c563",
+            "summary": "CA$162K – CA$220K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "CAD",
+            "minValue": 162000,
+            "maxValue": 220000
           }
         ]
       }
     ],
     "summaryComponents": [
       {
-        "compensationType": "EquityPercentage",
-        "minValue": null,
-        "maxValue": null,
-        "interval": "1 YEAR"
+        "minValue": 171000,
+        "maxValue": 270000,
+        "currencyCode": "USD",
+        "interval": "1 YEAR",
+        "compensationType": "Salary"
       },
       {
         "compensationType": "Bonus",
@@ -188,11 +189,10 @@
         "interval": "1 YEAR"
       },
       {
-        "minValue": 171000,
-        "maxValue": 270000,
-        "currencyCode": "USD",
-        "interval": "1 YEAR",
-        "compensationType": "Salary"
+        "compensationType": "EquityPercentage",
+        "minValue": null,
+        "maxValue": null,
+        "interval": "1 YEAR"
       }
     ]
   }

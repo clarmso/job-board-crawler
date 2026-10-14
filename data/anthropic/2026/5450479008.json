@@ -1,0 +1,89 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/anthropic/jobs/5450479008",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 4561024008,
+  "location": {
+    "name": "Boston, MA; Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY; Washington, DC"
+  },
+  "metadata": [
+    {
+      "id": 4036944008,
+      "name": "Location Type",
+      "value": "Remote",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 5450479008,
+  "updated_at": "2026-10-13T07:53:32-04:00",
+  "requisition_id": "REQ-26-0554-01",
+  "title": "IT Systems Engineer, M&A",
+  "company_name": "Anthropic",
+  "first_published": "2026-10-13T07:53:32-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Anthropic&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;About the role&lt;/h2&gt;\n&lt;p&gt;Anthropic&#39;s Corporate Systems team runs the core collaboration platforms everyone here works in and builds the tooling and automation behind IT. That responsibility extends to the companies we acquire. Their people, devices, and systems have to come into Anthropic securely.&lt;/p&gt;\n&lt;p&gt;You&#39;ll own the IT side of Anthropic&#39;s acquisitions: due diligence, integration planning, and integration. Before close, you&#39;ll assess a company&#39;s IT environment and give the deal team a clear read on risk and effort. You&#39;ll define the technical integration plan and its requirements: what moves, where it lands, in what order, what has to be ready on day one, and how each security gap gets closed. After close, you&#39;ll carry out that plan and bring the company&#39;s people, devices, and systems onto our stack. This is a hands-on engineering role. You&#39;ll hold admin, write code, build automation, run the cutovers yourself and bring in other teams when the work calls for their expertise or support. You&#39;ll lead this work for IT Engineering and partner with Security, Corporate Development, Legal, People, and Finance at every stage.&lt;/p&gt;\n&lt;p&gt;M&amp;amp;A will be your primary focus and responsibility, but you&#39;ll be a full member of the Corporate Systems team;&amp;nbsp; taking part in planning and reviews, using and contributing to the team’s tooling, and contributing to the roadmap. Early on, M&amp;amp;A will be most of your work, including using Claude to automate the repeatable parts of diligence and integration. As that automation matures, and when M&amp;amp;A load is light, you&#39;ll contribute to other parts of the team’s roadmap.&lt;/p&gt;\n&lt;h2&gt;Responsibilities&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Lead technical IT due diligence: assess a company&#39;s identity, applications, endpoints, and infrastructure, and brief the deal team on risk and effort before close&lt;/li&gt;\n&lt;li&gt;Find the gaps between an acquired environment and Anthropic&#39;s security model, rate them, and build the mitigations into the integration plan&lt;/li&gt;\n&lt;li&gt;Define the technical integration plan and its requirements: what moves, where it lands, in what order, and what has to be ready on day one&lt;/li&gt;\n&lt;li&gt;Run the integration: take over administration, migrate people, devices, and data, and retire what&#39;s no longer needed, with support from other IT Engineering teams as required.&lt;/li&gt;\n&lt;li&gt;Work with Business Technology, Client Platform, Corporate Network, IT Operations, and Security on their parts of each integration&lt;/li&gt;\n&lt;li&gt;Keep Corporate Development, Legal, People, Finance, and the acquired company&#39;s team clear on where IT stands&lt;/li&gt;\n&lt;li&gt;Build a repeatable IT M&amp;amp;A playbook and automate as much of it as possible with Claude&lt;/li&gt;\n&lt;li&gt;When M&amp;amp;A work is light, contribute to core Corporate Systems projects&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;You may be a good fit if you have&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;8+ years as a hands-on engineer in corporate IT. You have designed and shipped systems, carried out migrations or integrations yourself, and owned at least one area end-to-end, with experience supporting other areas: identity, applications, endpoints, or corporate infrastructure&lt;/li&gt;\n&lt;li&gt;Experience administering enterprise identity and collaboration platforms such as Google Workspace, Slack, and an SSO provider, and working code in Python or similar against their SaaS APIs&lt;/li&gt;\n&lt;li&gt;Working knowledge of endpoint management and security concepts, enough to lead diligence on an unfamiliar fleet&lt;/li&gt;\n&lt;li&gt;A proven ability to understand an unfamiliar IT environment quickly and deliver a prioritized view of risk to non-specialists&lt;/li&gt;\n&lt;li&gt;A record of leading technical projects that span several teams and run to a fixed date, while doing much of the engineering yourself&lt;/li&gt;\n&lt;li&gt;Comfort working autonomously, with ambiguity and confidential information&lt;/li&gt;\n&lt;li&gt;Clear communication with executives, legal and corporate development teams, and engineers at acquired companies&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;Strong candidates may also have&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Prior M&amp;amp;A, carve-out, or company-to-company migration experience&lt;/li&gt;\n&lt;li&gt;Experience across the full stack: endpoints, systems, applications, and infrastructure&lt;/li&gt;\n&lt;li&gt;Hands-on experience managing a device fleet or running an MDM&lt;/li&gt;\n&lt;li&gt;Experience working in or alongside a security team&lt;/li&gt;\n&lt;li&gt;A record of building tooling that replaces manual IT work&lt;/li&gt;\n&lt;li&gt;Using Claude or similar tools as a core part of how you work&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;Representative projects&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Assess an acquired company&#39;s IT environment that nobody here has seen and produce a prioritized integration plan within days&lt;/li&gt;\n&lt;li&gt;Design a way to size integration effort and risk for a company of any shape or size&lt;/li&gt;\n&lt;li&gt;Automate bringing acquired people and devices onto Anthropic&#39;s identity and device management&lt;/li&gt;\n&lt;li&gt;Write the IT risk memo for a live deal and present it to Corporate Development and Security leadership&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Deadline to apply: None. Applications will be received on a rolling basis.&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;The annual compensation range for this role is listed below.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;For sales roles, the range provided is the role’s On Target Earnings (&quot;OTE&quot;) range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;Annual Salary:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$325,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$360,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;Logistics&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;&lt;strong&gt;Minimum education: &lt;/strong&gt;Bachelor’s degree or an equivalent combination of education, training, and/or experience&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Required field of study:&amp;nbsp;&lt;/strong&gt;A field relevant to the role as demonstrated through coursework, training, or professional experience&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Minimum years of experience: &lt;/strong&gt;Years of experience required will correlate with the internal job level requirements for the position&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Location-based hybrid policy:&lt;/strong&gt; Currently, we expect all staff to be in one of our offices at least 25% of the time. However, some roles may require more time in our offices.&lt;/p&gt;\n&lt;p&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Visa sponsorship:&lt;/strong&gt;&amp;nbsp;We do sponsor visas! However, we aren&#39;t able to successfully sponsor visas for every role and every candidate. But if we make you an offer, we will make every reasonable effort to get you a visa, and we retain an immigration lawyer to help with this.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;We encourage you to apply even if you do not believe you meet every single qualification.&lt;/strong&gt; Not all strong candidates will meet every single qualification as listed.&amp;nbsp; Research shows that people who identify as being from underrepresented groups are more prone to experiencing imposter syndrome and doubting the strength of their candidacy, so we urge you not to exclude yourself prematurely and to submit an application if you&#39;re interested in this work. We think AI systems like the ones we&#39;re building have enormous social and ethical implications. We think this makes representation even more important, and we strive to include a range of diverse perspectives on our team.&lt;br&gt;&lt;br&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Your safety matters to us.&lt;/strong&gt; To protect yourself from potential scams, remember that Anthropic recruiters only contact you from&amp;nbsp;@anthropic.com&amp;nbsp;email addresses. In some cases, we may partner with vetted recruiting agencies who will identify themselves as working on behalf of Anthropic. Be cautious of emails from other domains. Legitimate Anthropic recruiters will never ask for money, fees, or banking information before your first day. If you&#39;re ever unsure about a communication, don&#39;t click any links—visit&amp;nbsp;&lt;u data-stringify-type=&quot;underline&quot;&gt;&lt;a class=&quot;c-link c-link--underline&quot; href=&quot;http://anthropic.com/careers&quot; target=&quot;_blank&quot; data-stringify-link=&quot;http://anthropic.com/careers&quot; data-sk=&quot;tooltip_parent&quot; data-remove-tab-index=&quot;true&quot;&gt;anthropic.com/careers&lt;/a&gt;&lt;/u&gt;&amp;nbsp;directly for confirmed position openings.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;How we&#39;re different&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;We believe that the highest-impact AI research will be big science. At Anthropic we work as a single cohesive team on just a few large-scale research efforts. And we value impact — advancing our long-term goals of steerable, trustworthy AI — rather than work on smaller and more specific puzzles. We view AI research as an empirical science, which has as much in common with physics and biology as with traditional efforts in computer science. We&#39;re an extremely collaborative group, and we host frequent research discussions to ensure that we are pursuing the highest-impact work at any given time. As such, we greatly value communication skills.&lt;/p&gt;\n&lt;p&gt;The easiest way to understand our research directions is to read our recent research. This research continues many of the directions our team worked on prior to Anthropic, including: GPT-3, Circuit-Based Interpretability, Multimodal Neurons, Scaling Laws, AI &amp;amp; Compute, Concrete Problems in AI Safety, and Learning from Human Preferences.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;Come work with us!&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Anthropic is a public benefit corporation headquartered in San Francisco. We offer competitive compensation and benefits, optional equity donation matching, generous vacation and parental leave, flexible working hours, and a lovely office space in which to collaborate with colleagues. &lt;strong data-stringify-type=&quot;bold&quot;&gt;Guidance on Candidates&#39; AI Usage:&lt;/strong&gt;&amp;nbsp;Learn about&amp;nbsp;&lt;a class=&quot;c-link&quot; href=&quot;https://www.anthropic.com/candidate-ai-guidance&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.anthropic.com/candidate-ai-guidance&quot; data-sk=&quot;tooltip_parent&quot;&gt;our policy&lt;/a&gt; for using AI in our application process.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4002063008,
+      "name": "Security",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 4039647008,
+      "name": "Boston, MA",
+      "location": "Boston, Massachusetts, United States",
+      "child_ids": [],
+      "parent_id": null
+    },
+    {
+      "id": 4001219008,
+      "name": "New York City, NY",
+      "location": "New York, New York, United States",
+      "child_ids": [],
+      "parent_id": null
+    },
+    {
+      "id": 4008537008,
+      "name": "Remote-Friendly US (Travel Required)",
+      "location": null,
+      "child_ids": [],
+      "parent_id": null
+    },
+    {
+      "id": 4001218008,
+      "name": "San Francisco, CA",
+      "location": "San Francisco, California, United States",
+      "child_ids": [],
+      "parent_id": null
+    },
+    {
+      "id": 4001217008,
+      "name": "Seattle, WA",
+      "location": "Seattle, Washington, United States",
+      "child_ids": [],
+      "parent_id": null
+    },
+    {
+      "id": 4011228008,
+      "name": "Washington, D.C.",
+      "location": "Washington, District of Columbia, United States",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

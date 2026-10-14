@@ -124,13 +124,13 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "46a36174-3c81-4bae-9f3a-5b57d84e5628",
-            "summary": "PLN 545K – PLN 818K",
-            "compensationType": "Salary",
+            "id": "d4b2202b-e972-433a-be94-6c6e86342015",
+            "summary": "Offers Bonus",
+            "compensationType": "Bonus",
             "interval": "1 YEAR",
             "currencyCode": "PLN",
-            "minValue": 545000,
-            "maxValue": 818000
+            "minValue": null,
+            "maxValue": null
           },
           {
             "id": "1abdc3fc-54d4-4fdd-84be-0c113c70d2da",
@@ -142,13 +142,13 @@
             "maxValue": null
           },
           {
-            "id": "d4b2202b-e972-433a-be94-6c6e86342015",
-            "summary": "Offers Bonus",
-            "compensationType": "Bonus",
+            "id": "46a36174-3c81-4bae-9f3a-5b57d84e5628",
+            "summary": "PLN 545K – PLN 818K",
+            "compensationType": "Salary",
             "interval": "1 YEAR",
             "currencyCode": "PLN",
-            "minValue": null,
-            "maxValue": null
+            "minValue": 545000,
+            "maxValue": 818000
           }
         ]
       }

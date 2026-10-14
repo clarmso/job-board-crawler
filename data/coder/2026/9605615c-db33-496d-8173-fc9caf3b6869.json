@@ -33,13 +33,13 @@
         "additionalInformation": "Base plus 30% variable, with commission and accelerator opportunities",
         "components": [
           {
-            "id": "5ad1bdc9-77cc-42a1-a20f-d58e8c8e0007",
-            "summary": "Offers Commission",
-            "compensationType": "Commission",
+            "id": "7f02553c-f67d-40a6-8954-e27207f89241",
+            "summary": "Estimated Base Salary £54K – £74K",
+            "compensationType": "Salary",
             "interval": "1 YEAR",
             "currencyCode": "GBP",
-            "minValue": null,
-            "maxValue": null
+            "minValue": 54000,
+            "maxValue": 74000
           },
           {
             "id": "d78a40a5-00a5-4c6c-a586-878eb2ac9db5",
@@ -51,24 +51,24 @@
             "maxValue": null
           },
           {
-            "id": "7f02553c-f67d-40a6-8954-e27207f89241",
-            "summary": "Estimated Base Salary £54K – £74K",
-            "compensationType": "Salary",
+            "id": "5ad1bdc9-77cc-42a1-a20f-d58e8c8e0007",
+            "summary": "Offers Commission",
+            "compensationType": "Commission",
             "interval": "1 YEAR",
             "currencyCode": "GBP",
-            "minValue": 54000,
-            "maxValue": 74000
+            "minValue": null,
+            "maxValue": null
           }
         ]
       }
     ],
     "summaryComponents": [
       {
-        "compensationType": "Commission",
+        "compensationType": "Salary",
         "interval": "1 YEAR",
         "currencyCode": "GBP",
-        "minValue": null,
-        "maxValue": null
+        "minValue": 54000,
+        "maxValue": 74000
       },
       {
         "compensationType": "EquityPercentage",
@@ -78,11 +78,11 @@
         "maxValue": null
       },
       {
-        "compensationType": "Salary",
+        "compensationType": "Commission",
         "interval": "1 YEAR",
         "currencyCode": "GBP",
-        "minValue": 54000,
-        "maxValue": 74000
+        "minValue": null,
+        "maxValue": null
       }
     ]
   }

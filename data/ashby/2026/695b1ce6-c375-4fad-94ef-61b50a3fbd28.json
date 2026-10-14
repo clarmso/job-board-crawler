@@ -209,6 +209,15 @@
         "additionalInformation": null,
         "components": [
           {
+            "id": "74e3d124-fa8e-439e-bc6d-d8198d92729b",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
+          },
+          {
             "id": "fb77d11b-8cc8-4681-8946-e99469d1d43d",
             "summary": "$200K – $255K",
             "compensationType": "Salary",
@@ -223,15 +232,6 @@
             "compensationType": "Bonus",
             "interval": "1 YEAR",
             "currencyCode": "USD",
-            "minValue": null,
-            "maxValue": null
-          },
-          {
-            "id": "74e3d124-fa8e-439e-bc6d-d8198d92729b",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
             "minValue": null,
             "maxValue": null
           }

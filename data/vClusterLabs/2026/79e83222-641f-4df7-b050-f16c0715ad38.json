@@ -44,6 +44,15 @@
         "additionalInformation": null,
         "components": [
           {
+            "id": "26d69ae2-bfeb-42e3-aa23-155f4e4cfa08",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
+          },
+          {
             "id": "7dda6cf8-2b4e-49f8-8269-203f9cd455ff",
             "summary": "Offers Bonus",
             "compensationType": "Bonus",
@@ -60,20 +69,18 @@
             "currencyCode": "SGD",
             "minValue": 155000,
             "maxValue": 175000
-          },
-          {
-            "id": "26d69ae2-bfeb-42e3-aa23-155f4e4cfa08",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
           }
         ]
       }
     ],
     "summaryComponents": [
+      {
+        "compensationType": "EquityPercentage",
+        "interval": "NONE",
+        "currencyCode": null,
+        "minValue": null,
+        "maxValue": null
+      },
       {
         "compensationType": "Bonus",
         "interval": "1 YEAR",
@@ -87,13 +94,6 @@
         "currencyCode": "SGD",
         "minValue": 155000,
         "maxValue": 175000
-      },
-      {
-        "compensationType": "EquityPercentage",
-        "interval": "NONE",
-        "currencyCode": null,
-        "minValue": null,
-        "maxValue": null
       }
     ]
   }

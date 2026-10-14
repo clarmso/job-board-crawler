@@ -89,15 +89,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "9cff842f-71c3-4608-b517-e3e963540da3",
-            "summary": "€111K – €188K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "EUR",
-            "minValue": 111000,
-            "maxValue": 188000
-          },
-          {
             "id": "6b7d8ef9-ff6a-455b-a378-e1f4cdf288a0",
             "summary": "Offers Bonus",
             "compensationType": "Bonus",
@@ -114,6 +105,15 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "9cff842f-71c3-4608-b517-e3e963540da3",
+            "summary": "€111K – €188K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "EUR",
+            "minValue": 111000,
+            "maxValue": 188000
           }
         ]
       },
@@ -124,13 +124,13 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "56c6c66e-d76a-40c4-ba01-57012c4f5ad7",
-            "summary": "Offers Bonus",
-            "compensationType": "Bonus",
+            "id": "1e6a3b03-a225-4ae7-9f53-d5bcd434fd9c",
+            "summary": "PLN 372K – PLN 661K",
+            "compensationType": "Salary",
             "interval": "1 YEAR",
             "currencyCode": "PLN",
-            "minValue": null,
-            "maxValue": null
+            "minValue": 372000,
+            "maxValue": 661000
           },
           {
             "id": "7c0a5434-7176-4ffe-8a03-d053c770153d",
@@ -142,13 +142,13 @@
             "maxValue": null
           },
           {
-            "id": "1e6a3b03-a225-4ae7-9f53-d5bcd434fd9c",
-            "summary": "PLN 372K – PLN 661K",
-            "compensationType": "Salary",
+            "id": "56c6c66e-d76a-40c4-ba01-57012c4f5ad7",
+            "summary": "Offers Bonus",
+            "compensationType": "Bonus",
             "interval": "1 YEAR",
             "currencyCode": "PLN",
-            "minValue": 372000,
-            "maxValue": 661000
+            "minValue": null,
+            "maxValue": null
           }
         ]
       }

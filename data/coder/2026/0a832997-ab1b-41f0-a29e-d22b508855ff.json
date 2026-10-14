@@ -33,11 +33,11 @@
         "additionalInformation": "Base Salary + 30% MBO",
         "components": [
           {
-            "id": "b58dfca5-340a-4fe8-afa6-86793debfa96",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
+            "id": "4bdbfdfd-4157-48ea-ba96-e06ddc916c35",
+            "summary": "Offers Bonus",
+            "compensationType": "Bonus",
+            "interval": "1 YEAR",
+            "currencyCode": "GBP",
             "minValue": null,
             "maxValue": null
           },
@@ -51,11 +51,11 @@
             "maxValue": 163000
           },
           {
-            "id": "4bdbfdfd-4157-48ea-ba96-e06ddc916c35",
-            "summary": "Offers Bonus",
-            "compensationType": "Bonus",
-            "interval": "1 YEAR",
-            "currencyCode": "GBP",
+            "id": "b58dfca5-340a-4fe8-afa6-86793debfa96",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
             "minValue": null,
             "maxValue": null
           }
@@ -64,9 +64,9 @@
     ],
     "summaryComponents": [
       {
-        "compensationType": "EquityPercentage",
-        "interval": "NONE",
-        "currencyCode": null,
+        "compensationType": "Bonus",
+        "interval": "1 YEAR",
+        "currencyCode": "GBP",
         "minValue": null,
         "maxValue": null
       },
@@ -78,9 +78,9 @@
         "maxValue": 163000
       },
       {
-        "compensationType": "Bonus",
-        "interval": "1 YEAR",
-        "currencyCode": "GBP",
+        "compensationType": "EquityPercentage",
+        "interval": "NONE",
+        "currencyCode": null,
         "minValue": null,
         "maxValue": null
       }

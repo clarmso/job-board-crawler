@@ -4,15 +4,34 @@
   "department": "Engineering",
   "team": "Engineering",
   "employmentType": "FullTime",
-  "location": "Remote",
+  "location": "Canada",
   "shouldDisplayCompensationOnJobPostings": false,
-  "secondaryLocations": [],
+  "secondaryLocations": [
+    {
+      "location": "USA",
+      "address": {
+        "postalAddress": {
+          "postalCode": "19808-1674",
+          "addressRegion": "Delaware",
+          "streetAddress": "251 Little Falls Drive",
+          "addressCountry": "United States",
+          "addressLocality": "Wilmington"
+        }
+      }
+    }
+  ],
   "publishedAt": "2026-09-11T20:24:49.150+00:00",
   "isListed": true,
-  "isRemote": null,
-  "workplaceType": null,
+  "isRemote": true,
+  "workplaceType": "Remote",
   "address": {
-    "postalAddress": {}
+    "postalAddress": {
+      "postalCode": "",
+      "addressRegion": "",
+      "streetAddress": "",
+      "addressCountry": "Canada",
+      "addressLocality": ""
+    }
   },
   "jobUrl": "https://jobs.ashbyhq.com/plotly/b34a9a0a-4655-45bc-91a8-105ca21c82a8",
   "applyUrl": "https://jobs.ashbyhq.com/plotly/b34a9a0a-4655-45bc-91a8-105ca21c82a8/application",

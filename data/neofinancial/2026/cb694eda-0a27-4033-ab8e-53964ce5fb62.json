@@ -6,7 +6,34 @@
   "employmentType": "Contract",
   "location": "Montreal, QC",
   "shouldDisplayCompensationOnJobPostings": true,
-  "secondaryLocations": [],
+  "secondaryLocations": [
+    {
+      "location": "Pointe-Claire",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "Quebec",
+          "addressCountry": "Canada",
+          "addressLocality": "Pointe-Claire"
+        }
+      }
+    },
+    {
+      "location": "Saint-Bruno-de-Montarville",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "Canada"
+        }
+      }
+    },
+    {
+      "location": "Laval",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "Canada"
+        }
+      }
+    }
+  ],
   "publishedAt": "2026-06-25T21:59:54.039+00:00",
   "isListed": true,
   "isRemote": null,

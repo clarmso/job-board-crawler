@@ -33,13 +33,13 @@
         "additionalInformation": "EAMs are on base salary/commission 50/50 split",
         "components": [
           {
-            "id": "25649d53-7bea-497b-b5f6-a2626d519733",
-            "summary": "Estimated Base Salary €90K – €122K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "EUR",
-            "minValue": 90000,
-            "maxValue": 122000
+            "id": "eff47366-c721-470f-b06b-8b0a30998d23",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           },
           {
             "id": "efb00fd5-678c-482b-b6fe-80c9d3aa8e1b",
@@ -51,24 +51,24 @@
             "maxValue": null
           },
           {
-            "id": "eff47366-c721-470f-b06b-8b0a30998d23",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
+            "id": "25649d53-7bea-497b-b5f6-a2626d519733",
+            "summary": "Estimated Base Salary €90K – €122K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "EUR",
+            "minValue": 90000,
+            "maxValue": 122000
           }
         ]
       }
     ],
     "summaryComponents": [
       {
-        "compensationType": "Salary",
-        "interval": "1 YEAR",
-        "currencyCode": "EUR",
-        "minValue": 90000,
-        "maxValue": 122000
+        "compensationType": "EquityPercentage",
+        "interval": "NONE",
+        "currencyCode": null,
+        "minValue": null,
+        "maxValue": null
       },
       {
         "compensationType": "Commission",
@@ -78,11 +78,11 @@
         "maxValue": null
       },
       {
-        "compensationType": "EquityPercentage",
-        "interval": "NONE",
-        "currencyCode": null,
-        "minValue": null,
-        "maxValue": null
+        "compensationType": "Salary",
+        "interval": "1 YEAR",
+        "currencyCode": "EUR",
+        "minValue": 90000,
+        "maxValue": 122000
       }
     ]
   }

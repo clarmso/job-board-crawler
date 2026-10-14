@@ -4,7 +4,7 @@
   "department": "Customer Experience",
   "team": "Customer Experience: Professional Services",
   "employmentType": "FullTime",
-  "location": "Remote, US",
+  "location": "New York, NY",
   "shouldDisplayCompensationOnJobPostings": true,
   "secondaryLocations": [
     {
@@ -24,7 +24,9 @@
   "workplaceType": "Remote",
   "address": {
     "postalAddress": {
-      "addressCountry": "United States"
+      "addressRegion": "New York",
+      "addressCountry": "US",
+      "addressLocality": "New York"
     }
   },
   "jobUrl": "https://jobs.ashbyhq.com/benchling/9ff817e6-9274-4613-9ac3-1bc012b7ff8a",

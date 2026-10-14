@@ -40,13 +40,13 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "63742bea-e9d2-4e41-9b17-bc7a76aba4a7",
-            "summary": "On Target Earnings AED 900K – AED 1M",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "AED",
-            "minValue": 900000,
-            "maxValue": 1000000
+            "id": "8890e627-3b3a-47e5-8170-42f4fff1fcd7",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           },
           {
             "id": "555e2fdd-6b5d-42a1-96ee-ab051173670f",
@@ -58,24 +58,24 @@
             "maxValue": null
           },
           {
-            "id": "8890e627-3b3a-47e5-8170-42f4fff1fcd7",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
+            "id": "63742bea-e9d2-4e41-9b17-bc7a76aba4a7",
+            "summary": "On Target Earnings AED 900K – AED 1M",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "AED",
+            "minValue": 900000,
+            "maxValue": 1000000
           }
         ]
       }
     ],
     "summaryComponents": [
       {
-        "compensationType": "Salary",
-        "interval": "1 YEAR",
-        "currencyCode": "AED",
-        "minValue": 900000,
-        "maxValue": 1000000
+        "compensationType": "EquityPercentage",
+        "interval": "NONE",
+        "currencyCode": null,
+        "minValue": null,
+        "maxValue": null
       },
       {
         "compensationType": "Commission",
@@ -85,11 +85,11 @@
         "maxValue": null
       },
       {
-        "compensationType": "EquityPercentage",
-        "interval": "NONE",
-        "currencyCode": null,
-        "minValue": null,
-        "maxValue": null
+        "compensationType": "Salary",
+        "interval": "1 YEAR",
+        "currencyCode": "AED",
+        "minValue": 900000,
+        "maxValue": 1000000
       }
     ]
   }

@@ -1,0 +1,123 @@
+{
+  "id": "744000155213793",
+  "name": "Hackathon",
+  "uuid": "14988226-b728-4451-a933-655eba1404f7",
+  "jobAdId": "8f1e7fb0-363a-44f5-bbb0-65955b69dbfa",
+  "defaultJobAd": true,
+  "refNumber": "REF5890V",
+  "company": {
+    "identifier": "Wise",
+    "name": "Wise"
+  },
+  "releasedDate": "2026-10-13T09:56:30.983Z",
+  "location": {
+    "city": "Tallinn",
+    "region": "Harju maakond",
+    "country": "ee",
+    "address": "Kopli tänav 68a",
+    "postalCode": "10412",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "59.44591029999999",
+    "longitude": "24.7218972",
+    "fullLocation": "Tallinn, Harju maakond, Estonia"
+  },
+  "industry": {
+    "id": "financial_services",
+    "label": "Financial Services"
+  },
+  "department": {},
+  "function": {
+    "id": "engineering",
+    "label": "Engineering"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "not_applicable",
+    "label": "Not Applicable"
+  },
+  "customField": [
+    {
+      "fieldId": "697ecac4054e02cef8c7a2ce",
+      "fieldLabel": "ORGANIZATION_TYPE-3-84 L1",
+      "valueId": "1a996433adb41001d77f89dee2560000",
+      "valueLabel": "Wise Start"
+    },
+    {
+      "fieldId": "65d3d0a7d37044292ef9549a",
+      "fieldLabel": "Job Family",
+      "valueId": "2a11b9f0-a7d5-4c88-a6c4-7a113a6bc067",
+      "valueLabel": "WWC Event"
+    },
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "ee",
+      "valueLabel": "Estonia"
+    },
+    {
+      "fieldId": "65d3d05c735007771b14e932",
+      "fieldLabel": "Worker Type",
+      "valueId": "e632dc95-53c5-464c-b4bc-b32c9d3850d4",
+      "valueLabel": "Event WWC"
+    },
+    {
+      "fieldId": "65d3d06b2865b46cfa4f0ec3",
+      "fieldLabel": "Worker Sub Type",
+      "valueId": "df35e73d-0177-472b-a42d-769624fabf77",
+      "valueLabel": "WWC Event"
+    },
+    {
+      "fieldId": "697ecac2a597b90c91f0575a",
+      "fieldLabel": "Matrix L1",
+      "valueId": "96f473f16f7a1001051277e92e010000",
+      "valueLabel": "APAC Regional Operations"
+    },
+    {
+      "fieldId": "65d3d141c86c2f3257de414c",
+      "fieldLabel": "Cost Center Hierarchy",
+      "valueId": "6d8f1bd75a7001b7185a4531c7125d1c",
+      "valueLabel": "Engineering"
+    },
+    {
+      "fieldId": "658553f79a81b00900831a80",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Wise"
+    },
+    {
+      "fieldId": "65d3d0374c34974b271801f9",
+      "fieldLabel": "Management Level",
+      "valueId": "e82698b94195016c28dc43cef100d210",
+      "valueLabel": "1"
+    },
+    {
+      "fieldId": "65d3d0926435ba43bdb089ac",
+      "fieldLabel": "Job Family Group",
+      "valueId": "dbe5f3a8-3e84-4826-a8bd-23767bf29edc",
+      "valueLabel": "WWC Event"
+    },
+    {
+      "fieldId": "65d3d16de5ae4c7be012a87e",
+      "fieldLabel": "Tribe",
+      "valueId": "5b073258-960f-4df1-9eee-b4a26517fb35",
+      "valueLabel": "WWC Event"
+    },
+    {
+      "fieldId": "65cec407735007771b14e92d",
+      "fieldLabel": "Company",
+      "valueId": "94a888f19f571001007d12c5df160000",
+      "valueLabel": "Wise Europe Eesti Filiaal"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/wise/postings/744000155213793",
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

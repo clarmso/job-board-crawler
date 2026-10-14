@@ -33,15 +33,6 @@
         "additionalInformation": "Estimated On-Target Earnings $150,000–$183,333 CAD",
         "components": [
           {
-            "id": "a373c304-eb19-48ab-bde0-da014b6fc622",
-            "summary": "Offers Commission",
-            "compensationType": "Commission",
-            "interval": "1 YEAR",
-            "currencyCode": "CAD",
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "82b9d65c-0289-4084-bb3f-2367c33ec3f7",
             "summary": "Base Salary CA$90K – CA$110K",
             "compensationType": "Salary",
@@ -49,24 +40,33 @@
             "currencyCode": "CAD",
             "minValue": 90000,
             "maxValue": 110000
+          },
+          {
+            "id": "a373c304-eb19-48ab-bde0-da014b6fc622",
+            "summary": "Offers Commission",
+            "compensationType": "Commission",
+            "interval": "1 YEAR",
+            "currencyCode": "CAD",
+            "minValue": null,
+            "maxValue": null
           }
         ]
       }
     ],
     "summaryComponents": [
       {
-        "compensationType": "Commission",
-        "interval": "1 YEAR",
-        "currencyCode": "CAD",
-        "minValue": null,
-        "maxValue": null
-      },
-      {
         "compensationType": "Salary",
         "interval": "1 YEAR",
         "currencyCode": "CAD",
         "minValue": 90000,
         "maxValue": 110000
+      },
+      {
+        "compensationType": "Commission",
+        "interval": "1 YEAR",
+        "currencyCode": "CAD",
+        "minValue": null,
+        "maxValue": null
       }
     ]
   }

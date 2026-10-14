@@ -44,11 +44,11 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "2c9c3ce8-c48a-4c2b-acda-73447472957f",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
+            "id": "d55e9416-c89c-4edd-b936-e1fff5a5859a",
+            "summary": "Offers Commission",
+            "compensationType": "Commission",
+            "interval": "1 YEAR",
+            "currencyCode": "AUD",
             "minValue": null,
             "maxValue": null
           },
@@ -62,11 +62,11 @@
             "maxValue": 175000
           },
           {
-            "id": "d55e9416-c89c-4edd-b936-e1fff5a5859a",
-            "summary": "Offers Commission",
-            "compensationType": "Commission",
-            "interval": "1 YEAR",
-            "currencyCode": "AUD",
+            "id": "2c9c3ce8-c48a-4c2b-acda-73447472957f",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
             "minValue": null,
             "maxValue": null
           }
@@ -75,9 +75,9 @@
     ],
     "summaryComponents": [
       {
-        "compensationType": "EquityPercentage",
-        "interval": "NONE",
-        "currencyCode": null,
+        "compensationType": "Commission",
+        "interval": "1 YEAR",
+        "currencyCode": "AUD",
         "minValue": null,
         "maxValue": null
       },
@@ -89,9 +89,9 @@
         "maxValue": 175000
       },
       {
-        "compensationType": "Commission",
-        "interval": "1 YEAR",
-        "currencyCode": "AUD",
+        "compensationType": "EquityPercentage",
+        "interval": "NONE",
+        "currencyCode": null,
         "minValue": null,
         "maxValue": null
       }

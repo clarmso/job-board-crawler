@@ -1,0 +1,47 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/clutch/jobs/6212120004",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 5224362004,
+  "location": {
+    "name": "Toronto, Ontario, Canada"
+  },
+  "metadata": null,
+  "id": 6212120004,
+  "updated_at": "2026-10-06T10:42:55-04:00",
+  "requisition_id": "801",
+  "title": "Senior Data Engineer",
+  "company_name": "Clutch Technologies Inc.",
+  "first_published": "2026-09-30T13:40:57-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;&lt;strong&gt;About Clutch&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Clutch is Canada&#39;s largest online used car retailer, delivering a seamless, hassle-free car-buying experience to drivers everywhere. Customers can browse hundreds of cars from the comfort of their home, get the right one delivered to their door, and enjoy peace of mind with our 10-Day Money-Back Guarantee.&amp;nbsp;Named one of Canada&#39;s Top Growing Companies two years in a row and awarded a spot on LinkedIn&#39;s Top Canadian Startups list, we&#39;re looking to add curious, hard-working, and driven individuals to our growing team.&amp;nbsp;Headquartered in Toronto, Clutch was founded in 2017. Clutch is backed by world-class investors including Canaan, BrandProject, Real Ventures, D1 Capital, and Upper90. To learn more, visit clutch.ca.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;About the role&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;At Clutch, we believe advances in AI are fundamentally changing how great products are built. Traditional handoffs between product, design, and engineering are giving way to smaller, faster teams where builders can take ideas from concept to production in days instead of months.&lt;/p&gt;\n&lt;p&gt;As a Senior Data Engineer, you&#39;ll own the data platform that powers decision-making across Clutch, from how we buy and price vehicles, to how customers move through our funnel, to how we deliver and finance cars. The pipelines, models, and infrastructure you build will be the foundation our analysts and data scientists rely on every day, including for our fast-growing financial services work.&lt;/p&gt;\n&lt;p&gt;Our data engineers don&#39;t just move data, they own outcomes. That means working directly with stakeholders to understand what they need, designing systems that scale with the business, and making sure the data behind every important decision is reliable, well-modeled, and easy to use. If you see a broken pipeline or a question the data can&#39;t answer yet and feel compelled to fix it, you&#39;ll thrive at Clutch.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Technology at Clutch&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We believe great engineers can learn great technology.&lt;/p&gt;\n&lt;p&gt;Our data team builds with technologies like Snowflake, dbt, Airflow, Python, and AWS, alongside an application stack of TypeScript, PostgreSQL, and Express. We&#39;re far more interested in exceptional engineers than perfect technology matches. If you&#39;ve built outstanding data platforms in another modern stack and are excited to learn, improve, and help evolve ours, we&#39;d love to talk.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What you&#39;ll do&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Own Clutch&#39;s data platform end-to-end, designing and evolving the architecture behind our warehouse, pipelines, and data models with long-term scalability in mind.&lt;/li&gt;\n&lt;li&gt;Build reliable, well-tested ELT pipelines that bring together data from our applications, operational systems, and third-party tools.&lt;/li&gt;\n&lt;li&gt;Design data models in partnership with analysts and data scientists so that trusted, well-structured data is easy to find and use across the business.&lt;/li&gt;\n&lt;li&gt;Build the data foundations for our financial services work, partnering closely with the data scientist focused on that area to support modeling, experimentation, and analytics.&lt;/li&gt;\n&lt;li&gt;Own data quality and observability, with monitoring, testing, and alerting that catch issues before stakeholders do.&lt;/li&gt;\n&lt;li&gt;Apply strong DevOps practices to data, including version control, CI/CD, infrastructure as code, and automated deployments.&lt;/li&gt;\n&lt;li&gt;Use AI as part of your everyday engineering workflow to prototype, accelerate development, and improve code quality.&lt;/li&gt;\n&lt;li&gt;Make thoughtful technical decisions that balance speed, cost, quality, and maintainability, and continuously evaluate new tools that help the team move faster.&lt;/li&gt;\n&lt;li&gt;Establish data standards, documentation, and governance practices as our platform matures.&lt;/li&gt;\n&lt;li&gt;Mentor others and raise the bar for data engineering across the team through design discussions and code reviews.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;What we&#39;re looking for&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;5+ years of experience in data engineering or a closely related field.&lt;/li&gt;\n&lt;li&gt;Have built and operated production data pipelines and platforms that people rely on.&lt;/li&gt;\n&lt;li&gt;Advanced SQL and strong programming skills in Python (TypeScript is a plus).&lt;/li&gt;\n&lt;li&gt;Hands-on experience with a modern cloud data warehouse such as Snowflake, BigQuery, or Redshift.&lt;/li&gt;\n&lt;li&gt;Experience with transformation and orchestration tools such as dbt and Airflow.&lt;/li&gt;\n&lt;li&gt;Experience with cloud platforms, ideally AWS, and their data services.&lt;/li&gt;\n&lt;li&gt;Strong data modeling skills, including designing for analytics use cases.&lt;/li&gt;\n&lt;li&gt;Experience with DevOps and observability tooling such as Git, GitHub Actions, Docker, Terraform, and Datadog.&lt;/li&gt;\n&lt;li&gt;Use AI as a force multiplier to explore ideas, prototype solutions, and accelerate development.&lt;/li&gt;\n&lt;li&gt;Enjoy working directly with stakeholders to understand problems and deliver business value.&lt;/li&gt;\n&lt;li&gt;Communicate clearly and are comfortable making decisions in ambiguous environments.&lt;/li&gt;\n&lt;li&gt;Care as much about business outcomes as technical excellence.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;em&gt;Nice to Have&lt;/em&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience with streaming or event-driven data (e.g., Kafka, Kinesis).&lt;/li&gt;\n&lt;li&gt;Experience supporting data science or ML workflows in production.&lt;/li&gt;\n&lt;li&gt;Experience in e-commerce, marketplaces, automotive, or fintech.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Why you&#39;ll love it at Clutch&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Autonomy &amp;amp; ownership: create your own path and own your work&lt;/li&gt;\n&lt;li&gt;Competitive compensation and equity incentives&lt;/li&gt;\n&lt;li&gt;Generous time off program&lt;/li&gt;\n&lt;li&gt;Health &amp;amp; dental benefits&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Employment Type&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;New, Permanent Full-Time&lt;/li&gt;\n&lt;li&gt;Hybrid, Downtown Toronto three days a week&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Compensation &amp;amp; Benefits&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Salary: $160,000 - 200,000&lt;/li&gt;\n&lt;li&gt;Equity incentives&lt;/li&gt;\n&lt;li&gt;Comprehensive healthcare, dental, vision, prescriptions, life insurance, and dependent coverage&lt;/li&gt;\n&lt;li&gt;Pay reflects skills, performance, market benchmarking, responsibilities, and working conditions&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Clutch is committed to fostering an inclusive workplace where all individuals have an opportunity to succeed. If you require accommodation at any stage of the interview process, please email talent@clutch.ca&lt;/p&gt;",
+  "departments": [
+    {
+      "id": 4004501004,
+      "name": "Engineering",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 4002133004,
+      "name": "Toronto (HQ)",
+      "location": "Toronto, Ontario, Canada",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": "http://app4.greenhouse.io/ai_opt_out_request/job_post/6212120004/ai_opt_out"
+}

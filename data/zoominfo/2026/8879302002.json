@@ -1,0 +1,72 @@
+{
+  "absolute_url": "https://www.zoominfo.com/careers?gh_jid=8879302002",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 6555734002,
+  "location": {
+    "name": "Toronto, Ontario, Canada"
+  },
+  "metadata": [
+    {
+      "id": 24710929002,
+      "name": "Job Family Group",
+      "value": "Information Technology",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24711071002,
+      "name": "Time Type",
+      "value": "Full time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 101751589002,
+      "name": "Work Shift",
+      "value": "General Shift",
+      "value_type": "short_text"
+    },
+    {
+      "id": 4203585002,
+      "name": "LEGACY - Employment Type",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8879302002,
+  "updated_at": "2026-10-13T13:17:47-04:00",
+  "requisition_id": "JR108219",
+  "title": "Senior Analytics Engineer",
+  "company_name": "ZoomInfo Technologies LLC",
+  "first_published": "2026-10-13T13:14:06-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen–fast.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;We are seeking an experienced&amp;nbsp;&lt;strong&gt;Senior &lt;/strong&gt;&lt;strong&gt;Analytics Engineer &lt;/strong&gt;to join the Enterprise Data Engineering team at ZoomInfo.&lt;/p&gt;\n&lt;p&gt;As an Analytics Engineer, you will play a pivotal role in advancing the maturity of our data organization. Working cross-functionally with Engineering, Product, Security and business stakeholders, you’ll design, build, and own the core infrastructure and data models that power data-driven decision-making across the organization.&lt;/p&gt;\n&lt;h2&gt;&amp;nbsp;&lt;/h2&gt;\n&lt;h2&gt;&lt;strong&gt;What You’ll Do&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Design, develop, and maintain scalable analytics data models that support reporting, business intelligence, product analytics, and operational decision-making.&lt;/li&gt;\n&lt;li&gt;Build and manage trusted data pipelines and transformation workflows using modern analytics engineering practices.&lt;/li&gt;\n&lt;li&gt;Partner with stakeholders across Engineering, Product, Design, Strategy &amp;amp; Operations, and AI Platform to understand business needs and translate them into effective data solutions.&lt;/li&gt;\n&lt;li&gt;Establish clear definitions, metrics, dimensions, and data contracts to create consistency across teams and use cases.&lt;/li&gt;\n&lt;li&gt;Develop reusable datasets and semantic models that enable self-service analytics and reduce duplicated work.&lt;/li&gt;\n&lt;li&gt;Improve the reliability, performance, observability, and maintainability of analytics infrastructure.&lt;/li&gt;\n&lt;li&gt;Implement data quality checks, testing, documentation, lineage, and monitoring for critical data assets.&lt;/li&gt;\n&lt;li&gt;Collaborate with data engineers and platform teams to optimize data architecture, warehouse performance, and transformation workflows.&lt;/li&gt;\n&lt;li&gt;Work with analysts, data scientists, and business partners to ensure data products are intuitive, discoverable, and fit for purpose.&lt;/li&gt;\n&lt;li&gt;Help establish best practices for analytics engineering, including version control, code review, CI/CD, documentation, and deployment standards.&lt;/li&gt;\n&lt;li&gt;Communicate technical concepts clearly to both technical and non-technical audiences.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&amp;nbsp;&lt;/h2&gt;\n&lt;h2&gt;&lt;strong&gt;What You’ll Bring&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;4+ years of experience in analytics engineering, data engineering, business intelligence engineering, or a related field.&lt;/li&gt;\n&lt;li&gt;Strong SQL skills, including experience developing complex queries and dimensional data models.&lt;/li&gt;\n&lt;li&gt;Experience building and maintaining analytics transformations using tools such as dbt or comparable frameworks.&lt;/li&gt;\n&lt;li&gt;Proficiency in Python or another programming language used for data processing and automation.&lt;/li&gt;\n&lt;li&gt;Experience working with modern cloud data warehouses such as Snowflake, Databricks, BigQuery, or Redshift.&lt;/li&gt;\n&lt;li&gt;Strong understanding of data modeling concepts, including dimensional modeling, fact and dimension tables, slowly changing dimensions, and semantic layers.&lt;/li&gt;\n&lt;li&gt;Experience implementing data quality testing, monitoring, documentation, and observability practices.&lt;/li&gt;\n&lt;li&gt;Demonstrated ability to partner with cross-functional stakeholders and translate ambiguous business questions into scalable data solutions.&lt;/li&gt;\n&lt;li&gt;Strong communication, problem-solving, and organizational skills.&lt;/li&gt;\n&lt;li&gt;A thoughtful approach to data governance, security, privacy, and responsible use of data.&lt;/li&gt;\n&lt;li&gt;Familiarity with data cataloging and lineage tools.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Our Tech Stack&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Warehousing&lt;/strong&gt;: Snowflake as the primary warehouse; BigQuery for GCP-native workloads&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Ingestion&lt;/strong&gt;: Fivetran for SaaS-to-Snowflake pulls; Airflow (on AWS) for custom DAGs, Lambda-based extraction, and S3 staging&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Modeling&lt;/strong&gt;: dbt for transformation and semantic layer definition&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Custom compute&lt;/strong&gt;: Databricks for bespoke modeling work that doesn&#39;t fit cleanly into dbt/Snowflake&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Infrastructure&lt;/strong&gt;: Terraform for managing Fivetran connections, GCP infrastructure, and AWS resources&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Version control &amp;amp; CI/CD&lt;/strong&gt;: GitHub&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Consumption&lt;/strong&gt;: Tableau dashboards; internal tools built on top of semantic data layers&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;#LI-JH1 &lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;#LI-Remote&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;About us:&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;ZoomInfo (NASDAQ: GTM) is the Go-To-Market Intelligence Platform that empowers businesses to grow faster with AI-ready insights, trusted data, and advanced automation. Its solutions provide more than 35,000 companies worldwide with a complete view of their customers, making every seller their best seller.&lt;/p&gt;\n&lt;p&gt;ZoomInfo is committed to protecting your privacy when you apply for jobs with us. Please review our Job Applicant &lt;a href=&quot;https://drive.google.com/file/d/1yiG-k0YX_sW10PiJk_xliDc3W-veJCrK/view?usp=drive_link&quot; target=&quot;_blank&quot;&gt;Privacy Notice&lt;/a&gt; for more details on how we handle your personal information.&lt;/p&gt;\n&lt;p&gt;ZoomInfo may use a software-based assessment as part of the recruitment process. More information about this tool, including the results of the most recent bias audit, is available &lt;a href=&quot;https://www.zoominfo.com/legal/nyc-local-law-144-notice&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;ZoomInfo is proud to be an equal opportunity employer, hiring based on qualifications, merit, and business needs, and does not discriminate based on protected status. We welcome all applicants and are committed to providing equal employment opportunities regardless of sex, race, age, color, national origin, sexual orientation, gender identity, marital status, disability status, religion, protected military or veteran status, medical condition, or any other characteristic protected by applicable law. We also consider qualified candidates with criminal histories in accordance with legal requirements.&lt;/p&gt;\n&lt;p&gt;For Massachusetts Applicants: It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability. ZoomInfo does not administer lie detector tests to applicants in any location.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4074814002,
+      "name": "889 Corporate Engineering - G&A - Enterprise Engineering & Data Analytics",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 4139578002,
+      "name": "Remote-CA-Ontario",
+      "location": null,
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

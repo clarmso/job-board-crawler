@@ -43,7 +43,7 @@
       "id": 4137836,
       "name": "Working Model Eligibility",
       "value": [
-        "2-Flexible"
+        "3CF-Customer Facing Remote"
       ],
       "value_type": "multi_select"
     },
@@ -74,21 +74,13 @@
     {
       "id": 5525802,
       "name": "Baseline Budgeted Salary",
-      "value": {
-        "unit": "USD",
-        "max_value": "160000.0",
-        "min_value": "160000.0"
-      },
+      "value": null,
       "value_type": "currency_range"
     },
     {
       "id": 5525816,
       "name": "Other Large Market Budgeted Salary",
-      "value": {
-        "unit": "USD",
-        "max_value": "160000.0",
-        "min_value": "160000.0"
-      },
+      "value": null,
       "value_type": "currency_range"
     },
     {
@@ -125,9 +117,9 @@
     }
   ],
   "id": 7967394,
-  "updated_at": "2026-10-12T20:26:05-04:00",
+  "updated_at": "2026-10-13T16:58:56-04:00",
   "requisition_id": "2273458699",
-  "title": "Senior Enterprise Account Executive, Growth",
+  "title": "Senior EAE Growth to Strategic Account Director",
   "company_name": "MongoDB",
   "first_published": "2026-09-11T09:03:44-04:00",
   "language": "en",
@@ -143,9 +135,9 @@
   ],
   "offices": [
     {
-      "id": 3960,
-      "name": "New York City",
-      "location": "New York, NY, United States",
+      "id": 95795,
+      "name": "Remote Connecticut",
+      "location": "Connecticut, United States",
       "child_ids": [],
       "parent_id": 23657
     }

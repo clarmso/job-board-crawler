@@ -124,20 +124,20 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "76624063-f8cd-41a2-81ac-c082f5cfb2a5",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "e4aabc57-cc10-4d7b-be63-fc00b913859e",
             "summary": "Offers Bonus",
             "compensationType": "Bonus",
             "interval": "1 YEAR",
             "currencyCode": "PLN",
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "76624063-f8cd-41a2-81ac-c082f5cfb2a5",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
             "minValue": null,
             "maxValue": null
           },

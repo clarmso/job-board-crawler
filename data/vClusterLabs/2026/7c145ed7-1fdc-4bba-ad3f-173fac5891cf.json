@@ -44,13 +44,13 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "f25bf3e7-4301-4ac8-a8fe-9b7784407b91",
-            "summary": "On Target Earnings $280K – $330K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "USD",
-            "minValue": 280000,
-            "maxValue": 330000
+            "id": "549bce0f-3291-4177-944f-3906a453e431",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           },
           {
             "id": "2724d934-6f3e-44d8-8663-06dd9549a02e",
@@ -62,24 +62,24 @@
             "maxValue": null
           },
           {
-            "id": "549bce0f-3291-4177-944f-3906a453e431",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
+            "id": "f25bf3e7-4301-4ac8-a8fe-9b7784407b91",
+            "summary": "On Target Earnings $280K – $330K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 280000,
+            "maxValue": 330000
           }
         ]
       }
     ],
     "summaryComponents": [
       {
-        "compensationType": "Salary",
-        "interval": "1 YEAR",
-        "currencyCode": "USD",
-        "minValue": 280000,
-        "maxValue": 330000
+        "compensationType": "EquityPercentage",
+        "interval": "NONE",
+        "currencyCode": null,
+        "minValue": null,
+        "maxValue": null
       },
       {
         "compensationType": "Commission",
@@ -89,11 +89,11 @@
         "maxValue": null
       },
       {
-        "compensationType": "EquityPercentage",
-        "interval": "NONE",
-        "currencyCode": null,
-        "minValue": null,
-        "maxValue": null
+        "compensationType": "Salary",
+        "interval": "1 YEAR",
+        "currencyCode": "USD",
+        "minValue": 280000,
+        "maxValue": 330000
       }
     ]
   }

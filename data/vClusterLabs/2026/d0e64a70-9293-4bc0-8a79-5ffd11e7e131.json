@@ -40,20 +40,20 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "eeb54389-aecb-4712-a184-8ff09bbf2230",
-            "summary": "Offers Commission",
-            "compensationType": "Commission",
-            "interval": "1 YEAR",
-            "currencyCode": "AED",
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "1bf8c366-c0ca-452a-bac8-8e1143182d44",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
             "interval": "NONE",
             "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "eeb54389-aecb-4712-a184-8ff09bbf2230",
+            "summary": "Offers Commission",
+            "compensationType": "Commission",
+            "interval": "1 YEAR",
+            "currencyCode": "AED",
             "minValue": null,
             "maxValue": null
           },
@@ -71,16 +71,16 @@
     ],
     "summaryComponents": [
       {
-        "compensationType": "Commission",
-        "interval": "1 YEAR",
-        "currencyCode": "AED",
+        "compensationType": "EquityPercentage",
+        "interval": "NONE",
+        "currencyCode": null,
         "minValue": null,
         "maxValue": null
       },
       {
-        "compensationType": "EquityPercentage",
-        "interval": "NONE",
-        "currencyCode": null,
+        "compensationType": "Commission",
+        "interval": "1 YEAR",
+        "currencyCode": "AED",
         "minValue": null,
         "maxValue": null
       },

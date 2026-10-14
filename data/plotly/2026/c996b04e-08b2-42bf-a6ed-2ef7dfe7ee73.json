@@ -4,15 +4,34 @@
   "department": "Marketing",
   "team": "Marketing",
   "employmentType": "FullTime",
-  "location": "Remote",
+  "location": "Canada",
   "shouldDisplayCompensationOnJobPostings": false,
-  "secondaryLocations": [],
+  "secondaryLocations": [
+    {
+      "location": "USA",
+      "address": {
+        "postalAddress": {
+          "postalCode": "19808-1674",
+          "addressRegion": "Delaware",
+          "streetAddress": "251 Little Falls Drive",
+          "addressCountry": "United States",
+          "addressLocality": "Wilmington"
+        }
+      }
+    }
+  ],
   "publishedAt": "2026-10-08T15:34:03.839+00:00",
   "isListed": true,
-  "isRemote": null,
-  "workplaceType": null,
+  "isRemote": true,
+  "workplaceType": "Remote",
   "address": {
-    "postalAddress": {}
+    "postalAddress": {
+      "postalCode": "",
+      "addressRegion": "",
+      "streetAddress": "",
+      "addressCountry": "Canada",
+      "addressLocality": ""
+    }
   },
   "jobUrl": "https://jobs.ashbyhq.com/plotly/c996b04e-08b2-42bf-a6ed-2ef7dfe7ee73",
   "applyUrl": "https://jobs.ashbyhq.com/plotly/c996b04e-08b2-42bf-a6ed-2ef7dfe7ee73/application",
