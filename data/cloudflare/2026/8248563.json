@@ -25,7 +25,13 @@
       "id": 8654220,
       "name": "Job Posting Location",
       "value": [
-        "Austin, US"
+        "Atlanta, GA",
+        "Austin, US",
+        "Denver, CO",
+        "Lisbon, Portugal",
+        "Seattle, WA",
+        "Toronto, Canada",
+        "Washington DC, US"
       ],
       "value_type": "multi_select"
     },
@@ -39,7 +45,7 @@
     }
   ],
   "id": 8248563,
-  "updated_at": "2026-10-14T04:14:14-04:00",
+  "updated_at": "2026-10-14T11:45:19-04:00",
   "requisition_id": null,
   "title": "Logistics Operations Specialist",
   "company_name": "Cloudflare",
@@ -76,6 +82,13 @@
       "location": "Denver, Colorado, United States",
       "child_ids": [],
       "parent_id": 48752
+    },
+    {
+      "id": 63782,
+      "name": "Lisbon, Portugal",
+      "location": "Lisboa, Lisboa, Portugal",
+      "child_ids": [],
+      "parent_id": 74843
     },
     {
       "id": 72960,

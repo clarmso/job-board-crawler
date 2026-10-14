@@ -6,7 +6,16 @@
   "employmentType": "FullTime",
   "location": "London, England",
   "shouldDisplayCompensationOnJobPostings": false,
-  "secondaryLocations": [],
+  "secondaryLocations": [
+    {
+      "location": "Copenhagen, Denmark",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "Denmark"
+        }
+      }
+    }
+  ],
   "publishedAt": "2026-10-02T16:03:55.518+00:00",
   "isListed": true,
   "isRemote": true,

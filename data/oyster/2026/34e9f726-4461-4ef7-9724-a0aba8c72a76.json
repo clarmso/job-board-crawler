@@ -1,12 +1,22 @@
 {
   "id": "34e9f726-4461-4ef7-9724-a0aba8c72a76",
   "title": "Senior AI Solutions Engineer ",
-  "department": "Product and Analytics",
+  "department": "Product Development",
   "team": "Product",
   "employmentType": "FullTime",
   "location": "EMEA",
   "shouldDisplayCompensationOnJobPostings": false,
   "secondaryLocations": [
+    {
+      "location": "United States",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "Texas",
+          "addressCountry": "United States",
+          "addressLocality": "Austin"
+        }
+      }
+    },
     {
       "location": "Brazil",
       "address": {
@@ -15,27 +25,9 @@
           "addressLocality": "São Paulo"
         }
       }
-    },
-    {
-      "location": "Canada",
-      "address": {
-        "postalAddress": {
-          "addressCountry": "Canada",
-          "addressLocality": "Toronto"
-        }
-      }
-    },
-    {
-      "location": "Mexico",
-      "address": {
-        "postalAddress": {
-          "addressCountry": "Mexico",
-          "addressLocality": "Mexico City"
-        }
-      }
     }
   ],
-  "publishedAt": "2026-09-18T15:48:27.314+00:00",
+  "publishedAt": "2026-10-07T15:19:45.727+00:00",
   "isListed": true,
   "isRemote": null,
   "workplaceType": null,

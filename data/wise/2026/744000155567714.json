@@ -1,0 +1,130 @@
+{
+  "id": "744000155567714",
+  "name": "PR Manager, LatAm (6-month fixed-term position)",
+  "uuid": "3e4d445d-1a42-486a-816e-7113f9da177d",
+  "jobAdId": "26832714-a55c-4dc9-93d8-8a67f21a4c4d",
+  "defaultJobAd": true,
+  "refNumber": "R11116",
+  "company": {
+    "identifier": "Wise",
+    "name": "Wise"
+  },
+  "releasedDate": "2026-10-14T16:34:28.720Z",
+  "location": {
+    "city": "São Paulo",
+    "country": "br",
+    "address": "Rua Girassol, 555, 1st Floor, Vila Madalena",
+    "postalCode": "05433-001",
+    "remote": false,
+    "hybrid": true,
+    "fullLocation": "São Paulo, , Brazil"
+  },
+  "industry": {
+    "id": "financial_services",
+    "label": "Financial Services"
+  },
+  "department": {},
+  "function": {
+    "id": "public_relations",
+    "label": "Public Relations"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "customField": [
+    {
+      "fieldId": "65d3d0e0d37044292ef9549b",
+      "fieldLabel": "Job Profile",
+      "valueId": "031d60c1f3b201c178d22cca9501c50c",
+      "valueLabel": "PR Manager - JP100503"
+    },
+    {
+      "fieldId": "65d3d0a7d37044292ef9549a",
+      "fieldLabel": "Job Family",
+      "valueId": "e380f86fa0b2010e8b26a586bc002800",
+      "valueLabel": "PR"
+    },
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "br",
+      "valueLabel": "Brazil"
+    },
+    {
+      "fieldId": "65d3d05c735007771b14e932",
+      "fieldLabel": "Worker Type",
+      "valueId": "EE",
+      "valueLabel": "Wiser"
+    },
+    {
+      "fieldId": "65cea5ac287e8d0651481809",
+      "fieldLabel": "Time Type",
+      "valueId": "d2f4dafccd5101059b6cf09e12278400",
+      "valueLabel": "Full time"
+    },
+    {
+      "fieldId": "65d3d06b2865b46cfa4f0ec3",
+      "fieldLabel": "Worker Sub Type",
+      "valueId": "046034784a4d019cf1e2ba886327900d",
+      "valueLabel": "Fixed Term (Fixed Term)"
+    },
+    {
+      "fieldId": "65d3d141c86c2f3257de414c",
+      "fieldLabel": "Cost Center Hierarchy",
+      "valueId": "6d8f1bd75a7001c77bd4ac31c712b21c",
+      "valueLabel": "Marketing"
+    },
+    {
+      "fieldId": "658553f79a81b00900831a80",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Wise"
+    },
+    {
+      "fieldId": "65d3d0374c34974b271801f9",
+      "fieldLabel": "Management Level",
+      "valueId": "e82698b94195019ad99d30d3f100d510",
+      "valueLabel": "4"
+    },
+    {
+      "fieldId": "65d3d0926435ba43bdb089ac",
+      "fieldLabel": "Job Family Group",
+      "valueId": "cf8ed98297e201b264e34202ba008414",
+      "valueLabel": "Marketing"
+    },
+    {
+      "fieldId": "65d3d151a5d3185b4341a7ab",
+      "fieldLabel": "Cost Center",
+      "valueId": "6d8f1bd75a700195f66bb132c712a71d",
+      "valueLabel": "Marketing PR"
+    },
+    {
+      "fieldId": "65cec407735007771b14e92d",
+      "fieldLabel": "Company",
+      "valueId": "01ae8d4a58401000b3e48ec465d50000",
+      "valueLabel": "Wise Brasil Corretora de Câmbio Ltda"
+    },
+    {
+      "fieldId": "65d90823f2e6436af25814c2",
+      "fieldLabel": "Job Ad Salary Range",
+      "valueLabel": "11000 - 19000 BRL Monthly"
+    },
+    {
+      "fieldId": "65d9080b4aa2f46927dfc1f3",
+      "fieldLabel": "WD Target Hire Date",
+      "valueLabel": "2026-11-02"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/wise/postings/744000155567714",
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

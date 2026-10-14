@@ -33,15 +33,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "83a6aa6a-9e65-475c-bee2-60147763f478",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "f39fc762-ecc7-42e7-a557-23fd6a107112",
             "summary": "On-Target Earnings (OTE) CA$152K – CA$180K",
             "compensationType": "Salary",
@@ -49,24 +40,33 @@
             "currencyCode": "CAD",
             "minValue": 152000,
             "maxValue": 180000
+          },
+          {
+            "id": "83a6aa6a-9e65-475c-bee2-60147763f478",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           }
         ]
       }
     ],
     "summaryComponents": [
       {
-        "compensationType": "EquityPercentage",
-        "interval": "NONE",
-        "currencyCode": null,
-        "minValue": null,
-        "maxValue": null
-      },
-      {
         "compensationType": "Salary",
         "interval": "1 YEAR",
         "currencyCode": "CAD",
         "minValue": 152000,
         "maxValue": 180000
+      },
+      {
+        "compensationType": "EquityPercentage",
+        "interval": "NONE",
+        "currencyCode": null,
+        "minValue": null,
+        "maxValue": null
       }
     ]
   }

@@ -13,7 +13,7 @@
   "education": "education_optional",
   "internal_job_id": 3402841,
   "location": {
-    "name": "Arlington, VA"
+    "name": "Washington, DC, United States"
   },
   "metadata": [
     {
@@ -25,7 +25,11 @@
     {
       "id": 168141,
       "name": "Target Remote Countries / States Locations [For Job Wrapping]",
-      "value": [],
+      "value": [
+        "Maryland, United States",
+        "Virginia, United States",
+        "Washington, DC, United States"
+      ],
       "value_type": "multi_select"
     },
     {
@@ -54,7 +58,7 @@
     }
   ],
   "id": 7769649,
-  "updated_at": "2026-10-01T12:57:36-04:00",
+  "updated_at": "2026-10-14T16:55:34-04:00",
   "requisition_id": "R11390",
   "title": "Federal Account Executive - UN, World Bank, NARA",
   "company_name": "Elastic",
