@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """
-Post a daily digest of newly-discovered jobs to Mastodon and Bluesky.
+Post a daily digest of newly-discovered jobs to Mastodon, Bluesky, and X
+(Twitter).
 
 Reads docs/new_jobs.json (written by generate_new_jobs.py earlier in the
 same crawl run) and compares every job URL against state/posted_new_jobs.json
@@ -12,28 +13,34 @@ announced yesterday.
 If there's nothing new to announce, this script exits quietly without
 posting (no "0 new jobs today" spam).
 
-Designed to fail soft per platform: missing/invalid credentials for either
-Mastodon or Bluesky just skip that platform (logged, not fatal) so a
-misconfigured or revoked token never breaks the crawl workflow. If BOTH
-platforms fail (or neither is configured), newly-found jobs are NOT marked
+Designed to fail soft per platform: missing/invalid credentials for any of
+Mastodon, Bluesky, or X just skip that platform (logged, not fatal) so a
+misconfigured or revoked token never breaks the crawl workflow. If ALL
+platforms fail (or none is configured), newly-found jobs are NOT marked
 as announced, so they're retried on the next run. If at least one platform
 succeeds, all of today's new jobs are marked announced — a job already
-announced on Mastodon won't be silently skipped if only Bluesky fails
+announced on one platform won't be silently skipped if another fails
 today, but it also won't be re-announced there tomorrow.
 
 Disable entirely by setting DISABLE_SOCIAL_POST=1 in the environment.
 """
 
+import base64
+import hashlib
+import hmac
 import json
 import os
+import secrets
+import time
 import urllib.error
+import urllib.parse
 import urllib.request
 from datetime import datetime, timedelta, timezone
 
 NEW_JOBS_JSON = "docs/new_jobs.json"
 STATE_PATH = os.path.join("state", "posted_new_jobs.json")
 SITE_URL = "https://openings.info/"
-MAX_MESSAGE_LEN = 300  # Bluesky's limit; comfortably under Mastodon's 500 too.
+MAX_MESSAGE_LEN = 280  # X's limit; comfortably under Bluesky's 300 and Mastodon's 500 too.
 PRUNE_AFTER_DAYS = 7  # Well above the 48h lookback window; bounds file growth.
 
 
@@ -184,6 +191,67 @@ def _post_bluesky(message, url):
         return False
 
 
+def _oauth1_quote(value):
+    # RFC 3986 percent-encoding as OAuth 1.0a requires (urllib's default
+    # safe set additionally exempts "~", matching the spec).
+    return urllib.parse.quote(str(value), safe="~")
+
+
+def _oauth1_header(method, url, consumer_key, consumer_secret, token, token_secret):
+    """Build an OAuth 1.0a `Authorization` header for a JSON-body request
+    (X's free tier only supports posting via OAuth 1.0a user context, not
+    OAuth 2.0 app-only auth). Since the request body here is JSON (not
+    form-urlencoded) and the URL has no query string, only the oauth_*
+    parameters themselves are part of the signature base string.
+    """
+    oauth_params = {
+        "oauth_consumer_key": consumer_key,
+        "oauth_nonce": secrets.token_hex(16),
+        "oauth_signature_method": "HMAC-SHA1",
+        "oauth_timestamp": str(int(time.time())),
+        "oauth_token": token,
+        "oauth_version": "1.0",
+    }
+    param_string = "&".join(
+        f"{_oauth1_quote(k)}={_oauth1_quote(v)}" for k, v in sorted(oauth_params.items())
+    )
+    base_string = "&".join([method.upper(), _oauth1_quote(url), _oauth1_quote(param_string)])
+    signing_key = f"{_oauth1_quote(consumer_secret)}&{_oauth1_quote(token_secret)}"
+    signature = base64.b64encode(
+        hmac.new(signing_key.encode(), base_string.encode(), hashlib.sha1).digest()
+    ).decode()
+    oauth_params["oauth_signature"] = signature
+    return "OAuth " + ", ".join(
+        f'{_oauth1_quote(k)}="{_oauth1_quote(v)}"' for k, v in sorted(oauth_params.items())
+    )
+
+
+def _post_x(message):
+    consumer_key = os.environ.get("X_API_KEY")
+    consumer_secret = os.environ.get("X_API_SECRET")
+    token = os.environ.get("X_ACCESS_TOKEN")
+    token_secret = os.environ.get("X_ACCESS_TOKEN_SECRET")
+    if not all([consumer_key, consumer_secret, token, token_secret]):
+        print("  [post_social] X credentials not configured; skipping")
+        return False
+
+    url = "https://api.twitter.com/2/tweets"
+    auth_header = _oauth1_header("POST", url, consumer_key, consumer_secret, token, token_secret)
+    data = json.dumps({"text": message}).encode()
+    req = urllib.request.Request(
+        url, data=data, method="POST",
+        headers={"Authorization": auth_header, "Content-Type": "application/json"},
+    )
+    try:
+        with urllib.request.urlopen(req, timeout=30) as resp:
+            resp.read()
+        print("  [post_social] posted to X")
+        return True
+    except (urllib.error.URLError, urllib.error.HTTPError) as e:
+        print(f"  [post_social] X post failed: {e}")
+        return False
+
+
 def main():
     if os.environ.get("DISABLE_SOCIAL_POST"):
         print("  [post_social] DISABLE_SOCIAL_POST set; skipping")
@@ -208,9 +276,10 @@ def main():
 
     posted_mastodon = _post_mastodon(message)
     posted_bluesky = _post_bluesky(message, SITE_URL)
+    posted_x = _post_x(message)
 
-    if not (posted_mastodon or posted_bluesky):
-        print("  [post_social] both platforms failed or are unconfigured; "
+    if not (posted_mastodon or posted_bluesky or posted_x):
+        print("  [post_social] all platforms failed or are unconfigured; "
               "not marking jobs as announced so they're retried next run")
         return
 
