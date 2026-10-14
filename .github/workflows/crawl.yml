@@ -10,6 +10,7 @@ on:
 
 permissions:
   contents: write
+  actions: write
 
 jobs:
   crawl:
@@ -42,6 +43,7 @@ jobs:
         run: python scripts/generate_companies_page.py
 
       - name: Commit changes
+        id: commit
         if: always()
         run: |
           git config user.name "github-actions[bot]"
@@ -49,7 +51,18 @@ jobs:
           git add data/ state/ docs/new_jobs.json docs/index.html docs/companies.json docs/companies.html
           if git diff --cached --quiet; then
             echo "No changes to commit"
+            echo "changed=false" >> "$GITHUB_OUTPUT"
           else
             git commit -m "🦀 crawl: $(date -u +%Y-%m-%d)"
             git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
+
+      # A GITHUB_TOKEN-authenticated push above does NOT trigger other
+      # workflows' `on: push` (GitHub's loop-prevention rule), so Deploy
+      # Pages must be dispatched explicitly here when docs/ changed.
+      - name: Trigger Pages deployment
+        if: always() && steps.commit.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run pages.yml --ref main
