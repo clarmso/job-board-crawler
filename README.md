@@ -1,21 +1,27 @@
-# Job Board Crawler
+# openings.info
 
-This repo queries the job boards of selected companies and saves the job posting for future analysis.
+<img src="docs/icons/favicon-512.png" alt="openings.info icon" width="100" height="100" align="center" />
+
+[openings.info](https://openings.info) reports **new tech jobs posted in the last 2 days** daily. It crawls the public job boards (ATS) of a curated list of companies, find what's genuinely new, and publishes the result to the static site.
+
+The job descriptions are saved for future analysis. Often, the companies remove the job descriptions once the openings are no longer available. We have limited ways to look at what a job descriptions looked like in the past. We may see how jobs have evolved in the near future. (Pie in the cloud. I know! ;-))
+
+See [setup.md](setup.md) for requirements and how it works under the hood (crawl → detect new jobs → publish → social digest).
 
 ## Supported platforms
 
-* [Greenhouse](https://boards-api.greenhouse.io) — JSON API with full job descriptions via `?content=true`
-* [Lever](https://api.lever.co) — JSON API, includes descriptions by default
-* [Ashby](https://api.ashbyhq.com) — JSON API, supports `?includeCompensation=true` for salary data
-* [Workable](https://apply.workable.com) — JSON API, includes descriptions via `?details=true`
-* [Recruitee](https://recruitee.com) — JSON API, includes descriptions by default
-* [SmartRecruiters](https://api.smartrecruiters.com) — JSON API, paginated; job descriptions require per-posting fetch
-* [Rippling](https://ats.rippling.com) — Next.js SSR; job list scraped from HTML, full job data extracted from `__NEXT_DATA__` on each posting page
-* [Gem](https://api.gem.com) — JSON API, flat array response; includes HTML and plain-text job descriptions
-* [Breezy HR](https://breezy.hr) — JSON API at `<company>.breezy.hr/json`, flat array response
-* [BambooHR](https://bamboohr.com) — JSON API at `<company>.bamboohr.com/careers/list`; no posting date field, so jobs are filed under the current year
-* [Personio](https://personio.com) — XML feed at `<company>.jobs.personio.de/xml`
-* [Trakstar](https://trakstar.com) (formerly Recruiterbox) — RSS/XML feed at `<company>.hire.trakstar.com/jobfeeds/<company>`
+* [Greenhouse](https://boards-api.greenhouse.io)
+* [Lever](https://api.lever.co)
+* [Ashby](https://api.ashbyhq.com)
+* [Workable](https://apply.workable.com)
+* [Recruitee](https://recruitee.com)
+* [SmartRecruiters](https://api.smartrecruiters.com)
+* [Rippling](https://ats.rippling.com)
+* [Gem](https://api.gem.com)
+* [Breezy HR](https://breezy.hr)
+* [BambooHR](https://bamboohr.com)
+* [Personio](https://personio.com)
+* [Trakstar](https://trakstar.com) (formerly Recruiterbox)
 
 ### Sources
 
