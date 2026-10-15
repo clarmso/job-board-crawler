@@ -1,0 +1,60 @@
+name: TEMP Test X Post
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  test-x-post:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Post a test tweet
+        env:
+          X_API_KEY: ${{ secrets.X_API_KEY }}
+          X_API_SECRET: ${{ secrets.X_API_SECRET }}
+          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+          X_ACCESS_TOKEN_SECRET: ${{ secrets.X_ACCESS_TOKEN_SECRET }}
+        run: |
+          python3 - <<'PYEOF'
+          import base64, hashlib, hmac, json, os, secrets, time
+          import urllib.error, urllib.parse, urllib.request
+
+          def _q(v):
+              return urllib.parse.quote(str(v), safe="~")
+
+          def oauth1_header(method, url, ck, cs, tok, toksec):
+              params = {
+                  "oauth_consumer_key": ck,
+                  "oauth_nonce": secrets.token_hex(16),
+                  "oauth_signature_method": "HMAC-SHA1",
+                  "oauth_timestamp": str(int(time.time())),
+                  "oauth_token": tok,
+                  "oauth_version": "1.0",
+              }
+              param_string = "&".join(f"{_q(k)}={_q(v)}" for k, v in sorted(params.items()))
+              base_string = "&".join([method.upper(), _q(url), _q(param_string)])
+              signing_key = f"{_q(cs)}&{_q(toksec)}"
+              sig = base64.b64encode(hmac.new(signing_key.encode(), base_string.encode(), hashlib.sha1).digest()).decode()
+              params["oauth_signature"] = sig
+              return "OAuth " + ", ".join(f'{_q(k)}="{_q(v)}"' for k, v in sorted(params.items()))
+
+          ck = os.environ["X_API_KEY"]
+          cs = os.environ["X_API_SECRET"]
+          tok = os.environ["X_ACCESS_TOKEN"]
+          toksec = os.environ["X_ACCESS_TOKEN_SECRET"]
+
+          url = "https://api.twitter.com/2/tweets"
+          auth = oauth1_header("POST", url, ck, cs, tok, toksec)
+          data = json.dumps({"text": "Testing X integration for openings.info \u2014 please ignore."}).encode()
+          req = urllib.request.Request(url, data=data, method="POST",
+              headers={"Authorization": auth, "Content-Type": "application/json"})
+          try:
+              with urllib.request.urlopen(req, timeout=30) as resp:
+                  print("SUCCESS", resp.status, resp.read().decode())
+          except urllib.error.HTTPError as e:
+              print("HTTP ERROR", e.code, e.read().decode())
+          except urllib.error.URLError as e:
+              print("URL ERROR", e)
+          PYEOF
