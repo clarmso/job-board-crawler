@@ -109,15 +109,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "5206d7df-693f-46eb-bd8b-74c9714840c4",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "1f918b0a-a69a-4c99-9164-557cece257e6",
             "summary": "Base Salary CA$250K – CA$460K",
             "compensationType": "Salary",
@@ -125,6 +116,15 @@
             "currencyCode": "CAD",
             "minValue": 250000,
             "maxValue": 460000
+          },
+          {
+            "id": "5206d7df-693f-46eb-bd8b-74c9714840c4",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           }
         ]
       },
@@ -161,15 +161,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "4f4ed17b-8ff5-4b84-b667-700e6c168aea",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "f920ee85-1aeb-4513-89bf-99764453b2de",
             "summary": "Base Salary $175K – $325K",
             "compensationType": "Salary",
@@ -177,6 +168,15 @@
             "currencyCode": "USD",
             "minValue": 175000,
             "maxValue": 325000
+          },
+          {
+            "id": "4f4ed17b-8ff5-4b84-b667-700e6c168aea",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           }
         ]
       }

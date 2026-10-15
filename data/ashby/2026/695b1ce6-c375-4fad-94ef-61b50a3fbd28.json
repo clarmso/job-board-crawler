@@ -253,20 +253,20 @@
             "maxValue": 280000
           },
           {
-            "id": "3bb9143f-458c-4ec5-9a76-73530d8bea96",
-            "summary": "Offers Bonus",
-            "compensationType": "Bonus",
-            "interval": "1 YEAR",
-            "currencyCode": "CAD",
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "1399f56c-1a8e-48e5-8e59-b086359e88d9",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
             "interval": "NONE",
             "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "3bb9143f-458c-4ec5-9a76-73530d8bea96",
+            "summary": "Offers Bonus",
+            "compensationType": "Bonus",
+            "interval": "1 YEAR",
+            "currencyCode": "CAD",
             "minValue": null,
             "maxValue": null
           }
