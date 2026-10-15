@@ -48,6 +48,19 @@ jobs:
           for name, val in [("X_API_KEY", ck), ("X_API_SECRET", cs), ("X_ACCESS_TOKEN", tok), ("X_ACCESS_TOKEN_SECRET", toksec)]:
               print(f"{name}: len={len(val)} has_leading_or_trailing_ws={val != val.strip()}")
 
+          # Sanity check: does auth work at all on a simple read-only
+          # endpoint, before trying the write (POST /2/tweets) endpoint?
+          me_url = "https://api.twitter.com/2/users/me"
+          me_auth = oauth1_header("GET", me_url, ck, cs, tok, toksec)
+          me_req = urllib.request.Request(me_url, method="GET", headers={"Authorization": me_auth})
+          try:
+              with urllib.request.urlopen(me_req, timeout=30) as resp:
+                  print("GET /2/users/me SUCCESS", resp.status, resp.read().decode())
+          except urllib.error.HTTPError as e:
+              print("GET /2/users/me HTTP ERROR", e.code, e.read().decode())
+          except urllib.error.URLError as e:
+              print("GET /2/users/me URL ERROR", e)
+
           url = "https://api.twitter.com/2/tweets"
           auth = oauth1_header("POST", url, ck, cs, tok, toksec)
           data = json.dumps({"text": "Testing X integration for openings.info \u2014 please ignore."}).encode()
