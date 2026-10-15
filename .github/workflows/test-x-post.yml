@@ -45,6 +45,9 @@ jobs:
           tok = os.environ["X_ACCESS_TOKEN"]
           toksec = os.environ["X_ACCESS_TOKEN_SECRET"]
 
+          for name, val in [("X_API_KEY", ck), ("X_API_SECRET", cs), ("X_ACCESS_TOKEN", tok), ("X_ACCESS_TOKEN_SECRET", toksec)]:
+              print(f"{name}: len={len(val)} has_leading_or_trailing_ws={val != val.strip()}")
+
           url = "https://api.twitter.com/2/tweets"
           auth = oauth1_header("POST", url, ck, cs, tok, toksec)
           data = json.dumps({"text": "Testing X integration for openings.info \u2014 please ignore."}).encode()
