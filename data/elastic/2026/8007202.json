@@ -13,7 +13,7 @@
   "education": "education_optional",
   "internal_job_id": 3471853,
   "location": {
-    "name": "Germany"
+    "name": "Austria; Germany; Switzerland"
   },
   "metadata": [
     {
@@ -25,10 +25,7 @@
     {
       "id": 168141,
       "name": "Target Remote Countries / States Locations [For Job Wrapping]",
-      "value": [
-        "Austria",
-        "Switzerland"
-      ],
+      "value": [],
       "value_type": "multi_select"
     },
     {
@@ -57,7 +54,7 @@
     }
   ],
   "id": 8007202,
-  "updated_at": "2026-10-01T12:57:36-04:00",
+  "updated_at": "2026-10-15T10:26:24-04:00",
   "requisition_id": "R11771",
   "title": "Customer Architect",
   "company_name": "Elastic",

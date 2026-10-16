@@ -50,7 +50,7 @@
     {
       "id": 4914029,
       "name": "Job Level",
-      "value": "People Manager",
+      "value": "Professional - IC",
       "value_type": "single_select"
     },
     {
@@ -101,9 +101,9 @@
       "id": 40497768,
       "name": "Job Post Range (Canada)",
       "value": {
-        "unit": "CAD",
-        "max_value": "189000.0",
-        "min_value": "137000.0"
+        "unit": "USD",
+        "max_value": "0.0",
+        "min_value": "0.0"
       },
       "value_type": "currency_range"
     },
@@ -121,7 +121,7 @@
     }
   ],
   "id": 8258712,
-  "updated_at": "2026-10-13T11:42:38-04:00",
+  "updated_at": "2026-10-15T15:06:00-04:00",
   "requisition_id": "3273573572",
   "title": "Lead, Technical Services",
   "company_name": "MongoDB",

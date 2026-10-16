@@ -33,15 +33,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "43d731df-c2a8-4e14-8962-9c737b3ae4e2",
-            "summary": "Offers Bonus",
-            "compensationType": "Bonus",
-            "interval": "1 YEAR",
-            "currencyCode": "PLN",
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "47845b7e-9d41-4330-85dc-6e1457a31506",
             "summary": "PLN 266K – PLN 360K",
             "compensationType": "Salary",
@@ -58,18 +49,20 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "43d731df-c2a8-4e14-8962-9c737b3ae4e2",
+            "summary": "Offers Bonus",
+            "compensationType": "Bonus",
+            "interval": "1 YEAR",
+            "currencyCode": "PLN",
+            "minValue": null,
+            "maxValue": null
           }
         ]
       }
     ],
     "summaryComponents": [
-      {
-        "compensationType": "Bonus",
-        "interval": "1 YEAR",
-        "currencyCode": "PLN",
-        "minValue": null,
-        "maxValue": null
-      },
       {
         "compensationType": "Salary",
         "interval": "1 YEAR",
@@ -81,6 +74,13 @@
         "compensationType": "EquityPercentage",
         "interval": "NONE",
         "currencyCode": null,
+        "minValue": null,
+        "maxValue": null
+      },
+      {
+        "compensationType": "Bonus",
+        "interval": "1 YEAR",
+        "currencyCode": "PLN",
         "minValue": null,
         "maxValue": null
       }

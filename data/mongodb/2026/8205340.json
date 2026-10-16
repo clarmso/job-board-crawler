@@ -50,7 +50,7 @@
     {
       "id": 4914029,
       "name": "Job Level",
-      "value": "Vice President",
+      "value": "People Manager",
       "value_type": "single_select"
     },
     {
@@ -74,21 +74,13 @@
     {
       "id": 5525802,
       "name": "Baseline Budgeted Salary",
-      "value": {
-        "unit": "USD",
-        "max_value": "271000.0",
-        "min_value": "190000.0"
-      },
+      "value": null,
       "value_type": "currency_range"
     },
     {
       "id": 5525816,
       "name": "Other Large Market Budgeted Salary",
-      "value": {
-        "unit": "USD",
-        "max_value": "230000.0",
-        "min_value": "161000.0"
-      },
+      "value": null,
       "value_type": "currency_range"
     },
     {
@@ -125,7 +117,7 @@
     }
   ],
   "id": 8205340,
-  "updated_at": "2026-10-13T11:42:38-04:00",
+  "updated_at": "2026-10-15T14:53:24-04:00",
   "requisition_id": "4269876543",
   "title": "Vice President, Global Communications",
   "company_name": "MongoDB",

@@ -144,15 +144,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "2c5f7aa0-67e9-4650-990f-618ed0afbf0c",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "d9c9f576-6845-4975-b447-b8248ba96713",
             "summary": "OTE €127.5K – €172.5K",
             "compensationType": "Salary",
@@ -160,6 +151,15 @@
             "currencyCode": "EUR",
             "minValue": 127500,
             "maxValue": 172500
+          },
+          {
+            "id": "2c5f7aa0-67e9-4650-990f-618ed0afbf0c",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           },
           {
             "id": "85b702be-8b6f-4836-9e62-76931479dbf8",

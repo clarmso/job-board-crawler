@@ -49,7 +49,7 @@
       "id": 29446322,
       "name": "Pay Transparency Range",
       "value": {
-        "unit": null,
+        "unit": "USD",
         "max_value": "198000.0",
         "min_value": "149000.0"
       },
@@ -64,12 +64,12 @@
     {
       "id": 58619948,
       "name": "IC or MG",
-      "value": null,
+      "value": "IC",
       "value_type": "single_select"
     }
   ],
   "id": 8238455,
-  "updated_at": "2026-10-14T09:33:08-04:00",
+  "updated_at": "2026-10-15T09:41:27-04:00",
   "requisition_id": "R21495",
   "title": "Senior Sales Engineer - AI Accounts",
   "company_name": "Datadog",

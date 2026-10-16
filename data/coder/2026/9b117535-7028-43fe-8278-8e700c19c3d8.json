@@ -124,6 +124,15 @@
         "additionalInformation": null,
         "components": [
           {
+            "id": "b4a4bbe4-9505-45d5-94c3-f317de561019",
+            "summary": "PLN 501K – PLN 678K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "PLN",
+            "minValue": 501000,
+            "maxValue": 678000
+          },
+          {
             "id": "e4aabc57-cc10-4d7b-be63-fc00b913859e",
             "summary": "Offers Bonus",
             "compensationType": "Bonus",
@@ -140,15 +149,6 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
-          },
-          {
-            "id": "b4a4bbe4-9505-45d5-94c3-f317de561019",
-            "summary": "PLN 501K – PLN 678K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "PLN",
-            "minValue": 501000,
-            "maxValue": 678000
           }
         ]
       }

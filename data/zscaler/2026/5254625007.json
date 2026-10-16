@@ -12,7 +12,7 @@
   ],
   "internal_job_id": 4688651007,
   "location": {
-    "name": "Remote - Colorado, USA"
+    "name": "Remote - Colorado, USA; Remote - Nevada, USA"
   },
   "metadata": [
     {
@@ -41,7 +41,7 @@
     }
   ],
   "id": 5254625007,
-  "updated_at": "2026-10-12T22:50:33-04:00",
+  "updated_at": "2026-10-15T21:55:53-04:00",
   "requisition_id": "261001_B37149",
   "title": "Senior Sales Engineer, Majors - Colorado",
   "company_name": "Zscaler",
@@ -93,6 +93,13 @@
       "id": 4045533007,
       "name": "Remote - Colorado, USA",
       "location": "Remote - Colorado, USA",
+      "child_ids": [],
+      "parent_id": 4007290007
+    },
+    {
+      "id": 4045514007,
+      "name": "Remote - Nevada, USA",
+      "location": "Remote - Nevada, USA",
       "child_ids": [],
       "parent_id": 4007290007
     }

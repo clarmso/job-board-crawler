@@ -74,21 +74,13 @@
     {
       "id": 5525802,
       "name": "Baseline Budgeted Salary",
-      "value": {
-        "unit": "INR",
-        "max_value": "0.0",
-        "min_value": "0.0"
-      },
+      "value": null,
       "value_type": "currency_range"
     },
     {
       "id": 5525816,
       "name": "Other Large Market Budgeted Salary",
-      "value": {
-        "unit": "INR",
-        "max_value": "0.0",
-        "min_value": "0.0"
-      },
+      "value": null,
       "value_type": "currency_range"
     },
     {
@@ -125,7 +117,7 @@
     }
   ],
   "id": 8205445,
-  "updated_at": "2026-10-13T11:42:38-04:00",
+  "updated_at": "2026-10-15T12:56:28-04:00",
   "requisition_id": "3273551313",
   "title": "Partner Development Manager",
   "company_name": "MongoDB",

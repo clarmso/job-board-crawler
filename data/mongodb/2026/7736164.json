@@ -50,7 +50,7 @@
     {
       "id": 4914029,
       "name": "Job Level",
-      "value": "Senior Manager",
+      "value": "People Manager",
       "value_type": "single_select"
     },
     {
@@ -74,11 +74,7 @@
     {
       "id": 5525802,
       "name": "Baseline Budgeted Salary",
-      "value": {
-        "unit": "USD",
-        "max_value": "190000.0",
-        "min_value": "133000.0"
-      },
+      "value": null,
       "value_type": "currency_range"
     },
     {
@@ -125,7 +121,7 @@
     }
   ],
   "id": 7736164,
-  "updated_at": "2026-10-13T11:42:38-04:00",
+  "updated_at": "2026-10-15T14:55:52-04:00",
   "requisition_id": "1273394185",
   "title": "Senior Manager, Technical Revenue",
   "company_name": "MongoDB",

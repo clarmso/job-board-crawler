@@ -43,7 +43,7 @@
       "id": 4137836,
       "name": "Working Model Eligibility",
       "value": [
-        "3CF-Customer Facing Remote"
+        "2-Flexible"
       ],
       "value_type": "multi_select"
     },
@@ -74,7 +74,11 @@
     {
       "id": 5525802,
       "name": "Baseline Budgeted Salary",
-      "value": null,
+      "value": {
+        "unit": "USD",
+        "max_value": "160000.0",
+        "min_value": "160000.0"
+      },
       "value_type": "currency_range"
     },
     {
@@ -117,7 +121,7 @@
     }
   ],
   "id": 7967394,
-  "updated_at": "2026-10-14T17:31:02-04:00",
+  "updated_at": "2026-10-15T14:44:29-04:00",
   "requisition_id": "2273458699",
   "title": "Strategic Account Director",
   "company_name": "MongoDB",
@@ -135,9 +139,9 @@
   ],
   "offices": [
     {
-      "id": 95795,
-      "name": "Remote Connecticut",
-      "location": "Connecticut, United States",
+      "id": 3960,
+      "name": "New York City",
+      "location": "New York, NY, United States",
       "child_ids": [],
       "parent_id": 23657
     }

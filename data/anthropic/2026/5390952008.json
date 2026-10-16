@@ -23,7 +23,7 @@
     }
   ],
   "id": 5390952008,
-  "updated_at": "2026-09-10T13:28:42-04:00",
+  "updated_at": "2026-10-15T18:37:57-04:00",
   "requisition_id": "266662",
   "title": "GTM Strategy & Operations, Frontier",
   "company_name": "Anthropic",
@@ -41,9 +41,23 @@
   ],
   "offices": [
     {
+      "id": 4001219008,
+      "name": "New York City, NY",
+      "location": "New York, New York, United States",
+      "child_ids": [],
+      "parent_id": null
+    },
+    {
       "id": 4001218008,
       "name": "San Francisco, CA",
       "location": "San Francisco, California, United States",
+      "child_ids": [],
+      "parent_id": null
+    },
+    {
+      "id": 4001217008,
+      "name": "Seattle, WA",
+      "location": "Seattle, Washington, United States",
       "child_ids": [],
       "parent_id": null
     }

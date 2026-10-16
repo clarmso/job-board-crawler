@@ -99,15 +99,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "2ccd2ab7-91ee-435c-8aaa-5f855154dc28",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "f254b2df-9752-478c-945f-5908ef9c3c82",
             "summary": "Offers Bonus",
             "compensationType": "Bonus",
@@ -124,6 +115,15 @@
             "currencyCode": "USD",
             "minValue": 128000,
             "maxValue": 174000
+          },
+          {
+            "id": "2ccd2ab7-91ee-435c-8aaa-5f855154dc28",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           }
         ]
       }

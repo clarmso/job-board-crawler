@@ -100,15 +100,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "44c81de4-fe08-4a8d-a1ff-14fb5573bafc",
-            "summary": "PLN 170K – PLN 220K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "PLN",
-            "minValue": 170000,
-            "maxValue": 220000
-          },
-          {
             "id": "6eb490a2-afa0-4bb3-ba65-980899884f92",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
@@ -116,6 +107,15 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "44c81de4-fe08-4a8d-a1ff-14fb5573bafc",
+            "summary": "PLN 170K – PLN 220K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "PLN",
+            "minValue": 170000,
+            "maxValue": 220000
           }
         ]
       },
@@ -226,17 +226,17 @@
     ],
     "summaryComponents": [
       {
+        "compensationType": "EquityPercentage",
+        "minValue": null,
+        "maxValue": null,
+        "interval": "1 YEAR"
+      },
+      {
         "compensationType": "Salary",
         "interval": "1 YEAR",
         "currencyCode": "PLN",
         "minValue": 170000,
         "maxValue": 220000
-      },
-      {
-        "compensationType": "EquityPercentage",
-        "minValue": null,
-        "maxValue": null,
-        "interval": "1 YEAR"
       }
     ]
   }

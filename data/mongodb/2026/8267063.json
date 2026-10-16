@@ -87,9 +87,9 @@
       "id": 13324394,
       "name": "Job Post Range (United States)",
       "value": {
-        "unit": "USD",
-        "max_value": "176000.0",
-        "min_value": "90000.0"
+        "unit": "EUR",
+        "max_value": "0.0",
+        "min_value": "0.0"
       },
       "value_type": "currency_range"
     },
@@ -97,9 +97,9 @@
       "id": 40497768,
       "name": "Job Post Range (Canada)",
       "value": {
-        "unit": "CAD",
-        "max_value": "178000.0",
-        "min_value": "129000.0"
+        "unit": "EUR",
+        "max_value": "0.0",
+        "min_value": "0.0"
       },
       "value_type": "currency_range"
     },
@@ -117,7 +117,7 @@
     }
   ],
   "id": 8267063,
-  "updated_at": "2026-10-13T11:42:38-04:00",
+  "updated_at": "2026-10-15T14:54:12-04:00",
   "requisition_id": "3273577048",
   "title": "Senior Program Manager",
   "company_name": "MongoDB",

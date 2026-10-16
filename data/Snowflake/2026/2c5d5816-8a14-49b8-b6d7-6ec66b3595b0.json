@@ -6,7 +6,48 @@
   "employmentType": "FullTime",
   "location": "US-IL-Chicago-MSO",
   "shouldDisplayCompensationOnJobPostings": true,
-  "secondaryLocations": [],
+  "secondaryLocations": [
+    {
+      "location": "US-GA-Atlanta",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "Georgia",
+          "addressCountry": "United States",
+          "addressLocality": "Atlanta"
+        }
+      }
+    },
+    {
+      "location": "US-CA-Menlo Park",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "California",
+          "addressCountry": "United States",
+          "addressLocality": "Menlo Park"
+        }
+      }
+    },
+    {
+      "location": "US-WA-Bellevue",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "Washington",
+          "addressCountry": "United States",
+          "addressLocality": "Bellevue"
+        }
+      }
+    },
+    {
+      "location": "US-CO-Denver",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "Colorado",
+          "addressCountry": "United States",
+          "addressLocality": "Denver"
+        }
+      }
+    }
+  ],
   "publishedAt": "2026-10-06T19:24:33.491+00:00",
   "isListed": true,
   "isRemote": true,

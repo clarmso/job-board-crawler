@@ -81,6 +81,15 @@
         "additionalInformation": null,
         "components": [
           {
+            "id": "12e539f4-8c2f-4e23-94d3-f39ae2b027f0",
+            "summary": "€75K – €150K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "EUR",
+            "minValue": 75000,
+            "maxValue": 150000
+          },
+          {
             "id": "781914a1-4167-4e4e-a3f3-6c1a53e0f520",
             "summary": "Offers Bonus",
             "compensationType": "Bonus",
@@ -97,15 +106,6 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
-          },
-          {
-            "id": "12e539f4-8c2f-4e23-94d3-f39ae2b027f0",
-            "summary": "€75K – €150K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "EUR",
-            "minValue": 75000,
-            "maxValue": 150000
           }
         ]
       },
@@ -115,15 +115,6 @@
         "title": "Canada",
         "additionalInformation": null,
         "components": [
-          {
-            "id": "26d68290-9f66-4c8d-8f3f-3a701e12d768",
-            "summary": "Offers Bonus",
-            "compensationType": "Bonus",
-            "interval": "1 YEAR",
-            "currencyCode": "CAD",
-            "minValue": null,
-            "maxValue": null
-          },
           {
             "id": "56abe289-bf55-46ac-b105-80fdb60f7c35",
             "summary": "CA$190K – CA$220K",
@@ -139,6 +130,15 @@
             "compensationType": "EquityPercentage",
             "interval": "NONE",
             "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "26d68290-9f66-4c8d-8f3f-3a701e12d768",
+            "summary": "Offers Bonus",
+            "compensationType": "Bonus",
+            "interval": "1 YEAR",
+            "currencyCode": "CAD",
             "minValue": null,
             "maxValue": null
           }

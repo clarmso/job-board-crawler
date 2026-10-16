@@ -214,15 +214,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "5802da44-3817-4219-8031-23360dcf1e4b",
-            "summary": "Base Salary £108K – £125K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "GBP",
-            "minValue": 108000,
-            "maxValue": 125000
-          },
-          {
             "id": "4e013168-45b3-4f6b-b4d1-b73b48564eb9",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
@@ -230,6 +221,15 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "5802da44-3817-4219-8031-23360dcf1e4b",
+            "summary": "Base Salary £108K – £125K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "GBP",
+            "minValue": 108000,
+            "maxValue": 125000
           }
         ]
       }

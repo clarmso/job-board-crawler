@@ -12,7 +12,7 @@
   ],
   "internal_job_id": 3374882,
   "location": {
-    "name": "Austin; New York City"
+    "name": "Austin; New York City; United States"
   },
   "metadata": [
     {
@@ -84,11 +84,7 @@
     {
       "id": 5525816,
       "name": "Other Large Market Budgeted Salary",
-      "value": {
-        "unit": "USD",
-        "max_value": "191000.0",
-        "min_value": "134000.0"
-      },
+      "value": null,
       "value_type": "currency_range"
     },
     {
@@ -125,7 +121,7 @@
     }
   ],
   "id": 7668289,
-  "updated_at": "2026-10-13T11:42:38-04:00",
+  "updated_at": "2026-10-15T14:47:41-04:00",
   "requisition_id": "1273374882",
   "title": "Senior Site Reliability Engineer, Infrastructure Security",
   "company_name": "MongoDB",

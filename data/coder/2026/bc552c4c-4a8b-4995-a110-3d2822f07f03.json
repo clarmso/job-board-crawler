@@ -31,6 +31,15 @@
         "additionalInformation": "SEs are on base salary/30% variable split.",
         "components": [
           {
+            "id": "437f9673-be12-4bd7-8bef-70663be9f441",
+            "summary": "Offers Commission",
+            "compensationType": "Commission",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": null,
+            "maxValue": null
+          },
+          {
             "id": "a224eaf4-a29f-40f4-994c-c3340679ed13",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
@@ -47,15 +56,6 @@
             "currencyCode": "USD",
             "minValue": 154000,
             "maxValue": 209000
-          },
-          {
-            "id": "437f9673-be12-4bd7-8bef-70663be9f441",
-            "summary": "Offers Commission",
-            "compensationType": "Commission",
-            "interval": "1 YEAR",
-            "currencyCode": "USD",
-            "minValue": null,
-            "maxValue": null
           }
         ]
       },
@@ -132,6 +132,12 @@
     ],
     "summaryComponents": [
       {
+        "compensationType": "Commission",
+        "minValue": null,
+        "maxValue": null,
+        "interval": "1 YEAR"
+      },
+      {
         "compensationType": "EquityPercentage",
         "minValue": null,
         "maxValue": null,
@@ -143,12 +149,6 @@
         "currencyCode": "USD",
         "interval": "1 YEAR",
         "compensationType": "Salary"
-      },
-      {
-        "compensationType": "Commission",
-        "minValue": null,
-        "maxValue": null,
-        "interval": "1 YEAR"
       }
     ]
   }

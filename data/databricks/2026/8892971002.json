@@ -1,0 +1,62 @@
+{
+  "absolute_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8892971002",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 6355060002,
+  "location": {
+    "name": "Remote - Germany"
+  },
+  "metadata": [
+    {
+      "id": 9740521002,
+      "name": "Company Assignment",
+      "value": "Databricks U.K. Limited",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24059030002,
+      "name": "Career Page Posting Category",
+      "value": [
+        "Field Engineering"
+      ],
+      "value_type": "multi_select"
+    }
+  ],
+  "id": 8892971002,
+  "updated_at": "2026-10-15T14:27:39-04:00",
+  "requisition_id": "FEQ227R147",
+  "title": "Lead Solutions Architect - Generative AI (EMEA Emerging DNB)",
+  "company_name": "Databricks",
+  "first_published": "2026-10-15T14:27:39-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;&lt;strong&gt;REQ ID: FEQ227R147&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Location: Germany (Remote/Hybrid) - will require travel across Europe&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Recruiter: Dina Hussain&lt;/strong&gt;&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;About the Role&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;We are looking for a Lead Solution Architect focused on Generative AI to support our &lt;strong&gt;EMEA Emerging Digital Natives and Startups &lt;/strong&gt;business unit — one of the fastest-moving, most technically ambitious patches in EMEA. Our customers are digital-native and cloud-native companies who build on the frontier: they adopt GenAI early, scale fast, and expect their technical partners to be as sharp as their own engineers.&lt;/p&gt;\n&lt;p&gt;You will be the go-to expert our Account Teams and customers turn to when a GenAI or LLM use case needs to move from an ambitious idea to a production-grade reality across our high-growth accounts.&lt;/p&gt;\n&lt;p&gt;This is a highly technical, customer-facing individual contributor role for someone who lives at the frontier of applied GenAI. You will shape architectures, prove out the hard problems, challenge and influence customer roadmaps, and raise the GenAI capability of the entire EMEA Emerging DNB field organisation.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;What You&#39;ll Do&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Serve as the deep technical authority on Generative AI, LLMs, and applied machine learning for the EMEA Emerging DNB business unit, supporting the most strategic and complex customer engagements across our digital-native and born-in-the-cloud accounts.&lt;/li&gt;\n&lt;li&gt;Partner with our EMEA Emerging DNB Solutions Architects, Solutions Engineers, and Account teams to scope, design, and de-risk GenAI use cases — from retrieval-augmented generation and agentic systems to fine-tuning and evaluation.&lt;/li&gt;\n&lt;li&gt;Build hands-on proofs of concept and reference implementations that operationalise large-scale LLM and deep learning workloads on Databricks (Mosaic AI, MLflow, Model Serving, Vector Search, Unity Catalog governance), tuned to the fast iteration cycles Emerging DNB customers expect.&lt;/li&gt;\n&lt;li&gt;Lead fine-tuning and model-customisation engagements on open LLMs (e.g., Llama-family models), including judge-based and label-efficient evaluation approaches for domains where quality and safety are paramount.&lt;/li&gt;\n&lt;li&gt;Act as a bridge to Product and Engineering — channel field and customer feedback into the roadmap and represent the roadmap back to the field.&lt;/li&gt;\n&lt;li&gt;Enable and mentor the broader EMEA Emerging DNB Field Engineering team through workshops, reference architectures, and internal enablement, multiplying GenAI expertise across our ~70-person SA/SE organisation.&lt;/li&gt;\n&lt;li&gt;Represent Databricks externally as a technical thought leader — conference talks (e.g., Data + AI Summit), blogs, and customer executive briefings.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;What We&#39;re Looking For&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Strong understanding of the LLM landscape, including leading proprietary and open-source models and providers, with the ability to differentiate their capabilities, trade-offs, and suitability for different use cases, and to articulate a clear, informed point of view (POV) to customers.&lt;/li&gt;\n&lt;li&gt;Deep expertise in the modern GenAI stack: LLM application patterns (RAG, agents, tool use), fine-tuning and model customization, prompt and evaluation engineering, and LLM guardrails/safety.&lt;/li&gt;\n&lt;li&gt;Strong foundations in machine learning and deep learning, including distributed training, GPU workloads, and the full MLOps lifecycle (tracking, registry, serving, monitoring).&lt;/li&gt;\n&lt;li&gt;Proficiency in Python and the ML ecosystem (PyTorch/Transformers, MLflow, Spark), and comfort building production-quality reference implementations.&lt;/li&gt;\n&lt;li&gt;Experience with the Databricks platform — or the ability to ramp on it quickly — including Mosaic AI, Model Serving, Vector Search, and Unity Catalog. Cloud experience across AWS, Azure, or GCP.&lt;/li&gt;\n&lt;li&gt;Excellent communication and consultative skills: able to earn the trust of both hands-on engineers and senior technical executives, and to explain complex GenAI trade-offs clearly.&lt;/li&gt;\n&lt;li&gt;A track record of technical leadership and mentorship — someone who elevates the people around them.&lt;/li&gt;\n&lt;li&gt;Comfort operating at the pace of digital-native and high-growth customers, where speed, iteration, and technical credibility win the deal.&lt;/li&gt;\n&lt;li&gt;Based in the United Kingdom and able to work across EMEA time zones, with willingness to travel to customer sites within the region as needed.&lt;/li&gt;\n&lt;li&gt;Background helping digital-native customers build data and ML solutions (e.g., prior experience at a data/ML platform or consulting vendor) is a strong plus.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;Nice to Have&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Public technical presence: conference speaking, published talks, blogs, or open-source contributions in the ML/GenAI space.&lt;/li&gt;\n&lt;li&gt;Domain depth in a regulated or high-stakes industry (healthcare/life sciences, financial services) where model quality, evaluation, and safety are critical.&lt;/li&gt;\n&lt;li&gt;Experience partnering with Product and Engineering teams to influence roadmap.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;Why This Role&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;You will work on the hardest and most exciting GenAI problems our EMEA Emerging DNB customers have — companies building the future in real time — with the platform and the people to actually solve them, not just advise. You&#39;ll shape how one of EMEA&#39;s highest-growth business units adopts Generative AI, influence the direction of the product, and build a public profile as a recognised expert in the field. This is the role for a builder and a teacher, who wants their expertise to have outsized impact.&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;About Databricks&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-family: arial, sans-serif;&quot;&gt;Databricks is the Data and AI company. More than 20,000 organizations worldwide — including adidas, AT&amp;amp;T, Bayer, Block, Mastercard, Rivian, Unilever, and 70% of the Fortune 500 — rely on the Databricks Data + AI Platform to build and scale data and AI apps, analytics and agents. Headquartered in San Francisco with 30+ offices around the globe, Databricks offers a unified platform that includes Genie, Lakebase, Agent Bricks, Lakeflow, Lakehouse, and Unity Catalog. To learn more, follow Databricks on &lt;a href=&quot;https://www.linkedin.com/company/databricks&quot;&gt;LinkedIn&lt;/a&gt;, &lt;a href=&quot;https://x.com/databricks&quot;&gt;X&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/@Databricks&quot;&gt;YouTube&lt;/a&gt;, and &lt;a href=&quot;https://www.instagram.com/databricksinc/?hl=en&quot;&gt;Instagram&lt;/a&gt;.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Benefits&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;/span&gt;At Databricks, we strive to provide comprehensive benefits and perks that meet the needs of all of our employees. For specific details on the benefits offered in your region click &lt;a href=&quot;https://docs.google.com/document/d/154un3e8Xav4BceOSlcYFZRGEuQI54xMxVydRwQn54eQ/edit?usp=sharing&quot;&gt;here&lt;/a&gt;.&lt;br&gt;&lt;br&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Our Commitment to Diversity and Inclusion&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Compliance&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;If access to export-controlled technology or source code is required for performance of job duties, it is within Employer&#39;s discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4105217002,
+      "name": "Field Engineering - Other",
+      "child_ids": [],
+      "parent_id": 4069106002
+    }
+  ],
+  "offices": [
+    {
+      "id": 4000545002,
+      "name": "London, United Kingdom",
+      "location": "London, United Kingdom",
+      "child_ids": [],
+      "parent_id": 4033858002
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

@@ -50,7 +50,7 @@
     {
       "id": 4914029,
       "name": "Job Level",
-      "value": "Director",
+      "value": "People Manager",
       "value_type": "single_select"
     },
     {
@@ -84,11 +84,7 @@
     {
       "id": 5525816,
       "name": "Other Large Market Budgeted Salary",
-      "value": {
-        "unit": "USD",
-        "max_value": "174000.0",
-        "min_value": "122000.0"
-      },
+      "value": null,
       "value_type": "currency_range"
     },
     {
@@ -125,7 +121,7 @@
     }
   ],
   "id": 8069976,
-  "updated_at": "2026-10-13T11:42:38-04:00",
+  "updated_at": "2026-10-15T14:46:38-04:00",
   "requisition_id": "2273496616",
   "title": "Director, Strategic Events",
   "company_name": "MongoDB",
