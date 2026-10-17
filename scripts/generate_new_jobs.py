@@ -681,7 +681,9 @@ HTML_TEMPLATE = """<!DOCTYPE html>
     color: var(--muted);
     font-size: 0.85rem;
     margin-left: 0.5rem;
-    white-space: nowrap;
+  }}
+  .job-location {{
+    white-space: normal;
   }}
   .job-canada {{
     display: inline-block;
@@ -750,7 +752,7 @@ def _render_job_item(job):
 
     meta_parts = []
     if location:
-        meta_parts.append(html.escape(location))
+        meta_parts.append(f'<span class="job-location">{html.escape(location)}</span>')
     if badges_html:
         meta_parts.append(badges_html)
     meta = f'<span class="job-meta">{" ".join(meta_parts)}</span>' if meta_parts else ""
