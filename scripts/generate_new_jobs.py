@@ -159,28 +159,25 @@ def _is_canada_job(platform, job, is_remote=False):
 def _canada_signal_texts(platform, job):
     """Return every raw text fragment that could help determine whether
     this job is open to a Canada-based candidate, for use as the AI
-    classifier's input signal (ai_canada.py): the job title, every
-    location-ish field, and — where the ATS exposes them — arbitrary
-    per-company metadata/custom fields (which sometimes hold the *real*
-    location when the display location is generic, e.g. Greenhouse jobs
-    with location.name="Hybrid"/"Distributed" but a "Job Posting Location"
-    metadata entry or a structured `offices` entry naming the actual city).
+    classifier's input signal (ai_canada.py): the job title plus every
+    location-ish field.
 
     Deliberately broader than what _is_canada_job inspects: this is pure
     text-gathering (no keyword matching, no exact-match shortcuts), so it's
     safe to add fields here without touching the regex heuristic above.
     """
     if platform == "greenhouse":
-        texts = [job.get("title"), (job.get("location") or {}).get("name")]
-        for office in job.get("offices") or []:
-            texts.extend([office.get("name"), office.get("location")])
-        for meta in job.get("metadata") or []:
-            value = meta.get("value")
-            if isinstance(value, list):
-                texts.extend(value)
-            else:
-                texts.append(value)
-        return texts
+        # Greenhouse's `offices` and `metadata` can hold org-hierarchy/
+        # legal-entity data or multi-select fields shared identically
+        # across every sibling posting of the same req (e.g. an
+        # "Additional Offices" metadata value listing every location the
+        # req was posted in, or an `offices` entry naming a parent
+        # legal/admin office) — neither reflects where *this specific*
+        # posting is actually open to candidates. Having an office there
+        # doesn't mean the job is hiring at that location, so
+        # `location.name` (the one field that's reliably posting-specific)
+        # is the only location signal worth trusting here.
+        return [job.get("title"), (job.get("location") or {}).get("name")]
 
     if platform == "lever":
         categories = job.get("categories") or {}
@@ -358,9 +355,10 @@ def _all_locations(platform, job):
     titles, metadata) meant only for the AI classifier, not display.
     """
     if platform == "greenhouse":
-        offices = [office.get("name") for office in job.get("offices") or [] if office.get("name")]
-        if offices:
-            return list(dict.fromkeys(offices))
+        # `offices` can name a parent legal/admin entity rather than
+        # where the posting is actually open (see _canada_signal_texts) —
+        # having an office there doesn't mean the job is hiring at that
+        # location, so `location.name` is the only field trusted here.
         primary = (job.get("location") or {}).get("name")
         return [primary] if primary else []
 
