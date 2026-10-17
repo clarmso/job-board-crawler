@@ -351,29 +351,88 @@ def _normalize_mode(raw):
     return str(raw).title()
 
 
+def _all_locations(platform, job):
+    """Return an ordered, deduplicated list of this job's location strings,
+    for building a full multi-location display string. Distinct from
+    _canada_signal_texts, which also includes non-location noise (job
+    titles, metadata) meant only for the AI classifier, not display.
+    """
+    if platform == "greenhouse":
+        offices = [office.get("name") for office in job.get("offices") or [] if office.get("name")]
+        if offices:
+            return list(dict.fromkeys(offices))
+        primary = (job.get("location") or {}).get("name")
+        return [primary] if primary else []
+
+    if platform == "lever":
+        categories = job.get("categories") or {}
+        all_locations = [loc for loc in categories.get("allLocations") or [] if loc]
+        if all_locations:
+            return list(dict.fromkeys(all_locations))
+        primary = categories.get("location")
+        return [primary] if primary else []
+
+    if platform == "ashby":
+        locations = []
+        primary = job.get("location")
+        if primary:
+            locations.append(primary)
+        for secondary in job.get("secondaryLocations") or []:
+            loc = secondary.get("location")
+            if loc:
+                locations.append(loc)
+        return list(dict.fromkeys(locations))
+
+    if platform == "workable":
+        parts = []
+        for loc in job.get("locations") or []:
+            text = ", ".join(p for p in (loc.get("city"), loc.get("region"), loc.get("country")) if p)
+            if text:
+                parts.append(text)
+        if parts:
+            return list(dict.fromkeys(parts))
+        primary = ", ".join(p for p in (job.get("city"), job.get("state"), job.get("country")) if p)
+        return [primary] if primary else []
+
+    if platform == "smartrecruiters":
+        loc = job.get("location") or {}
+        text = loc.get("fullLocation") or loc.get("city")
+        return [text] if text else []
+
+    if platform == "gem":
+        name = (job.get("location") or {}).get("name")
+        return [name] if name else []
+
+    if platform == "rippling":
+        return list(dict.fromkeys(loc for loc in job.get("workLocations") or [] if loc))
+
+    return []
+
+
 def _extract(platform, job):
     """Return (title, url, company_name, location, mode) normalized across ATS platforms.
 
-    `location` is a human-readable string and `mode` is one of
-    "Remote" / "Hybrid" / "On-site" (or "" when unknown).
+    `location` is a human-readable string listing every location the
+    posting is open to (semicolon-separated when there's more than one),
+    and `mode` is one of "Remote" / "Hybrid" / "On-site" (or "" when
+    unknown).
     """
     if platform == "greenhouse":
-        location = (job.get("location") or {}).get("name", "")
+        location = "; ".join(_all_locations(platform, job))
         return (
             job.get("title"), job.get("absolute_url"), job.get("company_name"),
             location, _mode_from_text(location),
         )
     if platform == "lever":
-        categories = job.get("categories") or {}
-        location = categories.get("location") or ", ".join(categories.get("allLocations") or [])
+        location = "; ".join(_all_locations(platform, job))
         mode = _normalize_mode(job.get("workplaceType")) or _mode_from_text(location)
         return job.get("text"), job.get("hostedUrl"), None, location, mode
     if platform == "ashby":
-        location = job.get("location", "")
+        location = "; ".join(_all_locations(platform, job))
         mode = _normalize_mode(job.get("workplaceType")) or _mode_from_text(location)
         return job.get("title"), job.get("jobUrl"), None, location, mode
     if platform == "workable":
-        location = ", ".join(part for part in (job.get("city"), job.get("state"), job.get("country")) if part)
+        location = "; ".join(_all_locations(platform, job))
         mode = "Remote" if job.get("telecommuting") else _mode_from_text(location) or "On-site"
         return job.get("title"), job.get("url"), None, location, mode
     if platform == "smartrecruiters":
@@ -394,7 +453,7 @@ def _extract(platform, job):
         mode = _normalize_mode(job.get("location_type")) or _mode_from_text(location)
         return job.get("title"), job.get("absolute_url"), None, location, mode
     if platform == "rippling":
-        location = ", ".join(job.get("workLocations") or [])
+        location = "; ".join(_all_locations(platform, job))
         return job.get("name"), job.get("url"), job.get("companyName"), location, _mode_from_text(location)
     return None, None, None, "", ""
 
