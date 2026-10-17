@@ -74,21 +74,13 @@
     {
       "id": 5525802,
       "name": "Baseline Budgeted Salary",
-      "value": {
-        "unit": "USD",
-        "max_value": "140000.0",
-        "min_value": "98000.0"
-      },
+      "value": null,
       "value_type": "currency_range"
     },
     {
       "id": 5525816,
       "name": "Other Large Market Budgeted Salary",
-      "value": {
-        "unit": "USD",
-        "max_value": "119000.0",
-        "min_value": "83000.0"
-      },
+      "value": null,
       "value_type": "currency_range"
     },
     {
@@ -125,7 +117,7 @@
     }
   ],
   "id": 8157127,
-  "updated_at": "2026-10-15T12:56:28-04:00",
+  "updated_at": "2026-10-16T17:59:16-04:00",
   "requisition_id": "3273530477",
   "title": "Revenue Operations Manager",
   "company_name": "MongoDB",

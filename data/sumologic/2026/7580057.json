@@ -1,0 +1,63 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/sumologic/jobs/7580057",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 3351215,
+  "location": {
+    "name": "Noida, Uttar Pradesh, India"
+  },
+  "metadata": [
+    {
+      "id": 14333966,
+      "name": "Budgeted Comp Split",
+      "value": null,
+      "value_type": "short_text"
+    },
+    {
+      "id": 47699587,
+      "name": "Office Requirement",
+      "value": "Hybrid",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 7580057,
+  "updated_at": "2026-09-30T08:05:39-04:00",
+  "requisition_id": "3994",
+  "title": "Staff Software Engineer ",
+  "company_name": "Sumo Logic",
+  "first_published": "2026-02-10T05:44:45-05:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;h3&gt;Title: Staff Site Reliability Engineer, Cloud Cost &amp;amp; Engineering Efficiency&lt;br&gt;Location: Noida/ Bangalore (Hybrid)&lt;/h3&gt;\n&lt;h3&gt;&lt;strong&gt;Summary of role&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Sumo Logic&#39;s microservices architecture, hosted on AWS, ingests petabytes of data daily across many geographic regions in support of our planet-scale observability and security products, serving hundreds of millions of queries a day against thousands of petabytes of data. At that scale, every inefficiency — in code, architecture, or infrastructure — compounds into real cost.&lt;/p&gt;\n&lt;p&gt;This role sits within the Product SRE organization, working alongside your global SRE team on your product area&#39;s reliability roadmap — with a mandate that leads with code as much as operations. You&#39;ll find where Sumo&#39;s systems are spending more compute, storage, or engineering time than necessary, and fix it in the code and architecture, not just the infra config, while also carrying the fuller SRE mandate — reliability, security posture, and improving the day-to-day experience of the engineers within your product area. You&#39;ll be part of a team that blends SRE and backend software engineering skillsets, partnering closely with product engineering teams across your product area.&lt;/p&gt;\n&lt;p&gt;This is an engineering role — the work is about shipping code, architecture, and system-level changes that improve unit economics, not managing cost dashboards, tagging, or reserved-instance/savings-plan purchasing.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Continuously discover cost and efficiency opportunities through production profiling, telemetry, cost data, capacity trends, and system-level analysis — across algorithmic inefficiencies, resource-heavy code paths, and architectural decisions — and turn ambiguous problems into prioritized engineering initiatives.&lt;/li&gt;\n&lt;li&gt;Apply performance and capacity engineering techniques to understand CPU, memory, storage, network, and I/O behavior under real production workloads, and optimize the resulting resource footprint.&lt;/li&gt;\n&lt;li&gt;Write production-grade code to implement the optimizations you identify — JVM/GC tuning, algorithmic and resource-efficiency improvements, re-architecting inefficient services — in systems that process petabytes of data daily.&lt;/li&gt;\n&lt;li&gt;Define and track engineering efficiency metrics such as cost per GB ingested, cost per query, cost per event, resource utilization, or cost per customer workload, and translate the work into measurable impact for engineering and business stakeholders.&lt;/li&gt;\n&lt;li&gt;Lead complex, cross-team engineering initiatives from problem discovery through design, implementation, rollout, and measurement — influencing teams where you don&#39;t have direct ownership — and help establish engineering patterns and practices that make cost and efficiency a continuous part of the development lifecycle.&lt;/li&gt;\n&lt;li&gt;Partner with engineering teams in your product area to prioritize changes, and with developer infrastructure and Global SRE to align with the broader reliability roadmap.&lt;/li&gt;\n&lt;li&gt;Participate in the SRE responsibilities for different product areas — SLOs, on-call, incident response, and blameless RCA — using those experiences to identify systemic reliability, performance, and efficiency improvements.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;What you’ll have&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;B.Tech, M.Tech, or equivalent degree in Computer Science or a related discipline.&lt;/li&gt;\n&lt;li&gt;8+ years of industry experience with a demonstrated track record of ownership.&lt;/li&gt;\n&lt;li&gt;Strong CS fundamentals — comfortable with algorithmic complexity, data-structure performance characteristics, and system design at scale.&lt;/li&gt;\n&lt;li&gt;Ability to author production-ready code in at least one OO/systems language (Java, Scala, Go, C++, or similar) — depth of engineering ability matters more than which language.&lt;/li&gt;\n&lt;li&gt;Experience with distributed systems and microservice architectures in production.&lt;/li&gt;\n&lt;li&gt;Demonstrated track record of independently identifying ambiguous performance, scalability, or cost problems and driving engineering changes that produced measurable improvements in production.&lt;/li&gt;\n&lt;li&gt;Strong ability to reason quantitatively about system behavior, capacity, performance, and cost, and use production data to validate hypotheses and measure outcomes.&lt;/li&gt;\n&lt;li&gt;Working fluency with cloud infrastructure (AWS compute, storage, networking) — enough to reason about cost and architectural tradeoffs.&lt;/li&gt;\n&lt;li&gt;Comfort moving across the stack, from application code to the infrastructure it runs on, to find root causes of inefficiency.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Nice to have&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;JVM tuning and GC optimization experience at scale.&lt;/li&gt;\n&lt;li&gt;Exposure to cost-attribution/FinOps practices or tooling.&lt;/li&gt;\n&lt;li&gt;Experience with Kubernetes, Terraform, or modern CI/CD tooling.&lt;/li&gt;\n&lt;li&gt;Prior SRE experience — on-call, SLOs, incident response.&lt;/li&gt;\n&lt;li&gt;Experience with streaming technologies (Kafka, Kafka Streams) or observability/security platforms.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Why this role&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Visibility — &lt;/strong&gt;Cost/efficiency work maps directly to metrics the business already tracks.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Scope you define — &lt;/strong&gt;you identify where the opportunities are rather than executing a fixed backlog.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Real scale — &lt;/strong&gt;systems ingesting petabytes of data daily and serving hundreds of millions of queries.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;About Us&lt;/h3&gt;\n&lt;p&gt;Sumo Logic, Inc. helps make the digital world secure, fast, and reliable by unifying critical security and operational data through its Intelligent Operations Platform. Built to address the increasing complexity of modern cybersecurity and cloud operations challenges, we empower digital teams to move from reaction to readiness—combining agentic AI-powered SIEM and log analytics into a single platform to detect, investigate, and resolve modern challenges. Customers around the world rely on Sumo Logic for trusted insights to protect against security threats, ensure reliability, and gain powerful insights into their digital environments. For more information, visit&lt;a href=&quot;http://www.sumologic.com/&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=http://www.sumologic.com/&amp;amp;source=gmail&amp;amp;ust=1763582776811000&amp;amp;usg=AOvVaw2tkPOBgFpGkG4SEdY6I_TY&quot;&gt;&amp;nbsp;www.sumologic.com.&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;&lt;a href=&quot;https://www.sumologic.com/privacy-statement/&quot;&gt;Sumo Logic Privacy Policy&lt;/a&gt;. Employees will be responsible for complying with applicable federal privacy laws and regulations, as well as organizational policies related to data protection.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;",
+  "departments": [
+    {
+      "id": 2317,
+      "name": "Software Engineering",
+      "child_ids": [],
+      "parent_id": 72142
+    }
+  ],
+  "offices": [
+    {
+      "id": 45881,
+      "name": "India",
+      "location": "Noida, Uttar Pradesh, India",
+      "child_ids": [
+        65635,
+        1044
+      ],
+      "parent_id": 45801
+    }
+  ],
+  "ai_disclaimer": "<p>We use Greenhouse’s AI-powered Talent Matching tool to compare your application against our job requirements.</p>",
+  "include_ai_disclaimer": true,
+  "ai_opt_out_request_url": "http://app.greenhouse.io/ai_opt_out_request/job_post/7580057/ai_opt_out"
+}

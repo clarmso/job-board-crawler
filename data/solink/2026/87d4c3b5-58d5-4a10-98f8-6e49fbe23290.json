@@ -44,13 +44,13 @@
     "scrapeableCompensationSalarySummary": "CA$124,885 - CA$172,000",
     "compensationTiers": [
       {
-        "id": "cc302d89-dc14-4e58-a008-18b04bc9f271",
+        "id": "7e3b8db5-0740-49c1-95fd-d9d3dff5e1fe",
         "tierSummary": "OTE CA$124,885 – CA$172,000 • Offers Equity",
         "title": "Canada",
         "additionalInformation": null,
         "components": [
           {
-            "id": "9b9eb433-d795-47da-9d4b-5cf1cd3c66f8",
+            "id": "3f17ba89-a88b-42d2-afeb-5a2d9f10f230",
             "summary": "OTE CA$124,885 – CA$172,000",
             "compensationType": "Salary",
             "interval": "1 YEAR",
@@ -59,7 +59,7 @@
             "maxValue": 172000
           },
           {
-            "id": "885b7c1e-4362-4e9f-a6f4-6ecded69bd3b",
+            "id": "77505177-f13c-411d-b2c5-c8aed7fa4a5e",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
             "interval": "NONE",
@@ -70,13 +70,13 @@
         ]
       },
       {
-        "id": "bd71bce8-3469-4ddd-883d-3c58e54bea65",
+        "id": "3e9a0c62-7f40-4717-8f6b-9d72877168d5",
         "tierSummary": "OTE $173,074 – $237,977 • Offers Equity",
         "title": "United States",
         "additionalInformation": null,
         "components": [
           {
-            "id": "3b7664da-b8c8-44b1-9b48-0385df6722a3",
+            "id": "6927002c-a8d5-410b-953b-d2e783fb80f3",
             "summary": "OTE $173,074 – $237,977",
             "compensationType": "Salary",
             "interval": "1 YEAR",
@@ -85,7 +85,7 @@
             "maxValue": 237977
           },
           {
-            "id": "15e24823-1fc6-41b1-91f5-cbab53b39e35",
+            "id": "1a5c5d68-0700-488e-b534-2ef03589258a",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
             "interval": "NONE",

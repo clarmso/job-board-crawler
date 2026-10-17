@@ -44,13 +44,13 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "26d69ae2-bfeb-42e3-aa23-155f4e4cfa08",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
+            "id": "60b6fa44-7a79-4024-b7ef-8f86fbfab42b",
+            "summary": "Estimated Base Salary SGD 155K – SGD 175K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "SGD",
+            "minValue": 155000,
+            "maxValue": 175000
           },
           {
             "id": "7dda6cf8-2b4e-49f8-8269-203f9cd455ff",
@@ -62,24 +62,24 @@
             "maxValue": null
           },
           {
-            "id": "60b6fa44-7a79-4024-b7ef-8f86fbfab42b",
-            "summary": "Estimated Base Salary SGD 155K – SGD 175K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "SGD",
-            "minValue": 155000,
-            "maxValue": 175000
+            "id": "26d69ae2-bfeb-42e3-aa23-155f4e4cfa08",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           }
         ]
       }
     ],
     "summaryComponents": [
       {
-        "compensationType": "EquityPercentage",
-        "interval": "NONE",
-        "currencyCode": null,
-        "minValue": null,
-        "maxValue": null
+        "compensationType": "Salary",
+        "interval": "1 YEAR",
+        "currencyCode": "SGD",
+        "minValue": 155000,
+        "maxValue": 175000
       },
       {
         "compensationType": "Bonus",
@@ -89,11 +89,11 @@
         "maxValue": null
       },
       {
-        "compensationType": "Salary",
-        "interval": "1 YEAR",
-        "currencyCode": "SGD",
-        "minValue": 155000,
-        "maxValue": 175000
+        "compensationType": "EquityPercentage",
+        "interval": "NONE",
+        "currencyCode": null,
+        "minValue": null,
+        "maxValue": null
       }
     ]
   }

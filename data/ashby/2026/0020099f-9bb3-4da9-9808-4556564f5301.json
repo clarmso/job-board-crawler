@@ -100,15 +100,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "e5cd3ef4-f9e5-4a7e-9fad-e8af330276e4",
-            "summary": "£203K – £246K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "GBP",
-            "minValue": 203000,
-            "maxValue": 246000
-          },
-          {
             "id": "f106bda6-c041-4212-817c-ed8d898087b5",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
@@ -116,6 +107,15 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "e5cd3ef4-f9e5-4a7e-9fad-e8af330276e4",
+            "summary": "£203K – £246K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "GBP",
+            "minValue": 203000,
+            "maxValue": 246000
           }
         ]
       }

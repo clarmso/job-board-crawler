@@ -26,7 +26,7 @@
       "name": "Job Posting Location",
       "value": [
         "Atlanta, GA",
-        "Miami, FL"
+        "US"
       ],
       "value_type": "multi_select"
     },
@@ -40,7 +40,7 @@
     }
   ],
   "id": 8275434,
-  "updated_at": "2026-10-13T20:57:01-04:00",
+  "updated_at": "2026-10-16T11:41:30-04:00",
   "requisition_id": null,
   "title": "Senior Account Executive, Startups (Southeast)",
   "company_name": "Cloudflare",
@@ -58,15 +58,8 @@
   ],
   "offices": [
     {
-      "id": 72999,
-      "name": "Charlotte, NC",
-      "location": null,
-      "child_ids": [],
-      "parent_id": 48752
-    },
-    {
-      "id": 67053,
-      "name": "Raleigh, NC",
+      "id": 66815,
+      "name": "Atlanta, GA",
       "location": null,
       "child_ids": [],
       "parent_id": 48752

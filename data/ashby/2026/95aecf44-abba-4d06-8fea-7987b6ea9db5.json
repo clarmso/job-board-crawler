@@ -2,7 +2,7 @@
   "id": "95aecf44-abba-4d06-8fea-7987b6ea9db5",
   "title": "Manager, Product Support - APAC",
   "department": "Customer Success",
-  "team": "Customer Support",
+  "team": "Technical Support",
   "employmentType": "FullTime",
   "location": "Australia",
   "shouldDisplayCompensationOnJobPostings": true,
@@ -100,15 +100,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "13ecb5ed-b481-409d-93e5-32d60f5befc9",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "9564f3da-2590-4ca2-8b30-bbfd42ab8ffe",
             "summary": "A$186,000 – A$230,000",
             "compensationType": "Salary",
@@ -116,6 +107,15 @@
             "currencyCode": "AUD",
             "minValue": 186000,
             "maxValue": 230000
+          },
+          {
+            "id": "13ecb5ed-b481-409d-93e5-32d60f5befc9",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           }
         ]
       },
@@ -152,15 +152,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "4fb3a7a8-c862-4eb2-8548-d482ab3cd7bd",
-            "summary": "¥14,395,500 – ¥18,724,000",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "JPY",
-            "minValue": 14395500,
-            "maxValue": 18724000
-          },
-          {
             "id": "c7e14ac7-d97f-4f57-80a0-cfe1590b362d",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
@@ -168,6 +159,15 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "4fb3a7a8-c862-4eb2-8548-d482ab3cd7bd",
+            "summary": "¥14,395,500 – ¥18,724,000",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "JPY",
+            "minValue": 14395500,
+            "maxValue": 18724000
           }
         ]
       },

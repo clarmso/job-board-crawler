@@ -4,16 +4,20 @@
   "department": "Customer Success",
   "team": "Customer Success",
   "employmentType": "FullTime",
-  "location": "UK - Remote",
+  "location": "Austin, Texas - Hybrid",
   "shouldDisplayCompensationOnJobPostings": false,
   "secondaryLocations": [],
   "publishedAt": "2026-10-09T00:07:55.915+00:00",
   "isListed": true,
   "isRemote": true,
-  "workplaceType": "Remote",
+  "workplaceType": "Hybrid",
   "address": {
     "postalAddress": {
-      "addressCountry": "United Kingdom"
+      "postalCode": "78701",
+      "addressRegion": "Texas",
+      "streetAddress": "515 N Congress Ave",
+      "addressCountry": "United States",
+      "addressLocality": "Austin"
     }
   },
   "jobUrl": "https://jobs.ashbyhq.com/redpanda-data/e97eda3f-c629-4f9e-af05-071d5fe9030b",

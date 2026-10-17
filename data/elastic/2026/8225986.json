@@ -24,7 +24,14 @@
     {
       "id": 168141,
       "name": "Target Remote Countries / States Locations [For Job Wrapping]",
-      "value": [],
+      "value": [
+        "Canada",
+        "Greece",
+        "Poland",
+        "Portugal",
+        "Spain",
+        "United Kingdom"
+      ],
       "value_type": "multi_select"
     },
     {
@@ -53,7 +60,7 @@
     }
   ],
   "id": 8225986,
-  "updated_at": "2026-10-01T12:57:36-04:00",
+  "updated_at": "2026-10-16T06:40:56-04:00",
   "requisition_id": "R11654",
   "title": "Senior Java Engineer - Core/ Infra - Elasticsearch",
   "company_name": "Elastic",

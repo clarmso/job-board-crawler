@@ -25,7 +25,8 @@
       "id": 8654220,
       "name": "Job Posting Location",
       "value": [
-        "Lisbon, Portugal"
+        "Lisbon, Portugal",
+        "London, UK"
       ],
       "value_type": "multi_select"
     },
@@ -39,9 +40,9 @@
     }
   ],
   "id": 8063946,
-  "updated_at": "2026-10-13T20:57:01-04:00",
+  "updated_at": "2026-10-16T08:11:48-04:00",
   "requisition_id": null,
-  "title": "Customer Experience Manager - French Speaking",
+  "title": "Customer Experience Manager - French and Spanish or Italian Speaking",
   "company_name": "Cloudflare",
   "first_published": "2026-07-17T07:21:10-04:00",
   "language": "en",
@@ -60,6 +61,13 @@
       "id": 63782,
       "name": "Lisbon, Portugal",
       "location": "Lisboa, Lisboa, Portugal",
+      "child_ids": [],
+      "parent_id": 74843
+    },
+    {
+      "id": 19988,
+      "name": "London, United Kingdom",
+      "location": "London, United Kingdom",
       "child_ids": [],
       "parent_id": 74843
     }

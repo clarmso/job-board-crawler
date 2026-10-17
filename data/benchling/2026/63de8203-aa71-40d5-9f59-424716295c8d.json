@@ -6,7 +6,18 @@
   "employmentType": "FullTime",
   "location": "San Francisco, CA",
   "shouldDisplayCompensationOnJobPostings": true,
-  "secondaryLocations": [],
+  "secondaryLocations": [
+    {
+      "location": "Boston, MA",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "Massachusetts",
+          "addressCountry": "United States",
+          "addressLocality": "Boston"
+        }
+      }
+    }
+  ],
   "publishedAt": "2026-09-23T21:44:59.619+00:00",
   "isListed": true,
   "isRemote": true,

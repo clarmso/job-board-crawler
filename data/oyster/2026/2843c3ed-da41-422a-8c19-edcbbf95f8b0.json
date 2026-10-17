@@ -230,15 +230,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "755e2b8a-dd47-4885-9aba-67ff802db515",
-            "summary": "Total OTE Range: 170 000 - 200 000 OTE / Base salary range: PLN 102K – PLN 120K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "PLN",
-            "minValue": 102000,
-            "maxValue": 120000
-          },
-          {
             "id": "d19b6a46-21c7-4d9f-a368-cc13cd3a5c4a",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
@@ -246,6 +237,15 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "755e2b8a-dd47-4885-9aba-67ff802db515",
+            "summary": "Total OTE Range: 170 000 - 200 000 OTE / Base salary range: PLN 102K – PLN 120K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "PLN",
+            "minValue": 102000,
+            "maxValue": 120000
           }
         ]
       },

@@ -4,7 +4,7 @@
   "department": "Engineering",
   "team": "ENG-MCP & AI Gateway",
   "employmentType": "FullTime",
-  "location": "United States",
+  "location": "San Francisco, CA or Seattle, WA",
   "shouldDisplayCompensationOnJobPostings": false,
   "secondaryLocations": [],
   "publishedAt": "2026-10-15T21:00:11.288+00:00",
@@ -13,7 +13,9 @@
   "workplaceType": "Remote",
   "address": {
     "postalAddress": {
-      "addressCountry": "United States"
+      "addressRegion": " Washington",
+      "addressCountry": "United States",
+      "addressLocality": "Seattle"
     }
   },
   "jobUrl": "https://jobs.ashbyhq.com/docker/30babe0a-57e8-4425-8991-8797e8337e82",

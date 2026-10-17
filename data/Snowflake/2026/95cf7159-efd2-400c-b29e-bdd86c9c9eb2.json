@@ -4,7 +4,7 @@
   "department": "Solution Engineering",
   "team": "Solution Engineering",
   "employmentType": "FullTime",
-  "location": "US-GA-Atlanta",
+  "location": "US-NJ-Remote",
   "shouldDisplayCompensationOnJobPostings": true,
   "secondaryLocations": [
     {
@@ -20,13 +20,13 @@
   ],
   "publishedAt": "2026-08-13T22:03:55.141+00:00",
   "isListed": true,
-  "isRemote": null,
-  "workplaceType": null,
+  "isRemote": true,
+  "workplaceType": "Remote",
   "address": {
     "postalAddress": {
-      "addressRegion": "Georgia",
+      "addressRegion": "New Jersey",
       "addressCountry": "United States",
-      "addressLocality": "Atlanta"
+      "addressLocality": "Remote"
     }
   },
   "jobUrl": "https://jobs.ashbyhq.com/Snowflake/95cf7159-efd2-400c-b29e-bdd86c9c9eb2",
@@ -38,13 +38,13 @@
     "scrapeableCompensationSalarySummary": "$165,000 - $216,562",
     "compensationTiers": [
       {
-        "id": "8e67fc86-91ce-41d4-a877-09350eb29ba6",
+        "id": "cd08e9a6-d755-4d9e-a7f8-7b21f60c2797",
         "tierSummary": "$165,000 – $216,562",
         "title": null,
         "additionalInformation": null,
         "components": [
           {
-            "id": "6ffb2721-f752-45fb-9141-11ba3282bbce",
+            "id": "c66be991-1a5b-4648-831a-649465fe544a",
             "summary": "$165,000 – $216,562",
             "compensationType": "Salary",
             "interval": "1 YEAR",

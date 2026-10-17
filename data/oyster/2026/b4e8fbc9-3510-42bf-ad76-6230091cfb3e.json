@@ -152,15 +152,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "4b786d6d-9b22-4e7a-9e92-1dc98ceebd24",
-            "summary": "HUF 13M – HUF 15M",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "HUF",
-            "minValue": 13000000,
-            "maxValue": 15000000
-          },
-          {
             "id": "8ff1fff4-21e0-4786-82b7-cfd4349b984b",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
@@ -168,6 +159,15 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "4b786d6d-9b22-4e7a-9e92-1dc98ceebd24",
+            "summary": "HUF 13M – HUF 15M",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "HUF",
+            "minValue": 13000000,
+            "maxValue": 15000000
           }
         ]
       },

@@ -1,0 +1,60 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/sumologic/jobs/8203796",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 3532664,
+  "location": {
+    "name": "Melbourne, Victoria, Australia"
+  },
+  "metadata": [
+    {
+      "id": 14333966,
+      "name": "Budgeted Comp Split",
+      "value": "70/30",
+      "value_type": "short_text"
+    },
+    {
+      "id": 47699587,
+      "name": "Office Requirement",
+      "value": "Remote",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8203796,
+  "updated_at": "2026-09-15T07:20:08-04:00",
+  "requisition_id": "4088",
+  "title": "Senior Solutions Engineer",
+  "company_name": "Sumo Logic",
+  "first_published": "2026-09-15T07:20:08-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;As a Senior Solutions Engineer, you will be the primary technical resource for our ANZ Accounts team. You will share your product and technical expertise across security and observability use cases, through presentations, product demonstrations, and technical evaluations (Proof Of Values). As the technical expert, you will work with clients to understand their requirements and pain points, then design the right solution for their business needs. During the sales cycle you will guide customers&amp;nbsp; through POVs, demonstrating Sumo Logic’s ability to meet and exceed their requirements and building a positive relationship that will provide continuous value to our customers. Finally, you will have the opportunity to work cross-functionally with our Product Management and Engineering teams to share your knowledge and experiences to ultimately improve our business and our customers’ success.&lt;/p&gt;\n&lt;p&gt;We seek talent who wants to leverage their technical and people skills to help deliver solutions to clients directly and become a trusted advisor in the process. Above all else, you should be highly self-motivated and extremely curious to learn more Sumo Logic and the vast problems that it can solve.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Partner with the Account Executives / Account Managers to understand customer challenges and mains, and articulate Sumo Logic’s value proposition, vision, and strategy to customers&lt;/li&gt;\n&lt;li&gt;Technically close complex opportunities through advanced competitive knowledge, technical skill, and credibility&lt;/li&gt;\n&lt;li&gt;Understand and help orchestrate all phases of the sales cycle, including leading technical validations during the Proof of Value phase&lt;/li&gt;\n&lt;li&gt;Be successful working with all levels of an organization, from executives down to individual developers and Site Reliability Engineers&lt;/li&gt;\n&lt;li&gt;Deliver product and technical demonstrations of the Sumo Logic service&lt;/li&gt;\n&lt;li&gt;Work cross functionally with Product Management and Engineering to improve the Sumo Logic service based on your experience with customers&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Requirements&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;B.S. in Computer Science, Engineering, or a related field; M.S. in Computer Science, Engineering, or a related field (preferred)&lt;/li&gt;\n&lt;li&gt;4+ years as a Solutions Engineer (preferred), Solutions Architect (preferred), Sales Engineer (preferred), Implementation Consultant, Support Engineer, Site Reliability Engineer, or a Software Developer with experience leading projects and/or working with customers&lt;/li&gt;\n&lt;li&gt;Hands on knowledge of Security related products, technologies, and sources such as IDS/IPS, SIEM/Log Management, Network / Endpoint Security, Threat Detection, Incident Response, MSSP/MDR, Threat Feeds, CASB, etc&lt;/li&gt;\n&lt;li&gt;Experience with open source collections (Telegraf, FluentBit, FluentD, Open Telemetry, etc.) (preferred)&lt;/li&gt;\n&lt;li&gt;Experience with leading and running technical validations like Proof of Value (preferred)&lt;/li&gt;\n&lt;li&gt;Experience selling and working with pure SaaS solutions in multi-tenant architectures&lt;/li&gt;\n&lt;li&gt;Experience with Amazon Web Services (AWS), Google Cloud Platform (GCP), Microsoft Azure (certification is preferred)&lt;/li&gt;\n&lt;li&gt;A broad background and understanding of technical infrastructure (servers, networking devices, storage, etc.)&lt;/li&gt;\n&lt;li&gt;Modern application architecture (micro-services, containers) understanding and experience working with Kubernetes, Docker, and/or Lambda (preferred)&lt;/li&gt;\n&lt;li&gt;Experience with various monitoring tools like Splunk, Datadog, Elastic, New Relic, etc. (preferred)&lt;/li&gt;\n&lt;li&gt;Comfortable working in a dynamic, fast-paced startup environment and experience at a successful startup (preferred)&lt;/li&gt;\n&lt;li&gt;Strong written and verbal communication skills, as well as business and technical acumen&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;About Us&lt;/strong&gt;&lt;br&gt;Sumo Logic, Inc. helps make the digital world secure, fast, and reliable by unifying critical security and operational data through its Intelligent Operations Platform. Built to address the increasing complexity of modern cybersecurity and cloud operations challenges, we empower digital teams to move from reaction to readiness—combining agentic AI-powered SIEM and log analytics into a single platform to detect, investigate, and resolve modern challenges. Customers around the world rely on Sumo Logic for trusted insights to protect against security threats, ensure reliability, and gain powerful insights into their digital environments. For more information, visit www.sumologic.com.&lt;br&gt;Sumo Logic Privacy Policy. Employees will be responsible for complying with applicable federal privacy laws and regulations, as well as organizational policies related to data protection.&lt;br&gt;#LI-REMOTE&lt;/p&gt;",
+  "departments": [
+    {
+      "id": 2547,
+      "name": "Sales Engineering",
+      "child_ids": [],
+      "parent_id": 7379
+    }
+  ],
+  "offices": [
+    {
+      "id": 76199,
+      "name": "Sydney, New South Wales, Australia",
+      "location": "Sydney, New South Wales, Australia",
+      "child_ids": [],
+      "parent_id": 76197
+    }
+  ],
+  "ai_disclaimer": "<p>We use Greenhouse’s AI-powered Talent Matching tool to compare your application against our job requirements.</p>",
+  "include_ai_disclaimer": true,
+  "ai_opt_out_request_url": "http://app.greenhouse.io/ai_opt_out_request/job_post/8203796/ai_opt_out"
+}

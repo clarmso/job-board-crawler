@@ -8,6 +8,16 @@
   "shouldDisplayCompensationOnJobPostings": true,
   "secondaryLocations": [
     {
+      "location": "Hub - New York",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "New York",
+          "addressCountry": "United States",
+          "addressLocality": "New York"
+        }
+      }
+    },
+    {
       "location": "Hub - Seattle",
       "address": {
         "postalAddress": {

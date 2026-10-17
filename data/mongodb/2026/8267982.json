@@ -1,0 +1,148 @@
+{
+  "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=8267982",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3577424,
+  "location": {
+    "name": "Dublin"
+  },
+  "metadata": [
+    {
+      "id": 22194060,
+      "name": "Position ID",
+      "value": "10008107",
+      "value_type": "short_text"
+    },
+    {
+      "id": 24918,
+      "name": "Department ID",
+      "value": "D41650-Scaled Customer Success",
+      "value_type": "single_select"
+    },
+    {
+      "id": 22194061,
+      "name": "Team",
+      "value": "T10236-Scaled CS",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4914027,
+      "name": "Region",
+      "value": "EMEA",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4137836,
+      "name": "Working Model Eligibility",
+      "value": [
+        "2-Flexible"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 4914029,
+      "name": "Job Level",
+      "value": "Professional - IC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24109,
+      "name": "Employment Type",
+      "value": "Full-time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 1073551,
+      "name": "Job Type",
+      "value": "Standard",
+      "value_type": "single_select"
+    },
+    {
+      "id": 988684,
+      "name": "JD Link",
+      "value": "https://docs.google.com/document/d/1JCwdI-rzh3QX9cPkuTiN8_WQz5EOdl5Y990o5e46NiM/edit?tab=t.0",
+      "value_type": "url"
+    },
+    {
+      "id": 5525802,
+      "name": "Baseline Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 5525816,
+      "name": "Other Large Market Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 13324394,
+      "name": "Job Post Range (United States)",
+      "value": {
+        "unit": "EUR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 40497768,
+      "name": "Job Post Range (Canada)",
+      "value": {
+        "unit": "EUR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 57694516,
+      "name": "Job Post Range (Poland)",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 64002488,
+      "name": "Job Post Range (Italy)",
+      "value": null,
+      "value_type": "currency_range"
+    }
+  ],
+  "id": 8267982,
+  "updated_at": "2026-10-16T17:59:16-04:00",
+  "requisition_id": "3273577424",
+  "title": "Solutions Architect",
+  "company_name": "MongoDB",
+  "first_published": "2026-10-16T13:14:19-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;At MongoDB, we&#39;re looking for a technically accomplished Solutions Architect who thrives on solving complex problems, understanding how systems work, and helping customers make better architectural decisions. You&#39;ll work with established MongoDB customers running production applications, applying hands-on expertise across databases, distributed systems, cloud infrastructure, application architecture, and emerging AI technologies.&lt;/p&gt;\n&lt;p&gt;As part of a globally distributed Solutions Architecture team, you&#39;ll engage with customers across multiple EMEA markets rather than being dedicated to a small number of accounts. This regional reach offers exposure to diverse industries, technologies, and architectural challenges, with opportunities to recognize patterns, build trusted technical relationships, and influence decisions across a broad customer landscape. You&#39;ll have the autonomy to drive meaningful technical engagements while drawing on the expertise of specialists and colleagues worldwide.&lt;/p&gt;\n&lt;p&gt;We value architects who look beyond the immediate problem, investigate underlying causes, challenge assumptions, and bring informed technical perspectives to customer conversations.&lt;/p&gt;\n&lt;p&gt;You&#39;ll help customers optimize what they run today while influencing the architectures and applications they build tomorrow.&lt;/p&gt;\n&lt;p&gt;We are looking to speak to candidates who are based in Dublin for our hybrid working model.&lt;/p&gt;\n&lt;h3&gt;What You&#39;ll Do&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Optimize Production Architectures: Analyze MongoDB workloads, query execution, indexing, data models, cluster configurations, and resource utilization. Identify performance bottlenecks, scalability constraints, and cost optimization opportunities&lt;/li&gt;\n&lt;li&gt;Engineer for Resilience and Scale: Evaluate distributed architectures, replication, sharding, high availability, backup and recovery, and disaster recovery strategies. Help customers understand technical trade-offs and design for evolving production requirements&lt;/li&gt;\n&lt;li&gt;Think Beyond the Database: Assess how MongoDB interacts with application services, APIs, networking, security, cloud infrastructure, and adjacent technologies. Identify opportunities to simplify architectures, reduce technical debt, and improve operational efficiency&lt;/li&gt;\n&lt;li&gt;Shape Future-State Architecture: Guide technical discussions around application modernization, cloud-native design, and AI-powered applications. Explore architectural considerations involving Search, Vector Search, RAG, intelligent agents, and their integration with operational data&lt;/li&gt;\n&lt;li&gt;Lead Technical Discovery and Design: Engage developers, architects, and engineering leaders to investigate complex challenges, analyze technical evidence, assess architectural trade-offs, and develop actionable recommendations. Provide hands-on technical investigation and targeted validation to guide decisions, rather than owning ongoing support cases or implementation projects&lt;/li&gt;\n&lt;li&gt;Improve How Customers Build and Operate: Look beyond technology to understand development workflows, operational practices, team capabilities, and architectural ownership. Identify opportunities to improve how applications are developed, deployed, and managed&lt;/li&gt;\n&lt;li&gt;Build Trusted Technical Relationships: Establish credibility through technical expertise, curiosity, and sound judgment. Proactively identify architectural risks and opportunities, challenge assumptions constructively, and collaborate with MongoDB Technical Support, Professional Services, and product specialists when deeper troubleshooting or implementation expertise is required&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;What We&#39;re Looking For&lt;/h3&gt;\n&lt;h3&gt;Required Qualifications&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;5+ years of experience in software engineering, solutions architecture, technical consulting, or related technical roles, including customer-facing technical engagement&lt;/li&gt;\n&lt;li&gt;2+ years of professional programming or scripting experience using languages such as Python, Java, JavaScript/&lt;a href=&quot;http://node.js/&quot;&gt;Node.js&lt;/a&gt;, C#, C++, or SQL&lt;/li&gt;\n&lt;li&gt;Strong understanding of database technologies, distributed systems, modern application architectures, and high availability&lt;/li&gt;\n&lt;li&gt;Practical experience investigating technical issues, analyzing performance, and evaluating architectural trade-offs&lt;/li&gt;\n&lt;li&gt;Working knowledge of cloud infrastructure and application architectures on AWS, Azure, or Google Cloud&lt;/li&gt;\n&lt;li&gt;Ability to engage confidently with developers, architects, and technical leaders, translating complex technical findings into clear recommendations&lt;/li&gt;\n&lt;li&gt;Intellectual curiosity, strong problem-solving skills, initiative, and the ability to independently drive technical engagements&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Preferred Qualifications&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience with MongoDB, Atlas, NoSQL, or relational database technologies&lt;/li&gt;\n&lt;li&gt;Familiarity with query optimization, indexing, data modeling, replication, and database scaling&lt;/li&gt;\n&lt;li&gt;Exposure to Kubernetes, Kafka, microservices, APIs, event-driven architectures, or application modernization&lt;/li&gt;\n&lt;li&gt;Understanding of AI application patterns, Vector Search, RAG, or agentic systems&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;About MongoDB&lt;/h3&gt;\n&lt;p&gt;MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure.&lt;/p&gt;\n&lt;p&gt;With offices worldwide and over 67,000 customers, including AI-native startups and approximately 75% of the Fortune 100, relying on MongoDB for their most important applications, we’re powering the next era of software.&lt;/p&gt;\n&lt;p&gt;Our compass at MongoDB is our &lt;a href=&quot;https://www.mongodb.com/company&quot;&gt;Leadership Commitment,&lt;/a&gt; guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. &lt;a href=&quot;https://www.mongodb.com/company/blog/culture/employee-benefits-that-make-a-difference-at-mongodb&quot;&gt;From employee affinity groups, to fertility assistance and a generous parental leave policy&lt;/a&gt;, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys.&lt;a href=&quot;https://www.mongodb.com/blog/channel/culture&quot;&gt; Learn more about what it’s like to work at MongoDB&lt;/a&gt;, and help us make an impact on the world!&lt;/p&gt;\n&lt;p&gt;MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.&lt;/p&gt;\n&lt;p&gt;MongoDB is an equal opportunities employer.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Req ID: 3273577424&lt;/em&gt;&lt;/p&gt;",
+  "departments": [
+    {
+      "id": 267356,
+      "name": "Scaled Customer Success",
+      "child_ids": [],
+      "parent_id": 268135
+    }
+  ],
+  "offices": [
+    {
+      "id": 3962,
+      "name": "Dublin",
+      "location": "Dublin, Ireland",
+      "child_ids": [],
+      "parent_id": 23658
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": null
+}

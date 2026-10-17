@@ -1,0 +1,145 @@
+{
+  "id": "124d9219-af4c-4a03-86c4-afe54ec32c34",
+  "title": "Senior Software Quality Engineer ",
+  "department": "Engineering",
+  "team": "Engineering",
+  "employmentType": "FullTime",
+  "location": "Remote",
+  "shouldDisplayCompensationOnJobPostings": true,
+  "secondaryLocations": [
+    {
+      "location": "Canada",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "Canada"
+        }
+      }
+    },
+    {
+      "location": "EMEA",
+      "address": {
+        "postalAddress": {}
+      }
+    },
+    {
+      "location": "United States",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "United States"
+        }
+      }
+    }
+  ],
+  "publishedAt": "2026-10-16T12:33:41.622+00:00",
+  "isListed": true,
+  "isRemote": true,
+  "workplaceType": "Remote",
+  "address": {
+    "postalAddress": {
+      "addressRegion": "New York",
+      "addressCountry": "United States",
+      "addressLocality": "New York"
+    }
+  },
+  "jobUrl": "https://jobs.ashbyhq.com/vClusterLabs/124d9219-af4c-4a03-86c4-afe54ec32c34",
+  "applyUrl": "https://jobs.ashbyhq.com/vClusterLabs/124d9219-af4c-4a03-86c4-afe54ec32c34/application",
+  "descriptionHtml": "<p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">As a Senior Software Quality Engineer<strong> </strong>at vCluster Labs, you aren't just writing test cases; you are the architect of how we know our product works. You'll own test strategy end-to-end across a fast-moving codebase, build the automation frameworks that give engineering the confidence to ship daily, and be the voice for testability and reliability in every design conversation you're part of.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>As a Senior Software Quality Engineer, your role will include:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>Test framework ownership:</strong> Lead the design, development, and maintenance of automated test frameworks spanning backend services and UI, built to scale with a fast-growing product.</p></li><li><p style=\"min-height:1.5em\"><strong>Test strategy:</strong> Own and drive test strategy across services and features, ensuring coverage is thorough and tied directly to product goals, not just ticket checkboxes.</p></li><li><p style=\"min-height:1.5em\"><strong>Cross-functional influence:</strong> Work closely with engineering and product to shape features early, advocate for testability, and align the team on what \"quality\" means for this product.</p></li><li><p style=\"min-height:1.5em\"><strong>Architectural input:</strong> Sit in on architecture and design discussions, bringing a testability and reliability lens before code gets written, not after.</p></li><li><p style=\"min-height:1.5em\"><strong>CI/CD integration:</strong> Integrate automated tests into CI/CD pipelines (GitHub Actions, Jenkins, etc.) so engineers get fast, high-confidence feedback on every change.</p></li><li><p style=\"min-height:1.5em\"><strong>Exploratory testing:</strong> Run exploratory testing to catch usability issues, edge cases, and regressions that automation won't find on its own.</p></li><li><p style=\"min-height:1.5em\"><strong>Parallel execution:</strong> Move across multiple projects at once in a startup environment where priorities shift, without losing rigor.</p></li></ul><p style=\"min-height:1.5em\"><strong>This role could be a fit for you if you bring:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>Experience depth:</strong> 7+ years in QA or software testing, including 2+ years operating at a senior or staff level.</p></li><li><p style=\"min-height:1.5em\"><strong>Programming ability:</strong> Strong hands-on skills in at least one of Go, Python, or JavaScript, used for building automation and tooling, not just scripting one-off checks.</p></li><li><p style=\"min-height:1.5em\"><strong>AI-assisted QA workflow:</strong> Daily use of AI tools for reviewing PRs and design docs, writing test plans, and automating test cases, paired with the judgment to know when to trust the output and when to verify it yourself.</p></li><li><p style=\"min-height:1.5em\"><strong>Ownership mindset:</strong> You spot what needs to happen and drive it forward without waiting to be told.</p></li><li><p style=\"min-height:1.5em\"><strong>Startup fluency:</strong> Proven ability to stay calm under ambiguity and juggle competing priorities in a fast-moving environment.</p></li><li><p style=\"min-height:1.5em\"><strong>Communication:</strong> Strong written and verbal skills, with the ability to advocate for quality across engineering and product.</p></li><li><p style=\"min-height:1.5em\"><strong>CI/CD depth:</strong> Deep understanding of CI/CD systems and hands-on experience integrating automated test suites into pipelines (GitHub Actions, Jenkins, or similar).</p></li><li><p style=\"min-height:1.5em\"><strong>Kubernetes fluency:</strong> Working knowledge of Kubernetes environments and distributed systems, or a strong aptitude and willingness to learn quickly.</p></li><li><p style=\"min-height:1.5em\"><strong>Debugging skill:</strong> Excellent analytical and debugging ability, particularly for backend and infrastructure-related issues.</p></li></ul><p style=\"min-height:1.5em\"><strong>Bonus points for:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Experience testing in tenant cluster or Tenant Isolation environments.</p></li><li><p style=\"min-height:1.5em\">Prior experience owning QA at a startup through a period of rapid product growth.</p></li></ul><h2><strong>About vCluster Labs</strong></h2><p style=\"min-height:1.5em\">We're the #1 platform for AI infrastructure, trusted by the world's fastest-growing AI cloud builders. We're a venture-backed startup that's raised over $28M from top-tier investors including Khosla Ventures (first investor in OpenAI, GitLab, Stripe, and DoorDash), and we're in a hyper-growth phase looking for motivated people to join our team. Our headquarters are in San Francisco (Salesforce Tower), but our team is distributed around the globe with a remote-first culture.</p><p style=\"min-height:1.5em\">We give AI Cloud providers and AI factories a hyperscaler-like experience on their own GPU infrastructure. Our platform runs the full stack an operator needs, from bare metal provisioning and node lifecycle management up through managed Kubernetes, Slurm, Ray, and inference clusters, so they can turn raw GPUs into cluster products they can sell in days instead of spending 12+ months building it themselves. Today we power over 100,000 GPUs and 1 million CPUs across 50+ AI clouds and Fortune 500 companies, backed by a team of 40+ infrastructure engineers who build alongside our customers rather than just shipping them software.</p><p style=\"min-height:1.5em\">We're the company behind vCluster, the open source technology for tenant isolation on Kubernetes, with 11,000+ GitHub stars and 40M+ tenant clusters created since 2021. Open source is part of our DNA. At KubeCon North America 2025, we launched our Infrastructure Tenancy Platform for AI, a Kubernetes-native framework built for running AI, ML, and GPU-intensive workloads anywhere, with an NVIDIA-validated reference architecture for DGX systems.</p><p style=\"min-height:1.5em\"><strong>Benefits</strong></p><p style=\"min-height:1.5em\">We offer the following benefits:</p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>Competitive Salary</strong>: We offer a competitive compensation package, including equity.</p></li><li><p style=\"min-height:1.5em\"><strong>Premium Insurance</strong>: Health, dental, vision, and life Insurance, including plans for you and eligible dependents (benefits vary depending on country).</p></li><li><p style=\"min-height:1.5em\"><strong>Flexible Working Schedule:  </strong>You have a doctor’s appointment or need to head to the supermarket to get groceries at 2pm? We won’t have an issue with that. To us, results matter more than clocking in and out at the same time every day.</p></li><li><p style=\"min-height:1.5em\"><strong>Workplace Flexibility: </strong> We’re very flexible about where you work. We know things can change in life and we’re happy to adjust the work environment for you along the way.</p></li></ul><h2></h2><h2><strong>Culture &amp; Values</strong></h2><p style=\"min-height:1.5em\">At vCluster Labs, we value and stand for:</p><ol style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>Make it Happen: </strong>We have a relentless bias for action and the grit to push through obstacles. We do whatever it takes to figure it out, put in the work, and ruthlessly prioritize the actions that drive measurable impact for the business.</p></li><li><p style=\"min-height:1.5em\"><strong>Own the Outcome: </strong>We understand that our responsibility doesn't end when a task is checked off; it ends when the value is delivered. We connect our daily individual actions to the broader success of the company and our customers.</p></li><li><p style=\"min-height:1.5em\"><strong>Create Wow: </strong>We measure success by the experience we generate, both inside and outside the company. For our customers, this means impressive speed and intuitive experiences. For our team, this means going the extra mile to support one another and to continuously drive each other to new heights.</p></li><li><p style=\"min-height:1.5em\"><strong>Open Source, Open Mind:</strong> We are actively contributing to and maintaining open-source projects. Internally, we foster meritocracy — the strongest ideas win, no matter who or where they come from.</p></li><li><p style=\"min-height:1.5em\"><strong>Build Tomorrow’s Standards, Intentionally:</strong> We don't just ship software; we define the state-of-the-art of tomorrow. We are fearless in tearing down old approaches to build something better, but we are disciplined in how we do it because we know our users rely on our technology to run mission-critical infrastructure platforms.</p><p style=\"min-height:1.5em\"></p></li></ol><p style=\"min-height:1.5em\"></p>",
+  "descriptionPlain": "As a Senior Software Quality Engineer at vCluster Labs, you aren't just writing test cases; you are the architect of how we know our product works. You'll own test strategy end-to-end across a fast-moving codebase, build the automation frameworks that give engineering the confidence to ship daily, and be the voice for testability and reliability in every design conversation you're part of.\n\n\n\nAs a Senior Software Quality Engineer, your role will include:\n\n - Test framework ownership: Lead the design, development, and maintenance of automated test frameworks spanning backend services and UI, built to scale with a fast-growing product.\n\n - Test strategy: Own and drive test strategy across services and features, ensuring coverage is thorough and tied directly to product goals, not just ticket checkboxes.\n\n - Cross-functional influence: Work closely with engineering and product to shape features early, advocate for testability, and align the team on what \"quality\" means for this product.\n\n - Architectural input: Sit in on architecture and design discussions, bringing a testability and reliability lens before code gets written, not after.\n\n - CI/CD integration: Integrate automated tests into CI/CD pipelines (GitHub Actions, Jenkins, etc.) so engineers get fast, high-confidence feedback on every change.\n\n - Exploratory testing: Run exploratory testing to catch usability issues, edge cases, and regressions that automation won't find on its own.\n\n - Parallel execution: Move across multiple projects at once in a startup environment where priorities shift, without losing rigor.\n\nThis role could be a fit for you if you bring:\n\n - Experience depth: 7+ years in QA or software testing, including 2+ years operating at a senior or staff level.\n\n - Programming ability: Strong hands-on skills in at least one of Go, Python, or JavaScript, used for building automation and tooling, not just scripting one-off checks.\n\n - AI-assisted QA workflow: Daily use of AI tools for reviewing PRs and design docs, writing test plans, and automating test cases, paired with the judgment to know when to trust the output and when to verify it yourself.\n\n - Ownership mindset: You spot what needs to happen and drive it forward without waiting to be told.\n\n - Startup fluency: Proven ability to stay calm under ambiguity and juggle competing priorities in a fast-moving environment.\n\n - Communication: Strong written and verbal skills, with the ability to advocate for quality across engineering and product.\n\n - CI/CD depth: Deep understanding of CI/CD systems and hands-on experience integrating automated test suites into pipelines (GitHub Actions, Jenkins, or similar).\n\n - Kubernetes fluency: Working knowledge of Kubernetes environments and distributed systems, or a strong aptitude and willingness to learn quickly.\n\n - Debugging skill: Excellent analytical and debugging ability, particularly for backend and infrastructure-related issues.\n\nBonus points for:\n\n - Experience testing in tenant cluster or Tenant Isolation environments.\n\n - Prior experience owning QA at a startup through a period of rapid product growth.\n\n\nABOUT VCLUSTER LABS\n\nWe're the #1 platform for AI infrastructure, trusted by the world's fastest-growing AI cloud builders. We're a venture-backed startup that's raised over $28M from top-tier investors including Khosla Ventures (first investor in OpenAI, GitLab, Stripe, and DoorDash), and we're in a hyper-growth phase looking for motivated people to join our team. Our headquarters are in San Francisco (Salesforce Tower), but our team is distributed around the globe with a remote-first culture.\n\nWe give AI Cloud providers and AI factories a hyperscaler-like experience on their own GPU infrastructure. Our platform runs the full stack an operator needs, from bare metal provisioning and node lifecycle management up through managed Kubernetes, Slurm, Ray, and inference clusters, so they can turn raw GPUs into cluster products they can sell in days instead of spending 12+ months building it themselves. Today we power over 100,000 GPUs and 1 million CPUs across 50+ AI clouds and Fortune 500 companies, backed by a team of 40+ infrastructure engineers who build alongside our customers rather than just shipping them software.\n\nWe're the company behind vCluster, the open source technology for tenant isolation on Kubernetes, with 11,000+ GitHub stars and 40M+ tenant clusters created since 2021. Open source is part of our DNA. At KubeCon North America 2025, we launched our Infrastructure Tenancy Platform for AI, a Kubernetes-native framework built for running AI, ML, and GPU-intensive workloads anywhere, with an NVIDIA-validated reference architecture for DGX systems.\n\nBenefits\n\nWe offer the following benefits:\n\n - Competitive Salary: We offer a competitive compensation package, including equity.\n\n - Premium Insurance: Health, dental, vision, and life Insurance, including plans for you and eligible dependents (benefits vary depending on country).\n\n - Flexible Working Schedule:  You have a doctor’s appointment or need to head to the supermarket to get groceries at 2pm? We won’t have an issue with that. To us, results matter more than clocking in and out at the same time every day.\n\n - Workplace Flexibility:  We’re very flexible about where you work. We know things can change in life and we’re happy to adjust the work environment for you along the way.\n\n\n\n\n\nCULTURE & VALUES\n\nAt vCluster Labs, we value and stand for:\n\n 1. Make it Happen: We have a relentless bias for action and the grit to push through obstacles. We do whatever it takes to figure it out, put in the work, and ruthlessly prioritize the actions that drive measurable impact for the business.\n\n 2. Own the Outcome: We understand that our responsibility doesn't end when a task is checked off; it ends when the value is delivered. We connect our daily individual actions to the broader success of the company and our customers.\n\n 3. Create Wow: We measure success by the experience we generate, both inside and outside the company. For our customers, this means impressive speed and intuitive experiences. For our team, this means going the extra mile to support one another and to continuously drive each other to new heights.\n\n 4. Open Source, Open Mind: We are actively contributing to and maintaining open-source projects. Internally, we foster meritocracy — the strongest ideas win, no matter who or where they come from.\n\n 5. Build Tomorrow’s Standards, Intentionally: We don't just ship software; we define the state-of-the-art of tomorrow. We are fearless in tearing down old approaches to build something better, but we are disciplined in how we do it because we know our users rely on our technology to run mission-critical infrastructure platforms.\n    \n    \n\n",
+  "compensation": {
+    "compensationTierSummary": "€65K – €110K • Offers Equity • Offers Bonus • Multiple Ranges",
+    "scrapeableCompensationSalarySummary": "€65K - €110K",
+    "compensationTiers": [
+      {
+        "id": "c63778ce-6295-44e2-8489-a267eed66f16",
+        "tierSummary": "€65K – €110K • Offers Equity • Offers Bonus",
+        "title": "EMEA",
+        "additionalInformation": null,
+        "components": [
+          {
+            "id": "736dbde2-2f28-4aba-84db-6dd77af3d278",
+            "summary": "€65K – €110K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "EUR",
+            "minValue": 65000,
+            "maxValue": 110000
+          },
+          {
+            "id": "ad075897-d3be-4bae-83b8-1bfc2f7a7ed0",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "540545f8-4743-44fd-8ca9-185225cd818c",
+            "summary": "Offers Bonus",
+            "compensationType": "Bonus",
+            "interval": "1 YEAR",
+            "currencyCode": "EUR",
+            "minValue": null,
+            "maxValue": null
+          }
+        ]
+      },
+      {
+        "id": "f08ab16c-79e0-45f4-952f-b4cfde38dbc5",
+        "tierSummary": "$130K – $170K • Offers Equity • Offers Bonus",
+        "title": "United States",
+        "additionalInformation": null,
+        "components": [
+          {
+            "id": "9551e2a9-a9ce-4121-9e64-fbf5bb16c3e3",
+            "summary": "Offers Bonus",
+            "compensationType": "Bonus",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "d4436d3a-bf94-46d9-958e-82ab6df5e8d6",
+            "summary": "$130K – $170K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 130000,
+            "maxValue": 170000
+          },
+          {
+            "id": "be90c49b-631f-47f2-8d1a-a7490c632890",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
+          }
+        ]
+      }
+    ],
+    "summaryComponents": [
+      {
+        "compensationType": "Salary",
+        "interval": "1 YEAR",
+        "currencyCode": "EUR",
+        "minValue": 65000,
+        "maxValue": 110000
+      },
+      {
+        "compensationType": "EquityPercentage",
+        "minValue": null,
+        "maxValue": null,
+        "interval": "1 YEAR"
+      },
+      {
+        "compensationType": "Bonus",
+        "minValue": null,
+        "maxValue": null,
+        "interval": "1 YEAR"
+      }
+    ]
+  }
+}

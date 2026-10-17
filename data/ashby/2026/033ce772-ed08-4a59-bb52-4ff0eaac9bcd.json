@@ -2,7 +2,7 @@
   "id": "033ce772-ed08-4a59-bb52-4ff0eaac9bcd",
   "title": "Product Support Specialist - APAC",
   "department": "Customer Success",
-  "team": "Customer Support",
+  "team": "Technical Support",
   "employmentType": "FullTime",
   "location": "Singapore",
   "shouldDisplayCompensationOnJobPostings": true,
@@ -90,15 +90,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "dca8e938-93de-410c-ba29-e950df9698e7",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "7d3f76b5-5dab-4168-af04-d01fc8ac6866",
             "summary": "₱801,000 – ₱1,061,000",
             "compensationType": "Salary",
@@ -106,6 +97,15 @@
             "currencyCode": "PHP",
             "minValue": 801000,
             "maxValue": 1061000
+          },
+          {
+            "id": "dca8e938-93de-410c-ba29-e950df9698e7",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           }
         ]
       },

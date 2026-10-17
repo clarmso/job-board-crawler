@@ -1,0 +1,108 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6223946004",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": true,
+      "requires_processing_consent": false,
+      "requires_retention_consent": true,
+      "retention_period": 730,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 5228752004,
+  "location": {
+    "name": "Ireland, Dublin"
+  },
+  "metadata": [
+    {
+      "id": 4367803004,
+      "name": "Cost Center",
+      "value": "GAMES4IE62-IEL2950036 ICDS Ireland",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167524004,
+      "name": "Career Page - Office Location",
+      "value": "Ireland, Dublin",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167525004,
+      "name": "Career Page - Department",
+      "value": "Network Engineering",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9377282004,
+      "name": "Career Page - Sub Department",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 20089613004,
+      "name": "Career Page - Studio Project",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 4395289004,
+      "name": "Worker Type",
+      "value": "Employee",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4404049004,
+      "name": "Country",
+      "value": "Ireland",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9262269004,
+      "name": "Job Family",
+      "value": "PD Programming & Eng",
+      "value_type": "short_text"
+    },
+    {
+      "id": 9262270004,
+      "name": "Job Family Group",
+      "value": "Product Development",
+      "value_type": "short_text"
+    },
+    {
+      "id": 21724118004,
+      "name": "Bungie Geo Pay",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 6223946004,
+  "updated_at": "2026-10-16T11:04:01-04:00",
+  "requisition_id": "R-125802",
+  "title": "Engineering Manager – Enterprise Data Engineering",
+  "company_name": "PlayStation Global",
+  "first_published": "2026-10-16T11:00:24-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Why Sony Interactive Entertainment?&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Sony Interactive Entertainment isn’t just the Best Place to Play — it’s also the Best Place to Work. Sony Interactive Entertainment (SIE) is the company behind the PlayStation brand. As a subsidiary of Sony Group Corporation, we’re part of a proud legacy of innovation and excellence. SIE is a dynamic technology company, delivering cutting-edge hardware and network services to more than 100 million people and an entertainment leader, home to some of the most beloved and recognizable intellectual properties (IP) in the world. Our role at SIE is to create and nurture the experiences under the PlayStation brand, a name synonymous with entertainment excellence and creativity.&lt;/p&gt;&lt;/div&gt;&lt;h4&gt;&lt;strong&gt;&lt;u&gt;Engineering Manager – Enterprise Data Engineering&lt;/u&gt;&lt;/strong&gt;&lt;/h4&gt;\n&lt;p&gt;We are looking for an experienced Engineering Manager to lead a team of Enterprise Data Engineers delivering trusted, scalable and reusable data capabilities across Sony Interactive Entertainment (SIE). The role combines people leadership, technical direction, delivery ownership and operational accountability for enterprise data products, pipelines and integrations.&lt;/p&gt;\n&lt;p&gt;Working with global engineering, architecture, platform, security and business teams, you will enable enterprise priorities spanning Finance, Supply Chain, IT Operations, People &amp;amp; Places and Sales &amp;amp; Operations. You will balance transformation delivery with the reliability, maintainability and continuous improvement of existing data services.&lt;/p&gt;\n&lt;h4&gt;&lt;u&gt;Responsibilities&lt;/u&gt;&lt;/h4&gt;\n&lt;p&gt;&lt;strong&gt;Lead, coach and grow the engineering team&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;·&amp;nbsp;Manage performance, development, recruitment and succession; create clear goals, regular feedback and meaningful career plans.&lt;/p&gt;\n&lt;p&gt;·&amp;nbsp;Build a culture of ownership, inclusion, engineering discipline, collaboration and continuous learning.&lt;/p&gt;\n&lt;p&gt;· Provide hands-on technical guidance when needed while delegating decisions and developing senior engineering capability.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Own delivery, capacity and execution&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;· Translate enterprise roadmaps into executable plans, milestones, dependencies and measurable outcomes; balance project commitments with run-the-business obligations.&lt;/p&gt;\n&lt;p&gt;· Proactively forecast capacity and skills needs, allocate resources, manage competing priorities and identify delivery trade-offs.&lt;/p&gt;\n&lt;p&gt;·&amp;nbsp;Maintain clear visibility of progress, blockers and risks; escalate early with options and recommendations, and communicate confidently to leadership and stakeholders.&lt;/p&gt;\n&lt;p&gt;· Drive predictable delivery through appropriate agile practices, estimation, design reviews, testing, release management and continuous improvement.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Provide technical leadership for enterprise data engineering&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;· Guide architecture and implementation of secure, scalable batch and streaming ingestion, ETL/ELT pipelines, transformations and enterprise integrations.&lt;/p&gt;\n&lt;p&gt;·&amp;nbsp;Champion maintainable engineering patterns across Snowflake, Databricks, Python/PySpark, SQL, dbt and relevant orchestration and integration technologies.&lt;/p&gt;\n&lt;p&gt;·&amp;nbsp;Ensure data models and domain-owned data products are reusable, discoverable, documented and aligned with enterprise standards.&lt;/p&gt;\n&lt;p&gt;· Embed source control, peer review, automated testing, CI/CD, infrastructure-as-code where appropriate, and sound software engineering practices.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Own operational quality and production readiness&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;·&amp;nbsp;Be accountable for service reliability, observability, data freshness, data quality, lineage, access controls and operational support for team-owned pipelines and products.&lt;/p&gt;\n&lt;p&gt;·&amp;nbsp;Establish effective monitoring, alerting, incident response, root-cause analysis, recovery procedures and reduction of recurring support effort.&lt;/p&gt;\n&lt;p&gt;· Partner with platform, architecture, security and governance teams on production readiness, privacy, compliance, cost and performance optimisation.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Partner across the enterprise&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;·&amp;nbsp;Work with domain and transformation leaders to understand business outcomes, shape requirements and prioritise sustainable data engineering solutions.&lt;/p&gt;\n&lt;p&gt;· Coordinate dependencies with data platform, analytics, AI/ML, application and infrastructure teams to enable end-to-end delivery.&lt;/p&gt;\n&lt;p&gt;·&amp;nbsp;Represent the team’s architecture, products, delivery status, risks and impact in technical and executive forums.&lt;/p&gt;\n&lt;h4&gt;&lt;strong&gt;&lt;u&gt;Skills and Qualifications&lt;/u&gt;&lt;/strong&gt;&lt;/h4&gt;\n&lt;p&gt;· 3+ years of people management or engineering leadership experience, including performance management, coaching and leading delivery teams.&lt;/p&gt;\n&lt;p&gt;· 8+ years of relevant software, data platform or data engineering experience, with demonstrated ownership of production-grade enterprise data solutions.&lt;/p&gt;\n&lt;p&gt;· Strong understanding of data architecture, ETL/ELT, data warehousing/lakehouse patterns, dimensional modelling, data contracts and reusable data products.&lt;/p&gt;\n&lt;p&gt;·&amp;nbsp;Practical technical experience with SQL and Python; strong familiarity with Snowflake, Databricks and PySpark, and experience with dbt or comparable transformation frameworks.&lt;/p&gt;\n&lt;p&gt;· Experience with orchestration, API/file-based integrations, cloud services (preferably AWS), Git-based development, automated testing and CI/CD.&lt;/p&gt;\n&lt;p&gt;· Experience operating business-critical data pipelines, including monitoring, incident management, data quality, security and performance optimisation.&lt;/p&gt;\n&lt;p&gt;· Ability to plan team capacity, manage a portfolio of priorities, resolve cross-team dependencies and provide transparent, proactive delivery reporting.&lt;/p&gt;\n&lt;p&gt;·&amp;nbsp;Excellent stakeholder management and communication skills across engineering, business and senior leadership; undergraduate degree or equivalent experience.&lt;/p&gt;\n&lt;h4&gt;&lt;strong&gt;&lt;u&gt;Desirable Experience&lt;/u&gt;&lt;/strong&gt;&lt;/h4&gt;\n&lt;p&gt;·&amp;nbsp; Enterprise Finance or Supply Chain data, including SAP and planning-system integrations (such as Anaplan or Adaptive).&lt;/p&gt;\n&lt;p&gt;·&amp;nbsp;Data governance, metadata/lineage, master data, privacy classification and regulated or sensitive enterprise datasets.&lt;/p&gt;\n&lt;p&gt;·&amp;nbsp;Enabling analytics, machine learning or AI-ready data products and applying AI-assisted engineering practices responsibly.&lt;/p&gt;\n&lt;p&gt;·&amp;nbsp;Working with geographically distributed teams and large-scale enterprise transformation programmes.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Salary: &lt;span class=&quot;collapsed-field-text&quot;&gt;€96,900.00 - €145,300.00&lt;/span&gt; &amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p class=&quot;p1&quot;&gt;Please note, Sony Interactive Entertainment conducts background checks at the offer stage for all new employees (which may include criminal background checks for some roles) and will need to process personal information to support these checks.&lt;/p&gt;\n&lt;p class=&quot;p1&quot;&gt;Please refer to our&amp;nbsp;&lt;a href=&quot;https://www.playstation.com/legal/careers-privacy-notice/&quot; target=&quot;_blank&quot;&gt;Candidate Privacy Notice&lt;/a&gt;&amp;nbsp;for more information about what personal information we collect, how we use it, who we share it with, and your data protection rights.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Equal Opportunity Statement:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Sony is an Equal Opportunity Employer. All persons will receive consideration for employment without regard to gender (including gender identity, gender expression and gender reassignment), race (including colour, nationality, ethnic or national origin), religion or belief, marital or civil partnership status, disability, age, sexual orientation, pregnancy, maternity or parental status, trade union membership or membership in any other legally protected category.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;We strive to create an inclusive environment, empower employees and embrace diversity. We encourage everyone to respond.&amp;nbsp;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Sony Interactive Entertainment is a Fair Chance employer and qualified applicants with arrest and conviction records will be considered for employment.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4065072004,
+      "name": "Information Capital and Data Services (ICDS)",
+      "child_ids": [],
+      "parent_id": 4065067004
+    }
+  ],
+  "offices": [
+    {
+      "id": 4011950004,
+      "name": "IRL-Dublin",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 4011949004
+    }
+  ],
+  "ai_disclaimer": "<p><strong>Use of AI in Recruiting&nbsp;</strong></p><p><br></p><p>We use artificial intelligence and other automated tools to assist with certain aspects of our recruiting process, including reviewing applications and supporting candidate evaluation. For example, we use Greenhouse's AI-powered Talent Matching tool to compare information in your application against job-related qualifications and criteria established by our recruiting team. More information about <a href=\"https://www.greenhouse.com/\" target=\"_blank\">Greenhouse</a>, including about its features and its Privacy Policy, may be found at its website. These tools assist our recruiting team and do not make hiring decisions.&nbsp;</p><p><br></p>",
+  "include_ai_disclaimer": true,
+  "ai_opt_out_request_url": "http://app4.greenhouse.io/ai_opt_out_request/job_post/6223946004/ai_opt_out"
+}

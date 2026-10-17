@@ -1,0 +1,148 @@
+{
+  "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=8274031",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3579821,
+  "location": {
+    "name": "Alberta; British Columbia; Manitoba; Nova Scotia; Ontario; Quebec"
+  },
+  "metadata": [
+    {
+      "id": 22194060,
+      "name": "Position ID",
+      "value": "10015687",
+      "value_type": "short_text"
+    },
+    {
+      "id": 24918,
+      "name": "Department ID",
+      "value": "D21415-Core Product Management",
+      "value_type": "single_select"
+    },
+    {
+      "id": 22194061,
+      "name": "Team",
+      "value": "T10436-Database PM",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4914027,
+      "name": "Region",
+      "value": "North America",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4137836,
+      "name": "Working Model Eligibility",
+      "value": [
+        "2-Flexible"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 4914029,
+      "name": "Job Level",
+      "value": "Professional - IC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24109,
+      "name": "Employment Type",
+      "value": "Full-time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 1073551,
+      "name": "Job Type",
+      "value": "Standard",
+      "value_type": "single_select"
+    },
+    {
+      "id": 988684,
+      "name": "JD Link",
+      "value": "https://docs.google.com/document/d/1q8V6_hC5PpT8j1s0-klTNqo6XLtvpO4HrB7UBpZYAgg/edit?tab=t.0",
+      "value_type": "url"
+    },
+    {
+      "id": 5525802,
+      "name": "Baseline Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 5525816,
+      "name": "Other Large Market Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 13324394,
+      "name": "Job Post Range (United States)",
+      "value": {
+        "unit": "USD",
+        "max_value": "297000.0",
+        "min_value": "151000.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 40497768,
+      "name": "Job Post Range (Canada)",
+      "value": {
+        "unit": "USD",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 57694516,
+      "name": "Job Post Range (Poland)",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 64002488,
+      "name": "Job Post Range (Italy)",
+      "value": null,
+      "value_type": "currency_range"
+    }
+  ],
+  "id": 8274031,
+  "updated_at": "2026-10-16T17:59:16-04:00",
+  "requisition_id": "3273579821",
+  "title": "Staff Product Manager, Atlas Infinite",
+  "company_name": "MongoDB",
+  "first_published": "2026-10-16T10:58:38-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;&lt;/p&gt;\n&lt;p&gt;The Staff Product Manager is an Individual Contributor (IC) product leader responsible for a broad platform surface for Atlas Infinite at MongoDB. Atlas Infinite is the largest architectural innovation in MongoDB Atlas ever, purpose-built to handle today&#39;s speed and scale of development and demand.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;In this position, you will own and solve end-to-end problems around the user experience and database experience of Atlas Infinite, including but limited to feature discovery, activation, monetization, and retention. You will see patterns, opportunities, and risks across areas, own cross-team product and architectural trade-offs, establish reusable standards for PM craft, and align senior stakeholders around multi-year bets. You have deep knowledge of cloud database platforms, distributed data systems, and enterprise product development.&lt;/p&gt;\n&lt;p&gt;You will partner closely with cross-functional engineering leaders, product peers, and executive stakeholders to drive outcomes across organizational boundaries, guiding a portfolio spanning Atlas Infinite&#39;s disaggregated compute and storage architecture, production workload readiness, migration and Atlas interoperability, and the new customer experiences this architecture may make possible. You will not inherit a closed list of future features: part of your mandate is to discover opportunities we have not yet articulated and challenge assumptions about which problems matter most. With AWS public preview now live, you will help turn real workload evidence into a credible path to GA and subsequent releases, in close partnership with the existing team.&lt;/p&gt;\n&lt;p&gt;This role can be based out of a MongoDB office or remotely in Canada.&lt;/p&gt;\n&lt;h3&gt;Responsibilities&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Interlinked Vision &amp;amp; Multi-Year Bets: Set and champion a product vision across Atlas Infinite&#39;s capabilities, while actively discovering opportunities that are not on today&#39;s roadmap or fit any single team&#39;s remit. Explore what decoupled compute and storage could make possible for developers, enterprises, and emerging AI workloads; use hypotheses, customer evidence, prototypes, and market signals to uncover needs we have not yet named. Branching, on-demand compute, and instant recovery are examples of possible bets. Make the case for investment and prioritization, including build-vs-buy considerations, and distinguish exploratory vision from release commitments&lt;/li&gt;\n&lt;li&gt;Cross-Team Execution: Along with program management, own execution health across workstreams, negotiating sequencing, scope, and resource trade-offs with engineering leaders and peer PMs where you have no direct authority. Ensure preview-to-GA readiness, roadmaps, and dependencies across database, storage, Atlas platform, migration, backup, security, and cloud infrastructure teams are aligned and connect to company objectives&lt;/li&gt;\n&lt;li&gt;Execution &amp;amp; Research Standards: Establish lightweight operating practices and shared customer/market research frameworks that make workload qualification, customer-representative testing, win/loss analysis, launch readiness, and post-launch learning consistent across the portfolio. Use data to drive decisions without overburdening delivery teams&lt;/li&gt;\n&lt;li&gt;Product Health: Resolve complex post-launch escalations when the root cause spans architecture, performance, migration, observability, supportability, or unclear ownership. Turn customer and operational signals into systemic product fixes rather than one-off workarounds&lt;/li&gt;\n&lt;li&gt;Customer Discovery: Identify needs and competitive dynamics that cut across product areas. Look beyond requests from today&#39;s customers to discover emerging jobs-to-be-done, surprising uses of the architecture, and reasons customers do not choose MongoDB at all. Combine interviews, workload and pricing evidence, product analytics, field feedback, and experiments to test known hypotheses and uncover unknowns; reorient the roadmap when the evidence warrants it&lt;/li&gt;\n&lt;li&gt;Outbound &amp;amp; GTM: Partner with product marketing, pricing, sales, solutions architecture, customer success, documentation, and support on high-stakes customer engagements, product positioning, and omni-channel marketing. Establish ideal customer profile; ensure claims and migration guidance match demonstrated capabilities; translate successful adoption and enablement approaches into shared playbooks&lt;/li&gt;\n&lt;li&gt;Executive Alignment: Synthesize customer experience, technical readiness, adoption, and commercial impact into clear, confident product stories for senior leadership. Surface cross-area risks and progress early, including trade-offs between new-workload growth, customer savings, and changes to existing Atlas usage&lt;/li&gt;\n&lt;li&gt;Mentorship: Mentor PMs across the area, sharing frameworks for cross-team alignment, customer evidence, technical trade-offs, multi-year bets, and leadership communication&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Qualifications&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;8+ years of product management or equivalent product leadership experience, with a track record personally shaping strategy and outcomes for complex technical platforms across multiple teams, rather than only coordinating delivery&lt;/li&gt;\n&lt;li&gt;Strong technical fluency in cloud databases, distributed data systems, storage infrastructure, developer experiences, or an adjacent developer platform. Able to reason with engineers about architecture, performance, availability, data movement, and trade-offs without needing to be the system designer&lt;/li&gt;\n&lt;li&gt;A demonstrated ability to discover opportunities beyond the current roadmap: connect technical possibilities to unmet customer needs, formulate and test hypotheses, notice surprising patterns, and change direction when evidence challenges the original thesis&lt;/li&gt;\n&lt;li&gt;Experience taking a complex product from early adoption toward dependable, broader use while protecting space for longer-term innovation; able to make explicit trade-offs among customer trust, technical readiness, speed, and investment&lt;/li&gt;\n&lt;li&gt;Proven ability to influence without authority, negotiating sequencing and resource trade-offs across partner teams with competing priorities&lt;/li&gt;\n&lt;li&gt;Commercial and analytical judgment: able to assess workload-level value, adoption and usage evidence, competitive alternatives, pricing and unit economics, and the impact of a new product on an existing portfolio. Comfortable with build-vs-buy questions where relevant&lt;/li&gt;\n&lt;li&gt;Ability to raise the quality of customer discovery and product decision-making across teams through useful shared methods and mentorship, without mistaking more process for better outcomes&lt;/li&gt;\n&lt;li&gt;Exceptional communication skills: able to explain a technical and commercial thesis, its uncertainties, and the evidence that would change your mind to engineers, customers, executives, and go-to-market partners&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Success Measures&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;In 3 months you will have built a shared picture of which workloads Atlas Infinite serves well today, where customers struggle, what must be true for broader adoption, and what remains unknown. You will have clarified ownership with peer PMs and engineering, established baseline measures, and identified the highest-value questions to investigate&lt;/li&gt;\n&lt;li&gt;In 6 months you will have influenced consequential roadmap and GA-readiness decisions with customer-representative evidence; articulated a compelling, revisable view of where Infinite can create distinctive customer value beyond GA; and built a learning agenda with clear tests and decision points for both known bets and newly emerging opportunities&lt;/li&gt;\n&lt;li&gt;In 12 months the portfolio will show measurable progress against its established baselines for qualified adoption, customer experience, and readiness for broader workloads. Important bets will have advanced, changed, or been stopped for explicit reasons; cross-team investments will have produced customer value; and the team will be better equipped to recognize and act on opportunities that were not visible at the start of the year&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;About MongoDB&lt;/p&gt;\n&lt;p&gt;MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure.&lt;/p&gt;\n&lt;p&gt;With offices worldwide and over 67,000 customers, including AI-native startups and approximately 75% of the Fortune 100, relying on MongoDB for their most important applications, we’re powering the next era of software.&lt;/p&gt;\n&lt;p&gt;Our compass at MongoDB is our &lt;a href=&quot;https://www.mongodb.com/company&quot;&gt;Leadership Commitment,&lt;/a&gt; guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. &lt;a href=&quot;https://www.mongodb.com/company/blog/culture/employee-benefits-that-make-a-difference-at-mongodb&quot;&gt;From employee affinity groups, to fertility assistance and a generous parental leave policy&lt;/a&gt;, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys.&lt;a href=&quot;https://www.mongodb.com/blog/channel/culture&quot;&gt; Learn more about what it’s like to work at MongoDB&lt;/a&gt;, and help us make an impact on the world!&lt;/p&gt;\n&lt;p&gt;MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.&lt;/p&gt;\n&lt;p&gt;MongoDB is an equal opportunities employer.&lt;/p&gt;\n&lt;p&gt;Req ID: 3273579821&lt;/p&gt;\n&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&lt;em&gt;AI is used to review applications based on job-related criteria and does not replace human decision-making. The hiring team decide who moves forward.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;MongoDB’s base salary range for this role is posted below. Compensation at the time of offer is unique to each candidate and based on a variety of factors such as skill set, experience, qualifications, and work location. Salary is one part of MongoDB’s total compensation and benefits package. Other benefits for eligible employees may include: equity, participation in the employee stock purchase program, flexible paid time off, 20 weeks fully-paid gender-neutral parental leave, fertility and adoption assistance, Registered Retirement Savings Plan (RRSP) with employer match, mental health counseling, backup child and elder care, and health, dental, and vision benefits offerings. Please note, the base salary range listed below and the benefits in this paragraph are only applicable to candidates based in Canada.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;MongoDB’s base salary range for this role in Canada is:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$155,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$215,000 CAD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 73383,
+      "name": "Core Product Management",
+      "child_ids": [],
+      "parent_id": 370706
+    }
+  ],
+  "offices": [
+    {
+      "id": 4040,
+      "name": "Seattle",
+      "location": "Seattle, WA, United States",
+      "child_ids": [],
+      "parent_id": 23657
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": null
+}

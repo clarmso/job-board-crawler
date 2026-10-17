@@ -1,0 +1,54 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/tripadvisor/jobs/8230405",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 3561624,
+  "location": {
+    "name": "London"
+  },
+  "metadata": [
+    {
+      "id": 17158,
+      "name": "Employment Type",
+      "value": "Full-time - NEW",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8230405,
+  "updated_at": "2026-09-24T09:50:19-04:00",
+  "requisition_id": "NO WD ID",
+  "title": "Senior Data Scientist, Experimentation",
+  "company_name": "Tripadvisor",
+  "first_published": "2026-09-24T09:50:19-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;About Tripadvisor&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;The Tripadvisor Group connects people to experiences worth sharing, and aims to be the world’s most trusted source for travel and experiences. We leverage our brands, technology, and capabilities to connect our global audience with partners through rich content, travel guidance, and two-sided marketplaces for experiences, accommodations, restaurants, and other travel categories. The subsidiaries of Tripadvisor, Inc. (Nasdaq: TRIP), include a portfolio of travel brands and businesses, including Tripadvisor, Viator, and TheFork.&lt;/p&gt;\n&lt;p&gt;At Tripadvisor experiences, the only thing we love more than travel is data. We slice it, we dice it, and we use it to empower our decision making.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What You will do:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;As a Senior Data Scientist on our experimentation team you will work across a range of product areas, acting as the partner that Product and Engineering teams rely on to know how to set up and run investigations, whether a change worked and why it worked.&lt;/p&gt;\n&lt;p&gt;Much of your impact will come from improving how those teams experiment rather than running their experiments for them: the metrics, guidance, tooling and protocols that let them move quickly without sacrificing rigour.&lt;/p&gt;\n&lt;p&gt;You will also lead the measurement problems a standard A/B test cannot answer, where traffic is limited, users compete for the same supply, or the outcomes that matter take months to appear.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;You will:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Own the experimentation and measurement strategy for your domain, from how questions are framed through to how decisions are made and reviewed.&lt;/li&gt;\n&lt;li&gt;Provide the guidance, tooling and protocols that improve your partner teams&#39; experimentation velocity without sacrificing rigour.&lt;/li&gt;\n&lt;li&gt;Lead the design of experiments where a standard A/B test is not sufficient, including low-traffic surfaces, users competing for the same supply, long-horizon or censored outcomes, and changes that cannot be cleanly randomised.&lt;/li&gt;\n&lt;li&gt;Go beyond whether a change worked to why it worked and whether it generalises across users, markets and time.&lt;/li&gt;\n&lt;li&gt;Assess how the decisions your teams make affect platform health and growth, and raise it when short-term wins carry a longer-term cost.&lt;/li&gt;\n&lt;li&gt;Define and operationalise the metric framework for your domain, including guardrails and proxies for outcomes that take too long to observe directly.&lt;/li&gt;\n&lt;li&gt;Improve the sensitivity of measurement in your area through metric design, variance reduction and better exposure definition, so teams can detect the effects they care about in a realistic timeframe.&lt;/li&gt;\n&lt;li&gt;Standardise the recurring analytical and experimentation processes in your domain, using automation and AI capabilities where they improve consistency or save time.&lt;/li&gt;\n&lt;li&gt;Influence roadmap and prioritisation through evidence, including advocating against work when the evidence doesn&#39;t support it.&lt;/li&gt;\n&lt;li&gt;Raise technical quality in the teams you work with by reviewing experiment designs and analyses, and mentoring less experienced data scientists.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Skills &amp;amp; Experience:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Experience:&lt;/strong&gt; Extensive experience in data science or a similar quantitative role, with a proven track record of supporting and influencing a product organisation.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Statistical &amp;amp; Experimentation Expertise:&lt;/strong&gt; Authoritative command of experimentation in all its forms, from experimental design and variance reduction to causal inference, bandits and Bayesian methods. You should be able to develop and validate methodology, not only apply it.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Technical &amp;amp; Modelling Expertise:&lt;/strong&gt; Expert level proficiency in Python and SQL. Deep, hands-on experience with statistical modelling, (quasi) experimentation, multi-arm bandits, and a wide range of machine learning techniques such as regression, classification and clustering.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Product Acumen:&lt;/strong&gt; Demonstrated ability to define, implement and operationalise crucial product and feature-level metrics from scratch.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Partnership &amp;amp; Enablement:&lt;/strong&gt; Demonstrated ability to improve how other teams work by providing guidance, tooling and protocols, increasing both the speed and the quality of their experimentation rather than absorbing the work yourself.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Decision Impact &amp;amp; Platform Health:&lt;/strong&gt; Ability to critically assess how product decisions affect platform health and growth over time, and to bring that perspective into how experiments are designed and interpreted.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Standardising at Scale:&lt;/strong&gt; Experience standardising processes, frameworks or methods across multiple teams, including the use of AI and automation to make good practice the default.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Cross-Functional Partnership:&lt;/strong&gt; Proven ability to build strong relationships and drive outcomes across Product, Engineering, Data Platform and other central functions, often without direct authority.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Critical Thinking:&lt;/strong&gt; Leader in critical thinking, with a demonstrated habit of establishing whether a result is trustworthy before establishing what it means.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Communication:&lt;/strong&gt; Exceptional ability to explain measurement, method and uncertainty clearly to technical and non-technical audiences at every level.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Education:&lt;/strong&gt; Bachelor&#39;s degree in Statistics, Mathematics, Data Science, Engineering, Physics, Economics, or a related quantitative field.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;You could be an especially great fit if you have:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience with experimentation in a marketplace, where interference between users and shared supply complicate measurement.&lt;/li&gt;\n&lt;li&gt;Experience with variance reduction beyond a single pre-period covariate, and a view on what works when the metric of interest is infrequent or heavy-tailed.&lt;/li&gt;\n&lt;li&gt;Experience building or validating proxy metrics for long-horizon outcomes.&lt;/li&gt;\n&lt;li&gt;Exposure to Bayesian approaches, particularly for low-traffic surfaces or pooling evidence across small markets.&lt;/li&gt;\n&lt;li&gt;Experience with SaaS experimentation tools such as Statsig, Eppo or GrowthBook, or with an in-house platform.&lt;/li&gt;\n&lt;li&gt;Experience in a high-scale marketplace, e-commerce or travel platform, and familiarity with the seasonality and long purchase cycles that come with them.&lt;/li&gt;\n&lt;li&gt;Experience improving experimentation practice at team or organisational level through frameworks, tooling or enablement.&lt;/li&gt;\n&lt;li&gt;Experience applying AI or Large Language Model capabilities to improve analytical throughput and experimentation quality.&lt;/li&gt;\n&lt;li&gt;Experience with SaaS experimentation tools such as Statsig, Eppo or GrowthBook, or with an in-house platform.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;We strive to create an accessible and inclusive experience for all candidates. If you need a reasonable accommodation during the application or the recruiting process, please make sure to reach out to your individual recruiter or our team at &lt;strong&gt;AccessibleRecruiting@tripadvisor.com&lt;/strong&gt;.&lt;/p&gt;\n&lt;p&gt;If you have any additional questions about careers at Tripadvisor you can email us at&amp;nbsp;&lt;strong&gt;recruitment@tripadvisor.com&lt;/strong&gt;. We have all the answers!&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;#LI-Hybrid&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;#LI-SM1&lt;/em&gt;&lt;/p&gt;",
+  "departments": [
+    {
+      "id": 6064,
+      "name": "Data Science and Analytics",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 2765,
+      "name": "London, United Kingdom",
+      "location": "London, England, United Kingdom",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

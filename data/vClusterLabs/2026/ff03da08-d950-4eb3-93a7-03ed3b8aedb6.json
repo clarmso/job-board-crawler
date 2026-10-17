@@ -53,15 +53,6 @@
             "maxValue": null
           },
           {
-            "id": "0b59ad4f-6206-4bcb-98f2-ece39dff4dad",
-            "summary": "Offers Commission",
-            "compensationType": "Commission",
-            "interval": "1 YEAR",
-            "currencyCode": "SGD",
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "5ae83931-04ea-46b5-a432-81185de71081",
             "summary": "On Target Earnings SGD 270K – SGD 320K",
             "compensationType": "Salary",
@@ -69,6 +60,15 @@
             "currencyCode": "SGD",
             "minValue": 270000,
             "maxValue": 320000
+          },
+          {
+            "id": "0b59ad4f-6206-4bcb-98f2-ece39dff4dad",
+            "summary": "Offers Commission",
+            "compensationType": "Commission",
+            "interval": "1 YEAR",
+            "currencyCode": "SGD",
+            "minValue": null,
+            "maxValue": null
           }
         ]
       }
@@ -82,18 +82,18 @@
         "maxValue": null
       },
       {
-        "compensationType": "Commission",
-        "interval": "1 YEAR",
-        "currencyCode": "SGD",
-        "minValue": null,
-        "maxValue": null
-      },
-      {
         "compensationType": "Salary",
         "interval": "1 YEAR",
         "currencyCode": "SGD",
         "minValue": 270000,
         "maxValue": 320000
+      },
+      {
+        "compensationType": "Commission",
+        "interval": "1 YEAR",
+        "currencyCode": "SGD",
+        "minValue": null,
+        "maxValue": null
       }
     ]
   }

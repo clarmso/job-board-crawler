@@ -57,15 +57,6 @@
             "maxValue": null
           },
           {
-            "id": "d1d8ad43-c2b4-42b4-a05a-313007f60f18",
-            "summary": "Estimated Base Salary €90K – €105K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "EUR",
-            "minValue": 90000,
-            "maxValue": 105000
-          },
-          {
             "id": "b2a175c1-9abf-4487-bed1-8c0768efa3d9",
             "summary": "Offers Bonus",
             "compensationType": "Bonus",
@@ -73,6 +64,15 @@
             "currencyCode": "EUR",
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "d1d8ad43-c2b4-42b4-a05a-313007f60f18",
+            "summary": "Estimated Base Salary €90K – €105K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "EUR",
+            "minValue": 90000,
+            "maxValue": 105000
           }
         ]
       },
@@ -82,6 +82,15 @@
         "title": "United Kingdom",
         "additionalInformation": null,
         "components": [
+          {
+            "id": "9031c958-7eaf-48e3-b185-f22bdde170b0",
+            "summary": "Offers Bonus",
+            "compensationType": "Bonus",
+            "interval": "1 YEAR",
+            "currencyCode": "EUR",
+            "minValue": null,
+            "maxValue": null
+          },
           {
             "id": "b1a55aa2-8fbe-48d9-bde0-0dc9d0abcbb4",
             "summary": "Offers Equity",
@@ -99,15 +108,6 @@
             "currencyCode": "EUR",
             "minValue": 90000,
             "maxValue": 105000
-          },
-          {
-            "id": "9031c958-7eaf-48e3-b185-f22bdde170b0",
-            "summary": "Offers Bonus",
-            "compensationType": "Bonus",
-            "interval": "1 YEAR",
-            "currencyCode": "EUR",
-            "minValue": null,
-            "maxValue": null
           }
         ]
       }
@@ -120,17 +120,17 @@
         "interval": "1 YEAR"
       },
       {
+        "compensationType": "Bonus",
+        "minValue": null,
+        "maxValue": null,
+        "interval": "1 YEAR"
+      },
+      {
         "minValue": 90000,
         "maxValue": 105000,
         "currencyCode": "EUR",
         "interval": "1 YEAR",
         "compensationType": "Salary"
-      },
-      {
-        "compensationType": "Bonus",
-        "minValue": null,
-        "maxValue": null,
-        "interval": "1 YEAR"
       }
     ]
   }

@@ -189,15 +189,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "692a5c75-70ee-4bfb-81da-d20a5eb9a63f",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "85eeb725-0cd4-463e-af57-6505a6fbc78c",
             "summary": "OTE €110K – €149.5K",
             "compensationType": "Salary",
@@ -214,6 +205,15 @@
             "currencyCode": "EUR",
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "692a5c75-70ee-4bfb-81da-d20a5eb9a63f",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           }
         ]
       },
@@ -224,13 +224,13 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "c2900ca4-73d0-4d4e-b247-687d70ef0273",
-            "summary": "OTE £144.5K – £195.5K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "GBP",
-            "minValue": 144500,
-            "maxValue": 195500
+            "id": "9a8abd06-5486-4818-9804-54ac60bbb87a",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           },
           {
             "id": "e19ba716-cd5d-4b92-8343-7a70141546cc",
@@ -242,13 +242,13 @@
             "maxValue": null
           },
           {
-            "id": "9a8abd06-5486-4818-9804-54ac60bbb87a",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
+            "id": "c2900ca4-73d0-4d4e-b247-687d70ef0273",
+            "summary": "OTE £144.5K – £195.5K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "GBP",
+            "minValue": 144500,
+            "maxValue": 195500
           }
         ]
       },
@@ -258,15 +258,6 @@
         "title": "UK Tier 2 - Remote",
         "additionalInformation": null,
         "components": [
-          {
-            "id": "617c392f-dfba-4f15-becd-4caf1584eda3",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
           {
             "id": "f101a32a-537d-408b-b7bf-f945cfb2f906",
             "summary": "Offers Commission",
@@ -284,6 +275,15 @@
             "currencyCode": "GBP",
             "minValue": 127500,
             "maxValue": 172500
+          },
+          {
+            "id": "617c392f-dfba-4f15-becd-4caf1584eda3",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           }
         ]
       }

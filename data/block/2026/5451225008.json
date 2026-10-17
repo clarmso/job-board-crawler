@@ -1,0 +1,151 @@
+{
+  "absolute_url": "http://block.xyz/careers/jobs/5451225008?gh_jid=5451225008",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "education": "education_optional",
+  "internal_job_id": 4561323008,
+  "location": {
+    "name": "Bay Area, CA, United States of America"
+  },
+  "metadata": [
+    {
+      "id": 4185033008,
+      "name": "Career Site Function",
+      "value": "Software Engineering",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4185041008,
+      "name": "Brands",
+      "value": "Block",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4185056008,
+      "name": "Position open to remote",
+      "value": true,
+      "value_type": "yes_no"
+    },
+    {
+      "id": 4004901008,
+      "name": "Employee Type",
+      "value": "Regular",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4185035008,
+      "name": "Job Family Group",
+      "value": "Software Engineering - JFG",
+      "value_type": "single_select"
+    },
+    {
+      "id": 5039617008,
+      "name": "Business Unit",
+      "value": "Centralized Block",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4289626008,
+      "name": "Zone A Salary Range",
+      "value": {
+        "unit": "USD",
+        "max_value": "270000.0",
+        "min_value": "180000.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 4289627008,
+      "name": "Zone B Salary Range",
+      "value": {
+        "unit": "USD",
+        "max_value": "256600.0",
+        "min_value": "171000.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 4289628008,
+      "name": "Zone C Salary Range",
+      "value": {
+        "unit": "USD",
+        "max_value": "243000.0",
+        "min_value": "162000.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 4364919008,
+      "name": "Zone D Salary Range",
+      "value": {
+        "unit": "USD",
+        "max_value": "229600.0",
+        "min_value": "153000.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 4599884008,
+      "name": "Canada Zone A Pay Range",
+      "value": {
+        "unit": "CAD",
+        "max_value": "228500.0",
+        "min_value": "152300.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 4599885008,
+      "name": "Canada Zone B Pay Range",
+      "value": {
+        "unit": "CAD",
+        "max_value": "228500.0",
+        "min_value": "152300.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 14729580008,
+      "name": "EU Min to Max",
+      "value": null,
+      "value_type": "currency_range"
+    }
+  ],
+  "id": 5451225008,
+  "updated_at": "2026-10-16T15:49:11-04:00",
+  "requisition_id": "R0007132",
+  "title": "Engineering Manager - Finance & Supply Chain Engineering",
+  "company_name": "Block",
+  "first_published": "2026-10-16T15:49:11-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;Block is one company built from many blocks, all united by the same purpose of economic empowerment. The blocks that form our foundational teams — People, Finance, Counsel, Hardware, Information Security, Platform Infrastructure Engineering, and more — provide support and guidance at the corporate level. They work across business groups and around the globe, spanning time zones and disciplines to develop inclusive People policies, forecast finances, give legal counsel, safeguard systems, nurture new initiatives, and more. Every challenge creates possibilities, and we need different perspectives to see them all. Bring yours to Block.&lt;/p&gt;\n&lt;h4&gt;&lt;strong&gt;The Role&lt;/strong&gt;&lt;/h4&gt;\n&lt;p&gt;Block’s Business Platform Engineering organization powers the foundational systems that support financial operations across Square, Cash App, TIDAL, and Proto. We are building the next generation of financial and supply chain infrastructure that enables accurate reporting, operational efficiency, regulatory compliance, and strategic decision-making across Block.&lt;/p&gt;\n&lt;p&gt;As an Engineering Manager in Finance &amp;amp; Supply Chain Engineering, you will lead a team of engineers building mission-critical systems across areas such as Record-to-Report automation, financial planning and forecasting, tax and regulatory reporting, and supply chain planning and execution.&lt;/p&gt;\n&lt;p&gt;This is a unique opportunity to help shape a mostly greenfield team and platform from the ground up. You will help build agentic systems that run the business — systems that automate workflows, reason across financial and operational data, assist decision-making, and make critical business processes more efficient, reliable, and scalable.&lt;/p&gt;\n&lt;p&gt;You will have influence across the full spectrum: team culture, engineering practices, technical strategy, product direction, architecture, and implementation. You will be responsible for building and supporting a high-performing engineering team, shaping technical strategy, partnering closely with Finance, Accounting, Tax, Compliance, Product, and Operations stakeholders, and ensuring the team delivers reliable, scalable, and well-governed systems.&lt;/p&gt;\n&lt;h4&gt;&lt;strong&gt;You Will&lt;/strong&gt;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Lead and grow an engineering team: Manage, coach, and develop engineers across a range of experience levels; create clarity, accountability, and growth opportunities for the team.&lt;/li&gt;\n&lt;li&gt;Shape a greenfield platform: Help define the foundations for a new generation of financial and supply chain systems, including the team’s operating model, technical patterns, delivery practices, and long-term architecture.&lt;/li&gt;\n&lt;li&gt;Build agentic systems that run the business: Lead the development of intelligent, automated systems that streamline financial operations, coordinate business workflows, improve decision-making, and reduce manual operational burden.&lt;/li&gt;\n&lt;li&gt;Set technical direction: Partner with engineering leads and cross-functional stakeholders to define architecture, roadmap, and execution plans for financial and supply chain systems.&lt;/li&gt;\n&lt;li&gt;Drive execution: Translate ambiguous business needs into clear technical priorities, delivery plans, and measurable outcomes.&lt;/li&gt;\n&lt;li&gt;Partner cross-functionally: Work closely with Finance, Accounting, Tax, Compliance, Product, and Operations teams to understand business processes and build systems that support critical workflows.&lt;/li&gt;\n&lt;li&gt;Ensure reliability and operational excellence: Hold the team accountable for building well-tested, observable, secure, and resilient systems that support high-stakes financial operations.&lt;/li&gt;\n&lt;li&gt;Navigate complexity: Help the team make pragmatic decisions across legacy systems, integrations, data pipelines, regulatory requirements, agentic workflows, and evolving business needs.&lt;/li&gt;\n&lt;li&gt;Build engineering culture: Foster a collaborative, inclusive, and high-ownership team environment with strong engineering practices, healthy code review, documentation, and incident learning.&lt;/li&gt;\n&lt;li&gt;Develop people and leaders: Provide coaching, feedback, performance management, and career development for engineers; identify and grow future technical leaders&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;&lt;strong&gt;You Have&lt;/strong&gt;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;12+ years of software engineering experience, including 4+ years of experience leading or managing engineers.&lt;/li&gt;\n&lt;li&gt;Experience serving in a technical leadership role with responsibility for delivery, execution, and team health.&lt;/li&gt;\n&lt;li&gt;Strong technical judgment and the ability to guide architecture and design decisions across distributed systems, data-intensive applications, automation platforms, or business-critical systems.&lt;/li&gt;\n&lt;li&gt;Interest in building intelligent or agentic systems that automate complex workflows, improve decision-making, and help teams operate more effectively.&lt;/li&gt;\n&lt;li&gt;Experience partnering with non-technical stakeholders and translating complex business requirements into clear engineering priorities.&lt;/li&gt;\n&lt;li&gt;A track record of delivering reliable, well-tested, and maintainable systems in production.&lt;/li&gt;\n&lt;li&gt;Strong communication skills, with the ability to create alignment across engineering, product, finance, compliance, and operations teams.&lt;/li&gt;\n&lt;li&gt;Comfort operating in ambiguous domains where business process, regulatory requirements, and technical systems intersect.&lt;/li&gt;\n&lt;li&gt;A strong desire to build healthy teams, grow engineers, influence culture, and shape strategy from early-stage ideas through implementation&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;&lt;strong&gt;Technologies We Use and Teach&lt;/strong&gt;&lt;/h4&gt;\n&lt;p&gt;You do not need to have experience with every technology listed below, but familiarity with modern application, data, automation, and infrastructure patterns will help you be successful.&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Languages: Go, Ruby, JavaScript / TypeScript&lt;/li&gt;\n&lt;li&gt;Frameworks: Ruby on Rails, React&lt;/li&gt;\n&lt;li&gt;Databases: MySQL, Snowflake&lt;/li&gt;\n&lt;li&gt;Infrastructure: AWS, S3, Aurora, Docker&lt;/li&gt;\n&lt;li&gt;Orchestration: Temporal, Prefect&lt;/li&gt;\n&lt;li&gt;Testing: Unit tests, integration tests, RSpec, Vitest&lt;/li&gt;\n&lt;li&gt;Monitoring: Datadog, Sentry&lt;/li&gt;\n&lt;li&gt;Protocols: HTTP, JSON, gRPC&lt;/li&gt;\n&lt;li&gt;Emerging systems: Agentic workflows, AI-assisted automation, business process orchestration&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;We’re working to build a more inclusive economy where our customers have equal access to opportunity, and we strive to live by these same values in building our workplace. Block is an equal opportunity employer evaluating all employees and job applicants without regard to identity or any legally protected class. We will consider qualified applicants with arrest or conviction records for employment in accordance with state and local laws and “fair chance” ordinances.&lt;br&gt;&lt;br&gt;We believe in being fair, and are committed to an inclusive interview experience, including providing reasonable accommodations to disabled applicants throughout the recruitment process. We encourage applicants to share any needed accommodations with their recruiter, who will treat these requests as confidentially as possible. &lt;strong&gt;Want to learn more about what we’re doing to build a workplace that is fair and square? Check out our&lt;/strong&gt; &lt;a href=&quot;https://block.xyz/news/inclusion&quot;&gt;I+D page&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;While there is no specific deadline to apply for this role, U.S. roles are typically open for an average of 55 days before being filled by a successful candidate. Please refer to the date listed at the top of this job page for when this role was first posted.&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Block takes a market-based approach to pay, and pay may vary depending on your location. U.S. locations are categorized into one of four zones based on a cost of labor index for that geographic area. The successful candidate’s starting pay will be determined based on job-related skills, experience, qualifications, work location, and market conditions. These ranges may be modified in the future.&lt;/p&gt;\n&lt;p&gt;To find a location’s zone designation, please refer to this&amp;nbsp;&lt;a href=&quot;https://block.xyz/documents/salaryzones.pdf&quot; target=&quot;_blank&quot;&gt;resource&lt;/a&gt;. If a location of interest is not listed, please speak with a recruiter for additional information.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;Zone A:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$180,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$270,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;title&quot;&gt;Zone B: &lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$171,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$256,600 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;title&quot;&gt;Zone C:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$162,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$243,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;title&quot;&gt;Zone D:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$153,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$229,600 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;Application Guidelines&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Candidates may submit up to 9 active applications within a 60-day period. Reapplications to the same role are accepted 90 days after a previous application has been reviewed.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Use of AI in Our Hiring Process&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We may use automated AI tools to evaluate job applications for efficiency and consistency. These tools comply with local regulations, including bias audits, and we handle all personal data in accordance with state and local privacy laws.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Contact us &lt;a href=&quot;https://privacy.block.xyz/privacyportal/form&quot;&gt;here&lt;/a&gt;&amp;nbsp;with hiring practice or data usage questions.&lt;/p&gt;\n&lt;p&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;Every benefit we offer is designed with one goal: empowering you to do the best work of your career while building the life you want. Remote work, medical insurance, flexible time off, retirement savings plans, and modern family planning are just some of our offering.&amp;nbsp;&lt;/em&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;&lt;a class=&quot;c-link c-link--underline&quot; href=&quot;https://block.xyz/employee-benefits&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://block.xyz/documents/benefits.pdf&quot; data-sk=&quot;tooltip_parent&quot;&gt;Check out our other benefits at Block.&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Block, Inc. (NYSE: XYZ) builds technology to increase access to the global economy. Each of our brands unlocks different aspects of the economy for more people.&amp;nbsp;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Square&lt;/strong&gt;&amp;nbsp;makes commerce and financial services accessible to sellers.&amp;nbsp;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Cash App&lt;/strong&gt;&amp;nbsp;is the easy way to spend, send, and store money.&amp;nbsp;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Afterpay&lt;/strong&gt;&amp;nbsp;is transforming the way customers manage their spending over time.&amp;nbsp;&lt;strong data-stringify-type=&quot;bold&quot;&gt;TIDAL&lt;/strong&gt;&amp;nbsp;is a music platform that empowers artists to thrive as entrepreneurs.&amp;nbsp;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Bitkey&lt;/strong&gt;&amp;nbsp;is a simple self-custody wallet built for bitcoin.&amp;nbsp;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Proto&lt;/strong&gt;&amp;nbsp;is a suite of bitcoin mining products and services. Together, we’re helping build a financial system that is open to everyone.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;a href=&quot;https://block.xyz/en/legal/applicant-privacy-notice&quot; target=&quot;_blank&quot;&gt;Privacy Policy&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4069411008,
+      "name": "10416 Engineering - Business Platform",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 4007876008,
+      "name": "US - CA - SoCal - Remote",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 4004627008
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

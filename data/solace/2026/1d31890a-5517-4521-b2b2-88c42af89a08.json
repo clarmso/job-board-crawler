@@ -4,7 +4,7 @@
   "department": "Clinical",
   "team": "Clinical",
   "employmentType": "FullTime",
-  "location": "United States",
+  "location": "Minnesota",
   "shouldDisplayCompensationOnJobPostings": true,
   "secondaryLocations": [],
   "publishedAt": "2026-10-15T17:46:04.112+00:00",
@@ -13,7 +13,9 @@
   "workplaceType": "Remote",
   "address": {
     "postalAddress": {
-      "addressCountry": "United States"
+      "addressRegion": "Minnesota",
+      "addressCountry": "United States of America",
+      "addressLocality": ""
     }
   },
   "jobUrl": "https://jobs.ashbyhq.com/solace/1d31890a-5517-4521-b2b2-88c42af89a08",
