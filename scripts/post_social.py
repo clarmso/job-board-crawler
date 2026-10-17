@@ -26,6 +26,7 @@ Disable entirely by setting DISABLE_SOCIAL_POST=1 in the environment.
 
 import json
 import os
+import random
 import urllib.error
 import urllib.request
 from datetime import datetime, timedelta, timezone
@@ -203,6 +204,9 @@ def main():
         print("  [post_social] no newly-discovered jobs since last post; skipping")
         return
 
+    # Shuffle so the companies featured (and those dropped into "+N more")
+    # vary between posts, instead of always favoring early-alphabet names.
+    random.shuffle(company_names)
     message = _build_message(len(new_job_urls), company_names, SITE_URL)
     print(f"  [post_social] posting ({len(message)} chars): {message}")
 
